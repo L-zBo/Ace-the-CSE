@@ -1,0 +1,356 @@
+[
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小明每天从家中出发骑自行车经过一段平路，再经过一道斜坡后到达学校上课。某天早上，小明从家中骑车 出发，一到校门口就发现忘带课本，马上返回，从离家到赶回家中共用了 1 个小时，假设小明当天平路骑行速度 为 9 千米/小时，上坡速度为 6 千米/小时，下坡速度为 18 千米/小时，那么小明的家距离学校多远？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.5 千米"
+      },
+      {
+        "label": "B",
+        "content": "4.5 千米"
+      },
+      {
+        "label": "C",
+        "content": "5.5 千米"
+      },
+      {
+        "label": "D",
+        "content": "6.5 千米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：52%，易错项：C。\n\n解析\n\n第一步，本题考查行程问题，属于基本行程类。\n第二步，根据题意，小明从家到学校进行往返，上下坡距离相等，可利用等距离平均速度求得\n\n- 11 -\n\n\f千米/小时，由于平路速度也为 9 千米/小时，往返总时间是 1 小时，故往返总路\n\n程为 9×1＝9 千米，则小明的家距离学校 9÷2=4.5 千米。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第46题",
+    "region": "guangxi"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵可成功完成突击任务，那么成功完成突击任务的概率有多大？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "10人小分队里有6人是特种兵，则另外4人是非特种兵，派出5人参战，共有种组合情况。\n若不能成功完成突击任务，则5名参战队员中只有1名特种兵或2名特种兵，共有种组合情况。\n则成功完成突击任务的概率。\n故正确答案为D。\n\n[来源 baijing1.top paperId=369 sort=47 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第47题",
+    "region": "guangxi",
+    "questionImage": "/img/questions/provincial_guangxi_2020/q047.png"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某学习平台的学习内容由观看视频、阅读文章、收藏分享、论坛交流、考试答题五个部分组成。某学员要先 后学完这五个部分，若观看视频和阅读文章不能连续进行，该学员学习顺序的选择有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24 种"
+      },
+      {
+        "label": "B",
+        "content": "72 种"
+      },
+      {
+        "label": "C",
+        "content": "96 种"
+      },
+      {
+        "label": "D",
+        "content": "120 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n第一步，本题考查排列组合问题，用插空法解题。\n\n第二步，观看视频和阅读文章不能连续进行，先把收藏分享、论坛交流和考试答题排列好，共有 ＝6（种）方\n\n式，这三部分形成 4 个空，需在 4 个空中插入“观看视频”和“阅读文章”，有 ＝12（种）方式，那么共有\n6×12＝72（种）学习顺序。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第48题",
+    "region": "guangxi"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙、丙三人去超市买了 100 元的商品，如果甲付钱，那么甲剩下的钱是乙、丙两人钱数之和的 2/13； 如果乙付钱，则乙剩下的钱是甲、丙两人钱数之和的 9/16；如果丙付钱，丙用他的会员卡可享受 9 折优惠，结 果丙剩下的钱是甲、乙两人钱数之和的 1/3；那么，甲、乙、丙三人开始时一共带了多少钱？",
+    "options": [
+      {
+        "label": "A",
+        "content": "850 元"
+      },
+      {
+        "label": "B",
+        "content": "900 元"
+      },
+      {
+        "label": "C",
+        "content": "950 元"
+      },
+      {
+        "label": "D",
+        "content": "1000 元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：10%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查基础应用题，用数字特性法求解。\n\n第二步，根据“如果甲付钱，那么甲剩下的钱是乙、丙两人钱数之和的\n”可知，三人总钱数-100 后剩下的\n总钱数应该是 15 的倍数，则选项-100 后不能整除 15 的即可排除，排除 B、C；根据“如果乙付钱，那么乙剩下\n\n的钱是甲、丙两人钱数之和的 ”可知，三人总钱数-100 后剩下的总钱数应该是 25 的倍数，则选项-100 后不\n能整除 25 的即可排除，剩下的选项中 A、D 都满足此条件，暂且均保留；根据“丙付钱可享受 9 折优惠，丙剩下\n\n的钱是甲、乙两人钱数之和的 ”可知，三人总钱数-90 后剩下的总钱数应该是 4 的倍数，A 和 D 选项中只有 A\n满足条件。\n因此，选择 A 选项。\n解法二：\n第一步，本题考查基础应用题，用方程法解题。\n\n第二步，设三人共带了 x 元，由甲剩下的钱是乙丙的 ，那么甲剩下的钱是剩余总数 x-100 的 ；同理乙剩\n\n下的钱是剩余总数 x-100 的 ，丙打 9 折只需要 90 元，那么丙剩下的钱是剩余总数 x-90 的 。由此可列出方\n\n程：\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第49题",
+    "region": "guangxi"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小王在荡秋千，当秋千摆角为 30°时，它摆到最高位置与最低位置的高度差为 0.45 米。小王为寻求更大的 刺激感，将秋千摆角增加 15°，则秋千能摆到的最高位置约上升了多少米？（ ， ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.15 米"
+      },
+      {
+        "label": "B",
+        "content": "0.24 米"
+      },
+      {
+        "label": "C",
+        "content": "0.37 米"
+      },
+      {
+        "label": "D",
+        "content": "0.41 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：10%，易错项：C。\n\n解析\n\n，解得 x=850。\n\n第一步，本题考查几何问题，属于其他几何类问题。\n第二步，根据题意，秋千的摆绳长度是固定的，假设其长度为 l，秋千摆角为 30°时，则根据 30°直角三角形\n\n- 12 -\n\n\f性质可得，\n\n米，解得 l＝3 米；秋千摆角增加 15°时，根据 45°直角三角形性质可得，\n\n米，因此秋千摆到最高位置上升了 0.86－0.45＝0.41 米。\n\n因此，选择 D 选项。\n\n拓展\n\n30°，60°，90°直角三角形边长比例关系：1∶√3∶2\n45°，45°，90°直角三角形边长比例关系：1∶1∶√2",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第50题",
+    "region": "guangxi"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某社区拟对一块梯形活动场地进行扩建，经测算，如果将梯形的上底边增加 1 米，下底边增加 1 米，则面积 将扩大 10 平方米；如果将梯形的上底边增加 1 倍，下底边增加 1 米，则面积将扩大 55 平方米；如果将上底边增 加 1 米，下底边增加 1 倍，则面积将扩大 105 平方米。现拟将梯形的上底边增加 1 倍还多 2 米，下底边增加 3 倍 还多 4 米，则面积将扩大多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "280 平方米"
+      },
+      {
+        "label": "B",
+        "content": "380 平方米"
+      },
+      {
+        "label": "C",
+        "content": "420 平方米"
+      },
+      {
+        "label": "D",
+        "content": "480 平方米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：40%，易错项：C。\n\n解析\n\n第一步，本题考查几何问题，属于平面几何类。\n第二步，设梯形的上底、下底、高分别为 a、b、h，根据“面积将扩大 10 平方米”可得\n\n，解得 h＝10（米）；根据“面积将扩大 55 平方米”可得\n\n，解得 a＝10（米）；根据“面积将扩大 105 平方米”可得\n\n第三步，如果上底增加 1 倍多 2 米变为 22 米，下底边增加 3 倍多 4 米变为 84 米，则面积将扩\n\n，解得 b＝20（米）。\n\n大\n因此，选择 B 选项。\n\n（平方米）。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第51题",
+    "region": "guangxi"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某电商平台每隔 5 千米有一座仓库，共有 A、B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A"
+      },
+      {
+        "label": "B",
+        "content": "仓库 B"
+      },
+      {
+        "label": "C",
+        "content": "仓库 C"
+      },
+      {
+        "label": "D",
+        "content": "仓库 D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：57%，易错项：B。\n\n解析\n\n第一步，本题考查其他杂题。\n第二步，以 B、C 中间为界，左边货物（A 和 B）共有 10＋20＝30（吨），右边货物（C 和 D）共有 15＋25＝40\n（吨），左边货物较轻，所以将左边的货物往右边移动，A、B 货物均移到 C，此时 C 点共有货物 30＋15＝45（吨）。\n第三步，以 C、D 中间为界，C 点货物有 45 吨，D 点货物有 25 吨，D 点货物较轻，所以将 D 点货物移动到 C 点，\n使得运费最少，故将货物集中在 C 仓库。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第52题",
+    "region": "guangxi",
+    "questionImage": "/img/questions/provincial_guangxi_2020/q052.png"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%，那 么，该单位职工小张种植 3 棵树苗，至少成活 2 棵的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "植树成活的概率为，即，则死亡的概率为。小张种植了3棵树苗，至少成活2棵包含2种情况，分类讨论如下：\n（1）成活2棵的概率为：；\n（2）成活3棵的概率为：；\n分类用加法，则至少成活2棵的概率为。\n故正确答案为D。\n\n[来源 baijing1.top paperId=369 sort=53 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第53题",
+    "region": "guangxi",
+    "questionImage": "/img/questions/provincial_guangxi_2020/q053.png"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在屋内墙角处堆放稻谷（如图，谷堆为一个圆锥的四分之一），谷堆底部的弧长为 6 米，高为 2 米，经过一 夜发现谷堆在重力作用下底部的弧长变为 8 米，若谷堆的谷量不变那么此时谷堆的高为： - 7 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "米"
+      },
+      {
+        "label": "B",
+        "content": "米"
+      },
+      {
+        "label": "C",
+        "content": "米"
+      },
+      {
+        "label": "D",
+        "content": "米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：16%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查几何问题，用比例法解题。\n第二步，变化前后谷量不变，也就是体积不变。由谷堆为一个圆锥的四分之一，变化前后圆锥半径之比与弧长之\n比一致，都为 6∶8=3∶4，根据几何放缩性质可知底面积之比为 9∶16，变化前后体积不变则高之比为反比，即\n\n16∶9。变化前谷堆高为 2，变化后高为\n\n。\n\n- 13 -\n\n\f因此，选择 A 选项。\n解法二：\n第一步，本题考查几何问题。\n第二步，由于谷堆是一个圆锥的四分之一，所以底面弧长应为底面圆周长的四分之一。当底面弧长是 6 米时，底\n\n面周长应为 24 米，根据周长公式 C=2πr，\n\n，则此谷堆的体\n\n积\n\n；当底面弧长是 8 米时，底面周长应为 32 米;根据周长公式 C=2\n\nπr ，\n\n，则此谷堆的体积\n\n；根据谷堆谷量不变，即\n\n体积不变，可知\n因此，选择 A 选项。\n\n，解得 h= 。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第54题",
+    "region": "guangxi",
+    "questionImage": "/img/questions/provincial_guangxi_2020/q054.png"
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2020-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某会展中心布置会场，从花卉市场购买郁金香、月季花、牡丹花三种花卉各 20 盆，每盆均用纸箱打包好装 车运送至会展中心，再由工人搬运至布展区。问至少要搬出多少盆花卉才能保证搬出的鲜花中一定有郁金香？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20 盆"
+      },
+      {
+        "label": "B",
+        "content": "21 盆"
+      },
+      {
+        "label": "C",
+        "content": "40 盆"
+      },
+      {
+        "label": "D",
+        "content": "41 盆 第四部分 判断推理"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：40%，易错项：B。\n\n解析\n\n第一步，本题考查最值问题，属于最不利构造。\n第二步，根据“至少……保证……”可知本题为最不利构造，答案为“所有最不利情况+1”。要求搬出的鲜花中\n一定有郁金香，最不利的情况是把所有月季花、牡丹花都搬出来，即搬出 20+20=40（盆）。在此基础上再搬 1\n盆，就能够保证搬出的鲜花中一定有郁金香，即至少要搬出 40+1=41（盆）。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangxi行测第55题",
+    "region": "guangxi"
+  }
+]

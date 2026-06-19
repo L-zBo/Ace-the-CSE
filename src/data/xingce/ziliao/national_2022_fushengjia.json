@@ -1,0 +1,704 @@
+[
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2019 年，中国 IC 先进封装市场规模约为多少亿元？",
+    "options": [
+      {
+        "label": "B",
+        "content": "279"
+      },
+      {
+        "label": "A",
+        "content": "296"
+      },
+      {
+        "label": "C",
+        "content": "252"
+      },
+      {
+        "label": "D",
+        "content": "235"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查现期比重计算中的求部分量。\n\n第二步，定位图形材料，2019 年 IC 封装市场规模为 2349.7 亿元，IC 先进封装市场规模占比为 12.58%。\n\n第三步，根据部分量=整体量×比重，代入数据可得 2019 年，中国 IC 先进封装市场规模为\n\n2349.7×12.58%≈2350× ≈294（亿元），A 选项最接近。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第116题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）“十三五”（2016—2020）年期间，中国 IC 封装市场总规模：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1.0 万亿元"
+      },
+      {
+        "label": "C",
+        "content": "在 1.1—1.2 万亿元之间"
+      },
+      {
+        "label": "B",
+        "content": "在 1.0—1.1 万亿元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 1.2 万亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查简单计算中的和差类。\n\n第二步，定位图形材料，2016—2020 年中国 IC 封装市场总规模分别为\n\n1564.3、1889.7、2193.9、2349.7、2478.9 亿元。\n\n第三步，和差类问题，对数据进行截位舍相同处理，代入数据得 2016—2020 年中国 IC 封装市场总规模约为\n\n156＋189＋219＋235＋248=200×5＋（－44－11＋19＋35＋48）=1000+47=1047，即 10470 亿元=1.047\n\n万亿元，在 B 选项范围内。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第117题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2012—2020 年，中国 IC 封装市场中 IC 先进封装市场规模占比同比提升 1 个百分点以上的年 份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查简单比较中的读数比较。\n\n第二步，定位图形材料中的折线图。\n\n第三步，直接读数可得 2012—2020 年，中国 IC 封装市场中 IC 先进封装市场规模占比同比提升 1 个百分点以上\n\n的有 2012 年（5.65%－4.12%＞1%）和 2015 年（9.91%－7.37%＞1%），共 2 个年份，其余年份均不符合。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第118题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2012—2020 年，中国 IC 封装市场规模同比增量最大的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年"
+      },
+      {
+        "label": "B",
+        "content": "2018 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2016 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查增长量做差比较。\n\n第二步，定位图形材料。\n\n第三步，根据增长量=现期量-基期量，本题是柱状图形式，要增长量最大，则柱状图高度差最大。观察可知，\n\n2017 年和 2018 年的高度差最大，对两年进行做差比较，截三位，2017 年增长量：189-156=33，2018 年增长\n\n量：219-189=30，因此，同比增长量最大的是 2017 年。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第119题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）已知 2020 年中国 IC 封装市场规模同比增长 x 亿元，IC 封装市场中 IC 先进封装市场规模占 比同比增长 y 个百分点，而 2020 年往后中国 IC 封装市场规模及 IC 先进封装市场规模占比每年都分别同比增 长 x 亿元和 y 个百分点，则到“十四五”最后一年（2025 年），中国 IC 先进封装市场规模将达到多少亿元?",
+    "options": [
+      {
+        "label": "A",
+        "content": "469"
+      },
+      {
+        "label": "B",
+        "content": "575"
+      },
+      {
+        "label": "C",
+        "content": "433"
+      },
+      {
+        "label": "D",
+        "content": "521 第 20 页 共 23 页"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第 60 页 共 64 页\n\n\f第一步，本题考查现期量计算。\n\n第二步，定位图形材料。\n\n第三步，根据增长量=现期量-基期量，由柱状图可知，2020 年中国 IC 封装市场规模同比增长 x 亿元，\n\nx=2478.9-2349.7≈2479-2350=129。由折线图可知，2020 年 IC 封装市场中的 IC 先进封装市场规模占比同比\n\n增长 y 个百分点，y=13.26-12.58=0.68。\n\n第四步，根据末期量=初期量+年均增长量×相差年数以及题干“2020 年往后中国 IC 封装市场规模及 IC 先进封装\n\n市场规模占比每年都分别增长 x 亿元和 y 个百分点”，则“十四五”最后一年，2025 年中国 IC 封装市场规模\n\n≈2479+129×5=2479+645=3124 亿元，2025 年 IC 先进封装市场规模占比\n\n=13.26%+0.68%×5=13.26%+3.4%=16.66%。根据部分量=整体量×比重，2025 年 IC 先进封装市场规模\n\n=3124×16.66%≈3124× ≈520（亿元），最接近 D 选项。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第120题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）表中所列食品类别中，2021 年第一季度所有抽检样本全部合格的有几类？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查简单比较中的读数比较。\n\n第二步，定位表格材料“抽检量”与“合格量”的数据。\n\n第三步，2021 年第一季度抽检样本全部合格，指的是抽检量=合格量，符合条件的有可可及焙烤咖啡产品（抽检\n\n量 251，合格量 251）、特殊医学用途配方食品（抽检量 88，合格量 88）、食品添加剂（抽检量 112、合格量\n\n112），共 3 个。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第121题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年第一季度市场监管部门食品安全监督抽检的总体不合格率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1%"
+      },
+      {
+        "label": "B",
+        "content": "1%—2％之间"
+      },
+      {
+        "label": "C",
+        "content": "2％—3％之间"
+      },
+      {
+        "label": "D",
+        "content": "3％以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查现期比值计算。\n\n第二步，定位表格材料最后一行“合计”数据。\n\n第三步，不合格率= \n\n，代入数据得\n\n ，数据较大，分母从左向\n\n右截取前三位，分子舍相同，得\n\n 。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第122题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年第一季度市场监管部门食品安全监督抽检量最多的 3 个食品类别，同期抽检不合格量 约是其余所有类别抽检不合格量的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5"
+      },
+      {
+        "label": "B",
+        "content": "0.8"
+      },
+      {
+        "label": "C",
+        "content": "1.3"
+      },
+      {
+        "label": "D",
+        "content": "1.9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查现期倍数计算。\n\n第二步，定位表格材料。\n\n第三步，2021 年第一季度市场监管部门食品安全监督抽检量最多的三个食品类别是食用农产品（169040）、餐\n\n饮食品（37795）、粮食加工品（23131）。根据抽检不合格量=抽检量-合格量，食用农产品、餐饮食品、粮食\n\n加工品同期抽检不合格总量是（169040-164905）+（37795-35986）+（23131-22751），数据较大，将最大\n\n数据从左向右截取前三位，其余舍相同，得（169-165）+（38-36）+（23-23）=6，约是其余所有类别抽检不\n\n倍，与 D 选项最接近。\n\n合格量的 \n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第123题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）将①肉制品、②乳制品和③蛋制品按 2021 年第一季度市场监管部门食品安全监督抽检合格率 从高到低排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "③②①"
+      },
+      {
+        "label": "B",
+        "content": "②③①"
+      },
+      {
+        "label": "C",
+        "content": "①②③"
+      },
+      {
+        "label": "D",
+        "content": "①③②"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查现期比重比较。\n\n第二步，定位表格材料。\n\n第三步，根据合格率=\n\n，比较类问题，截三位处理数据，可得①肉制品、②乳制品和③蛋制品的抽检合格\n\n第 61 页 共 64 页\n\n\f率分别约为\n\n、\n\n、\n\n，直除首三位商分别 983、998 和 991，则从高到低排列为②③①。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第124题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）关于 2021 年第一季度市场监管部门食品安全监督情况，以下信息能够从上述资料中推出的有 几项？ ①蔬菜、水果制品的总体抽检合格率高于 95% ②样品抽检量超过 1 万批次的食品类别有 12 个 ③糕点类食品的抽检合格量是不合格量的 50 倍以上",
+    "options": [
+      {
+        "label": "A",
+        "content": "0 项"
+      },
+      {
+        "label": "B",
+        "content": "1 项 B.D.3 项"
+      },
+      {
+        "label": "C",
+        "content": "2 项"
+      },
+      {
+        "label": "D",
+        "content": "第 21 页 共 23 页 2020 年，H 省秋粮玉米和稻谷的市场平均交易价格分别为 2.34 元/公斤和 2.74 元/公斤，分别比上年上涨"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查综合分析问题，且需选出说法正确的一项。\n\n第二步，①，现期比值计算。定位表格材料，“蔬菜制品抽检量 9241、合格量 8598；水果制品抽检量 5744、合\n\n格量 5611”，根据抽检合格率=\n\n ，数据截取前三位，代入公式得\n\n ，分母从左向右截\n\n取前 3 位，\n\n ，不到 95%，错误。\n\n②，读数比较。定位表格材料，样品抽检量超过 1 万批次的食品类别有粮食加工品（23131）、食用油、油脂及\n\n其制品（13879）、调味品（18862）、酒类（19091）、炒货食品及坚果制品（10678）、糕点（14517）、餐\n\n饮食品（37795）、食用农产品（169040）、肉制品（18104）、饮料（10515）、速冻食品（11620），合计\n\n11 个，错误。\n\n③，现期倍数计算。定位表格材料，糕点抽检量 14517、合格量 14214，则糕点类食品的抽检合格量是不合格量\n\n的 \n\n的有 0 个。\n\n倍，分母四舍五入截取前三位，分子舍相同，得\n\n ，错误。综上，正确\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第125题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2019 年，H 省秋粮稻谷的平均生产成本约为多少元/亩？",
+    "options": [
+      {
+        "label": "A",
+        "content": "439"
+      },
+      {
+        "label": "B",
+        "content": "450"
+      },
+      {
+        "label": "C",
+        "content": "533"
+      },
+      {
+        "label": "D",
+        "content": "548"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查基期量计算。\n\n第二步，定位表格可知“2020 年，H 省秋粮稻谷平均生产成本 525.7 元/亩，同比下降 4.0%”。\n\n第三步，根据公式\n\n，可得 2019 年，秋粮稻谷平均生产成本为\n\n，根据丨－4%丨\n\n＜5%，利用公式法化除为乘，\n\n（元/亩），与 D 选项最接近。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第126题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）将 2020 年 H 省秋粮机耕、机播、机收、排灌成本按同比增量从高到低的顺序排列，以下正确 的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "机收、排灌、机耕、机播"
+      },
+      {
+        "label": "C",
+        "content": "机耕、机播、排灌、机收"
+      },
+      {
+        "label": "B",
+        "content": "机耕、机播、机收、排灌"
+      },
+      {
+        "label": "D",
+        "content": "机收、排灌、机播、机耕"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查增长量比较。\n\n第二步，定位表格可知“2020 年秋粮机耕成本 22.1 元/亩，同比增长 0.3%；机播成本 21.7 元/亩，同比下降 1.1%；\n\n机收成本 62.3 元/亩，同比下降 2.0%；排灌成本 24.3 元/亩，同比下降 12.0%”。\n\n第三步，由于机播成本、机收成本、排灌成本均比去年有所下降，故增量最高的是机耕成本，结合选项，排除\n\nA、D。分析 B、C 可知，只需比较机收成本和排灌成本的增量即可，根据增长量比较口诀“大大则大，一大一小\n\n看乘积”，可知排灌成本现期量×增长率的绝对值较大，则排灌成本减少量高于机收成本减少量，故机收成本的增\n\n量高于排灌成本增量，排除 C 选项。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第127题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年，H 省秋粮玉米和稻谷的亩产与上年相比：",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅稻谷亩产高于上年水平"
+      },
+      {
+        "label": "C",
+        "content": "两者亩产均高于上年水平"
+      },
+      {
+        "label": "B",
+        "content": "仅玉米亩产高于上年水平"
+      },
+      {
+        "label": "D",
+        "content": "两者亩产均低于上年水平"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查两期平均数比较。\n\n第二步，定位文字材料“2020 年,H 省秋粮玉米和稻谷的市场平均交易价格分别为 2.34 元/公斤和 2.74 元/公斤，\n\n分别比上年上涨 28.6%和 8.7%。按此价格测算，2020 年全省农户种植玉米、稻谷扣除成本前的产值分别为",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第128题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）如种植收益=产值－生产成本，则 2020 年 H 省秋粮稻谷平均每亩的种植收益约是玉米的多少 倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.9"
+      },
+      {
+        "label": "B",
+        "content": "1.6"
+      },
+      {
+        "label": "C",
+        "content": "0.7"
+      },
+      {
+        "label": "D",
+        "content": "0.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查现期倍数计算。\n\n第二步，定位表格材料，秋粮稻谷生产成本为 525.7 亿元，玉米生产成本为 430.5 亿元；定位文字材料“2020 年\n\n全省农户种植玉米、稻谷扣除成本前的产值分别为 957.1 元/亩、1520.7 元/亩”。\n\n第三步，根据种植收益=产值－生产成本以及倍数公式，选项首位相同第二位不同，分母从左向右截取前三位，分\n\n子减法计算考虑截位舍相同，代入数据可得\n\n，直除首两位商 18，与 A 选项最接近。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第129题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年，H 省农民老王在承包地中种植秋粮玉米，按全省平均生产成本估算，他在种子和农 药上需要花费 2000 元。如亦按全省平均生产成本估算，他需要花费的人工成本在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 2000 元"
+      },
+      {
+        "label": "B",
+        "content": "2000—2500 元之间 B.D.超过 3000 元"
+      },
+      {
+        "label": "C",
+        "content": "2500—3000 元之间"
+      },
+      {
+        "label": "D",
+        "content": "2020 年 12 月，C 市天然气用量为 9.67 亿立方米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查现期平均数计算。\n\n第二步，定位表格材料，玉米的种子生产成本 48.5 元/亩、农药生产成本 25.6 元/亩、人工成本 104.4 元/亩。\n\n第三步，根据平均生产成本=总成本÷亩数，数据本身不大，简单取整，可得老王的土地亩数为\n\n亩，则需要的人工成本为 27×104.4≈27×100+27×4.4≈2700+108≈\n\n元，在 C 选\n\n项范围内。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第130题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年 1 月，C 市天然气用量比上月：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增加了 0.2 亿立方米以上"
+      },
+      {
+        "label": "C",
+        "content": "减少了 0.2 亿立方米以上"
+      },
+      {
+        "label": "B",
+        "content": "减少了不到 0.2 亿立方米"
+      },
+      {
+        "label": "D",
+        "content": "增加了不到 0.2 亿立方米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查简单计算中的和差类。\n\n第二步，定位文字材料第一、三、四段，“2020 年 12 月，C 市天然气用量为 9.67 亿立方米”“2021 年 2 月，\n\nC 市天然气用量为 9.31 亿立方米”“2021 年 1—2 月，C 市天然气用量为 19.21 亿立方米”。\n\n第三步，2021 年 1 月=2021 年 1—2 月-2021 年 2 月，数据较为简单不再截位，直接代入计算，则 2021 年 1\n\n月 C 市天然气用量为 19.21-9.31=9.9 亿立方米。那么 2021 年 1 月 C 市天然气用量比上月（2020 年 12 月）增\n\n加了 9.9-9.67=0.23 亿立方米，在 A 选项范围内。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第131题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年，中石化供气量占 C 市天然气用量的比重比上年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了不到 3 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "减少了 3 个百分点以上"
+      },
+      {
+        "label": "B",
+        "content": "增加了不到 3 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "增加了 3 个百分点以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查两期比重计算。\n\n第二步，定位文字材料第二段，“2020 年，C 市天然气用量为 107.47 亿立方米，同比增长 3.83%。其中……中\n\n石化供应 33.51 立方米，同比增长 8.8%”。\n\n第三步，根据两期比重比较口诀，部分增速 a＞整体增速 b，比重上升，反之则下降。中石化供气量同比增速\n\na（8.8%）＞天然气用量同比增速 b（3.83%），比重上升，排除 A、C 选项。两期比重差应＜|a-b|=4.97%，不\n\n能排除选项。将数据简单取整，代入两期比重差公式\n\n ，即增\n\n加了不到 3 个百分点。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第132题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2019—2020 年，C 市 CNG 用气总量约为多少亿立方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "17"
+      },
+      {
+        "label": "C",
+        "content": "11"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查基期量计算。\n\n第二步，定位文字材料第二段，“（2020 年 C 市）CNG 用气 6.99 亿立方米，同比下降 13.92%”。\n\n第 63 页 共 64 页\n\n\f第三步，根据基期量= \n\n，选项数据首位相同，第二位不同，将分母从左向右截取前三位，代入可得\n\n2019 年 C 市 CNG 用气总量约为\n\n量约为 8.1+6.99≈15 亿立方米。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第133题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）以下哪个饼图最能准确反映 2021 年 1—2 月 C 市天然气用量中，民用气（白色）、CNG 用气 （黑色）和工业用气（斜线）的占比关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "如上图所示"
+      },
+      {
+        "label": "B",
+        "content": "如上图所示"
+      },
+      {
+        "label": "C",
+        "content": "如上图所示"
+      },
+      {
+        "label": "D",
+        "content": "如上图所示"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查比重比较。\n\n亿立方米。则 2019—2020 年，C 市 CNG 用气总\n\n第二步，定位文字材料最后一段，“2021 年 1—2 月，C 市天然气用量为 19.21 亿立方米……从用气结构看：民\n\n用气为 7.78 亿立方米，同比增长 12.75%；CNG 用气 1.14 亿立方米，同比增长 44.3%；工业用气 10.29 亿立方\n\n米，同比增长 10.17%”。\n\n第三步，首先根据民用气用量（7.78）和工业用气用量（10.29）相差不到 1 倍，排除 A、C 选项；其次根据民用\n\n气用量少于工业用气用量，排除 B 选项。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第134题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2022_fushengjia/q134.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-fushengjia-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）以下柱状图反映了 C 市天然气 2020 年 12 月—2021 年 2 月间哪一数值的变化趋势？",
+    "options": [
+      {
+        "label": "A",
+        "content": "中石油供气量"
+      },
+      {
+        "label": "B",
+        "content": "中石化供气量"
+      },
+      {
+        "label": "C",
+        "content": "民用气用量"
+      },
+      {
+        "label": "D",
+        "content": "工业用气用量 第 23 页 共 23 页"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步 ，本题考查和差比较。\n\n第二步，定位文字材料第一、三、四段。\n\n第三步，A 选项，中石油：2021 年 1 月供气量为 14.23－6.7＝7.53 亿立方米，2 月供气量为 6.7 亿立方米，与\n\n柱状图中 1 月数值小于 2 月数值不符，排除；B 选项，中石化：2020 年 1 月供气量为 4.98－2.61＝2.37 亿立方\n\n米，2 月供气量为 2.61 亿立方米，2020 年 12 月供气量为 2.45 亿立方米，符合柱状图趋势；C 选项，民用气：\n\n2021 年 1 月用量为 7.78－3.56＝4.22 亿立方米，2 月用量为 3.56 亿立方米，与柱状图不符，排除；D 选项，工\n\n业用气：2021 年 1 月用量为 10.29－5.23＝5.06 亿立方米，2 月用量为 5.23 亿立方米，2020 年 12 月用量为",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第135题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2022_fushengjia/q135.png"
+  }
+]

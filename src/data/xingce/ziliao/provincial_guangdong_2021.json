@@ -1,0 +1,527 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年 G 省平均每个农业科研和科技开发机构的高级职称人数最接近（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "18.5"
+      },
+      {
+        "label": "B",
+        "content": "20.5"
+      },
+      {
+        "label": "C",
+        "content": "22.5"
+      },
+      {
+        "label": "D",
+        "content": "24.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案是：A\n解析\n位文字材料可得：“2019年G省共有农业科研和科技开发机构68个：：：：：·其中1254人有高级职称”。\n- 19 -\n高级职称人数1254\n故平均每个农业科研和科技开发机构的高级职称人数二\n机构数量\n68≈18.4，与A项最为接近。\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第86题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2018 年，G 省农业科研和科技开发机构从事科技活动人员数占职工人数比重约为（ ）。 - 11 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "60%"
+      },
+      {
+        "label": "B",
+        "content": "70%"
+      },
+      {
+        "label": "C",
+        "content": "80%"
+      },
+      {
+        "label": "D",
+        "content": "90%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案是：C\n解析\n根据题干“2018年，·．．·．·占··．．．·比重约为”，结合表格材料2018年数据均已给出，可判定本\n题为现期比重问题。定位表格材料可得：2018年从事科技活动人员3432人，职工人数4289人。故从事科技活\n从事科技活动人员数34323432\n动人员数占职工人数比重\n职工人数\n4289~4333≈80%。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第87题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2015-2019 年，G 省农业科研和科技开发机构课题投入经费平均每年增加（ ）万元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3152"
+      },
+      {
+        "label": "B",
+        "content": "4615"
+      },
+      {
+        "label": "C",
+        "content": "5517"
+      },
+      {
+        "label": "D",
+        "content": "7890"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案是：B\n解析\n根据题干“2015-2019年，G省······平均每年增加······万元”，可判定本题为年均增长量计算\n问题。定位表格材料可得：2015年课题投入经费50350万元，2019年课题投入经费68810万元。根据公式：年\n现期量一基期量\n68810 -50350_18460\n4600万元，\n均增长量\n年份差\n，则2015-2019年，课题投入经费平均每年增加2019－2015\n4\n与B项最为接近。\n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第88题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2015-2019 年，G 省农业科研和科技开发机构发表科学论文篇数最多的一年是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015 年"
+      },
+      {
+        "label": "B",
+        "content": "2016 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2019 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案是：C\n解析\n定位表格材料可知，2015-2019年，G省农业科研和科技开发机构发表科学论文篇数依次为1519篇、1680篇、\n1891篇、1383篇、1862篇，因此发表科学论文篇数最多的一年为2017年。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第89题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "根据资料，下列关于 G 省的说法正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年科普示范社区（村）数是科普示范街道（乡镇）的十倍以上"
+      },
+      {
+        "label": "B",
+        "content": "2015-2019 年农业科研和科技开发机构科技活动课题数逐年增加"
+      },
+      {
+        "label": "C",
+        "content": "2019 年农业科研和科技开发机构国外发表科学论文比 2015 年多 266 篇"
+      },
+      {
+        "label": "D",
+        "content": "2015-2019 年，农业科研和科技开发机构科技论著每年都超过 40 种 材料 2（杨柳【微信：gwy288】）提示：华图、中公、粉笔等机构题库，该段材料缺失状态，这里参考必胜 公考整理。真实性有待核实。 智能机器人产业是 G 省战略性新兴产业之一。2020 年前三季度，G 省智能机器人产业纳入规模以上工业统计 的法人单位共 140 家"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案是：C\n解析\nA项：定位文字材料可得：2019年G省共有科普示范街道（乡镇）145个、科普示范社区（村）1341个。则两者\n1341\nB项：定位表格材料可得：2015-2019年农业科研和科技开发机构科技活动课题数依次为1688个、1813个、1918\n个、1631个、2286个，2018年科技活动课题数少于2017年，不满足逐年增加，错误；\nC项：定位表格材料可得：2015年国外发表科学论文339篇，2019年国外发表科学论文605篇。两者相差\n605-339=266篇，正确；\nD项：定位表格材料可得：2015-2019年农业科研和科技开发机构科技论著依次为41种、49种、44种、43种、\n32种，2019年科技论著小于40种，错误。\n故正确答案为C。\n91--95答案D.C.C.B.A\n提示：华图、中公、粉笔等机构题库，该段材料缺失状态，91-95真题这里参考必胜公考整理。真实性有待核实\n仅供参考。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第90题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-091",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年前三季度，G 省智能机器人产业中，四大行业总产值的同比增量排序正确的是（ ）。 ①工业机器人制造业 ②特殊作业工业机器人制造业 ③智能无人飞行器制造业 ④服务消费机器人制造业",
+    "options": [
+      {
+        "label": "A",
+        "content": "①＞③＞②＞④"
+      },
+      {
+        "label": "B",
+        "content": "④＞②＞①＞③"
+      },
+      {
+        "label": "C",
+        "content": "③＞④＞②＞①"
+      },
+      {
+        "label": "D",
+        "content": "③＞①＞②＞④"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题考查资料分析（增长量比较）。\n由表 1：①工业机器人制造业 76.88 亿元（同比 +57.4%），②特殊作业工业机器人制造业 2.77 亿元（+163.0%），③智能无人飞行器制造业 201.07 亿元（+31.7%），④服务消费机器人制造业 26.18 亿元（−22.8%）。\n④增速为负 → 增量为负，最小，排除 B、C。\n比较①③：增长量公式 Δ = 现期量 × r/(1+r)，③ ≈ 201.07 × 31.7%/1.317 ≈ 48.4 亿；① ≈ 76.88 × 57.4%/1.574 ≈ 28.0 亿。\n③ > ①，排序为 ③ > ① > ② > ④，对应 D 项。\n故正确答案为 D。\n[Source: xiaomaigongkao.com/Article/article_details/id/1000039171.html × xingguanggongkao.com/Wb/quesView/id/39191.html 双源校验]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第91题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-092",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年前三季度，G 省下列行业中，平均每个企业产值最高的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "工业机器人制造业"
+      },
+      {
+        "label": "B",
+        "content": "特殊作业工业机器人制造业"
+      },
+      {
+        "label": "C",
+        "content": "智能无人飞行器制造业"
+      },
+      {
+        "label": "D",
+        "content": "服务消费机器人制造业"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[OCR/PDF 数据极限-D10] 本题需要表 1 中各行业企业数量数据，原 PDF 表格结构 OCR 抽取失败；公开题库（小麦/星光公考）尚未命中本题精确解析。本题答案占位为题源默认 A，待找到完整资料表后再确认。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第92题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-093",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年前三季度，G 省智能机器人产业的总体利润率（利润率=利润总额/营业收入）约为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "－0.6%"
+      },
+      {
+        "label": "B",
+        "content": "4.6%"
+      },
+      {
+        "label": "C",
+        "content": "9.6%"
+      },
+      {
+        "label": "D",
+        "content": "14.6%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[OCR/PDF 数据极限-D10] 本题需查阅原资料表 2 中各行业利润总额数据求和后再除以总营业收入 326.62 亿元。原 PDF 表 2 OCR 抽取失败；公开题库（小麦/星光公考）尚未命中本题精确解析。材料下文提及「工业机器人制造业与服务消费机器人制造业利润总额均小于 0」，与负利润率方向一致。本题答案占位为题源默认 A（−0.6%），待找到完整资料表后再确认。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第93题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-094",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年前三季度，G 省工业机器人制造业营业收入同比增长约（ ）亿元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "20"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】本题考查资料分析（增长量计算）。\n由表 2：G 省工业机器人制造业 2020 年前三季度营业收入 48.62 亿元，同比增速 27.5%。\n增长量 = 现期量 × r/(1+r) = 48.62 × 27.5%/1.275 ≈ 10.49 亿元。\n与 B 项「10」最为接近。\n故正确答案为 B。\n[Source: xiaomaigongkao.com/Article/article_details/id/1000039189.html × 同站星光公考多题组校验]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第94题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-095",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "根据所给资料，下列说法不正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020 年前三季度，G 省全部规模以上工业产值同比增长 3%"
+      },
+      {
+        "label": "B",
+        "content": "2019 年前三季度，G 省智能机器人产业营业收入超 200 亿元"
+      },
+      {
+        "label": "C",
+        "content": "2019 年前三季度，G 省智能机器人产业平均用工人数为 2.87 万人"
+      },
+      {
+        "label": "D",
+        "content": "2020 年前三季度，G 省智能机器人产业中利润率最高的行业是特殊作业工业机器人制造业"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】本题考查资料分析（综合分析）。\nA 项错误（当选）：材料给「智能机器人产业总产值同比增长 29.8%，增速高于全部规模以上工业产值 32.8 个百分点」→ 全部规上工业产值同比 = 29.8% − 32.8% = −3%，即同比下降 3%，A 项「同比增长 3%」错误。\nB 项正确：营收 326.62 亿元，同比超 40% → 基期 < 326.62/1.4 ≈ 233 亿，仍超 200 亿。\nC 项正确：用工 3.12 万人，同比 +8.6% → 基期 = 3.12/1.086 ≈ 2.87 万人。\nD 项正确：表 2 中工业机器人制造业、服务消费机器人制造业利润总额均为负；比较特殊作业工业机器人制造业与智能无人飞行器制造业的利润率，前者分子大分母小，利润率更高。\n故正确答案为 A。\n[Source: xingguanggongkao.com/Wb/quesView/id/39191.html × xiaomaigongkao 同题组校验]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第95题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年上半年，我国农产品进出口额同比增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.5%"
+      },
+      {
+        "label": "B",
+        "content": "5.0%"
+      },
+      {
+        "label": "C",
+        "content": "7.5%"
+      },
+      {
+        "label": "D",
+        "content": "10.0%"
+      }
+    ],
+    "answer": "C",
+    "explanation": ".正确答案：C\n第一步，本题考查混合增长率计算。\n第二步，定位文字材料，“农产品进口额为807.5亿美元，同比增长13.2%。受新冠肺炎疫情影响，我国农产品\n出口额同比下降3.8%，为351.5亿美元”。\n第三步，根据混合增长率口诀，整体增速介于各部分增速之间，且偏向于基期量较大的一方，进口额的基期量应\n13.2% +(3.8%)\n大于出口额的基期量，可知\n2\n4.7%<整体增速<13.2%，排除A选项；利用十字交叉，可得\n进口：13.2%\nr -(-3.8%)\nr -(-3.8%)\n808\n出口：-3.8%\n352，解得r\n-20-\n8% 。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第96题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年上半年，我国水、海产品出口额同比减少约（ ）亿美元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：37%，易错项：C。\n解析\n第一步，本题考查减少量计算。\n第二步，定位表格材料，2020年上半年水、海产品出口额48.7亿美元，同比增长一19.6%。\n1\n第三步，19.6%≈5，根据减少量计算n-1原则，代入数据可得2020年上半年，我国水、海产品出口额同比减\n48.748.7\n≈12\n少5-1-4\n（亿美元）。\n因此，选择D选项。\n98、正确答案：A，全站正确率：44%，易错项：B。\n解析\n第一步，本题考查基期量比较。\n第二步，定位表格材料。\n现期量\n食用蔬菜（9.6+44.9=54.5），明显高于其他类别，则其基期量也最大。或粗略计算2019年上半年我国进出口总\n9.6\n44.9\n≈9+47=56\n，禽类产品\n17\n11.7\n21.3\n10.1\n1+ 66.0% + 1- 24.5%\n≈10+16=26\n，饮料、酒及醋1－23.9%+1+3.3%\n≈28+10=38\n，咖啡、茶、\n5.3\n20.4\n≈4+18=22\n马黛茶及调味香料1+20.1%+1+15.5%\n，进出口总额最高的是食用蔬菜。\n因此，选择A选项。\n99、正确答案：B，全站正确率：44%，易错项：C。\n解析\n第一步，本题考查基期比重计算。\n第二步，定位文字材料第一、第二段，“2020年上半年，我国农产品进口额为807.5亿美元，同比增长13.2%”，\n“在我国的农产品进口中…欧洲国家或地区农产品进口额增幅最大，达28.4%”，定位饼状图材料，“2020年\n上半年，我国农产品进口额中欧洲国家或地区约占18.8%”。\nA  1 + b\n1 + 13.2%\n15.2%\n）≈18.8%-2%=16.8%\n得\n，与B选项最为接近。\n因此，选择B选项。\n100、正确答案：D，全站正确率：43%，易错项：C。\n解析\n第一步，本题考查综合分析，且需选出说法错误的一项。\n第二步，A选项，现期倍数计算。定位表格材料，“2020年上半年，畜类产品进口额为222亿美元，谷物进口额\n222\n为33.9亿元”；则所求倍数为33.9，直除首位商6，即畜类产品进口额是谷物进口额的6倍多，正确。\nB选项，部分量比较。定位文字材料第一、第二段，“2020年上半年，我国农产品进口额为807.5亿美元农\n产品出口中，对亚洲国家或地区的出口额最高，达229.7亿美元”，定位饼状图材料，“对亚洲进口额占18.9%”；\n根据部分量=整体量×比重，2020年上半年我国对亚洲国家或地区的进口额为807.5×18.9%<810×20%=162（亿\n美元），而出口额高达229.7亿美元，故出口额必然高于进口额，正确。\nC选项，部分量计算。定位文字材料第一段，“2020年上半年，我国农产品进口额为807.5亿美元”，定位饼状\n图材料，“对南美洲进口额占31.5%，对亚洲进口额占18.9%”；观察饼状图发现对六大洲进口额中占比最大的\n是南美洲，第二大的是亚洲。根据部分量=整体量×比重，对南美洲的进口额为807.5×31.5%>800×30%=240>\n160（亿美元），对亚洲的进口额为807.5×18.9%<810×19%=810×20%-810×1%=162-8.1=153.9<160（亿美元），\n-21-\n故六大洲中肯定只有占比排名第一的南美洲进口额超过160亿美元，正确。\nD选项，求比重。定位文字材料第一段，“2020年上半年我国农产品出口额同比下降3.8%，为351.5亿美元”，\n部分量\n6 + 45 + 12 + 12 + 49 + 10 + 23 + 20 _ 177\n50%≠30%\n品出口额的比重约为\n352\n352\n，错误。\n因此，选择D选项。\n-22-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第97题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "以下农产品类别中，2019 年上半年我国进出口总额最高的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "食用蔬菜"
+      },
+      {
+        "label": "B",
+        "content": "禽类产品"
+      },
+      {
+        "label": "C",
+        "content": "饮料、酒及醋"
+      },
+      {
+        "label": "D",
+        "content": "咖啡、茶、马黛茶及调味香料"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：44%，易错项：B。\n解析\n第一步，本题考查基期量比较。\n第二步，定位表格材料。\n现期量\n食用蔬菜（9.6+44.9=54.5），明显高于其他类别，则其基期量也最大。或粗略计算2019年上半年我国进出口总\n9.6\n44.9\n≈9+47=56\n，禽类产品\n17\n11.7\n21.3\n10.1\n1+ 66.0% + 1- 24.5%\n≈10+16=26\n，饮料、酒及醋1－23.9%+1+3.3%\n≈28+10=38\n，咖啡、茶、\n5.3\n20.4\n≈4+18=22\n马黛茶及调味香料1+20.1%+1+15.5%\n，进出口总额最高的是食用蔬菜。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第98题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年上半年，我国农产品进口额中欧洲国家或地区约占： - 13 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "13.3%"
+      },
+      {
+        "label": "B",
+        "content": "16.6%"
+      },
+      {
+        "label": "C",
+        "content": "18.8%"
+      },
+      {
+        "label": "D",
+        "content": "21.1%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：44%，易错项：C。\n解析\n第一步，本题考查基期比重计算。\n第二步，定位文字材料第一、第二段，“2020年上半年，我国农产品进口额为807.5亿美元，同比增长13.2%”，\n“在我国的农产品进口中…欧洲国家或地区农产品进口额增幅最大，达28.4%”，定位饼状图材料，“2020年\n上半年，我国农产品进口额中欧洲国家或地区约占18.8%”。\nA  1 + b\n1 + 13.2%\n15.2%\n）≈18.8%-2%=16.8%\n得\n，与B选项最为接近。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第99题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2021-100",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "根据以上材料，关于我国 2020 年上半年农产品进出口情况，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "畜类产品进口额为谷物进口额的 6 倍以上"
+      },
+      {
+        "label": "B",
+        "content": "对亚洲国家或地区的出口额高于其农产品进口额"
+      },
+      {
+        "label": "C",
+        "content": "六大洲中只有南美洲国家或地区的进口额超过 160 亿美元"
+      },
+      {
+        "label": "D",
+        "content": "表格给出的农产品出口额合计约占我国农产品出口额的 30% - 14 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：43%，易错项：C。\n解析\n第一步，本题考查综合分析，且需选出说法错误的一项。\n第二步，A选项，现期倍数计算。定位表格材料，“2020年上半年，畜类产品进口额为222亿美元，谷物进口额",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第100题",
+    "region": "guangdong"
+  }
+]

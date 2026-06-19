@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 6 月，全国发行的地方政府债券比 2018 年 6 月多约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6151 亿元"
+      },
+      {
+        "label": "B",
+        "content": "5953 亿元"
+      },
+      {
+        "label": "C",
+        "content": "3653 亿元"
+      },
+      {
+        "label": "D",
+        "content": "3043 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：68%，易错项：B。\n\n解析\n\n第一步，本题考查增长量计算中的已知现期量与增长率。\n第二步，定位第一段文字材料，“2019 年 6 月，全国发行地方政府债券 8996 亿元，同比增长 68.37%”。\n\n第三步，68.37%≈66.7%≈\n\n，根据增长量计算 n+1 原则，2019 年 6 月，全国发行的地方政府债券比 2018 年 6\n\n月多约\n因此，选择 C 选项。\n\n，直除首两位商 35，与 C 选项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第116题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1 至 5 月，全国发行地方政府债券约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "23029 亿元"
+      },
+      {
+        "label": "B",
+        "content": "19376 亿元"
+      },
+      {
+        "label": "C",
+        "content": "14109 亿元"
+      },
+      {
+        "label": "D",
+        "content": "8766 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，本题考查基期量和差计算。\n第二步，定位第一段和第三段文字材料，“2019 年 6 月，全国发行地方政府债券 8996 亿元，同比增长 68.37%”\n和“2019 年 1 至 6 月，全国发行地方政府债券 28372 亿元，同比增长 101.09%”。\n第三步，根据基期量=现期量/（1+增长率），选项出现首位相同第二位不同，分母从左向右截取前三位，可得\n\n≈14000－5000=9000（亿元），与 D 选项最接近。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第117题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1 至 6 月，发行一般债券的占比较发行专项债券的占比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低 9.36%"
+      },
+      {
+        "label": "B",
+        "content": "低 52.81%"
+      },
+      {
+        "label": "C",
+        "content": "高 47.93%"
+      },
+      {
+        "label": "D",
+        "content": "高 53.43%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：45%，易错项：D。\n\n解析\n\n第一步，本题考查基期比重计算。\n第二步，定位第三段文字材料，“2019 年 1 至 6 月，全国发行地方政府债券 28372 亿元，同比增长 101.09%。其\n中，发行一般债券 12858 亿元，同比增长 23.21%，发行专项债券 15514 亿元，同比增长 322.38%”。\n第三步，解法一：根据基期量=现期量/（1+增长率）和比重=部分量/整体量，同一个整体，则比重之差=部分量\n之差/整体量，可得，2018 年 1 至 6 月，发行一般债券的占比较发行专项债券的占比高\n\n因此，选择 C 选项。\n\n，与 C 选项最接近。\n\n解法二：根据基期比重=\n\n，复杂计算，可将部分数据截位舍相同处理，可得 2018 年 1 至 6 月，发行\n\n一般债券的占比约为\n≈26%（或者，直接\n≈74%；发行专项债券的占比约为\n用发行专项债券的占比=1－发行一般债券的占比=1－74%=26%），则 2018 年 1 至 6 月，发行一般债券的占比较发\n行专项债券的占比高 74%－26%=48%，与 C 选项最接近。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第118题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 6 月，发行置换债券和再融资债券约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3157 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2186 亿元"
+      },
+      {
+        "label": "C",
+        "content": "1657 亿元"
+      },
+      {
+        "label": "D",
+        "content": "1386 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：68%，易错项：C。\n\n解析\n\n第一步，本题考查基期量计算。\n\n- 35 -\n\n\f获取试卷更新，请关注\n第二步，定位第一段文字材料，“（2019 年 6 月），发行置换债券和再融资债券 1826 亿元，同比减少 16.47%，\n环比增长 31.75%”。\n第三步，根据基期量=现期量/（1＋增长率），选项出现首位相同第二位不同的情况，分母从左向右截取前三位，\n\n可得\n因此，选择 B 选项。\n\n，直除首位商 2。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第119题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2019 年 6 月末，地方政府一般债务余额和专项债务余额都控制在限额之内"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 1 至 6 月，地方政府一般债券的平均发行利率高于专项债券 0.1 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 5 月，地方政府新增债券的平均发行期限比置换债券和再融资债券短"
+      },
+      {
+        "label": "D",
+        "content": "2019 年地方一般债务限额比专项债务限额多 25404.14 亿元 - 16 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。 (材料 2)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：58%，易错项：B。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出不能推出的一项。\n第二步，A 选项，直接读数，定位最后一段文字材料，“（2019 年全国地方政府）一般债务限额 133089.22 亿元，\n专项债务限额 107685.08 亿元。截至 2019 年 6 月末，全国地方政府一般债务余额 118397 亿元，专项债务 8708\n亿元”，直接读数可知，截至 2019 年 6 月末，地方政府一般债务余额（118397 亿元）＜一般债务限额（133089.22\n，地\n亿元）；专项债务余额（87080 亿元）＜专项债务限额（107685.08 亿元），即截至 2019 年 6 月末\n方政府一般债务余额和专项债务余额都控制在限额之内，正确。\nB 选项，直接读数，定位倒数第二段文字材料，“（2019 年 1 至 6 月地方政府）一般债券平均发行利率 3.53%，\n专项债券 3.43%”，直接读数可知，一般债券平均发行利率高于专项债券：3.53%－3.43%=0.1%，即高了 0.1 个\n百分点，正确。\nC 选项，无中生有，定位全篇材料。未给出 2019 年 5 月相关数据，无法求得，错误。\nD 选项，简单计算，定位最后一段文字材料，“（2019 年全国地方政府）一般债务限额 133089.22 亿元，专项债\n务限额 107685.08 亿元”，2019 年地方一般债务限额比专项债务限额多 133089.22－107685.08=25404.14（亿元），\n正确。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第120题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市直接经济价值年值占现代农业生态服务价值年值的比重为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.24%"
+      },
+      {
+        "label": "B",
+        "content": "11.23%"
+      },
+      {
+        "label": "C",
+        "content": "13.59%"
+      },
+      {
+        "label": "D",
+        "content": "15.46%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：69%，易错项：C。\n\n解析\n\n第一步，本题考查基期比重计算问题。\n第二步，定位表格可知，“2017 年，A 市直接经济价值年值 372.60 亿元，同比增长－6.0%；现代农业生态服务\n价值年值 3635.46 亿元，同比增长 3.0%”。\n\n第三步，根据基期比重公式：\n\n，选项出现首位相同第二位不同的情况，复杂计算，可将部分数据截\n\n位舍相同处理，代入相应数据为\n最接近。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第121题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26146 件"
+      },
+      {
+        "label": "B",
+        "content": "27133 件"
+      },
+      {
+        "label": "C",
+        "content": "28627 件"
+      },
+      {
+        "label": "D",
+        "content": "29614 件"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：72%，易错项：C。\n\n解析\n\n，与 B 选项\n\n第一步，本题考查现期比重比较。\n第二步，定位表格可知，“2017 年，A 市间接经济价值年值为 1214.15 亿元，其中，旅游服务价值年值为 804.78\n亿元、水力发电价值年值为 8.68 亿元、景观增值价值年值为 400.70 亿元”。\n第三步，观察发现 804.78 大约是 400.70 的 2 倍，只有 A 选项符合。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第122题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市旅游服务价值年值比农林牧渔业总产值年值多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "494.46 亿元"
+      },
+      {
+        "label": "B",
+        "content": "462.79 亿元"
+      },
+      {
+        "label": "C",
+        "content": "441.85 亿元"
+      },
+      {
+        "label": "D",
+        "content": "404.35 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：51%，易错项：B。\n\n解析\n\n第一步，本题考查基期量和差计算中的基期差值计算。\n第二步，定位表格可知，“2017 年，A 市旅游服务价值年值为 804.78 亿元，同比增长 8.4%；农林牧渔业总产值\n年值 308.32 亿元，同比增长－8.8%”。\n\n第三步，根据基期量=\n取整处理，代入数据可得，2016 年，A 市旅游服务价值年值比农林牧渔业总产值年值多\n\n，选项出现首位相同第二位不同的情况，可将分母从左向右截取前三位，分子\n\n- 36 -\n\n\f获取试卷更新，请关注\n约\n因此，选择 D 选项。\n\n（亿元），与 D 选项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第123题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列 A 市的指标中，2017 年同比增量最多的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "气候调节价值年值"
+      },
+      {
+        "label": "B",
+        "content": "水源涵养价值年值"
+      },
+      {
+        "label": "C",
+        "content": "水源涵养价值贴现值"
+      },
+      {
+        "label": "D",
+        "content": "生物多样性价值贴现值"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：49%，易错项：D。\n\n解析\n\n第一步，本题考查增长量公式比较。\n第二步，定位表格。\n第三步，根据增长量比较口诀“大大则大，一大一小看乘积”，乘积为“现期量×增长率”，气候调节价值年值\n的乘积（732.34×5.6%）明显高于其余三个指标的的乘积（287.78×10.2%、402.98×7.5%、2898.67×1.2%），\n则 A 选项同比增量最多。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第124题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016 年 A 市气候调节价值年值超过 700 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2017 年 A 市现代农业生态服务价值年值增长率、贴现值增长率最低的是同一个指标"
+      },
+      {
+        "label": "C",
+        "content": "2017 年 A 市生态与环境价值贴现值超过直接经济价值贴现值、间接经济价值贴现值之和的 5 倍"
+      },
+      {
+        "label": "D",
+        "content": "2017 年 A 市气候调节价值与水源涵养价值的年值之和超过生态与环境价值中其余指标的年值之和 (材料 3) 截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到 56.6%。从中国人工智能企业地 域分布情况来看，北京企业数量最多，企业数量为 368 家；其次为广东，人工智能企业数量为 185 家；排名第三"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：59%，易错项：D。\n\n解析\n\n第一步，本题考查综合分析，且需选出正确的一项。\n\n第二步，A 选项，基期量计算。定位表格中“气候调节价值”所在行，根据基期量=\n\n，代入数据可得，\n\n（亿元），错误。\n\n2016 年 A 市气候调节价值年值为\nB 选项，增长率读数比较。定位表格中“比上年增长（%）”所在列，2017 年，现代农业生态服务价值年值同比\n增长率最低的指标是“土壤保持价值（－12.6%）”，贴现值同比增长率最低的指标是“水力发电价值（－10.1%）”，\n二者不是同一个指标，错误。\nC 选项，现期倍数计算。定位表格中“贴现值”所在列，将数据取整处理，9183＞（373+1214）×5，即 2017 年\nA 市生态与环境价值贴现值超过直接经济价值贴现值、间接经济价值贴现值之和的 5 倍，正确。\nD 选项，简单计算和差类。定位表格中“年值”所在列。将数据取整处理，2017 年 A 市气候调节价值与水源涵养\n价值的年值之和为 732+288=1020（亿元），环境价值中其余指标的年值之和为 2049－1020=1029（亿元），前者\n低于后者，错误。\n因此，选择 C 选项。\n\n拓展\n\nA 超过 B 的 n 倍，即 A＞n×B",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第125题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "截至 2017 年底，中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "141.1 亿元"
+      },
+      {
+        "label": "B",
+        "content": "152.1 亿元"
+      },
+      {
+        "label": "C",
+        "content": "156.1 亿元"
+      },
+      {
+        "label": "D",
+        "content": "164.1 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：75%，易错项：C。\n\n解析\n\n第一步，本题考查直接读数。\n第二步，定位图 1，2017 年中国人工智能市场规模 152.1 亿元。\n第三步，直接读数，截至 2017 年底中国人工智能市场规模为 152.1 亿元。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第126题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年中国人工智能市场规模同比增长率与 2015 年相比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了 13.3 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "增加了 13.3 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "减少了 15.4 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "增加了 15.4 个百分点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：54%，易错项：B。\n\n解析\n\n第一步，本题考查增长率计算。\n第二步，定位图 1，2014—2017 年，中国人工智能市场规模数据分别为：51.7 亿元、70.2 亿元、100.6 亿元、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第127题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2015 至 2018 年，中国人工智能市场规模同比增长率最高的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015 年"
+      },
+      {
+        "label": "B",
+        "content": "2016 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2018 年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：75%，易错项：C。\n\n解析\n\n第一步，本题考查增长率计算比较。\n第二步，定位图 1，2014—2018 年，中国人工智能市场规模数据分别为：51.7 亿元、70.2 亿元、100.6 亿元、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第128题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "若按照 2018 年同比增长率，到 2019 年底中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "363 亿元"
+      },
+      {
+        "label": "B",
+        "content": "371 亿元"
+      },
+      {
+        "label": "C",
+        "content": "373 亿元"
+      },
+      {
+        "label": "D",
+        "content": "383 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：53%，易错项：B。\n\n解析\n\n第一步，本题考查现期量计算。\n第二步，定位文字材料，“截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到 56.6%”。\n第三步，根据现期量=基期量×（1+增长率），选项出现首两位相同，精确计算，代入数据可得 238.2×（1+56.6%）\n=238.2＋238.2×56.6%≈238.2＋134.8=373（亿元）。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第129题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列说法正确的是:",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2018 年底，中国人工智能市场规模每年同比增长率都超过 50%"
+      },
+      {
+        "label": "B",
+        "content": "截至 2018 年底，中国人工智能企业地城分布情况中，广东企业数量最多"
+      },
+      {
+        "label": "C",
+        "content": "截至 2018 年底，中国人工智能企业北京企业数量不超过上海企业数量的 50%"
+      },
+      {
+        "label": "D",
+        "content": "截至 2018 年底，福建人工智能企业的数量等于河南、天津、广西三省企业数量之和 (材料 4) 2019 年 5 月，全国 12358 价格监管平台受理价格举报、投诉、咨询共计 37576 件，同比下降 40.70%，环比"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：73%，易错项：C。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，增长率计算。定位图 1，根据增长率=（现期量－基期量）/基期量，数据本身不大，简单取整\n\n，错误。\n\n处理，可得 2016 年增长率为\nB 选项，直接读数。定位文字材料，“从中国人工智能企业地域分布情况表看，北京企业数量最多”，可知企业\n数量最多的是北京，而非广东，错误。\nC 选项，简单比较。定位图 2，北京企业数量 368 个，上海企业数量 131 个，368＞131×50%，超过 50%，错误。\nD 选项，简单计算。定位图 2，福建人工智能企业数量（16 个）=河南（5 个）+天津（10 个）＋广西（1 个），\n正确。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第130题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 5 月，平台受理价格举报、投诉、咨询总数约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26706 件"
+      },
+      {
+        "label": "B",
+        "content": "34376 件"
+      },
+      {
+        "label": "C",
+        "content": "41433 件"
+      },
+      {
+        "label": "D",
+        "content": "63366 件"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：60%，易错项：C。\n\n解析\n\n第一步，本题考查基期量计算。\n第二步，定位第一段文字材料，“2019 年 5 月，全国 12358 价格监管平台受理价格举报、投诉、咨询共计 37576\n件，同比下降 40.7%”。\n第三步，根据基期量=现期量/（1+增长率），选项首位各不相同，可将分母从左向右截取前二位，则 2018 年 5\n\n月，平台受理价格举报、投诉、咨询总数约为\n因此，选择 D 选项。\n\n，直除首位商 6。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第131题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 4 月，平台受理的价格咨询比价格举报约多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26146 件"
+      },
+      {
+        "label": "B",
+        "content": "27133 件"
+      },
+      {
+        "label": "C",
+        "content": "28627 件"
+      },
+      {
+        "label": "D",
+        "content": "29614 件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：50%，易错项：B。\n\n解析\n\n第一步，本题考查基期量和差计算。\n第二步，定位文字材料，“2019 年 5 月，价格举报 4192 件，环比下降 19.06%；价格咨询 31325 件，环比下降",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第132题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名第二的省份约是排名第九的省份的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "2.4"
+      },
+      {
+        "label": "C",
+        "content": "3.7"
+      },
+      {
+        "label": "D",
+        "content": "4.4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：78%，易错项：C。\n\n- 38 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，本题考查现期倍数计算。\n第二步，定位文字材料，“平台受理量排名前十的省份依次是北京（5786 件）、江苏（3528 件）、上海（2499\n件）、重庆（2486 件）、河南（2469 件）、陕西（2440 件）、浙江（2321 件）、天津（1571 件）、福建（1483\n件）、广西（1309 件）”。\n第三步，读数可知，受理量排名第二的省份为江苏（3528 件），排名第九的省份为福建（1483 件），选项首位\n\n不同，可将分母从左向右截取前二位，代入数据可得\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第133题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，邮政通信行业的受理量比房地产业约少：",
+    "options": [
+      {
+        "label": "A",
+        "content": "41.9%"
+      },
+      {
+        "label": "B",
+        "content": "51.9%"
+      },
+      {
+        "label": "C",
+        "content": "61.9%"
+      },
+      {
+        "label": "D",
+        "content": "71.9%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：65%，易错项：B。\n\n，直除首位商 2。\n\n解析\n\n第一步，本题考查减少率计算。\n第二步，定位表格材料，“2019 年 5 月，邮政通信行业受理 421 件、房地产业受理 1105 件”。\n第三步，根据减少率=（基期量－现期量）/基期量，选项首位不同，分母从左向右截取前二位，分子为减法考虑\n\n截位舍相同处理数据，可得\n因此，选择 C 选项。\n\n，直除首位商 6。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第134题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年 5 月，平台受理价格举报数量多于价格投诉数量"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 5 月，平台受理价格咨询数量环比下降幅度最大"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 5 月，平台受理教育行业数量不超过旅游行业的 2 倍"
+      },
+      {
+        "label": "D",
+        "content": "2019 年 5 月，平台受理量排名前三的省份占总数的比重低于 35% - 19 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：39%，易错项：C。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出能推出的一项。\n第二步，A 选项，基期量比较，定位文字材料，材料给出了 2019 年 5 月平台受理价格举报数量与价格投诉数量，\n但未给出“同比增长率”，无法求出 2018 年 5 月价格举报数量和价格投资数量，错误。\nB 选项，直接读数，定位文字材料，“2019 年 5 月，平台受理价格举报环比下降 19.06%；价格投诉环比下降 15.92%；\n价格咨询环比下降 7.34%”，下降幅度，指减少率，比较时看绝对值。直接读数可知，2019 年 5 月，平台受理价\n格咨询数量环比下降幅度（7.34%）＜平台受理价格举报环比下降幅度（19.06%），错误。\nC 选项，现期倍数计算，定位表格材料，“2019 年 5 月，平台受理教育行业数量为 927 件，旅游行业数量为 459\n件”，927＞2×459，前者超过后者的 2 倍，错误。\nD 选项，现期比重计算，定位文字材料，“2019 年 5 月，全国平台受理共计 37576 件……北京（5786 件）、江\n苏（3528 件）、上海（2499 件）”，根据比重=部分量/整体量，可得所求比重\n\n=\n因此，选择 D 选项。\n\n拓展\n\nA 超过 B 的 n 倍，即 A>n×B\n\n≈31%＜35%，正确。\n\n- 39 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第135题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 5 月，平台受理价格举报、投诉、咨询总数约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26706 件"
+      },
+      {
+        "label": "B",
+        "content": "34376 件"
+      },
+      {
+        "label": "C",
+        "content": "41433 件"
+      },
+      {
+        "label": "D",
+        "content": "63366 件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：89%，易错项：D。\n\n解析\n\n第一步，根据提问方式，确定为选是题。\n第二步，找关键信息。\n多定义，考查“积极强化”，其关键信息为：\n①对某一行为进行奖励和肯定；\n②以期在类似条件下重复这一行为。\n第三步，辨析选项。\nA 项：君子一日三省其身，意在强调反省，不符合“对某一行为进行奖励和肯定”，不符合定义；\nB 项：杀鸡骇猴以儆效尤，指用惩罚的办法来警告别的人，不符合“对某一行为进行奖励和肯定”，不符合定义；\nC 项：重赏之下，符合“对某一行为进行奖励和肯定”，必有勇夫，符合“以期在类似条件下重复这一行为”，\n符合定义；\nD 项：从轻发落戴罪立功，不符合“对某一行为进行奖励和肯定”，不符合定义。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第106题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 4 月，平台受理的价格咨询比价格举报约多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26146 件"
+      },
+      {
+        "label": "B",
+        "content": "27133 件"
+      },
+      {
+        "label": "C",
+        "content": "28627 件"
+      },
+      {
+        "label": "D",
+        "content": "29614 件"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：24%，易错项：A。\n\n解析\n\n第一步，根据提问方式，确定为选是题。\n第二步，找关键信息。\n多定义，考查“计算的社会化”，其关键信息为：\n（1）社会的计算化：①人们在互联网上留下的海量而且相互关联的数据足迹；②对人们的社会活动进行追踪、\n检索、汇编、计量和运算；\n（2）计算的社会化：①互联网创造了一种环境、一个平台；②人们能够广泛地参与计算过程；③在数据的发掘、\n分析和应用等方面获得更高效率。\n第三步，辨析选项。\nA 项：用户在网购平台购物，符合“人们在互联网上留下的海量而且相互关联的数据足迹”，平台定期向用户推\n送产品，符合“互联网对人们的社会活动进行计算”，属于“社会的计算化”，但不涉及“人们能够广泛地参与\n计算过程”，不符合“计算的社会化”定义；\nB 项：用户在导航软件的行程，符合“人们在互联网上留下的海量而且相互关联的数据足迹”，导航软件自动生\n成行踪图，符合“互联网对人们的社会活动进行计算”，属于“社会的计算化”，但不涉及“人们能够广泛地参\n与计算过程”，不符合“计算的社会化”定义；\nC 项：全班同学合作制成精美的相册并没有说明是否运用互联网，有可能制作的是实体相册，不符合“互联网创\n造了一种环境、一个平台”，不符合“计算的社会化”定义；\nD 项：众筹平台符合“互联网创造了一种环境、一个平台”，小陈在众筹平台匿名捐款后，受助者上门送来感谢\n\n- 32 -\n\n\f获取试卷更新，请关注\n信，说明受助者在互联网上主动参与了计算以及数据的发掘分析，找到了小陈的信息，符合“人们能够广泛地参\n与计算过程”，并且“在数据的发掘、分析和应用等方面获得更高效率”，符合“计算的社会化”定义。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第107题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名第二的省份约是排名第九的省份的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "2.4"
+      },
+      {
+        "label": "C",
+        "content": "3.7"
+      },
+      {
+        "label": "D",
+        "content": "4.4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：69%，易错项：B。\n\n解析\n\n第一步，根据提问方式，确定为选是题。\n第二步，找关键信息。\n多定义，考查“正外部性”，其关键信息为：\n①某个经济行为个体的活动使他人或社会受益；\n②受益者无需花费代价。\n第三步，辨析选项。\nA 项：蒸汽机车喷出火花飞到农民种植的麦穗上，会使农民受损失，不符合“某个经济行为个体的活动使他人或\n社会受益”，不符合定义；\nB 项：飞速行驶的火车尖锐的汽笛声，不属于“某个经济行为个体”，不符合定义；\nC 项：某工厂，符合“某个经济行为个体”，在村庄建起了扶贫车间，为村民就近就业提供方便，体现了“使他\n人或社会受益，而受益者无需花费代价”，符合定义；\nD 项：给周围居民带来健康危害，不符合“某个经济行为个体的活动使他人或社会受益”，不符合定义。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第108题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名前五的行业占受理总数的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "61.4%"
+      },
+      {
+        "label": "B",
+        "content": "56.3%"
+      },
+      {
+        "label": "C",
+        "content": "51.8%"
+      },
+      {
+        "label": "D",
+        "content": "46.5%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：57%，易错项：A。\n\n解析\n\n第一步，根据提问方式，确定为选是题。\n第二步，找关键信息。\n多定义，考查“幻觉”，其关键信息为：\n①没有相应的外界客观事物直接作用下发生的不真实感知；\n②虚幻的；\n③正常人在某些特殊的状态下，如强烈的情绪体验并伴有生动的想象、回忆，或期待的心情、紧张的情绪，或处\n于催眠状态，都可能会出现幻觉。\n第三步，辨析选项。\nA 项：意思是：将映在酒杯里的弓影误认为蛇，周边的草木也认为是敌方的兵，极度恐慌疑神疑鬼。弓、草木是\n外界客观事物，不符合“没有相应的外界客观事物直接作用”，不符合定义。\nB 项：意思是：诗人与敬亭山相看而不厌，视敬亭山为人生知己，达到物我和谐、物我相忘的境界。敬亭山是外\n界客观事物，不符合“没有相应的外界客观事物直接作用”，不符合定义。\nC 项：意思是：在这种悲伤的追怀和祭奠中，亡妻那端庄的身影仿佛又浮现在诗人眼前，那温柔的嗓音又回荡在\n耳边。是诗人“没有相应的外界客观事物直接作用下发生的不真实感知”，因极度难过想念而产生的幻觉，符合\n定义。\nD 项：意思是：蝉声高唱，树林却显得格外宁静；鸟鸣声声，深山里倒比往常更清幽。蝉、树林、鸟是外界客观\n事物，不符合“没有外界客观事物”，不符合定义。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第109题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，邮政通信行业的受理量比房地产业约少： - 13 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "41.9%"
+      },
+      {
+        "label": "B",
+        "content": "51.9%"
+      },
+      {
+        "label": "C",
+        "content": "61.9%"
+      },
+      {
+        "label": "D",
+        "content": "71.9% (材料 2)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：61%，易错项：B。\n\n解析\n\n第一步，根据提问方式，确定为选是题。\n第二步，找关键信息。\n多定义，考查“主动社会收缩”，其关键信息为：\n（1）社会收缩：人类聚落中人口持续流失，引发相应地区经济社会环境和文化在空间上的衰退；\n（2）主动社会收缩：行为主体主动采取的规划策略或管理措施。\n第三步，辨析选项。\nA 项：疏解核心区功能符合“行为主体主动采取的规划策略或管理措施”，城区人口下降符合“人口持续流失”，\n符合定义；\nB 项：春运人口迁移不符合“人口持续流失”，不符合定义；\nC 项：资源枯竭不符合“主动采取的规划策略或管理措施”，不符合定义；\n\n- 33 -\n\n\f获取试卷更新，请关注\nD 项：房屋空置率居高不下是因为产业升级，不符合“引发相应地区经济社会环境和文化在空间上的衰退”，不\n符合定义。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第110题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市直接经济价值年值占现代农业生态服务价值年值的比重为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.24%"
+      },
+      {
+        "label": "B",
+        "content": "11.23%"
+      },
+      {
+        "label": "C",
+        "content": "13.59%"
+      },
+      {
+        "label": "D",
+        "content": "15.46%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：28%，易错项：B。\n\n解析\n\n第一步，观察特征。\n题干中镂空的六面体中均出现三角形，考虑三角形的特性。\n第二步，根据规律进行分组。\n图形①④⑤中的三角形为等腰三角形，图形②③⑥中的三角形为非等腰三角形，分为两组。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第111题",
+    "region": "qinghai"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：82%，易错项：C。\n\n解析\n\n第一步，观察特征。\n组成元素不同，考虑数量类或属性类，观察发现图形有的有封闭区间，有的完全开放，考虑封闭性。\n第二步，根据规律进行分组。\n图形①⑤⑥均为封闭图形，图形②③④均为开放图形，分为两组。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第112题",
+    "region": "qinghai",
+    "questionImage": "/img/questions/provincial_qinghai_2020/q112.png"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市旅游服务价值年值比农林牧渔业总产值年值多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "494.46 亿元"
+      },
+      {
+        "label": "B",
+        "content": "462.79 亿元"
+      },
+      {
+        "label": "C",
+        "content": "441.85 亿元"
+      },
+      {
+        "label": "D",
+        "content": "404.35 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：21%，易错项：A。\n\n解析\n\n第一步，观察特征。\n组成元素不同，优先考虑数量或属性。第一个图形上半部分和第四个图形下半部分是常考的一笔画“日”字的变\n形图，优先考虑笔画数。\n第二步，一条式 ，从左到右找规律。\n观察发现，题干每组图形的最少笔画数之和均为 3，因此问号处图形中两个图形的最少笔画数之和也应为 3，只\n有 D 项符合。\n因此，选择 D 选项。\n\n拓展\n\n规律二：观察发现，面的个数依次为 2、3、2、3，呈循环规律，因此问号处图形中面的个数为 2。 因此，选择\nA 选项。\n规律三：观察发现，元素的部分数依次为 3、2、3、2，呈循环规律，因此问号处图形的部分数为 3。因此，选择\nC 选项。\n规律比较：常数数字规律比周期数字规律要更加严谨，因此，此题按笔画数规律，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第113题",
+    "region": "qinghai",
+    "questionImage": "/img/questions/provincial_qinghai_2020/q113.png"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 A 市生态与环境价值中，年值、贴现值较上年均有所上升的指标有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6 个"
+      },
+      {
+        "label": "B",
+        "content": "5 个"
+      },
+      {
+        "label": "C",
+        "content": "4 个"
+      },
+      {
+        "label": "D",
+        "content": "3 个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：77%，易错项：C。\n\n解析\n\n第一步，观察特征。\n每幅图都由两个多边形连接组成，考虑静态位置中图形的连接性。\n第二步，两段式，第一段找规律，第二段应用规律。\n观察发现，第一段每个图形均为相交，且公共区域图形边数依次为 3、4、5，第二段公共区域图形边数依次为 6、\n7，所以问号处的公共区域图形边数应为 8，只有 D 项符合。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第114题",
+    "region": "qinghai",
+    "questionImage": "/img/questions/provincial_qinghai_2020/q114.png"
+  },
+  {
+    "id": "provincial-qinghai-xingce-ziliao-2020-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列 A 市的指标中，2017 年同比增量最多的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "气候调节价值年值"
+      },
+      {
+        "label": "B",
+        "content": "水源涵养价值年值"
+      },
+      {
+        "label": "C",
+        "content": "水源涵养价值贴现值"
+      },
+      {
+        "label": "D",
+        "content": "生物多样性价值贴现值 (材料 3) 截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到 56.6%。从中国人工智能企业地 域分布情况来看，北京企业数量最多，企业数量为 368 家；其次为广东，人工智能企业数量为 185 家；排名第三 的是上海，数量为 131 家"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：51%，易错项：B。\n\n解析\n\n第一步，明确提问方式。\n选择可以和题目中的立体图形拼合成正方体的选项。\n第二步，分析选项。\n如下图所示，所缺部分为图 1，经过旋转后得到图 2，再将图 2 旋转后得到 C 项中的立体图形。\n\n- 34 -\n\n\f获取试卷更新，请关注\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考qinghai行测第115题",
+    "region": "qinghai"
+  }
+]

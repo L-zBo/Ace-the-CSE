@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "1.4，2.8，8.4，33.6，168，（ ）",
+    "options": [
+      {
+        "label": "B",
+        "content": "504"
+      },
+      {
+        "label": "C",
+        "content": "336"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      },
+      {
+        "label": "A",
+        "content": "1008"
+      }
+    ],
+    "answer": "A",
+    "explanation": "数列相邻两项之间存在明显的倍数关系，优先考虑作商。后项除以前项可得：2，3，4，5，（ ），\n是连续自然数列，下一项为 6。故所求项=168×6=1008。\n故正确答案为 A。\n科学世界《数独背后的数学魅力》",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第51题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "， ，2，2，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题干与选项均包含分数，优先考虑分数数列。将整数转化为分数后无规律，考虑相邻两项作积。前项乘后项可得：2，3，4，（    ），是连续自然数列，下一项为5。则所求项。\n故正确答案为B。\n\n[来源 baijing1.top paperId=212 sort=52 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第52题",
+    "region": "zhejiang",
+    "meta": {
+      "invalid": true,
+      "reason": "content_pure_punct"
+    },
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q052.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "-9，6，3，12，27，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "64"
+      },
+      {
+        "label": "B",
+        "content": "65"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "67"
+      }
+    ],
+    "answer": "C",
+    "explanation": "数列无明显特征，作差作和均无规律，考虑递推。观察发现：-9+6×2=3，6+3×2=12，3+12×2=27，即规律为：第一项+第二项×2=第三项。则所求项为12+27×2=66。\n故正确答案为C。\n\n[来源 baijing1.top paperId=212 sort=53 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第53题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2，4，6，9，13，19，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "28"
+      },
+      {
+        "label": "B",
+        "content": "29"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "A",
+    "explanation": "数列无明显特征，作差作和均无规律，考虑递推。观察发现：2+4-0=6，4+6-1=9，6+9-2=13，9+13-3=19，规律为：第一项+第二项-修正项=第三项，修正项依次为0，1，2，3，是公差为1的等差数列，修正项下一项为4，则所求项为13+19-4=28。\n故正确答案为A。\n\n[来源 baijing1.top paperId=212 sort=54 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第54题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "21，30，40，53，71，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "112"
+      },
+      {
+        "label": "B",
+        "content": "113 B.C.30"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "C.95 D.67 D.31 D.96"
+      }
+    ],
+    "answer": "D",
+    "explanation": "数列无明显特征，优先考虑多级数列。后项减前项得到新数列：9，10，13，18，（ ），新数列无\n明显规律，再次作差得到：1，3，5，（ ），是公差为 2 的等差数列，下一项为 5+2=7，则新数列\n下一项为 18+7=25。故所求项为 71+25=96。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第55题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "滑雪和滑冰是冬奥会的两大项赛事，其中高山滑雪、自由式滑雪、单板滑雪、跳台滑雪、越野滑雪和北欧两项 是滑雪大项中的6个分项，短道速滑、速度滑冰和花样滑冰是滑冰大项中的3个分项。小林打算去现场观看比 赛，共选择6个项目，并且每个大项不少于1个，若所有项目比赛时间均不交叉，则不同的观赛方式有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "83种"
+      },
+      {
+        "label": "B",
+        "content": "84种"
+      },
+      {
+        "label": "C",
+        "content": "92种"
+      },
+      {
+        "label": "D",
+        "content": "102种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：根据题意，要求每个大项不少于 1 个，即分为三类情况讨论如下：\n\n第一类：滑冰大项中选择 1 个分项，滑雪大项中选择 5 个分项，情况数为\n\n种\n\n情况；\n\n第二类：滑冰大项中选择 2 个分项，滑雪大项中选择 4 个分项，情况数为\n\n种情况；\n\n第三类：滑冰大项中选择 3 个分项，滑雪大项中选择 3 个分项，情况数为\n\n种情况； 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n分类相加，即符合条件的总情况数为 18+45+20=83 种。\n方法二：根据题意，要求每个大项不少于 1 个，正面情况数较多，故从反面考虑。反面为选择的 6\n个项目均为滑雪分项（滑冰分项仅有 3 个，故不可能全为滑冰项目），则反面情况为从 6 个滑雪分\n\n项中选择 6 个项目，有\n\n种情况。总的情况数为从 9 个分项中选择 6 个项目，有\n\n故正确答案为 A。\n\n种情况，故所求情况数=总情况数-反面情况数=84-1=83 种。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第56题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "为了加强环境治理和生态修复，某市派出4位专家（甲、乙、丙、丁）前往某山区3个勘探点进行环境检测，要 求每个勘探点至少安排一名专家。那么甲、乙两名专家去了不同勘探点的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3/4"
+      },
+      {
+        "label": "B",
+        "content": "1/6"
+      },
+      {
+        "label": "C",
+        "content": "5/6"
+      },
+      {
+        "label": "D",
+        "content": "1/4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版) 第 4 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第57题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某市举行庆典活动，将依次升空105架无人机，升空方式如下：每架无人机间距均相等，第一次升空n架，第二 次升空n-1架，以此类推，最终在夜空中组成一个近似等边三角形背景的灯光秀，那么第10次升空的无人机数 量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3架"
+      },
+      {
+        "label": "B",
+        "content": "5架"
+      },
+      {
+        "label": "C",
+        "content": "8架"
+      },
+      {
+        "label": "D",
+        "content": "10架"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，每次升空的无人机数量组成等差数列。又因为“组成一个近似等边三角形”，则第\n\n一次升空 n 架（ ）为底边，最后一次升空的无人机在三角形的顶点上，数量为 1 架（ ），且公\n\n差 d＝-1。根据等差数列求和公式：\n\n，可得\n\n，解得 n＝14。\n\n再根据等差数列通项公式：\n\n，则\n\n，故第 10\n\n次升空的无人机数量是 5 架。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第58题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副对 联既可以顺读也可以逆读，被称作回文联。数学中也有类似回文数，如212、37473等，则三位数中回文数是奇 数的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2/9"
+      },
+      {
+        "label": "B",
+        "content": "1/3"
+      },
+      {
+        "label": "C",
+        "content": "4/9"
+      },
+      {
+        "label": "D",
+        "content": "5/9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版) 第 5 题，题干匹配度 92%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第59题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某方舱医院配有1000张床位，现已接收新冠确诊患者200名，并按床护比（护士数与床位数的比值）0.6：1配齐 了护士人员。因疫情发展迅速，该医院又收治了700名患者，此时床护比下调为0.2：1，那么还需增加护士：",
+    "options": [
+      {
+        "label": "A",
+        "content": "80名"
+      },
+      {
+        "label": "B",
+        "content": "60名"
+      },
+      {
+        "label": "C",
+        "content": "40名"
+      },
+      {
+        "label": "D",
+        "content": "20名"
+      }
+    ],
+    "answer": "B",
+    "explanation": "2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n根据最初床护比为 0.6：1，可求出最初 200 名患者配备的护士人数为 200×0.6=120 名；又收治 700\n名患者后，患者总数变为 200+700=900 名，按照下调后床护比为 0.2：1 计算，共需护士 900×0.2=180\n名，所以需增加护士人数=180-120=60 名。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第60题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "北京冬奥会期间，冬奥会吉祥物“冰墩墩”纪念品十分畅销。销售期间某商家发现，进价为每个40元的“冰墩 墩”，当售价定为44元时，每天可售出300个，售价每上涨1元，每天销量减少10个。现商家决定提价销售，若 要使销售利润达到最大，则售价应为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "51元"
+      },
+      {
+        "label": "B",
+        "content": "52元"
+      },
+      {
+        "label": "C",
+        "content": "54元"
+      },
+      {
+        "label": "D",
+        "content": "57元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设 “ 冰 墩 墩 ” 纪 念 品 售 价 共 上 涨 x 元 ， 销 售 利 润 为 y 元 。 根 据 题 意 ， 可 列 方 程 ：\n\n，即\n\n，令 y=0，解得\n\n，\n\n，当\n\n故正确答案为 D。\n\n时，总利润最大，此时售价为 44+13=57 元。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第61题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某地采用传统销售模式，销售一批鸡蛋需要20天，销售一批桃子需要25天。为推动销售，当地开启县领导直播 带货模式，直播带货期间，鸡蛋的销售效率提高为原来的2倍，桃子销售效率为原来的3倍；其余销售时间依然 按照传统模式进行，结果两种产品同时销售完成。那么销售期间直播带货的天数为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "除了销售时间相同，销售鸡蛋和销售桃子没有其它关系，所以二者是相互独立的，因此可赋值传统\n销售模式下的鸡蛋和桃子的销售效率均为 1，则直播带货期间，鸡蛋销售效率为 2，桃子销售效率为\n3。根据题意可得，该批鸡蛋总量为 20×1=20，该批桃子总量为 25×1=25。设销售期间直播带货的\n\n天数为 x，则非直播带货的鸡蛋销售时间为\n\n，非直播带货的桃子销售时间为\n\n。因为两种产品同时销售完成，其中的直播带货时间相同，那么非直播带货\n\n的时间也相同，即 20-2x=25-3x，解得 x=5，因此销售期间直播带货的天数为 5。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第62题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某单位四个党史宣讲小组各有若干组员，现增加2人并重新分配，使得四个小组人数相等。此时与原先相比， 第一小组人数增加10人，第二小组人数减少1人，第三小组人数增加一倍，第四小组人数减半。则原先人数最 多的小组与人数最少的小组之间相差：",
+    "options": [
+      {
+        "label": "A",
+        "content": "15人"
+      },
+      {
+        "label": "B",
+        "content": "21人"
+      },
+      {
+        "label": "C",
+        "content": "24人"
+      },
+      {
+        "label": "D",
+        "content": "32人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设重新分配后平均每组 x 人，则根据题意可知：\n\n由上表可得，原先四个小组总人数\n\n，解得 x=14。可得原先四个小组人数分别为：第一小组\n\n=x-10=4 人，第二小组=x+1=15 人，第三小组\n\n人，第四小组=2x=28 人。则原先人数最多的\n\n小组与人数最少的小组之间相差 28-4=24 人。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第63题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某智能停车场泊车的泊车位置由电脑随机派位生成。现有两排车位，每排4个，有4辆不同的车需要泊车。泊车 要求至少有一车与其它车不同排，且甲乙两车在同一排。则电脑可生成几种派位方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "672"
+      },
+      {
+        "label": "B",
+        "content": "480"
+      },
+      {
+        "label": "C",
+        "content": "384"
+      },
+      {
+        "label": "D",
+        "content": "288"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“至少有一车与其它车不同排”，可分为以下两种情况：\n①其中一排停 3 辆车，另一排停 1 辆车。 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n首先，从两排中选一排停放甲乙，有 种情况；然后，从剩余 2 辆车中选 1 辆车与甲乙同排，有\n\n种情况；再把这 3 辆车停进这排的 4 个车位里，有 种情况；最后，余下 1 辆车从另一排 4 个车位\n\n中 选 1 个 车 位 停 放 ， 有\n\n种 情 况 ； 分 步 用 乘 法 ， 共 有\n\n②两排均停 2 辆车。\n\n种情况。\n\n首先，从两排中选一排停放甲乙，有 种情况；然后，把甲乙停进这排的 4 个车位里，有 种情\n\n况；最后，把剩余的两辆车停进另一排的 4 个车位里，有 种情况；分步用乘法，共有\n\n种情况。\n\n因此，电脑可生成的派位方式共有 384+288=672 种情况。\n方法二：本题也可以考虑逆向思维求解。总情况为甲、乙在任意一排中的 2 个车位泊车，其余 2 辆\n\n车在剩余的 6 个车位中随机泊车，有\n\n种情况。反面情\n\n况为 4 辆车都在同一排泊车，有\n\n种情况。则题干所求=总情况数-反面\n\n情况数=720-48=672 种，即电脑可生成 672 种派位方式。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第64题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某商场为庆祝开业三周年，制作了一个长方形大蛋糕，并切成四块，如图所示。假设这个蛋糕可供350人享 用，左下角那块蛋糕平均可供50人享用，右上角那块蛋糕平均可供70人，则中间最大块蛋糕平均可供多少人享 用？ B.155 C.175 D.180",
+    "options": [
+      {
+        "label": "A",
+        "content": "150"
+      },
+      {
+        "label": "B",
+        "content": "155"
+      },
+      {
+        "label": "C",
+        "content": "175"
+      },
+      {
+        "label": "D",
+        "content": "180"
+      }
+    ],
+    "answer": "B",
+    "explanation": "假设平均每人享用蛋糕\n\n，则蛋糕面积为\n\n，赋值蛋糕的长为 35cm，宽为 10cm。如下图\n\n所示：\n\n根 据 “ 左 下 角 那 块 蛋 糕 平 均 可 供 50 人 享 用 ， 右 上 角 那 块 蛋 糕 平 均 可 供 70 人 ” 可 知\n\n，\n\n，根据三角形面积公式：\n\n，可得： 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\nCE\n\ncm ， BF\n\ncm ， 则 ED=35-10=25cm ， DF=10-4=6cm ， 则\n\n155 人享用，即中间最大块蛋糕平均可供 155 人享用。\n故正确答案为 B。\n\n，故\n\n，平均可供",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第65题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q065.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某镇卫生院50多名医生被平均分配到13个基层诊所参与工作，其中男医生比女医生多4人。工作结束后，25％ 的男医生和一部分女医生继续到邻镇4个医疗点支援工作，这批人员中任意6人必有男医生，且保证必有一个医 疗点的女医生多于1人。那么该卫生院到邻镇支援工作的医生共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "12人"
+      },
+      {
+        "label": "B",
+        "content": "14人"
+      },
+      {
+        "label": "C",
+        "content": "16人"
+      },
+      {
+        "label": "D",
+        "content": "18人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，某镇卫生院 50 多名医生被平均分配到 13 个基层诊所参与工作，医生总数为 13 的倍数，\n\n则医生总数只能为 52 人。由于男医生比女医生多 4 人，则男医生有\n\n人，女医生有\n\n人，分配到邻镇的男医生有 28×25%=7 人。要使这批人员中任意 6 人必有男医生，则\n女医生的人数应小于 6 人；又因有 4 个医疗点，且要保证必有一个医疗点的女医生多于 1 人，则女\n医生的人数应大于 4 人，故女医生的人数为 5 人。则该卫生院到邻镇支援工作的医生有 7+5=12 人。\n故正确答案为 A。\n注：男医生人数为 7 人，女医生人数少于 6 人，则医生总人数少于 13 人，只有 A 项满足。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第66题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "A、B两个乡镇分布于山谷两侧，山谷间有一条宽为2km的河道（如下图所示）。当地政府决定在两个乡镇间修\n建一条跨河公路促进旅游发展。由于架桥费用高昂，所以要求跨河公路中的桥梁路段长度最短。那么根据图中\n数据，从A镇前往B镇的最短距离为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B两个乡镇分布于山谷两侧，山谷间有一条宽为2km的河道（如下图所示）。当地政府决定在两个乡镇间修 建一条跨河公路促进旅游发展。由于架桥费用高昂，所以要求跨河公路中的桥梁路段长度最短。那么根据图中 数据，从A镇前往B镇的最短距离为： A.17km"
+      },
+      {
+        "label": "B",
+        "content": "15km"
+      },
+      {
+        "label": "C",
+        "content": "19km"
+      },
+      {
+        "label": "D",
+        "content": "20km"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题目要求桥长 2km，最短距离=AB 最短距离+桥长，如下图所示，将河流看成一条直线，两点之\n\n间线段最短，连接 AB 构成直角三角形 ABC，\n\nkm。\n\n从 A 镇前往 B 镇的最短距离=13+2=15km。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第67题",
+    "region": "zhejiang",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    },
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q067.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "商家门口摆放了一把正四棱锥形（底面为正方形，侧面为四个全等的等腰三角形）的遮阳伞，第一次伞撑开到 图1所示的位置，伞柄与伞骨成角 为 ，继续撑开到如图2所示的位置，伞柄与伞骨成角 变为 ，那么第二次伞撑开后形成的正方形 是第一次撑开后正方形ABCD面积的： B. 倍 C.2倍 D.3倍",
+    "options": [
+      {
+        "label": "A",
+        "content": "倍"
+      },
+      {
+        "label": "B",
+        "content": "倍"
+      },
+      {
+        "label": "C",
+        "content": "2倍"
+      },
+      {
+        "label": "D",
+        "content": "3倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "连接 CQ，如图 1 所示，因 PQ 与正四棱锥的底面垂直，故三角形 CPQ 为直角三角形，在直角三角形\n\nCPQ 中，\n\n，故\n\n。同理，连接\n\n，如图 2，在直角三角形\n\n中，\n\n， 故\n\n， 根 据\n\n， 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n，且\n\n，可得\n\n，故第二次伞撑开后形成的正方形\n\n是第一次撑开后正方形 ABCD\n\n面积的 3 倍。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第68题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q068.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "用一个长为20厘米、宽为2厘米、高为1.5厘米的长方体木料，制作一串半径最大的木珠子，不考虑制作过程中 的损耗，则这串珠子的数量最多为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10个"
+      },
+      {
+        "label": "B",
+        "content": "13个"
+      },
+      {
+        "label": "C",
+        "content": "14个"
+      },
+      {
+        "label": "D",
+        "content": "20个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "木珠子是球形的，需要从长方体木料的内部进行切割，由于长方体的高为 1.5 厘米，则木珠子的最\n大直径为长方体的高 1.5 厘米，即半径最大。长方体的宽为 2 厘米，木珠子的直径为 1.5 厘米，制\n作过程中，要令数量最多，木珠子错落摆放即满足要求。摆放过程注意不要超出长方体木料的长度，\n用前两个珠子的摆放作为演示： 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\nAC 是两个木珠子球心的连线，长度即为木珠子的直径 1.5 厘米，AC 为斜边做直角三角形 ABC，AC 即\n两个球心间的最短距离。BC 的长度为长方体的宽-木珠子的半径-B 点距长方体左边的边长，且 AB 垂\n直 BC ， 可 得 出 B 点 距 长 方 体 左 边 的 边 长 即 A 点 距 长 方 体 边 长 的 距 离 0.75 厘 米 ， 可 求 BC 长\n\n=2-0.75-0.75=0.5 厘米，在直角三角形 ABC 中，利用勾股定理可以求出 AB 长为 厘米，即在 AB\n\n所在直线上，相邻两个珠子间距（把珠子看成点）为 厘米，且第一个和最后一个珠子的球心距\n\n长方体木料两端至少为 0.75 厘米。则制作的珠子数量=段数+1，段数\n\n，\n\n即分为 13 段，那么珠子数量最多=13+1=14 个。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第69题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年时，李某的年龄是自己工龄的4倍，且正好是张某年龄的 。到2024年时，张某的年龄正好是自己工龄的 2倍。已知张某参加工作时李某10岁，那么李某参加工作时的年龄是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "18岁"
+      },
+      {
+        "label": "B",
+        "content": "21岁 B.D.27岁"
+      },
+      {
+        "label": "C",
+        "content": "24岁"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设 2020 年时李某的工龄为 x 年，则李某的年龄为 4x 岁，张某的年龄为\n\n岁，则 2024 年张\n\n某的年龄为（6x+4）岁。根据“到 2024 年时，张某的年龄正好是自己工龄的 2 倍”，则 2024 年张\n\n某的工龄为\n岁，张某参加工作时的年龄为 6x+4-（3x+2）=（3x+2）岁，根\n据“年龄差不变”可得，张某参加工作时，两人的年龄差为 3x+2-10=3x-8，2020 年，两人年龄差为\n6x-4x=2x，即 3x-8=2x，解得 x=8。即李某参加工作时的年龄为 4x-x=3x=24 岁。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第70题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-001",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "1.4，2.8，8.4，33.6，168，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1008"
+      },
+      {
+        "label": "B",
+        "content": "504"
+      },
+      {
+        "label": "C",
+        "content": "336"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查政治常识。\nA 项错误，《中共中央 国务院关于做好 2022 年全面推进乡村振兴重点工作的意见》在“一、全力\n抓好粮食生产和重要农产品供给”部分指出：“（三）保障‘菜篮子’产品供给。加大力度落实‘菜\n篮子’市长负责制。稳定生猪生产长效性支持政策，稳定基础产能，防止生产大起大落。加快扩大\n牛羊肉和奶业生产，推进草原畜牧业转型升级试点示范。稳定水产养殖面积，提升渔业发展质量。\n稳定大中城市常年菜地保有量，大力推进北方设施蔬菜、南菜北运基地建设，提高蔬菜应急保供能\n力。”由此可知，应是“南菜北运基地建设”，而非“北菜南运基地建设”。\nB、C 两项正确，《中共中央 国务院关于做好 2022 年全面推进乡村振兴重点工作的意见》在”一、\n全力抓好粮食生产和重要农产品供给”部分指出：“（一）稳定全年粮食播种面积和产量。坚持中\n国人的饭碗任何时候都要牢牢端在自己手中，饭碗主要装中国粮，全面落实粮食安全党政同责，严\n格粮食安全责任制考核，确保粮食播种面积稳定、产量保持在 1.3 万亿斤以上。”\nD 项正确，《中共中央 国务院关于做好 2022 年全面推进乡村振兴重点工作的意见》在开头第二段\n指出：“做好 2022 年‘三农’工作，要以习近平新时代中国特色社会主义思想为指导，全面贯彻党\n的十九大和十九届历次全会精神······坚持和加强党对‘三农’工作的全面领导，牢牢守住\n保障国家粮食安全和不发生规模性返贫两条底线，突出年度性任务、针对性举措、实效性导向，充\n分发挥农村基层党组织领导作用，扎实有序做好乡村发展、乡村建设、乡村治理重点工作，推动乡\n村振兴取得新进展、农业农村现代化迈出新步伐。”\n本题为选非题，故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第1题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-002",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "<img src=\"https://upload.gkzhenti.cn/1706852966843/770f80afafd57b559423a19dae124238\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/1706852966843/7487c194f40f1b0bacf5017139ec8f83\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，2，2，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题干与选项均包含分数，优先考虑分数数列。将整数转化为分数后无规律，考虑相邻两项作积。前项乘后项可得：2，3，4，（    ），是连续自然数列，下一项为5。则所求项。\n故正确答案为B。\n\n[来源 baijing1.top paperId=214 sort=2 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第2题",
+    "region": "zhejiang",
+    "meta": {
+      "invalid": true,
+      "reason": "content_pure_punct"
+    }
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "-9，6，3，12，27，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "64"
+      },
+      {
+        "label": "B",
+        "content": "65"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "67"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查政治常识。\n①④⑥正确，③错误，2022 年《政府工作报告》中“二、2022 年经济社会发展总体要求和政策取向”\n指出：“今年发展主要预期目标是：国内生产总值增长 5.5%左右；城镇新增就业 1100 万人以上，\n城镇调查失业率全年控制在 5.5%以内；居民消费价格涨幅 3%左右；居民收入增长与经济增长基本同\n步；进出口保稳提质，国际收支基本平衡；粮食产量保持在 1.3 万亿斤以上；生态环境质量持续改\n善，主要污染物排放量继续下降；能耗强度目标在‘十四五’规划期内统筹考核，并留有适当弹性，\n新增可再生能源和原料用能不纳入能源消费总量控制。”\n②错误，2021 年习近平在中国科学院第二十次院士大会、中国工程院第十五次院士大会和中国科学\n技术协会第十次全国代表大会上指出：“实践证明，我国自主创新事业是大有可为的！我国广大科\n技工作者是大有作为的！我国广大科技工作者要以与时俱进的精神、革故鼎新的勇气、坚忍不拔的\n定力，面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康，把握大势、\n抢占先机，直面问题、迎难而上，肩负起时代赋予的重任，努力实现高水平科技自立自强！”\n⑤错误，2022 年《政府工作报告》中“三、2022 年政府工作任务”部分的“（一）着力稳定宏观经\n济大盘，保持经济运行在合理区间”指出：“要坚持政府过紧日子，更好节用裕民。大力优化支出\n结构，保障重点支出，严控一般性支出。盘活财政存量资金和闲置资产。”\n综上所述，属于 2022 年我国经济发展主要预期目标的是①④⑥。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第3题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-004",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2，4，6，9，13，19，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "28"
+      },
+      {
+        "label": "B",
+        "content": "29"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查政治常识。\nA 项正确，《中国共产主义青年团章程》总则规定：“中国共产主义青年团中央委员会受中国共产\n党中央委员会领导，团的地方组织和基层组织受同级党的委员会领导，同时受团的上级组织领导。”\nB 项正确，《中国共产主义青年团章程》总则规定：“中国共产主义青年团受中国共产党的委托领\n导中国少年先锋队的工作。中国共产主义青年团是中华全国青年联合会的核心团体会员，发挥主导\n作用。中国共产主义青年团在中国共产党的领导下，指导中华全国学生联合会开展工作。”\nC 项正确，《中国共产主义青年团章程》第八章“团旗、团徽、团歌”中的第三十七条规定：“中\n国共产主义青年团团旗旗面为红色，象征革命胜利；左上角缀黄色五角星，周围环绕黄色圆圈，象\n征中国青年一代紧密团结在中国共产党周围。”\nD 项错误，《中国共产主义青年团章程》第一章“团员”中的第一条第三款规定：“团员加入共产\n党以后仍保留团籍，年满二十八周岁，没有在团内担任职务，不再保留团籍。”\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第4题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "21，30，40，53，71，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "112"
+      },
+      {
+        "label": "B",
+        "content": "113"
+      },
+      {
+        "label": "C",
+        "content": "95"
+      },
+      {
+        "label": "D",
+        "content": "96"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查政治常识。\nA 项正确，《中共中央 国务院关于加快建设全国统一大市场的意见》在“（九）完善市场信息交互\n渠道”部分指出：“统一产权交易信息发布机制，实现全国产权交易市场联通。优化行业公告公示\n等重要信息发布渠道，推动各领域市场公共信息互通共享。优化市场主体信息公示，便利市场主体\n信息互联互通。推进同类型及同目的信息认证平台统一接口建设，完善接口标准，促进市场信息流\n动和高效使用。依法公开市场主体、投资项目、产量、产能等信息，引导供需动态平衡。”\nB 项错误，《中共中央 国务院关于加快建设全国统一大市场的意见》在“（二）工作原则”部分指\n出：“有效市场，有为政府。坚持市场化、法治化原则，充分发挥市场在资源配置中的决定性作用， 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n更好发挥政府作用，强化竞争政策基础地位，加快转变政府职能，用足用好超大规模市场优势，让\n需求更好地引领优化供给，让供给更好地服务扩大需求，以统一大市场集聚资源、推动增长、激励\n创新、优化分工、促进竞争。”故不能用集中管理代替市场机制。\nC 项错误，《中共中央 国务院关于加快建设全国统一大市场的意见》在“（五）实行统一的市场准\n入制度”部分指出：“严格落实‘全国一张清单’管理模式，严禁各地区各部门自行发布具有市场\n准入性质的负面清单，维护市场准入负面清单制度的统一性、严肃性、权威性。”\nD 项错误，《中共中央 国务院关于加快建设全国统一大市场的意见》在“（二十四）破除地方保护\n和区域壁垒”部分指出：“指导各地区综合比较优势、资源环境承载能力、产业基础、防灾避险能\n力等因素，找准自身功能定位，力戒贪大求洋、低层次重复建设和过度同质竞争，不搞‘小而全’\n的自我小循环，更不能以‘内循环’的名义搞地区封锁。”\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第5题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某商场为庆祝开业三周年，制作了一个长方形大蛋糕，并切成四块，如图所示。假设这个蛋糕可供350人享 用，左下角那块蛋糕平均可供50人享用，右上角那块蛋糕平均可供70人，则中间最大块蛋糕平均可供多少人享 用？",
+    "options": [
+      {
+        "label": "A",
+        "content": "150"
+      },
+      {
+        "label": "B",
+        "content": "155"
+      },
+      {
+        "label": "C",
+        "content": "175"
+      },
+      {
+        "label": "D",
+        "content": "180"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查政治常识。\n①②正确，习近平总书记强调：“要加大对因疫因灾遇困群众的临时救助力度，做好残疾人康复、\n教育、就业等工作，保障流浪乞讨人员人身安全和基本生活，关心关爱精神障碍人员，坚决杜绝欺\n凌虐待妇女儿童、老年人、残疾人等违法行为。”\n③④正确，习近平总书记强调：“我国已建成世界上规模最大的社会保障体系。要健全灵活就业人\n员社保制度，扩大失业、工伤、生育保险的覆盖面，实现制度安排更加公平，覆盖范围更加广泛，\n为人民生活安康托底。要健全社会保障基金监管体系，严厉打击欺诈骗保、套保和挪用贪占各类社\n会保障资金的违法行为，守护好人民群众的每一分‘养老钱’、‘保命钱’。”\n综上所述，有助于推动社会保障事业高质量发展的有①②③④，有 4 项。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第6题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q006.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-007",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某镇卫生院50多名医生被平均分配到13个基层诊所参与工作，其中男医生比女医生多4人。工作结束后，25％ 的男医生和一部分女医生继续到邻镇4个医疗点支援工作，这批人员中任意6人必有男医生，且保证必有一个医 疗点的女医生多于1人。那么该卫生院到邻镇支援工作的医生共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "12人"
+      },
+      {
+        "label": "B",
+        "content": "14人"
+      },
+      {
+        "label": "C",
+        "content": "16人"
+      },
+      {
+        "label": "D",
+        "content": "18人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题考查经济常识。\n市场主体是经济的力量载体，保市场主体就是保社会生产力。\n①正确，2022 年 3 月 21 日，国务院总理李克强主持召开国务院常务会议，确定实施大规模增值税\n留抵退税的政策安排，为稳定宏观经济大盘提供强力支撑。\n②正确，2022 年 4 月 6 日，国务院总理李克强主持召开国务院常务会议，决定对特困行业实行阶段\n性缓缴养老保险费政策，加大失业保险支持稳岗和培训力度；部署适时运用货币政策工具，更加有\n效支持实体经济发展。\n③正确，为支持实体经济发展，促进综合融资成本稳中有降，中国人民银行决定于 2022 年 4 月 25\n日下调金融机构存款准备金率 0.25 个百分点（不含已执行 5%存款准备金率的金融机构），为加大\n对小微企业和“三农”的支持力度，对没有跨省经营的城商行和存款准备金率高于 5%的农商行，在\n下调存款准备金率 0.25 个百分点的基础上，再额外多降 0.25 个百分点。\n④错误，为贯彻落实《中共中央 国务院关于优化生育政策促进人口长期均衡发展的决定》，依据《中\n华人民共和国个人所得税法》有关规定，国务院决定，设立 3 岁以下婴幼儿照护个人所得税专项附\n加扣除。自 2022 年 1 月 1 日起，纳税人照护 3 岁以下婴幼儿子女的相关支出，在计算缴纳个人所得\n税前，按照每个婴幼儿每月 1000 元的标准定额扣除。该项扣除政策有利于减轻人民群众抚养子女负\n担，体现了国家对人民群众生育养育的鼓励和照顾。属于“保民生”的措施。\n⑤正确，2022 年 5 月 15 日，央行、银保监会联合发布《关于调整差别化住房信贷政策有关问题的\n通知》，对于贷款购买普通自住房的居民家庭，首套住房商业性个人住房贷款利率下限调整为不低\n于相应期限贷款市场报价利率（LPR）减 20 个基点，二套住房商业性个人住房贷款利率政策下限按\n现行规定执行。此举对稳定市场预期将起到积极作用，有利于进一步满足刚性和改善性住房需求， 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n促进房地产市场平稳健康发展。\n综上所述，属于“稳主体”对策的是①②③⑤，共 4 项。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第7题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-008",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某地采用传统销售模式，销售一批鸡蛋需要20天，销售一批桃子需要25天。为推动销售，当地开启县领导直播 带货模式，直播带货期间，鸡蛋的销售效率提高为原来的2倍，桃子销售效率为原来的3倍；其余销售时间依然 按照传统模式进行，结果两种产品同时销售完成。那么销售期间直播带货的天数为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查政治常识。\n2022 年 4 月 29 日，中共中央总书记习近平就依法规范和引导我国资本健康发展进行第三十八次集\n体学习时发表重要讲话。\nA、B 两项正确，习近平总书记在讲话中指出：“要历史地、发展地、辩证地认识和把握我国社会存\n在的各类资本及其作用。在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的重要纽\n带，是促进社会生产力发展的重要力量，要发挥资本促进社会生产力发展的积极作用。同时，必须\n认识到，资本具有逐利本性，如不加以规范和约束，就会给经济社会发展带来不可估量的危害。”\nC 项正确，习近平总书记在讲话中指出：“要加强资本领域反腐败，保持反腐败高压态势，坚决打\n击以权力为依托的资本逐利行为，着力查处资本无序扩张、平台垄断等背后的腐败行为。”\nD 项错误，习近平总书记在讲话中指出：“要正确处理资本和利益分配问题。我国社会主义的国家\n性质决定了我们必须坚持按劳分配为主体、多种分配方式并存，在社会分配中体现人民至上。要注\n重经济发展的普惠性和初次分配的公平性，既注重保障资本参与社会分配获得增殖和发展，更注重\n维护按劳分配的主体地位，坚持发展为了人民、发展依靠人民、发展成果由人民共享，坚定不移走\n全体人民共同富裕的道路。”\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第8题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-009",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "北京冬奥会期间，冬奥会吉祥物“冰墩墩”纪念品十分畅销。销售期间某商家发现，进价为每个40元的“冰墩 墩”，当售价定为44元时，每天可售出300个，售价每上涨1元，每天销量减少10个。现商家决定提价销售，若",
+    "options": [
+      {
+        "label": "A",
+        "content": "51元"
+      },
+      {
+        "label": "B",
+        "content": "52元"
+      },
+      {
+        "label": "C",
+        "content": "54元"
+      },
+      {
+        "label": "D",
+        "content": "57元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查政治常识。\n①正确，中国共产党第十九届中央委员会第六次全体会议公报指出：“全会决定，中国共产党第二\n十次全国代表大会于 2022 年下半年在北京召开。全会认为，党的二十大是我们党进入全面建设社会\n主义现代化国家、向第二个百年奋斗目标进军新征程的重要时刻召开的一次十分重要的代表大会，\n是党和国家政治生活中的一件大事。”\n②正确，二十大代表的产生，要坚持和加强党的全面领导，充分发扬党内民主，采取自下而上、上\n下结合、反复酝酿、逐级遴选的办法进行。代表产生程序有 5 个主要环节，即推荐提名、组织考察、\n确定代表候选人初步人选、确定代表候选人预备人选、会议选举。\n③正确，党中央提出，二十大代表应是共产党员中的优秀分子。要严把人选政治关，坚持把政治标\n准放在首位，突出考察人选的理想信念、政治品格和道德修养，着重了解人选政治判断力、政治领\n悟力、政治执行力，增强“四个意识”、坚定“四个自信”、做到“两个维护”等方面的表现情况，\n对政治上不合格的一票否决。\n④正确，中央组织部负责人就做好二十大代表选举工作接受采访时表示，党中央明确，二十大代表\n名额共 2300 名，与十九大时相同。二十大代表名额的分配，主要根据党组织数量和党员人数确定，\n同时考虑前几次党的全国代表大会代表名额等因素。按照这一分配办法，各选举单位的代表名额，\n与十九大时基本相同。\n故①②③④说法正确。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第9题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-010",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "为了加强环境治理和生态修复，某市派出4位专家（甲、乙、丙、丁）前往某山区3个勘探点进行环境检测，要 求每个勘探点至少安排一名专家。那么甲、乙两名专家去了不同勘探点的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3/4"
+      },
+      {
+        "label": "B",
+        "content": "1/6"
+      },
+      {
+        "label": "C",
+        "content": "5/6"
+      },
+      {
+        "label": "D",
+        "content": "1/4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版) 第 4 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第10题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-011",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "商家门口摆放了一把正四棱锥形（底面为正方形，侧面为四个全等的等腰三角形）的遮阳伞，第一次伞撑开到 图1所示的位置，伞柄与伞骨成角 为 ， 继续撑开到如图2所示的位置，伞柄与伞骨成角 为 变 ，那么第二次伞撑开后形成的正方形 第一次撑开后正方形ABCD面积的： 是",
+    "options": [
+      {
+        "label": "A",
+        "content": "倍"
+      },
+      {
+        "label": "B",
+        "content": "倍"
+      },
+      {
+        "label": "C",
+        "content": "2倍"
+      },
+      {
+        "label": "D",
+        "content": "3倍"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题考查经济常识。\nA 项错误，信用风险又称违约风险，是指借款人、证券发行人或交易对方因种种原因，不愿或无力\n履行合同条件而构成违约，致使银行、投资者或交易对方遭受损失的可能性。因此，金融产品价格\n波动不属于信用风险。\nB 项错误，人们将开放式基金分为四种基本类型：股票型基金、混合型基金、债券型基金、货币型\n基金。混合型基金指同时投资于股票、债券和货币市场等工具，没有明确投资方向的基金。而货币\n型基金主要投资于货币市场的基金，相对来说，它的风险是最低的。\nC 项正确，存款保险主要保障的是储蓄存款，如果存款保险成员机构发生经营危机，或者面临破产\n倒闭，那么存款保险就可以为该成员机构提供财务方面的救助，或者直接向存款人支付部分或全部\n的存款，从而保障存款人的相关权益。但是银行自营的理财产品并不属于储蓄存款，因此是不属于\n存款保险制度的保障范围之内的。\nD 项错误，金融债券是由银行和非银行金融机构发行的债券。从收益方面看，债券在购买之前，利\n率已定，到期就可以获得固定利息，而不用管发行债券的公司经营获利与否；股票一般在购买之前\n不定股息率，股息收入随股份公司的盈利情况变动而变动，盈利多就多得，盈利少就少得，无盈利\n不得。从本金方面看，债券到期可回收本金，也就是说连本带利都能得到，如同放债一样；股票则\n无到期之说。股票本金一旦交给公司，就不能再收回，只要公司存在，就永远归公司支配。公司一\n旦破产，还要看公司剩余资产清盘状况，那时甚至连本金都会蚀尽，所以债券的风险性小于股票。\n储蓄产品是指银行推出的存钱产品，风险是最低的。因此，风险由大到小排序：股票＞金融债券＞\n储蓄产品。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第11题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q011.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-012",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "滑雪和滑冰是冬奥会的两大项赛事，其中高山滑雪、自由式滑雪、单板滑雪、跳台滑雪、越野滑雪和北欧两项 是滑雪大项中的6个分项，短道速滑、速度滑冰和花样滑冰是滑冰大项中的3个分项。小林打算去现场观看比 赛，共选择6个项目，并且每个大项不少于1个，若所有项目比赛时间均不交叉，则不同的观赛方式有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "83种"
+      },
+      {
+        "label": "B",
+        "content": "84种"
+      },
+      {
+        "label": "C",
+        "content": "92种"
+      },
+      {
+        "label": "D",
+        "content": "102种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查科技常识。\nA 项错误，上旋球的运动方向和自转方向一样，球向前运动，由于空气具有一定的粘滞性，当乒乓\n球向前转动时，空气就与球的上表面产生摩擦，就会导致球体上表面相对空气的旋转速度小，下表\n面相对空气的旋转速度大。\nB 项正确，由于球体的上表面相对空气的旋转速度小，下表面相对空气的旋转速度大，根据伯努利\n原理，流速大的地方压强小，所以下表面受的气体压强小，故上旋球下坠速度比正常快。\nC 项正确，当乒乓球转速越大，上表面的空气流动速度和下表面的空气流动速度差就越大，上下表 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n面压强差就越大，所以下坠得就越快。\nD 项正确，上旋球的运动方向和自转方向一样，球向前运动，上表面是向前转动，下表面是向后转\n动。\n本题为选非题，故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第12题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-013",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某方舱医院配有1000张床位，现已接收新冠确诊患者200名，并按床护比（护士数与床位数的比值）0.6：1配齐 了护士人员。因疫情发展迅速，该医院又收治了700名患者，此时床护比下调为0.2：1，那么还需增加护士：",
+    "options": [
+      {
+        "label": "A",
+        "content": "80名"
+      },
+      {
+        "label": "B",
+        "content": "60名"
+      },
+      {
+        "label": "C",
+        "content": "40名"
+      },
+      {
+        "label": "D",
+        "content": "20名"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查法律常识。\nA 项正确，根据《中华人民共和国行政诉讼法》第十二条第一款第一项规定：“人民法院受理公民、\n法人或者其他组织提起的下列诉讼：（一）对行政拘留、暂扣或者吊销许可证和执照、责令停产停\n业、没收违法所得、没收非法财物、罚款、警告等行政处罚不服的；”\nB 项错误，根据《中华人民共和国行政诉讼法》第十三条第二项规定：“人民法院不受理公民、法\n人或者其他组织对下列事项提起的诉讼：（二）行政法规、规章或者行政机关制定、发布的具有普\n遍约束力的决定、命令；”题中，《X 市湿地保护办法》属于规章或行政机关制定、发布的具有普\n遍约束力的决定、命令，不得对其提起行政诉讼。\nC 项正确，根据《中华人民共和国行政诉讼法》第三十七条规定：“原告可以提供证明行政行为违\n法的证据。原告提供的证据不成立的，不免除被告的举证责任。”\nD 项正确，根据《中华人民共和国行政诉讼法》第三十四条第一款规定：“被告对作出的行政行为\n负有举证责任，应当提供作出该行政行为的证据和所依据的规范性文件。”\n本题为选非题，故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第13题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-014",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某市举行庆典活动，将依次升空105架无人机，升空方式如下：每架无人机间距均相等，第一次升空n架，第二 次升空n-1架，以此类推，最终在夜空中组成一个近似等边三角形背景的灯光秀，那么第10次升空的无人机数 量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3架"
+      },
+      {
+        "label": "B",
+        "content": "5架"
+      },
+      {
+        "label": "C",
+        "content": "8架"
+      },
+      {
+        "label": "D",
+        "content": "10架"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查科技常识。\nA 项正确，姜黄素是一种天然化合物，具有良好的抗炎和抗癌特性。姜黄素是从姜科、天南星科中\n的一些植物的根茎中提取的一种二酮类化合物，其中，姜黄中约含姜黄素 3%～6%，是植物界很稀少\n的具有二酮结构的色素。\nB 项错误，山梨酸，又称为清凉茶酸、2,4-己二烯酸、2-丙烯基丙烯酸，是一种食品添加剂。山梨\n酸和山梨酸钾是国际上应用最广的防腐剂，具有较高的抗菌性能，抑制霉菌的生长繁殖，通过抑制\n微生物体内的脱氢酶系统，达到抑制微生物的生长和起防腐作用。酸度调节剂亦称 pH 调节剂，是用\n以维持或改变食品酸碱度的物质。规定允许使用的酸度调节剂有柠檬酸、柠檬酸钾、乳酸、酒石酸\n等。\nC 项正确，抗氧化剂是指能防止或延缓食品氧化，提高食品的稳定性和延长贮存期的食品添加剂。\n维生素 C 具有很强的还原性，是高效抗氧化剂。\nD 项正确，甜味剂是指能赋予软饮料甜味的食品添加剂。木糖醇是一种有机化合物，是从白桦树、\n橡树、玉米芯、甘蔗渣等植物原料中提取出来的一种天然甜味剂。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第14题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-015",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副对 联既可以顺读也可以逆读，被称作回文联。数学中也有类似回文数，如212、37473等，则三位数中回文数是奇 数的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2/9"
+      },
+      {
+        "label": "B",
+        "content": "1/3"
+      },
+      {
+        "label": "C",
+        "content": "4/9"
+      },
+      {
+        "label": "D",
+        "content": "5/9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版) 第 5 题，题干匹配度 92%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第15题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-016",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某智能停车场泊车的泊车位置由电脑随机派位生成。现有两排车位，每排4个，有4辆不同的车需要泊车。泊车 要求至少有一车与其它车不同排，且甲乙两车在同一排。则电脑可生成几种派位方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "672"
+      },
+      {
+        "label": "B",
+        "content": "480"
+      },
+      {
+        "label": "C",
+        "content": "384"
+      },
+      {
+        "label": "D",
+        "content": "288"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查人文常识。\nA 项正确，诗句出自唐代李贺的《李凭箜篌引》，意思是乐声清脆动听得就像昆仑山美玉击碎，凤\n凰鸣叫；时而使芙蓉在露水中饮泣，时而使香兰开怀欢笑。描写的乐器是箜篌。\nB 项错误，诗句出自唐代李颀的《听董大弹胡笳声兼寄语弄房给事》，意思是幽咽琴声忽转轻松潇\n洒，像大风吹林如大雨落瓦。“胡笳声”，也就是《胡笳弄》，是按胡笳声调翻为琴曲。描写的乐\n器为古琴。\nC 项正确，诗句出自唐代白居易的《夜筝》，意思是忽然，弦声凝绝、柔指轻顿，那片刻的宁静又\n诉说出千万重的深情。描写的乐器是古筝。\nD 项正确，诗句出自唐代白居易的《琵琶行》，意思是一会儿像黄鹂在花下啼鸣婉转流利，一会儿\n又像泉水在冰下流动滞涩不畅。好像冰泉冷涩琵琶声开始凝结，凝结而不通畅声音渐渐地中断。描\n写的乐器是琵琶。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第16题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-017",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某单位四个党史宣讲小组各有若干组员，现增加2人并重新分配，使得四个小组人数相等。此时与原先相比， 第一小组人数增加10人，第二小组人数减少1人，第三小组人数增加一倍，第四小组人数减半。则原先人数最 多的小组与人数最少的小组之间相差：",
+    "options": [
+      {
+        "label": "A",
+        "content": "15人"
+      },
+      {
+        "label": "B",
+        "content": "21人"
+      },
+      {
+        "label": "C",
+        "content": "24人"
+      },
+      {
+        "label": "D",
+        "content": "32人"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查法律常识。\nA 项错误，根据《中华人民共和国消防法》第十六条第一款第三项规定：“机关、团体、企业、事\n业等单位应当履行下列消防安全职责：（三）对建筑消防设施每年至少进行一次全面检测，确保完\n好有效，检测记录应当完整准确，存档备查。”题中，每季度至少进行一次全面检测说法错误。\nB 项正确，根据《生产安全事故报告和调查处理条例》第十九条规定：“特别重大事故由国务院或\n者国务院授权有关部门组织事故调查组进行调查。重大事故、较大事故、一般事故分别由事故发生\n地省级人民政府、设区的市级人民政府、县级人民政府负责调查。省级人民政府、设区的市级人民\n政府、县级人民政府可以直接组织事故调查组进行调查，也可以授权或者委托有关部门组织事故调\n查组进行调查。未造成人员伤亡的一般事故，县级人民政府也可以委托事故发生单位组织事故调查\n组进行调查。”\nC 项错误，根据《危险化学品安全管理条例》第六条第二项规定：“对危险化学品的生产、储存、\n使用、经营、运输实施安全监督管理的有关部门（以下统称负有危险化学品安全监督管理职责的部\n门），依照下列规定履行职责：（二）公安机关负责危险化学品的公共安全管理，核发剧毒化学品\n购买许可证、剧毒化学品道路运输通行证，并负责危险化学品运输车辆的道路交通安全管理。”\nD 项错误，根据《生产安全事故报告和调查处理条例》第十一条规定：“安全生产监督管理部门和\n负有安全生产监督管理职责的有关部门逐级上报事故情况，每级上报的时间不得超过 2 小时。”\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第17题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-018",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "A、B两个乡镇分布于山谷两侧，山谷间有一条宽为2km的河道（如下图所示）。当地政府决定在两个乡镇间修 建一条跨河公路促进旅游发展。由于架桥费用高昂，所以要求跨河公路中的桥梁路段长度最短。那么根据图中 数据，从A镇前往B镇的最短距离为： A.17km",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "15km"
+      },
+      {
+        "label": "C",
+        "content": "19km"
+      },
+      {
+        "label": "D",
+        "content": "20km"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查人文常识。\nA 项正确，D 项错误，2020 年 3 月 2 日，习近平总书记同有关部门负责同志和专家学者就疫情防控\n科研攻关工作座谈。他指出，纵观人类发展史，人类同疾病较量最有力的武器就是科学技术，人类 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n战胜大灾大疫离不开科学发展和技术创新。我国历史上有很多防治瘟疫的医疗著作和方法。《汉\n书·平帝纪》记载，元始二年，“民疾疫者，舍空邸第，为置医药”，提出了“隔离”是防疫的重\n要举措。明代中期我国就出现了预防天花的“人痘”接种术。\nB 项正确，1910 年，中国哈尔滨爆发鼠疫，时任北洋陆军医学院副监督伍连德医生发明了“伍氏口\n罩”，是中国第一款口罩。\nC 项正确，安济坊，宋代理疗机构名。北宋元佑五年（公元 1090 年），文学家苏轼在杭州领导控制\n流行病时始建“病坊”，又名“安乐”。崇宁二年（公元 1103 年）政府将“安乐”接管并易名为“安\n济坊”，其后，各地均有安济坊之设，政府定期派官员下坊巡视。\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第18题",
+    "region": "zhejiang",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    },
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q018.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-019",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "用一个长为20厘米、宽为2厘米、高为1.5厘米的长方体木料，制作一串半径最大的木珠子，不考虑制作过程中 的损耗，则这串珠子的数量最多为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10个"
+      },
+      {
+        "label": "B",
+        "content": "13个"
+      },
+      {
+        "label": "C",
+        "content": "14个"
+      },
+      {
+        "label": "D",
+        "content": "20个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查科技常识。\nA 项正确，玻璃杯是指玻璃制成的杯子，通常由原材料高硼硅玻璃，经过 600 多度的高温烧制而成，\n其物理强度高，与普遍玻璃相比，无毒副作用，其机械性能，热稳定性能，抗水、抗碱、抗酸等性\n能大大提高。用玻璃杯喝冰橙汁对身体基本不会产生危害。\nB 项错误，不锈钢材质对于酸性饮料不具有防腐蚀特性，碳酸饮料属于酸性物质，长时间使用不锈\n钢杯装碳酸饮料不仅会破坏腐蚀水杯内壁，更会对人体造成伤害，因此不宜用不锈钢杯喝碳酸饮料。\nC 项错误，塑料杯通常由聚苯乙烯（PS）制作而成，用其装酸（如柳橙汁）、碱性物质后，会分解\n出致癌物质，不耐高温；其温度达到六十几度的时候会变形，产生对人体有害的物质，因此不宜能\n用塑料杯盛放刚烧开的水。\nD 项错误，彩釉陶瓷杯上的图案是用颜料涂画而来，内壁涂有彩釉，当装入开水、酸性、碱性饮料\n时，铅等有害重金属元素会溶解在饮料中，对健康不利。因此不宜用内壁涂有彩釉的陶瓷杯喝热姜\n汁。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第19题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2022-020",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年时，李某的年龄是自己工龄的4倍，且正好是张某年龄的 。到2024年时，张某的年龄正好是自己工龄的 2倍。已知张某参加工作时李某10岁，那么李某参加工作时的年龄是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "18岁"
+      },
+      {
+        "label": "B",
+        "content": "21岁"
+      },
+      {
+        "label": "C",
+        "content": "24岁"
+      },
+      {
+        "label": "D",
+        "content": "27岁 二. 常识判断：根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查人文常识。\nA 项错误，中国传统绘画中，有许多描写传说故事的题材。比如历代画家都有不少《雪夜访戴图》，\n如元代张渥、明代周文靖等。这些画作是以东晋王徽之雪夜乘舟访问朋友戴逵的故事为创作背景。\n《雪夜访戴》出自《世说新语·任诞》，讲述王徽之雪夜访戴安道，未至而返，显示了他作为名士\n的潇洒自适。\nB 项正确，本生故事画描绘释迦牟尼生前的各种善行，宣传“因果报应”“苦修行善”的生动故事。\n也是敦煌早期壁画中广泛流行的题材，如“萨捶那舍身饲虎”“尸毗王割肉救鸽”“九色鹿舍己救\n人”等。\nC 项错误，吴道子（约 680 年—759 年），又名道玄，唐代著名画家，后世尊称其为画圣。擅佛道、\n神鬼、人物、山水、鸟兽、草木、楼阁等，尤精于佛道、人物，长于壁画创作。顾恺之，东晋杰出\n画家、绘画理论家，精于人像、佛像、禽兽、山水等，世人称之为三绝：画绝、文绝和痴绝。\nD 项错误，《潇湘竹石图》为北宋苏轼创作的绢本水墨画。采用长卷式构图，展现湖南省零陵县西\n潇、湘二水合流处，遥接洞庭巨浸的苍茫景色。整幅画作以潇湘二水的交汇点为中心，远山烟水，\n风雨瘦竹，近水与云水、蹲石与远山、筱竹与烟树产生强烈对比，让人在窄窄画幅内如阅千里江山。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第20题",
+    "region": "zhejiang"
+  }
+]

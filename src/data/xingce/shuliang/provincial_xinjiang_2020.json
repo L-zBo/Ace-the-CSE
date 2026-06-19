@@ -1,0 +1,704 @@
+[
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "86，41，27，18，13，6，5，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：37%，易错项：C。\n解析\n第一步，本题考查多重数列。\n第二步，数列递减趋势平缓，做差、递推均无果。观察数列有8项，尝试分组。四四分组则有：86=41+27+18；\n13=6+5+（2）。原数列所求项为2。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第51题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "1，1，7，8，10，18，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "25"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：12%，易错项：C。\n解析\n第一步，本题考查多级数列。\n数列，分别是3、4、5、6的平方，则下一项是7的平方即49。原数列所求项为49一18一10=21。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第52题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "18，26，50，122，338，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "628"
+      },
+      {
+        "label": "B",
+        "content": "961"
+      },
+      {
+        "label": "C",
+        "content": "986"
+      },
+      {
+        "label": "D",
+        "content": "1014 - 8 - 2020 年新疆公务员考试《行测》真题"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：61%，易错项：B。\n解析\n第一步，本题考查多级数列。\n第二步，数列递增趋势较为平缓，优先考虑做差。原数列两两做差得到新数列8、24、72、216，是一个公比为\n3的等比数列，下一项为216×3=648。则原数列所求项为338+648=986。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第53题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "40，56，78，106，122，（ ），172",
+    "options": [
+      {
+        "label": "A",
+        "content": "137"
+      },
+      {
+        "label": "B",
+        "content": "144"
+      },
+      {
+        "label": "C",
+        "content": "148"
+      },
+      {
+        "label": "D",
+        "content": "166"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：49%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，数列递增趋势较为平缓，优先考虑做差。原数列两两做差得到新数列16、22、28、16，括号在中间先\n猜后验，猜测新数列后两项为22、28，是个周期列，则原数列所求项为122+22=144，172-144=28，符合规\n-14-\n2010年深圳公务员考试《行测》真题\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单），一个上岸考生分享经验和答疑的平台。\n律。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第54题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，12，28，56，102，172，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "202"
+      },
+      {
+        "label": "B",
+        "content": "214"
+      },
+      {
+        "label": "C",
+        "content": "242"
+      },
+      {
+        "label": "D",
+        "content": "272"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：34%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，数列递增趋势较为平缓，优先考虑做差。原数列两两做差得到新数列10、16、28、46、70，继续做差\n得到下一级数列为6、12、18、24，是一个公差为6的等差数列，下一项为30，则第一次做差所得数列下一项\n为100，原数列所求项为172+100=272。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第55题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某阶梯会议室有 16 排座位，后一排比前一排多 2 个，最后一排有 40 个座位。这个阶梯会议室共有多少个 座位？",
+    "options": [
+      {
+        "label": "A",
+        "content": "300"
+      },
+      {
+        "label": "B",
+        "content": "350"
+      },
+      {
+        "label": "C",
+        "content": "400"
+      },
+      {
+        "label": "D",
+        "content": "440"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：60%，易错项：B。\n解析\n第一步，本题考查数列问题。\n一排有40一（16一1）×2=10（个）座位，根据求和公式：\n2，那么这个阶梯教室共有座位\n（10+40）×16÷2=400（个）。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第56题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某美术馆计划展出 12 幅不同的画，其中有 3 幅油画、4 幅国画、5 幅水彩画，排成一行陈列，要求同一种 类的画必须连在一起，并且油画不放在两端，问有多少种不同的陈列方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1 万种"
+      },
+      {
+        "label": "B",
+        "content": "1 万—2 万种之间"
+      },
+      {
+        "label": "C",
+        "content": "2 万—3 万种之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 3 万种"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：15%，易错项：C。\n解析\n第一步，本题考查排列组合问题，用捆绑法解题。\n第二步，3幅油画捆绑在一起，4幅国画捆绑在一起，5幅水彩画捆绑在一起，一共3个整体，但是油画不能在\n>30000（种）。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第57题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某新型建材生产车间计划生产 480 个建材，当生产任务完成一半时，暂时停止生产，对器械进行维修清理， 用时 20 分钟。恢复生产后工作效率提高了三分之一，结果完成任务时间比原计划提前了 40 分钟，问对器械进 行维修清理后每小时生产多少个建材？",
+    "options": [
+      {
+        "label": "A",
+        "content": "80"
+      },
+      {
+        "label": "B",
+        "content": "87"
+      },
+      {
+        "label": "C",
+        "content": "94"
+      },
+      {
+        "label": "D",
+        "content": "102"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：19%，易错项：C。\n解析\n解法一：第一步，本题考查工程问题。\n第二步，设机器维修清理前每小时生产3x个建材，那么维修清理后每小时生产4x个建材。维修清理花费20分\n240240\n=1\n钟，最后又提前40分钟完成，后一半任务的实际用时比原来少1小时。可列方程：3c4c\n，解得x\n=20，那么机器维修清理后每小时生产20×4=80（个）建材。\n因此，选择A选项。\n解法二：第一步，本题考查工程问题，用数字特性解题。\n维修清理后每小时生产个数是4的倍数，只有A符合。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第58题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某地居民生活使用天然气每月标准立方数的基本价格为 4 元/立方，若每月使用天然气超过标准立方数， 超出部分按其基本价格的 80%收费。某用户 2 月份使用天然气 100 立方，共交天然气费 380 元，则该市每月使 用天然气标准立方数为多少立方？",
+    "options": [
+      {
+        "label": "A",
+        "content": "60"
+      },
+      {
+        "label": "B",
+        "content": "65"
+      },
+      {
+        "label": "C",
+        "content": "70"
+      },
+      {
+        "label": "D",
+        "content": "75"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：23%，易错项：C。\n解析\n第一步，本题考查经济利润问题。\n第二步，每个月使用的天然气超过标准立方数后每立方的价格为4×80%=3.2（元）。设每月使用天然气标准\n立方数为x立方，可列方程：4x+3.2×（100-x）=380，解得x=75，即每月使用天然气标准立方数为75立\n方。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第59题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某单位共有 240 名员工，其中订阅 A 期刊的有 125 人，订阅 B 期刊的有 126 人，订阅 C 期刊的有 135 人， 订阅 A、B 期刊的有 57 人，订阅 A、C 期刊的有 73 人，订阅 3 种期刊的有 31 人，此外，还有 17 人没有订阅这 三种期刊中的任何一种。问订阅 B、C 期刊的有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 期刊的有 57 人，订阅 A、C 期刊的有 73 人，订阅 3 种期刊的有 31 人，此外，还有 17 人没有订阅这 三种期刊中的任何一种。问订阅"
+      },
+      {
+        "label": "B",
+        "content": "C 期刊的有多少人？ A、57 B、64"
+      },
+      {
+        "label": "C",
+        "content": "69"
+      },
+      {
+        "label": "D",
+        "content": "78"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：37%，易错项：C。\n解析\n2010年深圳公务员考试《行测》真题\n-15 -\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单），一个上岸考生分享经验和答疑的平台。\n第一步，本题考查容斥原理。\n第二步，题目中满足两个条件的集合人数是分别给出的，应用三集合标准型容斥原理公式解题。设订阅B、C期\n刊的有x人，可列方程：125+126+135一57-73一x+31=240-17，解得x=64（也可利用尾数法求得尾数为\n4)。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第60题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "56 人参加户外拓展训练，将 22 人安排在 A 营地，34 人安排在 B 营地。从 12:01 开始，每逢整点 A 营地派 出 12 人前往 B 营地，B 营地派出 8 人前往 A 营地。已知两个营地之间的单程用时为 30 分钟，问以下哪个时间 点，位于 B 营地的人数正好是 A 营地的 3 倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "13:20"
+      },
+      {
+        "label": "B",
+        "content": "13:40"
+      },
+      {
+        "label": "C",
+        "content": "14:20"
+      },
+      {
+        "label": "D",
+        "content": "14:40"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：9%，易错项：C。\n解析\n第一步，本题考查基础应用题。\n第二步，根据题意，分析如下：\n人数\nA营地\nB营地\n12:01\n22人\n34人\n13:20\n22-12=10人\n34-8=26人\n13:40\n10+8=18人\n26+12=38人\n14:20\n18-12=6人\n38-8=30人\n14:40\n6+8=14人\n30+12=42人\n由于42=14×3，可知在14：40时位于B营地的人数正好是A营地的3倍。\n因此，选择D选项",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第61题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "[数列/数学推理题，参见图片]",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两地相距 600 千米，甲车上午 9 时从 A 地开往 B 地，乙车上午 10 时从 B 地开往 A 地，到中午 13 时， 两辆车恰好在 A、B 两地的中点相遇。如果甲、乙两辆车都从上午 9 时由两地相向开出，速度不变，到上午 11 时，两车还相距多少千米？ A、100"
+      },
+      {
+        "label": "B",
+        "content": "150"
+      },
+      {
+        "label": "C",
+        "content": "200"
+      },
+      {
+        "label": "D",
+        "content": "250"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：15%，易错项：C。\n解析\n第一步，本题考查行程问题，用方程法解题。\n第二步，根据题意可知，甲从9时到13时，经过4小时到达中点，乙从10时到13时经过3小时到达中点，故\n甲的速度为300÷4=75，乙的速度为300÷3=100。\n第三步，从9时到11时经过2小时，此时两车相距600－（75+100）×2=250千米。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第62题",
+    "region": "xinjiang",
+    "questionImage": "/img/questions/provincial_xinjiang_2020/q062.png"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "为了实现营养的合理搭配，某营养师拟推出适合不同人群的甲、乙两个品种的饮食。其中，1 份甲品种中 有 3 千克 A 食物、1 千克 B 食物、1 千克 C 食物；1 份乙品种中有 1 千克 A 食物、2 千克 B 食物、2 千克 C 食物。 甲、乙两个品种的成本价分别为 A、B、C 三种食物的成本价之和。已知 A 食物每千克的成本价为 6 元。甲品种 每份售价为 58.5 元，利润为成本的 30%，乙品种的利润为成本的 20%。问如果两品种的总销售利润率至少要达 到总成本的 24%，销售甲、乙两个品种饮食的份数之比不应低于多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三种食物的成本价之和。已知 A 食物每千克的成本价为 6 元。甲品种 每份售价为 58.5 元，利润为成本的 30%，乙品种的利润为成本的 20%。问如果两品种的总销售利润率至少要达 到总成本的 24%，销售甲、乙两个品种饮食的份数之比不应低于多少？ A、5:7"
+      },
+      {
+        "label": "B",
+        "content": "6:8"
+      },
+      {
+        "label": "C",
+        "content": "7:9"
+      },
+      {
+        "label": "D",
+        "content": "8:9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：10%，易错项：C。\n解析\n第一步，本题考查经济利润问题。\n第二步，假设甲品种每份成本为x，则利润为0.3x，每份售价为x+0.3x=1.3x=58.5元，解得x=45（元）。\n由45=3A+B+C，A=6元，可得B+C=27（元），故每份乙品种的成本为A+2B+2C=6+2X27=60（元）。\n第三步，设甲、乙品种的销售份数分别为m、n，根据利润率十字交叉得到的是总成本之比，可得：\n甲30%\n4%\n/\n24%\nZ20%\n6%\n4%\n45m\nm\n8\n可得6%\n60n，解得n\n9\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第63题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两名运动员参加射箭比赛，每一箭的环数是不超过 10 的自然数，甲、乙两名运动员各射了 5 箭， 2020 年新疆公务员考试《行测》真题 - 9 - 每人 5 箭的环数乘积均为 1764，但乙的总环数比甲的少 4 环，则甲、乙两名运动员的总环数各是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "26、22"
+      },
+      {
+        "label": "B",
+        "content": "27、23"
+      },
+      {
+        "label": "C",
+        "content": "28、24"
+      },
+      {
+        "label": "D",
+        "content": "32、28"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：48%，易错项：B。\n解析\n第一步，本题考查约数倍数问题。\n第二步，将1764进行因数分解：1764=7×7×3×3×2×2。由于每一环都小于10，那么两个7不能与其他因数\n-16 -\n2010年深圳公务员考试《行测》真题\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单），一个上岸考生分享经验和答疑的平台。\n结合，必然甲乙都各有两个7环。剩下的乘积为36，和可以分解为9×4×1，也可以分解为4×3×3，和值分\n别是14和10，正好相差4。因此甲的总环数是7+7+9+4+1=28，乙的是7+7+3+3+4=24。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第64题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一艘轮船顺流而行，从甲地到乙地需要 6 天；逆流而行，从乙地到甲地需要 8 天。若不考虑其他因素，一 个漂流瓶从甲地到乙地需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "36"
+      },
+      {
+        "label": "C",
+        "content": "48"
+      },
+      {
+        "label": "D",
+        "content": "56"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：54%，易错项：B。\n解析\n第一步，本题考查行程问题，属于流水行船类。\n第二步，从甲到乙需要6天，从乙到甲需要8天，赋值甲乙间路程为48，则v船+v水=8、v船-v水=6，解得v\n水=1，一个漂流瓶从甲地到乙地需要48÷1=48（天）。\n因此，选择C选项。\n拓展\n也可直接使用公式：漂流时间=2+逆+顺/（+逆-+顺）=2×8×6/（8一6）=48（天）",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第65题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某商业小区计划打造两个娱乐广场，其中一个为正方形广场，面积为 320 平方米，另一个为圆形广场，其 直径比正方形广场的边长短 10%，问，圆形广场的面积是多少平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "206"
+      },
+      {
+        "label": "B",
+        "content": "307"
+      },
+      {
+        "label": "C",
+        "content": "452"
+      },
+      {
+        "label": "D",
+        "content": "824"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：11%，易错项：C。\n解析\n第一步，本题考查几何问题，属于平面几何类。\n第二步，设圆形半径为r，正方形边长为a，根据题意有a²=320，2r=a×（1-10%）=0.9a，将该式两边平\n>180×08×==08×18000×180=60=\n×80=251.2（平方米），结合选项，满足的只有A。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第66题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某演播大厅的地面形状是边长为 100 米的正三角形，现要用边长为 2 米的正三角形砖铺满（如图所示）。 问，需要用多少块砖？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2763"
+      },
+      {
+        "label": "B",
+        "content": "2500"
+      },
+      {
+        "label": "C",
+        "content": "2340"
+      },
+      {
+        "label": "D",
+        "content": "2300"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：39%，易错项：C。\n解析\n第一步，本题考查几何问题，属于几何特殊性质类。\n第二步，小正三角形和大正三角形为相似图形，相似图形面积比等于边长比的平方，边长比为100：2=50：1，\n面积比为50²：1²=2500：1，需要边长为2米的正三角形2500块。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第67题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某高校组织召开教职工代表大会，配备了 A、B 两个会务组成员，因工作需要，先将 A 组三分之一的工作 人员调到 B 组去帮忙。后来因为工作程序的改变又把 B 组工作人员中的 12 人调到 A 组，这时 A 组有 26 人，B 组有 14 人。问，最初 A 组的工作人员比 B 组的工作人员：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两个会务组成员，因工作需要，先将 A 组三分之一的工作 人员调到 B 组去帮忙。后来因为工作程序的改变又把 B 组工作人员中的 12 人调到 A 组，这时 A 组有 26 人，B 组有 14 人。问，最初 A 组的工作人员比 B 组的工作人员： A、多 2 人"
+      },
+      {
+        "label": "B",
+        "content": "少 2 人"
+      },
+      {
+        "label": "C",
+        "content": "多 12 人"
+      },
+      {
+        "label": "D",
+        "content": "少 12 人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：17%，易错项：C。\n解析\n解法一：第一步，本题考查基础应用题，用方程法解题。\n第二步，设原来A组有3x人、B组有y人。第一次调动A组人数的1/3即x人去B组，此时A组剩2x人、B组\n有（y+x）人；第二次调动后A组有（2x+12）人，B组有（x+y-12）人，根据题意可列式：2x+12=26，x+y一\n12=14，解得x=7，y=19。则最初A组的工作人员比B组的工作人员多3x-y=21-19=2（人）。\n因此，选择A选项。\n解法二：第一步，本题考查基础应用题，用倒推法解题。\n第二步，根据将B组中的12人调到A组后，A组26人、B组14人，可知此次调动前A组有26一12=14（人），\n1\nB组有14+12=26（人）。又根据“将A组三分之一的工作人员调到B组去帮忙”，可知最初A组有14÷（1－3）\n=21（人），B组有26一（21-14）=19（人），则最初A组的工作人员比B组的工作人员多21一19=2（人）。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第68题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲烧杯装有浓度为 6%的酒精 200 克，乙烧杯装有浓度为 10.5%的酒精 100 克。现向两个烧杯各加入 x 克水 后，两个烧杯中酒精浓度相同。问 x 的值为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "350"
+      },
+      {
+        "label": "B",
+        "content": "400"
+      },
+      {
+        "label": "C",
+        "content": "550"
+      },
+      {
+        "label": "D",
+        "content": "600"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：20%，易错项：C。\n解析\n第一步，本题考查溶液问题，用方程法解题。\n200× 6%_100×10.5%\n第二步，已知浓度=溶质/溶液，根据最后浓度相同可列式：200+\n100+，解得x=600。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第69题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2020-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示，边长为 4 米和 2 米的两个正方形，开始在左边重合，大正方形不动，小正方形自左向右平移至 出大正方形外停止。设小正方形移动的距离为 X，两个正方形重叠的面积为 Y，则 Y 关于 X 的函数关系用图像 表示正确的是： 第四部分 判断推理",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：28%，易错项：B。\n解析\n第一步，本题考查几何问题，属于其他几何类。\n第二步，当小正方形没有移动出大正方形时、即≤2时，两个正方形重鑫的面积Y即为小正方形的面积，不随\n2010年深圳公务员考试《行测》真题\n-17 -\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单），一个上岸考生分享经验和答疑的平台。\n着X的变化而变化，只有D选项符合。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考xinjiang行测第70题",
+    "region": "xinjiang",
+    "questionImage": "/img/questions/provincial_xinjiang_2020/q070.png"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "generatedAt": "2026-05-01T05:05:39.004915Z",
+  "source": "national",
+  "filters": {
+    "year": "2024"
+  },
+  "summary": {
+    "examCount": 3,
+    "issueCount": 3,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2024_dishi",
+      "source": "national",
+      "year": "2024",
+      "level": "dishi",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2024-dishi-067",
+              "number": 67,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2024_fushengjia",
+      "source": "national",
+      "year": "2024",
+      "level": "fushengjia",
+      "actualTotal": 135,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 15,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-panduan-2024-fushengjia-094",
+              "number": 94,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-ziliao-2024-fushengjia-116",
+              "number": 116,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-ziliao-2024-fushengjia-117",
+              "number": 117,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2024_xingzhengzhifa",
+      "source": "national",
+      "year": "2024",
+      "level": "xingzhengzhifa",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-panduan-2024-xingzhengzhifa-084",
+              "number": 84,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2024-xingzhengzhifa-064",
+              "number": 64,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    }
+  ]
+}

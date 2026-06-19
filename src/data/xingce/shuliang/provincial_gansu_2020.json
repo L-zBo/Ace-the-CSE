@@ -1,0 +1,356 @@
+[
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在屋内墙角处堆放稻谷（如图，谷堆为一个圆锥的四分之一），谷堆底部的弧长为 6 米，高为 2 米，经过一 夜发现谷堆在重力作用下底部的弧长变为 8 米，若谷堆的谷量不变那么此时谷堆的高为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "米"
+      },
+      {
+        "label": "B",
+        "content": "米"
+      },
+      {
+        "label": "C",
+        "content": "米"
+      },
+      {
+        "label": "D",
+        "content": "米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：16%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查几何问题，用比例法解题。\n第二步，变化前后谷量不变，也就是体积不变。由谷堆为一个圆锥的四分之一，变化前后圆锥半径之比与弧长之\n比一致，都为 6∶8=3∶4，根据几何放缩性质可知底面积之比为 9∶16，变化前后体积不变则高之比为反比，即\n\n16∶9。变化前谷堆高为 2，变化后高为\n因此，选择 A 选项。\n解法二：\n第一步，本题考查几何问题。\n第二步，由于谷堆是一个圆锥的四分之一，所以底面弧长应为底面圆周长的四分之一。当底面弧长是 6 米时，底\n\n。\n\n面周长应为 24 米，根据周长公式 C=2πr，\n\n，则此谷堆的体\n\n积\n\n；当底面弧长是 8 米时，底面周长应为 32 米;根据周长公式 C=2\n\nπr ，\n\n，则此谷堆的体积\n\n；根据谷堆谷量不变，即\n\n体积不变，可知\n因此，选择 A 选项。\n\n，解得 h= 。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考gansu行测第56题",
+    "region": "gansu",
+    "questionImage": "/img/questions/provincial_gansu_2020/q056.png"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某企业员工组织周末自驾游。集合后发现，如果每辆小车坐 5 人，则空出 4 个座位；如果每辆小车少坐 1 人， 则有 8 人没坐上车。那么，参加自驾游的小车有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9 辆"
+      },
+      {
+        "label": "B",
+        "content": "10 辆"
+      },
+      {
+        "label": "C",
+        "content": "11 辆"
+      },
+      {
+        "label": "D",
+        "content": "12 辆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：48%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设自驾游的小车数为 x，根据自驾游人数一定，可列方程 5x－4=4x＋8，解得 x=12。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考gansu行测第57题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某电商平台每隔 5 千米有一座仓库，共有 A、B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 - 8 - 将货物集中到哪座仓库？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 - 8 - 将货物集中到哪座仓库？ A、仓库 A"
+      },
+      {
+        "label": "B",
+        "content": "仓库 B"
+      },
+      {
+        "label": "C",
+        "content": "仓库 C"
+      },
+      {
+        "label": "D",
+        "content": "仓库 D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：57%，易错项：B。\n\n解析\n\n第一步，本题考查其他杂题。\n第二步，以 B、C 中间为界，左边货物（A 和 B）共有 10＋20＝30（吨），右边货物（C 和 D）共有 15＋25＝40\n（吨），左边货物较轻，所以将左边的货物往右边移动，A、B 货物均移到 C，此时 C 点共有货物 30＋15＝45（吨）。\n第三步，以 C、D 中间为界，C 点货物有 45 吨，D 点货物有 25 吨，D 点货物较轻，所以将 D 点货物移动到 C 点，\n使得运费最少，故将货物集中在 C 仓库。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考gansu行测第58题",
+    "region": "gansu",
+    "questionImage": "/img/questions/provincial_gansu_2020/q058.png"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵可成功完成突击任务，那么成功完成突击任务的概率有多大？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "10人小分队里有6人是特种兵，则另外4人是非特种兵，派出5人参战，共有种组合情况。\n若不能成功完成突击任务，则5名参战队员中只有1名特种兵或2名特种兵，共有种组合情况。\n则成功完成突击任务的概率。\n故正确答案为D。\n\n[来源 baijing1.top paperId=363 sort=59 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考gansu行测第59题",
+    "region": "gansu",
+    "questionImage": "/img/questions/provincial_gansu_2020/q059.png"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小明每天从家中出发骑自行车经过一段平路，再经过一道斜坡后到达学校上课。某天早上，小明从家中骑车 出发，一到校门口就发现忘带课本，马上返回，从离家到赶回家中共用了 1 个小时，假设小明当天平路骑行速度 为 9 千米/小时，上坡速度为 6 千米/小时，下坡速度为 18 千米/小时，那么小明的家距离学校多远？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.5 千米"
+      },
+      {
+        "label": "B",
+        "content": "4.5 千米"
+      },
+      {
+        "label": "C",
+        "content": "5.5 千米"
+      },
+      {
+        "label": "D",
+        "content": "6.5 千米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：52%，易错项：C。\n\n解析\n\n第一步，本题考查行程问题，属于基本行程类。\n第二步，根据题意，小明从家到学校进行往返，上下坡距离相等，可利用等距离平均速度求得\n\n千米/小时，由于平路速度也为 9 千米/小时，往返总时间是 1 小时，故往返总路\n\n程为 9×1＝9 千米，则小明的家距离学校 9÷2=4.5 千米。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考gansu行测第60题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲乙丙丁四人通过手机的位置共享，发现乙在甲正南方向 2 公里处，丙在乙北偏西 60°方向 2 公里处，丁 在甲北偏西 75°方向。若丁与甲、丙的距离相等，则该距离为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 公里"
+      },
+      {
+        "label": "B",
+        "content": "公里"
+      },
+      {
+        "label": "C",
+        "content": "公里"
+      },
+      {
+        "label": "D",
+        "content": "2 公里"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：41%，易错项：C。\n\n解析\n\n第一步，本题考查平面几何问题。\n第二步，由题意可得，甲、乙、丙、丁四人位置关系如下图所示：\n\n第三步，甲乙＝乙丙＝2 公里，∠乙＝60°，故甲、乙、丙三人位置关系成等边三角形，那么甲丙的距离为 2 公\n里；甲丁＝丙丁，∠丁甲丙＝15＋30＝45°，故甲、丙、丁三人位置关系为等腰直角三角形，甲丙的距离为 2 公\n\n里，根据等腰直角三角形对应边比例为 1∶1∶ ，可得丁与甲、丙距离为\n因此，选择 B 选项。\n\n＝\n\n（公里）。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考gansu行测第61题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某学习平台的学习内容由观看视频、阅读文章、收藏分享、论坛交流、考试答题五个部分组成。某学员要先 后学完这五个部分，若观看视频和阅读文章不能连续进行，该学员学习顺序的选择有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24 种"
+      },
+      {
+        "label": "B",
+        "content": "72 种"
+      },
+      {
+        "label": "C",
+        "content": "96 种"
+      },
+      {
+        "label": "D",
+        "content": "120 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n第一步，本题考查排列组合问题，用插空法解题。\n\n第二步，观看视频和阅读文章不能连续进行，先把收藏分享、论坛交流和考试答题排列好，共有 ＝6（种）方\n\n式，这三部分形成 4 个空，需在 4 个空中插入“观看视频”和“阅读文章”，有 ＝12（种）方式，那么共有\n6×12＝72（种）学习顺序。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考gansu行测第62题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%，那 么，该单位职工小张种植 3 棵树苗，至少成活 2 棵的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "植树成活的概率为，即，则死亡的概率为。小张种植了3棵树苗，至少成活2棵包含2种情况，分类讨论如下：\n（1）成活2棵的概率为：；\n（2）成活3棵的概率为：；\n分类用加法，则至少成活2棵的概率为。\n故正确答案为D。\n\n[来源 baijing1.top paperId=363 sort=63 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考gansu行测第63题",
+    "region": "gansu",
+    "questionImage": "/img/questions/provincial_gansu_2020/q063.png"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某篮球队共有九人，分三组举行三人制篮球赛，他们的球衣号码分别是从 1 号到 9 号，分组后发现三组的球 衣号码之和不同，且最大和是最小和的两倍。则各组号码之和不可能是下列哪个数？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：19%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查基础计算问题，用代入排除法解题。\n第二步，1—9 数字之和为 5×9=45，依次代入选项：A 选项，当号码和为 10 且为最小组的号码和，则最大的组\n是其两倍为 20，另一组为 45-10-20=15，10＜15＜20，符合题意；B 选项，当号码和为 11 且为最小组的号码和，\n最大的组是其两倍为 22，另一组为 45-11-22=12，11＜12＜22，符合题意。（由于代入 B 选项时，其中一组号码\n和为 12，故 C 选项 12 也可满足）\n因此，选择 D 选项。\n解法二：\n第一步，本题考查基础计算问题。\n第二步，1—9 数字之和为 5×9=45，根据最大组号码之和是最小组的两倍，设最小组为 x，则最大组为 2x，中间\n组为 45-3x，可知，中间组一定为 3 的倍数；最大组号码之和最大为 7+8+9=24，则最小组号码之和最大为 24÷\n2=12，D 选项大于 12 且不是 3 的倍数，不可能成立。\n因此，选择 D 选项。\n\n拓展\n\n等差数列前 n 项和＝中位数×项数",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考gansu行测第64题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2020-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小王在荡秋千，当秋千摆角为 30°时，它摆到最高位置与最低位置的高度差为 0.45 米。小王为寻求更大的 刺激感，将秋千摆角增加 15°，则秋千能摆到的最高位置约上升了多少米？（ ， ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.15 米"
+      },
+      {
+        "label": "B",
+        "content": "0.24 米"
+      },
+      {
+        "label": "C",
+        "content": "0.37 米"
+      },
+      {
+        "label": "D",
+        "content": "0.41 米 第四部分 判断推理"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：10%，易错项：C。\n\n解析\n\n第一步，本题考查几何问题，属于其他几何类问题。\n第二步，根据题意，秋千的摆绳长度是固定的，假设其长度为 l，秋千摆角为 30°时，则根据 30°直角三角形\n\n性质可得，\n\n米，解得 l＝3 米；秋千摆角增加 15°时，根据 45°直角三角形性质可得，\n\n米，因此秋千摆到最高位置上升了 0.86－0.45＝0.41 米。\n\n因此，选择 D 选项。\n\n拓展\n\n30°，60°，90°直角三角形边长比例关系：1∶√3∶2\n45°，45°，90°直角三角形边长比例关系：1∶1∶√2",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考gansu行测第65题",
+    "region": "gansu"
+  }
+]

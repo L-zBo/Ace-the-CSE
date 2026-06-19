@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-04-28T09:55:05.272445Z",
+  "source": "national",
+  "exams": [
+    {
+      "key": "national_2025_dishi",
+      "source": "national",
+      "year": "2025",
+      "level": "dishi",
+      "expectedTotal": 130,
+      "actualTotal": 130,
+      "expectedModules": {
+        "changshi": 35,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "actualModules": {
+        "changshi": 35,
+        "panduan": 35,
+        "shuliang": 10,
+        "yanyu": 30,
+        "ziliao": 20
+      },
+      "issueCount": 0,
+      "ready": true
+    },
+    {
+      "key": "national_2025_fushengjia",
+      "source": "national",
+      "year": "2025",
+      "level": "fushengjia",
+      "expectedTotal": 135,
+      "actualTotal": 135,
+      "expectedModules": {
+        "changshi": 35,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "actualModules": {
+        "changshi": 35,
+        "panduan": 35,
+        "shuliang": 15,
+        "yanyu": 30,
+        "ziliao": 20
+      },
+      "issueCount": 0,
+      "ready": true
+    },
+    {
+      "key": "national_2025_xingzhengzhifa",
+      "source": "national",
+      "year": "2025",
+      "level": "xingzhengzhifa",
+      "expectedTotal": 130,
+      "actualTotal": 130,
+      "expectedModules": {
+        "changshi": 35,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "actualModules": {
+        "changshi": 35,
+        "panduan": 35,
+        "shuliang": 10,
+        "yanyu": 30,
+        "ziliao": 20
+      },
+      "issueCount": 0,
+      "ready": true
+    }
+  ]
+}

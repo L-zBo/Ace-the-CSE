@@ -1,0 +1,308 @@
+{
+  "generatedAt": "2026-05-01T09:29:48.070829Z",
+  "source": "national",
+  "filters": {
+    "year": "2023"
+  },
+  "summary": {
+    "examCount": 3,
+    "issueCount": 16,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2023_dishi",
+      "source": "national",
+      "year": "2023",
+      "level": "dishi",
+      "actualTotal": 129,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 12,
+        "panduan": 43,
+        "shuliang": 10,
+        "yanyu": 44,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "unexpected_total",
+          "expected": 130,
+          "actual": 129
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "changshi",
+          "expected": 20,
+          "actual": 12
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "panduan",
+          "expected": 40,
+          "actual": 43
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "yanyu",
+          "expected": 40,
+          "actual": 44
+        },
+        {
+          "type": "missing_questions",
+          "numbers": [
+            33
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-panduan-2023-dishi-083",
+              "number": 83,
+              "optionCount": 1
+            },
+            {
+              "id": "national-xingce-panduan-2023-dishi-086",
+              "number": 86,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-panduan-2023-dishi-101",
+              "number": 101,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2023-dishi-064",
+              "number": 64,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2023-dishi-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-yanyu-2023-dishi-053",
+              "number": 53,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 6,
+      "ready": false
+    },
+    {
+      "key": "national_2023_fushengjia",
+      "source": "national",
+      "year": "2023",
+      "level": "fushengjia",
+      "actualTotal": 134,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 16,
+        "panduan": 42,
+        "shuliang": 16,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "unexpected_total",
+          "expected": 135,
+          "actual": 134
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "changshi",
+          "expected": 20,
+          "actual": 16
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "panduan",
+          "expected": 40,
+          "actual": 42
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "shuliang",
+          "expected": 15,
+          "actual": 16
+        },
+        {
+          "type": "missing_questions",
+          "numbers": [
+            55
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-panduan-2023-fushengjia-081",
+              "number": 81,
+              "optionCount": 0
+            },
+            {
+              "id": "national-xingce-panduan-2023-fushengjia-086",
+              "number": 86,
+              "optionCount": 1
+            },
+            {
+              "id": "national-xingce-panduan-2023-fushengjia-090",
+              "number": 90,
+              "optionCount": 1
+            },
+            {
+              "id": "national-xingce-panduan-2023-fushengjia-093",
+              "number": 93,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-panduan-2023-fushengjia-098",
+              "number": 98,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-panduan-2023-fushengjia-110",
+              "number": 110,
+              "optionCount": 0
+            },
+            {
+              "id": "national-xingce-shuliang-2023-fushengjia-067",
+              "number": 67,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2023-fushengjia-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-yanyu-2023-fushengjia-032",
+              "number": 32,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-yanyu-2023-fushengjia-037",
+              "number": 37,
+              "optionCount": 0
+            }
+          ]
+        }
+      ],
+      "issueCount": 6,
+      "ready": false
+    },
+    {
+      "key": "national_2023_xingzhengzhifa",
+      "source": "national",
+      "year": "2023",
+      "level": "xingzhengzhifa",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 16,
+        "panduan": 41,
+        "shuliang": 10,
+        "yanyu": 43,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "unexpected_module_distribution",
+          "module": "changshi",
+          "expected": 20,
+          "actual": 16
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "panduan",
+          "expected": 40,
+          "actual": 41
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "yanyu",
+          "expected": 40,
+          "actual": 43
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-changshi-2023-xingzhengzhifa-005",
+              "number": 5,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-panduan-2023-xingzhengzhifa-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "national-xingce-panduan-2023-xingzhengzhifa-081",
+              "number": 81,
+              "optionCount": 1
+            },
+            {
+              "id": "national-xingce-panduan-2023-xingzhengzhifa-090",
+              "number": 90,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2023-xingzhengzhifa-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2023-xingzhengzhifa-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2023-xingzhengzhifa-068",
+              "number": 68,
+              "optionCount": 0
+            },
+            {
+              "id": "national-xingce-shuliang-2023-xingzhengzhifa-070",
+              "number": 70,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-yanyu-2023-xingzhengzhifa-039",
+              "number": 39,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 4,
+      "ready": false
+    }
+  ]
+}

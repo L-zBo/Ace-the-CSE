@@ -1,0 +1,390 @@
+[
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "为了保护生态环境，某单位需要购买一批污水处理设备，总的预算不超过 120 万元。现有甲、乙两种类型 设备可供选择，如果购买 2 台甲型设备和 3 台乙型设备，将超出预算 10 万元；若购买 3 台甲型设备和 2 台乙 型设备，将结余 10 万元。若该单位最终购买 5 台污水处理设备，问共有几种购买方案？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设甲型设备单价为 x 万元，乙型设备单价为 y 万元。\n根据题意可得方程：2x+3y=120+10\n最终购买 5 台设备，总费用不超过总预算 120 万元，\n第一种购买方案：5 台甲设备，14×5=70<120，符合题意；\n第二种购买方案：4 台甲设备，1 台乙设备，14×4+34=90<120，符合题意；\n第三种购买方案：3 台甲设备，2 台乙设备，14×3+34×2=110<120，符合题意；\n第四种购买方案：2 台甲设备，3 台乙设备，14×2+34×3=130>120，不符合题意；\n第五种购买方案：1 台甲设备，4 台乙设备，14+34×4=150>120，不符合题意；\n第六种购买方案：5 台乙设备，34×5=170>120，不符合题意。\n因此，共有 3 种购买方案。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考fujian行测第61题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学院有新生两百多人，将学生从 1 开始依次编号，选取编号为 3 的倍数的学生，正好构成新生运动会开 幕式方队，选取编号为 m（3＜m＜10，且 m 为整数）的倍数的学生，恰好构成闭幕式方队，问该学院新生人数 有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "242"
+      },
+      {
+        "label": "B",
+        "content": "243"
+      },
+      {
+        "label": "C",
+        "content": "245"
+      },
+      {
+        "label": "D",
+        "content": "246"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，选取编号为 3 的倍数的新生正好构成开幕式方队，方队的人数应为平方数。代入选项，B、C\n\n②；联立①②解得 x=14，y=34。\n\n两项除以 3 的商均为 81，即编号为 3 的倍数的新生有 81 人，81 是平方数，符合题意；A、D 两项除以 3 的商分\n别为 80、82，均不是平方数，排除。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考fujian行测第62题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "甲、乙两个商场营业日每天是否打折的概率均为 。某周，甲商场营业 7 天，而乙商场营业 6 天，休业 1 天。问在这一周，甲商场打折天数比乙商场多的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "乙商场休业1天，这一天甲商场是营业的，其打折概率为，不打折概率也为。甲、乙共同营业的6天可能会出现的情况共三种：打折天数甲＞乙、打折天数甲=乙、打折天数甲＜乙，三种情况的概率之和为1。\n在共同营业的6天中，甲、乙打折天数可能为0、1、2、3、4、5、6中的任一个，甲大于乙的情况数可能是甲为6乙为0-5中任一个、甲为5乙为0-4中任一个，以此类推；乙大于甲的情况数对等，可能是乙为6甲为0-5中任一个、甲为5乙为0-4中任一个，以此类推。由此可知，在共同营业的6天中，打折天数甲＞乙与乙＞甲的情况数相同，其对应概率也相同，均设为x；打折天数甲=乙的概率设为y。\n符合题意的情况有两种：\n①甲单独营业的1天打折，共同营业的6天中打折天数甲＞乙或甲=乙，则甲商场打折天数比乙商场多的概率为；\n②甲单独营业的1天不打折，共同营业的6天中打折天数甲＞乙，则甲商场打折天数比乙商场多的概率为。\n因此，所求概率为。\n故正确答案为C。\n\n[来源 baijing1.top paperId=346 sort=63 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考fujian行测第63题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2023/q063.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某高校学生会选拔乡村支教志愿者，初试合格者中，语文类 5 名，数学类 6 名，文体类 4 名，从中选取 9 名志愿者，但每类至少要选 2 名。问就 9 名志愿者的科目类别构成而言，共有几种选拔方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“就 9 名志愿者的科目类别构成而言”，可知本题需按照科目选人，即只考虑每个科目的志愿者\n人数。结合条件“每类至少要选 2 名”，则每类先选 2 名志愿者，共 6 名；还需要再选 3 名志愿者，采用枚举\n法：\n\n因此，共有 9 种选拔方式。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考fujian行测第64题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "边长为 10 厘米的正方形 ABCD 如下图所示，E 为正方形中的某一点，已知 AE 长 8 厘米，BE 长 6 厘米，问 三角形 ADE 的面积为多少平方厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "32"
+      },
+      {
+        "label": "C",
+        "content": "44"
+      },
+      {
+        "label": "D",
+        "content": "48"
+      }
+    ],
+    "answer": "B",
+    "explanation": "17\n\n\f作 E 点关于 AD 和 AB 的垂线，分别交于 F 点和 G 点，易得 AG=FE，如下图所示：\n\n方法 1：根据 BE=6cm、AE=8cm、AB=10cm，可得\n\n为以 E 为直角顶点的直角三角形。由于\n\n且有公共顶角\n\n，故\n\n解得 AG=FE=6.4cm，\n\n，代入数据可得\n\n，\n\n，即\n\n。\n\n方法 2：观察图像可得，\n\n、AG＜AE=8cm，故 5cm＜FE＜8cm，代入\n\n中可得\n\n，仅 B 项满足。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考fujian行测第65题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2023/q065.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "一家三口年龄各不相同，今年爸爸与妈妈年龄之和是孩子年龄的 8 倍，而 10 年后，爸爸与妈妈年龄之和 为孩子年龄的 5 倍。今年爸爸、妈妈的年龄在各种可能组合中乘积最大，问今年妈妈的年龄可能是多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "39"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "51"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设今年爸爸与妈妈年龄之和为 x 岁，孩子年龄为 y 岁，则\n\n，解得 y=10，所以今年爸爸\n\n与妈妈年龄之和为 80 岁。\n\n方法一：根据结论“当两数和为定值时，两数越接近其乘积越大”，又已知“一家三口年龄各不相同”，\n\n故爸爸为 41 岁，妈妈为 39 岁时，其年龄在各种组合中乘积最大。\n\n方法二：今年爸爸与妈妈年龄之和为 80 岁。\n代入 A 项，妈妈今年 39 岁，爸爸今年 41 岁，其年龄乘积为 1599；\n代入 B 项，妈妈今年 40 岁，爸爸今年也为 40 岁，与题干条件矛盾，排除；\n代入 C 项，妈妈今年 50 岁，爸爸今年 30 岁，其年龄乘积为 1500＜1599，排除；\n代入 D 项，妈妈今年 51 岁，爸爸今年 29 岁，其年龄乘积为 1479＜1599，排除。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考fujian行测第66题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某商场一楼到二楼有一部自动扶梯匀速上行，甲、乙二人共同乘梯上楼。甲在乘扶梯同时匀速登梯，乙在 恰好半程后，也开始匀速登梯，但登梯速度是甲的 。甲乙二人分别登了 36 级、12 级到达二楼，问这部扶梯 静止时一楼到二楼的级数是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "60"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "72"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，甲乙二人均是从一楼沿扶梯上二楼，故路程相等，即总级数相等，扶梯的总级数=人行走的级\n\n数+扶梯运行的级数。设甲的速度为 2v，乙的速度为 v，扶梯的速度为 ，即\n\n，\n\n整理可得：\n\n，解得\n\n，故扶梯的总级数\n\n。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考fujian行测第67题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "一辆出租车的计价器出现故障，显示屏上保留了一个两位数，无法清除，但还能按行驶路程准确地将应付 的车费累加上去。小王乘坐该车匀速行驶了 2 小时，当行驶 1 小时的时候，计价器上的两个数字刚好交换了位",
+    "options": [
+      {
+        "label": "A",
+        "content": "82"
+      },
+      {
+        "label": "B",
+        "content": "86"
+      },
+      {
+        "label": "C",
+        "content": "90"
+      },
+      {
+        "label": "D",
+        "content": "95"
+      }
+    ],
+    "answer": "C",
+    "explanation": "18\n\n\f根据题意，设显示屏最开始保留的两位数为 xy，其数值大小为 10x+y；\n方法一：由于车辆匀速行驶，相同时间内行驶的路程一致且车费金额相等。那么 1 小时后计价器显示 yx，\n其数值为 10y+x；再过 1 小时后计价器显示 x0y，其数值为 100x+y。根据金额相等可得 10y+x-（10x+y）=100x+y-\n（10y+x），解得 y=6x，由于 x、y 取值为 1~9，则 x=1，y=6。所以车费金额为 106-16=90 元。\n\n方法二：由于最终显示器上显示的数值为 100x+y，则需要支付的车费为 100x+y-（10x+y）=90x，即车费\n\n金额为 90 的整数倍，只有 C 项符合。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考fujian行测第68题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-014",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "置，在 2 小时的时候，计价器上的两个数字又交换了位置，但他们中间多了一个 0。如车费按里程计，问小王 应付多少元车费？",
+    "options": [
+      {
+        "label": "A",
+        "content": "82"
+      },
+      {
+        "label": "B",
+        "content": "86"
+      },
+      {
+        "label": "C",
+        "content": "90"
+      },
+      {
+        "label": "D",
+        "content": "95"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查科技常识。\nA 项正确，激光的理论基础由物理学家爱因斯坦提出，1917 年爱因斯坦提出了一套全新的技术理论“光与\n物质相互作用”。这一理论是说在组成物质的原子中，有不同数量的粒子（电子）分布在不同的能级上，在高\n能级上的粒子受到某种光子的激发，会从高能级跳到（跃迁）到低能级上。这时将会辐射出与激发它的光相同\n性质的光，即激光。\n\nB 项正确，激光技术是采用激光的手段，对特定目标进行加工或者检测的技术。它可以实现材料加工、物\n\n态转变、尺度测量等。\n\nC 项正确，2013 年 9 月 6 日，由中科院承担的国家重大科研装备“深紫外固态激光源前沿装备研制项目”\n\n通过验收，使我国成为目前世界上唯一一个能够制造实用化、精密化深紫外全固态激光的国家。\n\nD 项错误，世界上第一台激光器诞生于 1960 年。中国第一台激光器于 1961 年诞生于长春光机所，由“中\n\n国激光之父”、物理学家王之江等人研制。\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考fujian行测第14题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "如下图所示，某地计划修建一个长 50 米，宽 40 米的长方形观光园。现在需要在观光园中修建几条鹅卵石 小道供游客行走，其中一条是长为 50 米，宽为 2 米的水平直线型小路，另外两条修成斜线型，并且要求这两 条斜线型小路任何地方的水平方向宽度都是 1 米，问修完小路后观光园剩下部分的面积是多少平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1862"
+      },
+      {
+        "label": "B",
+        "content": "1880"
+      },
+      {
+        "label": "C",
+        "content": "1950"
+      },
+      {
+        "label": "D",
+        "content": "1960"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干，观光园如图所示：\n\n题目所求剩余面积等于\n\n个平行四边形底边相同，则\n\n平方米。\n\n。\n平方米。由于两\n\n平方米。则题目所求剩余面积=2000-100-38=1862 平方米。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考fujian行测第69题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2023/q069.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2023-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "桌上整齐摆放着若干只相同玻璃杯，除一只空杯外，其余杯中都放有彩色珠子，共有 45 颗。如果在有彩 色珠子的每个杯中取 1 颗放入空杯，则只需调整玻璃杯的位置，即可与最初完全一样。问桌上共有几只玻璃杯？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "10 四、判断推理。本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选 出一个最恰当的答案。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，如果在有彩色珠子的每个杯中均取出一颗珠子，则原来各杯中珠子数量均少 1。并且此时各杯\n中珠子数量仍与原先一致，故杯中珠子成等差数列排布且公差为 1，每项减 1 后，数量都与前一项对应。由于\n\n有空杯，则\n\n，末项\n\n，根据等差数列前 n 项和公式\n\n，可得\n\n，\n\n解得 n=10。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考fujian行测第70题",
+    "region": "fujian"
+  }
+]

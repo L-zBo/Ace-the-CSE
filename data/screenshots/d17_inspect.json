@@ -1,0 +1,10 @@
+{
+  "home": {
+    "ok": false,
+    "err": "Page.wait_for_selector: Timeout 120000ms exceeded.\nCall log:\n  - waiting for locator(\"h1\") to be visible\n"
+  },
+  "practice": {
+    "ok": false,
+    "err": "Page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"http://localhost:3000/practice\", waiting until \"commit\"\n"
+  }
+}

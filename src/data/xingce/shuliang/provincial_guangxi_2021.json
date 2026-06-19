@@ -1,0 +1,434 @@
+[
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "边长为整数且成等差数列的三个正方形，面积之和不大于 5000，其中有两个正方形的面积之和等于第 3 个 正方形的面积，这样的正方形存在多少组？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、方法一：设三个正方形的边长分别为-m、2、α+m，则面积分别为（x－m)²、α²、（x+m)²；根据题干\n(x+m)²≤2500，α+m≤50；根据(x-m）²+x²=（x+m)²，可得z=4m；代入x+m≤50，可得5m≤50，\nm≤10，由于为整数且不为0，故共有10组。\n方法二：根据平方和等于最大数的平方，联想到满足勾股定理的整数组，勾股数。常见的勾股数只有（3，4，5）\n及其倍数是满足等差关系的，即3n，4n，5n，(3n)²+（4n)²+(5n)²≤5000，解得n≤10，故共有10组。\n故正确答案为D。（",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第51题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一次 2 小时的在线会议，会议结束前半小时才有人开始退出且每分钟退出会议人数满足 （n=1,2,3，……，30）。若会议开始后加入会议人数是退出人数的 1.5 倍，且会议结束时还有 100 人在线，问 会议开始时可能有多少人在线？ ， - 7 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "70"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、设会议开始时可能有\"人在线。由题意可知，会议结束前半小时每分钟退出会议人数分别为4+（-1)=3人、\n30\n4+(-1)²=5人、4+(-1)²=3人、4+(-1)=5人······，则会议结束前的半小时共退出2\n×(3+5)=120\n得=40，即会议开始时可能有40人在线。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第52题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "张三与李四骑马观光，从东方村开始，途经幸福村到胜利村。从东方村骑行 1 小时后，张三：“已经走了多 远？”李四：“刚好是到幸福村的一半。”两人又骑行 20 公里后，张三：“到胜利村还有多远？”李四：“刚 巧是离幸福村的一半那样远。”则东方村到胜利村的距离是多少公里？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "35"
+      },
+      {
+        "label": "C",
+        "content": "40"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、此题对第二个过程的理解不同，会出现不同的答案。\n【解析一】将东方村、幸福村、胜利村分别看成A、B、C三地，全程分为两个过程，第一个过程：先行驶AB（东\n方村到幸福村）的一半，用时1小时；第二个过程：又行驶20公里后，所处位置距胜利村（C）的距离刚好是到\n2\n1\n幸福村（B）的一半，即再行驶AB的2加上BC的3共20公里。根据条件可得2\n3\nAB+BC<2(\n2\nAB +\n3\nBC=10BC=30,\n，\n与全长为30公里矛盾。\n故正确答案为B。！\n【解析二】将东方村、幸福村、胜利村分别看成A、B、C三地，全程分为两个过程，第一个过程：先行驶AB的\n一半，用时1小时；第二个过程：如果理解成到胜利村（C）的距离刚好是胜利村（C）离幸福村（B）的一半那\n1\n1\n么远，即再行驶AB的2加上BC的2共20公里，那么全长AB+BC=2×20=40公里。\n故正确答案为C。\n本题表述有争议，粉笔给出两种解题思路，但更倾向于选B。\n北\n中\nA\nM\n54、\n南\n根据题意可得上图，因为甲乙两地距离AB=26千米，甲丙两地距离AC=24千米，乙丙两地距离BC=10千米，\n可知三角形ABC三边比例为10：24：26=5：12：13，这三边满足勾股定理，所以三角形ABC为直角三角形，\n=2=15\n在直角三角形AM中，AMN=90°。根据两直角三角形都有公共角A可推出△ACB△AMN，根据相似三\nAC_AM\n24 _13\n角形对应边成比例可列式ABAN，代入数据26AV，解得AN≈14.08千米，那么\nNC=AC-AN≈24-14.08=9.92千米，在C项范围内，当选。\n故正确答案为C。、",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第53题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "乙地在甲地的正东方 26 千米处，丙地在甲、乙两地连线的北方，且与甲、乙的距离分别为 24 千米和 10 千 米。一辆车从甲、乙两地中点位置出发向正北方行驶，在经过甲丙连线时，与丙地的距离在以下哪个范围内?",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 8 千米"
+      },
+      {
+        "label": "B",
+        "content": "8-9 千米之间"
+      },
+      {
+        "label": "C",
+        "content": "9-10 千米之间"
+      },
+      {
+        "label": "D",
+        "content": "10 千米以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、\n根据题意可得上图，因为甲乙两地距离AB=26千米，甲丙两地距离AC=24千米，乙丙两地距离\nBC=10千米，可知三角形ABC三边比例为10：24:26=5：12：13，这三边满足勾股定理，所以三角形\nABC为直角三角形，ZC=90°。M为甲乙两地中点，汽车从M向正北出发经过甲丙两地连线AC时交\n26\n于N点，故AM=\nAC_AM\n24_13\nA可推出△ACB△AMN，根据相似三角形对应边成比例可列式ABAN，代入数据26AN，\n解得AN≈14.08千米，那么NC=AC-AN≈24-14.08=9.92千米，在C项范围内，当选。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第54题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-cross-paper-explanation-transfer-2026-05-31",
+      "dataCompletedFrom": "src/data/xingce/shuliang/provincial_gansu_2021.json",
+      "dataCompletedSourceQuestionId": "provincial-gansu-xingce-shuliang-2021-063"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某省在新冠疫情期间派出包括传染科医生、重症科医生和护士在内的三批援鄂医疗队。三批医疗队中三者人 数之比分别为 4：2：4、5：2：3 和 4：3：3。已知第二批医疗队中医生比护士多 40 人，且传染科医生数逐批增 加并成等差数列，三批共派出护士 113 人，则三批医疗队共有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "339"
+      },
+      {
+        "label": "B",
+        "content": "350"
+      },
+      {
+        "label": "C",
+        "content": "360"
+      },
+      {
+        "label": "D",
+        "content": "390"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、根据第二批医疗队中三者人数之比为5：2：3且医生比护士多40人，可得第二批医疗队传染科医生、重症\n-11-\n5\n2\n3\n科医生和护士人数分别为\n40X\n5+2-3\n09：\nA、\n40x\n5+2-3-20",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第55题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某果蔬专业博士生一行 8 人，深入某贫困山区，为当地 3 个村的村民传授果树的种植技术，当年 3 个村的水 果产量之比为 3：2：5，第 2 年 3 个村的水果产量都有不低于 20%的增加，且 3 村水果总产量增加 50%，问 3 个 村水果产量的最大增幅可能是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "80%"
+      },
+      {
+        "label": "B",
+        "content": "120%"
+      },
+      {
+        "label": "C",
+        "content": "150%"
+      },
+      {
+        "label": "D",
+        "content": "170%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、结合条件中比例关系，赋值当年3个村的水果产量分别为30、20、50，当年水果总产量为30+20+50=100，\n该村的增长量\n第2年水果总产量增长了100×50%=50。根据增幅该村当年产量(基期值)，若想增幅最大，则该村基期值尽\n可能小，对应的增长量尽可能大。结合条件，第2个村的基期值最小，则让第2个村的增幅最大。此时，其他村\n的增长量应尽可能小，由于“第2年3个村的水果产量都有不低于20%的增加”，第1个村的增长量最小\n34\n个村的增幅20=170%。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第56题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一个工程的实施有甲、乙、丙和丁四个工程队供选择。已知甲、乙、丙的效率比为 5：4：3，如果由丁单独 实施，比由甲单独实施用时长 4 天，比由乙单独实施用时短 5 天。问四个队共同实施，多少天可以完成（不足 1 天的部分算 1 天）？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、根据题意，赋值甲、乙、丙的效率分别为5、4、3；设工程总量为60x，根据“时间=工程总量→效率”，则\n甲、乙单独实施该工程的天数分别为12x、15x。单独实施该工程，丁比甲多4天，比乙少5天，则乙用时比甲多\n天，即共需11天。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第57题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 3,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲单位职工人数是乙单位的 2 倍，两个单位所有职工中正好有一半是党员。其中甲单位职工中党员占比比乙 单位高 15 个百分点，且甲单位的职工中群众人数比乙单位多 18 人。问甲单位职工中，党员比群众多多少人?",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、设乙单位职工人数为”人，则甲单位职工人数为2人。乙单位职工中群众人数为\"人，则甲单位职工中群众\n人数为（十18）人。由两个单位所有职工中正好有一半是党员，可得另一半一定是非党员，即群众，故\ny+(y+18)=（x+2x)×50%：：：：：·①。因甲单位职工中党员占比比乙单位高15个百分点，故甲单位职工\n中群众占比比乙单位低15个百分点，可列2c\n故甲单位职工人数为2×60=120人，甲单位职工中群众人数为36+18=54人，甲单位职工中党员人数为\n120－54=66人，党员比群众多66－54=12人。\n故正确答案为D。\n59、设2020年小王的年龄是”，根据题中的年龄关系列表：\n老张\n小王\n老李\n2020年\n4x\nX\n3(x+1）-1\n2021年\nX+1\n3 (x+1)\n根据老张比老李大12岁可得方程4z=3(x+1)－1+12，解得：=14。因此2020年老张，小王，老李的年龄\n分别为56岁，14岁，44岁。设再过\"年三人的年龄和超过140岁，则56+44+14+3y>140，解得y>8.66，即\n9年，2020+9=2029年。\n故正确答案为D。\n-12-",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第58题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年老张的年龄是小王年龄的 4 倍，2021 年老李的年龄是小王年龄的 3 倍，已知老张比老李大 12 岁，问 哪一年三人的年龄之和第一次超过 140 岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020"
+      },
+      {
+        "label": "B",
+        "content": "2023"
+      },
+      {
+        "label": "C",
+        "content": "2026"
+      },
+      {
+        "label": "D",
+        "content": "2029"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：18%，易错项：C。\n解析\n第一步，本题考查年龄问题。\n第二步，设2020年小王年龄为x岁，则老张年龄为4x岁，2021年小王年龄为x+1岁，老李年龄为3（x+1）岁。\n根据题意列方程4x-[3（x+1）-1]=12，解得x=14岁，即2020年小王14岁，老张56岁，老李44岁，三人年龄\n和为14+56+44=114岁。（140-114）÷38.6，即过9年三人年龄和超过140岁。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第59题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-cross-paper-explanation-transfer-2026-05-31",
+      "dataCompletedFrom": "src/data/xingce/shuliang/provincial_ningxia_2021.json",
+      "dataCompletedSourceQuestionId": "provincial-ningxia-xingce-shuliang-2021-059"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-shuliang-2021-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一车救灾物资从早上 8 点起开始运往 1900 公里外的某地，白天平均车速 80 公里/小时，夜间 60 公里/小时 （假定 8：00 到 18：00 为白天，其他时段为夜间），司机每驾驶 2 小时必须休息 20 分钟，且每名司机每天驾驶 时间不能超过 8 小时（00：00 后即为新的一天）。问车上至少应配备几名司机且至少要用多长时间才能抵达该 地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 名；27 小时 15 分"
+      },
+      {
+        "label": "B",
+        "content": "3 名；27 小时 25 分"
+      },
+      {
+        "label": "C",
+        "content": "4 名；33 小时 30 分"
+      },
+      {
+        "label": "D",
+        "content": "4 名；33 小时 40 分 四、判断推理。本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一个 最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、根据题意，要使总时间最短，则需让车辆一直在行驶，行驶情况如下表所示：\n行驶时间\n行张速度\n行驶距离\n累计行驶距离\n累计行间\n（小时）\n（公里/小时）\n（公里）\n（公里）\n（小时）\n第一天\n10\n80\n80×10=800\n800\n10\n8:0018:00\n第一天\n6\n60\n60×6 = 360\n800 +360 = 1160\n10+6=16\n18:0024:00\n第二天\n60\n60×8 = 480\n1160 + 480 = 1640\n16 +8=24\n00:00-8:00\n1900  1640\n3.25小时=3小时15分，则总时间最短为\n第二天白天所需行驶时间\n80\n24小时+3小时15分=27小时15分，只有A项符合。\n故正确答案为A。\n备注：本题不严谨，根据题意，在总时间最短的情况下，最少需要2名司机即可完成物资运输。第一天16小时\n可安排为：每名司机开车2小时，休息2小时，每人共计开车8小时；第二天是新的一天，共需行驶11小时15\n分钟，每名司机可以继续开车2小时，休息2小时，第一名司机共开车6小时，第二名司机共开车5小时15分\n钟即可。在考场上，可以根据用时最短直接锁定答案，不必纠结司机的人数。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第60题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-ocr-provincial-guangxi-2021-2026-05-31",
+      "dataCompletedFrom": "archive/reports/ocr_provincial_guangxi_2021.txt"
+    }
+  }
+]

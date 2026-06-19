@@ -1,0 +1,553 @@
+[
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下图所示是一种帐篷屋顶的示意图，底面是一个长4米宽3米的长方形，屋顶高1米，上棱长2米且平行于底面， 那么该帐篷屋顶的体积是： 第 8 页，共 21 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "5立方米"
+      },
+      {
+        "label": "B",
+        "content": "11立方米"
+      },
+      {
+        "label": "C",
+        "content": "12立方米"
+      },
+      {
+        "label": "D",
+        "content": "24立方米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "--正确答案A】\n\n如图所示，过上棱两个端点M、N 分别向底面做垂直截面，交底面ABCD 于点E、F、G、H，则该帐篷\n屋顶可拆分为左、右两个四棱锥（M-AEFD 和N-BCHG）和中间一个三棱柱（EFM-GHN）。根据公式：\n；\n，则\n立方米；\n立方米。\n则该帐篷屋顶的体积\n立方米。\n故正确答案为A。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第51题",
+    "region": "xinjiang",
+    "questionImage": "/img/questions/provincial_xinjiang_2023/q051.png"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "小林因病入院需挂瓶输液，上午9点开始输液，输液袋上标有“容量300毫升，每毫升15滴”等药液信息。输液 开始时，药液滴速为75滴/分钟。输液5分钟后小林感觉身体不适，护士帮忙调整了药液滴速（调整时间不 计），又继续输液10分钟，药液还剩235毫升，那么输液结束的时间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10点26分"
+      },
+      {
+        "label": "B",
+        "content": "10点18分"
+      },
+      {
+        "label": "C",
+        "content": "10点14分"
+      },
+      {
+        "label": "D",
+        "content": "10点10分"
+      }
+    ],
+    "answer": "C",
+    "explanation": "--正确答案C】\n根据题意，输液5 分钟后剩余的药液为\n毫升，则调整后药液的滴速为\n滴/分钟，剩余的235 毫升药液还需输液的时间为\n分钟，则输液的总时间为\n分钟\n分钟，\n即1 小时14 分钟，上午9 点开始输液，则输液结束的时间是10 点14 分。\n故正确答案为C。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第52题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "浮雕银杯是我国古代常见的一种盛酒容器，有大银杯和小银杯之分。已知5个大银杯加1个小银杯，可以盛酒3 斛（斛，是古代的一种容量单位），5个小银杯加1个大银杯，可以盛酒2斛，则1斛酒至多可以倒满小银杯的数 量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2个"
+      },
+      {
+        "label": "B",
+        "content": "3个"
+      },
+      {
+        "label": "C",
+        "content": "4个"
+      },
+      {
+        "label": "D",
+        "content": "5个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "--正确答案B】\n\n设大银杯容量为x，小银杯容量为y，赋值1斛酒的量为1；根据题意可列方程：5x+y=3······①，\n5y+x=2······②，联立①②解得\n，\n。则1 斛酒可倒满的小银杯数量\n，故至多可以倒满小银杯的数量为3 个。\n故正确答案为B。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第53题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "甲乙两地间的纵横道路网如下图所示，若从甲地到乙地沿道路铺设电缆，要使铺设的电缆长度最短，则电缆经 过丙地的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "如图所示，从甲地到乙地沿道路铺设电缆，要使铺设的电缆长度最短，电缆走向只能向下和向左铺设。从甲开始，在每个交点处标出甲到此点的情况数，该点情况数为上方和右方的两个点情况数之和。\n\n如图1所示，从甲到乙铺设电缆共22+31=53种情况。\n\n若要使铺设的电缆经过丙地，则需电缆如图2所示先从甲到丙，共4种情况，再如图3所示从丙到乙，共4种情况，故经过丙地的情况数为4×4=16种。所求概率。\n故正确答案为D。\n\n[来源 baijing1.top paperId=652 sort=54 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第54题",
+    "region": "xinjiang",
+    "questionImage": "/img/questions/provincial_xinjiang_2023/q054.png"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某小区物业准备了230盒口罩免费派发给10栋楼，要求任意两栋楼派发的口罩数量都不相同，但最多相差不超 过1倍。假设口罩不拆盒发放，那么派发口罩数量最少的那栋楼最少可派发口罩：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18盒"
+      },
+      {
+        "label": "B",
+        "content": "15盒"
+      },
+      {
+        "label": "C",
+        "content": "14盒"
+      },
+      {
+        "label": "D",
+        "content": "12盒 第 9 页，共 21 页"
+      }
+    ],
+    "answer": "C",
+    "explanation": "--正确答案C】\n设派发口罩数量最少的那栋楼最少派发口罩x 盒。要让派发口罩数量最少的楼栋派发口罩最少，则\n其他楼栋口罩派发尽量多，且派发口罩最多的楼栋不超过最少的1 倍，即派发口罩最多的楼栋最多\n派发口罩2x 盒。由于任意两栋楼派发口罩数量都不相同，则可列表如下：\n根据口罩一共有230 盒可列式：2x+2x-1+2x-2+2x-3+2x-4+2x-5+2x-6+2x-7+2x-8+x=230，化简可得：\n19x-36=230，解得x=14。那么派发口罩数量最少的那栋楼最少可派发口罩14 盒。\n故正确答案为C。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第55题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公司自主研发生产的A、B、C三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的10%（按一 辆车配一块电池计算）。其中A型号氢燃料电池的产量是B型号的2倍，C型号的产量比A、B两种型号的产量之 和还多400块。预计该公司今年的轿车总产量是42.4万辆，那么B型号氢燃料电池的产量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3500块"
+      },
+      {
+        "label": "B",
+        "content": "7000块"
+      },
+      {
+        "label": "C",
+        "content": "14000块"
+      },
+      {
+        "label": "D",
+        "content": "21400块"
+      }
+    ],
+    "answer": "B",
+    "explanation": "--正确答案B】\n根据题意，该公司今年自主研发生产的A、B、C 三种型号氢燃料电池的产量和为\n42.4×10000×10%=42400 块。已知C 型号的产量比A、B 两种型号的产量之和还多400 块，则A、B\n两种型号的产量之和为\n块，A 型号氢燃料电池的产量是B 型号的2 倍，\n则B 型号氢燃料电池的产量为\n块。\n故正确答案为B。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第56题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某智慧公共停车场的收费标准如下：停车不超过15分钟，不收费；超过15分钟但不超过60分钟，按1小时计， 收费5元；超过1小时后，超过的部分按每30分钟4元收费（不足30分钟，按30分钟计）。若李先生支付停车费 17元，则他停车的时长可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2小时"
+      },
+      {
+        "label": "B",
+        "content": "2小时15分钟"
+      },
+      {
+        "label": "C",
+        "content": "2小时45分钟"
+      },
+      {
+        "label": "D",
+        "content": "3小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "--正确答案B】\n根据题干“停车不超过15 分钟，不收费；超过15 分钟但不超过60 分钟，按1 小时计，收费5 元”，\n李先生支付停车费17 元，则停车时长一定超过1 小时。扣除前1 小时的收费5 元，超出1 小时部分\n付款为17-5=12 元。根据题干“超过1 小时后，超过的部分按每30 分钟4 元收费（不足30 分钟，\n按30 分钟计）”，12 元最多可支付12÷4=3 个30 分钟=1.5 小时，则2 小时＜李先生的停车时长≤\n2.5 小时。\n故正确答案为B。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第57题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某村拟建造一个容积为144立方米，深度为4米的长方体无盖蓄水池。经测算，蓄水池底部造价为260元/平方 米，侧面造价为180元/平方米。那么该水池的最低总造价为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "11440元"
+      },
+      {
+        "label": "B",
+        "content": "25920元"
+      },
+      {
+        "label": "C",
+        "content": "26640元"
+      },
+      {
+        "label": "D",
+        "content": "31680元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "--正确答案C】\n根据长方体体积=底面积×高，结合水池“容积为144 立方米，深度为4 米”，可得水池底面长方形\n面积=144/4=36 平方米。底面积一定，要使造价最低，则侧面积要尽量少，假设底面长方形的长和\n\n宽分别为a 和b，则水池侧面积=2×4a+2×4b=4（2a+2b），若要侧面积最小，则2a+2b 最短，即底\n面周长最短。因为“长方形面积一定，长宽相等也就是正方形时周长最短”，因a×b=36，所以当a=b=6\n时，a+b 最小，此时侧面积=4×（2a+2b）=4×24=96 平方米。总造价=底部造价+侧面造价\n=36×260+96×180=26640 元。\n故正确答案为C。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第58题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "58.\nA.11440元\nB.25920元\nC.26640元\nD.31680元\nA、B两村在一条笔直公路的同侧，到公路的垂直距离分别是3公里和7公里，两村相距8.5公里，现需在公路边\n建一个物资集散中心，为节约物资配送成本，集散中心到两个村的直线路程之和应尽可能小，若货车的速度约\n为60公里/小时，那么货车从集散中心出发，到两村送货后返回中心，路途所花费的最少时间为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B两村在一条笔直公路的同侧，到公路的垂直距离分别是3公里和7公里，两村相距8.5公里，现需在公路边 建一个物资集散中心，为节约物资配送成本，集散中心到两个村的直线路程之和应尽可能小，若货车的速度约 为60公里/小时，那么货车从集散中心出发，到两村送货后返回中心，路途所花费的最少时间为： A.18分钟"
+      },
+      {
+        "label": "B",
+        "content": "21分钟"
+      },
+      {
+        "label": "C",
+        "content": "24分钟"
+      },
+      {
+        "label": "D",
+        "content": "27分钟"
+      }
+    ],
+    "answer": "B",
+    "explanation": "--正确答案B】\n如图所示：过公路作A 点的对称点为\n，交公路于点M；过B 点作公路的垂线，垂点为N；过\n的\n垂线，垂点为\n；过A 点作BN 的垂线，垂点为D，则四边形ADNM 和\n 为矩形。连接\n，交MN 于点O，根据两点之间线段最短，可知将物资集散中心修建在O 点时，到两村的直线\n路程之和最小。\n已知AM=3 公里，BN=7 公里，则BD=BN-DN=BN-AM=7-3=4 公里。在直角\n中，已知AB=8.5 公\n里，根据勾股定理可得\n公里，则\n公里。在直角\n中，\n\n公里，根据勾股定理可得\n公里。\n货车从集散中心出发，到两村送货后返回中心所走最短路程\n公里，\n则所需时间约为\n。\n故正确答案为B。\n【解析60--题目暂缺】\n【解析61--题目暂缺】\n【解析62--题目暂缺】\n【解析63--题目暂缺】\n【解析64--题目暂缺】\n【解析65--题目暂缺】\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第59题",
+    "region": "xinjiang"
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "缺失"
+      },
+      {
+        "label": "B",
+        "content": "缺失"
+      },
+      {
+        "label": "C",
+        "content": "缺失"
+      },
+      {
+        "label": "D",
+        "content": "缺失"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: PDF p010 q060-q065 原文「60.题目正全力以征集」整段 6 题占位。互联网题源共缺，不可救援。前端 isUnanswerable 应过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第60题",
+    "region": "xinjiang",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "缺失"
+      },
+      {
+        "label": "B",
+        "content": "缺失"
+      },
+      {
+        "label": "C",
+        "content": "缺失"
+      },
+      {
+        "label": "D",
+        "content": "缺失"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: PDF p010 q060-q065 原文「60.题目正全力以征集」整段 6 题占位。互联网题源共缺，不可救援。前端 isUnanswerable 应过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第61题",
+    "region": "xinjiang",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "缺失"
+      },
+      {
+        "label": "B",
+        "content": "缺失"
+      },
+      {
+        "label": "C",
+        "content": "缺失"
+      },
+      {
+        "label": "D",
+        "content": "缺失"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: PDF p010 q060-q065 原文「60.题目正全力以征集」整段 6 题占位。互联网题源共缺，不可救援。前端 isUnanswerable 应过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第62题",
+    "region": "xinjiang",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "缺失"
+      },
+      {
+        "label": "B",
+        "content": "缺失"
+      },
+      {
+        "label": "C",
+        "content": "缺失"
+      },
+      {
+        "label": "D",
+        "content": "缺失"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: PDF p010 q060-q065 原文「60.题目正全力以征集」整段 6 题占位。互联网题源共缺，不可救援。前端 isUnanswerable 应过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第63题",
+    "region": "xinjiang",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "缺失"
+      },
+      {
+        "label": "B",
+        "content": "缺失"
+      },
+      {
+        "label": "C",
+        "content": "缺失"
+      },
+      {
+        "label": "D",
+        "content": "缺失 第 10 页，共 21 页"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: PDF p010 q060-q065 原文「60.题目正全力以征集」整段 6 题占位。互联网题源共缺，不可救援。前端 isUnanswerable 应过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第64题",
+    "region": "xinjiang",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  },
+  {
+    "id": "provincial-xinjiang-xingce-shuliang-2023-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "缺失"
+      },
+      {
+        "label": "B",
+        "content": "缺失"
+      },
+      {
+        "label": "C",
+        "content": "缺失"
+      },
+      {
+        "label": "D",
+        "content": "缺失 四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: PDF p010 q060-q065 原文「60.题目正全力以征集」整段 6 题占位。互联网题源共缺，不可救援。前端 isUnanswerable 应过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考xinjiang行测第65题",
+    "region": "xinjiang",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  }
+]

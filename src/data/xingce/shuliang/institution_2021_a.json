@@ -1,0 +1,244 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2021-a-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某趣味极速竞赛中有跨栏、匍匐、独木桥三段，3:1:2，参赛者甲匍匐路段的爬行速度是跨栏速度的1 3 ，通 过独木桥的速度又是1 ，问甲通过独木桥路段的时间是匍匐路段时间的多少倍? 6",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题干条件，赋值跨栏、匍匐、独木桥三段的路程分别为3、1 和2，跨栏的速度为6。由参赛\n者甲匍匐路段的爬行速度是跨栏速度的\n1\n3，求得：甲匍匐速度为6 ×\n1\n3 = 2，而通过独木桥的速度又是跨栏速\n度的\n1\n6，求得：甲通过独木桥速度为6 ×\n1\n6 = 1。根据公式：时间=\n路程\n速度，甲通过独木桥的时间是匍匐路段时\n间的\n2\n1 ÷\n1\n2 = 4倍。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-a-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "五一劳动节将至，某单位为表彰劳模，特准备了 6 种奖品用于表彰先进个人。已知每种奖品都足够多，劳 模们可以选择任意三种奖品，问两位劳模拿到的奖品种类完全一样的概率是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5%"
+      },
+      {
+        "label": "B",
+        "content": "2.5%"
+      },
+      {
+        "label": "C",
+        "content": "0.5%"
+      },
+      {
+        "label": "D",
+        "content": "0.25%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】本题为概率问题（古典概型）。\n每位劳模从 6 种奖品中任选 3 种的方法数 = C(6,3) = 20 种。\n两位劳模独立选择，总样本空间 = 20 × 20 = 400 种组合。\n两人拿到的奖品种类完全一样的有利事件 = 第一位任意选（20 种）× 第二位与第一位完全一致（1 种）= 20 种。\n概率 = 20 / 400 = 1/20 = 5%，对应 A 项。\n（简洁视角：第二位与第一位完全一致的概率 = 1 / C(6,3) = 1/20 = 5%。）\nB 项 2.5% = 1/40，C 项 0.5% = 1/200，D 项 0.25% = 1/400 均为常见干扰值。\n故正确答案为 A。\n[Source: chinasydw.org/202105/181954.html（学宝教育 2021.5.22 联考 A 类第 47 题）× 数学独立证明双源]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第47题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-a-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "若某月周六、周日共 9 天，并且这个月的最后一天为周六，那么该月可能是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第一天为周四的 9 月"
+      },
+      {
+        "label": "C",
+        "content": "第一天为周五的 7 月"
+      },
+      {
+        "label": "B",
+        "content": "第一天为周四的 5 月"
+      },
+      {
+        "label": "D",
+        "content": "第一天为周三的 2 月"
+      }
+    ],
+    "answer": "B",
+    "explanation": "209\n【解析】代入排除\nA 项：若9 月的第一天为周四，则29 号也为周四，30 号（即最后一天）为周五，与条件矛盾，排除；\nB 项：若5 月第一天为周四，则29 号也为周四，31 号（即最后一天）为周六，满足题意，正确；\nC、D 两项无需再代入验证。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第48题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-a-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某单位组织全体员工开展户外活动，如果按每组 6 男 4 女进行分组，则男员工多出 8 人；如果按 8 男 4 女 进行分组，女员工又多出 12 人。问该单位有多少女员工？",
+    "options": [
+      {
+        "label": "A",
+        "content": "58"
+      },
+      {
+        "label": "C",
+        "content": "64"
+      },
+      {
+        "label": "B",
+        "content": "62"
+      },
+      {
+        "label": "D",
+        "content": "68"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】设每组6男4女进行分组，共分x组；按8男4女进行分组，共分y组。根据题意有：6x+8=8y①，\n4x=4y+12②，联立①②，解得x=16，y=13。则该单位有女员工16×4=64（人）。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第49题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-a-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "一块 5×4 的木板如图所示，现经过 A、B、C 三点切割 3 刀，问斜边经过 C 的直角三角形部分面积：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项被 OCR 截断，原 A 选项内容暂未抽到]"
+      },
+      {
+        "label": "B",
+        "content": "在 4-4.1 之间"
+      },
+      {
+        "label": "C",
+        "content": "在 4.1-4.2 之间"
+      },
+      {
+        "label": "D",
+        "content": "大于 4.2"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[OCR/PDF 数据极限-D10] 本题为图形几何题（5×4 木板切割），需配合附图（A/B/C 三点位置）才能计算。\n原 PDF 抽取严重错乱：A 选项被 OCR 误并入题干尾巴，BCD 选项后又混入下一题（第四部分判断推理）章节说明。\n公开题库（小麦/星光/华图）未命中本题精确解析。本题答案占位为题源默认 A，待找到原图 + 完整 A 选项后再确认。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第50题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-a-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "，通 过独木桥的速度又是1 ，问甲通过独木桥路段的时间是匍匐路段时间的多少倍?",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "8\n\n。 又 同 理 △ KPC ∽ ⁡△ COJ ， 则 KP\nPC\n\n=\n\nCO\n\nOJ\n\n, PC = 1，CO = 2, OJ = OI − IJ = 2 −",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第3题",
+    "meta": {
+      "invalid": true,
+      "reason": "pdf_not_located"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-a-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "[数列/数学推理题，参见图片]",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "故正确答案为 A。 \n\n19.  【答案】C \n\n【解析】A 项正确，红色药水是一种外用消毒剂，含有汞，因其杀菌能力弱，而且长期大量使用汞还可能导\n\n致中毒，所以常用于小面积的浅表皮肤粘膜的擦伤消毒，而不适宜对大面积皮肤损伤的消毒，因此现已很少\n\n使用。 \n\nB 项正确，过氧化氢属于外用消毒液，又称为双氧水，可以用于治疗中耳炎。使用过氧化氢进行冲洗消毒，\n\n将里面的分泌物清理干净，再使用盐酸洛美沙星滴耳液滴耳，以及口服头孢类抗生素进行治疗。 \n\nC 项错误，测血糖应用酒精消毒。如果测血糖时用碘伏消毒，碘伏中的碘可以与血糖试纸中的酶发生反应，\n\n影响测定结果的准确性。碘伏的颜色也可能会干扰试纸颜色的变化而影响血糖值，所以测定血糖时应该用 75%\n\n的酒精消毒，不能用碘伏或者碘酒消毒。 \n\nD 项正确，红药水与碘酒不能一起涂，是因为碘酒与红药水起反应后会生成重金属汞，而汞对人体是有害的，\n\n长期被皮肤吸收多了会致中毒。 \n\n故正确答案为 C。 \n\n20.  【答案】D \n\n【解析】A 项正确，自动体外除颤器是一种便携式的医疗设备，专为现场急救设计的急救设备，是可被非专\n\n业人员使用的用于抢救心脏骤停患者的医疗设备。 \n\nB 项正确，机器本身会自动判读心电图然后决定是否需要电击。 \n\nC 项正确，患者胸部如有汗水需要快速擦干胸部，因为水会降低 AED 功效。 \n\nD 项错误，分析心率过程中请不要接触患者，即使是轻微的触动都有可能影响 AED 的分析。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（a）第6题"
+  }
+]

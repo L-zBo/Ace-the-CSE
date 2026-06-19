@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-031",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①现场心肺复苏 ②工友触电倒地 ③医护全力救治 ④拨打急救电话 ⑤立即切断电源",
+    "options": [
+      {
+        "label": "A",
+        "content": "②④⑤①③"
+      },
+      {
+        "label": "B",
+        "content": "②⑤④①③"
+      },
+      {
+        "label": "C",
+        "content": "②⑤④③①"
+      },
+      {
+        "label": "D",
+        "content": "③①②⑤④"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：68%，易错项：C。\n\n解析\n\n第一步，观察选项，确定首句应从②③中选择。\n工友触电倒地是整个事件的起因，所以首句为②，排除 D 选项。\n第二步，观察分析剩余选项，第二句在④⑤两句中选择，应该是先切断电源然后再打急救电话，所以第二句为⑤，\n排除 A 选项。\n第三步，观察分析剩余选项，尾句应在①③两句中选择，医护全力救治应该是整个事件的最终结果，所以尾句为\n③，排除 C 选项。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第31题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-032",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①各地赶赴增援 ②暴雨引发洪涝 ③沿岸受灾严重 ④群众积极自救 ⑤重建美好家园",
+    "options": [
+      {
+        "label": "A",
+        "content": "②④⑤③①"
+      },
+      {
+        "label": "B",
+        "content": "②⑤③④①"
+      },
+      {
+        "label": "C",
+        "content": "②③④①⑤"
+      },
+      {
+        "label": "D",
+        "content": "③②①④⑤"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：90%，易错项：A。\n\n解析\n\n第一步，观察选项，确定首句应从②③中选择。\n暴雨洪涝是整个事件的起因，所以应该先有洪涝，即首句为②，排除 D 选项。\n第二步，观察分析剩余选项，第二句在③④⑤句中选择，应该是先有受灾严重，再进行自救，最终重建美好家园，\n所以第二句为③，排除 A、B 选项。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第32题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-033",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①最终陈述 ②法庭辩论 ③法庭调查 ④宣告判决 ⑤合议庭评议",
+    "options": [
+      {
+        "label": "A",
+        "content": "②①③④⑤"
+      },
+      {
+        "label": "B",
+        "content": "②③①⑤④"
+      },
+      {
+        "label": "C",
+        "content": "③②①④⑤"
+      },
+      {
+        "label": "D",
+        "content": "③②①⑤④"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：65%，易错项：B。\n\n解析\n\n第一步，观察选项，确定首句应从②③中选择。\n根据法庭审理环节，应该是先有法庭调查取证，再根据法庭调查取证的结果进行法庭辩论，首句为③，排除 A、\nB 选项。\n第二步，观察分析剩余选项，尾句在④⑤两句中选择，应该是先合议庭评议，再宣告判决，尾句为④，排除 C 选\n项。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第33题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-034",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①动能损耗 ②形成潮汐 ③自转变慢 ④海陆摩擦 ⑤天体引力",
+    "options": [
+      {
+        "label": "A",
+        "content": "③②⑤①④"
+      },
+      {
+        "label": "B",
+        "content": "③①⑤④②"
+      },
+      {
+        "label": "C",
+        "content": "⑤③②④①"
+      },
+      {
+        "label": "D",
+        "content": "⑤②④①③"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：30%，易错项：D。\n\n解析\n\n第一步，观察选项，确定首句应从③⑤中选择。\n观察③⑤分别是自转变慢与天体引力，运用地理常识能够判断，常规情况下天体引力造成自转变慢，首句为⑤，\n排除 A、B 选项。\n第二步，观察分析剩余选项，第二句在②③两句中选择，应该是先有自转变慢，再形成潮汐，第二句为③，排除\nD 选项。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第34题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-035",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①南水北调成功通水 ②北方水资源短缺 ③岸区移民搬迁安置 ④水危机掣肘得到缓解 ⑤南北经济齐飞共进",
+    "options": [
+      {
+        "label": "A",
+        "content": "②③①④⑤"
+      },
+      {
+        "label": "B",
+        "content": "②④③①⑤"
+      },
+      {
+        "label": "C",
+        "content": "⑤④①②③"
+      },
+      {
+        "label": "D",
+        "content": "②④①⑤③"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：80%，易错项：B。\n\n解析\n\n第一步，观察选项，确定首句应从②⑤中选择。\n整体观察可知北方水资源短缺是大背景，所以②应为首句，排除 C、D 项。\n第二步，观察分析剩余选项，第二句在③④两句中选择，应该是先安置移民，再南水北调，南水北调的成功通水\n使得水危机得到缓解，所以第二句为③，排除 B 选项。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第35题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-036",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "（1）包装运输 （2）晾晒加工 （3）收获海货 （4）出海打渔 （5）网店销售",
+    "options": [
+      {
+        "label": "A",
+        "content": "4-3-2-1-5"
+      },
+      {
+        "label": "B",
+        "content": "4-3-1-2-5"
+      },
+      {
+        "label": "C",
+        "content": "2-3-4-1-5"
+      },
+      {
+        "label": "D",
+        "content": "2-3-4-5-1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：80%，易错项：B。\n\n解析\n\n- 6 -\n\n\f获取试卷更新，请关注\n第一步，观察选项，确定首句应从②④中选择。\n先是④出海打鱼，然后是③收获海货，才能有②晾晒加工，首句是④，排除 C 项和 D 项。\n第二步，观察分析剩余选项。\n应该先有②晾晒加工，再⑤商店销售，排除 B 项。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第36题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-037",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "（1）宇宙探索 （2）水中游弋 （3）四肢匍匐 （4）直立奔跑 （5）高空飞驰",
+    "options": [
+      {
+        "label": "A",
+        "content": "2-3-1-5-4"
+      },
+      {
+        "label": "B",
+        "content": "2-3-4-5-1"
+      },
+      {
+        "label": "C",
+        "content": "3-2-4-5-1"
+      },
+      {
+        "label": "D",
+        "content": "4-3-2-1-5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：79%，易错项：C。\n\n解析\n\n第一步，观察选项，确定首句应从②③④中选择。\n生命的起源最开始是在海洋，所以首项是②水中游弋，随后是③四肢匍匐，再发展至④直立奔跑，排除 C 项和 D\n项。\n第二步，观察分析剩余选项，尾句应从①④中选择。\n人类④直立奔跑后，向空中探索的归程中先是⑤高空飞驰，其次是①宇宙探索，尾句是①，排除 A 项。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第37题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-038",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "（1）发明司南和罗盘 （2）大航海时代开启 （3）发现磁石指向性 （4）偶然接触磁铁矿 （5）丝绸之路贯亚欧",
+    "options": [
+      {
+        "label": "A",
+        "content": "4-1-2-3-5"
+      },
+      {
+        "label": "B",
+        "content": "4-3-1-5-2"
+      },
+      {
+        "label": "C",
+        "content": "4-3-1-2-5"
+      },
+      {
+        "label": "D",
+        "content": "5-4-3-1-2"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：33%，易错项：C。\n\n解析\n\n第一步，观察选项，确定首句应从④⑤中选择。\n④偶然接触磁铁矿，⑤丝绸之路贯亚欧，只有先发现磁铁矿才能有后续的事件，所以，④在首位，排除 D 项。\n第二步，观察分析剩余选项。\n先接触磁铁矿之后应该是③发现磁石指向性，发现磁石的属性之后才能利用该属性发明东西，再①发明司南和罗\n盘，排除 A 项；最后②大航海时代开启是在⑤丝绸之路贯亚欧之后。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第38题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-039",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "（1）掌握发展主动 （2）发展前景受制 （3）科技基础薄弱 （4）专注技术研发 （5）获得核心专利",
+    "options": [
+      {
+        "label": "A",
+        "content": "2-3-4-5-1"
+      },
+      {
+        "label": "B",
+        "content": "3-2-4-1-5"
+      },
+      {
+        "label": "C",
+        "content": "3-2-4-5-1"
+      },
+      {
+        "label": "D",
+        "content": "2-3-5-4-1"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：78%，易错项：A。\n\n解析\n\n第一步，观察选项，确定首句应从②③中选择。\n③科技基础薄弱是②发展前景受制的原因，所以③在首句，排除 A 项和 D 项。\n第二步，观察分析剩余选项，尾句应从①⑤中选择。\n⑤获得核心专利的最终结果是①掌握发展主动，①应该放在尾句。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第39题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-040",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "（1）新三板揭牌 （2）深交所开业 （3）创业板上市 （4）证监会成立 （5）深港通启动",
+    "options": [
+      {
+        "label": "A",
+        "content": "4-2-3-5-1"
+      },
+      {
+        "label": "B",
+        "content": "2-3-1-4-5"
+      },
+      {
+        "label": "C",
+        "content": "4-2-3-1-5"
+      },
+      {
+        "label": "D",
+        "content": "2-4-3-1-5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：22%，易错项：C。\n\n解析\n\n第一步，观察选项，确定首句应从②④中选择。\n②深交所开业，④证监会成立，按照时间先后顺序，证监会成于 1992 年，深交所成立于 1990 年，所以，②在首\n位，排除 A 项和 C 项。\n第二步，观察分析剩余选项。\n①新三板揭牌，③创业板上市，④证监会成立。按照时间的先后顺次序，应该是④③①。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第40题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-041",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：56%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类或属性类。题干直线居多，考虑数线。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，图形中直线数分别为 4、3、2，呈等差规律；将此规律应用到第二段，前两图直线数分别为 2、1，问号\n处应有 0 条直线，只有 D 项符合。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第41题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q041.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-042",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。 - 3 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：62%，易错项：D。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类或属性类。题干小元素居多，考虑数素。\n第二步，两段式，第一段找规律，第二段用规律。\n\n- 7 -\n\n\f获取试卷更新，请关注\n第一段，图形中圆的数量分别为 5、6、7，呈等差规律；第二段出现两种元素，考虑换算，应用第一段规律，可\n得换算规律◇=3○，则换算后前两图中圆的数量分别为 5、6，问号处换算后应有 7 个圆，只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第42题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q042.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-043",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：68%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成相似，优先考虑样式类。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，图 1 与图 2 定义叠加得到图 3，规律为：长+长=短，短+长=长，短+短=短；将此规律应用到第二段，第\n一行短+短=短，排除 B、D 项，第二、三行均为长+短，应得到相同图案，而 A 项第二、三行图案不同，排除 A 项，\n只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第43题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q043.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-044",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：83%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类或属性类。图形均较为规整，考虑对称性。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，图形均为对称图形；第二段，前两图均为对称图形，问号处应为对称图形，只有 B 项符合。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第44题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q044.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-045",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现出一定的规律性（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：21%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成相同，优先考虑动态位置。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，上半部分的黑色扇形沿逆时针方向每次移动 1 格；第二段，前两图中黑色三角形均沿顺时针方向每次移\n动 1 格，小圆沿逆时针方向每次移动 2 格，只有 A 项符合。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第45题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q045.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-046",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现出一定的规律性（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：53%，易错项：C。\n\n解析\n\n第一步，观察特征。\n组成元素不同，优先考虑数量类或属性类。图形出现十字交点，考虑数点。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，图形交点个数分别为 1、2、3；第二行验证规律，图形交点个数分别为 1、2、3；第三行应用此规律，\n前两个图形的交点个数分别为 1、2，所以问号处的图形中交点的个数应为 3，只有 A 项符合。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第46题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q046.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-047",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。 - 4 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：73%，易错项：A。\n\n解析\n\n第一步，观察特征。\n图形组成相似，黑色填充位置不同，考虑动态位置类平移。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，三个黑格沿着外围依次逆时针移动一格；第二行中，中间位置上的黑色填充不动，外圈的黑格沿着外\n围依次逆时针移动 2 格；第三行中，黑格沿外圈依次逆时针移动 3 格，观察选项，只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第47题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q047.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-048",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：42%，易错项：D。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。部分图形较为规整，考虑属性类对称性。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，三个图形依次为轴对称图形、中心对称图形、既非轴对称又非中心对称图形；第二行中的三个图形符\n\n- 8 -\n\n\f获取试卷更新，请关注\n合此规律；第三行应用此规律，只有 A 项符合。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第48题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q048.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-049",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：48%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类和属性类。曲直特征明显，考虑曲线或直线条数。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，所有汉字均由直线构成，即曲线条数均为 0；第二行中，三个字母组合中的曲线条数均为 1，第三行\n中，前两组字母组合中的曲线条数均为 2，所以问号处的字母组合中曲线的条数均为 2，只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第49题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q049.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-050",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：31%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行，三个图形的笔画数均为 1；第二行，三个图形的笔画数均为 2；第三行前两个图形的笔画数均为 3，所\n以问号处的图形笔画数也应为 3，只有 D 项符合。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第50题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q050.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-051",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "把下面的六个图形分为两类，使每一类都有各自的共同特征或规律，分类正确的一项是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：50%，易错项：D。\n\n解析\n\n第一步，观察特征。\n图形组成相似，部分图形内部有相同元素，考虑元素求同。\n第二步，一条式，从左到右找规律。\n图形①③④中均存在五角星，图形②⑤⑥中均存在七边形，分为两组。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第51题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q051.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-052",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "把下面的六个图形分为两类，使每一类都有各自的共同特征或规律，分类正确的一项是（ ）。 - 5 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：69%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，均为汉字，考虑汉字的书写顺序。\n第二步，一条式，从左到右找规律。\n汉字①⑤⑥的第一笔均为撇，汉字②③④的第一笔均为竖，分为两组。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第52题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q052.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-053",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "把下面的六个图形分为两类，使每一类都有各自的共同特征或规律，分类正确的一项是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：74%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。封闭面明显，优先考虑数面。\n第二步，根据规律进行分组。\n图形中①②⑥均为开放图形，没有封闭面，③④⑤均有一个封闭面，分为两组。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第53题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q053.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-054",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "把下面的六个图形分为两类，使每一类都有各自的共同特征或规律，分类正确的一项是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：70%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。\n第二步，根据规律进行分组。\n图形①⑤⑥均为全开放图形，图形②③④均为有封闭空间的图形，分为两组。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第54题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q054.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-055",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "把下面的六个图形分为两类，使每一类都有各自的共同特征或规律，分类正确的一项是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n- 9 -\n\n\f获取试卷更新，请关注\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。平行线明显，考虑平行线。\n第二步，根据规律进行分组。\n图形中②③④均有平行线，①⑤⑥均没有平行线，分为两组。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第55题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q055.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-056",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "晨曦∶清晨",
+    "options": [
+      {
+        "label": "A",
+        "content": "雾霭∶大漠"
+      },
+      {
+        "label": "B",
+        "content": "青春∶追忆"
+      },
+      {
+        "label": "C",
+        "content": "皓月∶夜晚"
+      },
+      {
+        "label": "D",
+        "content": "蘑菇∶下雨"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：92%，易错项：D。\n\n解析\n\n第一步，确定题干逻辑关系。\n“晨曦”是黎明后的微光，只出现于“清晨”，二者为时间的对应关系。\n第二步，辨析选项。\nA 项：“雾霭”是指雾气，与“大漠”没有必然的逻辑关系，与题干逻辑关系不一致，排除；\nB 项：“追忆”“青春”，二者为动宾关系，与题干逻辑关系不一致，排除；\nC 项：“皓月”只出现于“夜晚”，二者为时间的对应关系，与题干逻辑关系一致，符合；\nD 项：“下雨”之后，地面可能会长“蘑菇”，二者为天气现象的对应关系，与题干逻辑关系不一致，排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第56题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-057",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "劲敌∶严冬",
+    "options": [
+      {
+        "label": "A",
+        "content": "良师∶暴雪"
+      },
+      {
+        "label": "B",
+        "content": "朋友∶海洋"
+      },
+      {
+        "label": "C",
+        "content": "阿爸∶老虎"
+      },
+      {
+        "label": "D",
+        "content": "知音∶飞鸟"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：39%，易错项：D。\n\n解析\n\n第一步，确定题干逻辑关系。\n“劲敌”和“严冬”之间没有必然的逻辑关系，分析词语的结构，“劲敌”是强劲、棘手的敌人或对手，“严冬”\n指极冷的冬天，二者均为偏正结构。\n第二步，辨析选项。\nA 项：“良师”和“暴雪”之间没有必然的逻辑关系，但是二者均为偏正关系，与题干逻辑关系一致，符合；\nB 项：“朋友”和“海洋”之间没有必然的逻辑关系，并且二者均为并列结构，与题干逻辑关系不一致，排除；\nC 项：“阿爸”和“老虎”之间没有必然的逻辑关系，并且均不是偏正关系，与题干逻辑关系不一致，排除；\nD 项：“知音”和“飞鸟”之间没有必然的逻辑关系，“知音”本意为通晓音律的人，并不是偏正关系，与题干\n逻辑关系不一致，排除。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第57题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-058",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "拨云∶见日",
+    "options": [
+      {
+        "label": "A",
+        "content": "彼竭∶我盈"
+      },
+      {
+        "label": "B",
+        "content": "触景∶生情"
+      },
+      {
+        "label": "C",
+        "content": "翻山∶越岭"
+      },
+      {
+        "label": "D",
+        "content": "筋疲∶力尽"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：72%，易错项：C。\n\n解析\n\n第一步，确定题干逻辑关系。\n“拨云见日”指拨开云雾，看见了太阳。比喻冲破黑暗，重见光明，因为拨开了云雾，所以看见了太阳，二者之\n间为因果对应。\n第二步，辨析选项。\nA 项：“彼竭我盈” 指他们的勇气已丧失，我们的士气正旺盛，二者之间为并列关系。与题干逻辑关系不一致，\n排除；\nB 项：“触景生情”是受到眼前景物的触动，引起联想，产生某种感情。因为看到景物，所以产生感情，二者之\n间为因果对应关系，与题干逻辑关系一致，符合；\nC 项：“翻山越岭”是翻过了很多山，越过了很多岭。形容在外工作的艰苦或旅途的遥远，二者之间为并列关系，\n与题干逻辑关系不一致，排除；\nD 项：“筋疲力尽”形容非常疲乏，一点力气也没有了，二者之间为并列关系，与题干逻辑关系不一致，排除。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第58题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-059",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "闷闷不乐∶黯然销魂",
+    "options": [
+      {
+        "label": "A",
+        "content": "悲欢离合∶悲喜交集"
+      },
+      {
+        "label": "B",
+        "content": "伤春悲秋∶吞声忍泪"
+      },
+      {
+        "label": "C",
+        "content": "安贫乐道∶乐不思蜀"
+      },
+      {
+        "label": "D",
+        "content": "低唱浅酌∶放歌纵酒"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：30%，易错项：B。\n\n解析\n\n第一步，确定题干逻辑关系。\n“闷闷不乐”形容心事放不下，心里不快活，“黯然销魂”指心神沮丧得像丢了魂似的，二者之间为近义关系，\n并且后者比前者程度深。\n第二步，辨析选项。\nA 项：“悲欢离合”指人生中经常遇到的悲伤、欢乐、离别、团聚四种境遇，“悲喜交集”指悲和喜两种感情一\n起涌上心头。多形容由眼前的欢乐而联想起过去的悲苦的激动心情，二者之间不是近义关系，与题干逻辑关系不\n一致，排除；\n\n- 10 -\n\n\f获取试卷更新，请关注\nB 项：“伤春悲秋” 形容多愁善感，“吞声忍泪”形容强忍悲伤，二者不是近义关系，与题干逻辑关系不一致，\n排除；\nC 项：“安贫乐道”指安于贫穷的境遇，乐于奉行自己信仰的道德准则，“乐不思蜀”泛指乐而忘返或乐而忘本，\n二者之间不是近义关系，与题干逻辑关系不一致，排除；\nD 项：“低唱浅酌”指听人轻柔地歌唱，并自在地慢慢饮酒。形容一种安乐自在的神态，“放歌纵酒”尽情歌唱，\n放量地饮酒。形容开怀畅饮尽兴欢乐，二者之间为近义关系，并且后者比前者的程度深，与题干逻辑关系不一致，\n排除。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第59题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-060",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "五常大米∶泰国香米",
+    "options": [
+      {
+        "label": "A",
+        "content": "华南虎∶非洲菊"
+      },
+      {
+        "label": "B",
+        "content": "奇异果∶猕猴桃"
+      },
+      {
+        "label": "C",
+        "content": "玉皇大帝∶达摩祖师"
+      },
+      {
+        "label": "D",
+        "content": "盐田港∶纽约港"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：71%，易错项：B。\n\n解析\n\n第一步，确定题干逻辑关系。\n“五常大米”黑龙江省哈尔滨市五常市特产，“泰国香米”是原产于泰国的长粒型大米，是籼米的一种。因其香\n糯的口感和独特的露兜树香味享誉世界，二者之间为并列关系，并且一个为国内品种，一个为国外品种。\n第二步，辨析选项。\nA 项：“华南虎”和“非洲菊”一个是动物，一个是植物，不能形成并列关系，与题干逻辑关系不一致，排除；\nB 项：“奇异果”是“猕猴桃”的一个人工选育品种，因使用广泛而成为了猕猴桃的代称，二者之间为全同关系，\n与题干逻辑关系不一致，排除；\nC 项：“玉皇大帝”是道教神话众神佛的领袖，“达摩祖师”是印度人，是中国禅宗的始祖，二者之间不是并列\n关系，与题干逻辑关系不一致，排除；\nD 项：“盐田港”中国广东省深圳市港口，位于深圳市南大鹏湾北岸，西临沙头角，“纽约港”是美国最大的海\n港，世界最大海港之一。位于美国东北部哈得孙河河口，东临大西洋，二者之间为并列关系，并且一个为国内，\n一个为国外，与题干逻辑关系一致，符合。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第60题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-061",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "主播∶播报∶带货",
+    "options": [
+      {
+        "label": "A",
+        "content": "火药∶武器∶炼丹"
+      },
+      {
+        "label": "B",
+        "content": "手机∶通讯∶支付"
+      },
+      {
+        "label": "C",
+        "content": "演员∶唱歌∶演戏"
+      },
+      {
+        "label": "D",
+        "content": "教师∶教书∶育人"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：28%，易错项：D。\n\n解析\n\n第一步，确定题干逻辑关系。\n“主播”最初的工作是“播报”，现在也可以“带货”，后两词与第一词属于功能对应关系，且后两词有时间先\n后之分。\n第二步，辨析选项。\nA 项：“火药”最初用来“炼丹”，后用作“武器”，后两词顺序与题干不一致，排除；\nB 项：“手机”可以“通讯”，也可以“支付”，后两词与第一词属于功能对应关系，且后两词有时间先后之分，\n正确；\nC 项：“演员”可以“唱歌”，也可以“演戏”，后两词没有时间先后之分，排除；\nD 项：“教师”通过“教书”来“育人”，三者属于职业，方式与职责的对应，排除。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第61题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-062",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "降温∶冻结∶坚硬",
+    "options": [
+      {
+        "label": "A",
+        "content": "饥荒∶打猎∶灭绝"
+      },
+      {
+        "label": "B",
+        "content": "切割∶金属∶成型"
+      },
+      {
+        "label": "C",
+        "content": "接触∶感染∶咳嗽"
+      },
+      {
+        "label": "D",
+        "content": "计数∶运算∶建模"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：78%，易错项：A。\n\n解析\n\n第一步，确定题干逻辑关系。\n“降温”使得物体被“冻结”，二者属于因果对应关系，物体“冻结”后变得“坚硬”，二者属于特征对应关系。\n第二步，辨析选项。\nA 项：“饥荒”和“打猎”都会导致“灭绝”，前两词与第三词属于因果对应关系，排除；\nB 项：“切割”“金属”，二者属于工艺与客体的对应关系，排除；\nC 项：“接触”导致“感染”，二者属于因果对应关系“感染”之后的症状是“咳嗽”，二者属于特征对应关系，\n正确；\nD 项：“计数”是“运算”的基础，对应方式与题干不一致，排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第62题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-063",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "综合医院∶牙科诊所∶拔牙",
+    "options": [
+      {
+        "label": "A",
+        "content": "珠三角∶深圳∶创业"
+      },
+      {
+        "label": "B",
+        "content": "美食城∶酒楼∶宴客"
+      },
+      {
+        "label": "C",
+        "content": "深圳∶大梅沙∶度假"
+      },
+      {
+        "label": "D",
+        "content": "办事大厅∶缴费专窗：受理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，确定题干逻辑关系。\n“拔牙”可以去“综合医院”，也可以去“牙科诊所”，前两词属于并列关系，第三词与前两词属于地点对应关\n\n- 11 -\n\n\f获取试卷更新，请关注\n系。\n第二步，辨析选项。\nA 项：“珠三角”包括“深圳”，二者属于包容关系中的组成关系，排除；\nB 项：“宴客”可以去“美食城”，也可以去“酒楼”，前两词属于并列关系，第三词与前两词属于地点对应关\n系，正确；\nC 项：“深圳”与“大梅沙”属于包容关系中的组成关系，排除；\nD 项：“办事大厅”与“缴费专窗”属于包容关系中的组成关系，排除。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第63题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-064",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "上肢∶上臂肌肉∶肱三头肌",
+    "options": [
+      {
+        "label": "A",
+        "content": "电脑∶键盘∶塑料"
+      },
+      {
+        "label": "B",
+        "content": "图书馆∶报纸∶纸张"
+      },
+      {
+        "label": "C",
+        "content": "蔷薇科∶被子植物∶苹果树"
+      },
+      {
+        "label": "D",
+        "content": "汽车∶制动系统∶刹车盘"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：75%，易错项：C。\n\n解析\n\n第一步，确定题干逻辑关系。\n“上肢”与“上臂肌肉”属于包容关系中的组成关系，“上臂肌肉”包括“肱三头肌”，二者属于包容关系中的\n种属关系。\n第二步，辨析选项。\nA 项：“电脑”与“键盘”属于包容关系中的组成关系，“塑料”是“键盘”的原材料，二者属于原材料对应关\n系，排除；\nB 项：“图书馆”与“报纸”属于地点对应关系，排除；\nC 项：“蔷薇科”是“被子植物”，二者属于包容关系中的种属关系，排除；\nD 项：“制动系统”是“汽车”的组成部分，二者属于包容关系中的组成关系，“制动系统”包括“刹车盘”，\n二者属于包容关系中的种属关系，与题干逻辑关系一致，符合。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第64题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-065",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "逗号∶停顿∶短暂",
+    "options": [
+      {
+        "label": "A",
+        "content": "飞机∶运输∶快捷"
+      },
+      {
+        "label": "B",
+        "content": "光盘∶存储∶科技"
+      },
+      {
+        "label": "C",
+        "content": "果汁∶营养∶甘甜"
+      },
+      {
+        "label": "D",
+        "content": "书籍∶阅读∶进步"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：81%，易错项：D。\n\n解析\n\n第一步，确定题干逻辑关系。\n“逗号”表示“短暂”的“停顿”，“逗号”与“停顿”属于功能对应关系，“短暂”是其特征。\n第二步，辨析选项。\nA 项：“飞机”有“运输”的功能，二者属于功能对应关系，且具有“快捷”的特征，与题干逻辑关系一致，符\n合；\nB 项：“光盘”有“存储”的功能，二者属于功能对应关系，是“科技”进步的产物，对应方式与题干不一致，\n排除；\nC 项：“果汁”与“营养”属于属性关系，“甘甜”是“果汁”的口味，排除；\nD 项：“阅读”与“书籍”属于动宾关系，“书籍”是“进步”的阶梯，二者属于对应关系，排除；\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第65题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-066",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小亮只爱吃肉不爱吃菜。妈妈批评他挑食，他却理直气壮地反驳道：“妈妈也不是什么都吃呀，你不吃甜品， 你也挑食。” 小亮在反驳中使用的论证策略是： - 6 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "论证另外一个不相干的问题来转移论证焦点"
+      },
+      {
+        "label": "B",
+        "content": "对概念作出另外一种解释来模糊“是”与“否”的界线"
+      },
+      {
+        "label": "C",
+        "content": "利用对方的言行矛盾做掩饰，以图降低对方观点的可信度"
+      },
+      {
+        "label": "D",
+        "content": "选取一个特例来佐证一个一般性的结论"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：36%，易错项：B。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“论证策略”，确定为正误评价。\n第二步，找论点和论据。\n论点：小亮不吃菜，所以小亮挑食。\n论据：妈妈也不吃甜品，妈妈也挑食。\n第三步，辨析选项。\nA 项：虽然小亮拿妈妈挑食来举例子，但是也是在讨论具体的行为和是不是挑食之间的关系，与论点的话题一致，\n不是用不相干的问题来转移论证焦点，排除；\nB 项：小亮没有对挑食这个概念做出新的解释来模糊“是”与“否”的界线，排除；\nC 项：妈妈批评小亮的时候，小亮利用了妈妈的行为与妈妈对他批评的矛盾来做掩饰，说明自己对妈妈的批评的\n不认可，降低妈妈观点的可信度，正确；\nD 项：小亮是举了妈妈行为的例子，来反驳妈妈，而不是选取了自己的一个行为特例来证明妈妈的批评不对，排\n除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第66题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-067",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "孙行者为营救被妖怪抓走的师父来到盘丝洞口，只见有 3 个洞门（1 号门，2 号门，3 号门）。每个洞门前 都有一只守门小妖，因只有一个洞门通向师父所在处，孙行者便持棒逼问小妖，获得线索如下： 1 号门的小妖：“此门通向你师父所在处。” 2 号门的小妖：“此门不通向你师父的所在处。” 3 号门的小妖：“他二位所言，只有一个可以取信。” 如果 3 号门的小妖所说为真，那么通向师父所在处的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 号门"
+      },
+      {
+        "label": "B",
+        "content": "2 号门"
+      },
+      {
+        "label": "C",
+        "content": "3 号门"
+      },
+      {
+        "label": "D",
+        "content": "无法确定"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：65%，易错项：D。\n\n- 12 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，确定题型。\n题干中有若干论断及提问方式，确定为真假推理。\n第二部，找关系。\n题干中没有明显的矛盾或反对关系，采用假设的方法。\n第三步，辨析选项。\n3 号门的小妖所说为真，即 1 号门和 2 号门的小妖有一个说的是真的，假设 1 号门的小妖说的是真的，则 1 号门\n通向师父所在，而 2 号门小妖说的是假的，可以得到 2 号门也通向师父所在，与已知信息矛盾，因此，假设错误，\n1 号门的小妖说的是假的，2 号门的小妖说的是真的，即 1 号门和 2 号门都不通向师父所在，因此，3 号门通向\n师父所在。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第67题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-068",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一些环保主义者是热爱旅游的人，所有的环保企业代表都支持减少风景区开发，所有热爱旅游的人都反对减 少风景区开发。 由此可知：",
+    "options": [
+      {
+        "label": "A",
+        "content": "所有环保主义者都反对减少风景区开发"
+      },
+      {
+        "label": "B",
+        "content": "所有的环保企业代表都不热爱旅游"
+      },
+      {
+        "label": "C",
+        "content": "一些热爱旅游的人支持加大风景区开发"
+      },
+      {
+        "label": "D",
+        "content": "一些环保主义者支持减少风景区开发"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，确定题型。\n根据题干特征和选项特点，确定为集合推理。\n第二步，翻译题干。\n①有的环保主义者是热爱旅游的人；\n②环保企业代表→支持减少风景区开发；\n③热爱旅游的人→反对减少风景区开发。\n第三步，辨析选项。\nA 项：①和③递推可得：有的环保主义者反对减少风景区的开发，只能得到“有的”，而不能推出“所有”，无\n法推出；\nB 项：③逆否等价为：不反对减少风景区开发→不热爱旅游的人，与②递推可得：环保企业代表→不热爱旅游的\n人，可以推出；\nC 项：根据③可以得知热爱旅游的人反对减少风景区开发，但反对减少风景区开发不代表支持加大风景区开发，\n无法推出；\nD 项：①③递推可以得到：有的环保主义者反对减少风景区开发，但无法得到是不是有环保主义者支持减少风景\n区开发，无法推出。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第68题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-069",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "有一类问题属于开放式问题，即问题的答案不是固定的，还有一类问题是基于有限的事实而提出的，有且只 有一个正确答案。 根据上述定义，以下属于开放式问题的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "现深圳陆地接壤的城市有哪些？"
+      },
+      {
+        "label": "B",
+        "content": "水凝固成冰后，你认为体积和密度哪个会变大？"
+      },
+      {
+        "label": "C",
+        "content": "孔子门下弟子三千，有多少人称得上贤能？"
+      },
+      {
+        "label": "D",
+        "content": "孟子所称“君子三乐”是何三乐？"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：83%，易错项：D。\n\n解析\n\n第一步，看提问方式，本题属于选是题。\n第二步，找关键信息。\n①问题的答案不是固定的。\n第三步，辨析选项。\nA 项：与深圳陆地接壤的城市是固定的，不符合关键信息，不符合定义；\nB 项：水凝结成冰后体积会变大，答案是固定的，不符合关键信息，不符合定义；\nC 项：孔子门下有多少弟子称得上贤能，需根据贤能的定义来回答，符合关键信息，符合定义；\nD 项：“孟子三乐”中第一乐,指的是亲情；第二乐,指的是孟子的为人处事的态度,他告诉人们做人应该正直坦\n荡,对得起天地和身边的人。第三乐,指的是孟子的教育态度,得到优秀的人才并教育他们。答案固定，不符合关\n键信息，不符合定义。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第69题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-070",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某些错绘国界线的地图是严重违法违规的，这是因为有损我国领土和主权完整的地图是严重违法违规的。 若使上述论证有效，则必须要补充的前提是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "错绘国界线极有可能导致我国领土和主权完整受损"
+      },
+      {
+        "label": "B",
+        "content": "某些严重违法违规的地图有损我国领土和主权完整"
+      },
+      {
+        "label": "C",
+        "content": "所有错绘国界线的地图都有损我国领土和主权完整"
+      },
+      {
+        "label": "D",
+        "content": "某些错绘国界线的地图有损我国领土和主权完整"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：37%，易错项：C。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“前提”，确定为加强论证。\n第二步，找论点和论据。\n论点：某些错绘国界线的地图是严重违法违规的。\n论据：有损我国领土和主权完整的地图是严重违法违规的。\n第三步，辨析选项。\n\n- 13 -\n\n\f获取试卷更新，请关注\nA 项：不明确项。该项中的“有可能导致”说明不确定结果究竟怎样，不是论证的前提，不具有加强作用。\nB 项：无关选项。该项中“严重违法的地图”不一定是论点中“错绘国界的地图”，不具有加强作用。\nC 项：建立联系。该项和论据进行递推可以得到“所有错绘国界的地图都是严重违法违规的”，进一步可以推出\n论点“某些错绘国界线的地图是严重违法违规的”，具有加强作用。\nD 项：建立联系。该项建立了论点“某些错绘国界的地图”和论据“有损我国领土和主权完整”之间的联系，具\n有加强作用。\n第四步，强弱比较。\nC 和 D 都可以建立论据和论点之间的关联，但要使论点“某些”成立，并不需要“所有错绘国界线的地图都有损\n我国领土和主权完整”，故 C 项不是必要的前提。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第70题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-071",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某公司财务小组要求组员每年自学完成 20 讲的“财务会计人员能力提升”系列网课，年底前，组长向组员 询问自学进度，组员的回答如下： 甲：“我没完成。” 乙：“丙完成了。” 丙：“大家都没完成。” 丁：“乙说的是谎话。” 戊：“乙完成了。” 巳：“甲和丙中只有一个完成。” 组长通过查看后台数据，发现以上组员中有两人说谎。 由此可知，甲、乙、丙中完成自学的有（ ）人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "3 72、暂缺"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：71%，易错项：B。\n\n解析\n\n第一步，确定题型。\n题干有若干论断和真假限定，确定为真假推理。\n第二步，找矛盾。\n乙和丁的话为矛盾关系，必有一真一假。\n第三步，看其余。\n根据已知“有两人说谎”，可知其余论断中只能有一句为假；假设丙的话为真时，戊、己的话均为假，与题干矛\n盾，所以其余论断中，丙的话为假，甲、戊、己的话为真，此时完成自学的人为：丙和乙。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第71题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-073",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "游戏“抢占阵地”的规则如下：有黑、白、蓝、粉、黄五个阵地，玩家抢占阵地后可以获得相应分数，分别 为黑阵地 1 分、白阵地 3 分、蓝阵地 5 分、粉阵地 7 分、黄阵地 9 分。小张、小王、小李、小赵各自挑战了 6 次， 每人在每次挑战中都成功占领了一个阵地。游戏结束交流成绩时，小张说：“我得了 10 分。”小王说：“我得 了 30 分。”小李说：“我得了 33 分。”小赵说：“我得了 58 分。” 由此可知，（ ）说了假话。",
+    "options": [
+      {
+        "label": "A",
+        "content": "至多三人"
+      },
+      {
+        "label": "B",
+        "content": "至多两人"
+      },
+      {
+        "label": "C",
+        "content": "至少一人"
+      },
+      {
+        "label": "D",
+        "content": "至少两人"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：31%，易错项：C。\n\n解析\n\n第一步，确定题型。\n题干具有匹配特征，确定为分析推理。\n第二步，分析条件，进行推理。\n根据条件“黑阵地 1 分、白阵地 3 分、蓝阵地 5 分、粉阵地 7 分、黄阵地 9 分”，可知各项阵地的得分为奇数；\n根据条件“每人挑战 6 次，每次成功占领一个阵地”，可知，本次游戏最高分为连续 6 次占领黄阵地，即 54 分，\n故小赵说“得了 58 分”，一定是说谎；\n根据条件“每人挑战 6 次，每次成功占领一个阵地”，以及各项阵地得分为奇数可知，最终得分应为偶数，故小\n李说“我得了 33 分”，一定是说谎；\n小张的得分为 10 分，可能是“1+1+1+1+3+3”，是真话，也可能是假话；\n小王的得分是 30 分，可能是“3+3+3+3+9+9”，是真话，也可能是假话。\n综上可知，至少两人说了假话。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第73题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-074",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如果把一个造型精致的鸟笼挂在房间最显眼的地方，过不了几天主人就会做出下面两个选择之一：或者把鸟 笼扔掉，或者买只鸟放在鸟笼里，因为这比无休止地向别人解释“空鸟笼”要轻松得多，这就是鸟笼逻辑。原因 - 7 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。 很简单，人们大多受制于惯性思维，认为鸟笼必定用于养鸟。 根据上述定义，下列情形体现了鸟笼逻辑的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "沿海地区的许多车主都买了涉水险，大刘认为这是明智之举，于是也给自家的车买了涉水险"
+      },
+      {
+        "label": "B",
+        "content": "莉莉过生日时收到了朋友赠送的华贵礼服一件，为了搭配整体风格，她又买了价格不菲的高跟鞋和手拿包"
+      },
+      {
+        "label": "C",
+        "content": "小明原本总是成绩排名靠后，新来的老师常夸他勤奋好学，不久后小明的成绩大幅提升"
+      },
+      {
+        "label": "D",
+        "content": "某人去异国旅游，所见到的都是女人，于是得出该国是女儿国的结论"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：60%，易错项：D。\n\n解析\n\n第一步，看提问方式，本题属于选是题。\n第二步，找关键信息。\n人们大多受制于惯性思维。\n第三步，辨析选项。\nA 项：大刘认为买涉水险是明智之举，说明是思考后的决定，而非“惯性思维”，不符合定义；\nB 项：莉莉认为华贵的礼服，必须搭配“价格不菲”高跟鞋和手拿包，属于“惯性思维”，符合定义；\nC 项：小明因为受到老师的夸奖，然后成绩提升了，并未体现“惯性思维”，不符合定义；\nD 项：某人得出结论，是一种以偏概全，而不是“惯性思维”，不符合定义。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第74题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-075",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "全球气候变暖使自燃野火的风险增加，但研究人员发现，全球经历火烧的土地面积正在减少，他们以卫星数 据为基础计算出，从 1988 年到 2015 年，全球每年火烧土地面积缩小 24%，其中包括热浪、雷电等导致的自燃野 火，也包括烧荒等人类行为的影响。最明显的是草原地区，原本习惯防火烧荒的游牧居民的定居化，使非洲的热 带稀树草原每年火烧土地面积缩小了约 79 万平方公里。 上述发现最能支持的论断是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "全球气候变化与全球火烧土地面积没有关联"
+      },
+      {
+        "label": "B",
+        "content": "全球火烧土地面积的减少有助于缓解气候变暖"
+      },
+      {
+        "label": "C",
+        "content": "随着草原地区人类生活方式的改变，全球火烧土地面积会继续减少"
+      },
+      {
+        "label": "D",
+        "content": "防火烧荒等人类行为比自燃野火导致的火烧土地面积大得多"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：39%，易错项：D。\n\n- 14 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，确定题型。\n根据提问方式中的“支持的论断”，确定为加强论证。\n第二步，找论据。\n论据：最明显的是草原地区，原本习惯防火烧荒的游牧居民的定居化，使非洲的热带稀树草原每年火烧土地面积\n缩小了约 79 万平方公里。\n第三步，辨析选项。\nA 项：题干提到“全球气候变暖使自燃野火的风险增加”，说明全球气候变化与全球火烧土地面积存在关联，而\n不是没有关联，排除；\nB 项：题干并未提及全球火土地面积的减少对气候变暖的影响，排除；\nC 项：根据论据可知，人类生活方式的改变能够减少火烧土地面积，即题干论据可以支持该项，符合；\nD 项：题干并未将人类行为和自燃野火导致的火烧土地面积大小进行比较，排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第75题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某 CPU 厂商称，搭载新型号 CPU 的 2020 款笔记本，其运行速度是搭载旧型号 CPU 的 2019 款笔记本的 2 倍。 由此可见，新型号 CPU 可以显著提升笔记本性能。 下列说法如果为真，最能支持上述结论的是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "新款笔记本业内测评优秀，用户体验极佳"
+      },
+      {
+        "label": "B",
+        "content": "为迎合市场需求，新款笔记本的其他硬件（如主板、内存、硬盘等）均同步更新迭代"
+      },
+      {
+        "label": "C",
+        "content": "新旧两款笔记本除 CPU 和外观设计之外，尚无其他明显区别"
+      },
+      {
+        "label": "D",
+        "content": "新型号 CPU 融合了前沿尖端技术，市场份额占据显著优势"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：64%，易错项：B。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“支持”，确定为加强论证。\n第二步，找论据。\n论点：新型号 CPU 可以显著提升笔记本性能。\n论据：搭载新型号 CPU 的 2020 款笔记本，其运行速度是搭载旧型号 CPU 的 2019 款笔记本的 2 倍。\n第三步，辨析选项。\nA 项：不明确项。该项只是提及新款笔记本的用户体验，但用户体验好不代表是靠新型号 CPU 提升了性能，不具\n有加强作用。\nB 项：不明确项。该项讨论的是新款笔记本的硬件也更新迭代了，故无法确定性能的提升是靠硬件还是新型 CPU，\n不具有加强作用。\nC 项：加强论据。该项指出新款笔记本只升级了 CPU 和外在设计，在其他不变的情况下，意味着的确是靠新型 CPU\n提升了性能，具有加强作用。\nD 项：不明确项。该项只是提及新型 CPU 对于占据市场份额的优势，不代表能提升性能，不具有加强作用。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第76题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "据媒体报道，近日，某学者完成了一项人类基因编辑实验。基因编辑婴儿已健康出生。该项实验的理论依据 是，人类基因中的某个片段会在细胞表面产生一种特殊的受体蛋白，因为它的存在，使得流感病毒得以侵袭细胞； 通过对这段基因进行编辑，使得人体不再生成这种受体蛋白，从而可以免疫流感。 下列说法如果为真，最能削弱实验预期效果的是（）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "基因编辑婴儿的存活率极低，理论上平均三百个婴儿中只有一个存活"
+      },
+      {
+        "label": "B",
+        "content": "实践证明，及时接种流感疫苗并加强体育锻炼，可有效预防流感"
+      },
+      {
+        "label": "C",
+        "content": "流感病毒变异极快，新的病毒亚型可侵袭其他受体蛋白"
+      },
+      {
+        "label": "D",
+        "content": "编辑人类基因不仅有违医学伦理，还会污染人类基因库，引发其他不可预料的病症"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：75%，易错项：A。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“削弱”，确定为削弱论证。\n第二步，找论点和论据。\n论点：基因编辑婴儿已健康出生。\n论据：人类基因中的某个片段会在细胞表面产生一种特殊的受体蛋白，因为它的存在，使得流感病毒得意侵袭细\n胞；通过对这段基因进行编辑，使得人体不再生成这种受体蛋白，从而可以免疫流感。\n第三步，辨析选项。\nA 项，无关选项。题干中讨论的是基因编辑婴儿是否能健康出生，A 选项强调的是基因编辑婴儿的存活率，论题\n不一致，排除。\nB 项，无关选项。题干讨论的是通过编辑基因使得人体不再产生受体蛋白，从而预防流感，B 选项并未提及编辑\n基因的效果，论题不一致，排除。\nC 项，补充反面论据。基因变异极快，即使对这段基因进行编辑可以免疫流感，但是新的病毒仍然可以侵袭其他\n受体蛋白，使得人体受到病毒侵袭，具有削弱作用。\nD 项，无关选项。选项讨论的是对编辑基因这项研究的评价，与题干所讨论的作用无关，论题不一致，排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第77题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙、丙、丁、戊参加海岛图片识记比赛，在答题环节，五人的答案如下： 甲：“4 号图是巴厘岛，5 号图是塞舌尔。” 乙：“2 号图是塞班岛，5 号图是塔希提岛。” 丙：“4 号图是帕劳，2 号图是塞舌尔。” 丁：“3 号图是巴厘岛，4 号图是塞班岛” 戊：“5 号图是塞舌尔，1 号图是巴厘岛” 已知每人只答对一半，则巴厘岛、塞舌尔、塔希提岛、塞班岛、帕劳对应的图片序号依次是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "2，5，1，3，4"
+      },
+      {
+        "label": "B",
+        "content": "4，1，3，5，2"
+      },
+      {
+        "label": "C",
+        "content": "4，2，3，5，1"
+      },
+      {
+        "label": "D",
+        "content": "3，5，1，2，4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：59%，易错项：C。\n\n解析\n\n第一步，确定题型。\n题干具有信息匹配特征，确定为分析推理。\n\n- 15 -\n\n\f获取试卷更新，请关注\n第二步，分析条件，进行推理。\n已知每人只答对了一半。假设甲说的 4 号是巴厘岛为真，则丁说的两句话均为假，与已知矛盾。故甲说：4 号是\n巴厘岛为假，则 5 号是塞舍尔为真。乙说：5 号是塔希提岛为假，2 号是塞班岛。丙说：2 号是塞舍尔为假，4 号\n是帕劳为真。丁说：4 号是塞班岛为假，3 号是巴厘岛为真。戊说：5 号是塞舍尔为假，1 号是巴厘岛为真。\n巴厘岛、塞舍尔、塔希提岛、塞班岛、帕劳的顺序是 35124。\n因此，D 选项正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第78题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "近年来，化妆品消费市场上，国产化妆品的市场占有率显著提升，品牌效应日益凸显。一项关于国产化妆品 购买意愿的调查显示，74%的被调查者表示赞成购买国产化妆品。但是当问及这些被调查者是否曾购买国产化妆 品自用，却有 70%的人表示“没有”。 如果以下各项为真，最能够解释上述看似矛盾的现象的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "70%的被调查者表示，欧美化妆品的历史更久，品牌更大，更能够引领时尚"
+      },
+      {
+        "label": "B",
+        "content": "大部分被调查者在购买自用化妆品时，主要考虑其功效及自身肤况，不太考虑产地"
+      },
+      {
+        "label": "C",
+        "content": "购买国产化妆品的消费者中，70%的人将其作为礼物送人，只有 30%的人选择自用 - 8 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      },
+      {
+        "label": "D",
+        "content": "大部分被调查者表示，会将每年的化妆品消费支出控制在 1000 元以内"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：71%，易错项：B。\n\n解析\n\n”，确定为原因解释。\n\n第一步，确定题型。\n根据提问方式“如果下列选项为真，最能解析上述看似矛盾的现象是\n第二步，分析题干。\n74%的被调查者表示赞成购买国产化妆品，但是当问及这些被调查者是否都购买国产化妆品自用，却有 70%的人\n表示“没有”。\n第三步，辨析选项。\nA 项，选项说的是欧美化妆品的优势，没有提及对国产化妆品的态度，不能解释为什么愿意购买国产而不自用的\n现象，排除；\nB 项，大部分购买者购买自用化妆品时，主要考虑功效及自身情况，不大考虑产地的话，不能解释购买了国产化\n妆品但不自用的现象，排除；\nC 项，购买国产化妆品的消费者中，70%的人将其作为礼物送人，也就能解析 74%的购买者中有 70%的人没有自用，\n是因为将其送人了，因此没有自用，可以解释；\nD 项，1000 元以内用来购买化妆品，解释不了为何自己用的少。排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第79题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "老赵前几天从张警官那儿听说了一场审讯，嫌疑人甲、乙、丙中有一人是真凶，关于审讯结案，张警官没有 透露，但老赵当时根据获得的以下信息推测出了真凶： （1）张警官说每个嫌疑人都指控另外两人中的一人为真凶，但是没说谁指控他； （2）张警官说甲说了真话； （3）张警官没说乙说的是真话还是假话； （4）张警官说了丙说的是真话还是假话。 关于丙说话的真假，老赵现在已经忘了，但他稍作思考，还是再次推测出了真凶。 由此可知（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "乙是真凶"
+      },
+      {
+        "label": "B",
+        "content": "乙说真话"
+      },
+      {
+        "label": "C",
+        "content": "丙说假话"
+      },
+      {
+        "label": "D",
+        "content": "丙是真凶 - 9 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：46%，易错项：C。\n\n解析\n\n第一步，确定题型。\n题干有若干论断和真假限定，确定为真假推理。\n第二步，找关系。\n（1） 每个嫌疑人都指控两外两人中的一人为真凶，但是没说谁指控谁。\n（2）甲说了真话\n（3）没说乙说的是真话还是假话\n（4）说了丙说的是真话还是假话\n关于丙说话的真假，老赵已经忘了。\n根据（1）（2）可知，（5）甲指控乙或丙为真凶。\n假设乙说的是真话，根据（1）可知。（6）乙指控甲或丙为真凶。由（5）（6）可推出：乙说真话，丙是真凶。\nB、D 选项都成立。故排除这一假设。\n乙说假话（乙指控甲或丙为真凶为假话），真凶不是甲不是丙，真凶是乙。\n假设丙说的是真话，根据（1）可知，（7）丙指控乙或甲是真凶。由（5）（7）可推出啊：丙说真话，真凶是乙。\n假设丙说假话（丙指控乙或甲是真凶为假话）。凶手不是甲不是乙，真凶是丙。即丙说假话，真凶是丙。CD 选\n项都成立，故排除这一假设。\n故乙说假话，真凶是乙；丙说真话，真凶是乙。\n因此，选择 A 选项。\n\n- 16 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第80题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-021",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：19%，易错项：C。\n\n解析\n\n第一步，本题考查排列组合问题。\n\n第二步，从 01—10 十个数字中选择 1—4 个数字，有\n＝10＋45＋120＋210＝385（种），\n那么至少有 5 注相同，说明最不利时每种情况都有 4 注相同，那么至少投了 385×4＋1＝1541（注）才能保证有\n5 注是相同的。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第21题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q021.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-022",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：56%，易错项：C。\n\n解析\n\n解法一：第一步，本题考查植树问题。\n第二步，根据题意，5 面没有移动的彩旗把跑道分成 5 段，每段长为 400÷5＝80（米）。设增加一些彩旗后间距\n为 x 米，原间距是 16 米。没有移动的彩旗间距为两次插旗间距的最小公倍数，则 16 与 x 的最小公倍数为 80。\n第三步，观察选项，只有 B、D 选项两个数字与 16 的最小公倍数为 80。题目要求间隔最大，则增加彩旗后的间\n距为 10 米。\n因此，选择 B 选项。\n解法二：第一步，本题考查植树问题。\n第二步，用代入排除法解题。要使间隔最大，从大到小依次代入选项。A 选项不能被 400 整除，排除；B 选项，\n16 和 10 的最小公倍数为 80，共有 400÷80＝5（面）彩旗没有移动，符合题意。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第22题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q022.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-023",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：44%，易错项：B。\n\n解析\n\n第一步，本题考查溶液问题。\n\n- 4 -\n\n\f获取试卷更新，请关注\n第二步，设乙盐水的浓度为 x，那么甲盐水的浓度为 3x。混合后加热，水分蒸干后总重量减轻至四分之一，说明\n盐占溶液的四分之一，即浓度为 25%。可列方程：1000×20%＋200×3x＋400×x＝（1000＋200＋400）×25%，\n解得 x＝20%，那么甲盐水的浓度为 60%。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第23题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q023.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-024",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：46%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，设二级技工有 x 名，则一级技工有（56－x）名。根据每天最多可加工 10624 个零件，可列方程：24×8\n×（56－x）＋20×8x＝10624，解得 x＝4。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第24题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q024.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-025",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。 - 3 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：31%，易错项：B。\n\n解析\n\n第一步，本题考查容斥问题。\n第二步，设翻译团队总人数为 15x，那么擅长三门语言的人数为 x。题干中满足两个条件的分别给出，故为三集\n合标准型容斥原理，根据三集合标准型公式可列方程：17＋21＋23－7－6－6＋x＝15x，解得 x＝3，那么仅擅长\n英语的有 17－7－6＋3＝7（人）。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第25题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q025.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-026",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①《松花江上》 ②《北京欢迎你》 ③《走进新时代》 ④《春天的故事》 ⑤《中国人民志愿军战歌》",
+    "options": [
+      {
+        "label": "A",
+        "content": "⑤④①②③"
+      },
+      {
+        "label": "B",
+        "content": "⑤①④③②"
+      },
+      {
+        "label": "C",
+        "content": "①⑤④③②"
+      },
+      {
+        "label": "D",
+        "content": "①④⑤②③"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：55%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，设一道正门一分钟可以通过 x 人，一道侧门一分钟可以通过 y 人。可列方程组：（3x＋y）×2＝600；\n（x＋2y）×4＝800，解得 x＝80，y＝60。由于紧急情况时通行率降低 15%，那么一道正门一分钟可通过 80×（1\n－15%）＝68（人），一道侧门一分钟可通过 60×（1－15%）＝51（人），那么紧急情况时 6 道门都打开 5 分钟\n可通过（68×4＋51×2）×5＝1870（人）。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第26题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-027",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①用绳捆绑，加以检木 ②封泥盖章，作为信验 ③火上炙干，刮去青皮 ④联编成册，笔书文字 ⑤截竹为筒，破箕成牒",
+    "options": [
+      {
+        "label": "A",
+        "content": "⑤③④②①"
+      },
+      {
+        "label": "B",
+        "content": "①③⑤④②"
+      },
+      {
+        "label": "C",
+        "content": "⑤③④①②"
+      },
+      {
+        "label": "D",
+        "content": "⑤①④③②"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：54%，易错项：B。\n\n解析\n\n第一步，本题考查行程问题。\n第二步，小王取文件往返共用 15×2＝30（分钟），小王提速 20%，提速后小王与小李的速度之比为 6∶5，那么\n走完全程用时之比为 5∶6，时间差 1 份是 30 分钟，故小李走全程用时为 180 分钟，即 3 小时，那么小李的速度\n为 15÷3＝5（公里/小时）。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第27题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-028",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①动物实验，结果积极 ②志愿接种，临床研究 ③获准上市，批量生产 ④获取样本，分离毒素 ⑤灭活减毒，制备疫苗",
+    "options": [
+      {
+        "label": "A",
+        "content": "⑤④②③①"
+      },
+      {
+        "label": "B",
+        "content": "④⑤①②③"
+      },
+      {
+        "label": "C",
+        "content": "②④①③⑤"
+      },
+      {
+        "label": "D",
+        "content": "③④①⑤②"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：17%，易错项：C。\n\n解析\n\n第一步，本题考查钟表问题。\n第二步，出门时 8 点多且分针和时针的夹角为 160°，应该是是 8 点 10 多分，回来时 11 点多且分针和时针的夹\n角为 30°，要想出现 90°角的次数多，应尽量晚回来，那么是 11 点 50 多分。\n第三步，分针与时针成 90°角的情况具体如下：8 点多一次、9 点整一次、九点多一次、十点多两次，十一点多\n两次，共计 7 次。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第28题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-029",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①惊涛骇浪 ②离家远航 ③抓挠负伤 ④群猴哄抢 ⑤流落荒野",
+    "options": [
+      {
+        "label": "A",
+        "content": "②⑤④①③"
+      },
+      {
+        "label": "B",
+        "content": "②①⑤④③"
+      },
+      {
+        "label": "C",
+        "content": "⑤④③②①"
+      },
+      {
+        "label": "D",
+        "content": "①⑤④③②"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：39%，易错项：C。\n\n解析\n\n第一步，本题考查植树问题。\n第二步，3 甲＋4（甲＋乙）＝10 乙＋2 甲，化简得甲∶乙＝6∶5，甲组每天比乙组多种 5 棵数，那么甲组每天\n种 30 棵数，乙组每天种 25 棵数，那么一共需要种 25×10＋30×2＝310（棵）树，两侧各需要种 155 棵，一侧\n有 155－1＝154（个）间隔，那么这条公路长 8×154＝1232（米）。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第29题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-panduan-2020-030",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "①建立伏安特性曲线 ②计算斜率，求解电阻值 ③连接电路，闭合电建 ④读取电流表与电压表示数 ⑤调节滑动电阻器",
+    "options": [
+      {
+        "label": "A",
+        "content": "⑤④①②③"
+      },
+      {
+        "label": "B",
+        "content": "③④①②⑤"
+      },
+      {
+        "label": "C",
+        "content": "③⑤④①②"
+      },
+      {
+        "label": "D",
+        "content": "④①②③⑤"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：36%，易错项：B。\n\n- 5 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，本题考查最值问题。\n第二步，设共有 100 种奶粉品牌，则共有 82＋78＋73＋90＋57＝380（项）指标合格，根据符合三项及以上指标\n要求的奶粉品牌认定为合格，要使合格率尽可能少，优先给 100 种奶粉品牌每种分 2 项合格，为 100×2＝200 项，\n剩余 380－200＝180（项），要想使合格的尽可能少应该让尽量多的满足同时五项合格，即最多 57 个五项合格，\n其次让尽可能多的四项合格，设四项合格的为 x，可列方程：57×（5－2）＋x×（4－2）＝180，解得 x＝4.5\n即最多有 5 种四项合格，则至少有 57＋5＝62（种）奶粉品牌合格，合格率为 62÷100＝62%。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第30题",
+    "region": "shenzhen"
+  }
+]

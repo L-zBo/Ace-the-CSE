@@ -1,0 +1,352 @@
+[
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-001",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某医疗器械公司为完成一批口罩订单生产任务，先期投产了 A 和 B 两条生产线，A 和 B 的工作效率之比是 2: 3，计划 8 天可完成订单生产任务。两天后公司又投产了生产线 C，A 和 C 的工作效率之比为 2: 1。问该批口罩 订单任务将提前几天完成?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：55%，易错项：B。\n\n解析\n\n第一步，本题考查工程问题，属于效率类。\n第二步，根据 A 和 B 的效率比为 2∶3，赋值 A 和 B 的效率为 2 和 3，工程总量为（2＋3）×8=40，A 和 C 的效率\n比为 2∶1，故 C 的效率为 1，A 和 B 生产两天后又投产了 C，前两天完成的工程总量为 5×2=10，剩余的工程总\n量为 30，还需要的时间为 30÷（2＋3＋1）=5（天）。一共需要的时间为 5+2=7（天），8－7＝1（天），则可\n以提前一天完成。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第1题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-002",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "红星中学高二年级在本次期末考试中竞争激烈，年级前 7 名的三科（语文、数学、英语）平均成绩构成公差 为 1 的等差数列；第 7、8、9 名的平均成绩既构成等差数列，又构成等比数列。张龙位列第 10，与第 9 名相差 1 分；张龙的英语成绩为 121 分，但老师登记为 112 分。问张龙本应排在第几名?",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：47%，易错项：C。\n\n解析\n\n第一步，本题考查数列问题。\n第二步，平均分既是等差数列又是等比数列，考虑公差为 0、公比为 1，即第 7、8、9 名分数相同，设第 7 名的\n平均分为 x，那么第 6 名平均分为 x＋1，第五名为 x＋2，第 10 名张龙的平均分为 x－1，张龙英语成绩实际为\n121 分，若按 112 算相当于少算了 9 分，那么平均分少算了 3 分，则张龙的实际平均分应该为 x－1＋3＝x＋2，\n可以排到并列第五名。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第2题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某水果经销商到一山区水果基地采购猕猴桃和苹果。猕猴桃和苹果的采购价分别为 10 元/斤和 4 元/斤，销 售价分别为 25 元/斤和 12 元/斤。已知该经销商在本次经销中获利 40000 元，每种水果采购都超过 500 斤且为 整数。问该经销商的最佳投入资金是多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20000"
+      },
+      {
+        "label": "B",
+        "content": "21260"
+      },
+      {
+        "label": "C",
+        "content": "21300"
+      },
+      {
+        "label": "D",
+        "content": "21280"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：49%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设猕猴桃、苹果分别购买的重量为 x 斤、y 斤，由题意可得：（25-10）x＋（12-4）y=40000，化简为\n15x+8y=40000。根据数字特性可知，x 为 8 的倍数；又因 x 要最少（投入最少）且大于 500，则 x=504，y=4055。\n则最佳投入为 504×10+4055×4=21260（元）。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第3题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-004",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙、丙三人沿着长为 500 米、宽为 250 米的长方形场地跑步，三人以 2:1:3 的速度之比匀速顺时针跑步。 当甲进入场地时乙已跑完 1/3 圈，丙到场地时已落后甲 100 米。问当乙跑完 2 圈时，甲与丙的位置关系如何?",
+    "options": [
+      {
+        "label": "A",
+        "content": "丙领先甲 3000 米"
+      },
+      {
+        "label": "B",
+        "content": "丙领先甲 2900 米"
+      },
+      {
+        "label": "C",
+        "content": "丙领先甲 2450 米"
+      },
+      {
+        "label": "D",
+        "content": "丙领先甲 2350 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：24%，易错项：C。\n\n解析\n\n第一步，本题考查行程问题，属于基础行程问题，用赋值法解题。\n第二步，由三人的速度之比为 2∶1∶3，甲进入场地时乙已跑完 圈，赋值甲、乙、丙速度分别是 200、100、\n300，乙跑完 2 圈所用时为 3000÷100＝30，乙跑 500 米所用时间为 500÷100＝5，故当乙跑完 2 圈时甲跑的时间\n为 30－5＝25，甲所走的距离为 25×200＝5000（米）。\n第三步，同理丙到场地时落后甲 100 米，甲跑 100 米所用时间为 100÷200＝0.5，故丙在乙跑完 2 圈时所用时间\n为 25－0.5＝24.5，丙所跑的距离为 24.5×300＝7350（米）。丙比甲多行驶的距离为 7350-5000＝2350（米）。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第4题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某药材公司以每千克 8 元的价格收购了 5000 千克药材，深加工后得到合格品和废料，合格品分为一、二、 三等品，其比例为 1：3：6，每千克售价分别为 80 元、50 元、20 元，废料价值为零。公司在加工中需投入其 他成本 20000 元，最终获利 108000 元。问加工中药材的废品率是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1%"
+      },
+      {
+        "label": "B",
+        "content": "4%"
+      },
+      {
+        "label": "C",
+        "content": "6%"
+      },
+      {
+        "label": "D",
+        "content": "8%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：52%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，设一等品、二等品、三等品的数量分别为 x、3x、6x 千克。药材成本为 8×5000＝40000（元），总成\n本为 40000＋20000＝60000（元）。可列方程：80×x＋50×3x＋20×6x－60000＝108000，解得 x＝480，那么废\n品为 5000－480－3×480－6×480＝200（千克），则废品率为 200÷5000＝4%。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第5题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从某物流园区开出 6 辆货车，这 6 辆货车的平均装货量为 62 吨，已知每辆货车载重量各不相同且均为整数， 最重的装载了 71 吨，最轻的装载了 54 吨。问这 6 辆货车中装货第三重的卡车至少装载了多少吨?",
+    "options": [
+      {
+        "label": "A",
+        "content": "59"
+      },
+      {
+        "label": "B",
+        "content": "60"
+      },
+      {
+        "label": "C",
+        "content": "61"
+      },
+      {
+        "label": "D",
+        "content": "62"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：45%，易错项：C。\n\n解析\n\n第一步，本题考查最值问题，属于数列构造。\n第二步，总和一定，求某项最值，使用数列构造的方法。首先，根据题意将 6 辆货车的的载重量从大到小排序则\n第一重的为 71 吨，最轻的为 54 吨，求第三重的卡车至少载重多少，则其余货车载重尽量多，所以构造排名第二\n至第五的载重依次为：70，x，x－1，x－2。求和有：71＋70＋x＋（x－1）＋（x－2）＋54＝62×6，解得 x＝\n60。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第6题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-007",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "统计学专业学生正在学习《博弈论》，老师给每个学生发了一张卡片，要求每个学生在卡片上随机地从 1 到 100 中写下一个数，谁写下的数离他们的平均数的二分之一最近就胜出。已知该专业共 50 人，问写下哪个数 最可能胜出？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "25"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：10%，易错项：B。\n\n- 1 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，本题考查其他杂题。\n第二步，本题考查的是博弈论中的优势策略问题。\n优势策略是指无论其他参与者选择什么策略，对一个参与者都为最优的策略。本题通过步骤迭代可以得到的优势\n策略如下：\n①1—100 随机写个数字，假设所有人都选 100（严格劣势策略），那么平均数应该是 50.5。由于不可能所有人\n都执行最严格劣势策略，因此对于一般人，第一步劣势策略是选择 51-100 之间的数字，优势策略是选择 1-50 之\n间的数字。\n②重复迭代，假设一般人都选 50（劣势策略），那么平均数应该是 25.5。本题情境是博弈论课堂，因此不可能\n所有学生都执行劣势策略，因此第二步的劣势策略是选择 26-50 之间的数字，优势策略是选择 1-25 之间的数字。\n③如果继续迭代，最理性的策略将迭代到 1。但现实生活中不可能迭代到最后一步，因此考虑在第二步就结束。\n假定学生们选择的都是 1-25 之间的数字，则最优策略应该取 1-25 的平均数，此平均数最接近于 12。\n因此，选择 A 选项。\n\n拓展\n\n统计学学生正在学习《博弈论》，在《博弈论》课程上必须得考虑博弈的内容，故不能当做纯粹的数学题去做，\n因此选择 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第7题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-008",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "疫情期间，某地推出电子健康码，用户需凭电子健康码出入小区、学校、医院等公共场所。健康码是黑白相 间的二维码，该二维码是边长为 15cm 的正方形，现利用随机模拟的方法向该健康码内投入 1500 个点，其中落 入黑色部分的点的个数为 800 个，则该健康码的黑色部分的面积约为多少 cm²？",
+    "options": [
+      {
+        "label": "A",
+        "content": "135"
+      },
+      {
+        "label": "B",
+        "content": "120"
+      },
+      {
+        "label": "C",
+        "content": "115"
+      },
+      {
+        "label": "D",
+        "content": "105"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：61%，易错项：C。\n\n解析\n\n第一步，本题考查几何问题，属于平面几何类。\n\n第二步，利用正方形的面积=a²=15×15=225（cm²），黑色面积占总面积的\n因此，选择 B 选项。\n\n，面积=225×\n\n=120（cm²）。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第8题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-009",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某单位开展“我身边的榜样”评选活动，现对 3 名候选人甲、乙、丙进行不记名投票，投票要求详见选票。 这 3 名候选人的得票数（不考虑是否有效）分别为总票数的 88%、70%、46%，则本次投票的有效率（有效票数 与总票数的比值）最高可能为： - 1 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "68%"
+      },
+      {
+        "label": "B",
+        "content": "88%"
+      },
+      {
+        "label": "C",
+        "content": "96%"
+      },
+      {
+        "label": "D",
+        "content": "98%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：47%，易错项：B。\n\n解析\n\n第一步，本题考查最值问题，属于其他最值构造。\n第二步，设总共有 100 人投票，则共出现了 88+70+46=204（次），每张选票的个数不超过 2 时才为有效票，先\n每张选票分 2 个，此时还剩 4 个，则无效票最少有 4 张，本次投票的有效率最高可能为 96%。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第9题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2020-010",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一条直线将一个平面分成 2 个部分，两条直线最多将一个平面分成 4 个部分，……则 6 条直线最多将一个 平面分成的部分为:",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "21"
+      },
+      {
+        "label": "C",
+        "content": "22"
+      },
+      {
+        "label": "D",
+        "content": "23 第二部分 言语理解与表达"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：56%，易错项：B。\n\n解析\n\n第一步，本题考查平面几何问题中的几何计数，用枚举归纳法求解。\n第二步，第 1 条直线将平面分成 2 块，第 2 条直线将平面分成 4 块，画图可得第 3 条直线将平面分成 7 块，枚举\n发现第 4 条直线将平面分成 11 块。平面数依次为：2，4，7，11……，相邻两项做差得 2，3，4……是公差为 1\n的等差数列。那么以此类推，第 5 条直线将平面分成 11＋5＝16（块），第 6 条直线将平面分成 16＋6＝22（块）。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考tianjin行测第10题",
+    "region": "tianjin"
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某企业员工组织周末自驾游。集合后发现，如果每辆小车坐 5 人，则空出 4 个座位；如果每辆小车少坐 1 人， 则有 8 人没坐上车。那么，参加自驾游的小车有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9 辆"
+      },
+      {
+        "label": "B",
+        "content": "10 辆"
+      },
+      {
+        "label": "C",
+        "content": "11 辆"
+      },
+      {
+        "label": "D",
+        "content": "12 辆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设一共有 辆车，根据总人数一定，列方程得：\n\n。解得\n\n，故参加自驾游的小车有 12 辆。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第61题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵可成功完成突击任务，那么成功完成突击任务的概率有多大？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "10人小分队里有6人是特种兵，则另外4人是非特种兵，派出5人参战，共有种组合情况。\n若不能成功完成突击任务，则5名参战队员中只有1名特种兵或2名特种兵，共有种组合情况。\n则成功完成突击任务的概率。\n故正确答案为D。\n\n[来源 baijing1.top paperId=696 sort=62 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第62题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q062.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某篮球队共有九人，分三组举行三人制篮球赛，他们的球衣号码分别是从 1 号到 9 号，分组后发现三组的球 衣号码之和不同，且最大和是最小和的两倍。则各组号码之和不可能是下列哪个数？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据等差数列求和公式\n\n可得，所有球衣号码之和为\n\n。\n\n方法一：代入排除法。\n\nA 项：假设最小和为 10，则最大和为\n\n，则中间和为\n\n，满足题意，排除；\n\nB 项：假设最小和为 11，则最大和为\n\n，则中间和为\n\n满足题意，排除；\n\nC 项：根据 B 项可得，12 为可能的号码和，排除；\n\nD 项：假设最小和为 13，则最大和为\n\n，则中间和为\n\n，不满足题意；假设中间和为 13，\n\n则\n\n方法二：方程法。\n\n，32 不是 3 的倍数，不满足题意，当选。\n\n根据题意设最小和与最大和分别为 、 ，中间和为 ，\n\n，根据\n\n可得，\n\n，则\n\n，\n\n对应 A、B 两项，当\n\n时，\n\n，\n\n；当\n\n时，\n\n，\n\n，均符合题意，排除；根据倍数\n\n特性，\n题意，排除。\n\n中 与 45 均为 3 的倍数，则 必为 3 的倍数，对应 C 项，\n\n时，\n\n，\n\n，符合\n\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第63题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某公司现有 6 箱不同的水果，安排三个配送员送到 A、B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种"
+      },
+      {
+        "label": "B",
+        "content": "180 种"
+      },
+      {
+        "label": "C",
+        "content": "360 种"
+      },
+      {
+        "label": "D",
+        "content": "420 种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据分步原理，选择一个配送员给 A 地送 1 箱的情况数为：\n\n种；选择一个剩下的配送员给 B 地\n\n送 2 箱的情况数为：\n\n种；最后剩下的一个配送员将剩下的 3 箱送给 C 地，情况数为 1 种，分步用乘\n\n法，则所求情况数为\n\n种。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第64题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲乙丙丁四人通过手机的位置共享，发现乙在甲正南方向 2 公里处，丙在乙北偏西 方向 2 公里处，丁在 甲北偏西 方向。若丁与甲、丙的距离相等，则该距离为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 公里"
+      },
+      {
+        "label": "B",
+        "content": "公里"
+      },
+      {
+        "label": "C",
+        "content": "公里"
+      },
+      {
+        "label": "D",
+        "content": "2 公里"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，四人的位置关系如下图所示：\n\n- 13 -\n\n\f获取试卷更新，请关注\n因为丙在乙北偏西 方向，且乙与甲、丙的距离均为 2 公里，所以甲乙丙三人的位置构成等边三角形，则甲到\n\n丙的距离为 2 公里。丁在甲北偏西 方向，则丁-甲-丙构成的角度为\n\n，且丁与甲、\n\n丙的距离相等，则甲丁丙三人的位置构成等腰直角三角形，因此所求的距离为\n\n公里。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第65题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "物业派出小王、小曾、小郭三名工作人员负责修剪小区内的 6 棵树，每名工作人员至少修剪 1 棵（只考虑修 剪的棵数），问小王至少修剪 3 棵的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "。3个人修剪6棵树，每人至少1棵，根据插板法，m个相同的元素分成n组，每组至少1个，则情况数为。总的情况数是种。小王至少修剪3棵，则满足条件的有3种情况：①小王3棵、小曾2棵、小郭1棵。②小王3棵、小曾1棵、小郭2棵。③小王4棵，小曾、小郭各1棵。所求概率。\n故正确答案为A。\n\n[来源 baijing1.top paperId=696 sort=66 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第66题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q066.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某电商平台每隔 5 千米有一座仓库，共有 A、B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A"
+      },
+      {
+        "label": "B",
+        "content": "仓库 B"
+      },
+      {
+        "label": "C",
+        "content": "仓库 C"
+      },
+      {
+        "label": "D",
+        "content": "仓库 D - 8 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：根据题意直接代入选项计算总运费。\n\n若将货物集中到仓库 A，则运费为\n\n若将货物集中到仓库 B，则运费为\n\n若将货物集中到仓库 C，则运费为\n\n若将货物集中到仓库 D，则运费为\n\n则运费最少的是将货物集中到仓库 C。\n\n元;\n\n元；\n\n元；\n\n元；\n\n方法二：货物集中问题，只与各个仓库的存放量有关，与距离及运费无关。先考虑 AB 打包，CD 打包，显然前者\n存放量（30 吨）不如后者（40 吨）多，因此 AB 的货物均需要向 CD 方向移动，先移到仓库 C 中。此时仓库 C 共\n\n有货物\n\n吨，仓库 D 有 25 吨，则仓库 D 向仓库 C 移动，最后货物都集中到仓库 C 中。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第67题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q067.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "村民陶某承包一块长方形种植地，他将地分割成如图所示的 4 个小长方形，在 A、B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米"
+      },
+      {
+        "label": "B",
+        "content": "49 平方米"
+      },
+      {
+        "label": "C",
+        "content": "64 平方米"
+      },
+      {
+        "label": "D",
+        "content": "81 平方米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "如下图所示，假设标注的四条边长分别为 、 、 、 ，已知长方形 A、B、C 的周长分别是 20 米、24 米、28\n\n米，根据长方形周长\n\n，可得\n\n，化简得\n\n，即\n\n，解得\n\n。而 c、d 分别代表长方形 D 的长和宽，\n\n和一定时，\n\n当且仅当\n\n时面积最大，此时\n\n米，故长方形 D 的最大面积\n\n平方米。\n\n- 14 -\n\n\f获取试卷更新，请关注\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第68题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q068.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某会展中心布置会场，从花卉市场购买郁金香、月季花、牡丹花三种花卉各 20 盆，每盆均用纸箱打包好装 车运送至会展中心，再由工人搬运至布展区。问至少要搬出多少盆花卉才能保证搬出的鲜花中一定有郁金香？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20 盆"
+      },
+      {
+        "label": "B",
+        "content": "21 盆"
+      },
+      {
+        "label": "C",
+        "content": "40 盆"
+      },
+      {
+        "label": "D",
+        "content": "41 盆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据问法“至少······才能保证······”，可判定本题为最不利构造型最值问题。考虑最不利\n\n情况为前面搬出的花卉都是月季花和牡丹花，则一共搬出\n\n盆花卉。在此基础上再搬 1 盆花，就可以\n\n保证一定是郁金香，则至少需要搬\n\n盆花卉。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第69题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2020-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在屋内墙角处堆放稻谷（如图，谷堆为一个圆锥的四分之一），谷堆底部的弧长为 6 米，高为 2 米，经过一 夜发现谷堆在重力作用下底部的弧长变为 8 米，若谷堆的谷量不变，那么此时谷堆的高为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "米"
+      },
+      {
+        "label": "B",
+        "content": "米"
+      },
+      {
+        "label": "C",
+        "content": "米"
+      },
+      {
+        "label": "D",
+        "content": "米 四、判断推理。第四部分 判断推理。 本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题， 在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据图示，谷堆的体积恰好是四分之一圆锥，则圆锥的底面圆周长为\n\n米。根据周长公式，\n\n，\n\n米。经过一夜之后，底部弧长变为 8 米，则新的四分之一圆锥底部圆的半径为\n\n米。谷堆为四分\n\n之一圆锥，体积\n\n。谷堆的谷量不变，有\n\n，整理得\n\n米。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第70题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q070.png"
+  }
+]

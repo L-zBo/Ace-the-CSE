@@ -1,0 +1,916 @@
+[
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年一季度，T 地区月均批发和零售业商品销售额约为多少亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2851"
+      },
+      {
+        "label": "B",
+        "content": "3960"
+      },
+      {
+        "label": "C",
+        "content": "4591"
+      },
+      {
+        "label": "D",
+        "content": "11881"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：61%，易错项：A。\n解析\n第一步，本题考查现期平均数计算中的单平均数。\n第二步，定位文字材料可知，“2017年1—4月，T地区批发和零售业商品销售总额为15220亿元……4月份，T\n地区批发和零售业商品销售总额为3339亿元”。\n第三步，根据平均数=总数/总个数，一季度=1—4月－4月，分子减法计算，考虑截位舍相同，则 ，\n直除首两位商39。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第86题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 4 月，T 地区限额以上商品批发业销售额同比增速约比当年一季度：",
+    "options": [
+      {
+        "label": "A",
+        "content": "高 0.5 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "低 0.1 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "低 0.4 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "低 0.9 个百分点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：43%，易错项：C。\n解析\n第一步，本题考查混合增长率计算。\n第二步，定位表格可知，“2017年1—4月，T地区限额以上商品批发业销售额为10251亿元，同比增长11.8%，\n1—3月销售额为7913亿元，同比增长12%”。\n第三步，一季度+4月=1—4月，根据混合增长率口诀“整体增长率介于部分增长率之间，偏向于基期量较大的一\n侧所对应的增长率”，则一季度的增长率（12%）高于了整体增长率（11.8%），则4月份的增长率必然低于整体\n增长率（11.8%），根据基期量=现期量/（1+增长率），可判断出，一季度的基期量明显大于4月（分母“1+增\n长率”差别不大，但是一季度的分子“现期量”远大于4月份），故整体增速应偏向一季度，4月份增长率小于",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第87题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 1—4 月，不同所有制企业限额以上商品销售额同比增量由小到大排序正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "国有企业、外商及港澳台商企业、民营企业"
+      },
+      {
+        "label": "B",
+        "content": "外商及港澳台商企业、国有企业、国有企业"
+      },
+      {
+        "label": "C",
+        "content": "国有企业、民营企业、外商及港澳台商企业"
+      },
+      {
+        "label": "D",
+        "content": "外商及港澳台商企业、民营企业、国有企业"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：60%，易错项：B。\n解析\n第一步，本题考查增长量公式比较。\n第二步，定位表格中“1—4月”所在列。\n第三步，根据增长量比较口诀“大大则大，一大一小看乘积”，乘积，即为“现期量×增长率”，而国有企业（4964\n×1.3%≈65）＜外商企业（810×21.1%≈171）＜民营企业（5333×17.8%≈949），仅A选项符合。\n因此，选择A选项。\n拓展\n注意本题是“由小到大”排列",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第88题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "以下哪个饼图最符合 2017 年 4 月 T 地区限额以上商品销售额中不同规模的企业销售额占比关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：84%，易错项：B。\n解析\n第一步，本题考查现期比重计算。\n第二步，定位表格材料，“按规模分，1—4月大型企业、中型企业、小微型企业销售额分别为1811、4498、4798；\n1—3月分别为1381、3533、3639”。\n第三步，4月=1—4月－1—3月，4月大型企业、中型企业、小微型企业销售额分别为1811－1381=430（亿元）、\n4498－3533=965（亿元）、4798－3639=1159（亿元），大型企业（430亿元）＋中型企业（965亿元）＞小微型\n企业（1159亿元），即两者占比略大于 ，且大型企业远小于中型企业和小微型企业，观察饼图，只有A选项\n符合。\n-24-\n获取试卷更新，请关注因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第89题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2020/q089.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "关于 2017 年 T 地区限额以上商品销售额，能够从资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "4 月批发业及零售业销售额均低于一季度月均数值"
+      },
+      {
+        "label": "B",
+        "content": "一季度，外商及港澳台商企业销售额同比增长 100 亿元以上"
+      },
+      {
+        "label": "C",
+        "content": "一季度，小微型企业销售额同比增量超过大型企业和中型企业之和"
+      },
+      {
+        "label": "D",
+        "content": "1—4 月，限额以上商品销售额占批发和零售业商品销售总额的比重较上年同期有所提升"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：64%，易错项：D。\n解析\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A选项，现期平均数计算。定位表格材料，4月=1—4月－1—3月，零售业4月销售额为856－640=216\n（亿元），216＞ ，4月零售业销售额高于一季度月均值，错误。\nB选项，增长量计算。定位表格材料，1—3月外商及港澳台商企业销售额614亿元，同比增速为16.7%，16.7%\n≈ ，根据增长量计算n＋1原则，可得同比增长 （亿元），错误。\nC选项，增长量比较。定位表格材料，“1—3月小微型企业销售额3639亿元，同比增长15.3%；大型企业销售\n额1381亿元，同比增长8.4%；中型企业销售额3533亿元，同比增长6.1%”， ， ，\n，根据增长量计算n＋1原则，可得小微型企业、大型企业、中型企业同比增量分别为\n（亿元）、 （亿元）、 （亿元），485\n＞106+200=306，正确。\nD选项，两期比重比较。定位文字材料，“2017年1—4月，T地区批发和零售业商品销售总额为15220亿元，\n同比增长10.5%，其中，限额以上商品零售额达到11107亿元，同比增长10%”，根据两期比重比较口诀，部分\n增速高于整体增速，则比重上升，反之则下降，a=10%，b=10.5%，a＜b，比重下降，错误。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第90题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-003",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "8％；累计装机容量达到 539.1GW，同比增长 11％。2017 年全球对光伏的投资为 1608 亿美元，同比增长 18％； 光伏新增装机容量 99.1GW，同比增长 29％；累计装机容量达到 404.5GW。其中，亚太地区新增装机容量 73.7GW， 累计装机容量 221.3GW。（累计装机容量不含报废机器的装机容量） - 11 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "项正确。"
+      },
+      {
+        "label": "B",
+        "content": "项正确。"
+      },
+      {
+        "label": "C",
+        "content": "说法错误。\n因此，选择"
+      },
+      {
+        "label": "D",
+        "content": "项正确。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：42%，易错项：A。\n解析\n第一步，本题考查宪法并选错误项。\n第二步，根据《中华人民共和国宪法》第132条，最高人民法院是最高审判机关。最高人民法院监督地方各级人\n-1-\n获取试卷更新，请关注民法院和专门人民法院的审判工作，上级人民法院监督下级人民法院的审判工作。根据《中华人民共和国宪法》\n第137条，最高人民检察院是最高检察机关。最高人民检察院领导地方各级人民检察院和专门人民检察院的工作，\n上级人民检察院领导下级人民检察院的工作。法院上下级是监督与被监督的关系，检察院上下级是领导与被领导\n的关系。C项说法错误。\n因此，选择C选项。\n拓展\nA项：根据《中华人民共和国宪法》第3条，中华人民共和国的国家机构实行民主集中制的原则。全国人民代表\n大会和地方各级人民代表大会都由民主选举产生，对人民负责，受人民监督。国家行政机关、监察机关、审判机\n关、检察机关都由人民代表大会产生，对它负责，受它监督。中央和地方的国家机构职权的划分，遵循在中央的\n统一领导下，充分发挥地方的主动性、积极性的原则。A项正确。\nB项：根据《中华人民共和国宪法》第27条，一切国家机关实行精简的原则，实行工作责任制，实行工作人员\n的培训和考核制度，不断提高工作质量和工作效率，反对官僚主义。一切国家机关和国家工作人员必须依靠人民\n的支持，经常保持同人民的密切联系，倾听人民的意见和建议，接受人民的监督，努力为人民服务。国家工作人\n员就职时应当依照法律规定公开进行宪法宣誓。B项正确。\nD项：根据《中华人民共和国宪法》第127条，监察委员会依照法律规定独立行使监察权，不受行政机关、社会\n团体和个人的干涉。监察机关办理职务违法和职务犯罪案件，应当与审判机关、检察机关、执法部门互相配合，\n互相制约。D项正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第3题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-091",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年，亚太地区的清洁能源投资约为多少亿美元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1034"
+      },
+      {
+        "label": "B",
+        "content": "1334"
+      },
+      {
+        "label": "C",
+        "content": "1879"
+      },
+      {
+        "label": "D",
+        "content": "2368"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：82%，易错项：B。\n解析\n第一步，本题考查现期比重计算中的求部分量。\n第二步，定位第一段文字材料，“2017年，全球对清洁能源的投资为3335亿美元……中国清洁能源投资占全球\n清洁能源总投资的40%，占亚太地区清洁能源投资的71%”。\n第三步，根据整体量=部分量/比重及部分量=整体量×比重，可得亚太地区的清洁能源投资为\n= ，直除首两位商18。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第91题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-092",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2009—2017 年，风电与光伏累计装机容量总计同比增加 100GW 以上的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：77%，易错项：C。\n解析\n第一步，本题考查增长量计算中的已知现期量与基期量。\n第二步，定位柱状图。\n第三步，根据增长量=现期量－基期量，多个数据加减运算，数据本身不大，取整处理，可得各年份的风电与光\n伏累计装机容量总计同比增量分别为：2009年为（159+23）－（121+16）=45＜100；2010年为（198+40）－（159+23）\n=56＜100；2011年为（238+71）－（198+40）=71＜100；2012年为（283+101）－（238+71）=75＜100；2013\n年为（319+139）－（283+101）=74＜100；2014年为（370+179）－（319+139）=91＜100；2015年为（433+229）\n－（370+179）=113＞100；2016年为（487+307）－（433+229）=132＞100；2017年为（539+405）－（487+307）\n=150＞100。同比增加100GW以上的年份有2015年、2016年、2017年，共3个。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第92题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-093",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年，亚太地区光伏新增装机容量占全球比重比其累计装机容量占全球比重：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低 10 个百分点以内"
+      },
+      {
+        "label": "B",
+        "content": "低 10 个百分点以上"
+      },
+      {
+        "label": "C",
+        "content": "高 10 个百分点以内"
+      },
+      {
+        "label": "D",
+        "content": "高 10 个百分点以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：59%，易错项：C。\n解析\n第一步，本题考查现期比重计算中的求比重问题。\n第二步，定位第二段文字材料，“2017年全球对光伏的投资为1608亿美元，同比增长18%；光伏新增装机容量",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第93题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-094",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "以下哪个折线图最符合 2009—2012 年全球光伏累计装机容量同比增速的变化趋势？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“同比增速的变化趋势”，可判定本题为一般增长率问题。定位柱状图可得：2008-2012年全球光伏累计装机容量分别为：15.8、23.2、40.3、70.5、100.5。根据增长率，可得2009-2012年全球光伏累计装机容量同比增速分别为：、、、。所以2010年和2011年两年增速对应的第二个点和第三个点是折线图中最高的两个点，只有A项满足。\n故正确答案为A。\n\n[来源 baijing1.top paperId=227 sort=94 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第94题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2020/q094.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-095",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据资料，下列可以推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017 年全球对风能投资的同比增速"
+      },
+      {
+        "label": "B",
+        "content": "2016 年全球对清洁能源投资的同比增速"
+      },
+      {
+        "label": "C",
+        "content": "2017 年亚太地区对光伏投资的同比增量"
+      },
+      {
+        "label": "D",
+        "content": "2008 年全球风电累计装机容量的同比增速 (材料 3) 2018 年，从险种来看，财产险业务原保险保费收入 10770.08 亿元，同比增长 9.51%；人身险原保险保费收 入 27246.54 亿元，其中寿险业务原保险保费收入 20722.86 亿元，同比下降 3.41%；健康险业务原保险保费收入"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：50%，易错项：C。\n解析\n第一步，本题考查综合分析问题，且需选出可推出的一项。\n第二步，A 选项，增长率计算，定位全篇材料，只给出2017 年全球对风能的投资额，未给出其他与同比增速相\n关联数据，无法求得2017 年全球对风能投资的同比增速，错误。\nB 选项，增长率计算，定位第一段文字材料，“2017 年，全球对清洁能源的投资为3335 亿元，同比增长3%，但\n仍低于2015 年的历史峰值3485 亿美元”，根据基期量=现期量/（1+增长率），可得2016 年全球对清洁能源的\n投资=\n。又根据增长率=（现期量－基期量）/基期量，则2016 年全球对清洁能源投资的同比增速为\n，可以推出，正确。\nC 选项，增长量计算，定位全篇材料，未给出2017 年亚太地区对光伏投资相关数据，则无法求得2017 年亚太地\n区对光伏投资的同比增量，错误。\nD 选项，增长率计算，定位全篇材料，只给出2008 年全球风电累计装机容量，未给出其他与同比增速相关联数\n据，无法求得2008 年全球风电累计装机容量的同比增速，错误。\n因此，选择B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第95题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与 2011 年相比，2018 年中国保险行业原保险保费收入约增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "143%"
+      },
+      {
+        "label": "B",
+        "content": "166%"
+      },
+      {
+        "label": "C",
+        "content": "173%"
+      },
+      {
+        "label": "D",
+        "content": "182%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：69%，易错项：C。\n解析\n第一步，本题考查增长率计算。\n第二步，定位图形材料“2011—2018 年中国保险行业原保险保费收入”。\n第三步，根据增长率=（现期量-基期量）/基期量，选项出现首位相同，第二位不同，数据较为简单，直接计算，\n可得\n，直除首两位商16。\n因此，选择B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第96题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2020/q096.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2014～2017 年，中国保险行业原保险保费收入同比增速最高的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2014 年"
+      },
+      {
+        "label": "B",
+        "content": "2015 年"
+      },
+      {
+        "label": "C",
+        "content": "2016 年"
+      },
+      {
+        "label": "D",
+        "content": "2017 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：76%，易错项：B。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位图形材料“2011—2018 年中国保险行业原保险保费收入”。\n第三步，根据增长率=（现期量-基期量）/基期量，数据较为简单，代入公式可得2014—2017 年，同比增速分别\n为：2014 年，\n；2015 年，\n；2016 年，\n；2017 年，\n，则增速最大的为2016 年。\n因此，选择C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第97题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，下列险种中，原保险保费收入同比增长额最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "财产险业务"
+      },
+      {
+        "label": "B",
+        "content": "寿险业务"
+      },
+      {
+        "label": "C",
+        "content": "意外险业务"
+      },
+      {
+        "label": "D",
+        "content": "健康险业务"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：62%，易错项：A。\n\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。\n- 27 -\n解析\n第一步，本题考查增长量比较。\n第二步，定位文字材料。\n第三步，根据材料可知，寿险（20722.86 亿元，-3.41%）增长量为负数，其余均为正数，则寿险增长量最小，\n排除B 选项。根据增长量比较口诀，大大则大，一大一小看乘积。健康险（5448.13 亿元，24.12%）的现期量和\n增长率均大于意外险（1075.55 亿元，19.33%），排除C 选项。健康险（5448.13×24.12%）＞财产险（10770.08\n×9.51%），则健康险同比增量最大。\n因此，选择D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第98题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2011～2018 年，人身险原保险保费收入高于财产险 1 万亿元以上的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "1GW，同比增长29%；累计装机容量达到404.5GW。其中，亚太地区新增装机容量73.7GW，累计装机容量221.3GW”。\n第三步，根据比重=部分量/整体量，选项为范围类选项，数据做取整处理，可得2017年亚太地区光伏新增装机\n-25-\n获取试卷更新，请关注容量占全球比重约比累计装机容量占全球比重多 ≈75%－55%=20个百分点＞10个百分点，只有D选项\n满足。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第99题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-100",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据资料，下列可以推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年，人身险原保险保费收入同比增速超过 1%"
+      },
+      {
+        "label": "B",
+        "content": "2011～2018 年，财产险业务原保险保费收入均不超过 1 万亿元"
+      },
+      {
+        "label": "C",
+        "content": "2018 年，意外险业务原保险保费收入比上年增长了 200 多亿元"
+      },
+      {
+        "label": "D",
+        "content": "2011～2018 年，中国保险行业原保险保费收入总计超过 20 万亿元 - 13 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：34%，易错项：C。\n解析\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A选项，增长率计算，定位图形材料“2011—2018年中国保险行业原保险保费收入”和“2011—2018\n年中国保险行业原保险保费收入结构变化”及文字材料，“2018年，人身险原保险保费收入27246.54亿元”。\n根据部分量=整体量×比重及增长率=（现期量-基期量）/基期量，2018年，人身险原保险保费收入为27246.54\n亿元≈2.72万亿元，2017年人身险原保险保费收入为3.66×73%≈2.67（万亿元），增长率约为\n，正确。\nB选项，现期平均数计算，人均保费收入=保费收入/人数，材料中未给出人数相关数据，无法计算，错误。\nC选项，增长量计算，定位文字材料，“2018年，意外险业务原保险保费收入1075.51亿元，同比增长19.33%”\n根据增长量计算n+1原则，19.33%≈ ，则所求增长量约为 （亿元），错误。\nD选项，简单和差计算，定位图形材料，“2011—2018年中国保险行业原保险保费收入”，2011—2018年，中\n国保险行业原保险保费收入总计为1.43+1.55+1.72+2.02+2.43+3.09+3.66+3.8=19.7（万亿元） 20万亿元，错\n误。\n因此，选择A选项。\n-27-\n\n2020 年 0726 浙江公务员考试《行测》真题（B 卷）\n参考答案及解析",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第100题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2020/q100.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-036",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 1-11 月，我国互联网企业完成业务收入约为多少亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6900"
+      },
+      {
+        "label": "B",
+        "content": "7100"
+      },
+      {
+        "label": "C",
+        "content": "7300"
+      },
+      {
+        "label": "D",
+        "content": "7500、"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：83%，易错项：C。\n解析\n第一步，对比选项，确定首句。②句论述的是“祝融星的‘消失’和‘存在’都十分精彩”，引出话题。⑥句论\n述的是祝融星的出现，所以相比较来说先引出话题，在论述其出现，所以⑥不适合做首句，排除C和D。\n第二步，寻找关联信息。①句论述“无数天文爱好者持续追寻这颗行星”，而⑤句论述的是“直到1915年……\n才为这场持续数百年的追寻画上句号”，可知⑤句应该在①句之后，排除A项。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第36题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-037",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1-11 月，信息服务收入占互联网企业业务收入比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "42.2%"
+      },
+      {
+        "label": "B",
+        "content": "83.8%"
+      },
+      {
+        "label": "C",
+        "content": "84.1%"
+      },
+      {
+        "label": "D",
+        "content": "89.4%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：78%，易错项：A。\n解析\n第一步，分析文段。首句提出数字经济与个人信息保护相互之间存在关系。接着通过“然而”进行转折，论述“发\n展与规范极易顾此失彼”。接着具体论述顾此失彼主要体现在数字经济与信息数据保护存在冲突这一问题，结尾\n通过反面论证依旧强调的是个人信息保护的重要性。主旨句就是文段倒数第二句话，即“数字经济与信息保护数\n据之间的冲突已日益凸显。”\n第二步，对比选项。B项是针对文段问题的对策。A项对策属于无中生有，文段重点强调个人信息保护的重要性；\nC项和D项都是问题的表述，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第37题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-038",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年前三季度，互联网企业完成互联网接入业务收入降幅较上半年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "收窄 1.9 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "收窄 11.9 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "扩大 1.9 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "扩大 11.9 个百分点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：77%，易错项：B。\n解析\n第一步，分析文段。文段先指出数学为推动学术研究和科学决策发挥了积极作用，接着通过转折指出学术研究应\n该以问题为导向，数学方法不是目的，接下来列举了一些在研究实践中的做法，最后指出优秀的论文的特点。文\n段为“分—总—分”的结构，“但是”之后是重点，批评的是学术研究中把数学当成目的的倾向。\n第二步，对比选项。A项是作者最想批评的，符合作者意图。B项“经管类论文”范围缩小，且没有提到“数学”\n的话题。C项“与现实需求脱节”文段未提及，属于无中生有。D项“‘唯论文’、重数量、功利化的现状”文\n段未提到，无中生有。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第38题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-039",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上述资料，以下说法不正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2018 年 11 月底，至少七个类别应用下载量超过千亿次"
+      },
+      {
+        "label": "B",
+        "content": "2018 年 1-11 月，互联网业务收入同比增长率：广东>上海>北京"
+      },
+      {
+        "label": "C",
+        "content": "截至 2018 年 11 月底，移动应用程序（APP）数量方面，游戏类应用领先"
+      },
+      {
+        "label": "D",
+        "content": "截至 2018 年 11 月底，排名前三的 APP 数量之和占移动应用程序总量的一半以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：26%，易错项：A。\n解析\n第一步，分析文段。段首句为援引观点，指出文化会积淀为人格，后文通过春节为例，进行论证。这是一个援引\n观点本身就是作者论点的文段。所以这一观点本身兼具了论点和论据的作用。\n第二步，对比选项。A项、B项和D项都是段首句的作用。C项“简洁凝练”侧重文字简明扼要，没有多余的内\n容，不是段首句的作用。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第39题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-040",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上述资料，以下说法不正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2017 年 11 月末，互联网企业部署的服务器数量超过 100 万台"
+      },
+      {
+        "label": "B",
+        "content": "2017 年 1-11 月，互联网数据中心业务收入少于互联网接入业务"
+      },
+      {
+        "label": "C",
+        "content": "截至 2018 年 11 月底，应用下载量：系统工具类＞金融类＞日常工具类＞电子商务类"
+      },
+      {
+        "label": "D",
+        "content": "2018 年 1-11 月，信息服务收入的同比增长率高于其所有子业务收入的同比增长率"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：93%，易错项：C。\n解析\n第一步，分析文段。文段先指出家长们对于孩子过度依赖手机的担心都是浅表层次的，接着通过转折指出最重要\n的是在于提高了学生的信息检索能力，接着又转折提到而忽略了学习中最重要、最核心的分析能力和创造能力的\n训练。文段为“分—总”结构，最后一个转折后是重点，强调移动学习不利于学生分析能力、创造能力的训练。\n第二步，对比选项。D项是文段重点的同义替换，符合文段意图。\n因此，选择D选项。\n-12-\n获取试卷更新，请关注拓展\nA项和B项：对应文段第一句话，非重点。C项：“信息搜索能力”属于转折前的内容，非重点。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第40题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-041",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，平均每项技术合同成交金额约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "330 万元"
+      },
+      {
+        "label": "B",
+        "content": "356 万元"
+      },
+      {
+        "label": "C",
+        "content": "365 万元"
+      },
+      {
+        "label": "D",
+        "content": "385 万元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：42%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，相邻两项做减法（后－前），得一级差数列为2，－3，0，－5，……再做一次差得二级差数列为－5，\n3，－5，3，－5……是周期数列，那么一级差数列的下一项为－5＋3＝－2，则（ ）为－3－2＝－5。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第41题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-042",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2008-2017 年，全国技术合同成交金额同比上涨最快的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2008 年"
+      },
+      {
+        "label": "B",
+        "content": "2010 年"
+      },
+      {
+        "label": "C",
+        "content": "2012 年"
+      },
+      {
+        "label": "D",
+        "content": "2017 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：67%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，相邻两项做除法（后÷前），得商数列为 ， ， ……那么商数列的下一项是 ，再下一项是 ，则（ ）为12× ＝9.6，验证发现9÷9.6＝ ，满足商数列。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第42题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-043",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，1000 万元以上重大技术合同数量占全国各类技术合同的比例在：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5%以内"
+      },
+      {
+        "label": "B",
+        "content": "6%~10%之间"
+      },
+      {
+        "label": "C",
+        "content": "11%~15%之间"
+      },
+      {
+        "label": "D",
+        "content": "20%以上 - 6 -"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：64%，易错项：C。\n解析\n第一步，本题考查递推数列。\n第二步，原数列中36＝（30－12）×2，12＝（36－30）×2，30＝（51－36）×2，相邻三项中第一项＝（第三\n项－第二项）×2，那么[（ ）－51]×2＝36，（ ）为69。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第43题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-044",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2005-2017 年间，我国 GDP 总量突破 50 万亿的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：87%，易错项：B。\n解析\n第一步，本题考查幂次数列。\n第二步，原数列1＝1¹，4＝2²，27＝3³，256＝ ，那么数列的下一项应该为 ＝3125，即（ ）为3125。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第44题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2020-045",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2005-2017 年，全国技术合同成交金额占 GDP 的比重逐年上升"
+      },
+      {
+        "label": "B",
+        "content": "2006-2017 年，全国技术合同成交金额同比增长超千万的年份有 8 个"
+      },
+      {
+        "label": "C",
+        "content": "2017 年，1000 万元以上重大技术合同中，专利技术合同平均每项成交额超过 1 个亿"
+      },
+      {
+        "label": "D",
+        "content": "2017 年，1000 万元以上重大技术合同中，涉及各类知识产权的合同项数和成交金额均超过 40% 五、常识判断。常识判断：根据题目要求，选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：75%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，相邻两项做差（前－后）得差数列为2，3，5，7……为质数数列，那么差数列的下一项为11，则（ ）\n为25－11＝14。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考zhejiang行测第45题",
+    "region": "zhejiang"
+  }
+]

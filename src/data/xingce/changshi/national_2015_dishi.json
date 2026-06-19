@@ -1,0 +1,705 @@
+[
+  {
+    "id": "national-xingce-changshi-2015-dishi-001",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列做法最贴近“看得见的正义才是真正的正义”法律内涵要求的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "纪检监察部门开通网站并接受网络举报"
+      },
+      {
+        "label": "B",
+        "content": "地方政府在互联网上征求城市规划意见"
+      },
+      {
+        "label": "C",
+        "content": "人民法院在互联网上公布法庭裁判文书"
+      },
+      {
+        "label": "D",
+        "content": "交警配备执法记录仪实时记录执法过程"
+      }
+    ],
+    "answer": "C",
+    "explanation": "“看得见的正义才是真正的正义”意思是说：“正义不仅要实现，而且要以看得见的方式实现。”\nA 项错误，此项是纪检监察部门开通网站并接受网络举报是畅通监督渠道的行为，它架起了与群众沟通的桥梁，\n但并未体现题干提到的法律内涵，排除；\nB 项错误，明显与题干无关，征求城市规划意见，是民主的体现，不能体现“看得见的正义才是真正的正义”的\n法律内涵，排除；\nC 项正确，党的十八届三中全会提出了要完善“司法公开制度”，“让人民监督权力，让权力在阳光下运行”。\n裁判文书的公示对司法公正无疑有一种保证和促进作用。正所谓“正义不仅要实现而且需以看得见的方式实现”，\n裁判文书是对当事人争议焦点、辩论观点的归纳，是对法院裁判观点形成的逻辑阐释，是司法过程的最终载体。\n故裁判文书公示不仅使当事人赢得堂堂正正、输得明明白白，也将法院的司法过程、司法结果置于社会所有公众\n的监督、审视之下，接受公众的评判。\nD 项错误，此项是是行政机关对执法人员的执法过程的监督，不能体现题干提到的法律内涵，排除。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "时政热点",
+      "法律常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第1题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-002",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "因张三不偿还一年前的十万元现金借款(利率5%)，李四将其诉至法院，但李四丢失了借条原件，面临败诉的 风险，最后在法院的调解下，张三自愿偿还李四现金十万元，李四主动放弃利息的诉讼请求，下列法谚内涵最能 体现这一调解精神的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "无救济，即无权利"
+      },
+      {
+        "label": "B",
+        "content": "法者，定纷止争也"
+      },
+      {
+        "label": "C",
+        "content": "善良的心，是最好的法律"
+      },
+      {
+        "label": "D",
+        "content": "举证之所在，败诉之所在"
+      }
+    ],
+    "answer": "C",
+    "explanation": "英国法学家麦克莱有句至理名言，“善良的心是最好的法律”。\n张三从拒不偿还到自愿偿还李四现金十万元，李四主动放弃利息的诉讼请求，这都体现了人性的善，在调解下解\n决了纷争，体现了“善良的心是最好的法律”这一调解精神。\nA、B、D 三项都不是调解精神，是法的精神和举证责任原则。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "法律常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第2题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-003",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列哪种情形最可能实行一审终审：",
+    "options": [
+      {
+        "label": "A",
+        "content": "基层人民法院审理被告提出反诉的买卖合同纠纷案件"
+      },
+      {
+        "label": "B",
+        "content": "基层人民法院审理夫妻双方争夺子女抚养权的离婚案件"
+      },
+      {
+        "label": "C",
+        "content": "中级人民法院审理在本辖区有重大影响的合同纠纷案件"
+      },
+      {
+        "label": "D",
+        "content": "基层人民法院审理权利义务关系明确的租赁合同纠纷案件"
+      }
+    ],
+    "answer": "D",
+    "explanation": "《民事诉讼法》第一百六十二条规定，基层人民法院和它派出的法庭审理符合本法第一百五十七条第一款规\n定的简单的民事案件，标的额为各省、自治区、直辖市上年度就业人员年平均工资百分之三十以下的，实行一审\n终审。《民事诉讼法》第一百五十七条规定，基层人民法院和它派出的法庭审理事实清楚、权利义务关系明确、\n争议不大的简单的民事案件，适用本章规定。基层人民法院和它派出的法庭审理前款规定以外的民事案件，当事\n人双方也可以约定适用简易程序，D 项符合。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "法律常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第3题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-004",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列条款符合法律规定的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "某饭店店堂告知：“请保管好随身物品，丢失概不负责”"
+      },
+      {
+        "label": "B",
+        "content": "某干洗店申明：衣物丢失，只赔付洗衣费二倍的价钱"
+      },
+      {
+        "label": "C",
+        "content": "淘宝网某服饰店表示：本店商品一经售出，概不退货"
+      },
+      {
+        "label": "D",
+        "content": "某商场厕所门口警示牌“地滑小心摔倒，否则概不负责任”"
+      }
+    ],
+    "answer": "A",
+    "explanation": "按照《消费者权益保护法》和相关行业规定，衣物丢失，应给予消费者最高价不超过洗衣费 20 倍的赔偿，赔\n偿后的衣物归经营者所有，B 项不符合法律规定，排除；\n《消费者权益保护法》第 24 条规定，经营者提供的商品或者服务不符合质量要求的，消费者可以依照国家规定、\n当事人约定退货，或者要求经营者履行更换、修理等义务。没有国家规定和当事人约定的，消费者可以自收到商\n品之日起七日内退货；七日后符合法定解除合同条件的，消费者可以及时退货，不符合法定解除合同条件的，可\n以要求经营者履行更换、修理等义务。《消费者权益保护法》第 26 条规定，经营者不得以格式条款、通知、声\n明、店堂告示等方式，作出排除或者限制消费者权利、减轻或者免除经营者责任、加重消费者责任等对消费者不\n公平、不合理的规定，不得利用格式条款并借助技术手段强制交易，C 项不符合法律规定，排除；\n《消费者权益保护法》第 7 条规定，消费者在购买、使用商品和接受服务时享有人身、财产安全不受损害的权利。\n消费者有权要求经营者提供的商品和服务，符合保障人身、财产安全的要求，D 项不符合法律规定，排除。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "法律常识",
+      "科技常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第4题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-005",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "小李于2013 年10 月2 日与某软件公司签订劳动合同一份，双方约定如下：合同期限为3 年，试用期9 个月， 试用期工资为3000 元人民币(转正后4000)，小李于2013 年11 月2 日到公司上班，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "小李与公司之间于2013 年11 月2 日正式建立劳动关系"
+      },
+      {
+        "label": "B",
+        "content": "小李与公司试用期期限和工资的约定不合法"
+      },
+      {
+        "label": "C",
+        "content": "在试用期小李可以随时解除与公司之间的劳动关系"
+      },
+      {
+        "label": "D",
+        "content": "公司在合同期间无权单方面对小李的工作岗位作出调整"
+      }
+    ],
+    "answer": "C",
+    "explanation": "《劳动合同法》第 10 条规定，用人单位与劳动者在用工前订立劳动合同的，劳动关系自用工之日起建立,A\n项正确；\n《劳动合同法》第 19 条规定，三年以上固定期限和无固定期限的劳动合同，试用期不得超过六个月。《劳动合\n同法》第 20 条规定，劳动者在试用期的工资不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分\n之八十，并不得低于用人单位所在地的最低工资标准。因此本题中小李的试用期最长不能超过 6 个月，试用期工\n资不能低于 3200 元，B 项正确；\n《劳动合同法》第 37 条规定，劳动者在试用期内提前三日通知用人单位，可以解除劳动合同。因此小李不能随\n时解除劳动合同，C 项错误；\n《劳动合同法》第 35 条规定，用人单位与劳动者协商一致，可以变更劳动合同约定的内容。变更劳动合同，应\n当采用书面形式。工作岗位属于劳动合同的内容，用人单位要变更劳动者的工作岗位，必须与劳动者协商一致，\n并且变更劳动合同。用人单位无权单方面变更劳动者的工作岗位，D 项正确。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第5题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-006",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "成语“南橘北枳”是与晏婴出使楚国有关"
+      },
+      {
+        "label": "B",
+        "content": "苏武牧羊的地点在今天的贝加尔湖一带"
+      },
+      {
+        "label": "C",
+        "content": "东汉使者班超同时也是《汉书》的作者"
+      },
+      {
+        "label": "D",
+        "content": "西汉张骞与唐代鉴真出行的方向不同"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项正确，成语“南橘北枳”出自《晏子春秋▪内篇杂下》：“橘生淮南则为橘，生于淮北则为枳，叶徒相似，\n其实味不同。所以然者何？水土异也。”意思是淮南的橘树，移植到淮河以北就变为枳树。比喻同一物种因环境\n条件不同而发生变异。此成语与晏婴出使楚国有关。B 项正确，苏武牧羊讲的是苏武在天汉元年（前 100 年）奉\n命以中郎将持节出使匈奴，被扣留。匈奴贵族多次威胁利诱，欲使其投降；后将他迁到北海（今贝加尔湖）边牧\n羊，扬言要公羊生子方可释放他回国。苏武历尽艰辛，留居匈奴 19 年持节不屈。至始元六年（前 81 年），方获\n\n- 1 -\n\n\f释回汉。C 项错误，《汉书》又称《前汉书》，由我国东汉时期的历史学家班固编撰，是中国第一部纪传体断代\n史，“二十四史”之一。D 项正确，西汉张骞出使西域，唐代鉴真东渡日本，两人出行的方向不同。\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "人文常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第6题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-007",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "根据生产要素在各产业中的相对密集度，可以将产业划分为不同类型。下列对应错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "土地密集型产业——畜牧业、采掘业"
+      },
+      {
+        "label": "B",
+        "content": "劳动密集型产业——钢铁业、化工业"
+      },
+      {
+        "label": "C",
+        "content": "技术密集型产业——微电子工业、现代制药业"
+      },
+      {
+        "label": "D",
+        "content": "资本密集型产业——重型机械工业、电力工业"
+      }
+    ],
+    "answer": "B",
+    "explanation": "钢铁业、化工业属于资本密集型产业，B 项错误；A、C、D 三项对应均正确。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第7题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-008",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于我国政府信息公开，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "行政机关对政府信息不能确定是否可以公开时，应不公开"
+      },
+      {
+        "label": "B",
+        "content": "公民可以根据自身生产、生活和科研等特殊需要申请政府信息公开"
+      },
+      {
+        "label": "C",
+        "content": "行政机关逾期不答复公民申请信息公开的，公民可依法提起行政诉讼"
+      },
+      {
+        "label": "D",
+        "content": "县级以上各级人民政府的办公厅(室)可以作为本级政府信息公开工作的主管部门"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项错误，《政府信息公开条例》第十四条第三款规定，行政机关对政府信息不能确定是否可以公开时，应\n当依照法律、法规和国家有关规定报有关主管部门或者同级保密工作部门确定。B 项正确，《政府信息公开条例》\n第 13 条规定，除本条例第九条、第十条、第十一条、第十二条规定的行政机关主动公开的政府信息外，公民、\n法人或者其他组织还可以根据自身生产、生活、科研等特殊需要，向国务院部门、地方各级人民政府及县级以上\n地方人民政府部门申请获取相关政府信息。C 项正确，行政机关逾期不答复公民申请信息公开的，属于行政不作\n为，属于行政诉讼受案范围。公民当然可以依法提起行政诉讼。D 项正确，《政府信息公开条例》第三条规定，\n各级人民政府应当加强对政府信息公开工作的组织领导。国务院办公厅是全国政府信息公开工作的主管部门，负\n责推进、指导、协调、监督全国的政府信息公开工作。县级以上地方人民政府办公厅（室）或者县级以上地方人\n民政府确定的其他政府信息公开工作主管部门负责推进、指导、协调、监督本行政区域的政府信息公开工作。\n本题为选非题，故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "法律常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第8题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-009",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于我国农村三级卫生服务网络，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "主要承担预防保健、基本医疗、健康教育、计生指导等任务"
+      },
+      {
+        "label": "B",
+        "content": "包括乡镇卫生院、村卫生室和家庭自我保健"
+      },
+      {
+        "label": "C",
+        "content": "以让农民“看病不出乡镇”为发展目标"
+      },
+      {
+        "label": "D",
+        "content": "以乡镇卫生院为基础"
+      }
+    ],
+    "answer": "A",
+    "explanation": "农村三级卫生服务网络是指以县级医疗卫生机构为龙头、乡镇卫生院为主体、村卫生室为基础的卫生服务体\n系，B、D 两项错误；农村三级卫生服务网络主要承担着预防保健、基本医疗、卫生监督、健康教育、计划生育\n技术指导等任务，为农民获得基本卫生服务提供保障，A 项正确；我国农村三级卫生服务网络可缓解看病难、看\n病贵，实现农村医疗卫生发展目标，使农民“小病不出村、一般疾病不出乡、大病基本不出县”，C 项错误。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "科技常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第9题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-010",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于现代武器，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "迫击炮通常配属装甲兵使用"
+      },
+      {
+        "label": "B",
+        "content": "陆军航空兵以直升机为主要装备"
+      },
+      {
+        "label": "C",
+        "content": "洲际弹道导弹是目前射程最远的导弹"
+      },
+      {
+        "label": "D",
+        "content": "驱逐舰具有防空、反潜和对地攻击的综合作战能力"
+      }
+    ],
+    "answer": "A",
+    "explanation": "装甲兵以坦克为基本装备，主要执行地面突击任务，是陆军的重要突击力量。迫击炮是一种炮身短、射角大、\n弹道弧线高、以座钣承受后座力、采用炮口装填、发射带尾翼弹的曲射滑膛火炮。射程较近，轻便灵活，能射击\n遮蔽物后方的目标，是一种支援和伴随步兵作战的有效的压制兵器，A 项错误。B、C、D 三项说法均正确。\n本题为选非题，故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第10题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-011",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列语句按出现时间先后排序正确的是： ①劳心者治人，劳力者治于人 ②少年富则国富，少年强则国强 ③苟全性命于乱世，不求闻达于诸侯 ④业精于勤，荒于嬉；行成于思，毁于随",
+    "options": [
+      {
+        "label": "A",
+        "content": "③①④②"
+      },
+      {
+        "label": "B",
+        "content": "③②①④"
+      },
+      {
+        "label": "C",
+        "content": "①③④②"
+      },
+      {
+        "label": "D",
+        "content": "①②③④"
+      }
+    ],
+    "answer": "C",
+    "explanation": "①出自《孟子》，为战国时期；②出自梁启超《少年中国说》，为民国时期；③出自诸葛亮的《出师表》，\n为三国时期；④出自韩愈的《进学解》，为唐朝时期。故时间顺序为①③④②。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第11题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-012",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列哪组成语反映了同一种人际关系：",
+    "options": [
+      {
+        "label": "A",
+        "content": "琴瑟和鸣破镜重圆"
+      },
+      {
+        "label": "B",
+        "content": "负荆请罪载舟覆舟"
+      },
+      {
+        "label": "C",
+        "content": "结草衔环青梅竹马"
+      },
+      {
+        "label": "D",
+        "content": "相濡以沫舐犊情深 - 1 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项正确，“琴瑟和鸣”与“破镜重圆”两词描写的都是夫妻间的关系；B 项错误，“负荆请罪”指的是朋\n友关系，“载舟覆舟”指的是君民关系，描述的关系不同；C 项错误，“结草衔环”指的是施恩者与报恩者之间\n的关系，“青梅竹马”指的是少男少女之间朦胧的爱情关系，描述关系不同；D 项错误，“相濡以沫”指的是夫\n妻关系，“舐犊情深”指的是父母与子女之间的关系，描述的关系不同。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第12题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-013",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列说法符合生活实际的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "小满时节，我国东部由低温导致呼吸疾病明显增多"
+      },
+      {
+        "label": "B",
+        "content": "芒种时节，我国南方居民发现春困的感觉有所加剧"
+      },
+      {
+        "label": "C",
+        "content": "处暑时节，我国北方医院里中暑病人相对有所减少"
+      },
+      {
+        "label": "D",
+        "content": "雨水过后我国西部蚊蝇所传播的疾病开始明显增多"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 选项错误，小满过后，全国各地渐次进入了夏季，南北温差进一步缩小，温度升高，降水进一步增多，呼\n吸疾病减少；\nB 选项错误，芒种时节，我国大部分地区温度升高，接近夏季，春困的感觉应该减少；\nC 选项正确，处暑天气由热转凉，北方尤为明显，中暑人数减少；\nD 选项错误，雨水时节气温回升、冰雪融化、降水增多，但仍处于初春低温时期，蚊蝇较少。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第13题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-014",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列唐诗所描写的内容与对应的体育项目不相符的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "御马牵来亲自试，珠球到处玉蹄知——马球"
+      },
+      {
+        "label": "B",
+        "content": "杨桴击节雷阗阗，乱流齐进声轰然——游泳"
+      },
+      {
+        "label": "C",
+        "content": "壮徒恒贾勇，拔拒抵长河——拔河"
+      },
+      {
+        "label": "D",
+        "content": "上弦明月半，激箭流星远——射箭"
+      }
+    ],
+    "answer": "B",
+    "explanation": "“杨桴击节雷阗阗，乱流齐进声轰然”出自刘禹锡的《竞渡曲》，记叙的是一次赛龙舟的活动。B 项错误。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第14题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-015",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "一跨国企业计划7 月份在全球两个大城市同期举办大型室外活动。为避免降雨影响活动效果，选择下列哪两 个城市最为合理：",
+    "options": [
+      {
+        "label": "A",
+        "content": "北京和纽约"
+      },
+      {
+        "label": "B",
+        "content": "东京和马德里"
+      },
+      {
+        "label": "C",
+        "content": "上海和伦敦"
+      },
+      {
+        "label": "D",
+        "content": "罗马和洛杉矶"
+      }
+    ],
+    "answer": "D",
+    "explanation": "选项中 8 个城市都位于北半球，7 月北半球正处于夏季。罗马和洛杉矶都属于地中海气候，特点是夏季炎热\n干燥，冬季温和多雨；北京为温带季风性气候，特点为夏季温热多雨，冬季寒冷干燥；纽约和马德里属于温带大\n陆性气候，特点为降水稀少且集中在夏季；东京属于亚热带海洋性季风气候，特点为夏季暖热多雨，雨热同季；\n上海属于亚热带季风气候，特点为夏季湿润多雨，冬季温和少雨；伦敦属于温带海洋性气候，全年多雨。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "地理常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第15题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-016",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列俗语与对应的成语，二者本意所指属于同一物理现象的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "宝剑锋从磨砺出——百炼成钢"
+      },
+      {
+        "label": "B",
+        "content": "酒香不怕巷子深——近朱者赤"
+      },
+      {
+        "label": "C",
+        "content": "小小秤砣压千斤——举重若轻"
+      },
+      {
+        "label": "D",
+        "content": "近水楼台先得月——海市蜃楼"
+      }
+    ],
+    "answer": "B",
+    "explanation": "物质是由分子组成的，分子在不停地做无规则运动，且分子间存在相互作用的引力和斥力。由于分子在不停\n地做无规则运动，故不同物质的分子会彼此进入对方，发生扩散现象。题干中的“酒香不怕巷子深”和“近朱者\n赤”所包含的都是分子运动这一物理现象。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第16题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-017",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列情景不可能发生在19 世纪的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "杰克打电话约玛丽一起去看电影"
+      },
+      {
+        "label": "B",
+        "content": "史蒂芬逊乘火车到斯托克顿旅行"
+      },
+      {
+        "label": "C",
+        "content": "约翰乘电梯登大楼楼顶拍照留念"
+      },
+      {
+        "label": "D",
+        "content": "汤姆通过广播收听葛底斯堡演说"
+      }
+    ],
+    "answer": "D",
+    "explanation": "葛底斯堡演说是 1863 年 11 月 19 日林肯在宾夕法尼亚州葛底斯堡的葛底斯堡国家公墓揭幕式中发表的演说，\n且广播诞生在 20 世纪，因此汤姆不可能在 19 世纪通过广播收听葛底斯堡演说。D 项错误。\n本题为选非题，故正确答案为 D。\n\n- 2 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第17题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-018",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "对下列诗词蕴含的化学原理解释错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "蜡炬成灰泪始干——烃类的不完全燃烧"
+      },
+      {
+        "label": "B",
+        "content": "爆竹声中一岁除——爆炸产生二氧化硫"
+      },
+      {
+        "label": "C",
+        "content": "日照香炉生紫烟——多环芳香烃的升华"
+      },
+      {
+        "label": "D",
+        "content": "洪炉照破夜沉沉——燃烧释放二氧化碳"
+      }
+    ],
+    "answer": "C",
+    "explanation": "“日照香炉生紫烟”意思是庐山的香炉峰，在日光的照耀下，水汽蒸腾，呈现出紫色的烟霞，而多环芳香烃\n是煤、油类、煤气、木头、垃圾或其他有机物在不完全燃烧时形成的一类化学物质。两者之间没有联系，C 项错\n误。\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第18题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-019",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于生活常识，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "吃松花蛋时佐以食醋，是为了减少松花蛋的涩味"
+      },
+      {
+        "label": "B",
+        "content": "电灯泡中加入少量红磷，是为了防止灯丝氧化"
+      },
+      {
+        "label": "C",
+        "content": "纯碱使馒头稀松多孔，是因为化学反应产生二氧化碳"
+      },
+      {
+        "label": "D",
+        "content": "千滚水不宜饮用，是因为其中的细菌含量会大大增加"
+      }
+    ],
+    "answer": "D",
+    "explanation": "千滚水是指反复煮沸的水，在反复煮沸的过程中，滋生出亚硝酸盐、重金属等有害物质，长期饮用会影响人\n的身体健康。D 项错误。\n本题为选非题，故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第19题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-changshi-2015-dishi-020",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "中国古代以\"右\"为尊，举办宴会，座位次序为：\"宾客之中最尊贵之人居首席，面南背北而坐，居其右而面东。\"按位次依次排列。下列座次安排符合上述礼法的是？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "古代贵族男子的字前常加伯（孟）、仲、叔、季表示排行。三国时期孙坚的四个儿子中，长子孙策，字伯符；\n次子孙权，字仲谋；三子孙翊，字叔弼；四子孙匡，字季佐。按照长幼顺序，孙策应坐主位，孙权次之，孙翊再\n次之，孙匡居末座。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第20题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2015_dishi/q020.png"
+  }
+]

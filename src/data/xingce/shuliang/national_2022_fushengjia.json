@@ -1,0 +1,528 @@
+[
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某企业职工筹款给甲村学龄儿童购买学习用具，如按 100 元/人的标准执行则资金剩余 第三部分 数量关系 550 元，如按 120 元/人的标准执行则还需筹集 630 元。现额外筹集 2510 元，且最终按 80 元/人的标准， 正好能给甲、乙两村的学龄儿童购买学习用具。问乙村学龄儿童有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "50"
+      },
+      {
+        "label": "B",
+        "content": "53"
+      },
+      {
+        "label": "D",
+        "content": "59"
+      },
+      {
+        "label": "C",
+        "content": "56"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查基础应用题。\n\n第二步，设甲村学龄儿童 x 人，列方程 100x+550=120x-630，解得 x=59，现有资金 100×59+550=6450 元，\n\n额外筹集后共有 6450+2510=8960 元，按每人 80 元的标准，可分给 8960÷80=112 人，乙村学龄儿童有 112-\n\n59=53 人。\n\n因此，选择 B 选项。",
+    "difficulty": 2,
+    "knowledgePoints": [
+      "语句表达"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第61题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）甲、乙、丙、丁、戊 5 名职工参加党史知识测验，每人得分均不相同。甲和乙的平均分比丙 多 2 分，丁和戊的平均分比丁多 5 分，甲、乙的平均分比丙、丁、戊的平均分多 3 分。问丙、丁、戊三人 第 10 页 共 23 页 得分的排序为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "丙＞丁＞戊"
+      },
+      {
+        "label": "B",
+        "content": "丙＞戊＞丁"
+      },
+      {
+        "label": "C",
+        "content": "丁＞丙＞戊"
+      },
+      {
+        "label": "D",
+        "content": "戊＞丙＞丁"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查不等式问题。\n\n第二步，根据题意可列三个方程，\n\n（①），\n\n（②），\n\n第 42 页 共 64 页\n\n\f（③），通过方程②变形可得：戊-丁=10，那么戊＞丁，排除 A、C 选项。方程\n\n③-②有\n\n，又丁=戊-10，代入前面式子可得戊-丙=3.5，即戊＞丙，排除 B 选项。\n\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第62题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）企业列出 500 万元设备采购预算，如用于购买 x 台进口设备，最后剩余 20 万元。经董事会研 究后，决定购买质量更高的同类国产设备，单价仅为进口设备的 75%。当前预算可购买 x+3 台，最后剩余 5 万元。问国产设备的单价在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 30 万元/台"
+      },
+      {
+        "label": "B",
+        "content": "30—40 万元/台之间"
+      },
+      {
+        "label": "C",
+        "content": "40—50 万元/台之间"
+      },
+      {
+        "label": "D",
+        "content": "50 万元/台以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查基础应用题。\n\n第二步，买进口设备花费 480 万元，买国产设备花费 495 万元。设能买进口设备 x 台，那么买国产设备（x＋3）\n\n台。根据国产设备单价为进口设备单价的 75%可列方程：480÷x×75%＝495÷（x＋3），解得 x＝8，那么能买\n\n国产设备 11 台，单价为 495÷11＝45（万元）。\n\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第63题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）甲和乙两个乡村图书室共有 5000 本藏书，其中甲图书室的藏书比乙图书室多 3x 本，现从甲 图书室中取出 150 本书放入乙图书室后，甲图书室的藏书仍比乙图书室多 2x 本，问甲图书室原有图书多 少本？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2500"
+      },
+      {
+        "label": "B",
+        "content": "2750"
+      },
+      {
+        "label": "C",
+        "content": "2950"
+      },
+      {
+        "label": "D",
+        "content": "3500"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查基础应用题。\n\n第二步，设乙图书室原有藏书 N 本，那么甲图书室本数为 N+3x，取出 150 本后比乙多\n\nN+3x－150－（N+150）=3x-300，由题意 3x－300=2x，解得 x=300。那么甲图书室原有藏书\n\n（5000－300×3）÷2+300×3=2950（本）。\n\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第64题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）李某骑车从甲地出发前往乙地，出发时的速度为 15 千米/小时，此后均匀加速，骑行 25%的 路程后速度达到 21 千米/小时。剩余路段保持此速度骑行，总路程前半段比后半段多用时 3 分钟。问甲、 乙两地之间的距离在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 23 千米"
+      },
+      {
+        "label": "B",
+        "content": "在 23—24 千米之间"
+      },
+      {
+        "label": "C",
+        "content": "在 24—25 千米之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 25 千米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查行程问题。\n\n第二步，总路程前半段比后半段多用时 3 分钟，根据后 的路程为匀速运动，可知总路程的前 ，比最后 多用\n\n时 3 分钟。根据前 路程为匀加速运动可知平均速度为\n\n=18 千米/小时，设前 路程用时为 t 小时，则\n\n最后 路程用时为 t－ 小时，列方程 18t=21（t－ ），解得 t= ，则前 路程为 18×\n\n=6.3 千米，全\n\n程为 6.3×4=25.2 千米。\n\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第65题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）高校某专业 70 多名毕业生中，有 96%在毕业后去西部省区支援国家建设。其中去偏远中小学 支教的毕业生占该专业毕业生总数的 20%，比任职大学生村官的毕业生少 2 人，比在西部地区参军入伍的 毕业生多 1 人，其余的毕业生选择去国有企业西部边远岗位工作。问去国有企业西部边远岗位工作的毕 业生有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "32"
+      },
+      {
+        "label": "B",
+        "content": "29"
+      },
+      {
+        "label": "C",
+        "content": "26"
+      },
+      {
+        "label": "D",
+        "content": "23"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查基础应用题。\n\n第二步，70 多名毕业生中，在毕业后去西部省区支援国家建设有 96%，即 ，说明毕业生总数是 25 的倍数，\n\n即 75 人，毕业后去西部省区支援国家建设的有 72 人，去偏远中小学支教的毕业生占该专业毕业生总数的 20%，\n\n即 75×20%=15 人，任职大学生村官的毕业生=15+2=17，西部地区参军入伍的毕业生=15-1=14，所以去国有\n\n企业西部边远岗位工作的毕业生=72-15-17-14=26。\n\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第66题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某地引进新的杂交水稻品种，今年每亩稻谷产量比上年增加了 20%，且由于口感改善，每斤 稻谷的售价从 1.5 元提升到 1.65 元。以此计算，今年每亩稻谷的销售收入比上年高 660 元。问今年的稻 谷 亩产是多少斤？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2200"
+      },
+      {
+        "label": "B",
+        "content": "1980"
+      },
+      {
+        "label": "C",
+        "content": "1650"
+      },
+      {
+        "label": "D",
+        "content": "1375"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查基础应用题。\n\n第二步，设去年稻谷亩产量为 5x 斤，则今年亩产量为 6x 斤，根据销售收入比上年高 660 元列方程，1.65×6x-",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第67题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）甲地在丙地正西 17 千米，乙地在丙地正北 8 千米。张从甲地、李从乙地同时出发，分别向正 东和正南方向匀速行走。两人速度均为整数千米/小时，且 1 小时后两人的直线距离为 13 千米，又经过 3 小时后两人均经过了丙地且直线距离为 5 千米。已知李的速度是张的 60%，则张经过丙地的时间比李：",
+    "options": [
+      {
+        "label": "A",
+        "content": "早不到 10 分钟"
+      },
+      {
+        "label": "D",
+        "content": "晚 10 分钟以上"
+      },
+      {
+        "label": "C",
+        "content": "晚不到 10 分钟"
+      },
+      {
+        "label": "B",
+        "content": "早 10 分钟以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查基本行程类。\n\n第二步，已知李的速度是张的 60%，可设张的速度为 5v 千米/小时，李的速度为 3v 千米/小时，两人 1 个小时的\n\n路程分别为 5v 千米、3v 千米，进而可得 A 点到丙地的距离为（8-3v）千米，B 点到丙地的距离为（17-5v）千\n第 43 页 共 64 页\n\n\f米，又已知 AB=13 千米，根据常用勾股数（5,12,13）不难判断 8-3v=5，17-5v=12，可得 v=1 千米/小时，那\n\n么张和李的速度分别为 5 千米/小时和 3 千米/小时，张从出发到丙地共用时 17÷5=3.4 小时=3 小时 24 分钟，李\n\n从出发到丙地共用时 8÷3=160 分钟=2 小时 40 分钟，张经过丙地的时间比李要晚 44 分钟。\n\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第68题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某县通过发展旅游业来实现乡村振兴，引进了甲、乙、丙、丁、戊和己 6 名专家。其中甲、 乙、丙是环境保护专家，丁、戊、己是旅游行业专家，甲、丁、戊熟悉社交媒体宣传。现要将 6 名专家 平均分成 2 个小组，每个小组都要有环境保护专家、旅游行业专家和熟悉社交媒体宣传的人，问有多少 种不同的分组方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "24"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查排列组合问题。\n\n第二步，解法一：因只分为 2 组，可使用枚举法。根据题目要求有（甲乙丁，丙戊己）、（甲乙戊，丙丁己）、\n\n（甲乙己，丙丁戊）、（甲丙丁，乙戊己）、（甲丙戊，乙丁己）、（甲丙己，乙丁戊）、（甲丁己、乙丙戊）、\n\n（甲戊己、乙丙丁）共 8 种分组方式。\n\n因此，选择 D 选项。\n\n解法二：本题可使用平均分组模型进行求解。将 6 名专家平均分成 2 组，每组 3 人，有\n是要从其中排除掉不符合题意的 2 种情况，分别是（甲乙丙，丁戊己）和（甲丁戊，乙丙己），有 10-2=8 种分\n\n种分组方式，但\n\n组方式。\n\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第69题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某水果种植特色镇创办水果加工厂，从去年年初开始通过电商平台销售桃汁、橙汁两种产 品。从去年 2 月开始，每个月桃汁的销量都比上个月多 5000 盒，橙汁的销量都比上个月多 2000 盒。已知 去年第一季度桃汁的总销量比橙汁少 4.5 万盒，则去年桃汁的销量比橙汁：",
+    "options": [
+      {
+        "label": "A",
+        "content": "多不到 5 万盒"
+      },
+      {
+        "label": "B",
+        "content": "少不到 5 万盒"
+      },
+      {
+        "label": "C",
+        "content": "多 5 万盒以上"
+      },
+      {
+        "label": "D",
+        "content": "少 5 万盒以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查数列问题。\n\n第二步，设去年第一个月的桃汁销量为 x 万瓶，橙汁销量为 y 万瓶。桃汁、橙汁的每月销量都成等差数列，则第\n\n一个季度桃汁的销量为（x+0.5）×3，橙汁的销量为（y+0.2）×3，由题意（y+0.2）×3－（x+0.5）×3=4.5，\n\n有 y－x=1.8。根据等差数列求和公式，全年桃汁总销量为[x+（x+0.5×11）]×12÷2=6（2x+5.5）；橙汁总销量\n\n为[x+（x+0.2×11）]×12÷2=6（2y+2.2），两者之差为 12（x－y）+33－13.2=－1.8（万盒）。桃汁比橙汁\n\n少不到 5 万盒。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第70题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）救灾部门紧急运送两批大米分给受灾群众，已知甲村人数是丙村的 2 倍，如果买两批大米都 给甲村，每人正好能分 24 斤；如果第一批大米分给乙村，每人正好能分 12 斤，第二批大米分给甲、乙、 丙三个村，每人正好能分 4 斤。为尽量保障受灾群众的基本需求，现决定另运送一批面粉分给甲村，并 将两批大米都分给乙、丙两村，问乙、丙两村平均每人分到的大米重量在以下哪个范围内？",
+    "options": [
+      {
+        "label": "D",
+        "content": "16 斤以上"
+      },
+      {
+        "label": "A",
+        "content": "不到 14 斤"
+      },
+      {
+        "label": "B",
+        "content": "14—15 斤之间"
+      },
+      {
+        "label": "C",
+        "content": "15—16 斤之间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第 44 页 共 64 页\n\n\f第一步，本题考查基础应用题。\n\n第二步，设丙村的人数为 x，那么甲村的人数为 2x，大米的总量为 2x×24=48x。设乙村人数为 y，则由题意\n\n12y+4（2x+y+x）=48x，化简为 4y=9x，乙村人数为 9x÷4=2.25x。大米平均分配给乙丙二村，每人可分\n\n48x÷（2.25x+x）= ≈14.8（斤）。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第71题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）为降低碳排放，企业对生产设备进行改造，改造后日产量下降了 10%，但 每件产品的能耗 成本下降了 50%，其他成本和出厂价不变的情况下每天的利润提高 10%。已知单件利润=出厂价-能耗成本 -其他成本，且改造前产品的出厂价是单件利润的 3 倍，则改造前能耗成本为其他成本的：",
+    "options": [
+      {
+        "label": "D",
+        "content": "超过 1/2"
+      },
+      {
+        "label": "A",
+        "content": "不到 1/4"
+      },
+      {
+        "label": "C",
+        "content": "1/3~1/2 之间"
+      },
+      {
+        "label": "B",
+        "content": "1/4~1/3 之间 第 11 页 共 23 页"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查经济利润问题。\n\n第二步，根据题干中的百分数进行赋值，赋值改造前的日产量、能耗成本分别为 10 和 2，则改造后的日产量和能\n\n耗成本则为 9 和 1。假设其他成本为 x，单件利润为 y，则出厂价为 3y，改造前，y=3y-2-x，改造后利润提高了\n\n10%，即 9（3y-1-x）=1.1×10×y=1.1×10×（3y-2-x），解方程可得 x=7，y=4.5。改造前能耗成本与其他成\n\n本的比值为 ≈28.6%，在 B 选项的范围内。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第72题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）一个圆柱体零件的高为 1，其圆形底面上的内接正方形边长正好也为 1。现将该圆柱体零件 切割 4 次，得到棱长为 1 的正方体，则切去部分的总面积为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查几何问题，属于立体几何类。\n\n第二步，如图所示，底面圆的内接正方形的面积为 1，则边长为 1，对角线长为 ，可知底面圆的半径为\n切割下去的四个部分总表面积相当于（一个圆柱的表面积－上下表面两个正方形）＋立方体的侧面积，代入数据\n\n。\n\n为\n\n=\n\n。\n\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第73题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2022_fushengjia/q073.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）甲和乙两条效率相同的生产线从早上不同时间开始生产同一种产品，到中午 12：00 时分别 正好生产了 x 件和 y 件。已知乙生产 x 件时，甲生产了 54 件；甲生产 y 件时，乙生产了 1.5x 件。如乙从 9：00 开始生产且 12：00 后两条生产线仍保持原有速度，问两条生产线生产的产品总量达到 500 件是在 什么时候？",
+    "options": [
+      {
+        "label": "A",
+        "content": "16：30 之前"
+      },
+      {
+        "label": "C",
+        "content": "17：00～17：30 之间"
+      },
+      {
+        "label": "B",
+        "content": "16：30～17：00 之间"
+      },
+      {
+        "label": "D",
+        "content": "17：30 之后"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查基础应用题。\n\n第二步，两条生产线相率一样，根据两者生产件数差值不变可列方程组：y－x＝x－54＝1.5x－y，解得\n\nx＝72，y＝90，即 9—12 点乙一共生产了 90 件，那么效率为\n\n，距离 500 件还差\n\n500－72－90＝338（件），需要 338÷60＞5.5（小时），即 17 点 30 之后。\n\n因此，选择 D 选项。\n\n第 45 页 共 64 页",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第74题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-fushengjia-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某件商品的定价为成本的 1.5 倍，如果在降价 30 元/件的基础上再打八折，则销售 5 件这件商 品的利润比原价销售 1 件时多 130 元。问用以下哪种折扣销售时，1.5 万元能买到的件数正好比原价销售 时多 4 件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "先降价 50 元/件再打八折"
+      },
+      {
+        "label": "C",
+        "content": "降价 150 元/件"
+      },
+      {
+        "label": "B",
+        "content": "先打九折再降价 50 元/件"
+      },
+      {
+        "label": "D",
+        "content": "打八五折"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查经济利润问题，属于基础公式类。\n\n第二步，设该商品成本为 2x 元，定价为 3x 元，降价 30 元/件的基础上打八折的售价为（3x-30）\n\n×0.8=2.4x－24，那么单利为 0.4x－24。根据销售 5 件的利润比 1 件多 130 元，有 5（0.4x－24）－x=130，解\n\n得 x=250。则该商品成本为 500 元，定价为 750 元，1.5 万元可以买 15000÷750=20（件），多买 4 件则售价\n\n实际为 15000÷（20+4）=625（元）。四个选项的售价分别为 560 元、625 元、600 元、637.5 元，仅有 B 符\n\n合。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（副省级）第75题",
+    "level": "fushengjia"
+  }
+]

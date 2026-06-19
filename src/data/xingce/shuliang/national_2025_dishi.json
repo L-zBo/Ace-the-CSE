@@ -1,0 +1,353 @@
+[
+  {
+    "id": "national-xingce-shuliang-2025-dishi-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "张某8：00开车从A地出发，在A、B两地之间往返行驶。8：30第一次到达A、B之间的C点时加速30%继续行 驶，并于9：00第二次到达C点。问AC距离是BC距离的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10/13"
+      },
+      {
+        "label": "B",
+        "content": "13/10"
+      },
+      {
+        "label": "C",
+        "content": "20/13"
+      },
+      {
+        "label": "D",
+        "content": "13/5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设张某出发时的速度为 v，8：00 从 A 地出发，8：30 到达 C 点，则 AC 间的路程共用时 30 分钟。根据公\n式：路程=速度×时间，则 AC 距离为 30v。8：30 到达 C 点后，加速 30%继续行驶，并于 9：00 第二次到\n达 C 点。则可知张某在 BC 间往返共用时 30 分钟，即单程用时 15 分钟，速度变为 1.3v，则 BC 距离为\n1.3v×15。故 AC 距离是 BC 距离的 30v/(1.3v×15)= 倍。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第66题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲、乙、丙、丁四个部门共有210名员工，且甲部门员工数比丁部门多10人。现乙部门调动20名员工到丙部门 且其剩余员工并入丁部门后，甲、丙、丁三个部门的员工数之比为3：3：4。问原乙部门有多少名员工？",
+    "options": [
+      {
+        "label": "A",
+        "content": "41"
+      },
+      {
+        "label": "B",
+        "content": "46"
+      },
+      {
+        "label": "C",
+        "content": "51"
+      },
+      {
+        "label": "D",
+        "content": "56"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：调动后，甲、丙、丁三个部门的员工数分别为\n\n名、63 名、210-63-\n\n63=84 名。则调动前，甲、丙、丁三个部门的员工数分别为 63 名、63-20=43 名、63-10=53 名，原乙部\n门有 210-63-43-53=51 名员工。 \n\n方 法 二 ： 调 动 后 ， 甲 、 丁 两 个 部 门 的 员 工 数 分 别 为\n\n名 、\n\n名。则调动前，甲、丁两个部门的员工数分别为 63 名、63-10=53 名，可知\n\n乙部门并入丁部门的员工数为 84-53=31 名，原乙部门有 20+31=51 名员工。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第67题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "化工商店出售200千克某种试剂，前60千克打2折出售，之后60千克打5折出售，剩余部分原价出售。以下坐标 图中，最能准确反映该试剂销量和销售收入之间关系的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，销量分为三段：前 60 千克、之后 60 千克和剩余的 200-（60+60）=80 千克，相对应的收\n入也分为三段：打 2 折、打 5 折和原价，排除 B、C 两项。出售 60 千克该种试剂打 2 折的收入一定低于\n打 5 折的收入，排除 D 项。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第68题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2025_dishi/q068.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某单位65名职工中，拥有甲、乙、丙三项认证中至少一项的职工正好占80%，没有甲认证的职工与有乙认证的 职工人数一样多，仅有丙认证的职工有3人，三项认证都有的职工有6人，问有多少人仅拥有甲、乙两项认证？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "19"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，该单位没有甲、乙、丙三项认证中任何一项的职工人数为 65×（1-80%）=13 人。如图所示，\n设仅有甲、乙两项认证的人数为 x 人，仅有乙、丙两项认证的人数为 y 人，仅有乙认证的人数为 z 人。\n则没有甲认证的职工人数为（z+y+3+13）人，有乙认证的职工人数为（z+y+x+6）人，根据题意可得：\nz+y+3+13=z+y+x+6，解得 x=10，即仅有甲、乙两项认证的人数为 10 人。 2025  国考《行测》（地市级）解析 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第69题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某竞赛由5道次序固定的判断题组成，参赛者起始为0分，每答对1题加1分，每答错1题扣1分。小王作答了所有 试题，答完每道题时当前的得分都不低于1分。问他的答题情况有多少种不同的可能？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“答完每道题时当前的得分都不低于 1 分”可知，第一题和第二题均答对，第三题分情况讨论： \n①第三题答对，此时有 3 分，第四题和第五题不论是答对还是答错，均能保证答完每道题时当前的得分\n都不低于 1 分，故第四题和第五题答题情况均为 2 种，分步用乘法，有 2×2=4 种情况； \n②第三题答错，此时还剩 1 分，所以第四题必须答对，第四题答对后有 2 分，则第五题不论答对还是答\n错均满足题干条件，有 2 种情况。 \n分类用加法，即共有 4+2=6 种情况。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第70题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某种机械由3个A模块和2个B模块组成。甲车间每天可生产6个A模块或3个B模块，乙车间每天可生产1个A模块 或2个B模块。现两车间合作生产40台该机械所需模块，问至少需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "28"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "C",
+    "explanation": "要使所需时间最少，则让两个车间分别生产相对效率更高的模块。甲车间相对于乙车间生产 A 模块的效\n率为 =6，生产 B 模块的相对效率为 =1.5，比较发现，甲车间生产 A 模块的相对效率更高，故先由\n甲车间生产 A 模块，乙车间生产 B 模块。甲车间生产 A 模块需要(40×3)/6=20 天，此时乙车间已生产 B\n模块 2×20=40 个，还剩 40×2-40=40 个 B 模块由两车间共同生产，需要 40/(3+2)=8 天，故至少需要\n20+8=28 天。 \n故正确答案为 C。 \n\n根据题意可列方程组：\n\n+\n\n= 28 × 4\n\n，解得：王=27，张=29，李=31，赵=25。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第71题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "张、王、李、赵4人的平均年龄为28岁，张、王的年龄之和比李大25岁，李、赵的年龄之和比张大27岁。已知 张比王大2岁，问他们4人中年龄最大的比最小的大几岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "张\n\n王\n\n李\n\n+\n\n张\n\n李\n\n+\n\n王\n\n赵\n\n⎧\n⎪\n\n赵\n\n李\n\n张\n\n=\n王\n=\n因此 4 人中年龄最大的李（31 岁）比最小的赵（25 岁）大 31-25=6 岁。 \n=\n故正确答案为 B。 \n\n+\n张\n+\n\n+ 27\n\n+ 25\n\n⎨\n⎪\n⎩\n\n+ 2",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第72题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲船在A港正东n海里，乙船在A港正南 海里，两船相距120海里，同时出发向A港匀速行驶。已知乙船的速 度是甲船的 倍，比甲船早3小时到A港。问甲船的速度是多少海里/小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "10√3"
+      },
+      {
+        "label": "D",
+        "content": "15√3"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，\n\n，解得 n=60，则甲船距离 A 港 60 海里，乙船距离 A 港\n\n海\n\n里。已知乙船的速度是甲船的\n\n倍，则\n\n，根据乙船比甲船早 3 小时到 A 港，可列式：\n\n，即\n\n，解得\n\n。\n\n故正确答案为 A。 2025  国考《行测》（地市级）解析\n\n公众号：樱有尽有，获取",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第73题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "小王计划在7天假期自学甲、乙两门在线课程，每门课程需要连学2整天。如在所有可能的安排中随机选择1 种，不用学习的3天均不相邻的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/7"
+      },
+      {
+        "label": "B",
+        "content": "1/8"
+      },
+      {
+        "label": "C",
+        "content": "1/9"
+      },
+      {
+        "label": "D",
+        "content": "1/10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据公式：概率\n\n，分析如下： \n\n甲、乙两门课程均需要占用相邻的 2 天，可用捆绑法，先将每门课程所占用的 2 天分别捆绑，再将这 2\n个捆绑体和其它 3 天进行排序。因每“天”均相同，不用排序，而两门课程不同，需要排序，则总情况\n\n数\n\n种情况； \n\n根据题意，不用学习的 3 天均不相邻，可用插空法，优先安排学习两门课程的时间，因两门课程不同，\n\n对两门课程进行排序有\n\n种情况，再将剩余 3 天插入两门课程安排好之后形成的 3 个空隙，因每\n\n“天”均相同不用再排序，有\n\n种情况，故满足要求的情况数=2×1=2 种情况。 \n\n综上，所求概率\n\n。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第74题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-dishi-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "一个容器的下部分为高12厘米的倒立圆锥体，上部分为圆柱体，且圆锥和圆柱的底面半径相等。现匀速向容器 中注入水，1分钟后液面高6厘米，又过30分钟后注满。问整个容器的高度为多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "22"
+      },
+      {
+        "label": "B",
+        "content": "个最恰当的答案。"
+      },
+      {
+        "label": "D",
+        "content": "五. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一"
+      },
+      {
+        "label": "C",
+        "content": "23"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，该容器由圆柱体和倒立圆锥体组成，注入水后先注满圆锥体，再注满圆柱体。根据几何等比\n\n例放缩性质，在立体几何中，体积比等于相似比的立方，根据题意可知，\n\n，则相似比为 1：2，故\n\n，因为注入水的流速相同，则\n\n，故注满圆锥体需要用时 8 分钟；水注满圆锥体后，再注满圆柱\n\n体需要用时 1+30-8=23 分钟，因圆锥体和圆柱体的底面半径相等，则二者的底面积相等，设圆锥体和圆\n\n柱体的底面积为 S，圆柱体的高为\n\n厘米，根据公式：\n\n，\n\n，可得\n\n，解\n\n得\n\n厘米，则整个容器的高度为 12+11.5=23.5 厘米。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（地市级）第75题",
+    "level": "dishi"
+  }
+]

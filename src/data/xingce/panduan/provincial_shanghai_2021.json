@@ -1,0 +1,2307 @@
+[
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-026",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "现代社会离不开电能，火力发电仍然是目前重要的发电形式之一，它“吃”进的是煤，“吐”的是电，在这 个过程中的能量转化是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "机械能→内能→化学能→电能"
+      },
+      {
+        "label": "C",
+        "content": "化学能→重力势能→动能→电能"
+      },
+      {
+        "label": "B",
+        "content": "化学能→内能→机械能→电能"
+      },
+      {
+        "label": "D",
+        "content": "内能→化学能→机械能→电能"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：76%，易错项：D。\n解析\n第一步，确定题型。\n本题考查物理学中的能量转化。\n第二步，分析原理。\n火力发电的基本生产过程是：燃料在燃烧时加热水生成水蒸汽，将燃料的化学能转变成热能，在水蒸气的压力推\n动下汽轮机旋转，将热能转换成机械能，然后汽轮机带动发电机旋转，将机械能转变成电能。能量的转化过程为：\n化学能→内能→机械能→电能。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第26题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-027",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "利用下列几组器材中的 ，可以最为方便地判断一段有绝缘外皮包裹的导线中是否有直流电流通过。",
+    "options": [
+      {
+        "label": "A",
+        "content": "小灯泡及导线"
+      },
+      {
+        "label": "B",
+        "content": "铁棒及细棉线"
+      },
+      {
+        "label": "C",
+        "content": "带电的小纸球及细棉线"
+      },
+      {
+        "label": "D",
+        "content": "被磁化的缝衣针及细棉线"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：46%，易错项：A。\n解析\n第一步，确定题型。\n本题考查物理学中的电磁学基础。\n第二步，分析原理。\n通电导线周围存在磁场，可以用这一原理来判断导线中有无电流。把导线拉直沿南北方向平行地放在一个被磁化\n的缝衣针（即小磁针）的上方，如果被磁化的缝衣针有所偏转，则说明缝衣针受到磁场的作用，导线中有电流。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第27题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-028",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图是两车发生交通事故后的现场图，由图片可判断：",
+    "options": [
+      {
+        "label": "A",
+        "content": "一定是甲车去撞乙车的"
+      },
+      {
+        "label": "B",
+        "content": "碰撞前瞬间乙车的速度一定比甲车大"
+      },
+      {
+        "label": "C",
+        "content": "碰撞时两车的相互作用力大小一定相等"
+      },
+      {
+        "label": "D",
+        "content": "碰撞前瞬间两车的动能大小一定相等"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：76%，易错项：B。\n解析\n第一步，确定题型。\n5-\n本题考查物理学中的力学基础。\n第二步，分析选项。\nA项：只根据图中状态，无法判断甲车撞向乙车还是乙车撞向甲车，排除；\nB项：图中状态是两车相撞后的，无法判断碰撞前瞬间两车的速度，排除;\nC项：由于力的作用是相互的，甲给乙的作用力和乙给甲的反作用力大小相等，正确;\nD 项：图中状态是两车相撞后的，无法判断碰撞前瞬间两车的速度，也无法判断动能大小，排除。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第28题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q028.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-029",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "喷水鱼因特殊的捕食方式而得名，能喷出一股水柱，准确击落空中的昆虫作为食物。下列各图中能正确表示 喷水鱼看到昆虫像的光路图的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：52%，易错项：A。\n解析\n第一步，确定题型。\n本题考查物理学中的光的折射。\n第二步，分析原理。\n鱼能看到昆虫，是由于光线从岸上进入到水中的鱼眼中，排除A、B项；根据光的折射规律，光从空气中斜射入\n水中时，折射角小于入射角，而鱼逆着折射光线看到的是昆虫的像，鱼看到的昆虫的像的位置在实物的正上方，\n排除D项。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第29题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q029.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-030",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "分类是科学研究的重要方法，物质可以分为纯净物和混合物，纯净物可以分为单质和化合物。下列四种物质 符合如图所示关系的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "铜"
+      },
+      {
+        "label": "B",
+        "content": "干冰"
+      },
+      {
+        "label": "C",
+        "content": "金刚石"
+      },
+      {
+        "label": "D",
+        "content": "陶瓷"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：58%，易错项：C。\n解析\n第一步，确定题型。\n本题考查化学中的物质分类。\n第二步，分析选项。\nA项：铜（Cu）是金属单质，同时也是导体，分类正确;\nB项：干冰（CO2）是纯净物中的化合物，分类错误;\nC项：金刚石（C）是非金属单质，同时也是原子晶体，分类正确;\nD项：陶瓷成分多而复杂，是混合物，且在一般情况下是绝缘的，属于绝缘体，分类错误。\n因此，选择A，C选项。\n拓展\n本题A、C均为正确选项，系命题人命题不严谨。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第30题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q030.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-031",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "有一根金属丝弯成半圆弧的形状竖直于平面内，蚂蚁从 a 沿金属缓慢爬向 b（a、b 同一水平线），下列说法 正确的是：【杨柳（微信：gwy2887）注：此题来源粉笔题库，华图显示暂缺】",
+    "options": [
+      {
+        "label": "A",
+        "content": "蚂蚁从 a 往圆顶爬时，它受摩擦力向下"
+      },
+      {
+        "label": "B",
+        "content": "蚂蚁从圆顶往 b 爬时，它受摩擦力向下"
+      },
+      {
+        "label": "C",
+        "content": "蚂蚁受的支持力，先增大后减小"
+      },
+      {
+        "label": "D",
+        "content": "蚂蚁受的摩擦力，大小不变"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案是：C\n解析\nA、B项：蚂蚁在沿着金属丝爬行时受到重力的作用，重力会使蚂蚁有沿着金属丝向下滑动的趋势，从a往圆顶\n爬行时，它所受摩擦力的方向沿着斜面的切线向上，蚂蚁从圆顶往b爬行时，它所受摩擦力的方向沿着斜面的切\n线向上，故A、B两项均错误;\nC、D项：设蚂蚁的重力为G，\n蚂蚁和圆心连线与竖直方向的夹角为\"，对蚂蚁进行受力分析（如下图所示），\n蚂蚁在爬行时，受到重力G、摩擦力f、支持力，三个力的作用，蚂蚁在缓慢爬行时所受的合外力为O，根据\n受力平衡重力的分力的大小等于摩擦力，即f=Gsinθ，支持力V=Gcos，蚂蚁在爬行的过程中，先减小，后\n增大，则摩擦力f先减小，后增大，支持力先增大，后减小。故C项正确，D项错误。\nN =Gcos0\nf=Gsinθ\nR\nθ\nb\n故正确答案为C。\n-6-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第31题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-032",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，一个弹性小球从 a 点静止释放，竖直撞击水平地面后反弹，已知空气阻力大小恒定，撞击地面无 能量损失。对于小球下落后反弹至最高点的过程中，下列说法正确的是： - 5 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "因为空气阻力大小不变，所以下落过程阻力做功等于反弹时阻力做的功"
+      },
+      {
+        "label": "B",
+        "content": "因为撞击时地面给小球向上的作用力，所以小球反弹的最高点高于 a 点"
+      },
+      {
+        "label": "C",
+        "content": "小球下落过程中空气阻力做负功，反弹过程中空气阻力做正功"
+      },
+      {
+        "label": "D",
+        "content": "小球下落过程和反弹过程均是匀变速直线运动，但加速度不同"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：56%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的能量转化和做功问题。\n第二步，分析选项。\nA项：由于下降和反弹的过程中空气阻力一直做功，所以反弹的高度一定低于原高度，由W=FS可知，反弹时阻\n力做功小于下落过程中的阻力做功，错误;\nB项：因为空气阻力一直做功，所以机械能变小，所以反弹的高度低于a点，错误;\nC项：因为小球所有阻力的方向始终与小球的运动方向相反，所以下落过程和反弹过程中空气阻力均做负功，错\n误；\nD项：小球在下降的过程中受到向下的重力和向上的阻力，合力为二者的差，反弹过程中受到向下的重力和向下\n的阻力，合力为二者的和，因为所受合力不同，所以两个过程中的加速度不同，又由于空气阻力大小恒定，所以\n两个合力均为定值，加速度不变，即均为匀变速直线运动，正确。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第32题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q032.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-033",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "已知化学反应进行前后，参加反应的物质种类发生变化，总质量不发生变化,催化剂的质量也不发生变化。 某密闭容器内有四种物质，反应一段时间后，测得反应前后各物质的质量如下表所示。下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "丁一定是单质"
+      },
+      {
+        "label": "C",
+        "content": "该反应是分解反应"
+      },
+      {
+        "label": "B",
+        "content": "M 的值是 15"
+      },
+      {
+        "label": "D",
+        "content": "反应中的甲、丙质量比为 15:27"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：60%，易错项：D。\n解析\n第一步，确定题型。\n本题考查化学中的化学反应。\n第二步，分析选项。\nA项：通过表格只能确定丁的物质量增加，属于生成物，不能确定其是否为单质，错误;\nB项：因为前后反应的总物质量不发生变化，所以可得：90+11+5十8=36+M十35十32，可得M=11，错误;\nC项：由于乙物质的量没有发生变化，即为催化剂，甲物质质量减少，即为反应物，丙和丁物质质量增加，即为\n生成物，所以此反应为一种物质在催化剂作用下生成两种物质的反应，即分解反应，正确;\nD项：此反应中甲物质的消耗量为54g，丙物质的生成量为30g，所以反应中二者的物质量之比为27：15，错误。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第33题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q033.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-034",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "“绿色化学”要求物质回收或循环利用，反应物原子利用率为 100%，且全部转化为产物,“三废”必须先处 理再排放。下列做法或反应符合“绿色化学”要求的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A项：焚烧塑料会产生大量的废气污染空气，不符合条件中的“绿色化学”要求，错误；\nB项：深埋含镉、汞的废旧电池，没有先处理再排放，不符合“绿色化学”要求，并且深埋处理会污染土壤和水源，错误；\nC项：由化学反应方程式可知，丙炔、氢气、一氧化碳反应生成戊二醛，原子的利用率为，符合“绿色化学”要求，正确；\nD项：利用高锰酸钾加热生产氧气，产物还有锰酸钾和二氧化锰，原子的利用率不足，不符合“绿色化学”要求，错误。\n故正确答案为C。\n\n[来源 baijing1.top paperId=100 sort=34 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第34题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q034.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-035",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "铝是地壳中含量最丰富的金属元素，具有良好的导电性和延展性，属于轻金属。下列有关铝的用途和性质， 表述错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "航空材料，密度小"
+      },
+      {
+        "label": "B",
+        "content": "电线电缆，导电性"
+      },
+      {
+        "label": "C",
+        "content": "耐火材料，熔点高"
+      },
+      {
+        "label": "D",
+        "content": "铝箔，延展性好"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：52%，易错项：B。\n解析\n第一步，确定题型。\n本题考查化学物质的特性。\n第二步，分析选项。\nA项：铝的重量轻,差不多是同体积铜或钢的1/3 重量，同时具有防腐蚀能力强等特性，可以用来做航空材料,\n正确;\nB项：铝具有良好的导电性，常被用来做电线电缆材料，正确;\nC项：铝的熔点是660℃，而一般的耐火材料要求熔点达到千度以上，因此不能用铝做耐火材料，错误;\nD项：因为铝的延展性好，所以可以压制成0.005 毫米的铝箔用于包装，正确。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第35题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-036",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "制作变色眼镜时需要加入溴化银或者氯化银，这是利用溴（氯）化银光照分解生成银和溴（氯）单质的原理。 以下物质中无色透明的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "溴化银"
+      },
+      {
+        "label": "B",
+        "content": "银"
+      },
+      {
+        "label": "C",
+        "content": "溴单质"
+      },
+      {
+        "label": "D",
+        "content": "氯气单质"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：35%，易错项：C。\n解析\n7\n第一步，确定题型。\n本题考查化学反应。\n第二步，结合化学过程进行分析。\n可以起到反光的作用，表明三者均不为透明物质，溴化银为无色透明物质。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第36题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-037",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，符合所给图形的变化规律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：71%，易错项：C。\n解析\n第一步，观察特征。\n图形组成相同，考虑动态位置类。\n第二步，一条式，从左到右找规律。\n图一内部图形顺时针旋转一次，整体沿着八边形移动一个边得到图二，图二内部图形顺时针旋转一次，整体沿着\n八边形移动两个边得到图三，图三内部图形顺时针旋转一次，整体沿着八边形移动三个边得到图四，依此规律，\n图四内部图形顺时针旋转一次，整体沿着八边形移动四个边得到问号处图形，只有B项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第37题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q037.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-038",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，符合所给图形的变化规律的是： - 6 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：78%，易错项：A。\n解析\n第一步，观察特征。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段中，图三是以图二的方向为方向、以图一的数量的二倍为数量得到的，第二段用规律，只有B项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第38题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q038.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-039",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：84%，易错项：C。\n解析\n第一步，观察特征。\n组成元素相似，优先考虑样式类规律。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段第三个图形是一个笑脸，外框是一个大圆，该圆第一幅图有，第二幅没有。第三幅图中的两个小圆只有第\n二幅图有，说明是去同存异。应用到第二段，只有B项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第39题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q039.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-040",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：29%，易错项：C。\n解析\n第一步，观察特征。\n组成元素相同，优先考虑位置类规律。\n第二步，一条式，从左到右找规律。\n整体上看，第1列的元素数量最多，后面依次减少。并且元素位置呈阶梯状，也就是说在最底下的三角形它的位\n置一直在向上走，当三角形跟黑点重合后方向会变，由尖朝上变成尖朝下，步数也由一步变两步，第6列三角\n形尖朝上，因此向上移动一步，排除C项和D项。同理，梯形向上走三步之后和圆点重合，方向发生改变。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第40题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q040.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-041",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，可以由左图折叠而成的立体图是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：69%，易错项：B。\n解析\n第一步，本题考查立体图折纸盒。\n为展开图中的各面进行标号，如下图所示：\n第二步，分析选项。\nA项：侧面两个面在展开图中是相对面，不能同时出现，排除；\nB项：在平面展开图中，有对角线的小正方形面与两个有对角线的梯形面，对角线相交于一点，选项中没有相交,\n排除；\nD项：在平面展开图中，有对角线的小正方形面与两个有对角线的梯形面，对角线相交于一点，选项中没有相交，\n排除。\n-8 -\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第41题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q041.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-042",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，符合所给图形变化规律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：50%，易错项：B。\n解析\n第一步，观察特征。\n图形组成相似，考虑样式类。\n第二步，两段式，第一段找规律，第二段应用规律。\n第一段，图一顺时针旋转90度后，与图二相加，得到图3；第二段中，图一顺时针旋转90度后，与图二相加,\n只有A项符合。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第42题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q042.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-043",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，符合所给图形的变化规律的是： - 7 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：62%，易错项：C。\n解析\n第一步，观察特征。\n图形组成相似，考虑样式类。\n第二步，第一行找规律，第二行验证规律，第三行用规律。\n第一行中六幅图叠加之后得到完整的正方形，第二行验证之后符合该规律，第三行用规律，只有B项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第43题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q043.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-044",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，符合所给图形的变化规律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：72%，易错项：C。\n解析\n第一步，观察特征。\n图形组成相同，考虑动态位置类。\n第二步，一条式，从左往右找规律。\n左右上下中五个位置有自己的移动路径，左边位置图形移动到上方，右边位置图形移动到左边，上方位置图形移\n动到下方，下方位置图形移动到中间，中间位置移动到右方，只有A项符合。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第44题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q044.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-045",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，符合所给图形的变化规律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：50%，易错项：B。\n解析\n第一步，观察特征。\n图形组成相似，考虑样式类。\n第二步，找规律。\n图一上半部分向下翻转之后与下半部分叠加得到图二，图三上半部分向下翻转之后与下半部分叠加得到C项。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第45题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q045.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-046",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：75%，易错项：B。\n解析\n第一步，观察特征。\n所给图形均为立体图形，考虑立体图形的相关知识点。\n第二步，一条式，从左到右找规律。\n立体图形横截面都是圆，只有D项符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第46题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q046.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-047",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： - 8 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：40%，易错项：A。\n解析\n第一步，观察特征。\n组成元素相似，优先考虑样式类规律。\n第二步，两段式，第一段找规律，第二段应用规律。\n第一段中图一与图二框线内外互换，内部横线求同，外部竖线求同，得到图三，第二段用规律，只有B项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第47题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q047.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-048",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：60%，易错项：C。\n解析\n第一步，观察特征。\n9.\n组成元素相同，优先考虑位置类规律。\n第二步，一条式，从左到右找规律。\n图中一共是三个大小不一样的阴影三角形，它们整体沿直线向逆时针方向翻转。只有B项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第48题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q048.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-049",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "研究人员发现一颗距离地球仅 16 光年的行星上具有与地球相似的温度和气候条件，因此很有可能在这颗行 星上发现生命存在的迹象。 如果上述结论成立，需要下列哪项作为前提假设？",
+    "options": [
+      {
+        "label": "A",
+        "content": "该行星上的生命存在条件与地球上的类似"
+      },
+      {
+        "label": "B",
+        "content": "该行星距离地球的距离越近越好"
+      },
+      {
+        "label": "C",
+        "content": "研究人员还需经过长期的观测才能发现这颗行星上的生命迹象"
+      },
+      {
+        "label": "D",
+        "content": "生物必须要在固定的温度和气候条件下才能存活"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：50%，易错项：D。\n解析\n第一步，确定题型。\n根据提问方式中的“\n前提假设”，确定为加强论证。\n第二步，找论点和论据。\n论点：很有可能在这颗行星上发现生命存在的迹象。\n论据：研究人员发现一颗距离地球仅16光年的行星上具有与地球相似的温度和气候条件。\n第三步，辨析选项。\nA项：建立联系。“该行星上的生命存在条件与地球上的类似”，在论据和论点之间建立联系，具有加强作用。\nB项：无关选项。“该行星距离地球的距离越近越好“，该行星距离地球的距离是否越近越好，与该行星上是否\n存在生命没有关系，论题不一致，排除。\nC项：无关选项。“研究人员还需经过长期的观测才能发现这颗行星上的生命迹象“，研究人员需要经过多长的\n观测才能发现这颗行星上的生命迹象，与该行星上是否存在生命没有关系，论题不一致，排除。\nD项：无关选项。该行星上具有与地球相似的温度和气候条件，不等于该行星上具有固定的温度和气候条件。\n所以该行星上存在生命不需要“生物必须要在固定的温度和气候条件下才能存活“这样的前提假设，论题不一致，\n排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第49题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-050",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "根据中国和美国政府机构专家组成的工作组测算,美国官方统计的对华贸易逆差被高估了 20%左右。更令人 难以信服的是,美国政府引用的贸易数据只包括货物贸易,并未反映服务贸易。如果算进去,所谓的“贸易不平衡 论”就更立不住了。 上述结论建立在下列哪项假设的基础之上？",
+    "options": [
+      {
+        "label": "A",
+        "content": "美国对华服务贸易逆差巨大"
+      },
+      {
+        "label": "B",
+        "content": "美国对华服务贸易存在高额顺差"
+      },
+      {
+        "label": "C",
+        "content": "美围购买了中国很多的工业产品"
+      },
+      {
+        "label": "D",
+        "content": "美国购买了中国很多的劳务服务"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：65%，易错项：D。\n解析\n第一步，确定题型。\n根据提问方式中的“假设”，确定为加强论证。\n第二步，找论点和论据。\n论点：如果算讲去，所谓的“贸易不平衡论”就更立不住了。\n论据：根据中国和美国政府机构专家组成的工作组测算，美国官方统计的对华贸易逆差被高估了20%左右。更令\n人难以信服的是，美国政府引用的贸易数据只包括货物贸易。\n第三步，辨析选项。\nA项：增加反向论据，美国对华服务贸易逆差巨大，而这个数据又没有统计，说明美国并没有高估对华贸易逆差,\n具有削弱作用。\nB 项：补充前提。美国对华服务贸易存在高额顺差，这一数据并未统计在美国引用的贸易数据中，说明如果算进\n去，“贸易不平衡论”就更立不住了，具有加强作用。\nC项：无关选项。购买了很多工业产品，并未指出美国对华贸易是顺差还是逆差，论题不一致，排除。\nD项：无关选项。购买了很多劳务服务，此选项并未指出美国对华贸易是顺差还是逆差，论题不一致，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第50题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-051",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "哺乳动物在衰老过程中，大脑中的小胶质细胞会转变为促炎表型，出现过度活化，进而产生损害认知和运动 功能的化学物质。这是为什么人到老年大脑功能会衰退的原因之一。实验表明，多补充膳食纤维，可以平衡与年 龄有关的肠道微生物群失调，从面提高血液中丁酸盐的水平。研究人员据此建议老年人多吃富含膳食纤维的食物， 称这有助于他们延缓大脑功能衰退的进程。 下列 （ ） 项如果为真，最能支持上述研究人员建议。",
+    "options": [
+      {
+        "label": "A",
+        "content": "膳食纤维会促进肠道中有益细菌的生长，产生多种短链脂肪酸"
+      },
+      {
+        "label": "B",
+        "content": "丁酸盐可以减轻大脑中的小胶质细胞的促炎表型，增强细胞抗炎能力"
+      },
+      {
+        "label": "C",
+        "content": "多吃富含膳食纤维的食物需要增加牙齿的咀嚼，这增加了口腔的运动量"
+      },
+      {
+        "label": "D",
+        "content": "老年人吸收功能降低，多吃富含膳食纤维的食物可以增加肠道蠕动"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：83%，易错项：A。\n解析\n第一步，确定题型。\n根据提问方式中的“支持”，确定为加强论证。\n第二步，找论点和论据。\n论点：老年人多吃富含膳食纤维的食物，有助于他们延缓大脑功能衰退的进程。\n论据：哺乳动物在衰老过程中，大脑中的小胶质细胞会转变为促炎表型。多补充膳食纤维，可以平衡与年龄有关\n的肠道微生物群失调，从而提高血液中丁酸盐的水平。\n第三步，辨析选项。\nA项：不明确项。“膳食纤维会促进肠道中有益细菌的生长，产生多种短链脂肪酸“，短链脂肪酸是否有助于延\n缓大脑功能衰退的进程，不明确，排除。\nB 项：增加论据。哺乳动物在衰老过程中，大脑中的小胶质细胞会转变为促炎表型。多补充膳食纤维，可以提高\n血液中丁酸盐的水平。再加上“丁酸盐可以减轻大脑中的小胶质细胞的促炎表型”，就可以得出多吃富含膳食纤\n- 10 -\n维有助于延缓衰老的结论，具有加强作用。\nC项：不明确项。“多吃富含膳食纤维的食物需要增加牙齿的咀嚼，这增加了口腔的运动量“，增加牙齿的咀嚼\n和口腔的运动量是否有助于延缓大脑功能衰退的进程，不明确，排除。\nD项：不明确项。“老年人吸收功能降低，多吃富含膳食纤维的食物可以增加肠道的蠕动“，增加肠道的蠕\n动是否有助于延缓大脑功能衰退的进程，不明确，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第51题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-052",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "有些人正是因为吃了太多肉类和海鲜，畅饮了过多啤酒，导致尿酸水平升高，造成尿酸盐在关节和肾脏部位 沉积，才使他们患上痛风。因此，患上痛风，对于判断这些患者是否吃了太多肉类和海鲜，畅饮了过多啤酒是一 项必不可少的条件。 下列（ ）项如果为真，最能削弱上述断定。",
+    "options": [
+      {
+        "label": "A",
+        "content": "有些人吃了太多的肉类和海鲜，畅饮了过多的啤酒，经检验的确患有痛风"
+      },
+      {
+        "label": "B",
+        "content": "有些人没有吃太多的肉类和海鲜，畅饮过多的啤酒，但是患有痛风"
+      },
+      {
+        "label": "C",
+        "content": "有些人没有吃太多的肉类和海鲜，畅饮过多的啤酒，也未患有痛风"
+      },
+      {
+        "label": "D",
+        "content": "有些人吃了太多的肉类和海鲜，畅饮了过多的啤酒，但是并未患有痛风"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：50%，易错项：B。\n解析\n第一步，确定题型。\n根据提问方式中的“削弱”，确定为削弱论证。\n第二步，找论点和论据。\n论点：患上痛风，对于判断这些患者是否吃了太多肉类和海鲜，畅饮了过多啤酒是一项必不可少的条件。（翻译\n为：吃了太多肉类和海鲜且畅饮了过多啤酒→痛风)\n论据：有些人正是因为吃了太多肉类和海鲜，畅饮了过多啤酒，才使他们患上痛风。\n第三步，辨析选项。\nA项：增加论据。该项指出“有些人吃了太多的肉类和海鲜，畅饮了过多的啤酒”，得了“痛风”，对于论点的\n翻译形式而言，属于“肯前推肯后”，即与论点表达一致，具有加强作用。\nB项：不明确项。该项指出“有些人没有吃太多的肉类和海鲜，畅饮过多的啤酒”，得了“痛风”，对于论点的\n翻译形式而言，属于“否前推肯后”，即属于可能性的推理，不具有削弱作用。\nC项：不明确项。该项指出“有些人没有吃太多的肉类和海鲜，畅饮过多的啤酒”，没有得“痛风”，对于论点\n的翻译形式而言，属于“否前推否后”，即属于可能性的推理，不具有削弱作用。\nD项：否定论点。该项指出“吃了太多肉类和海鲜，畅饮了过多啤酒”，但是没有得“痛风”，是论点翻译形\n式的矛盾命题，具有削弱作用。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第52题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-053",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "在针对某病症的一项医药疗效的双盲实验中，某课题组将实验对象分成两个组：实验组和对照组、两组的重 症率都在 20%左右，和同期患该病症的整体重症率相当。实验结果显示：对照组 18 例中死亡 7 人，病死率为 39%； 使用该药的实验组 34 例中死亡 3 人、病死率仅为 8.8%。课题组由此认为、该药物对此病症具有明显的疗效。 下列 （ ） 项如果为真，最能质疑课题组的结论。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：找出论点和论据。\n论点：该药物对此病症具有明显的疗效。\n论据：某课题组将实验对象分成两个组：实验组和对照组，两组的重症率都在左右，和同期患该病症的整体重症率相当。实验结果显示：对照组18例中死亡7人，病死率为；使用该药的实验组34例中死亡3人，病死率仅为。\n本题论点讨论的是该药物对此病症有明显的疗效，论据讨论的是通过对比实验说明用了该药物的实验组病死率较低，从而说明该药物有效果。论点和论据讨论的话题一致，优先考虑削弱论点。\n第二步：逐一分析选项。\nA项：该项讨论的是没有全部公开该药物的组成成分，但药物组成成分没有全部公开与药物是否有效无关，为无关选项，无法削弱，排除；\nB项：该项说明了同期患该病症的整体死亡率为，比题干中实验组用该药后的病死率低，说明使用了该药物对此病症效果不明显，削弱论点，当选；\nC项：论点讨论的是该药物对此病症具有明显的疗效，而选项讨论的是普通人群中患该病症的人数比例极小，与论点话题不一致，为无关选项，无法削弱，排除；\nD项：该项说明该药物配方有记载可依，但是没提到该药物对于此病症的效果如何，与论点话题不一致，为无关选项，无法削弱，排除。\n故正确答案为B。\n\n[来源 baijing1.top paperId=100 sort=53 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第53题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-054",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "在一项考试成绩提升计划实施前，负责老师统计了参与该计划的、学业表现不佳的学生每天花在网上的平均 时间。他重新制定了这些学生的学习计划，要求他们每天减少上网时间，并预测了遵守其要求的学生的考试成绩",
+    "options": [
+      {
+        "label": "D",
+        "content": "在古代医药典籍中，就已经记载有该药物的配方 - 9 - ） 项。"
+      },
+      {
+        "label": "B",
+        "content": "钱、孙、周一队"
+      },
+      {
+        "label": "C",
+        "content": "钱、孙、吴一队 D、赵、孙、李一队 ）项如果为真，最能解释上述现象。 B、若功名富贵不常在，则汉水不应西北流 D、若汉水能西北流，则功名富贵能常在 所可能的提升幅度。但是，考试成绩评定的最终结果表明，这些学生的成绩提升幅度并没有达到预期水平。 下列 （"
+      },
+      {
+        "label": "A",
+        "content": "在计划结束前夕，参与计划的不少学生主动减少了比老师所要求的更多的上网时间 B、根据重新制定的学习计划，所有的课后作业都需要通过在线学习平台来完成和提交 C、参与计划的学生每天上网时间的减少不会对他们完成新的学习计划产生影响 D、该负责老师成功预测过参与其他考试成绩提升计划的学生的成绩提升幅度"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：37%，易错项：C。\n解析\n第一步，确定题型。\n根据提问方式“解释”，确定为原因解释。\n第二步，分析题干。\n重新制定了这些学生的学习计划，要求他们每天减少上网时间，并预测了遵守其要求的学生的考试成绩所可能的\n提升幅度。但是考试成绩评定的最终结果表明，这些学生的成绩提升幅度并没有达到预期水平。\n第三步，辨析选项。\nA项：只说了减少了更多的上网时间，没有涉及成绩话题，排除;\nB项：因为很多课后作业需要在线学习平台来完成和提交，现在减少上网时间就影响了学习效果，所以成绩提升\n幅度没有达到预期，可以解释;\nC项：学生完成新的学习计划产生的影响是提升还是下降，不明确，排除；\n-11 -\nD项：成功预测过其他考试成绩的提升幅度不代表可以成功预测此次成绩，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第54题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-055",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "李白的《江上吟》末二句云：“功名富贵若常在，汉水亦应西北流。”汉水，又名汉江，发源于今陕西省宁 强县，东南流经湖北襄阳，至汉口汇入长江。 根据以上信息，下列哪项最符合李白的观点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "功名富贵能常在，但汉水不应西北流"
+      },
+      {
+        "label": "B",
+        "content": "若功名富贵不常在，则汉水不应西北流"
+      },
+      {
+        "label": "C",
+        "content": "功名富贵不能常在"
+      },
+      {
+        "label": "D",
+        "content": "若汉水能西北流，则功名富贵能常在"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】【考点】判断推理—逻辑判断—必然性推理—假言命题\n【难易度】中\n【易错项】B\n【考频】高\n【思路】\n本题考查假言命题。整理题干信息为：①功名富贵常在⇒汉水西北流；②汉水实际上是东南\n流。A 项，功名富贵常在⇒汉水不向西北流，功名富贵常在是对条件①前件的肯定，根据推\n理规则，肯前必肯后，应该得到“汉水向西北流”，因此该项不符合题意，不能推出，排除；\nB 项，功名富贵不常在⇒汉水不向西北流，功名富贵不常在是对条件①前件的否定，否前得\n不到必然结论，不能推出，排除；C 项，题干条件②是对条件①后件的否定，否后必否前，\n可得“功名富贵不能常在”，该项可以推出，保留；D 项，汉水西北流⇒功名富贵常在，汉\n水西北流是对条件①后件的肯定，肯后得不到必然结论，不能推出，排除。\n因此，答案为 C。\n[Source: 上海 2021 行测 B 卷 PDF (attachment-gwy-com) 第 52 题，题干匹配度 96%]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第55题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-056",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "赵、钱、孙、李、周、吴打算组队参加创新创业大赛。大赛规定一个团队必须为三位选手，赵说：“钱和李 肯定不能组成一队。钱说：“孙在哪队，我就在哪队。”孙说：我没和赵、李一队。”李说：“我和钱、孙一队。” 周说：“我和赵不能在一队。”吴说：“我和周不在一队。” 如果六个人中有五个人的话为真，那么下列选项中正确的是（",
+    "options": [
+      {
+        "label": "A",
+        "content": "赵、钱、孙一队"
+      },
+      {
+        "label": "B",
+        "content": "钱、孙、周一队"
+      },
+      {
+        "label": "C",
+        "content": "钱、孙、吴一队"
+      },
+      {
+        "label": "D",
+        "content": "赵、孙、李一队"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】【考点】判断推理—逻辑判断—必然性推理—朴素逻辑\n【难易度】中\n【易错项】C\n【考频】高\n【思路】\n本题考查朴素逻辑。根据题干条件每队三个人，并且五个人的话为真，采用代入排除法进行\n验证：\n代入 A 项：赵对、钱对、孙错、李错、周对、吴错，不符合题意，排除；\n代入 B 项：赵对、钱对、孙对、李错、周对、吴对，符合题意，保留；\n代入 C 项：赵对、钱对、孙对、李错、周错、吴对，不符合题意，排除；\n代入 D 项：赵对、钱错、孙错、李错、周对、吴错，不符合题意，排除。\n因此，答案为 B。\n[Source: 上海 2021 行测 B 卷 PDF (attachment-gwy-com) 第 56 题，题干匹配度 100%]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第56题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-057",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某单位 2019 年初招聘了 8 名研发人员，他们都非常优秀。其中，小李、小孔和小陈 3 人研发小组表现尤其 突出。该团队氛围极佳，组长小陈非常关心小李和小孔，而小李非常敬佩小孔，小孔非常敬佩小陈。年终时，小 陈获得了四项发明专利，小李获得了五项发明专利。 根据以上信息，可以得出下列哪项？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小孔的发明专利比小陈多"
+      },
+      {
+        "label": "B",
+        "content": "组长小陈获得的发明专利最多"
+      },
+      {
+        "label": "C",
+        "content": "小李的发明专利没有小孔多"
+      },
+      {
+        "label": "D",
+        "content": "有人获得的发明专利比其敬佩的人多"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：分析题干所给信息。\n（1）组长小陈非常关心小李和小孔；\n（2）小李非常敬佩小孔；\n（3）小孔非常敬佩小陈；\n（4）小陈获得了四项发明专利；\n（5）小李获得了五项发明专利。\n第二步：根据题干信息逐一分析选项。\nA项：题干中没有提及小孔的发明专利数量，无法推出，排除；\nB项：组长小陈获得了四项发明专利，小李获得了五项发明专利，则小陈的发明专利不是最多的，无法推出，排除；\nC项：题干中没有提及小孔的发明专利数量，无法推出，排除；\nD项：由于小孔的发明专利数量不明，因此对小孔的发明专利数量进行假设：\n假设小孔的发明专利数量不超过4，根据小李获得了五项发明专利，且小李非常敬佩小孔，可以推出有人获得的发明专利比其敬佩的人多；\n假设小孔的发明专利数量大于4，根据小陈获得了四项发明专利，且小孔非常敬佩小陈，可以推出有人获得的发明专利比其敬佩的人多。\n综合以上两种情况，D项当选。\n故正确答案为D。\n\n[来源 baijing1.top paperId=100 sort=57 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第57题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-058",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "将 6 盒茶叶放入甲、乙、丙、丁、戊、己、庚、辛八个箱子中，其中四个箱子有茶叶。已知： （1）在甲、乙、丙、丁四个箱子中共有 5 盒茶叶； （2）在丁、戊、己三个箱子中共有 3 盒茶叶； （3）在丙、丁两个箱子中共有 2 盒茶叶。 根据以上信息，可以得出下列哪项？",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲箱中至少有 1 盒"
+      },
+      {
+        "label": "B",
+        "content": "乙箱中至少有 2 盒"
+      },
+      {
+        "label": "C",
+        "content": "己箱中至少有 2 盒"
+      },
+      {
+        "label": "D",
+        "content": "戊箱中至少有 1 盒"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】【考点】判断推理—逻辑判断—必然性推理—朴素逻辑\n【难易度】中\n【易错项】B\n【考频】高\n【思路】\n本题考查朴素逻辑。整理题干信息为：①6 盒茶叶在 8 个箱子中，其中 4 个箱子有茶叶；②\n甲、乙、丙、丁中有 5 盒茶叶；③丁、戊、己中有 3 盒茶叶；④丙、丁中有 2 盒茶叶。根据\n题干条件①②可知戊、己、庚、辛四个箱子中只有 1 盒茶叶；再根据条件③，假设戊、己中\n没有茶叶，那么丁中应有 3 盒茶叶，与条件④矛盾，假设不成立，所以戊、己中有一盒茶叶，\n庚和辛是空的。因为戊和己中有一盒茶叶，所以丁中有两盒茶叶，根据条件④，丙中没有茶\n叶。根据以上推理可知，丙、庚、辛是空的，并且戊和己中只有一盒茶叶，所以戊和己中有\n一个是空箱，根据条件①可知，四个箱子中有茶叶，所以，甲、乙、丁和（戊或己）中有茶\n叶，所以甲和乙中至少有一盒。\n因此，答案为 A。\n[Source: 上海 2021 行测 B 卷 PDF (attachment-gwy-com) 第 55 题，题干匹配度 100%]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第58题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-059",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列（    ）项组合方案满足上述对于研发团队的要求。",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲、丙、丁、己、庚"
+      },
+      {
+        "label": "B",
+        "content": "甲、丁、戊、己、辛"
+      },
+      {
+        "label": "C",
+        "content": "乙、丙、戊、己、辛"
+      },
+      {
+        "label": "D",
+        "content": "乙、丁、戊、己、庚"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，整理题干条件。\n（1）丙或庚；\n（2）乙丁；\n（3）戊和辛要么都参加，要么都不参加。\n第二步，根据题干条件分析选项。\n根据条件（1）可知，丙和庚不能同时参加，排除A项；根据条件（2）可知，乙参加，丁一定参加，排除C项；根据条件（3）可知，戊和辛要么都参加，要么都不参加，排除D项。\n故正确答案为B。\n\n[来源 baijing1.top paperId=100 sort=59 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第59题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-060",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如果甲没有参加，则下列（",
+    "options": [
+      {
+        "label": "A",
+        "content": "理科生只有戊参加"
+      },
+      {
+        "label": "B",
+        "content": "组长小陈获得的发明专利最多"
+      },
+      {
+        "label": "D",
+        "content": "有人获得的发明专利比其敬佩的人多 ）项组合方案满足上述对于研发团队的要求。 D、乙、丁、戊、己、庚"
+      },
+      {
+        "label": "C",
+        "content": "乙、丙、戊、己、辛 B、甲、丁、戊、己、辛 D、戊箱中至少有 1 盒 B、乙箱中至少有 2 盒 C、己箱中至少有 2 盒 B、工科生只有己参加 D、3 名工科生都参加 C、3 名理科生都参加 ）项可能为真。 第三部分 数理能力"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：53%，易错项：B。\n解析\n第一步，确定题型。\n题干具有匹配特征，确定为分析推理。\n第二步，分析条件，进行推理。\n本题条件为“甲没有参加”：\n根据条件“文科生至少一个参加”，甲不参加，那么乙必须参加;\n根据条件（2），乙参加，那么丁参加，丁是理科，所以理科不只有戊参加，排除A项;\n接下来用代入法验证:\n代入B项：如果工科生只有己，即庚和辛不参加，根据条件“戊和辛要么都参加，要么都不参加”，戊也不参加,\n此时甲、戊、庚、辛四人不参加，无法组成5人的团队，不符合条件；\n代入C项：3名理科生都参加，即丙丁戊都参加，根据条件“戊和辛要么都参加，要么都不参加”，辛也要参加，\n此时的五人为：乙、丁、丙、辛、戊，与条件不冲突，符合条件;\n代入D项：3名工科生都参加，即己庚辛都参见，根据条件“戊和辛要么都参加，要么都不参加”，戊也要参加，\n此时参加的人为：乙、丁、己、庚、辛，戊，人数多于5人，不符合条件。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第60题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-061",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "数列：2，2，3/2，1，5/8，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3/8"
+      },
+      {
+        "label": "B",
+        "content": "0"
+      },
+      {
+        "label": "C",
+        "content": "7/16"
+      },
+      {
+        "label": "D",
+        "content": "3/4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：47%，易错项：C。\n解析\n第一步，本题考查非整数数列中的分数数列。\n1\n2\n3\n4\n5\n1\n2\n4.\n8\n分子是公差为1的等差数列，则下一项为5+1=6;\n分母是公比为2的等比数列，则下一项为8×2=16。\n\n[PDF 题源缺失-D17e] E-2 vision 侦查确认原 PDF 此题为缺失/图形选项/模块挂错。lib 模块归类错（实际数字推理被错挂 panduan），救援需 D-9 重抽 + 模块迁移前端 isUnanswerable 应过滤此题。\n\n[由E3F-internet-answer救援-D17e] 2026-05-24 互联网真题库 + vision 双源核实救援。\n来源：PDF p010 vision 直接读取（D-11 OCR 仅抽到 B=0），规律自推\n【F-阶段救援】通分原数列：2=2/1, 2=4/2, 3/2=6/4, 1=8/8, 5/8=10/16。分子 2,4,6,8,10 等差递增 +2，下项 12；分母 1,2,4,8,16 等比 ×2，下项 32。故第 6 项 = 12/32 = 3/8。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第61题",
+    "region": "shanghai",
+    "meta": {
+      "rescuedBy": "E3F-internet-answer-D17e",
+      "rescuedAt": "2026-05-24T20:08:44+08:00",
+      "rescueScope": "content+options+answer+explanation"
+    }
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-062",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "根据下图规律，“？”处图形有 个白色小正方形。 - 10 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：68%，易错项：C。\n解析\n第一步，本题考查数图推理。\n第二步，观察后发现白色方块的数量分别为：6，8，10是公差为2的等差数列，则第10项为6十（10-1）×2\n=24。\n因此，选择D选项。\n63、正确答案：C，全站正确率：81%，易错项：B。\n解析\n第一步，项数较多，考虑多重数列。\n第二步，每个组的数字相加之后可得：7，14，28，56，（112），是公比为2的等比数列，因此所求项的两个数\n字之和为56×2=112，相加等于112的只有C选项。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第62题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q062.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-063",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "数列：（3，4），（6，8），（13，15），（27，29），",
+    "options": [
+      {
+        "label": "A",
+        "content": "（53，55）"
+      },
+      {
+        "label": "B",
+        "content": "（54，55）"
+      },
+      {
+        "label": "C",
+        "content": "（55，57）"
+      },
+      {
+        "label": "D",
+        "content": "（56，58）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "则所求项为\n16—\n8\n因此，选择A选项。\n62、正确答案：D，全站正确率：68%，易错项：C。\n解析\n第一步，本题考查数图推理。\n第二步，观察后发现白色方块的数量分别为：6，8，10是公差为2的等差数列，则第10项为6十（10-1）×2\n=24。\n因此，选择D选项。\n63、正确答案：C，全站正确率：81%，易错项：B。\n解析\n第一步，项数较多，考虑多重数列。\n第二步，每个组的数字相加之后可得：7，14，28，56，（112），是公比为2的等比数列，因此所求项的两个数\n字之和为56×2=112，相加等于112的只有C选项。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第63题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-064",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "数列：[1，2]=3，[1，2，3]=0，[1，2，3，4]=4，[1，2，3，4，5]=-1，[1，2，3，4，5，6]=5，[1，2， 3，4，5，6，7]=-2，[1，2，3，4，5，6，7，8]=6，···，则[1，2，3，···，100]=",
+    "options": [
+      {
+        "label": "A",
+        "content": "52"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "﹣50"
+      },
+      {
+        "label": "D",
+        "content": "﹣52"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：46%，易错项：B。\n- 13 -\n解析\n第一步，本题考查特殊数列。\n第二步，观察发现1+2=3，1+2-3=0，1+2—3+4=4，1+2一3+4一5=－1，1+2一3+4一5+6=5，·……·那么[1，2，3,\n4……··100]=1+2-3+4—5+….-99+100=1+2+（-3+4）+（-5+6）…+（-99+100）=1+2+1×49=52。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第64题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-065",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "将从 1 到 11 连续自然数填入下图中的圆圈内，要使每边上的三个数的和都相等，a 不可能是 。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "11"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：45%，易错项：B。\n解析\n第一步，本题考查特殊数列。\n第二步，由于每条边上的和相等，那么所有边的和加起来应该是5的倍数。11个数字填入11个圆圈，加和时其\n(1 + 11) × 11\n中a 数字被计算5次，因此所有数字和=\n2\n+4a，化简为66+4a。\n代入验证：A选项，66+4×1=70，是5的倍数，可以填写；B选项，66+4×6=90，是5的倍数，可以填写；C选\n项，66+4×7=94，不是5的倍数，不可以填写；D选项，66+4×11=110，是5的倍数，可以填写。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第65题",
+    "region": "shanghai",
+    "questionImage": "/img/questions/provincial_shanghai_2021/q065.png"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-066",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "有一架自动扶梯共 25 级，每秒移动 2 阶。A 从扶梯的起点处站立乘坐，两秒后 B 从起点处以每秒 1 阶的速 度向上走动。又过三秒后 C 来到扶梯起点处且以每秒 4 阶的速度向上跑。那么以下事件中最先发生的是 。",
+    "options": [
+      {
+        "label": "A",
+        "content": "A 到达扶梯终点"
+      },
+      {
+        "label": "B",
+        "content": "B 追上 A"
+      },
+      {
+        "label": "C",
+        "content": "C 追上 A"
+      },
+      {
+        "label": "D",
+        "content": "C 追上 B"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查行程问题中的相遇追及类。\n第二步，A选项，由题意可知，A的速度为每秒2阶，A到达扶梯终点的时间为25÷2=12.5秒；B选项，是一个\n追及问题，设B追上A的时间为t，可列方程：4=3t-2t。解得t=4，故B追上A共用2十4=6秒；C选项，是一\n个追及问题，设C追上A的时间为t，由题意可列方程：10=6t-2t，解得t=2.5，故追上A的时间为2十3十2.5\n=7.5秒；D选项，设C追上B的时间t，9=6t-3t，t=3，故C追上B的时间为2十3+3=8秒。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第66题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-067",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "办公楼高 24 层，小王在底楼，他有一个文件急需交给在顶楼的小李。大楼只有一个电梯，正停在底楼待命， 电梯每上升或下降一层需要 10 秒，小李走楼梯下楼每层需要走 15 秒，小王走楼梯上楼每层需要走 20 秒，他们 约在（ ）楼碰面最节约时间。",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "content": "14"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：19%，易错项：C。\n解析\n第一步，本题考查统筹推断问题。\n第二步，电梯上一层需要10秒、走楼梯下一层需要15秒，可知电梯上三层与走楼梯下两层所需时间相同，小王\n先坐电梯上12层到达13楼、小李走楼梯下8层到达16楼时间相同，小王再坐电梯上两层到达15楼需要20秒，\n小李走楼梯下一层达到15楼需要15秒，则在15楼碰面最节约时间。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第67题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-068",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某货运公司现有 100 辆货车，需招聘若干司机，条件是每工作五天后休息两天。公司希望司机休息时货车不 休息，则至少要招聘 名司机。",
+    "options": [
+      {
+        "label": "A",
+        "content": "128"
+      },
+      {
+        "label": "B",
+        "content": "136"
+      },
+      {
+        "label": "C",
+        "content": "140"
+      },
+      {
+        "label": "D",
+        "content": "144"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：46%，易错项：B。\n解析\n第一步，本题考查工程问题。\n第二步，每个司机工作5天休息2天，则五名司机就需要休息10天，则需要两名额外的司机在其他五名司机休\n息的时候工作，也就是5个货车需要7名司机，则100个货车需要100÷5×7=140名司机。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第68题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-069",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一个长方形长 6cm，宽 4cm，现分别平行于长和宽剪了若干刀，将长方形分割成若干个小长方形，这些小长 方形的周长之和比原长方形周长多了 56cm。那么最多剪了 刀。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：19%，易错项：C。\n解析\n第一步，本题考查几何问题。\n第二步，设平行于长剪了x刀，平行于宽剪了y刀，则由题意可知：2（6x+4y）=56，化简为 3x+2y=14。根据\n奇偶特性可知x 是2 的倍数，当x=2时，此时y=4，共剪 2+4=6 刀；当x=4 时，此时 y=1，共剪 4+1=5 刀。可知\n最多剪了6刀。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第69题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-070",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲到飞机场坐飞机，飞机场的十二个登机口排成一条直线，相邻两个登机口之间相距 50 米。甲在登机口等 待时被告知登机口更改了，那么甲走到新登机口的距离不超过 200 米的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/2"
+      },
+      {
+        "label": "B",
+        "content": "4/11"
+      },
+      {
+        "label": "C",
+        "content": "8/11"
+      },
+      {
+        "label": "D",
+        "content": "19/33"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题考查概率（古典概型）。\n12 个登机口排成一条直线，相邻间距 50 米，距离不超过 200 米 → 不超过 4 个登机口（200÷50=4）。\n甲从原登机口走到新登机口（必为另一个登机口，共 11 种可能）。\n枚举每个登机口位置满足「距离≤200m」的相邻登机口数：\n- 1 号位：相邻 4 个（2~5 号）\n- 2 号位：相邻 5 个\n- 3 号位：相邻 6 个\n- 4 号位：相邻 7 个\n- 5 号位：相邻 8 个\n- 6 号位：相邻 8 个（左 4 + 右 4）\n- 7-12 号位与 6-1 号位对称（8, 8, 7, 6, 5, 4）\n符合条件的总情况数 = (4+5+6+7+8+8) × 2 = 76 种\n甲所在原位置任选 12 种，新登机口任选 11 种，总情况 = 12 × 11 = 132 种\n概率 = 76/132 = 19/33，对应 D 项。\n故正确答案为 D。\n[Source: xingguanggongkao.com/Wb/quesView/id/38058.html × 公考 PDF 上海 2021 行测 B 类第 73 题 双源校验]\n[标注：2021-上海 A 卷-070 / B 卷-073]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第70题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-071",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "过年要写春联，小李拿来一张长宽分别为 85 厘米和 75 厘米的红纸，打算裁开使用。已知春联每联 7 个字， ）副春联。 一副春联上下两联，再加一个 4 字横批，每个字长宽都是 10 厘米，则这张红纸最多可以制作（",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查统筹几何问题。\n第二步，一张长85厘米、宽75厘米的红纸，面积为85×75=6375平方厘米。一副对联包括：横批40×10=400\n6375\n平方厘米、上下联10×70×2=1400平方厘米，共1800平方厘米，最多可容纳1800\n3.54副，排除C、D选项。\n第三步，其中黄、绿分别为上下联，红、蓝为横批，具体安排如下图：\n这张红纸最多可以制作3幅春联。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第71题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-072",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "公司购买某设备 24 套，现要登记单价，但是数据上没有标注单价，且总价第一位和最后一位模糊不清，只 看到是☆579△元。则☆可能是 。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：50%，易错项：B。\n解析\n第一步，本题考查约数倍数问题。\n第二步，由于一共24台，故总价应该能够被8和3整除。能被8整除的条件是数字的最后三位能够被8整除，\n则最后一位只能是2。又能够被3整除，故数字加和之后为3的倍数。代入A项，3+5+7+9+2=26，不是3的倍数,\n排除；代入B项，5+5+7+9+2=28，不是3的倍数，排除；代入C项，7+5+7+9+2=30，是3的倍数。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第72题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-073",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "有一座 13.2 万人口的城市，需要划分为 11 个投票区，任何一个区的人口不得超过其他区人口的 10%，那么 人口最少的地区可能有 人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "9800"
+      },
+      {
+        "label": "B",
+        "content": "10500"
+      },
+      {
+        "label": "C",
+        "content": "10700"
+      },
+      {
+        "label": "D",
+        "content": "11000"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：19%，易错项：B。\n解析\n第一步，本题考查最值问题，属于数列构造。\n第二步，设最少的为x万人，那么最多的最多是1.1x。要使最少的最少，需其他地区的人口最多，可构造11个\n投票区分别为10个1.1x和一个x。\n第三步，根据总人数为13.2万，可得10×1.1x十x=13.2万，解得x=1.1。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第73题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-074",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "安排 4 名护士护理 3 个病房，每个病房至少一名护士，每名护士固定护理一个病房，则共有 排方法。 种安",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "36"
+      },
+      {
+        "label": "C",
+        "content": "48"
+      },
+      {
+        "label": "D",
+        "content": "72"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：35%，易错项：C。\n解析\n第一步，本题考查排列组合，属于基础公式类。\n第二步，4名护士护理3个病房，每个病房至少一名护士，则一定有一个病房有2名护士，先从4 名护士中选择\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第74题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-075",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "假设三颗小行星绕着一颗恒星运动，它们的运行轨道都是圆形，每条轨道的圆心都是该恒星。且三条轨道都 在同一平面内。若这三颗小行星同向旋转，且绕轨道运行一周的时间分别是 60 年、84 年、140 年。现在三颗小 行星和恒星在同一直线上且三颗小行星都在恒星的同侧，那么至少 年后他们再次在同一直线上且三颗 小行星都在恒星的同侧。 - 11 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "210"
+      },
+      {
+        "label": "B",
+        "content": "315"
+      },
+      {
+        "label": "C",
+        "content": "420"
+      },
+      {
+        "label": "D",
+        "content": "630 上海市生活垃圾分类工作实施以来，在居民分类、垃圾分类处置、全过程分类体系、配套制度规范以及社会 宣传等方面都取得了显著成效。下图为上海市垃圾分类年度日均完成量及 2020 年目标，下表为上海市垃圾分类 回收处理量。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：8%，易错项：C。\n解析\n第一步，本题考查循环周期问题，用代入排除法解题。\n第二步，提问方式为\"至少多少年\"，故从最小的选项A开始代入，210年后，周期为60 年的小行星运行210÷60\n=3.5周，周期为84年的小行星运行210÷84=2.5周，周期为140年的小行星运行210÷140=1.5周，由于三\n颗小行星都运动到直径对应的另一端，因此处在恒星的同侧，满足题意。\n因此，选择A选项。\n76、正确答案：C，全站正确率：66%，易错项：B。\n解析\n- 15 -\n第一步，本题考查现期比值计算。\n第二步，定位表格材料。\n第三步，直接读数可知，日均湿垃圾分出量最高的月份是2020年5月（9796吨/日），该月日均可回收物回收\n量和日均干垃圾处理量分别为6266吨/日和15351吨/日。根据选项数据首位相同第二位不同，则分母从左向右\n6266\n截取前三位，可得所求比值约为 154，直除首两位商 40，与C 选项最接近。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第75题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "表中，在日均湿垃圾分出量最高的月份，日均可回收物回收量与日均干垃圾处理量的比值约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.26"
+      },
+      {
+        "label": "B",
+        "content": "0.44"
+      },
+      {
+        "label": "C",
+        "content": "0.41"
+      },
+      {
+        "label": "D",
+        "content": "0.48"
+      }
+    ],
+    "answer": "D",
+    "explanation": "19\n- 14 -\n因此，选择D选项。\n71、正确答案：B，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查统筹几何问题。\n第二步，一张长85厘米、宽75厘米的红纸，面积为85×75=6375平方厘米。一副对联包括：横批40×10=400\n6375\n平方厘米、上下联10×70×2=1400平方厘米，共1800平方厘米，最多可容纳1800\n3.54副，排除C、D选项。\n第三步，其中黄、绿分别为上下联，红、蓝为横批，具体安排如下图：\n这张红纸最多可以制作3幅春联。\n因此，选择B选项。\n72、正确答案：C，全站正确率：50%，易错项：B。\n解析\n第一步，本题考查约数倍数问题。\n第二步，由于一共24台，故总价应该能够被8和3整除。能被8整除的条件是数字的最后三位能够被8整除，\n则最后一位只能是2。又能够被3整除，故数字加和之后为3的倍数。代入A项，3+5+7+9+2=26，不是3的倍数,\n排除；代入B项，5+5+7+9+2=28，不是3的倍数，排除；代入C项，7+5+7+9+2=30，是3的倍数。\n因此，选择C选项。\n73、正确答案：D，全站正确率：19%，易错项：B。\n解析\n第一步，本题考查最值问题，属于数列构造。\n第二步，设最少的为x万人，那么最多的最多是1.1x。要使最少的最少，需其他地区的人口最多，可构造11个\n投票区分别为10个1.1x和一个x。\n第三步，根据总人数为13.2万，可得10×1.1x十x=13.2万，解得x=1.1。\n因此，选择D选项。\n74、正确答案：B，全站正确率：35%，易错项：C。\n解析\n第一步，本题考查排列组合，属于基础公式类。\n第二步，4名护士护理3个病房，每个病房至少一名护士，则一定有一个病房有2名护士，先从4 名护士中选择\n因此，选择B选项。\n75、正确答案：A，全站正确率：8%，易错项：C。\n解析\n第一步，本题考查循环周期问题，用代入排除法解题。\n第二步，提问方式为\"至少多少年\"，故从最小的选项A开始代入，210年后，周期为60 年的小行星运行210÷60\n=3.5周，周期为84年的小行星运行210÷84=2.5周，周期为140年的小行星运行210÷140=1.5周，由于三\n颗小行星都运动到直径对应的另一端，因此处在恒星的同侧，满足题意。\n因此，选择A选项。\n76、正确答案：C，全站正确率：66%，易错项：B。\n解析\n- 15 -\n第一步，本题考查现期比值计算。\n第二步，定位表格材料。\n第三步，直接读数可知，日均湿垃圾分出量最高的月份是2020年5月（9796吨/日），该月日均可回收物回收\n量和日均干垃圾处理量分别为6266吨/日和15351吨/日。根据选项数据首位相同第二位不同，则分母从左向右\n6266\n截取前三位，可得所求比值约为 154，直除首两位商 40，与C 选项最接近。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第76题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年日均可回收物回收量同比年增长率，与日均湿垃圾分出量同比年增长率相差约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "330%"
+      },
+      {
+        "label": "B",
+        "content": "340%"
+      },
+      {
+        "label": "C",
+        "content": "485%"
+      },
+      {
+        "label": "D",
+        "content": "490%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：61%，易错项：C。\n解析\n第一步，本题考查增长率计算。\n第二步，定位图形材料。\n现期量－基期量\n第三步，根据增长率\n基期量\n，及选项数据首位相同第二位不同，则分母从左向右截取前三位，分\n4049 - 761\n3288\n432%\n子为减法，考虑截位舍相同处理数据，则 2019年日均可回收物同比年增长率约为\n761\n761\n745-395\n350\n89%\n日均湿垃圾分出量同比年增长率约为\n395\n395\n，则2019年日均可回收物同比年增长率与日均\n湿垃圾分出量同比年增长率相差为432%一89%=343%，与B选项最接近。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第77题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年 7—9 月，日均湿垃圾分出量约为（ ）吨。",
+    "options": [
+      {
+        "label": "A",
+        "content": "8803"
+      },
+      {
+        "label": "B",
+        "content": "8702"
+      },
+      {
+        "label": "C",
+        "content": "9200"
+      },
+      {
+        "label": "D",
+        "content": "8800"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：20%，易错项：A。\n解析\n第一步，本题考查现期平均数计算。\n第二步，定位表格材料，2019年7一9月日均湿垃圾分出量分别为8200、9200、9008吨/日。\n总数\n项出现首两位相同，精确计算，代入数据可得2019年7一9月日均湿垃圾分出量为\n8200×31+9200×31+9008×30\n809640\n8800\n31+ 31+ 30",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第78题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年 6—9 月，日均干垃圾处理量月增长率的绝对值：",
+    "options": [
+      {
+        "label": "A",
+        "content": "一直减小"
+      },
+      {
+        "label": "B",
+        "content": "一直增大"
+      },
+      {
+        "label": "C",
+        "content": "先增大后减小"
+      },
+      {
+        "label": "D",
+        "content": "先减小后增大"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位表格材料，2019年5一9月日均干垃圾处理量分别为22134、19400、17100、15500、15300吨/日。\n第三步，2019年6一9月月增长率的绝对值，即2019年6一9月月环比变化率，对数据截位舍相同处理，可得6\n221 -194\n27\n194 -171\n23\n12.2%\n 11.9%\n一9月环比变化率分别为\n221\n221",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第79题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "以下说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年 7 月环比数量变化最大的类别是干垃圾"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 7—10 月，可回收物回收量增长率为 35.45%"
+      },
+      {
+        "label": "C",
+        "content": "2020 年 6 月表中三类垃圾占比同比变化最大的是干垃圾"
+      },
+      {
+        "label": "D",
+        "content": "2020 年超额完成预计目标的月份为 5 月份和 6 月份 (材料) - 12 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查综合分析，且需选出错误的一项。\n第二步，A选项，增长量比较，定位表格材料，根据增长量=现期量一基期量，及总数=平均数×总个数，可得2019\n年7月表中三类垃圾环比数量变化量分别为：湿垃圾8200×31一6950×30=45700（吨）、可回收物回收4400×\n31一4000×30=16400（吨）、干垃圾」17100×31－19400×30丨=19400×30-17100×31=51900（吨），则2019\n年7月环比数量变化最大的类别是干垃圾，正确。\n-16 -\n现期量－基期量\n基期量\nB 选项，增长率计算，定位表格材料，根据增长率\n，可得2019 年7一10月，可回收物回收\n5960 - 4400 1560\n量增长率为\n4400\n4400≈35.45%，正确。\nC选项，比重比较，定位表格材料，根据比重=部分量/整体量，2020年6月和2019年6月表中三类垃圾的总数\n分别为9632+6814+15518=31964和6950+4000+19400=30350，则2020年6月表中三类垃圾（湿垃圾、可回收物\n9632\n6950\n6814\n4000\n~ 7.2%\n≈ 8.1%\n回收垃圾、干垃圾）占比同比变化分别为：31964\n30350\n31964\n30350\n15518\n19400\n31964\n30350丨≈15.4%，则 2020 年6月表中三类垃圾占比同比变化最大的是干垃圾，正确。\nD选项，现期平均数比较，定位图形和表格材料，可得2020三类垃圾（湿垃圾、可回收物回收垃圾、干垃圾)\n的目标分别为：9000吨/日、6000吨/日、16800吨/日，直接读数可得2020年5月份和6月份干垃圾分别为15351\n吨/日和15518吨/日，均低于16800吨/日，2020年5月份和6月份干垃圾未超额完成预计目标，错误。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第80题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-081",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2018 年，全国法人单位数量比 2013 年增长 100%以上的行业门类有 个。",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "9"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "11"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：49%，易错项：B。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位表格。\n第三步，根据增长率=增长量／（现期量-增长量），当增长率>100%，则增长量>现期量－增长量，即2×增长\n量>现期量，读表可知共有“建筑业”，“批发和零售业”，“交通运输、仓储和邮政业”，“住宿和餐饮业“，”\n信息传输、软件和信息技术服务业“，“房地产业”，“租赁和商务服务业”，“科学研究和基础服务业”，“居\n民服务、修理和其他服务业”，“文化、体育和娱乐业”这10个行业符合。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第81题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-082",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2013—2018 年间，全国法人单位数量增量最大的 2 个行业，2018 年法人单位数之和为 。",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 900 万个"
+      },
+      {
+        "label": "B",
+        "content": "在 900—950 万个之间"
+      },
+      {
+        "label": "C",
+        "content": "在 950—1000 万个之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 1000 万个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：71%，易错项：C。\n解析\n第一步，本题考查简单计算中的和差类。\n第二步，定位表格。\n第三步，法人单位增量最大的两个行业是“批发和零售业”（2018年为649.9万个、增量为368.9万个）和“租\n赁和商务服务业”（2018年为255.1万个、增量为163.4万个），这两个行业2018年法人单位数之和为\n649.9+255.1=905（万个）。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第82题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-083",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如制造业法人单位和全国法人单位数量均保持 2013—2018 年的年均增量不变，则 2023 年制造业法人单位数 量占全国法人单位比重将比 2018 年约 。",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降 2 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "下降 8 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "上升 2 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "上升 8 个百分点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：47%，易错项：B。\n解析\n第一步，本题考查两期比重计算。\n第二步，定位表格可知，2018年制造业、全国法人单位数量分别为327万个、2178.9万个，2018年比2013年\n的增长量分别为101.8万个、1093.2万个。\n第三步，根据末期量=初期量+年均增长量×n，年均增长量不变，且相差年份n 相同时，时间段内的总增长量不\n变，将数据取整处理，则2023年制造业法人单位有=327+102=429（万个）、全国法人单位有2179+1093=3272（万\n个）。根据比重=部分量/整体量，将分母从左向右截取前三位，分子取整处理，则比重差为\n429\n327\n 13.1% -15% = -1.9%\n3270\n2180\n，即2023年的比重比2018年低1.9个百分点，与A选项最接近。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第83题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-084",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2013—2018 年间，企业法人单位数量年均增量约是社会团体和其他法人数量年均增量的 倍。 - 13 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "19"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：53%，易错项：B。\n解析\n第一步，本题考查年均增长量与倍数杂。\n第二步，定位柱状图。\n末期量－初期量\n相差年数\n第三步，根据年均增长量=\n及倍数公式，相差年数相同，则年均增长量求倍数，可直接计算总\n1857 - 821\n1036\n体增量之间的倍数关系，选项首位相同，第二位不同，将数据简单取整，代入数据可得 214－161\n53\n直除首两位商19。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第84题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-085",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2013 年，采矿业法人单位占全国法人单位的比重超过 1%"
+      },
+      {
+        "label": "B",
+        "content": "2013—2018 年间，机关、事业法人单位年均增加不到 1 万个"
+      },
+      {
+        "label": "C",
+        "content": "2013 年，批发和零售业法人单位数量是教育法人单位数量的 7 倍以上"
+      },
+      {
+        "label": "D",
+        "content": "2013—2018 年间，科学研究和技术服务业是法人单位数年均增速最快的行业"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：57%，易错项：C。\n解析\n第一步，本题考查综合分析。\n（万个），全国法人单位约有2179一1093=1086（万个），5.1<1068×1%，错误。\nB选项，年均增长量计算。定位柱状图，根据年均增量=（末期量一初期量）／相差年数，可知2013一2018年，\n107.5 -103.7\n3.8\n<1\n机关、事业法人单位年均增加\n5\n5\n（万个），正确。\n650 - 369\n281\n4>\nC选项，基期倍数计算，定位表格，根据基期量=现期量一增长量，将数据取整，可得\n67-25\n42\n未超过7倍，错误。\n末期量\n(1+年均增长率)\"\nD 选项，年均增长率比较。定位表格，根据\n初期量\n，年份差n相同时，年均增速比较\n末期量\n初期量”，初期量=末期量－增长量，将数据取整，科学研究和技术服务业为\n可转为比较“",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第85题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-086",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "截至 2019 年底，珠三角九市城镇常住人口约________万人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5436"
+      },
+      {
+        "label": "B",
+        "content": "5562"
+      },
+      {
+        "label": "C",
+        "content": "6200"
+      },
+      {
+        "label": "D",
+        "content": "6268"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：70%，易错项：A。\n解析\n第一步，本题考查现期比重计算中的求部分量。\n6，（6），\n人口为6446.89万人”。\n第三步，根据部分量=整体量×比重，代入数据可得6446.89×86.28%<6500×90%=5850，排除C、D选项；6446.89\n×86.28%>6400×86%=5504，排除A选项。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第86题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-087",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2016—2019 年，有________年珠三角九市人口密度同比增量超过了 20 人/平方公里。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：63%，易错项：C。\n解析\n第一步，本题考查增长量做差比较。\n第二步，定位表格倒数第三行。\n第三步，根据增长量=现期量一基期量，代入数据各年份珠三角九市人口密度同比增量分别为：2016年，1095一\n1073=22；2017年，1123—1095=28；2018年，1150-1123=27；2019年，1177—1150=27，均大于20，故有4个\n年份符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第87题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-088",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年底除珠三角九市外，广东省其他地区的城镇化率________。",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于 40%"
+      },
+      {
+        "label": "B",
+        "content": "在 40%至 50%之间"
+      },
+      {
+        "label": "C",
+        "content": "在 50%至 60%之间"
+      },
+      {
+        "label": "D",
+        "content": "大于 60%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：44%，易错项：B。\n解析\n第一步，本题考查混合比重计算。\n第二步，定位文字材料“截至2019年底，广东省常住人口11521万人·……·全省城镇化率为71.40%·……-其中，珠\n三角九市的城镇化率为86.28%”和表格材料“2019年珠三角九市常住人口6446.89万人”。\n第三步，广东省=珠三角九市+其他地区，根据混合比重口诀“整体比重介于两个部分比重之间，且偏向于整体量\n较大的一方”，可知除珠三角九市之外的城镇化率<71.4%<86.28%，无法排除选项。比重十字交叉得到整体量\n之比，设除珠三角九市之外的其他地区城镇化率为a，则可得:\n-18-\n珠三角九市\n86.28%\n71.40% - a\n71.40%\n其他地区\na\n14.88%\n71.40% -a\n64\n64\n1.25\n选项为区间类，从左向右截取前三位，可得\n14.88%\n115 - 64\n51\n，解得a≈71.4%-1.25×\n14.88%≈71.4%一18.6%=52.8%，在C选项范围内。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第88题",
+    "region": "shanghai"
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-089",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "以下________中的柱状图能准确反映 2016—2019 年间粤港澳大湾区年末常住人口同比增量的变化趋势。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项 A]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项 B]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项 C]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项 D]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：59%，易错项：B。\n解析\n第一步，本题考查增长量做差比较。\n第二步，定位表格材料“年末人口”所在行。\n第三步，根据增长量=现期量-基期量，数据差距不大，仅对数据进行取整处理，代入数据可得各年同比增量分别\n为：2016年，6801-6670=131；2017年，6957-6801=156；2018年，7116-6957=159；2019年，7265-7116=149，\n观察数据可知，2018年同比增量最大，仅A选项满足。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第89题",
+    "region": "shanghai",
+    "meta": {
+      "rescuedBy": "E2-vision-OCR-D17e",
+      "rescuedAt": "2026-05-23T13:15:11+08:00",
+      "rescueNote": "shanghai 2021 q089 选项为 4 个柱状图（粤港澳大湾区年末常住人口同比增量），需 D-9 抽 PNG 才能完整呈现，前端按图形选项渲染"
+    }
+  },
+  {
+    "id": "provincial-shanghai-xingce-panduan-2021-090",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是________。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年底除珠三角九市外，广东省其余地区常住人口同比为负增长"
+      },
+      {
+        "label": "B",
+        "content": "表中“？”处的数字大于 2.2 万人/平方公里"
+      },
+      {
+        "label": "C",
+        "content": "2019 年底，广东省人口密度比上年底增加了 20 人/平方公里以上"
+      },
+      {
+        "label": "D",
+        "content": "2016—2019 年间，香港和澳门常住人口呈持续增长趋势 第四部分 常识应用能力"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：36%，易错项：C。\n解析\n第一步，本题考查综合分析问题，且需选出说法正确的一项。\n第二步，A选项，增长量计算，根据增长量=现期量一基期量，数据较为接近，仅对数据进行取整处理，则2019\n年珠三角九市常住人口同比增量为6447一6301=146（万人）。根据广东省常住人口同比增量=珠三角九市常住人\n口同比增量+其余地区常住人口同比增量，则其余地区常住人口同比增量为175一146>0，则同比为正增长，错\n误。\nB选项，其他计算，定位表格材料，根据面积=人口/人口密度，澳门各年的面积应保持不变，根据面积不变可列\n67.96\n66.74\n67.96\n？=\n× 21669\n式，？\n21669\n，则\n66.74\n，略大于1.018×21669≈22059，即大于2.2万人/平方公里，\n正确。\n11521\n≈18\nC选项，增长量计算，定位文字材料，根据人口密度=人口/面积，则广东省面积为641\n(万平方公里)，\n根据基期量=现期量-增长量，2018年，广东省常住人口为11521－175=11346（万人），广东省面积不变，则人\n11346\n630\n口密度为18\n（人/平方公里）。根据增长量=现期量-基期量，则2019年人口密度增长量为641一\n630=11<20人/平方公里，错误。\nD选项，简单读数比较，定位表格材料“年末人口”部分数据，读数可知，2016 年澳门年末人口（64.49万人)\n小于2015年（64.68万人），并非持续增长，错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考shanghai行测第90题",
+    "region": "shanghai"
+  }
+]

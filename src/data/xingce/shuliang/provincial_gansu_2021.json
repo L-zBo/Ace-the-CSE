@@ -1,0 +1,352 @@
+[
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一次 2 小时的在线会议，会议结束前半小时才有人开始退出且每分钟退出会议人数满足 （n=1,2,3，……，30）。若会议开始后加入会议人数是退出人数的 1.5 倍，且会议结束时还有 100 人在线，问 会议开始时可能有多少人在线？ ，",
+    "options": [
+      {
+        "label": "A",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "70 - 7 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、设会议开始时可能有人在线。由题意可知，会议结束前半小时每分钟退出会议人数分别为\n4+(-1)=3人、4+(-1)²=5人、4+(-1)²=3人、4+(-1)4=5人·：．：：·，则会议结束前的半\n30\n人在线，则x+180－120=100，解得x=40，即会议开始时可能有40人在线。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第56题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "张三与李四骑马观光，从东方村开始，途经幸福村到胜利村。从东方村骑行 1 小时后，张三：“已经走了多 远？”李四：“刚好是到幸福村的一半。”两人又骑行 20 公里后，张三：“到胜利村还有多远？”李四：“刚 巧是离幸福村的一半那样远。”则东方村到胜利村的距离是多少公里？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "35"
+      },
+      {
+        "label": "C",
+        "content": "40"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、此题对第二个过程的理解不同，会出现不同的答案。\n【解析一】将东方村、幸福村、胜利村分别看成A、B、C三地，全程分为两个过程，第一个过程：\n先行驶AB（东方村到幸福村）的一半，用时1小时；第二个过程：又行驶20公里后，所处位置距\n2\n胜利村（C）的距离刚好是到幸福村（B）的一半，即再行驶AB的2加上BC的3共20公里。根据条\n故正确答案为B。\n【解析二】将东方村、幸福村、胜利村分别看成A、B、C三地，全程分为两个过程，第一个过程：\n先行驶AB的一半，用时1小时；第二个过程：如果理解成到胜利村（C）的距离刚好是胜利村（C）\n离幸福村（B)的一半那么远，即再行驶AB的2加上BC的2共20公里，那么全长AB+BC=2×20=40\n公里。\n故正确答案为C。\n本题表述有争议，粉笔给出两种解题思路，但更倾向于选B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第57题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某省在新冠疫情期间派出包括传染科医生、重症科医生和护士在内的三批援鄂医疗队。三批医疗队中三者人 数之比分别为 4：2：4、5：2：3 和 4：3：3。已知第二批医疗队中医生比护士多 40 人，且传染科医生数逐批增 加并成等差数列，三批共派出护士 113 人，则三批医疗队共有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "339"
+      },
+      {
+        "label": "B",
+        "content": "350"
+      },
+      {
+        "label": "C",
+        "content": "360"
+      },
+      {
+        "label": "D",
+        "content": "390"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、根据第二批医疗队中三者人数之比为5：2：3且医生比护士多40人，可得第二批医疗队传染\n5\n2\n3\n科医生、重症科医生和护士人数分别为\n40×5+2-3=00人、40×5+2-3=20人、\n40x\n40×\n40 ×\n人。根据“传染科医生数逐批增加并成等差数列”，设第一批传染科医生比第二批少人，则第一\n批和第三批传染科医生分别为（50－z）人、（50+α）人，传染科医生共有50×3=150人。则根据\n三批次人数的比例关系可得：\n传染科医生\n重症科医生\n护士\n第一批（人）\nx09\n50  x\n50-x\n2\n第二批（人）\n50\n20\n30\n第三批（人）\n50+x\n×（50+x)\n×（50+x)\n3\n根据“三批共派出护士113人”列方程：\n：(50-a)+30+\n4\n50 18\n3\n医生共有2\n+ 20 +\n4\n故正确答案为B。\n- 15 -",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第58题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一车救灾物资从早上 8 点起开始运往 1900 公里外的某地，白天平均车速 80 公里/小时，夜间 60 公里/小时 （假定 8：00 到 18：00 为白天，其他时段为夜间），司机每驾驶 2 小时必须休息 20 分钟，且每名司机每天驾驶 时间不能超过 8 小时（00：00 后即为新的一天）。问车上至少应配备几名司机且至少要用多长时间才能抵达该 地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 名；27 小时 15 分"
+      },
+      {
+        "label": "B",
+        "content": "3 名；27 小时 25 分"
+      },
+      {
+        "label": "C",
+        "content": "4 名；33 小时 30 分"
+      },
+      {
+        "label": "D",
+        "content": "4 名；33 小时 40 分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、根据题意，要使总时间最短，则需让车辆一直在行驶，行驶情况如下表所示：\n行驶时间\n行驶速度\n行驶距离\n累计行驶距离\n累计行驶时间\n（小时）\n（公里/小时）\n（公里）\n（公里）\n（小时）\n第一天\n10\n80\n80×10=800\n008\n10\n8:00-18:00\n第一天\n6\n60\n60×6=360\n800 + 360 =1160\n10+6=16\n18:0024:00\n第二天\n8\n60\n60×8=480\n1160 + 480 = 1640\n16 +8 =24\n00:008:00\n1900 1640\n=3.25小时=3小时15分，则总时间最短为\n第二天白天所需行驶时间",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第59题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "工匠师傅甲擅长制作工艺品 A，师傅乙擅长制作工艺品 B，当有制作 A 任务时甲只制作 A，有制作 B 任务时， 乙只制作 B。两人 8 周可以制作一车工艺品 A，如由乙单独完成则需 40 周。两人 60 天可制作一车工艺品 B，如 由甲单独完成则需 30 周，现需要制作 A、 B 各占一半的一车工艺品，问两位师傅共同完成需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 各占一半的一车工艺品，问两位师傅共同完成需要多少天？ A、40"
+      },
+      {
+        "label": "B",
+        "content": "45"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "55"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、设甲、乙制作A、B两种工艺品的效率分别为甲A、乙A、甲B、乙B。\n对工艺品A：8×（甲A+乙A)=40×乙A，整理可得甲A=4乙A。乙单独完成一车工艺品A需要40周，\n半车需要20周，则甲单独完成半车工艺品A需要20÷4=5周=35天。\n60\n对工艺品B：7\n210-35×5\n天。因此，甲用35天完成半车工艺品A后再去帮助乙完成剩余的工艺品B，此时还需要5+2\n天。因此总共需要35+5=40天。\n故正确答案为A。\n满足条件情况数\n选择课程A的情况数",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考gansu行测第60题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "受新冠疫情影响，某高校某专业开展在线教育，在同一上课时间开设 3 门选修课 A 任选其中 1 门，但每门课程限选 30 人。已知该专业共有 90 人，问该专业学生小李能选中课程 A 的概率是： B 和 C，每个学生可",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/9"
+      },
+      {
+        "label": "B",
+        "content": "1/6"
+      },
+      {
+        "label": "C",
+        "content": "1/3"
+      },
+      {
+        "label": "D",
+        "content": "2/3"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、根据概率问题公式，概率\n总情况数，可得所求概率选择所有课程的情况数，课程A限选\n30人，即小李可为30人中的任意1人，共30种情况；同理，共有90人参与选课，即选课总情况\n30_1\n数有90种，则所求概率=903。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年省考gansu行测第61题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲单位职工人数是乙单位的 2 倍，两个单位所有职工中正好有一半是党员。其中甲单位职工中党员占比比乙 单位高 15 个百分点，且甲单位的职工中群众人数比乙单位多 18 人。问甲单位职工中，党员比群众多多少人?",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、设乙单位职工人数为”人，则甲单位职工人数为2人。乙单位职工中群众人数为\"人，则甲单位\n职工中群众人数为（3+18）人。由两个单位所有职工中正好有一半是党员，可得另一半一定是非\n党员，即群众，故u+(y+18)=(x+2x)×50%．．：．：·①。因甲单位职工中党员占比比乙单位高\ny+18_-15%..\n15个百分点，故甲单位职工中群众占比比乙单位低15个百分点，可列2x\n..②。\n16-\n联立方程①②，解得=60，=36。故甲单位职工人数为2×60=120人，甲单位职工中群众人数为\n36+18=54人，甲单位职工中党员人数为120－54=66人，党员比群众多66－54=12人。\n故正确答案为D。\n北\nI\nC\n丙\nNI\n甲\n乙\n西\n东\nA\nM\nB\n南",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第62题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "乙地在甲地的正东方 26 千米处，丙地在甲、乙两地连线的北方，且与甲、乙的距离分别为 24 千米和 10 千 米。一辆车从甲、乙两地中点位置出发向正北方行驶，在经过甲丙连线时，与丙地的距离在以下哪个范围内?",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 8 千米"
+      },
+      {
+        "label": "B",
+        "content": "8-9 千米之间"
+      },
+      {
+        "label": "C",
+        "content": "9-10 千米之间"
+      },
+      {
+        "label": "D",
+        "content": "10 千米以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、\n根据题意可得上图，因为甲乙两地距离AB=26千米，甲丙两地距离AC=24千米，乙丙两地距离\nBC=10千米，可知三角形ABC三边比例为10：24:26=5：12：13，这三边满足勾股定理，所以三角形\nABC为直角三角形，ZC=90°。M为甲乙两地中点，汽车从M向正北出发经过甲丙两地连线AC时交\n26\n于N点，故AM=\nAC_AM\n24_13\nA可推出△ACB△AMN，根据相似三角形对应边成比例可列式ABAN，代入数据26AN，\n解得AN≈14.08千米，那么NC=AC-AN≈24-14.08=9.92千米，在C项范围内，当选。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第63题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一个底面半径为 10 厘米，体积为 V 的实心正圆锥体模具水平放置在台面上，并用一个钻孔半径为 2 厘米的 钻头在模具上钻出一个垂直于底面的洞直达底部。那么模具剩余部分的体积至少为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.868V"
+      },
+      {
+        "label": "B",
+        "content": "0.876V"
+      },
+      {
+        "label": "C",
+        "content": "0.892V"
+      },
+      {
+        "label": "D",
+        "content": "0.896V"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、由题意可知，大圆锥体积=剩余体积+钻掉体积，要使模具剩余部分体积最少，钻头钻掉体积\n要最大，最大的情况为钻掉部分的高和圆锥的高相同。如切面图所示：\n20\nB\nn2\nA\nh\n钻掉部分分为两部分：一部分是高为厘米、底面半径为2厘米的小圆锥A，另一部分是高为厘\n3\n100π。\n切面图中，钻掉的小圆锥A的三角形与大圆锥的三角形相似，根据相似三角形对应边成比例的性质，\n17.\n，因h+h2=h，可知²=；钻掉小圆锥A的体积\nh\n即\n4π\nXπ×22×\n5\n16π\n=π×2²×h=π×2²\nxh\n5\n因此，剩余部分体积=大圆锥体积-小圆锥体积-圆柱体积\n4π\nxh-\n16π\nxh=V\n52π\n15\nxh=V\n52π\n15\nxVx\n100π=V-0.104V = 0.896V。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第64题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2021-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "饲养兔子需要场地，小林准备用一段长为 28 米的篱笆围成一个三角形形状的场地，已知第一条边长为 米， 由于条件限制第二条边长只能是第一条边长度的 1/2 多 4 米，若第一条边是唯一最短边，则 的取值可以为:",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "9 四、判断推理。第四部分 判断推理。 本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题， 在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、由题意可知，三角形第一条边长为m米，第二条边长为（2m+4）米，第三条边长为\n28 m-\nm+4)=24-\n2\"米。根据“第一条边是唯一最短边”可知：\nm+4，即m<8，排除C、\n3\n20\n6.7\n排除A项。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考gansu行测第65题",
+    "region": "gansu"
+  }
+]

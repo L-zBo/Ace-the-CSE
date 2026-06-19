@@ -1,0 +1,533 @@
+[
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "大学生创业主要集中在高科技、智力服务、连锁加盟和自媒体运营四个领域。某学院今年选择创业的大学毕业 生不到50人，其中选择智力服务领域、连锁加盟领域和自媒体运营领域的分别占 ， 和 。那么该学院今年 选择高科技领域创业的大学毕业生有多少人?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据“其中选择智力服务领域、连锁加盟领域和自媒体运营领域的分别占\n，\n和\n”可知，总人\n数是7、2、3 的倍数，又因7、2、3 互质，所以总人数为7×2×3=42 的倍数。由于选择创业的大学\n毕业生不到50 人，则总人数为42 人。因此选择智力服务领域、连锁加盟领域和自媒体运营领域的\n人数分别为：\n人、\n人、\n人，则选择高科技领域创业的大学\n毕业生有42-6-21-14=1 人。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第66题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某旅游公司定制甲、乙两种纪念品，第一次共定制50个。试销后根据反馈，第二次定制两种纪念品共70个，其 中乙纪念品个数是第一次的 。已知甲纪念品单价为15元，第一次定制花费1150元，那么第二次定制花费多少 元?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1150"
+      },
+      {
+        "label": "B",
+        "content": "1725"
+      },
+      {
+        "label": "C",
+        "content": "2300"
+      },
+      {
+        "label": "D",
+        "content": "2875"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】\n根据题意，第二次定制的乙变为第一次的\n，假设第二次定制的甲也变为第一次的\n，则第二次总\n定制数量为\n个，第二次总金额为\n元。此时比实际第二次定制少\n了70-12.5 ＝57.5 个甲，总金额少了57.5×15 ＝862.5 元，所以实际第二次定制花费\n\n2024 江西省公务员《行测》解析\n\n 智库，获取\n 22 / 50\n\n287.5+862.5=1150 元。\n故正确答案为A。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第67题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某公园绿化管理部门采购了100片围栏，每片长1米且不可弯折。现拆分拟围成5块周长相等且互不相邻的矩形 花卉区域。若不考虑拼接间隙，那么这5块区域的最大与最小面积最多可相差多少平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意，这5 块矩形花卉区域周长相等，则每块矩形的周长为\n米。因为围栏不可\n弯折，则矩形的宽最小为1 米，那么： \n当宽为1 米时，长为\n米，面积为1×9=9 平方米； \n当宽为2 米时，长为\n米，面积为2×8=16 平方米； \n当宽为3 米时，长为\n米，面积为3×7=21 平方米； \n当宽为4 米时，长为\n米，面积为4×6=24 平方米； \n当宽为5 米时，长为\n米，面积为5×5=25 平方米。 \n综上可得，面积最大为25 平方米，最小为9 平方米，最多相差25-9=16 平方米。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第68题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某农产品基地对外供应一批农副产品。假设这批农副产品每天都有定量的自然损耗，如果提货方每天运走1.5吨 产品，则50天运完；如果提货方每天运走2吨产品，则40天运完。那么这批农副产品有多少吨?",
+    "options": [
+      {
+        "label": "A",
+        "content": "75"
+      },
+      {
+        "label": "B",
+        "content": "80"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "110"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意，设每天定量的自然损耗为x 吨，根据农副产品总量不变可列式：1.5×50+50x=2×40+40x，\n解得x=0.5，即每天定量的自然损耗为0.5 吨，故这批农副产品有1.5×50+0.5×50=100 吨。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第69题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "运输公司准备将475箱相同的救灾物资运往灾区。现在有足够多的大、小两种货车可供选择，大货车每辆最多 可装载48箱物资，小货车每辆最多可装载32箱物资。每辆大货车配两名驾驶员，每辆小货车配一名驾驶员，目 前公司有17名驾驶员可供派遣。若装载物资时，应先装满大货车，再依次装满小货车，且最后一辆小货车的装 载率至少要达到三分之二，则可选择的派车方案有多少种?",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】\n设小车有x 辆，则大车为\n辆，根据题意可列方程：\n，解得：\nx≥8.375，即小车至少为9 辆，则此时大车至多为\n辆；根据题意，“最后一辆小货车的\n装载率至少要达到三分之二”，则最后一辆小货车应装\n箱，即最后一辆小货车至\n少装22 箱货物；\n根据题意，“应先装满大货车，再依次装满小货车”，可分类讨论：\n情况①：大货车4 辆时，此时货物剩余量=475-48×4=283 箱，驾驶员剩余人数=17-2×4=9 人，\n283÷32=8 余27，即小货车使用9 辆，且最后一辆小货车装载27 箱货物，符合要求；\n\n2024 江西省公务员《行测》解析\n\n 智库，获取\n 23 / 50\n\n情况②：大货车3 辆时，此时货物剩余量=475-48×3=331 箱，驾驶员剩余人数=17-2×3=11 人，\n331÷32=10 余11，即小货车使用11 辆，且最后一辆小货车装载11 箱货物，不符合要求；\n情况③：大货车2 辆时，此时货物剩余量=475-48×2=379 箱，驾驶员剩余人数=17-2×2=13 人，\n379÷32=11 余27，即小货车使用12 辆，且最后一辆小货车装载27 箱货物，符合要求；\n情况④：大货车1 辆时，此时货物剩余量=475-48×1=427 箱，驾驶员剩余人数=17-2×1=15 人，\n427÷32=13 余11，即小货车使用14 辆，且最后一辆小货车装载11 箱货物，不符合要求；\n情况⑤：大货车0 辆时，475÷32=14 余27，即小货车使用15 辆，且最后一辆小货车装载27 箱货\n物，但根据题意“应先装满大货车”，大货车至少有1 辆，故不符合要求；\n所以符合要求的有情况①、情况③，共2 种。\n故正确答案为A。\n注：本题存在争议，由于题干“大货车足够多且优先装满大货车”，故粉笔认为至少得有大货车参\n与运输，全派小货车不符合题干要求。如果全派小货车也符合题意的话，本题答案应选B。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第70题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "中秋节前夕，小赵买了6个外观相同的月饼，其中有3个是蛋黄馅的。回到家后，小赵从中任取3个月饼，里面 恰好有1个是蛋黄馅的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，总情况数为小赵从6个月饼中选择3个，共有种情况。满足条件情况数为小赵从3个蛋黄馅月饼中选择1个，从余下3个月饼中选择2个，共有种情况。则所求概率P。\n故正确答案为A。\n\n[来源 baijing1.top paperId=668 sort=71 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第71题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2024/q071.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "为弘扬耕读文化，某校打造多样化“校外+校内”耕读文化教育基地，有种植、绘画、编织、美食四个主题基 地供同学们选学。假设每位学生选择1个主题基地参与学习，那么甲、乙、丙、丁4名学生中至少有3名学生选 择不同主题基地的方法有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "60"
+      },
+      {
+        "label": "C",
+        "content": "144"
+      },
+      {
+        "label": "D",
+        "content": "168"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n根据题干条件，甲、乙、丙、丁4 名学生中至少有3 名学生选择不同主题基地的方法可分为以下两\n种情况： \n①有4 名学生选择不同主题基地，情况数为：\n种； \n②有3 名学生选择不同主题基地，则其中存在2 名学生选择的主题基地相同，先从4 名学生中选2\n名学生选择相同的主题基地，情况数有\n种，剩余2 名学生可从剩下的3 个主题基地中\n选择其中两个，情况数有\n种，则有3 名学生选择不同主题基地的情况数为：24×6=144 种。 \n故总的情况数为：24+144=168 种。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第72题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "中国空间站主体由天和核心舱、问天实验舱、梦天实验舱构成。某次实验需要5名宇航员同时在三个舱中开 展，每个人只能去一个舱，每个舱至少安排1名宇航员，其中甲宇航员只能去问天实验舱和梦天实验舱中的一 个，则不同的安排方法有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "72"
+      },
+      {
+        "label": "B",
+        "content": "88"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "144"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n根据题意，5 名宇航员安排到三个舱，每个舱至少安排1 名宇航员，那么三个舱中的人数有两种情\n况：\n①人数分别为1 人、2 人、2 人。\n若甲在1 人舱，甲有\n种情况，剩下4 人平均安排到剩下2 个舱有\n种情况，则共有\n种情况；\n\n2024 江西省公务员《行测》解析\n\n 智库，获取\n 24 / 50\n\n若甲在2 人舱，甲有\n种情况，剩余4 人选1 人和甲同一舱有\n种情况，还剩下3 人\n安排到剩下2 个舱，其中一个1 人，另一个2 人，有\n种情况，则共有\n种情况；\n②人数分别为1 人、1 人、3 人。\n若甲在1 人舱，甲有\n种情况，剩下4 人安排到剩下2 个舱，其中一个1 人，另一个3 人，\n有\n种情况，则共有\n种情况；\n若甲在3 人舱，甲有\n种情况，剩余4 人选2 人和甲同一舱有\n种情况，还剩下2 人\n平均安排到剩下2 个舱有\n种情况，则共有\n种情况；\n综上共有12+48+16+24=100 种情况。\n故正确答案为C。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第73题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某公司开展迎新春三分球投篮比赛。3个部门分别派出2、4、4个选手共计10人参加。规则要求同一个部门的选 手顺序相连、全部投完再安排另一个部门的人员开始投篮，则这10人不同的投篮顺序种数的范围是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于1000"
+      },
+      {
+        "label": "B",
+        "content": "1000~5000"
+      },
+      {
+        "label": "C",
+        "content": "5001~10000"
+      },
+      {
+        "label": "D",
+        "content": "10000以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意，要求同一部门的选手顺序相连，故可先将同一部门的选手捆绑起来，再对三个部门进行\n排序。因同一部门的选手有先后之分，则3 个部门分别有\n、\n、\n种排列\n方式，3 个部门共有\n种排列方式。故一共有2×24×24×6=6912 种不同的投篮顺序，在C\n项范围内。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第74题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某单面圆形交通禁停标志牌如图所示，标志牌直径为60cm，牌中各处红色区域宽度均为5cm，某工厂承接30个 该种标志牌的喷绘业务，已知每个标志牌的蓝色区域喷绘价格是112.5元，红蓝区域喷绘单价相同（价格仅按面 积计算），那么30个标志牌喷绘共需：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3375元"
+      },
+      {
+        "label": "B",
+        "content": "6000元"
+      },
+      {
+        "label": "C",
+        "content": "6750元"
+      },
+      {
+        "label": "D",
+        "content": "8437.5元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n\n如图所示，连接四块蓝色扇形区域的顶点DCEF 构成一个边长为5cm 的正方形，对角线DE 的长度为\ncm。蓝色区域可平移拼成一个完整的圆形，蓝色圆形的直径则=大圆直径AB-5cm-\n5cm-DE=60cm-5cm-5cm-7cm=43cm。\n\n2024 江西省公务员《行测》解析\n\n 智库，获取\n 25 / 50\n\n方法一：蓝色圆形的面积为\n，整个标志牌的面积为\n，因为红蓝区域喷绘单价相同，则整个标志牌的喷绘单价相同，整个标志牌\n的喷绘价格为\n元，30 个标志牌的喷绘总价为219×30=6570 元，\n根据选项选择最为接近的，对应C 项。\n方法二：根据面积比等于相似比的平方，蓝色圆形和标志牌的直径比为43：60，则面积比为\n，蓝色面积的喷绘价格为112.5 元，则整个标志牌的喷绘价格为",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第75题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2024/q075.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-076",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某地人工湖景区开辟了沿湖福道和环湖乐道两条圆形观景道供市民休闲健身（如下图所示）。小李和他的妈妈 分别沿乐道和福道从A、B两地同时同向而行（A、B两点间距离为50米），小李骑自行车的速度是妈妈步行速 度的6倍，已知妈妈步行速度为每小时5千米，妈妈沿福道步行一周的时间是小李骑行乐道时间的4倍，那么这 个湖面的面积约多少万平方米?（圆周率取3） B.3 C.4 D.6",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n设小李骑行外圆（乐道）的半径为R、妈妈步行内圆（福道）的半径为r，如下图所示：\n\n2024 江西省公务员《行测》解析\n\n 智库，获取\n 26 / 50\n\n设小李骑行外圆一周的时间为t，则妈妈骑行内圆一周的时间为4t。因两人的路程分别为内外两圆\n的周长，则可列式：\n······①，\n······②，根据A、\nB 两点间距离为50 米，即R=r+50，联立①②式，解得r=100 米，则湖面面积（图中内圆面积）\n。\n故正确答案为B。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第76题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2024/q076.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-077",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "气象学中，24小时内降落在某面积上的雨水深度叫做日降雨量（不考虑渗漏、蒸发、流失等损耗，单位： mm），将日降雨量记为w，其等级划分如下：小雨（ ），中雨（ ），大雨（ ），暴雨（ ）。某地某日用一个圆锥形容器接了24小时的雨水（如下图所示），则该 地日降雨量等级是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "暴雨"
+      },
+      {
+        "label": "B",
+        "content": "大雨"
+      },
+      {
+        "label": "C",
+        "content": "中雨"
+      },
+      {
+        "label": "D",
+        "content": "小雨"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n \n由题意可得，总降雨量为圆锥CDE 的体积，本题所求日降雨量w 是降落在直径为300mm 面积上的水\n深。如图，\n，所以\n，由此可得\nmm ，总降雨量\n。则所求日降雨量\n ，求得\nmm，在\n中雨范围内。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第77题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2024/q077.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-078",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "原油A每吨的价格为0.3万元，可提炼苯乙烯0.5吨，提炼过程中每吨原油产生的废气量为0.4吨；原油B每吨的价 格为0.4万元，可提炼苯乙烯0.7吨，提炼过程中每吨原油产生的废气量为0.3吨。若要提炼至少1.9吨的苯乙烯且 产生的废气量不超过1吨，则购买原油的最低费用为多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "1.1"
+      },
+      {
+        "label": "C",
+        "content": "1.2"
+      },
+      {
+        "label": "D",
+        "content": "1.3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n根据题意可知，原油A 提炼出1 吨苯乙烯的成本为\n万元，原油B 提炼出1 吨苯乙烯的成\n本为\n万元，因此购买原油B 提炼苯乙烯的费用更低；每吨A、B 原油产生的废气量分\n别为0.4 吨、0.3 吨，原油B 产生废气量更少，综合考虑应尽可能多购买原油B。提炼1.9 吨的苯乙\n烯，优先购买原油B：\n······0.5（注：默认每类原油都购买整数吨），即最多购买\n\n2024 江西省公务员《行测》解析\n\n 智库，获取\n 27 / 50\n\n2 吨原油B，提炼剩下的0.5 吨的苯乙烯还需要购买1 吨原油A，此时共产生废气量为2×0.3+0.4=1\n吨，符合题干要求，则最低费用为2×0.4+0.3=1.1 万元。\n故正确答案为B。\n备注：本题若不默认按整数吨购买，计算为\n万元，也需选择B 项。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第78题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-079",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "A、D两地设有通信基站（如下图所示），发射信号范围分别是以A、D为圆心，AE和DB为半径的圆形区域，小 林从B地出发，沿与DB垂直的BA方向匀速行进，步行速度为4千米/小时，那么步行约多少分钟后小林的手机能 够重新接收到信号？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意可知，扇形AEC 和扇形DEB 分别被A、D 两地的通信基站发射的信号所覆盖，故小林由B 点\n出发后，手机就不能接收到信号，沿与DB 垂直的BA 方向匀速行进到C 点后手机可以重新接收到信\n号。根据勾股定理可得\nkm，又由DE=DB=1km，可得\nkm，故\nkm；根据题意，需要计算小林步行走\nBC 的时间，步行速度为4km/小时，BC=0.77km，故所需时间为\n分钟。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第79题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2024/q079.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2024-080",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个机器零部件的三视图如下图所示。为防生锈，要给其内部以及外表面均匀涂抹机油，若零件厚度忽略不 计，则涂抹机油的面积为多少平方厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据三视图可知，零件的形状为一个四周为圆环，中间为圆锥状凸起的薄片（类似尖顶草帽形状，如下图1所示）。\n\n要求内部以及外表面均匀涂抹机油，则需要涂抹机油的位置由圆环的上、下两面和圆锥的侧面积内、外两面组成。由于零件厚度忽略不计，则圆环的上、下两面的面积相等，圆锥的侧面积内、外两面的面积相等，因此所求面积=（圆环面积+圆锥侧面积）×2。根据主视图及左视图可知，圆环的大圆直径=2+2+2=6cm，小圆直径=2cm，则大、小圆半径分别为3cm和1cm。根据圆环面积公式：，则所求。结合勾股定理可计算圆锥母线l（AB）长度cm（如下图2所示）。\n\n根据圆锥侧面积公式：，则所求。故涂抹机油的面积。\n故正确答案为A。\n\n[来源 baijing1.top paperId=668 sort=80 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangxi行测第80题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2024/q080.png"
+  }
+]

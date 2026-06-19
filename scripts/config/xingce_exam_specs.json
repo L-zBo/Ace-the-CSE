@@ -1,0 +1,1650 @@
+{
+  "national": {
+    "2015": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2016": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2017": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2018": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2019": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2020": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2021": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2022": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "xingzhengzhifa": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2023": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "xingzhengzhifa": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2024": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 15,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      },
+      "xingzhengzhifa": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "yanyu": 40,
+          "shuliang": 10,
+          "panduan": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "2025": {
+      "fushengjia": {
+        "total": 135,
+        "modules": {
+          "changshi": 35,
+          "yanyu": 30,
+          "shuliang": 15,
+          "panduan": 35,
+          "ziliao": 20
+        }
+      },
+      "dishi": {
+        "total": 130,
+        "modules": {
+          "changshi": 35,
+          "yanyu": 30,
+          "shuliang": 10,
+          "panduan": 35,
+          "ziliao": 20
+        }
+      },
+      "xingzhengzhifa": {
+        "total": 130,
+        "modules": {
+          "changshi": 35,
+          "yanyu": 30,
+          "shuliang": 10,
+          "panduan": 35,
+          "ziliao": 20
+        }
+      }
+    }
+  },
+  "provincial": {
+    "anhui": {
+      "2020": {
+        "total": 136,
+        "modules": {
+          "changshi": 30,
+          "panduan": 45,
+          "shuliang": 15,
+          "yanyu": 25,
+          "ziliao": 21
+        }
+      },
+      "2022": {
+        "total": 110,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 41,
+          "shuliang": 17,
+          "yanyu": 27,
+          "ziliao": 15
+        }
+      },
+      "2024": {
+        "total": 110,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      }
+    },
+    "beijing": {
+      "2020": {
+        "total": 148,
+        "modules": {
+          "changshi": 35,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 28
+        }
+      },
+      "2021": {
+        "total": 146,
+        "modules": {
+          "changshi": 36,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 25
+        }
+      },
+      "2022": {
+        "total": 138,
+        "modules": {
+          "changshi": 35,
+          "panduan": 30,
+          "shuliang": 16,
+          "yanyu": 35,
+          "ziliao": 22
+        }
+      },
+      "2023": {
+        "total": 55,
+        "modules": {
+          "changshi": 20,
+          "panduan": 21,
+          "shuliang": 3,
+          "yanyu": 9,
+          "ziliao": 2
+        }
+      }
+    },
+    "chongqing": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      },
+      "2021": {
+        "total": 121,
+        "modules": {
+          "changshi": 20,
+          "panduan": 29,
+          "shuliang": 10,
+          "yanyu": 41,
+          "ziliao": 21
+        }
+      },
+      "2023": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 44,
+          "ziliao": 21
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      }
+    },
+    "fujian": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      },
+      "2022": {
+        "total": 3,
+        "modules": {
+          "changshi": 3
+        }
+      },
+      "2023": {
+        "total": 131,
+        "modules": {
+          "changshi": 20,
+          "panduan": 41,
+          "shuliang": 11,
+          "yanyu": 44,
+          "ziliao": 15
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      }
+    },
+    "gansu": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 35,
+          "ziliao": 20
+        }
+      },
+      "2021": {
+        "total": 119,
+        "modules": {
+          "changshi": 20,
+          "panduan": 40,
+          "shuliang": 10,
+          "yanyu": 35,
+          "ziliao": 14
+        }
+      },
+      "2022": {
+        "total": 128,
+        "modules": {
+          "changshi": 20,
+          "panduan": 39,
+          "shuliang": 10,
+          "yanyu": 39,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      }
+    },
+    "guangdong": {
+      "2020": {
+        "total": 191,
+        "modules": {
+          "changshi": 100,
+          "panduan": 44,
+          "shuliang": 21,
+          "yanyu": 10,
+          "ziliao": 16
+        }
+      },
+      "2021": {
+        "total": 97,
+        "modules": {
+          "changshi": 20,
+          "panduan": 36,
+          "shuliang": 16,
+          "yanyu": 10,
+          "ziliao": 15
+        }
+      },
+      "2022": {
+        "total": 109,
+        "modules": {
+          "changshi": 20,
+          "panduan": 43,
+          "shuliang": 21,
+          "yanyu": 10,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 100,
+        "modules": {
+          "changshi": 100
+        }
+      },
+      "2024": {
+        "total": 90,
+        "modules": {
+          "changshi": 15,
+          "panduan": 25,
+          "shuliang": 15,
+          "yanyu": 15,
+          "ziliao": 20
+        }
+      }
+    },
+    "guangxi": {
+      "2020": {
+        "total": 100,
+        "modules": {
+          "changshi": 10,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 35,
+          "ziliao": 10
+        }
+      },
+      "2021": {
+        "total": 112,
+        "modules": {
+          "changshi": 10,
+          "panduan": 40,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 12
+        }
+      },
+      "2023": {
+        "total": 110,
+        "modules": {
+          "changshi": 110
+        }
+      },
+      "2024": {
+        "total": 110,
+        "modules": {
+          "changshi": 10,
+          "panduan": 40,
+          "shuliang": 10,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      }
+    },
+    "guizhou": {
+      "2020": {
+        "total": 115,
+        "modules": {
+          "changshi": 15,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 110,
+        "modules": {
+          "changshi": 110
+        }
+      },
+      "2024": {
+        "total": 110,
+        "modules": {
+          "changshi": 15,
+          "panduan": 30,
+          "shuliang": 13,
+          "yanyu": 32,
+          "ziliao": 20
+        }
+      }
+    },
+    "hainan": {
+      "2020": {
+        "total": 108,
+        "modules": {
+          "changshi": 25,
+          "panduan": 23,
+          "shuliang": 9,
+          "yanyu": 41,
+          "ziliao": 10
+        }
+      },
+      "2021": {
+        "total": 109,
+        "modules": {
+          "changshi": 20,
+          "panduan": 29,
+          "shuliang": 10,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 110,
+        "modules": {
+          "changshi": 110
+        }
+      },
+      "2024": {
+        "total": 110,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 15,
+          "yanyu": 30,
+          "ziliao": 15
+        }
+      }
+    },
+    "hebei": {
+      "2020": {
+        "total": 131,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 40,
+          "ziliao": 21
+        }
+      },
+      "2022": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 131,
+        "modules": {
+          "changshi": 131
+        }
+      },
+      "2024": {
+        "total": 130,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "heilongjiang": {
+      "2020": {
+        "total": 135,
+        "modules": {
+          "changshi": 20,
+          "panduan": 38,
+          "shuliang": 15,
+          "yanyu": 47,
+          "ziliao": 15
+        }
+      },
+      "2021": {
+        "total": 144,
+        "modules": {
+          "changshi": 20,
+          "panduan": 42,
+          "shuliang": 17,
+          "yanyu": 49,
+          "ziliao": 16
+        }
+      },
+      "2022": {
+        "total": 50,
+        "modules": {
+          "changshi": 10,
+          "panduan": 15,
+          "shuliang": 4,
+          "yanyu": 11,
+          "ziliao": 10
+        }
+      },
+      "2023": {
+        "total": 131,
+        "modules": {
+          "changshi": 20,
+          "panduan": 39,
+          "shuliang": 16,
+          "yanyu": 40,
+          "ziliao": 16
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      }
+    },
+    "henan": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 15,
+          "panduan": 40,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      },
+      "2021": {
+        "total": 122,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 30,
+          "ziliao": 22
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 120
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 40,
+          "shuliang": 15,
+          "yanyu": 30,
+          "ziliao": 15
+        }
+      }
+    },
+    "hubei": {
+      "2020": {
+        "total": 126,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 21
+        }
+      },
+      "2023": {
+        "total": 127,
+        "modules": {
+          "changshi": 127
+        }
+      },
+      "2024": {
+        "total": 125,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 35,
+          "ziliao": 20
+        }
+      }
+    },
+    "hunan": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 15,
+          "panduan": 40,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      },
+      "2021": {
+        "total": 122,
+        "modules": {
+          "changshi": 16,
+          "panduan": 39,
+          "shuliang": 11,
+          "yanyu": 39,
+          "ziliao": 17
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 120
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 15,
+          "panduan": 40,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      }
+    },
+    "jiangsu": {
+      "2020": {
+        "total": 145,
+        "modules": {
+          "changshi": 15,
+          "panduan": 50,
+          "shuliang": 21,
+          "yanyu": 30,
+          "ziliao": 29
+        }
+      },
+      "2021": {
+        "total": 140,
+        "modules": {
+          "changshi": 15,
+          "panduan": 50,
+          "shuliang": 20,
+          "yanyu": 30,
+          "ziliao": 25
+        }
+      },
+      "2022": {
+        "total": 250,
+        "modules": {
+          "changshi": 135,
+          "panduan": 43,
+          "shuliang": 22,
+          "yanyu": 30,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 140,
+        "modules": {
+          "changshi": 20,
+          "panduan": 50,
+          "shuliang": 20,
+          "yanyu": 30,
+          "ziliao": 20
+        }
+      },
+      "2024": {
+        "total": 145,
+        "modules": {
+          "changshi": 20,
+          "panduan": 50,
+          "shuliang": 20,
+          "yanyu": 30,
+          "ziliao": 25
+        }
+      }
+    },
+    "jiangxi": {
+      "2020": {
+        "total": 155,
+        "modules": {
+          "changshi": 25,
+          "panduan": 40,
+          "shuliang": 20,
+          "yanyu": 40,
+          "ziliao": 30
+        }
+      },
+      "2023": {
+        "total": 135,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      },
+      "2024": {
+        "total": 135,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "jilin": {
+      "2020": {
+        "total": 100,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 30,
+          "ziliao": 10
+        }
+      },
+      "2023": {
+        "total": 113,
+        "modules": {
+          "changshi": 20,
+          "panduan": 36,
+          "shuliang": 11,
+          "yanyu": 33,
+          "ziliao": 13
+        }
+      },
+      "2024": {
+        "total": 100,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 30,
+          "ziliao": 10
+        }
+      }
+    },
+    "liaoning": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 120
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "neimenggu": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      },
+      "2022": {
+        "total": 134,
+        "modules": {
+          "changshi": 20,
+          "panduan": 40,
+          "shuliang": 11,
+          "yanyu": 46,
+          "ziliao": 17
+        }
+      },
+      "2023": {
+        "total": 129,
+        "modules": {
+          "changshi": 20,
+          "panduan": 46,
+          "shuliang": 10,
+          "yanyu": 37,
+          "ziliao": 16
+        }
+      }
+    },
+    "ningxia": {
+      "2020": {
+        "total": 119,
+        "modules": {
+          "changshi": 15,
+          "panduan": 34,
+          "shuliang": 11,
+          "yanyu": 39,
+          "ziliao": 20
+        }
+      },
+      "2021": {
+        "total": 120,
+        "modules": {
+          "changshi": 16,
+          "panduan": 39,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 67,
+        "modules": {
+          "changshi": 14,
+          "panduan": 18,
+          "shuliang": 6,
+          "yanyu": 18,
+          "ziliao": 11
+        }
+      },
+      "2024": {
+        "total": 115,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 30,
+          "ziliao": 15
+        }
+      }
+    },
+    "qinghai": {
+      "2020": {
+        "total": 155,
+        "modules": {
+          "changshi": 25,
+          "panduan": 40,
+          "shuliang": 20,
+          "yanyu": 40,
+          "ziliao": 30
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 120
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      }
+    },
+    "shaanxi": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 120,
+        "modules": {
+          "changshi": 120
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "shandong": {
+      "2020": {
+        "total": 94,
+        "modules": {
+          "changshi": 10,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 25,
+          "ziliao": 19
+        }
+      },
+      "2021": {
+        "total": 91,
+        "modules": {
+          "changshi": 10,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 25,
+          "ziliao": 16
+        }
+      },
+      "2022": {
+        "total": 90,
+        "modules": {
+          "changshi": 10,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 90,
+        "modules": {
+          "changshi": 10,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 40,
+          "shuliang": 10,
+          "yanyu": 30,
+          "ziliao": 20
+        }
+      },
+      "2025": {
+        "total": 64,
+        "modules": {
+          "changshi": 28,
+          "panduan": 12,
+          "shuliang": 11,
+          "yanyu": 13
+        }
+      }
+    },
+    "shanghai": {
+      "2020": {
+        "total": 130,
+        "modules": {
+          "changshi": 40,
+          "panduan": 65,
+          "yanyu": 25
+        }
+      },
+      "2021": {
+        "total": 213,
+        "modules": {
+          "changshi": 123,
+          "panduan": 65,
+          "yanyu": 25
+        }
+      },
+      "2023": {
+        "total": 130,
+        "modules": {
+          "changshi": 130
+        }
+      }
+    },
+    "shanxi": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 34,
+          "shuliang": 11,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 125,
+        "modules": {
+          "changshi": 125
+        }
+      },
+      "2024": {
+        "total": 125,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 40,
+          "ziliao": 15
+        }
+      }
+    },
+    "shenzhen": {
+      "2020": {
+        "total": 218,
+        "modules": {
+          "changshi": 31,
+          "panduan": 59,
+          "shuliang": 46,
+          "yanyu": 51,
+          "ziliao": 31
+        }
+      },
+      "2023": {
+        "total": 111,
+        "modules": {
+          "changshi": 25,
+          "panduan": 23,
+          "shuliang": 17,
+          "yanyu": 30,
+          "ziliao": 16
+        }
+      },
+      "2024": {
+        "total": 102,
+        "modules": {
+          "changshi": 25,
+          "panduan": 20,
+          "shuliang": 15,
+          "yanyu": 25,
+          "ziliao": 17
+        }
+      }
+    },
+    "sichuan": {
+      "2020": {
+        "total": 116,
+        "modules": {
+          "changshi": 15,
+          "panduan": 35,
+          "shuliang": 16,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      },
+      "2021": {
+        "total": 100,
+        "modules": {
+          "changshi": 15,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 30,
+          "ziliao": 15
+        }
+      },
+      "2022": {
+        "total": 127,
+        "modules": {
+          "changshi": 15,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 45,
+          "ziliao": 17
+        }
+      },
+      "2023": {
+        "total": 102,
+        "modules": {
+          "changshi": 102
+        }
+      },
+      "2024": {
+        "total": 100,
+        "modules": {
+          "changshi": 15,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 30,
+          "ziliao": 15
+        }
+      }
+    },
+    "tianjin": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 21,
+          "panduan": 34,
+          "shuliang": 10,
+          "yanyu": 35,
+          "ziliao": 20
+        }
+      },
+      "2023": {
+        "total": 131,
+        "modules": {
+          "changshi": 22,
+          "panduan": 38,
+          "shuliang": 10,
+          "yanyu": 41,
+          "ziliao": 20
+        }
+      },
+      "2024": {
+        "total": 120,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "yanyu": 40,
+          "ziliao": 20
+        }
+      }
+    },
+    "xinjiang": {
+      "2020": {
+        "total": 122,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "shuliang": 20,
+          "yanyu": 25,
+          "ziliao": 17
+        }
+      },
+      "2021": {
+        "total": 39,
+        "modules": {
+          "changshi": 6,
+          "panduan": 19,
+          "shuliang": 5,
+          "yanyu": 6,
+          "ziliao": 3
+        }
+      },
+      "2023": {
+        "total": 115,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      },
+      "2024": {
+        "total": 115,
+        "modules": {
+          "changshi": 25,
+          "panduan": 35,
+          "shuliang": 15,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      }
+    },
+    "yunnan": {
+      "2020": {
+        "total": 120,
+        "modules": {
+          "changshi": 20,
+          "panduan": 39,
+          "shuliang": 11,
+          "yanyu": 35,
+          "ziliao": 15
+        }
+      },
+      "2023": {
+        "total": 100,
+        "modules": {
+          "changshi": 100
+        }
+      },
+      "2024": {
+        "total": 100,
+        "modules": {
+          "changshi": 20,
+          "panduan": 30,
+          "shuliang": 10,
+          "yanyu": 25,
+          "ziliao": 15
+        }
+      }
+    },
+    "zhejiang": {
+      "2020": {
+        "total": 191,
+        "modules": {
+          "changshi": 40,
+          "panduan": 54,
+          "shuliang": 40,
+          "yanyu": 31,
+          "ziliao": 26
+        }
+      },
+      "2021": {
+        "total": 242,
+        "modules": {
+          "changshi": 20,
+          "panduan": 35,
+          "shuliang": 25,
+          "yanyu": 30,
+          "ziliao": 132
+        }
+      },
+      "2022": {
+        "total": 200,
+        "modules": {
+          "changshi": 35,
+          "panduan": 50,
+          "shuliang": 40,
+          "yanyu": 45,
+          "ziliao": 30
+        }
+      },
+      "2023": {
+        "total": 296,
+        "modules": {
+          "changshi": 54,
+          "panduan": 74,
+          "shuliang": 44,
+          "yanyu": 80,
+          "ziliao": 44
+        }
+      },
+      "2024": {
+        "total": 140,
+        "modules": {
+          "changshi": 20,
+          "panduan": 45,
+          "shuliang": 20,
+          "yanyu": 30,
+          "ziliao": 25
+        }
+      }
+    }
+  },
+  "institution": {
+    "2020": {
+      "a": {
+        "total": 164,
+        "modules": {
+          "changshi": 32,
+          "panduan": 44,
+          "shuliang": 37,
+          "yanyu": 41,
+          "ziliao": 10
+        }
+      },
+      "c": {
+        "total": 165,
+        "modules": {
+          "changshi": 34,
+          "panduan": 79,
+          "shuliang": 5,
+          "yanyu": 41,
+          "ziliao": 6
+        }
+      },
+      "e": {
+        "total": 79,
+        "modules": {
+          "changshi": 13,
+          "panduan": 35,
+          "shuliang": 5,
+          "yanyu": 21,
+          "ziliao": 5
+        }
+      }
+    },
+    "2021": {
+      "a": {
+        "total": 101,
+        "modules": {
+          "changshi": 45,
+          "panduan": 35,
+          "shuliang": 7,
+          "ziliao": 14
+        }
+      },
+      "b": {
+        "total": 159,
+        "modules": {
+          "changshi": 20,
+          "panduan": 45,
+          "shuliang": 52,
+          "yanyu": 35,
+          "ziliao": 7
+        }
+      },
+      "c": {
+        "total": 97,
+        "modules": {
+          "changshi": 34,
+          "panduan": 37,
+          "shuliang": 16,
+          "ziliao": 10
+        }
+      },
+      "e": {
+        "total": 81,
+        "modules": {
+          "changshi": 34,
+          "panduan": 30,
+          "shuliang": 17
+        }
+      }
+    },
+    "2022": {
+      "a": {
+        "total": 166,
+        "modules": {
+          "changshi": 20,
+          "panduan": 29,
+          "shuliang": 37,
+          "yanyu": 55,
+          "ziliao": 25
+        }
+      },
+      "b": {
+        "total": 75,
+        "modules": {
+          "changshi": 37,
+          "panduan": 29,
+          "shuliang": 9
+        }
+      },
+      "c": {
+        "total": 92,
+        "modules": {
+          "changshi": 20,
+          "panduan": 32,
+          "shuliang": 15,
+          "yanyu": 25
+        }
+      },
+      "e": {
+        "total": 99,
+        "modules": {
+          "changshi": 20,
+          "panduan": 33,
+          "shuliang": 10,
+          "yanyu": 36
+        }
+      }
+    },
+    "2023": {
+      "a": {
+        "total": 75,
+        "modules": {
+          "changshi": 40,
+          "panduan": 34,
+          "shuliang": 1
+        }
+      },
+      "b": {
+        "total": 115,
+        "modules": {
+          "changshi": 11,
+          "panduan": 44,
+          "shuliang": 11,
+          "yanyu": 49
+        }
+      },
+      "c": {
+        "total": 120,
+        "modules": {
+          "changshi": 34,
+          "panduan": 34,
+          "shuliang": 5,
+          "yanyu": 37,
+          "ziliao": 10
+        }
+      },
+      "e": {
+        "total": 117,
+        "modules": {
+          "changshi": 33,
+          "panduan": 38,
+          "shuliang": 15,
+          "yanyu": 21,
+          "ziliao": 10
+        }
+      }
+    },
+    "2024": {
+      "a": {
+        "total": 58,
+        "modules": {
+          "changshi": 34,
+          "panduan": 24
+        }
+      },
+      "b": {
+        "total": 84,
+        "modules": {
+          "changshi": 51,
+          "panduan": 33
+        }
+      },
+      "c": {
+        "total": 82,
+        "modules": {
+          "changshi": 51,
+          "panduan": 31
+        }
+      },
+      "e": {
+        "total": 78,
+        "modules": {
+          "changshi": 20,
+          "panduan": 29,
+          "yanyu": 29
+        }
+      }
+    }
+  }
+}

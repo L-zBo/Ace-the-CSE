@@ -1,0 +1,265 @@
+<!DOCTYPE html> <html> <head> <title>行测+申论 - 行测 - 题库 - 星光公考_公务员考试_公考_2025国家公务员考试_2025省公务员考试</title> <meta name="Keywords" content="公务员,公务员考试,公考,国家公务员,2025国家公务员考试网,2025省公务员考试网,公考笔试,公考面试,职位表,星光公考,公考讲师刘文波"/> <meta name="description" content="星光公考提供2025国家公务员考试网、2025省公务员考试网、公务员考试报考公告/大纲/职位表、公务员考试笔试面试辅导资料、公考历年真题下载及视频讲解、公考申论批改、公考笔试面试培训课程。"/> <meta name="author" content=""> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="renderer" content="webkit"> <link rel="icon" href="/statics//images/favicon.ico" type="image/x-icon"> <meta http-equiv="Cache-Control" content="no-siteapp"/> <script src="/statics/js/jquery.min.js" type="text/javascript" charset="utf-8"></script> <link href="/statics/css/pc/bootstrap/css/bootstrap.css" rel="stylesheet"> <link href="/statics/css/pc/main.css" rel="stylesheet"> <link href="/statics/css/pc/common.css?v=1725939153" rel="stylesheet"> <link href="/statics/css/pc/question.css?v=1725939153" rel="stylesheet"> <link href="/statics/css/pc/nav.css?v=1725939153" rel="stylesheet"/> <link href="/statics/simpleboot/font-awesome/4.4.0/css/font-awesome.min.css"  rel="stylesheet" type="text/css"> <link rel="stylesheet" href="/statics/js/layui/css/layui.css" media="all"> <script src="/statics/js/layui/layui.js"></script> <script src="/statics//js/pc/common.js?v=1725939153"></script> <script type="application/javascript">        var is_login = "0";
+        $(function(){
+            $('.login-no').on('click', function () {
+                common.isCheckLogin(0)
+                return false;
+            });
+            $('body').on('click','.auth-user-login',function (event){
+                common.isCheckLogin(is_login);
+                return is_login>0;
+            });
+
+            //通用头部搜索切换
+            $('#search-hd .search-hovertree-input').on('input propertychange',function(){
+                var val = $(this).val();
+                if(val.length > 0){
+                    $('#search-hd .pholder').hide(0);
+                }else{
+                    var index = $('#search-bd li.selected').index();
+                    $('#search-hd .pholder').eq(index).show().siblings('.pholder').hide(0);
+                }
+            })
+            $('#search_form').submit(function () {
+                let keyword = $.trim($("#search_keyword").val());
+                if(keyword.length<1){
+                    layui.use('layer', function() {
+                        var layer = layui.layer;
+                        layer.msg('请输入搜索内容', {icon: 7,area: '180px'});
+                    });
+                    return false;
+                }
+            });
+
+            $('#search-bd li').click(function(){
+            var index = $(this).index();
+            $('#search-hd .pholder').eq(index).show().siblings('.pholder').hide(0);
+            $('#search-hd .search-hover'+'tree-input').eq(index).show().siblings('.search-hovertree-input').hide(0);
+            $(this).addClass('selected').siblings().removeClass('selected');
+            $('#search-hd .search-hovertree-input').val('');
+            });
+        })
+        var GV = {
+            ROOT: "/",
+            WEB_ROOT: "/",
+            JS_ROOT: "/statics//js/"
+        };
+    </script> <style type="text/css">        .message-count{
+            position: absolute;
+            padding: 5px;
+            border-radius: 20px;
+            color: #fff;
+            background: red;
+            font-size: 12px;
+            top: 20px;
+            height: 20px;
+            margin-left: -25px;
+            line-height: 10px;
+            text-align: right;
+        }
+    </style> </head> <body> <div class="web-header"> <header class="header"> <div class="header-content"> <div class="header-menu-left"> <a href="/"><div class="logo"><img src="/statics/images/pc/logo.png"/></div></a> <div class="menu-item   menu-item "> <a href="/Pc/Index/index.html">首页</a> </div><div class="menu-item   menu-item "> <a href="/Pc/Course/index.html">课程</a> </div><div class="menu-item  menu-item-active  "> <a href="/Pc/XingQuestion/index.html">题库</a> </div><div class="menu-item   menu-item "> <a href="/Pc/Wb/index.html">发现</a> </div><div class="menu-item   menu-item "> <a href="/Pc/Page/download.html">APP下载</a> </div> </div> <div class="header-menu-right"> <a href="#" class="login-no">登录</a> </div> </div> </header> </div> <div class="popup"> <div class="user-popup"> <div class="user-popup-top"> <div class="user-popup-logo"> <img src=""  class="header-logo"/> </div> <div class="user-popup-info"> <span></span><br/> <span></span> </div> <div class="login-out">&nbsp;<a href="/Login/loginOut.html" > 退出</a></div> </div> <div class="user-popup-hr"></div> <div class="user-popup-center"> <div class="user-popup-name">会员专属特权</div> <div class="user-popup-desc">视屏解析等重点功能使用</div> <div class="user-popup-btn"><a href="/Pc/Vip/index.html">获取VIP会员特权</a></div> </div> <div class="user-popup-bottom"> <ul> <li> <a href="/Pc/UserCenter/order.html"> <div class="user-popup-icon"><img src="/statics/images/pc/btn_my_wodedingdan.png"/></div> <div class="user-popup-name">我的订单</div> </a> </li> <li> <a href="/Pc/Course/myCourse.html"> <div class="user-popup-icon"><img src="/statics/images/pc/btn_my_wodekecheng.png"/></div> <div class="user-popup-name">我的课程</div> </a> </li> <li> <a href="/Pc/XingQuestion/favQuesList/subject_id/2.html"> <div class="user-popup-icon"><img src="/statics/images/pc/btn_my_wodeshoucang.png"/></div> <div class="user-popup-name">我的收藏</div> </a> </li> </ul> </div> </div> </div> <script type="application/javascript">    $(function(){
+        function userLogin(){
+            layui.use('layer', function() {
+                layer.open({
+                    id:'video-layer',
+                    type:2,
+                    closeBtn: 1,
+                    area: ['365px', '432px'],
+                    title:false,
+                    scrollbar:false,
+                    shade: [0.5, '#000'],
+                    shadeClose:true,
+                    content:"/Login/mobile_login.html",
+                    success: function(layero, index){},
+                    cancel:function(index){
+                        layer.closeAll();
+                    }
+                });
+            });
+        }
+        $('.login-no').on('click',function (){
+            if('0'==0){
+                userLogin();
+                return false;
+            }
+        });
+
+        $('.header-logo').on('click',function (){
+            if($(".user-popup").is(":hidden")){
+                $(".user-popup").show();
+            }else{
+                $(".user-popup").hide();
+            }
+        });
+    })
+    var GV = {
+        ROOT: "/",
+        WEB_ROOT: "/",
+        JS_ROOT: "/statics//js/"
+    };
+
+    $(document).bind("click",function(e){
+        var target  = $(e.target);
+        if(target.closest(".user-popup,.header-logo").length == 0){
+            $(".user-popup").hide();
+        };
+        e.stopPropagation();
+    });
+</script> <!--body--> <div class="web-body"> <div class="article-nav"> <div class="index-nav"> <div class="cate-tab"> <div class="cate_name"> <a href="/XingQuestion/index/subject_id/2.html">						行测+申论 - 行测 - 历年真题
+					</a> </div> </div> </div> <div class="index-nav-back"> <a href="/XingQuestion/index/subject_id/2.html">				返回 <i class="layui-icon layui-icon-right layui-font-12"></i> </a> </div> </div> <div class="paper-search"> <div class="paper-search-row"> <div class="paper-search-row-label">考区</div> <div class="paper-search-row-list"> <a href="/XingQuestion/paperList/subject_id/2/area_id/0.html" class="paper-search-row-list-item checked">推荐</a> <a href="/XingQuestion/paperList/subject_id/2/area_id/321.html" class="paper-search-row-list-item ">国家</a><a href="/XingQuestion/paperList/subject_id/2/area_id/322.html" class="paper-search-row-list-item ">北京市</a><a href="/XingQuestion/paperList/subject_id/2/area_id/323.html" class="paper-search-row-list-item ">天津市</a><a href="/XingQuestion/paperList/subject_id/2/area_id/324.html" class="paper-search-row-list-item ">河北省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/325.html" class="paper-search-row-list-item ">山西省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/326.html" class="paper-search-row-list-item ">内蒙古</a><a href="/XingQuestion/paperList/subject_id/2/area_id/327.html" class="paper-search-row-list-item ">辽宁省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/328.html" class="paper-search-row-list-item ">吉林省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/329.html" class="paper-search-row-list-item ">黑龙江</a><a href="/XingQuestion/paperList/subject_id/2/area_id/330.html" class="paper-search-row-list-item ">上海市</a><a href="/XingQuestion/paperList/subject_id/2/area_id/331.html" class="paper-search-row-list-item ">江苏省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/332.html" class="paper-search-row-list-item ">浙江省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/333.html" class="paper-search-row-list-item ">安徽省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/334.html" class="paper-search-row-list-item ">福建省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/335.html" class="paper-search-row-list-item ">江西省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/336.html" class="paper-search-row-list-item ">山东省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/337.html" class="paper-search-row-list-item ">河南省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/338.html" class="paper-search-row-list-item ">湖北省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/339.html" class="paper-search-row-list-item ">湖南省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/340.html" class="paper-search-row-list-item ">广东省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/341.html" class="paper-search-row-list-item ">广西</a><a href="/XingQuestion/paperList/subject_id/2/area_id/342.html" class="paper-search-row-list-item ">海南省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/343.html" class="paper-search-row-list-item ">重庆市</a><a href="/XingQuestion/paperList/subject_id/2/area_id/344.html" class="paper-search-row-list-item ">四川省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/345.html" class="paper-search-row-list-item ">贵州省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/346.html" class="paper-search-row-list-item ">云南省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/347.html" class="paper-search-row-list-item ">西藏</a><a href="/XingQuestion/paperList/subject_id/2/area_id/348.html" class="paper-search-row-list-item ">陕西省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/349.html" class="paper-search-row-list-item ">甘肃省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/350.html" class="paper-search-row-list-item ">青海省</a><a href="/XingQuestion/paperList/subject_id/2/area_id/351.html" class="paper-search-row-list-item ">宁夏</a><a href="/XingQuestion/paperList/subject_id/2/area_id/352.html" class="paper-search-row-list-item ">新疆</a><a href="/XingQuestion/paperList/subject_id/2/area_id/356.html" class="paper-search-row-list-item ">广州市</a><a href="/XingQuestion/paperList/subject_id/2/area_id/357.html" class="paper-search-row-list-item ">深圳市</a><a href="/XingQuestion/paperList/subject_id/2/area_id/358.html" class="paper-search-row-list-item ">政法干警</a> </div> </div> <div class="paper-search-row"> <div class="paper-search-row-label">年份</div> <div class="paper-search-row-list"> <a href="/XingQuestion/paperList/subject_id/2/year/0.html" class="paper-search-row-list-item checked">推荐</a> <a href="/XingQuestion/paperList/subject_id/2/year/2026.html" class="paper-search-row-list-item ">2026</a><a href="/XingQuestion/paperList/subject_id/2/year/2025.html" class="paper-search-row-list-item ">2025</a><a href="/XingQuestion/paperList/subject_id/2/year/2024.html" class="paper-search-row-list-item ">2024</a><a href="/XingQuestion/paperList/subject_id/2/year/2023.html" class="paper-search-row-list-item ">2023</a><a href="/XingQuestion/paperList/subject_id/2/year/2022.html" class="paper-search-row-list-item ">2022</a><a href="/XingQuestion/paperList/subject_id/2/year/2021.html" class="paper-search-row-list-item ">2021</a><a href="/XingQuestion/paperList/subject_id/2/year/2020.html" class="paper-search-row-list-item ">2020</a><a href="/XingQuestion/paperList/subject_id/2/year/2019.html" class="paper-search-row-list-item ">2019</a><a href="/XingQuestion/paperList/subject_id/2/year/2018.html" class="paper-search-row-list-item ">2018</a><a href="/XingQuestion/paperList/subject_id/2/year/2017.html" class="paper-search-row-list-item ">2017</a><a href="/XingQuestion/paperList/subject_id/2/year/2016.html" class="paper-search-row-list-item ">2016</a><a href="/XingQuestion/paperList/subject_id/2/year/2015.html" class="paper-search-row-list-item ">2015</a><a href="/XingQuestion/paperList/subject_id/2/year/2014.html" class="paper-search-row-list-item ">2014</a><a href="/XingQuestion/paperList/subject_id/2/year/2013.html" class="paper-search-row-list-item ">2013</a><a href="/XingQuestion/paperList/subject_id/2/year/2012.html" class="paper-search-row-list-item ">2012</a><a href="/XingQuestion/paperList/subject_id/2/year/2011.html" class="paper-search-row-list-item ">2011</a><a href="/XingQuestion/paperList/subject_id/2/year/2010.html" class="paper-search-row-list-item ">2010</a><a href="/XingQuestion/paperList/subject_id/2/year/2009.html" class="paper-search-row-list-item ">2009</a><a href="/XingQuestion/paperList/subject_id/2/year/2008.html" class="paper-search-row-list-item ">2008</a> </div> </div> </div> <div class="paper-lists"> <div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2011年贵州省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">19人已作答</span> <span class="paper-lists-row-left-info-span">平均分:31分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2011年贵州省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727831" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/241.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2010年贵州省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共125题</span> <span class="paper-lists-row-left-info-span">13人已作答</span> <span class="paper-lists-row-left-info-span">平均分:46分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2010年贵州省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727779" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/227.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2008年贵州省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共100题</span> <span class="paper-lists-row-left-info-span">16人已作答</span> <span class="paper-lists-row-left-info-span">平均分:52分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/219.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2026年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">3人已作答</span> <span class="paper-lists-row-left-info-span">平均分:0分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2026年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1776938213" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/3104.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2025年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">101人已作答</span> <span class="paper-lists-row-left-info-span">平均分:67.23分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2025年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1764300980" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/2768.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2024年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">114人已作答</span> <span class="paper-lists-row-left-info-span">平均分:67.33分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2024年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733730332" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/2441.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2023年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">80人已作答</span> <span class="paper-lists-row-left-info-span">平均分:59.93分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2023年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733730256" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/1687.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2022年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">56人已作答</span> <span class="paper-lists-row-left-info-span">平均分:59.62分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2022年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733730111" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/1641.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2021年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">60人已作答</span> <span class="paper-lists-row-left-info-span">平均分:66.28分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2021年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733729893" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/1110.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2020年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">41人已作答</span> <span class="paper-lists-row-left-info-span">平均分:68.54分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2020年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733729715" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/1013.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2019年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">36人已作答</span> <span class="paper-lists-row-left-info-span">平均分:59.62分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2019年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733729432" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/730.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2018年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">24人已作答</span> <span class="paper-lists-row-left-info-span">平均分:63.11分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2018年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733728963" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/597.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2017年海南省公务员录用考试《行测》真题（B类-考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">18人已作答</span> <span class="paper-lists-row-left-info-span">平均分:57.75分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2017年海南省公务员录用考试《行测》真题（B类-考生回忆版）.pdf?time=1733727994" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/276.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2016年海南省公务员录用考试《行测》真题（423联考卷-考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共110题</span> <span class="paper-lists-row-left-info-span">11人已作答</span> <span class="paper-lists-row-left-info-span">平均分:67.28分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2016年海南省公务员录用考试《行测》真题（423联考卷-考生回忆版）.pdf?time=1733727963" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/268.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2015年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">6人已作答</span> <span class="paper-lists-row-left-info-span">平均分:52.5分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2015年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727944" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/263.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2014年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">5人已作答</span> <span class="paper-lists-row-left-info-span">平均分:58.35分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2014年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727900" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/253.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2013年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">9人已作答</span> <span class="paper-lists-row-left-info-span">平均分:60分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2013年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727822" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/238.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2012年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">4人已作答</span> <span class="paper-lists-row-left-info-span">平均分:55.8分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2012年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727839" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/243.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2011年海南省公务员录用考试《行测》真题（考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">4人已作答</span> <span class="paper-lists-row-left-info-span">平均分:55.8分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2011年海南省公务员录用考试《行测》真题（考生回忆版）.pdf?time=1733727892" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/251.html" class="auth-user-login">															开始作答						</a> </div> </div> </div><div class="paper-lists-row"> <div class="paper-lists-row-left" onclick="beginPaper(this);"> <div class="paper-lists-row-left-title">						2010年海南省公务员录用考试《行测》真题（918联考卷-考生回忆版）					</div> <div class="paper-lists-row-left-info"> <span class="paper-lists-row-left-info-span">共120题</span> <span class="paper-lists-row-left-info-span">8人已作答</span> <span class="paper-lists-row-left-info-span">平均分:61.25分</span> </div> </div> <div class="paper-lists-row-right"> <div class="paper-lists-row-right-download"> <a href="https://upload.xingguanggongkao.com/pdf/2010年海南省公务员录用考试《行测》真题（918联考卷-考生回忆版）.pdf?time=1733728322" target="_blank"> <img src="/statics//images/pc/down_lnzt.png" width="30">								下载PDF
+							</a> </div> <div class="paper-lists-row-right-but "> <a href="/XingQuestion/beginView/subject_id/2/type/4/type_param/366.html" class="auth-user-login">															开始作答						</a> </div> </div> </div> <div class="list-page"> <div class="pagination"> <li><a href="/Pc/XingQuestion/paperList/p/1.html">首页</a> </li><li><a href="/Pc/XingQuestion/paperList/p/9.html">上一页</a> </li>&nbsp;<li><a href="/Pc/XingQuestion/paperList/p/1.html">1</a> </li><li><a href="/Pc/XingQuestion/paperList/p/2.html">2</a> </li><li><span>...</span></li> <li><a href="/Pc/XingQuestion/paperList/p/9.html"> 9</a> </li><li class="active current"><span class="current" >10</span> </li><li><a href="/Pc/XingQuestion/paperList/p/11.html"> 11</a> </li><li><a href="/Pc/XingQuestion/paperList/p/12.html"> 12</a> </li> <li><span>...</span></li><li><a href="/Pc/XingQuestion/paperList/p/38.html"> 38 </a> </li><li><a href="/Pc/XingQuestion/paperList/p/39.html"> 39 </a> </li>&nbsp;<li><a href="/Pc/XingQuestion/paperList/p/11.html">下一页</a> </li><li><a href="/Pc/XingQuestion/paperList/p/39.html">尾页</a> </li> </div> </div> </div> </div> <!--body--> <script>	function beginPaper(obj) {
+		let href = $(obj).next('.paper-lists-row-right').children('.paper-lists-row-right-but').children('a').attr('href');
+		location.href = href;
+		return false;
+	}
+</script> <!--footer--> <footer class="web-footer"> <div class="links"> <a class="link-cooperation" href="https://www.xingguanggongkao.com/mobile/ques/lists" target="_blank" title="星光题库" rel="nofollow"
+               report-tdw="action=cooperation_click&amp;ver3=1">星光题库 &nbsp;&nbsp;
+            </a> </div> <div class="footer"> <div class="footer-list"> <a href="/mobile/AppH5/pages/id/1.html">隐私政策</a> |
+            <a href="/mobile/AppH5/pages/id/9.html">用户协议</a> |
+            <a href="#" class="weixin-tip">官方微信</a> |
+            <a href="https://weibo.com/u/5654255795" target="_blank">官方微博</a> </div> <div class="copy-right">Copyright © 2023 点点星光. All Rights Reserved. | 
+西安点点星光科技有限公司版权所有   <a href="https://beian.miit.gov.cn" target="_blank">陕ICP备2023003693号</a> <div style="width:300px;margin:0 auto; padding:20px 0;"> <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=61019002002438" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/statics/images/beian.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">陕公网安备 61019002002438号</p></a> </div> </div> <p style="text-align: center; color: #fff;line-height: 30px"></p> </div> </footer> <style>    dd {
+        margin-bottom: 0px !important;
+        margin-left: 0;
+    }
+    .floating_ck{position:fixed;right:0px;top:50%;z-index: 998;width:70px;height: 321px}
+    .floating_ck dl{width:70px;height: 321px}
+    .floating_ck dl dd{position:relative;width:70px;height:80px;background-color:#fff;text-align:center;background-repeat:no-repeat;background-position:center;cursor:pointer;}
+    .floating_ck dl dd.showck{background-color:#fff;}
+    .floating_ck dl dd.showck .floating_left{display:block;}
+    .floating_ck .consult,.words{
+        background-image:url(/statics/images/pc/btn_my_zaixianzixun.png);
+    }
+    .floating_ck dd span{color:#000;display:block;padding-top:54px;font-weight: 400;padding-bottom: 5px;}
+    .floating_ck .floating_left{
+        position:absolute;
+        left:-192px;
+        top:0px;
+        display:none;
+        width: 182px;
+        height: 268px;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 15px 0px rgba(0,0,0,0.06);
+        border-radius: 10px;
+    }
+    .floating_ck .floating_left a{color:#000000;line-height:80px;}
+    .floating_ck .floating_ewm{height:auto;top:-190px;}
+    .floating_ck .floating_ewm i{background:url('https://upload.xingguanggongkao.com/admin/20231025/653887ba98e6e.png') no-repeat ;background-size: cover; display:block;width:162px;height:162px;margin:auto;margin-top:10px; }
+    .floating_ck .floating_ewm p{color:#fff;margin-top:5px;}
+    .floating_ck .floating_ewm .qrcord_p01{font-size:12px;line-height:20px;color: #999999;margin-bottom: 20px;}
+    .floating_ck .floating_ewm .qrcord_p02{font-size:18px;color: #000000;}
+    .floating_ck .top_return{background-image:url(/statics/images/pc/btn_my_fanhuidinbu.png); background-repeat: no-repeat; margin:0 auto;}
+    .floating_ck .usercenter-vip{background-image:url(/statics/images/pc/btn_my_tehuichongzhi.png); background-repeat: no-repeat;background-position:center 20px; margin:0 auto;}
+    .floating_ck .download-app{background-image:url(/statics/images/pc/btn_my_xiazaiAPP.png); background-repeat: no-repeat;background-position:center 20px;margin:0 auto;}
+    .hr-line{
+        width: 80%;
+        margin: 0 auto;
+        border-bottom: 1px solid #eee;
+    }
+    .links{
+        width: 1200px;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .links a{
+       color: #ffffff;
+    }
+    .web-footer .footer .footer-list{
+        margin-top: 20px !important;
+    }
+</style> <div class="floating_ck" id="floating_ck"> <dl> <a href="/Pc/Vip/index.html" style="color:#000" target="_blank"> <dd> <span class="usercenter-vip">会员充值</span> <div class="hr-line"></div> </dd> </a> <a href="/Pc/Page/download.html" style="color:#000" target="_blank"> <dd> <span class="download-app">下载APP</span> <div class="hr-line"></div> </dd> </a> <dd class="consult" id="floating_ck_consult"> <span>在线咨询</span> <div class="floating_left floating_ewm"> <i></i> <p class="qrcord_p01">微信扫一扫</p> <p class="qrcord_p02">客服电话<br><b>15686428673</b></p> </div> <div class="hr-line"></div> </dd> <dd class="top_return" onClick="gotoTop();return false;"> <span>返回顶部</span> </dd> </dl> </div> <script>    $("#floating_ck_consult").click(function(){
+        showkefu();
+    })
+    function showkefu(){
+        if($("#floating_ck_consult").hasClass('showck')){
+            $("#floating_ck_consult").removeClass('showck')
+        }else{
+            $("#floating_ck_consult").addClass('showck')
+        }
+    }
+    function gotoTop(acceleration,stime) {
+        acceleration = acceleration || 0.1;
+        stime = stime || 10;
+        var x1 = 0;
+        var y1 = 0;
+        var x2 = 0;
+        var y2 = 0;
+        var x3 = 0;
+        var y3 = 0;
+        if (document.documentElement) {
+            x1 = document.documentElement.scrollLeft || 0;
+            y1 = document.documentElement.scrollTop || 0;
+        }
+        if (document.body) {
+            x2 = document.body.scrollLeft || 0;
+            y2 = document.body.scrollTop || 0;
+        }
+        var x3 = window.scrollX || 0;
+        var y3 = window.scrollY || 0;
+
+        // 滚动条到页面顶部的水平距离
+        var x = Math.max(x1, Math.max(x2, x3));
+        // 滚动条到页面顶部的垂直距离
+        var y = Math.max(y1, Math.max(y2, y3));
+
+        // 滚动距离 = 目前距离 / 速度, 因为距离原来越小, 速度是大于 1 的数, 所以滚动距离会越来越小
+        var speeding = 1 + acceleration;
+        window.scrollTo(Math.floor(x / speeding), Math.floor(y / speeding));
+
+        // 如果距离不为零, 继续调用函数
+        if(x > 0 || y > 0) {
+            var run = "gotoTop(" + acceleration + ", " + stime + ")";
+            window.setTimeout(run, stime);
+        }
+    }
+
+    $(function() {
+        $('.floating_ck dd').mouseover(function() {
+            $(this).css({
+                'background-color':'#FEC41A',
+            });
+        });
+        $('.floating_ck dd').mouseout(function() {
+            $(this).css({
+                'background-color':'#fff',
+            });
+        });
+    });
+
+    $(".weixin-tip").click(function(){
+        layui.use('layer', function() {
+            layer.open({
+                id:'video-layer',
+                type:1,
+                area: ['300px', '240px'],
+                title:false,
+                shade: [0.3, '#000'],
+                scrollbar:false,
+                content:'<div class="wx-content" style="width: 100%; margin: 0 auto;text-align: center"><div class="wx-qrcode" style="width: 100%; margin: 0 auto;text-align: center;margin-top: 20px"><img src="https://upload.xingguanggongkao.com/admin/20231025/653887ba98e6e.png" width="162" height="162" style="margin: 0 auto"/></div><div class="wx-code" style="margin: 0 auto;text-align: center" >官方微信扫一扫</div></div>',
+                success: function(layero, index){},
+                cancel:function(index){
+                    layer.closeAll();
+                }
+            });
+        });
+    });
+
+</script> </body> </html> <!--footer-->

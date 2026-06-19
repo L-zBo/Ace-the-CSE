@@ -1,0 +1,354 @@
+[
+  {
+    "id": "national-xingce-shuliang-2023-dishi-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "商店销售某种商品，打八折销售时卖 2 件的利润与按定价销售时卖 1 件的利润相同，相当于降价 120 元/ 件销售时卖 3 件的利润。问该商品的定价为多少元/件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "360"
+      },
+      {
+        "label": "B",
+        "content": "450"
+      },
+      {
+        "label": "C",
+        "content": "540"
+      },
+      {
+        "label": "D",
+        "content": "720"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设该商品每件定价为 x 元，成本为 y 元，根据题意可得：x-y=（80%x-y）×2······①，x-y=（x-120-y）\n\n×3······②，联立①②，解得 x=450，即该商品的定价为 450 元/件。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第61题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "13 农科院在某村 287 名淡水鱼养殖人员中开展防病培训和育种培训。已知参加防病培训的养殖人员中，参加 育种培训的人数比未参加的多 21%；参加育种培训的养殖人员中，参加防病培训的人数比未参加的多 76 人。问 共有多少人未参加任何一项培训？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "23"
+      },
+      {
+        "label": "C",
+        "content": "25"
+      },
+      {
+        "label": "D",
+        "content": "27"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据“参加防病培训的养殖人员中，参加育种培训的人数比未参加的多 21%”，可知只参加防病培训的人\n数是 100 的倍数。由于总人数为 287 人，当只参加防病培训的人数是 200 人时，参加防病培训的共有 200×（1+21%）\n+200＞287 人，排除。则只参加防病培训的人数为 100 人，此时既参加防病培训又参加育种培训的有 100×（1+21%）\n=121 人，只参加育种培训的有 121-76=45 人。未参加培训的人数=总数-只参加防病培训的人数-只参加育种培\n训的人数-两者都参加的人数=287-100-45-121=21 人，即共有 21 人未参加任何一项培训。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第62题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "社区计划采购 10 份年货礼包发放给 10 户独居老人，每户发放 1 份。年货礼包有 100 元/份和 150 元/份的 两种供选择，总预算不能超过 1250 元。如采购了 150 元/份的年货礼包，则需要优先在 3 户孤寡老人中选择发 放对象。问共有多少种不同的发放方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "28"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "55"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设购买 150 元/份的年货礼包 x 份，则购买 100 元/份的年货礼包（10-x）份，故可列式：\n\n，解得：\n\n。因此年货礼包采购数量情况可分为以下 6 类：\n\n（1）150 元的 0 份，100 元的 10 份，有\n\n种发放方式；\n\n（2）150 元的 1 份，100 元的 9 份，有\n\n种不同的发放方式；\n\n（3）150 元的 2 份，100 元的 8 份，有\n\n种不同的发放方式；\n\n（4）150 元的 3 份，100 元的 7 份，有\n\n种发放方式；\n\n（5）150 元的 4 份，100 元的 6 份，有\n\n种不同的发放方式；\n\n（6）150 元的 5 份，100 元的 5 份，有\n\n种不同的发放方式。\n\n分类用加法，共有 1+3+3+1+7+21=36 种不同的发放方式。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第63题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲和乙两个工程队共同承担某项工程的施工任务。两队合作时各自的效率均比单独施工时高 20%。已知两 队合作施工需要 25 天完工；如甲先施工 15 天后乙加入，两队合作 15 天后剩余工作乙单独施工还需要 10 天完 成。问甲队的效率是乙队的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设甲队和乙队单独施工时的效率分别为 x、y，根据题意可知：甲队和乙队合作施工时的效率分别为 1.2x、\n\n1.2y。根据工程总量相等，则（1.2x+1.2y）×25=15x+（1.2x+1.2y）×15+10y，解得\n\n，即甲队的效率是\n\n乙队的 。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第64题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2023_dishi/q064.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "公园里有一片四边形草坪，沿对角线修建的小道相交于 O 点，O 到四个顶点 A、B、C、D 的距离之比正好为 1：2：3：4，一名工人花费 1 天正好完成 AOB 区域的修剪，问第二天至少需要额外增加多少名效率相同的工人 一起工作，才能在当天内完成剩余草坪的修剪？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "11 14"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，设\n\n的面积为 S。因为\n\n与\n\n的高相同，底边 BO：DO=2：4=1：2，根据结论“两\n\n个三角形的高相同，面积之比等于底之比”可得：\n底边 AO：CO=1：3，则\n\n；\n\n；同理，\n\n与\n\n的高相同，\n\n与\n\n的高相同，底边 AO：CO=1：3，则\n\n。故四边形 ABCD 的面积=S+2S+6S+3S=12S。根据题意可知，一名工人花费 1 天正好完成 AOB\n区域的修剪，即一名工人花费 1 天修剪的面积为 S，剩余面积为 12S-S=11S，则要在第二天完成修剪至少需要\n11S÷S=11 名效率相同的工人，故至少需要额外增加 11-1=10 名效率相同的工人一起工作。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第65题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲和乙两人 8：00 同时从 A 地出发前往 B 地，其中乙全程匀速，甲出发时的速度是乙的一半，但全程均匀 加速。已知 10：00 甲追上乙，11：00 甲到达 B 地。问乙什么时间到达 B 地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11：30"
+      },
+      {
+        "label": "B",
+        "content": "11：45"
+      },
+      {
+        "label": "C",
+        "content": "12：00"
+      },
+      {
+        "label": "D",
+        "content": "12：15"
+      }
+    ],
+    "answer": "B",
+    "explanation": "19\n\n\f赋值出发时甲的速度为 1，乙的速度为 2。从 8：00 至 10：00，甲和乙的路程相同，即该时段甲的平均速\n\n度=乙的速度=2。根据匀加速运动的平均速度\n\n，则 10：00 时甲的速度为 2×2-1=3。因此，\n\n甲的速度每小时增加\n\n，故甲 11：00 时的速度为 3+1=4。根据甲可计算，从 A 地到 B 地的路程为\n\n，\n\n则乙全程所需时间为\n\n小时\n\n小时=3 小时 45 分钟，即乙在 11：45 到达 B 地。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第66题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "工厂从某周第一天开始生产某种零件，每周生产 7 天，从第二天开始每一天都比前一天多生产 200 件。已 知工厂第三周的产量是第一周的 2 倍，问第几天其日产量第一次达到 1 万件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "37"
+      },
+      {
+        "label": "B",
+        "content": "38"
+      },
+      {
+        "label": "C",
+        "content": "39"
+      },
+      {
+        "label": "D",
+        "content": "40"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意可知，每天的零件产量构成等差数列。设第一天的零件产量为 x 件，根据等差数列通项公式\n\n，可得第一周第四天的零件产量\n\n件。结合等差数列求和公\n件。同理，第三周第四天的产量（即第 18 天）\n式\n的产量\n件。根据“第三周的产量是第\n一周的 2 倍”可列式：7x+23800=2（7x+4200），解得 x=2200。设该工厂第 n 天的日产量第一次达到 1 万件，\n则可列式：2200+（n-1）×200=10000，解得 n=40，即第 40 天其日产量第一次达到 1 万件。\n\n，则第一周的零件产量\n\n件，则第三周的产量\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第67题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲、乙二人合伙成立公司，约定每年利润的 60%留作公司发展用途，40%按二人投资比例分配。已知公司成 立第三年的利润比第二年高 300 万元，是第一年利润的 3 倍；甲第二年分配的金额是第三年的一半，且比第一 年多 20 万元。问乙的投资额占比为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40%"
+      },
+      {
+        "label": "B",
+        "content": "50%"
+      },
+      {
+        "label": "C",
+        "content": "60%"
+      },
+      {
+        "label": "D",
+        "content": "75%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设该公司第一年的利润为 x 万元，根据题意可得，第三年的利润为 3x 万元，第二年的利润为（3x-300）\n万元。已知每年二人将利润的 40%按投资比例分配，且甲第二年分配的金额是第三年的一半，设甲的投资额占\n\n比为 y，可列方程：\n\n，解得 x=200。则第一年的利润为 200 万元，第二年的\n\n利润为 3×200-300=300 万元。又因甲第二年分配的金额比第一年多 20 万元，可列方程：300×40%×y=200×\n40%×y+20，解得 y=50%，故甲的投资额占比为 50%，则乙的投资额占比为 1-50%=50%。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第68题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "从 A 地前往 B 地的道路前 40%的路程为上坡路，其余为下坡路。张某驾驶满载的汽车从 A 地去 B 地卸货， 然后空车返回 A 地。已知他满载时上坡的速度是下坡速度的一半，空车时上、下坡的速度分别是满载时的 1.5 倍和 1.2 倍。问他返程的用时是去程的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "赋值去程上坡路段长度为 40，则去程下坡路段长度为 60；赋值满载时上坡的速度为 1，则满载时下坡速度\n为 2。根据题意可知，空车时上坡速度=满载时上坡速度×1.5=1×1.5=1.5，空车时下坡速度=满载时下坡速度\n\n×1.2=2×1.2=2.4。去程时间为\n\n，返程时间为\n\n，则所求倍数\n\n。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第69题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2023_dishi/q069.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-dishi-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲、乙两名职工负责国庆 7 天长假的值班工作，每天安排 1 人值班。已知乙至少值了 2 天班，且在国庆期 间任一天结束后，甲的累计值班天数都比乙的多。问两人的值班日期安排有多少种不同的可能？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "9"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "14 四、判断推理。第四部分 判断推理。 本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的 试题，在四个选项中选出一个最恰当的答案。 15"
+      }
+    ],
+    "answer": "D",
+    "explanation": "因乙至少值了 2 天班，且在国庆期间任一天结束后，甲的累计值班天数都比乙的多，则乙值班 2 天或者 3\n\n天，且乙最早从第三天开始值班。分情况讨论如下：\n\n①乙值班 2 天：当乙从第三天开始值班时，则剩下的 1 天可以从第五天、第六天和第七天中选 1 天，有 3\n种情况；当乙从第四天开始值班时，则剩下的 1 天可以从第五天、第六天和第七天中选 1 天，有 3 种情况；当\n乙从第五天开始值班时，则剩下的 1 天可以从第六天和第七天中选 1 天，有 2 种情况；当乙从第六天开始值班\n时，则剩下的 1 天为第七天，有 1 种情况，共有 3+3+2+1=9 种情况；\n\n②乙值班 3 天：当乙从第三天开始值班时，则剩下的 2 天可以为第五天和第七天、第六天和第七天，有 2\n种情况；当乙从第四天开始值班时，则剩下的 2 天可以为第五天和第七天、第六天和第七天，有 2 种情况；当\n乙从第五天开始值班时，则剩下的 2 天为第六天和第七天，有 1 种情况，共有 2+2+1=5 种情况。\n\n因此，两人的值班日期安排有 9+5=14 种不同的可能。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（地市级）第70题",
+    "level": "dishi"
+  }
+]

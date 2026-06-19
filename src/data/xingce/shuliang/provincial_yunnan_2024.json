@@ -1,0 +1,353 @@
+[
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲和乙两个工厂共同承接 50 万个零件的生产任务，********个，之后乙也招聘新工人， 将日产量提升 20%，问两个工厂还需要多少天才能完成全部生产任务（不足 1 天的部分算 1 天）?",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "content": "14"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】————题不完整，解析待更新。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第46题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "运动会招募志愿者，第一次招募了不到100人，其中男女比例为11：7；补招若干女性志愿者后，男女比例变为 4：3。问最多可能补招了多少名女性志愿者？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据“男女比例为11：7”“补招若干女性志愿者后，男女比例变为4：3”可知，男生人数既是11\n的倍数，又是4 的倍数，男生人数为44n。结合“第一次招募了不到100 人”可知，男生人数是44\n人，原来女生人数为44÷11×7=28 人；补招后女生人数变为44÷4×3=33 人。可知女生最多可能补\n招人数为33-28=5 人。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第47题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "c地为a、b两地直线道路上的一点，甲、乙两人9：00分别自a、b两地同时出发匀速相向而行，甲的速度是乙的 1.5倍，甲9：40到达c地休息10分钟后继续向b地前进；乙全程不休息，在10：40到达c地，问甲、乙相遇的时间 为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10：00"
+      },
+      {
+        "label": "B",
+        "content": "10：10"
+      },
+      {
+        "label": "C",
+        "content": "10：20"
+      },
+      {
+        "label": "D",
+        "content": "10：30"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n方法一：赋值甲每分钟的速度为3，乙每分钟的速度为2。根据甲9：40 到达c 地，则\n；乙全程不休息，在10：40 到达c 地，则\n，因此ab 的路\n程\n。设甲、乙两人从9：00 开始出发t 分钟后相遇，则\n，解得t=70，因此甲、乙相遇的时间为9：00+70 分钟=10：10。 \n方法二：赋值甲每分钟的速度为3，乙每分钟的速度为2。根据乙9：00 出发，在10：40 到达c 地，\n可得乙从b 地到c 地的路程为2×100=200。当甲9：50 离开c 地继续向b 地前进时，乙已走的路程\n\n为2×50=100 ，此时甲、乙继续相向而行所需的相遇时间\n分钟，则甲、乙相遇时间为9：50+20 分钟=10：10。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第48题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "从甲地到乙地的全价机票为2000元，购买全价或折扣机票，每张都要支付120元税费，从甲地到乙地的高铁票 价为680元，企业要安排20人当日从甲地前往乙地出差，单程总预算不超过2万元，已知当日高铁票、机票都充 足，2折、3折和5折机票分别还剩余2张、3张和5张，其余为全价机票，问在预算范围内最多能安排多少人乘飞 机前往乙地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "13"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n题干要求预算范围内安排乘飞机前往乙地的人数最多，结合选项可知乘飞机的人数大于折扣机票的\n剩余张数2+3+5=10 张，则题干中的折扣机票应全部购买，购买折扣机票的费用为\n2000×0.2×2+2000×0.3×3+2000×0.5×5+120×10=8800 元；设购买全价机票的人数为n 人，根据\n题意可列方程：\n，解得\n，则n=3 人。故在预算范围内最多能安排乘飞机前往乙地的人数为10+3=13 人。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第49题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一块直角三角形绿地的三边均铺有长度为整数米的水管，其中一条直角边外的水管长7米。若在水管上随机任 选1个点做标记，则该标记点在斜边上的概率在以下哪个范围内？（忽略水管直径）",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于0.35"
+      },
+      {
+        "label": "C",
+        "content": "在0.42~0.50之间"
+      },
+      {
+        "label": "B",
+        "content": "在0.35~0.42之间"
+      },
+      {
+        "label": "D",
+        "content": "大于0.50"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意，若直角三角形一条直角边为a，a=7 米，设另外一条直角边为b，斜边长为c，根据勾股\n定理可知\n，即（c+b）×（c-b）=49×1，可得：c+b=49······①，c-\nb=1······②，联立①②两式，解得：b=24 米，c=25 米。根据公式：概率\n，\n若在水管上随机任选1 个点做标记，则该标记点在斜边上的概率为\n，\n在C 项范围内。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第50题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "高校管理学院某期培训班有不到100名学员参加，期中、期末两次考试平均分分别为68分和75分，期中考试不 及格学员平均分为53分，及格学员平均分为74分；期末考试不及格学员平均分为47分、及格学员平均分为83 分。问这期培训班有多少名学员参加？",
+    "options": [
+      {
+        "label": "A",
+        "content": "42"
+      },
+      {
+        "label": "B",
+        "content": "54"
+      },
+      {
+        "label": "C",
+        "content": "63"
+      },
+      {
+        "label": "D",
+        "content": "77 第 8 页，共 18 页"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n方法一：设该期培训班期中考试及格人数和不及格人数分别为x、y 人，期末考试及格人数和不及格\n人数分别为a、b 人，根据题意可知，期中考试总成绩为74x+53y=68（x+y），化简可得2x=5y，所以\n，则总人数x+y 为7 的倍数；期末考试总成绩为83a+47b=75（a+b），化简可得2a=7b，所\n以\n，则总人数a+b 为9 的倍数。综上，总人数为7 和9 的公倍数，即为63 的倍数，结合总\n人数不到100 人，则总人数为63 人。 \n故正确答案为C。 \n方法二：由期中考试不及格学员平均分为53 分，及格学员平均分为74 分，期中考试平均分为68 分，\n\n根据线段法口诀“ 距离与量成反比” 可得，\n，解得\n，则总人数为7 的倍数；由期末考试不及格学员平均分为47 分、及格学\n员平均分为83 分，期末考试平均分为75 分，根据线段法口诀“距离与量成反比”可得，\n，解得\n，则总人数为9 的倍数。综上，\n总人数为7 和9 的公倍数，即为63 的倍数，结合总人数不到100 人，则总人数为63 人。 \n \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第51题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个白色圆柱体零件的底面半径是高的1.5倍，现将其表面涂上黑漆之后，沿下图所示虚线方向切割为4个完全 相同的部分。问单个部分的黑色面积是白色面积的多少倍？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1.1倍"
+      },
+      {
+        "label": "B",
+        "content": "1.1-1.2倍之间"
+      },
+      {
+        "label": "C",
+        "content": "1.2-1.3倍之间"
+      },
+      {
+        "label": "D",
+        "content": "1.3倍以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意，赋值该圆柱零件高为\n2 ，则底面半径为\n3 ，\n；切割后单个部分如图所示，其黑色面积\n，\n其\n白\n色\n面\n积\n，则所求倍数为\n倍，在B 项范围内。 \n \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第52题",
+    "region": "yunnan",
+    "questionImage": "/img/questions/provincial_yunnan_2024/q052.png"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "商店销售甲、乙、丙、丁四种商品，每件分别盈利15元、9元、4元和1元。某日销售这四种商品共40件，共盈 利201元。四种商品每种至少销售1件，且甲、丁商品销量相同。问当天丙商品的销量为多少件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n根据“甲、丁商品销量相同”，设甲、乙、丙、丁四种商品销量分别为x 件、y 件、z 件、x 件。根\n据“这四种商品共40 件”可得，2x+y+z=40······①；根据“共盈利201 元”可得，\n15x+9y+4z+x=201······②。令①×8-②可消去x，得4z-y=119。因为四种商品每种至少销售\n\n1 件，可得4z＞119，即\n，排除A、B、C 三项。代入D 项验证，若z=31，则y=4z-\n119=124-119=5，2x=40-31-5=4，x=2，符合题干所有条件。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第53题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "安排A、B、C、D共4个研发团队参与甲、乙、丙3个课题的研究，要求每个课题至少有1个团队参与，每个团队 必须且只能参与1个课题，如甲课题参与的团队数超过1个，则A、B都不参与甲课题，问共有多少种不同的安排 方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意可知，甲课题参与的团队数可能为1 个或2 个，分情况讨论如下： \n（1）甲课题参与的团队数为1 个，先从4 个研发团队中任意选择1 个有\n种情况，再让剩\n下3 个团队参与乙、丙2 个课题有\n种情况，分步用乘法，共有4×6=24 种情况。 \n（2）甲课题参与的团队数为2 个，则只能C、D 参与甲课题，剩下A、B2 个团队参与乙、丙2 个课\n题有\n种情况。 \n分类用加法，则共有24+2=26 种安排方式。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第54题",
+    "region": "yunnan"
+  },
+  {
+    "id": "provincial-yunnan-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "部队射击比赛中，5名参赛的战士共击中了88次目标。已知任意2人击中的目标数量均互不相同，问射击成绩排 前两名的战士至少击中了多少次目标？",
+    "options": [
+      {
+        "label": "A",
+        "content": "37"
+      },
+      {
+        "label": "B",
+        "content": "39 B.D.82"
+      },
+      {
+        "label": "C",
+        "content": "58"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意，要使排前两名的战士击中的次数尽可能少，则其他战士击中的次数要尽可能多。设第二\n名击中x 次，又因任意2 人击中的目标数量均互不相同，可得击中次数如下： \n \n根据“5 名战士共击中了88 次目标”，可列式：x+1+x+x-1+x-2+x-3=88，解得x=18.6，则第二名至\n少击中19 次目标，第一名为x+1=20 次，可得前两名至少击中了20+19=39 次目标。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考yunnan行测第55题",
+    "region": "yunnan"
+  }
+]

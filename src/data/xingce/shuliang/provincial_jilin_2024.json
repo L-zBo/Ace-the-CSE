@@ -1,0 +1,353 @@
+[
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个不透明箱子里面有3个黑球，2个白球，第一次取走2个小球（无顺序）且不放回，第二次取出2个小球与第 一次相同的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "箱子里面有3个黑球，2个白球，要想第二次取出的2个小球与第一次相同，只能每次取的都是1个黑球、1个白球。根据公式：概率，则第一次取出1个黑球、1个白球的概率，第二次取出1个黑球、1个白球的概率，故所求概率。\n故正确答案为B。\n\n[来源 baijing1.top paperId=658 sort=51 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考jilin行测第51题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2024/q051.png"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一项工程，甲单独做完要8天的时间，甲、乙一起做了4天完成了工程的75%，剩余工程由乙独自完成还需要多 少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4天"
+      },
+      {
+        "label": "B",
+        "content": "8天"
+      },
+      {
+        "label": "C",
+        "content": "12天"
+      },
+      {
+        "label": "D",
+        "content": "16天"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据题意，赋值工程总量为8，甲的效率为\n，甲、乙效率和为\n，可知乙的\n效率为1.5-1=0.5，剩余工程量为8×（1-75%）=2，则乙独自完成还需要\n天。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考jilin行测第52题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "现针对50岁（含）以上的一批老人进行为期两年的跟踪调查，在人员不变的情况下，第二年50~60岁的占比降 低5％，61~70岁的占比降低4％，则71岁的人员数量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n根据题意，跟踪调查的人员不变，第二年50~60 岁的占比降低5％，是因为60 岁的老人变为61 岁，\n则第二年61 岁的老人占比为5%。第二年61~70 岁的占比降低4％，是因为60 岁老人变成61 岁（人\n数增加），70 岁老人变成71 岁（人数减少），则5%-第二年71 岁的老人占比=-4%，因此第二年71\n岁的老人占比=9%。\n，则71 岁的人员数量为9 的倍数，只有D 项符合。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第53题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某一年的元旦是星期二，这一年共有53个星期三，则3月27日这一天为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "星期二"
+      },
+      {
+        "label": "B",
+        "content": "星期三"
+      },
+      {
+        "label": "C",
+        "content": "星期四"
+      },
+      {
+        "label": "D",
+        "content": "星期五"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n这一年一定有52 个整周（含52 个星期三），从星期二到下个星期一为一周，共52×7=364 天，因\n这一年共有53 个星期三，还需多出两天（星期二、星期三），则这一年共有364+2=366 天，从元旦\n到3 月27 日共有31+29+27=87 天，\n周······3 天，所以3 月27 日这一天为星期\n\n2024 吉林省公务员《行测》解析\n\n 智库，获取\n15\n\n四。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第54题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某商店决定改变销售策略，将球衣打九折出售，结果销售数量比原来增加了50件，但是销售价格减少了200 元，则原来的销售数量至少有（ ）件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "301"
+      },
+      {
+        "label": "B",
+        "content": "351"
+      },
+      {
+        "label": "C",
+        "content": "401"
+      },
+      {
+        "label": "D",
+        "content": "451"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n设该球衣原价为x 元，原来的销售数量为y 件。根据题意可知，打9 折出售后，销售数量增加50\n件，销售价格减少200 元，可列式为：\n，整理得（0.1y-45）\nx=200。由于x、y 均为正数，若使等式成立，则需0.1y-45＞0，解得y＞450，即原来的销售数量\n至少有451 件。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第55题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "A、B两地相距100米，甲、乙两人分别从AB两地同时出发，匀速相向而行，相遇后，甲原路返回A地，乙继续\n向A前行，当甲、乙均到A地结束。已知乙的用时是甲的三倍，那么甲的速度是乙的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B两地相距100米，甲、乙两人分别从AB两地同时出发，匀速相向而行，相遇后，甲原路返回A地，乙继续 向A前行，当甲、乙均到A地结束。已知乙的用时是甲的三倍，那么甲的速度是乙的： A.2倍"
+      },
+      {
+        "label": "B",
+        "content": "3倍"
+      },
+      {
+        "label": "C",
+        "content": "4倍"
+      },
+      {
+        "label": "D",
+        "content": "5倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n设甲、乙第一次相遇用时为\n，则甲原路返回A 地用时也为\n，共用时\n；乙的用时是甲的三倍，\n则乙到达A 地用时为\n。两人在第一次相遇时用时均为\n，可知乙从两人相遇点到达A 地\n用时为\n。根据路程相同，时间与速度成反比，可知从A 地到相遇点，\n，即甲的速度是乙的5 倍。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第56题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "AB两地有三种不同的航线飞行时长分别为5、6、7小时，甲乙两人同时从A地出发，到达B地后返回A地，同时 返回的飞行方案有几种?",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "19"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意可知，甲、乙两人同时从A 地出发到达B 地后同时返回A 地，故两人选择飞行方案总时长\n相同，具体情况如下： \n①两人往返选择同一种航线：甲、乙选择“5、6、7”三种航线中的同一种，则情况数有\n种； \n②两人往返选择两种航线：甲、乙选择“5、6、7”三种航线中的同样两种，则情况数有\n种； \n③两人往返共选择三种航线：若甲选择“5+7”航线，为保证总时长相同，则乙只能选择“6+6”航\n线，反之成立，则情况数有\n种。 \n综上所述，甲、乙二人同时出发同时返回的飞行方案共有3+12+4=19 种。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第57题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某人买了甲、乙两种金融产品，期限结束后，甲、乙两种金融产品收益率分别是5%和3%，最终收益率为 3.5%，那么购买甲、乙两种金融产品的金额比例为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1：1"
+      },
+      {
+        "label": "B",
+        "content": "1：2"
+      },
+      {
+        "label": "C",
+        "content": "1：3"
+      },
+      {
+        "label": "D",
+        "content": "1：4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n方法一：设购买甲金融产品的金额为a，购买乙金融产品的金额为b。根据题意可列等式：\na×5%+b×3%=(a+b)×3.5%，整理可得：a：b=1：3。\n方法二：根据线段法“ 距离与量成反比” ，可得\n\n2024 吉林省公务员《行测》解析\n\n 智库，获取\n16\n\n。\n\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第58题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一次化学实验中，稀释一定量的盐水，在此盐水中加入100g水后，其浓度变为原来的80%，则原盐水质量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "200g"
+      },
+      {
+        "label": "B",
+        "content": "300g"
+      },
+      {
+        "label": "C",
+        "content": "400g"
+      },
+      {
+        "label": "D",
+        "content": "500g"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n设原盐水质量为m，浓度为n。根据公式：浓度\n，可列式：\n，\n解得m=400，即原盐水质量为400g。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jilin行测第59题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某工厂去年销售一台机器的利润率为20%，由于生产效率提高，今年成本下降20%，售价不变，今年销售一台 机器的利润率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30%"
+      },
+      {
+        "label": "B",
+        "content": "40%"
+      },
+      {
+        "label": "C",
+        "content": "50%"
+      },
+      {
+        "label": "D",
+        "content": "60% 四. 判断推理：本部分包含图形推理、时间排序、定义判断、类比推理和逻辑判断五个部分，根据要求选出符 合要求的一项。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n赋值去年一台机器的成本为100，根据公式：售价=成本×（1+利润率），则去年一台机器的售价为\n100×（1+20%）=120。今年一台机器的成本为100×（1-20%）=80，一台机器的售价依然为120，\n故今年销售一台机器的利润率为\n。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考jilin行测第60题",
+    "region": "jilin"
+  }
+]

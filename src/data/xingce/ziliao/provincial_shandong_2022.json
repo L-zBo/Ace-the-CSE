@@ -1,0 +1,528 @@
+[
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-076",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2017年我国公路货物运输周转量为铁路的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到100%"
+      },
+      {
+        "label": "C",
+        "content": "200%-300%之间"
+      },
+      {
+        "label": "B",
+        "content": "100%-200%之间"
+      },
+      {
+        "label": "D",
+        "content": "超过300%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2017 年······为······的”，结合材料时间为 2018 年，且选项为百分数，\n可判定本题为基期倍数问题。定位表格材料可得：2018 年，我国公路货物运输周转量为 71202.5 亿\n吨公里，同比增长 6.6%；我国铁路货物运输周转量为 28821.0 亿吨公里，同比增长 6.9%。根据基期\n\n倍 数 计 算 公 式 ：\n\n， 可 得 2017 年 我 国 公 路 货 物 运 输 周 转 量 为 铁 路 的\n\n，即在 200%-300%之间。 故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第76题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-077",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2018年我国各种运输方式货物运输总量同比增量从高到低排序正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "民航、公路、水运、铁路"
+      },
+      {
+        "label": "C",
+        "content": "公路、水运、铁路、民航"
+      },
+      {
+        "label": "B",
+        "content": "公路、铁路、水运、民航"
+      },
+      {
+        "label": "D",
+        "content": "民航、公路、铁路、水运"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······同比增量从高到低排序正确的是”，可判定本题为增长量比较问题。定位\n表格材料可知：2018 年铁路货物运输总量为 40.3 亿吨，同比增长 9.2%；公路货物运输总量为 395.9\n亿吨，同比增长 7.4%；水运货物运输总量为 69.9 亿吨，同比增长 4.7%；民航货物运输总量为 738.5\n万吨，同比增长 4.6%。由于民航单位为万吨，铁路、公路、水运单位均为亿吨，民航的现期量和增\n长率均小于铁路、公路、水运，由增长量比较“大大则大”可知，民航的同比增量最小，排除 A、D\n\n两项。B、C 两项中比较铁路和水运即可，已知现期量和增长率，可代入公式：增长量\n\n。\n\n铁 路 同 比 增 量\n\n亿 吨 ， 水 运 同 比 增 量\n\n排除 C 项。 \n故正确答案为 B。 \n\n亿吨，故铁路同比增量＞水运同比增量，",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第77题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-078",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2018年我国全年规模以上港口完成非外贸货物吞吐量同比增速：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于1.5%"
+      },
+      {
+        "label": "C",
+        "content": "在2.5%-3.5%之间"
+      },
+      {
+        "label": "B",
+        "content": "在1.5%-2.5%之间"
+      },
+      {
+        "label": "D",
+        "content": "高于3.5%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2018 年······非外贸货物吞吐量同比增速”，结合材料中给出了 2018 年我国规\n模以上港口完成货物吞吐量的增速及外贸货物吞吐量的增速，且存在货物吞吐量=外贸货物吞吐量+\n非外贸货物吞吐量，可判定本题为混合增长率问题。定位文字材料可得：2018 年我国全年规模以上\n港口完成货物吞吐量 133 亿吨，同比增长 2.7%，其中外贸货物吞吐量 42 亿吨，同比增长 2.0%。根\n据混合增长率口诀“混合增长率大小居中，偏向基期量大的一方（一般用现期量代替基期量）”可\n\n知，\n\n只有 C 项符合。 \n故正确答案为 C。 \n\n，即\n\n。观察选项，",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第78题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-079",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "已知货物平均运输距离（公里）=货物运输周转量÷货物运输总量。在①铁路、②公路、③水运和④民航四种 运输方式中，2018年我国货物平均运输距离高于2017年水平的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅①和②"
+      },
+      {
+        "label": "B",
+        "content": "仅③和④"
+      },
+      {
+        "label": "C",
+        "content": "仅①、②和③"
+      },
+      {
+        "label": "D",
+        "content": "仅④"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题干“2018 年······平均运输距离高于 2017 年水平的是”，可判定本题为两期平均数的\n\n比较问题。货物平均运输距离（公里）\n\n。根据两期平均数结论：分子增速大\n\n于分母增速，则平均数相比去年上升。定位表格，四种运输方式中，只有民航货物运输周转量增速\n（7.7%）＞民航货物运输总量增速（4.6%），2018 年我国货物平均运输距离高于 2017 年水平的只有\n民航。 \n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第79题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-080",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017年我国全年货物运输总量大于500亿吨"
+      },
+      {
+        "label": "B",
+        "content": "2017年我国规模以上港口集装箱吞吐量超过2.2亿标准箱 / D.2018年我国公路货物运输量占货物运输总量的比重超过八成"
+      },
+      {
+        "label": "C",
+        "content": "2018年我国水运货物运输周转量同比增长超过1000亿吨公里"
+      },
+      {
+        "label": "D",
+        "content": "（二）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项：定位统计表可知：2018 年我国全年货物运输总量为 514.6 亿吨，同比增长 7.1%。根据公式：\n\n基期量\n\n，则 2017 年我国全年货物运输总量\n\n亿吨 <500 亿吨，错误； \nB 项：定位文字材料可知：（2018 年我国）规模以上港口集装箱吞吐量 24955 万标准箱，同比增长\n\n5.2%。根据公式：基期量\n\n，则 2017 年我国规模以上港口集装箱吞吐量\n\nC 项：定位统计表可知：2018 年我国水运货物运输周转量为 99303.6 亿吨公里，同比增长 0.7%。根\n\n万标准箱\n\n亿标准箱>2.2 亿标准箱，正确； \n\n据 公 式 ： 增 长 量\n\n， 则 2018 年 我 国 水 运 货 物 运 输 周 转 量 的 同 比 增 长 量\n\nD 项：定位统计表可知：2018 年我国公路货物运输量为 395.9 亿吨，货物运输总量为 514.6 亿吨。\n\n亿吨公里<1000 亿吨公里，错误； \n\n根 据 公 式 ： 比 重\n\n， 则 2018 年 我 国 公 路 货 物 运 输 量 占 货 物 运 输 总 量 的 比 重\n\n故正确答案为 B。 \n\n，即比重不到八成，错误。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第80题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-081",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "如果2021年我国第4季度注册养老相关企业的同比增长幅度与1-3季度相同，则2021年我国养老相关企业注册量 约为多少万家？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5.23"
+      },
+      {
+        "label": "B",
+        "content": "5.45"
+      },
+      {
+        "label": "C",
+        "content": "5.68"
+      },
+      {
+        "label": "D",
+        "content": "5.90"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“······2021年······约为多少万家”，可判定本题为现期计算问题。定位文字材料第一段可知：2020年我国养老相关企业注册量达5.09万家，2021年1-3季度共注册3.92万家养老相关企业，同比增长16%。结合题干“2021年我国第4季度注册养老相关企业的同比增长幅度与1-3季度相同”，则2021年全年我国养老相关企业注册量的同比增速为16%。根据公式：现期量=基期量×（1+增长率），可得2021年我国养老相关企业注册量=5.09×(1+16%)>5×(1+16%)=5.80万家，只有D项符合。\n故正确答案为D。\n\n[来源 baijing1.top paperId=269 sort=81 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第81题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-082",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2017-2020年，我国养老相关企业注册量增速最快的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017"
+      },
+      {
+        "label": "B",
+        "content": "2018"
+      },
+      {
+        "label": "C",
+        "content": "2019"
+      },
+      {
+        "label": "D",
+        "content": "2020"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2017-2020年······增速最快的年份是”，可判定本题为一般增长率比较问题。定位图1可得：2016-2020年我国养老相关企业注册量分别为2.36万家、3.08万家、3.46万家、4.17万家、5.09万家。根据公式：增长率，可得2017-2020年我国养老相关企业注册量增速分别为：\n2017年：；\n2018年：；\n2019年：；\n2020年：。\n则2017-2020年，我国养老相关企业注册量增速最快的年份是2017年。\n故正确答案为A。\n\n[来源 baijing1.top paperId=269 sort=82 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第82题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-083",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2021年9月月末，我国养老相关企业的数量约为多少万家？",
+    "options": [
+      {
+        "label": "A",
+        "content": "26.3"
+      },
+      {
+        "label": "B",
+        "content": "28.4"
+      },
+      {
+        "label": "C",
+        "content": "31.2"
+      },
+      {
+        "label": "D",
+        "content": "33.7"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2021年9月月末，我国养老相关企业的数量约为多少万家”，结合材料给出2021年9月月末江苏省养老相关企业的数量及其占比，可判定本题为现期比重问题。定位文字材料第二段可得：2021年9月月末，江苏省养老相关企业数量占全国总量的9%；定位图2可得：2021年9月月末，江苏省养老相关企业数量为25530家。根据公式：整体，则2021年9月月末，我国养老相关企业的数量家=28.4万家。\n故正确答案为B。\n\n[来源 baijing1.top paperId=269 sort=83 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第83题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-084",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2021年9月月末，广州市养老相关企业数量比青岛市约多多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.1"
+      },
+      {
+        "label": "B",
+        "content": "1.4"
+      },
+      {
+        "label": "C",
+        "content": "2.1"
+      },
+      {
+        "label": "D",
+        "content": "2.4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2021年9月月末······比······多多少倍”，可判定本题为现期倍数问题。定位图3可得：（2021年9月月末）广州市、青岛市养老相关企业数量分别为7763家、3689家。故2021年9月月末，广州市养老相关企业数量比青岛市多倍。\n故正确答案为A。\n\n[来源 baijing1.top paperId=269 sort=84 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第84题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-085",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2014年我国养老相关企业的注册量低于2013年"
+      },
+      {
+        "label": "B",
+        "content": "2021年9月月末，北京市养老相关企业数量高于辽宁省 / D.2021年9月月末，我国养老相关企业数量排名前十的城市来自9个省"
+      },
+      {
+        "label": "C",
+        "content": "2021年9月月末，贵阳市养老相关企业数量超过省内其他地区的总和"
+      },
+      {
+        "label": "D",
+        "content": "（三） / 5.90 / 2020 / 33.7 / 2.4 2020年某市实现社会消费品零售总额833.82亿元，同比增长7.0%。按消费形态分，批发和零售业实现 713.67亿元，同比增长6.1%；住宿和餐饮业实现120.15亿元，同比增长12.3%。按经营所在地分，城镇实现 653.54亿元，同比增长7.2%；乡镇实现180.28亿元，同比增长5.9%。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位文字材料第一段，我国近 10 年养老相关企业注册量逐年攀升，2013 年、2014 年均在近\n10 年之内，故 2014 年我国养老相关企业的注册量高于 2013 年，错误； \nB 项：定位统计图 2，2021 年 9 月月末辽宁省养老相关企业数量为 10596 家，北京市并未排进全国\n前十，故 2021 年 9 月月末北京市养老相关企业数量低于辽宁省，错误； \nC 项：定位统计图 2 和统计图 3，2021 年 9 月月末贵阳市、贵州省养老相关企业数量分别为 5527 家、\n10301 家，则除贵阳市外贵州省内其他地区养老相关企业数量总和=10301-5527=4774 家＜贵阳市\n（5527 家），正确； \nD 项：定位统计图 3，我国养老相关企业数量排名前十的城市分别来自于：广东省（广州市、深圳市），\n贵州省（贵阳市），四川省（成都市），江苏省（南京市），海南省（海口市），山东省（青岛市、济南\n市），河南省（郑州市），湖南省（长沙市），共 8 个省，错误。 \n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第85题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年该市批发和零售业占社会消费品零售总额的百分比比上年约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了0.7个百分点"
+      },
+      {
+        "label": "B",
+        "content": "下降了1.5个百分点"
+      },
+      {
+        "label": "C",
+        "content": "上升了0.7个百分点"
+      },
+      {
+        "label": "D",
+        "content": "上升了1.5个百分点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2020 年······占······百分比比上年约”，结合选项为“上升/下降+百分\n点”，可判定本题为两期比重问题。定位文字材料可得：2020 年该市实现社会消费品零售总额 833.82\n亿元（B），同比增长 7.0%（b）；批发和零售业实现 713.67 亿元（A），同比增长 6.1%（a）。根据公\n\n式：两期比重差\n\n，则所求比重差\n\n故正确答案为 A。 \n\n，即约下降了 0.7 个百分点。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第86题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下折线图中，能准确反映该市2015-2018年社会消费品零售总额同比增量变化趋势的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“······2015-2018年······同比增量变化趋势······”，可判定本题为增长量比较问题。定位统计图可得：2014-2018年全市社会消费品零售总额分别为388.23亿元、442.43亿元、564.80亿元、626.64亿元、705.54亿元。根据公式：增长量=现期量-基期量，可得该市2015-2018年社会消费品零售总额同比增量分别为：\n2015年：442.43-388.23=54.20亿元；\n2016年：564.80-442.43=122.37亿元；\n2017年：626.64-564.80=61.84亿元；\n2018年：705.54-626.64=78.90亿元；\n同比增量为先上升后下降再上升，且2015年同比增量最低、2016年同比增量最高，与D项变化趋势一致。\n故正确答案为D。\n\n[来源 baijing1.top paperId=269 sort=87 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第87题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2022/q087.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年，该市城镇消费品零售总额是乡村消费品零售总额的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到2倍"
+      },
+      {
+        "label": "B",
+        "content": "2倍-3倍"
+      },
+      {
+        "label": "C",
+        "content": "3倍-4倍"
+      },
+      {
+        "label": "D",
+        "content": "超过4倍"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年······是······的”，结合选项为倍数且材料时间为 2020 年，可\n判定本题为基期倍数问题。定位文字材料第一段可得：2020 年城镇实现消费品零售总额 653.54 亿\n元（A），同比增长 7.2%（a）；乡镇实现消费品零售总额 180.28 亿元（B），同比增长 5.9%（b）。根\n\n据公式：基期倍数\n\n，则所求倍数\n\n，\n\n即 2019 年，该市城镇消费品零售总额是乡村消费品零售总额的 3 倍-4 倍。 \n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第88题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年，该市限额以上单位批发和零售业中零售额同比增量最多的商品是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "书报杂志类"
+      },
+      {
+        "label": "B",
+        "content": "石油及制品类"
+      },
+      {
+        "label": "C",
+        "content": "机电产品及设备类"
+      },
+      {
+        "label": "D",
+        "content": "中西药品类"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2020 年······同比增量最多的商品是”，可判定本题为增长量比较问题。根据选\n项，定位统计表可得：2020 年全市限额以上单位批发和零售业中书报杂志类、石油及制品类、机电\n产品及设备类、中西药品类商品的零售额分别为 56.35 亿元、50.81 亿元、13.09 亿元、5.19 亿元，\n同比增长率分别为 22.8%、9.1%、5.9%、21.0%。根据增长量比较口诀“大大则大”（现期大且增长\n率大，则增长量大），A 项书报杂志类的现期量和增长率均大于其他选项，故 2020 年该市限额以上单\n位批发和零售业中零售额同比增量最多的商品是书报杂志类。 \n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第89题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2022-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019年全市限额以上住宿和餐饮业零售额超过110亿元"
+      },
+      {
+        "label": "B",
+        "content": "2018-2020年，全市社会消费品零售总额超过2500亿元"
+      },
+      {
+        "label": "C",
+        "content": "2020年全市限额以上批发和零售业中，有6类商品的销售额低于上年水平"
+      },
+      {
+        "label": "D",
+        "content": "2020年全市限额以下单位社会消费品零售总额同比增速超过7%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位统计表，2020 年全市限额以上住宿和餐饮业零售额为 11.79 亿元，同比增长 5.0%。根据\n\n公 式 ： 基 期 量\n\n， 故 2019 年 全 市 限 额 以 上 住 宿 和 餐 饮 业 零 售 额\n\n亿元\n\n亿元，错误；\n\nB 项：定位统计图，2018-2020 年全市社会消费品零售总额分别为：705.54 亿元、779.63 亿元、833.82\n亿元。则 2018-2020 年全市社会消费品零售总额=705.54+779.63+833.82＜710+780+840=2330 亿元\n＜2500 亿元，错误；\nC 项：定位统计表可得 2020 年全市限额以上批发和零售业中各类商品零售额的同比增速，并非销售 额的同比增速，无法判断是否有 6 类商品的销售额低于上年水平，错误；\nD 项：定位文字材料及统计表，2020 年全市实现社会消费品零售总额同比增长 7.0%；2020 年全市限\n额以上单位社会消费品零售总额同比增长 4.4%。由社会消费品零售总额=限额以上+限额以下，根据\n混合增长率结论：整体增速介于部分增速之间，即 4.4%＜7.0%＜2020 年全市限额以下单位社会消费\n品零售总额同比增速，正确。\n故正确答案为 D。\n备注：选项 C 中，即使将“销售额”等同于“零售额”，定位统计表可得：2020 年全市限额以上批\n发和零售业中各类商品零售额低于上年水平的有：烟酒类（-6.91%）、金银珠宝类（-16.0%）、日用\n品类（-3.9%）、家用电器和音像器材类（-3.0%）、汽车类（-5.4%），共 5 类，并非 6 类，依然错误。\n\n考公-考研-事业单位-教资- 资料\n–淘宝：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考shandong行测第90题",
+    "region": "shandong"
+  }
+]

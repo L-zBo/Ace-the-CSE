@@ -1,0 +1,389 @@
+[
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "轨道交通公司定期进行轨道检修工作，甲、乙两个工程队合作进行需 4 小时完成，甲队单独完成比乙 队单独完成快 15 小时，则甲队单独完成需要的时间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5 小时"
+      },
+      {
+        "label": "B",
+        "content": "6 小时"
+      },
+      {
+        "label": "C",
+        "content": "7 小时"
+      },
+      {
+        "label": "D",
+        "content": "8 小时"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：设甲队的完工时间为 x 小时，乙队的完工时间为（x+15）小时，赋值工作总量为 1，则甲队的\n\n效率为 ，乙队的效率为\n\n，根据甲、乙两队合作需 4 小时可知，甲乙两队效率和为 ，列方程：\n\n，解得 x=5 或 x=-12，其中 x=-12 不符合题意舍弃，则 x=5。\n\n方法二：采用代入排除法。代入 A 项，甲队的完工时间为 5 小时，乙队的完工时间为 20 小时，赋值工\n\n作总量为 20，则乙队的效率为 20÷20=1，甲队的效率为 20÷5=4，甲、乙两队合作需 20÷（1+4）=4 小时，\n符合题意。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年省考jilin行测第51题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某电子元件制造厂有甲、乙、丙三个车间，甲、乙、丙三个车间的产量分别占总产量的 5%、70%、25%， 且甲、乙、丙三个车间的次品率依次为 4%、3%、2%。任取一件产品，取到次品为乙车间制造的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "15%"
+      },
+      {
+        "label": "B",
+        "content": "45%"
+      },
+      {
+        "label": "C",
+        "content": "75%"
+      },
+      {
+        "label": "D",
+        "content": "85%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据甲、乙、丙三个车间的产量分别占总产量的 5%、70%、25%，赋值总产量为 1000 个，则甲、乙、丙\n三个车间的产量分别为 50 个、700 个、250 个。那么甲车间制造的次品为 50×4%=2 个，乙车间制造的次品\n为 700×3%=21 个，丙车间制造的次品为 250×2%=5 个。因此取到次品为乙车间制造的概率\n\n。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考jilin行测第52题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某医院因工作出现特殊情况需要从外科抽调医护人员支援呼吸科，如果少去 4 名护士，那么参与支援 的护士与参与支援的医生人数一样多，如果少去 2 名医生，那么参与支援的护士人数是参与支援的医生人 数的 3 倍，则外科参与支援呼吸科的医护人员总数是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设外科参与支援呼吸科的护士有 x 人，则参与支援呼吸科的医生有（x-4）人。根据题意可列方程：\n\nx=3[（x-4）-2]，解得 x=9，则所求=x+（x-4）=2x-4=2×9-4=14 人。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jilin行测第53题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "为推动产业园和产业集聚区加快转型，某地计划在三角形 ABC 区域内建设新能源产业园区（如下图所 示），三角形 DEF 是中央工厂区，已知 BD：DE：EC=1：2：3，F 为 AE 的中点，则新能源产业园区总面积是 中央工厂区面积的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7 倍"
+      },
+      {
+        "label": "B",
+        "content": "6 倍"
+      },
+      {
+        "label": "C",
+        "content": "5 倍"
+      },
+      {
+        "label": "D",
+        "content": "4 倍"
+      }
+    ],
+    "answer": "B",
+    "explanation": "因为\n\n值\n\n为\n\n那么\n\n、\n，则\n\n、\n\n，\n\n高相同，则\n，则\n\n。赋\n。因为 F 为 AE 中点，则 AF=EF，又因\n\n、\n\n高相同，所以\n\n，则\n\n，\n\n，即新能源产业园区总面积是中央工厂区面积的 6 倍。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jilin行测第54题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2023/q054.png"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-012",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "中国画，简称“国画”，在世界美术领域内自成独特体系。下列关于中国画的说法不正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7 倍"
+      },
+      {
+        "label": "B",
+        "content": "6 倍"
+      },
+      {
+        "label": "C",
+        "content": "5 倍"
+      },
+      {
+        "label": "D",
+        "content": "4 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查人文常识。\nA 项正确，中国画，简称“国画”，它是用毛笔、墨和颜料在特制的宣纸或绢上作画，题材主要有人物、\n\n山水、花鸟，技法可分工笔和写意两种，富于传统特色。\n\nB 项正确，诗意画是以特定的单一诗文为题材，表达诗文内涵与意趣的绘画，通过画家对诗歌蕴意的理\n\n解，将抽象隐晦的诗歌意像转换为具体形象的视觉图像，并以此扩大诗文的流传途径。\n\nC 项正确，山水画强调留影与意境。所谓留影，即反对“谨毛而失貌”，主张总体把握；所谓意境，即\n\n把表达来自生活的情思放在主导地位，实现情与景的统一。\n\nD 项错误，彩墨画在中国画里，是以\"水墨画\"为基底，在其上敷色、点彩，使画面较之水墨画在颜色上\n\n较为丰硕、明快、鲜亮。\n\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jilin行测第12题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "教育平台的网络课程由阅读资料、观看视频、论坛交流、练习作业和问卷考试五部分学习内容组成。 学员需先后完成这五部分学习内容，其中论坛交流与练习作业均不能在最先和最后完成，则学员安排学习 的顺序共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "120 种"
+      },
+      {
+        "label": "B",
+        "content": "72 种"
+      },
+      {
+        "label": "C",
+        "content": "36 种"
+      },
+      {
+        "label": "D",
+        "content": "24 种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "先在阅读资料、观看视频和问卷考试 3 个部分中选 2 个安排在最先和最后的位置，有\n\n种顺序。\n\n再在剩下 3 个位置安排剩余 3 个部分，有 种顺序，总共有\n\n种顺序。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年省考jilin行测第55题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "在一次“互联网+现代农业”培训会后，为了交流拓展农村电商产业路径，要求各地参会代表一周内每 两人互通一次电话，已知他们一周内共打了 120 次电话，这次参与培训交流的人数是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设这次参与培训交流的人数为 n 人，根据题干“各地参会代表一周内每两人通话一次，一周内共打了\n\n120 次电话”，可得\n\n，解得 n=16。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jilin行测第56题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "为加快推进县域交通基础设施内畅外联、互联互通，A、B 两地新修建了一条高速公路。甲、乙两辆汽 车在这条高速公路上同时从 A、B 两地相向开出，甲车每小时行驶 74 千米，乙车每小时行驶 65 千米，两车 在距中点 18 千米处相遇。这条连通 A、B 两地的高速公路全长是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两地相向开出，甲车每小时行驶 74 千米，乙车每小时行驶 65 千米，两车 在距中点 18 千米处相遇。这条连通 A、B 两地的高速公路全长是： A、139 千米"
+      },
+      {
+        "label": "B",
+        "content": "256 千米"
+      },
+      {
+        "label": "C",
+        "content": "278 千米"
+      },
+      {
+        "label": "D",
+        "content": "556 千米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设连通 A、B 两地的高速公路全长是 2S 千米，则一半为 S 千米。因甲车速度快于乙车速度，则相遇时\n甲车行驶的路程为（S+18）千米，乙车行驶的路程为（S-18）千米。根据时间一定，路程与速度成正比，\n\n可得：\n\n，解得 S=278，则这条连通 A、B 两地的高速公路全长是 2S=556 千米。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考jilin行测第57题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "像中国的回文联“洞帘水挂水帘洞，山果花开花果山”一样，如果将一个数的数字倒排后所得的数仍 是这个数，这样的数称为回文数，例如 11，22，343，565，1881，20102 等，在所有三位数中回文数共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "81 个"
+      },
+      {
+        "label": "B",
+        "content": "90 个"
+      },
+      {
+        "label": "C",
+        "content": "99 个"
+      },
+      {
+        "label": "D",
+        "content": "100 个 13"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意三位数是回文数的情况数，即百位数字和个位数字相同，且由于三位数的百位数字不能为 0，\n只能是 1-9 中的任意一个，十位数字可以是 0-9 中的任意一个，故所有三位数中回文数共有 9×10=90 个。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jilin行测第58题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "一辆大货车由 M 地匀速驶向相距 120 千米的 N 地，它的速度是 30 千米/小时，则该辆大货车与 N 地的 距离 s（千米）和行驶时间 t（小时）之间的关系用图像表示应为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，大货车从M地匀速行驶至N地的时间，即当t为4时，大货车与N地的距离s为0，排除A、B两项。又因该货车从M地出发，到N地停止，则s的区间应为0～120，排除D项。\n故正确答案为C。\n\n[来源 baijing1.top paperId=659 sort=59 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考jilin行测第59题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2023/q059.png"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2023-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某商场柜台出售一款小家电，如果按定价打九折出售可获得利润 70 元，如果按定价打九五折出售可获 得利润 100 元，这款小家电进货价格所在区间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "400-450 元"
+      },
+      {
+        "label": "B",
+        "content": "450-500 元"
+      },
+      {
+        "label": "C",
+        "content": "500-550 元"
+      },
+      {
+        "label": "D",
+        "content": "550-600 元 四、判断推理。第四部分 判断推理。 本部分包含图形推理、时间排序、定义判断、类比推理和逻辑 判断五个部分，根据要求选出符合要求的一项。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设小家电进货价格为 x 元，定价为 y 元。根据公式：利润=售价-进价，可得 0.9y-x=70······①，\n\n0.95y-x=100······②，联立①②，解得 x=470，y=600，即小家电进货价格所在区间在 450-500 元之\n间。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jilin行测第60题",
+    "region": "jilin"
+  }
+]

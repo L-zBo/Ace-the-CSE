@@ -1,0 +1,355 @@
+[
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "在一次选举中，某候选人需得到全部选票的 才能当选。当统计到 的选票时，他已得到当选所需的 。问他若 能当选还要得到剩下选票中的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "赋值全部选票为30张，则需得到张选票才可当选。统计到张选票时，此候选人已得到张选票，若当选还需得到18-15=3张选票。剩下选票数为30-20=10张，若能当选还要得到剩下选票中的。\n故正确答案为A。\n\n[来源 baijing1.top paperId=681 sort=61 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第61题",
+    "region": "liaoning",
+    "questionImage": "/img/questions/provincial_liaoning_2024/q061.png"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "现有一容器，装有100克浓度为75%的盐水，从中倒出40克盐水后，再加入40克纯净水，如此反复三次。问此时 盐水的浓度是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "16.20%"
+      },
+      {
+        "label": "B",
+        "content": "9%"
+      },
+      {
+        "label": "C",
+        "content": "1.62%"
+      },
+      {
+        "label": "D",
+        "content": "0.90%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n方法一：根据公式：浓度\n，可得第一次混合后的浓度\n，\n第二次混合后的浓度\n，第三次混合后的浓度\n。 \n故正确答案为A。 \n方法二：先倒出溶液再倒入清水，套用公式\n，则所求浓度\n。 \n故正确答案为A。 \n备注：重复稀释问题公式：设已有溶液质量为M，每次倒出溶液的质量为\n，再添入质量为\n的\n清水补满，重复n 次，则\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第62题",
+    "region": "liaoning"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "有一批零件，如果甲车间单独完成需要50小时，乙车间单独完成需要30小时，在甲车间单独完成若干小时后， 由于要承担其他紧急任务，剩余的任务由乙车间继续完成，这样一共用了42小时。问乙车间完成的零件量占这 批零件总量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "赋值工作总量为150，则甲车间的效率，乙车间的效率，设甲车间单独工作的时间为t小时，则乙车间单独工作的时间为（42-t）小时，根据题意可列式：3t+5×（42-t）=150，解得t=30，则乙车间工作时间为42-30=12小时，乙车间完成零件量=5×12=60，因此乙车间完成的零件量占这批零件总量的。\n故正确答案为C。\n\n[来源 baijing1.top paperId=681 sort=63 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第63题",
+    "region": "liaoning",
+    "questionImage": "/img/questions/provincial_liaoning_2024/q063.png"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某商家购进一批商品，每件成本为27元，最初将商品定价为每件40元，该商家经过百分率相等的连续两次降价 后，每件商品的利润率不超过20%。问每次降价的百分率至少是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "20%"
+      },
+      {
+        "label": "B",
+        "content": "15%"
+      },
+      {
+        "label": "C",
+        "content": "10%"
+      },
+      {
+        "label": "D",
+        "content": "5%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n本题问“至少”可考虑从小到大依次代入： \nD 项：每次降价的百分率是5%，则第一次降价后售价为：40×（1-5%）=38 元，第二次降价后售价\n为：38×（1-5%）=36.1 元，根据公式：利润率\n，可得：利润率\n，此时利润率大于20%，不满足题意，排除； \nC 项：每次降价的百分率是10%，则第一次降价后售价为：40×（1-10%）=36 元，第二次降价后售\n价为：36×（1-10%）=32.4 元，可得：利润率\n，此时利润率刚好为20%，满\n足题意，当选。无需继续验证其他选项。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第64题",
+    "region": "liaoning"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两个圆柱容器底面积之比为3：4，分别盛有7厘米高和10厘米高的液体，现在向两个容器内注入同样多 的液体，直至两个容器内液体的高度相等，问甲容器内液面上升至： 第11⻚，共22⻚ A.9厘米 B.12厘米 C.15厘米 D.19厘米",
+    "options": [
+      {
+        "label": "A",
+        "content": "9厘米"
+      },
+      {
+        "label": "B",
+        "content": "12厘米"
+      },
+      {
+        "label": "C",
+        "content": "15厘米"
+      },
+      {
+        "label": "D",
+        "content": "19厘米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n赋值甲、乙两个圆柱容器底面积分别为3 平方厘米、4 平方厘米，设两个容器注入液体后的高均为\nh。根据题意，两个容器内注入的液体同样多，及\n，可列式：3h-3×7=4h-4×10，解得\nh=19 厘米，即甲容器内页面上升至19 厘米。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第65题",
+    "region": "liaoning"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙二人在某项工作结束后，统计数据显示：甲比乙的工作量多 ，乙比甲所用的时间多 ，问甲、乙二人 工作效率的比值所在范围的区间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "(1，1.5]"
+      },
+      {
+        "label": "B",
+        "content": "(1.5，2]"
+      },
+      {
+        "label": "C",
+        "content": "(2，2.5]"
+      },
+      {
+        "label": "D",
+        "content": "(2.5，3]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据题意，赋值乙的工作量为4，则甲的工作量为\n，；赋值甲所用的时间为6，则\n乙所用的时间为\n。根据公式：工作效率\n，则所求为\n，在A 项范围的区间内。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第66题",
+    "region": "liaoning"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某包装车间包装甲、乙两种规格的袋装杂粮，甲、乙两袋杂粮的重量之比为5：2，如果从甲袋中称出2公斤放 入乙袋后，甲、乙两袋杂粮的重量之比变为4：3。问甲袋杂粮原来重量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8公斤"
+      },
+      {
+        "label": "B",
+        "content": "10公斤"
+      },
+      {
+        "label": "C",
+        "content": "12公斤"
+      },
+      {
+        "label": "D",
+        "content": "15公斤"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n设原来甲、乙两袋杂粮的重量分别为5x 公斤和2x 公斤，根据题意可列式：\n，解得\nx=2。则甲袋杂粮原来重量为5x=5×2=10 公斤。 \n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第67题",
+    "region": "liaoning"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某部门工会为丰富职工文化生活增进职工身心健康，组织开展了拔河、羽毛球、乒乓球、台球四项比赛活动， 每名职工参加一项或者两项比赛。若要保证至少有5名职工参加的比赛项目完全相同，则该部门参加比赛的职 工至少有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "40名"
+      },
+      {
+        "label": "B",
+        "content": "41名"
+      },
+      {
+        "label": "C",
+        "content": "50名"
+      },
+      {
+        "label": "D",
+        "content": "51名"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n\n2024 辽宁省公务员《行测》解析\n\n 智库，获取\n 22 / 41\n\n由题意可知，共有四项比赛活动，每名职工参加一项或者两项比赛。若每名职工参加一项比赛有\n种方式；参加两项比赛有\n种方式，故共有4+6=10 种参加比赛的方式。根据最不\n利原则，若要保证至少有5 名职工参加的比赛项目完全相同，参加比赛的职工至少为：4×10+1=41\n名。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第68题",
+    "region": "liaoning"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一盒中有10支晶体管，其中有2支次品，8支正品。现从中连取两次，每次取1支，取后不放回，则至少取到1支 次品的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方法一：根据公式：概率。不放回地连取两次晶体管，总的情况数为种。要求至少取出1支次品，则分为取出1正1次和取出2支次品两种情况，取出1正1次为种；取出2支次品为种。则所求概率。\n方法二：根据公式：概率。不放回地连取两次晶体管，总的情况数为种。要求至少取出1支次品，则反面情况为两次取出的都是正品，可列式为种。则至少取出1支次品的概率=1-取出2支正品的概率。\n故正确答案为B。\n\n[来源 baijing1.top paperId=681 sort=69 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第69题",
+    "region": "liaoning",
+    "questionImage": "/img/questions/provincial_liaoning_2024/q069.png"
+  },
+  {
+    "id": "provincial-liaoning-xingce-shuliang-2024-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某中学举办教职工趣味运动会，需要准备一些球类道具，必须同时满足每2人合用一个毽球，每3人合用一个乒 乓球，每4人合用一个排球，这样工作人员一共准备了26个球类道具。问参加本次运动会的教职工最多有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "12人"
+      },
+      {
+        "label": "B",
+        "content": "20人 B.D.26人"
+      },
+      {
+        "label": "C",
+        "content": "24人"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意，每2 人合用一个毽球，每3 人合用一个乒乓球，每4 人合用一个排球，故教职工总数能\n同时被2、3、4 整除，即总人数为12 的倍数，排除B、D 两项。 \n剩余A、C 两项中，结合题干人数最多的要求优先代入最大的C 项：当教职工为24 人时，共需要准\n备球类道具\n个，符合题干所有条件，C 项当选。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考liaoning行测第70题",
+    "region": "liaoning"
+  }
+]

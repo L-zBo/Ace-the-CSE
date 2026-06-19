@@ -1,0 +1,354 @@
+[
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某单位每名党员每周六都被随机安排到甲、乙、丙三个社区中的一个开展志愿服务（同一个社区可以连续前 往）。已知任意连续的3个周六中，都能保证至少3名党员的志愿服务行程完全相同。问该单位至少有多少名党 员？",
+    "options": [
+      {
+        "label": "A",
+        "content": "55"
+      },
+      {
+        "label": "B",
+        "content": "52"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "A",
+    "explanation": "】\n已知每名党员每周六都被随机安排到甲、乙、丙三个社区，则每名党员每周六有\n种\n行程安排。连续的3 个周六，共有\n种行程安排。\n要想保证在任意连续的3 个周六中，至少有3 名党员的志愿服务行程完全相同，考虑最\n不利情况：任意连续的3 个周六中所有的志愿服务行程均各有2 名党员选择，在此基础\n上再加1 名党员，即可保证至少3 名党员的志愿服务行程完全相同。故该单位至少有27\n×2+1=55 人。\n\n故正确答案为A。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第46题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某店开展打折促销活动：满488元打8折，满688元打7折，满988元打6折。小张两次购物分别实际支付400元和 630元。问他如果一次性购买所有商品最多可能比分两次购买节省多少元?",
+    "options": [
+      {
+        "label": "A",
+        "content": "100"
+      },
+      {
+        "label": "B",
+        "content": "190"
+      },
+      {
+        "label": "C",
+        "content": "250"
+      },
+      {
+        "label": "D",
+        "content": "412"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n根据题意可知，小张实际支付400 元有两种情况，按原价购买或打8 折，要想节省更多\n的钱，则分开支付时优惠力度小，即按原价购买，原价为400 元。实际支付630 元也有\n两种情况，打7 折或打6 折，同理，分开支付时打7 折，则原价为\n元。所有\n商品的原价为400+900=1300 元＞988 元，一次性购买可以打6 折，需要支付1300×\n0.6=780 元，比分两次购买最多可节省400+630-780=250 元。\n故正确答案为C。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第47题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "乙生产线每天比甲生产线多生产5件产品，两条生产线同时开工，乙生产450件产品所用的时间比甲少1天。乙 生产450件产品后设备需检修，每天产量比之前减少10件，又生产若干天后结束生产任务，此时两条生产线产 第 9 页，共 20页 量相同。问开始检修后，乙生产线共生产了多少件产品？",
+    "options": [
+      {
+        "label": "A",
+        "content": "240"
+      },
+      {
+        "label": "B",
+        "content": "280"
+      },
+      {
+        "label": "C",
+        "content": "320"
+      },
+      {
+        "label": "D",
+        "content": "360"
+      }
+    ],
+    "answer": "D",
+    "explanation": "】\n设检修前甲每天生产x 件产品，则乙每天生产（x+5）件产品。根据题意，则可列式：\n，解得x=45。乙生产450 件产品需用时\n天，此时甲生产45\n×9=405 件产品。检修后乙每天生产45+5-10=40 件产品，设开始检修后又生产y 天结束\n生产任务，根据题干“此时两条生产线产量相同”，可列式：405+45y=450+40y，解得\ny=9。故开始检修后，乙生产线共生产了40×9=360 件产品。\n计算提示：x 和x+5 应为450 的约数，且除450 后作差为1，便可猜测x 为45。\n故正确答案为D。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第48题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "在一块玉米地中使用甲、乙两台自动播种机进行播种。如只使用甲播种机需要12小时，只使用乙播种机需要20 小时，计划同时使用两台播种机完成播种任务。两台播种机共同播种3小时后，乙播种机出现故障用时2小时维 修，修好后的效率降低了20%，之后两台播种机共同工作直到任务完成。问实际播种时间比原计划多多长时 间？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1小时"
+      },
+      {
+        "label": "C",
+        "content": "1小时20分-1小时40分之间"
+      },
+      {
+        "label": "B",
+        "content": "1小时-1小时20分之间"
+      },
+      {
+        "label": "D",
+        "content": "1小时40分以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "】\n赋值工作总量为60（12 和20 的最小公倍数），则甲播种机工作效率为\n，乙播\n种机工作效率为\n，根据题干“计划同时使用两台播种机完成播种任务”，则原\n计划完成播种任务共需\n小时。两台播种机3 小时共播种（5+3）×3=24，乙\n播种机维修的2 小时中甲播种机播种了5×2=10，剩余60-24-10=26 个工作量由甲播种\n机和修好后的乙播种机共同完成，根据题干“修好后的效率降低了20%”，则此时乙播\n种机的效率为3×（1-20%）=2.4，剩余工作量还需要\n小时，则实\n际完成播种任务所用时间为\n小时，故所求为\n小时\n小时，在B 项范围内。\n\n故正确答案为B。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第49题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小李开车去某单位办事，计划全程匀速行驶2小时到达目的地。出发后头30分钟按计划速度行驶，此后50分钟 交通拥堵，行驶的路程和前面30分钟相同。最后40分钟小李匀加速行驶，最终全程用时2小时到达。问他最后 10分钟的平均车速是计划行驶速度的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1.8倍"
+      },
+      {
+        "label": "B",
+        "content": "不低于1.8倍但低于2.0倍"
+      },
+      {
+        "label": "C",
+        "content": "不低于2.0倍亦不高于2.2倍"
+      },
+      {
+        "label": "D",
+        "content": "高于2.2倍"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n赋值计划行驶速度为100 米/分钟，则全程为2×60×100=12000 米。根据题意可得，出\n发后头30 分钟的行驶路程为30×100=3000 米，此后50 分钟的行驶路程也为3000 米，\n则剩余路程为12000-3000-3000=6000 米。中间50 分钟路程的行驶速度为3000÷50=60\n米/分钟，即后40 分钟匀加速行驶的初始速度为60 米/分钟。后40 分钟路程的平均速\n度为6000÷40=150 米/分钟，根据公式：平均速度\n，可得\n米/分钟。根据匀加速运动公式：\n，可得加速度\n，则1 小时50 分钟时的行驶速度为60+4.5×30=195 米/\n分钟，最后10 分钟的平均速度为\n米/分钟，题干所求倍数为\n，在C 项范围内。\n故正确答案为C。\n备注：中间50 分钟路程默认为匀速运动，否则此题无解。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第50题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "现有浓度为70%的盐水100克。从中倒出40克，再加入40克浓度为20%的盐水，如此操作共5次后，问盐水的浓 度在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于23%"
+      },
+      {
+        "label": "B",
+        "content": "在23%到25%之间"
+      },
+      {
+        "label": "C",
+        "content": "在25%到27%之间"
+      },
+      {
+        "label": "D",
+        "content": "高于27%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "】\n根据题意，每次混合过程均为原溶液倒出40 克后，将剩余100-40=60 克盐水和40 克浓\n度为20%的盐水混合，由于每次混合后的溶液质量均为100 克，根据公式：浓度\n，因此混合后溶质的量即为浓度的数值，故本题只讨论溶质质量的变\n化即可，第1 次至第5 次溶质质量分别为：\n第1 次：60×70%+40×20%=42+8=50 克；\n第2 次：60×50%+40×20%=30+8=38 克；\n第3 次：60×38%+40×20%=22.8+8=30.8 克；\n第4 次：60×30.8%+40×20%=18.48+8=26.48 克；\n第5 次：\n克。\n综上可知，第5 次混合后浓度约为\n，在23%到25%之间。\n故正确答案为B。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第51题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小周早上8点多开始处理公文，此时发现时钟的时针和分针夹角不超过30度。处理完公文时，发现已经上午10 点多，时钟的时针和分针正好重合。那么小周处理公文的时长可能为以下哪个结果？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2小时5分钟"
+      },
+      {
+        "label": "B",
+        "content": "2小时15分钟"
+      },
+      {
+        "label": "C",
+        "content": "2小时25分钟"
+      },
+      {
+        "label": "D",
+        "content": "2小时35分钟"
+      }
+    ],
+    "answer": "B",
+    "explanation": "】\n\n分针每分钟转\n，时针每分钟转\n，则分针每分钟比时针多转\n。早上\n8 点分针与时针的夹角为\n，设8 点x 分开始处理公文，根据此时的时针和分针夹角\n不超过30 度，可知有2 种情况：若分针未追上时针，则有\n，解\n得\n；若分针已追上时针，则有\n，解得\n，即开始处理公文的时间在8 点38.2 分~8 点49.1 分之间。上午10\n点时针和分针的夹角为\n，设10 点y 分时针与分针重合，根据此时的分针比时针多转\n，可列式：5.5y=300，解得\n，即处理完公文的时间\n在10 点54.5 分。因此，处理公文的时长在10 点54.5 分-8 点49.1 分=2 小时5.4 分钟，\n到10 点54.5 分-8 点38.2 分=2 小时16.3 分钟之间，结合选项，只有B 项满足。\n故正确答案为B。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第52题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一块长13厘米、宽5厘米的长方形纸片如下图所示。将其沿直线折叠后使得点A与BC边上某一点E重合，且折痕 分别与纸片的AB边、AD边相交。问BE可能的最大和最小长度相差多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "】\n由题意可知，BE 最大的长度为BA 完全与BC 边重合时（如图1 所示），即\n时，\n此时BE=BA=5 厘米；BE 最小的长度为AD 边完全折起且A 与BC 边相交于点E（如图2 所\n示），根据勾股定理，\n厘米，此时BE=13-12=1\n厘米。故BE 可能的最大和最小长度相差5-1=4 厘米。\n故正确答案为B。\n\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第53题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2024/q053.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲和乙进行乒乓球比赛。第一局甲胜乙的概率为70%。往后每局如甲上局取胜，则当局甲的胜率为50%；如乙 上局取胜，则当局甲的胜率为70%。问第三局甲取胜的概率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到55%"
+      },
+      {
+        "label": "B",
+        "content": "在55%-57%之间"
+      },
+      {
+        "label": "C",
+        "content": "在57%-59%之间"
+      },
+      {
+        "label": "D",
+        "content": "高于59%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n根据“第一局甲胜乙的概率为70%”可知，第一局甲负乙的概率为1-70%=30%。同理，\n当甲的胜率分别为50%、70%时，甲负乙的概率分别为1-50%=50%、1-70%=30%，则第三\n局甲取胜的胜负情况可分为以下四种：\n综上可知，甲第三局取胜的概率为17.5%+24.5%+10.5%+6.3%=58.8%，在C 项范围内。\n故正确答案为C。\n【题",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第54题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "正方形水池ABCD的边长为80米。E点在AB边正中的正北30米处，F点在C点东偏南 方向，F点到C点距离为 米。甲从E点出发前往F点，问他的最短行进距离比途经D点的最短行进距离短多少米？ 第 10 页，共 20页",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：如图，E点出发前往F点的最短距离为E-B-F，即EB+BF。连接EB、BF，过E点作，因“E点在AB边正中的正北30米处”，所以EG=30米，且G点为AB的中点，故GB=40米，根据勾股定理，则米；延长BC至H点，过F点作，因“F点在C点东偏南方向，F点到C点距离为米”，则为等腰直角三角形，米，则BH=80+40=120米，根据勾股定理，则米，则E点到F点的最短行进距离米。\n\n如图，若是途径D点，则最短距离为EA+AD+DF。连接EA、DF，过E点作，延长DC至点，作。同理根据勾股定理可得EA=50米，CH&#39;=H&#39;F=40米，则米，所以E点途径D点到达F点的最短距离=EA+AD+DF米。\n\n故所求米。\n方法二：如图，从E点出发到达F点的最短路径为EB+BF；若经过D点，则最短路径为EA+AD+DF。观察可知，以EG为对称轴，EA和EB对称；以CF为对称轴，DF和BF对称，所以EA=EB，DF=BF，故所求=（EA+AD+DF）-（EB+BF）=AD=80米。\n\n故正确答案为D。\n\n[来源 baijing1.top paperId=288 sort=55 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考sichuan行测第55题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2024/q055.png"
+  }
+]

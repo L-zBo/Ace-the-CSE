@@ -1,0 +1,746 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-035",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在针对一家小型超市的调查中发现，某生鲜商品的售价与销量之间呈现以下规律：售价每降低 1 元，销量便 会增加 2 千克，对应的表格如下： 若该商品的成本是 15 元/千克，售价不得高于 25 元且必须为整数，如果某天该商品的销售利润为 200 元，则售 价是（ ）元/千克。",
+    "options": [
+      {
+        "label": "A",
+        "content": "16"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "C",
+        "content": "38"
+      },
+      {
+        "label": "D",
+        "content": "49 36、甲、乙两地稻谷同时成熟，分别需要 15 台和 13 台大型收割机进行收割，计划从丙、丁两地分别调配 20 台 和 8 台收割机进行支援。若从丙地调配一台收割机到甲、乙两地分别需要油费 40 元、50 元；从丁地到甲、乙 两地分别需要 50 元、30 元，则完成所有的收割机调配至少需要油费（ ）元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：64%，易错项：D。\n解析\n解法一：第一步，本题考查数图推理中的表格型数推。\n第二步，四行三列型的表格，每行没有特别大的数字则优先各行进行计算。将每行数字进行加和，分别是16、\n32、48，是公差为16的等差数列，则下一行加和应为64。那么”？”处应填写的数字是64一16一10=38。\n因此，选择C选项。\n解法二：第一步，本题考查数图推理中的表格型数推。\n第二步，表格每行最后一个数字相对来说比较大，考虑前两个数字运算得到第三个数字，发现第一列数字的3倍\n与第二列数字之差为第三列数字。即4×3一5=7，8×3一8=16，12×3-9=27，那么”？”处应填写的数字是16\nX3-10=38。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第35题",
+    "region": "guangdong",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    }
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-030",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "“逆经济风向调节”是指当经济萎缩时要采取扩张的经济政策，当经济过热时要采用紧缩的经济政策。据\n此，当一个国家经济过热时，应当采取的政策措施是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少政府支出，提高利率"
+      },
+      {
+        "label": "B",
+        "content": "减少政府支出，降低利率"
+      },
+      {
+        "label": "C",
+        "content": "增加政府支出，提高利率"
+      },
+      {
+        "label": "D",
+        "content": "增加政府支出，降红利率"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：72%，易错项：B。\n解析\n第一步，本题考查宏观经济。\n第二步，当一个国家经济过热时应采取紧缩的经济政策，紧缩性经济政策包括缩减政府开支和增加税收等，即对\n应为减少政府支出，提高利率，故A选项正确。\n因此，选择A选项。\n拓展\nB项：减少政府支出属于紧缩性经济政策，而降低利率会促进居民消费，不属于紧缩性经济政策。B选项错误。\nC项：提高利率属于紧缩性经济政策，而增加政府支出可以扩大财政赤字，增加和刺激社会总需求，属于扩张性\n经济政策。C选项错误。\nD项：增加政府支出和降低利率均为扩张性政策，可以刺激需求的增加。D选项错误。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第30题",
+    "region": "guangdong",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    }
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-031",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "5 13 25 41 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "52"
+      },
+      {
+        "label": "B",
+        "content": "55"
+      },
+      {
+        "label": "C",
+        "content": "58"
+      },
+      {
+        "label": "D",
+        "content": "61"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：85%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，原数列递增趋势平缓，优先考虑做差。两两之间做差得到差数列8、12、16，是公差为4的等差数列，\n下一项是20，那么原数列下一项是20+41=61。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第31题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-032",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "23 34 58 93 152 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "176"
+      },
+      {
+        "label": "B",
+        "content": "206"
+      },
+      {
+        "label": "C",
+        "content": "246"
+      },
+      {
+        "label": "D",
+        "content": "296"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：77%，易错项：B。\n解析\n第一步，本题考查递推数列。\n第二步，观察数列递增趋势平缓，考虑递推和数列。规律为每两项之和加1为下一项，即23+34+1=58，34+58+1=93，\n-9-\n58+93+1=152，那么所求项=93+152+1=246。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第32题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-033",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "9.19 4.27 5.35 2.43 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.51"
+      },
+      {
+        "label": "B",
+        "content": "5.51"
+      },
+      {
+        "label": "C",
+        "content": "5.60"
+      },
+      {
+        "label": "D",
+        "content": "8.60"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：37%，易错项：A。\n解析\n第一步，本题考查非整数数列。\n第二步，数列各项均为小数，考虑小数部分和整数部分分开看，小数部分为19、27、35、43，规律为公差为8\n的等差数列，则所求项的小数部分为43+8=51。考虑整数部分，发现各项整数部分是小数部分两个数字乘积的\n尾数，即9是1×9=9的尾数，4是2×7=14的尾数，5是3×5=15的尾数，2是4×3=12的尾数。故所求项整数\n部分为5×1=5。因此，所求项为5.51。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第33题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-034",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "0 6 24 60 120 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "200"
+      },
+      {
+        "label": "B",
+        "content": "210"
+      },
+      {
+        "label": "C",
+        "content": "220"
+      },
+      {
+        "label": "D",
+        "content": "230"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：67%，易错项：C。\n解析\n解法一：第一步，本题考查多级数列。\n第二步，观察数列缓慢递增，优先考虑做差。两两做差得到一级差数列6、18、36、60，再将一级差数列再次两\n两做差得到二级差数列12、18、24，二级差数列是公差为6的等差数列，则下一项是30，那么一级差数列下一\n项是30+60=90，原数列下一项是90+120=210。\n因此，选择B选项。\n解法二：第一步，本题考查幂次数列。\n第二步，观察数列各项都在幂次数字附近波动，各项可写为：1-1、2一2、3一3、4一4、5一5。那么下一\n项为63-6=210。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第34题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两地稻谷同时成熟，分别需要 15 台和 13 台大型收割机进行收割，计划从丙、丁两地分别调配 20 台 和 8 台收割机进行支援。若从丙地调配一台收割机到甲、乙两地分别需要油费 40 元、50 元；从丁地到甲、乙 两地分别需要 50 元、30 元，则完成所有的收割机调配至少需要油费（ ）元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1000"
+      },
+      {
+        "label": "B",
+        "content": "1090"
+      },
+      {
+        "label": "C",
+        "content": "1180"
+      },
+      {
+        "label": "D",
+        "content": "1270"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：57%，易错项：C。\n解析\n第一步，本题考查经济利润问题。\n第二步，从丙地到甲地的价格40元低于丁地到甲的50元，而从丁地到乙的价格30元低于丙地到乙的价格50元，\n故让丁地的8台优先运到乙地，花费30×8=240（元），乙地差的5台由丙地运送需花费50×5=250（元），\n则丙地其余的15台送到甲地，需花费40×15=600（元），一共需花费240+250+600=1090（元）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第36题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "为加强治安防控，现计划在一段 L 形的围墙（如下图）上安装治安摄像头，其中 A 点到 B 点长度为 750 米， B 点到 C 点长度为 1350 米。按要求 ABC 三个位置必须安装一个摄像头，且相邻两个摄像头之间的距离要保持一 致，则整段围墙至少需要安装（ ）个摄像头。 - 5 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "17"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查植树问题。\n第二步，要想安装的摄像头少则间距尽可能大，因为要求间距相等，750和1350的最大公约数是150，故选择\n150米作为间距。750+1350=2100（米），2100÷150+1=15（个）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第37题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "现有浓度为 4%的食盐水 250 克，若向该食盐水添加 10 克食盐，再蒸发掉 160 克水，则新获得的食盐水的 浓度为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10%"
+      },
+      {
+        "label": "B",
+        "content": "15%"
+      },
+      {
+        "label": "C",
+        "content": "20%"
+      },
+      {
+        "label": "D",
+        "content": "25%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：57%，易错项：B。\n解析\n第一步，本题考查溶液问题。\n第二步，原食盐水中含盐250×4%=10（克），加入10克盐后，含盐20克，溶液变为260克，蒸发掉160克水\n后，盐仍剩余20克，溶液剩余260一160=100（克），那么浓度为20÷100=20%。\n-10 -\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第38题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某单位的两个部门计划订阅报纸。每个部门需要在指定的 5 种报纸中选择其中的 3 种，且这两个部门在选 择时应做好沟通，做到 5 种报纸都有部门订阅，则订阅报纸的方案共有（ ）种。",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "30"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "100"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：37%，易错项：C。\n解析\n第一步，本题考查排列组合问题。\n数有10×3=30种。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第39题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一个纸箱里装有大小及材质完全相同的 10 个小球，其中 3 个黑色，2 个白色，1 个红色，2 个黄色，1 个绿 色，1 个紫色。如果不放回地依次随机取出 3 个小球，则取出的小球依次是黑色，红色，白色的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两座港口相距 300 公里且仅有 1 条固定航道，在某一时刻甲船从 A 港顺流而下前往 B 港，同时乙船从 B 港逆流而上前往 A 港，甲船在 5 小时之后抵达了 B 港，停留了 1 小时后开始返回 A 港，又过了 6 小时追上了乙船。 则乙船在静水中的时速为（ ）公里。 A、20"
+      },
+      {
+        "label": "B",
+        "content": "25"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "40"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：36%，易错项：B。\n解析\n第一步，本题考查概率问题，属于基本概率。\n第二步，分步考虑如下：\n3\n（1）10个小球中有3个黑球，取出小球为黑色的概率为10；\n（2）由于不放回，取出1个黑球后，还剩9个小球，其中有1个红球，此时取出小球为红色的概率为9；\n2\n（3）还剩8个小球，其中2个白球，此时取出小球为白色的概率为8。\n3、1×2\n1\n第三步，分步用乘法，故取出的小球依次是黑色、红色、白色的概率为",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第40题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某企业四月的营业额比三月的营业额多三分之一，五月的营业额比四月多三分之一，则三月的营业额比五 月的营业额少：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意赋值三月营业额为9，则四月的营业额，五月的营业额，因此三月的营业额比五月的营业额少。\n故正确答案为D。\n\n[来源 baijing1.top paperId=152 sort=41 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第41题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "三个书架共放有 60 本书，如果从第一个书架取出 10 本书放入第二个书架，再从第二个书架取出 5 本书放 入第三个书架，则此时三个书架的书就会一样多。那么第二个书架最初存放了（ ）本书。",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "20"
+      },
+      {
+        "label": "C",
+        "content": "25"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：39%，易错项：C。\n解析\n第一步，本题考查基础计算问题。\n第二步，三个书架共60本书，当三个书架书一样多时，各为20本，从第一个书架取出10本放入第二个书架，\n再从第二个书架取出5本放入第三个书架，第二个书架增加了10-5=5本书，此时有20本书，那么第二个书架最\n初存放了20-5=15本书。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第42题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "办公室按零售价花费 360 元购买了一批笔记本。如果按批发价购买，则每个笔记本能便宜 3 元，且恰好能 多购买 20 个。则该笔记本零售价为（ ）元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：36%，易错项：C。\n解析\n第一步，本题考查基础应用题，用代入排除法解题。\n360\n360\n+20=\nc-3\n依次代入选项验证：A选项，当x=3时，x-3=0，分母为0，排除；B选项，当x=4时，90+20≠360，排除；C选\n项，当x=6时，60+20≠120，排除；D选项，当x=9时，40+20=60，符合题意。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第43题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某部门正在准备会议材料，共有 153 份相同的文件，需要装到大小两种文件袋里送至会场，大的每个能装 24 份文件，小的每个能装 15 份文件。如果要使每个文件袋都正好装满，则需要大文件袋（ ）个。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查不定方程问题，用代入排除法解题。\n第二步，设需要大、小文件袋各x、y个，列方程24x+15y=153，化简得8x+5y=51，依次代入选项验证：A选项，\n当x=2时，y=7，符合题意。（B、C、D选项均无法使y取到整数解，排除）\n-11-\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第44题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "44、某部门正在准备会议材料，共有153 份相同的文件，需要装到大小两种文件袋里送至会场，大的每个能装\n24 份文件，小的每个能装15 份文件。如果要使每个文件袋都正好装满，则需要大文件袋（   ）个。\nA、2    B、3    C、5    D、7",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两座港口相距 300 公里且仅有 1 条固定航道，在某一时刻甲船从 A 港顺流而下前往 B 港，同时乙船从 B 港逆流而上前往 A 港，甲船在 5 小时之后抵达了 B 港，停留了 1 小时后开始返回 A 港，又过了 6 小时追上了 乙船。则乙船在静水中的时速为（ ）公里。 A、20"
+      },
+      {
+        "label": "B",
+        "content": "25"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "40"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：49%，易错项：B。\n解析\n第一步，本题考查行程问题，属于流水行船类，用方程法解题。\n第二步，设甲船在静水中时速为V甲、乙船在静水中时速为V乙、水速为V水，根据甲从A顺流而下5小时后到\n达B列方程：5×（v甲+V水）=300，解得v甲+V水=60；根据甲船停留1小时后又过了6小时追上乙船列方程：\n6×（v甲-V水）=12×（v乙-V水），化简得2V乙=V甲+V水=60，则乙船在静水中的时速为30公里。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第45题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。 第四部分 判断推理 - 6 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：69%，易错项：A。\n解析\n第一步，观察特征。\n九宫格每一组元素构成相同，只有元素位置不一样，考虑静态位置类。\n第二步，九宫格，优先横着找规律。\n第一行，三角形和点的位置都在第一行，位置分别为相邻，包含，间隔；第二行三角形和正方形都在第二行，位\n置分别为相邻，间隔，包含；第三行点和正方形都在第三行，有间隔，相邻，问号处填第三行包含位置，只有B\n选项符合。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第46题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q046.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-026",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，12，30，56，90，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "132"
+      },
+      {
+        "label": "B",
+        "content": "138"
+      },
+      {
+        "label": "C",
+        "content": "144"
+      },
+      {
+        "label": "D",
+        "content": "150"
+      }
+    ],
+    "answer": "A",
+    "explanation": "观察数列无明显特征，且数列变化平缓，优先考虑作差。后项减前项可得新数列：10、18、26、34，是公差为8的等差数列，则所求项为。\n故正确答案为A。\n\n[来源 baijing1.top paperId=146 sort=26 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第26题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-027",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "23",
+    "options": [
+      {
+        "label": "A",
+        "content": "176"
+      },
+      {
+        "label": "B",
+        "content": "138"
+      },
+      {
+        "label": "C",
+        "content": "144"
+      },
+      {
+        "label": "D",
+        "content": "150 34 58 93 152 （ ） B、206 C、246 D、296 28、9.19 4.27 5.35"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：81%，易错项：B。\n解析\n第一步，本题考查化学。\n第二步，煤燃烧排放出的酸性气体二氧化硫SO2是形成酸雨的根源之一。S02和水作用会生成亚硫酸\nSO2+H20=H2S03。亚硫酸在空气中可氧化成硫酸，2H2S03+02→2H2S04，导致硫酸雨的形成。酸雨会直接损坏植物\n叶面，也可导致土壤酸化。土壤中含有大量铝的氢氧化物，土壤酸化后，可加速土壤中含铝的原生和次生矿物风\n化而释放大量铝离子，形成植物可吸收的形态铝化合物。植物长期和过量的吸收铝，会中毒，甚至死亡。\n因此，选择C选项。\n拓展\nA项：煤炭正常燃烧时一般不会产生一氧化碳CO，导致CO排放超标。在氧气不充足煤燃烧不完全时可能产生C0。\n在自然界引起树木枯萎。\nB项：二氧化碳C02的超标排放不会造成植物萎，二氧化碳具有一定的增肥效应，因为二氧化碳是绿色植物光\n合作用的主要原料之一，所以该项不是导致树木枯萎的主要原因。\nD项：煤炭燃烧会产生大量的二氧化碳C02。虽然二氧化碳会与水反应形成碳酸，但是碳酸极易分解，而且酸性\n弱，自然条件下不会导致pH低于5.6的酸雨的形成。C02是温室气体的主要来源，温室效应会导致气候变暖。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第27题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-002",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "43 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.51"
+      },
+      {
+        "label": "B",
+        "content": "5.51"
+      },
+      {
+        "label": "C",
+        "content": "5.60"
+      },
+      {
+        "label": "D",
+        "content": "8.60"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：93%，易错项：B。\n解析\n第一步，分析语境。“要从组织和制度层面发力”与“要在活动阵地建设层面发力”之间是递进关系。\n第二步，辨析选项。A项“不仅……更……”是递进关联词，符合语境。B项、C项和D项均不是递进关系的关\n联词，不符合语境，排除B项、C项和D项。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第2题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2020-029",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "0 6 24 60 120 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "200"
+      },
+      {
+        "label": "B",
+        "content": "210"
+      },
+      {
+        "label": "C",
+        "content": "220"
+      },
+      {
+        "label": "D",
+        "content": "230"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：59%，易错项：C。\n解析\n第一步，本题考查劳动法、合同法并选错误项。\n第二步，D项中表述“为确保放弃缴纳社保声明合法有效，应另起协议”的说法是错误的。依据《劳动法》第72\n条的规定，用人单位和劳动者必须依法参加社会保险，缴纳社会保险费。当事人签署的放弃声明，违反法律的强\n制规定，因此该声明无效，另起协议也不能使其合法生效。\n因此，选择D选项。\n拓展\nA项：依据《合同法》第52条，有下列情形之一的，合同无效：（一）一方以欺诈、胁迫的手段订立合同，损\n害国家利益；（二）恶意串通，损害国家、集体或者第三人利益；（三）以合法形式掩盖非法目的；（四）损害\n定，因而相关条款属于无效条款。所以A项正确，不当选。\nB项：依据《合同法》第56条，无效的合同或者被撤销的合同自始没有法律约束力。合同部分无效，不影响其\n他部分效力的，其他部分仍然有效。陈某与公司签订的合同中关于不缴纳社保的约定无效，但不影响劳动合同其\n他部分的效力。依据《劳动法》第72条的规定，用人单位和劳动者必须依法参加社会保险，缴纳社会保险费。\n因此该公司应为陈某补缴社会保险。B项正确，不当选。\nC项：依据《合同法》第56条，无效的合同或者被撤销的合同自始没有法律约束力。那么陈某每月领取200元\n的贴没有法律依据，属于不当得利。依据《民法通则》第92条的规定，没有合法根据，取得不当利益，造成\n他人损失的，应当将取得的不当利益返还受损失的人。因此，陈某应当返还公司每月发放的200元补贴。C项正\n确，不当选。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第29题",
+    "region": "guangdong"
+  }
+]

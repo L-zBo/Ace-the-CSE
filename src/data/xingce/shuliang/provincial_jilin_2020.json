@@ -1,0 +1,356 @@
+[
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某篮球队共有九人，分三组举行三人制篮球赛，他们的球衣号码分别是从 1 号到 9 号，分组后发现三组的球 衣号码之和不同，且最大和是最小和的两倍。则各组号码之和不可能是下列哪个数？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：19%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查基础计算问题，用代入排除法解题。\n第二步，1—9 数字之和为 5×9=45，依次代入选项：A 选项，当号码和为 10 且为最小组的号码和，则最大的组\n是其两倍为 20，另一组为 45-10-20=15，10＜15＜20，符合题意；B 选项，当号码和为 11 且为最小组的号码和，\n最大的组是其两倍为 22，另一组为 45-11-22=12，11＜12＜22，符合题意。（由于代入 B 选项时，其中一组号码\n和为 12，故 C 选项 12 也可满足）\n因此，选择 D 选项。\n解法二：\n第一步，本题考查基础计算问题。\n第二步，1—9 数字之和为 5×9=45，根据最大组号码之和是最小组的两倍，设最小组为 x，则最大组为 2x，中间\n组为 45-3x，可知，中间组一定为 3 的倍数；最大组号码之和最大为 7+8+9=24，则最小组号码之和最大为 24÷\n2=12，D 选项大于 12 且不是 3 的倍数，不可能成立。\n因此，选择 D 选项。\n\n拓展\n\n等差数列前 n 项和＝中位数×项数",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第51题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小明每天从家中出发骑自行车经过一段平路，再经过一道斜坡后到达学校上课。某天早上，小明从家中骑车 出发，一到校门口就发现忘带课本，马上返回，从离家到赶回家中共用了 1 个小时，假设小明当天平路骑行速度 为 9 千米/小时，上坡速度为 6 千米/小时，下坡速度为 18 千米/小时，那么小明的家距离学校多远？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.5 千米"
+      },
+      {
+        "label": "B",
+        "content": "4.5 千米"
+      },
+      {
+        "label": "C",
+        "content": "5.5 千米"
+      },
+      {
+        "label": "D",
+        "content": "6.5 千米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：52%，易错项：C。\n\n解析\n\n第一步，本题考查行程问题，属于基本行程类。\n第二步，根据题意，小明从家到学校进行往返，上下坡距离相等，可利用等距离平均速度求得\n\n千米/小时，由于平路速度也为 9 千米/小时，往返总时间是 1 小时，故往返总路\n\n程为 9×1＝9 千米，则小明的家距离学校 9÷2=4.5 千米。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考jilin行测第52题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲乙丙丁四人通过手机的位置共享，发现乙在甲正南方向 2 公里处，丙在乙北偏西 60°方向 2 公里处，丁 在甲北偏西 75°方向。若丁与甲、丙的距离相等，则该距离为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 公里"
+      },
+      {
+        "label": "B",
+        "content": "公里"
+      },
+      {
+        "label": "C",
+        "content": "公里"
+      },
+      {
+        "label": "D",
+        "content": "2 公里"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：41%，易错项：C。\n\n解析\n\n第一步，本题考查平面几何问题。\n第二步，由题意可得，甲、乙、丙、丁四人位置关系如下图所示：\n\n第三步，甲乙＝乙丙＝2 公里，∠乙＝60°，故甲、乙、丙三人位置关系成等边三角形，那么甲丙的距离为 2 公\n里；甲丁＝丙丁，∠丁甲丙＝15＋30＝45°，故甲、丙、丁三人位置关系为等腰直角三角形，甲丙的距离为 2 公\n\n里，根据等腰直角三角形对应边比例为 1∶1∶ ，可得丁与甲、丙距离为\n因此，选择 B 选项。\n\n＝\n\n（公里）。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第53题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某学习平台的学习内容由观看视频、阅读文章、收藏分享、论坛交流、考试答题五个部分组成。某学员要先 后学完这五个部分，若观看视频和阅读文章不能连续进行，该学员学习顺序的选择有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24 种"
+      },
+      {
+        "label": "B",
+        "content": "72 种"
+      },
+      {
+        "label": "C",
+        "content": "96 种"
+      },
+      {
+        "label": "D",
+        "content": "120 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n- 14 -\n\n\f第一步，本题考查排列组合问题，用插空法解题。\n\n第二步，观看视频和阅读文章不能连续进行，先把收藏分享、论坛交流和考试答题排列好，共有 ＝6（种）方\n\n式，这三部分形成 4 个空，需在 4 个空中插入“观看视频”和“阅读文章”，有 ＝12（种）方式，那么共有\n6×12＝72（种）学习顺序。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考jilin行测第54题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某公司职员预约某快递员上午 9 点 30 分到 10 点在公司大楼前取件，假设两人均在这段时间内到达，且在这 段时间到达的概率相等。约定先到者等后到者 10 分钟，过时交易取消。快递员取件成功的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设快递员到达的时间为9点分，职员到达的时间为9点分，则只有，两人才能相遇。即直线、、、围成的区域，交点坐标分别为（30,40）、（50,60）、（60,60）、（60,50）、（40,30）、（30,30），如下图所示，只有在阴影部分区域两人才能够相遇，也就是求阴影部分面积占整个正方形面积的比例。由图可以看出，正方形面积，空白部分为两个全等三角形，每个的面积为，则阴影部分面积，占总面积的。\n故正确答案为C。\n\n[来源 baijing1.top paperId=663 sort=55 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考jilin行测第55题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2020/q055.png"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙、丙三人去超市买了 100 元的商品，如果甲付钱，那么甲剩下的钱是乙、丙两人钱数之和的 ；如 果乙付钱，则乙剩下的钱是甲、丙两人钱数之和的 ；如果丙付钱，丙用他的会员卡可享受 9 折优惠，结果丙 剩下的钱是甲、乙两人钱数之和的 ；那么，甲、乙、丙三人开始时一共带了多少钱？",
+    "options": [
+      {
+        "label": "A",
+        "content": "850 元"
+      },
+      {
+        "label": "B",
+        "content": "900 元"
+      },
+      {
+        "label": "C",
+        "content": "950 元"
+      },
+      {
+        "label": "D",
+        "content": "1000 元 - 7 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：10%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查基础应用题，用数字特性法求解。\n\n”可知，三人总钱数-100 后剩下的\n第二步，根据“如果甲付钱，那么甲剩下的钱是乙、丙两人钱数之和的\n总钱数应该是 15 的倍数，则选项-100 后不能整除 15 的即可排除，排除 B、C；根据“如果乙付钱，那么乙剩下\n\n的钱是甲、丙两人钱数之和的 ”可知，三人总钱数-100 后剩下的总钱数应该是 25 的倍数，则选项-100 后不\n能整除 25 的即可排除，剩下的选项中 A、D 都满足此条件，暂且均保留；根据“丙付钱可享受 9 折优惠，丙剩下\n\n的钱是甲、乙两人钱数之和的 ”可知，三人总钱数-90 后剩下的总钱数应该是 4 的倍数，A 和 D 选项中只有 A\n满足条件。\n因此，选择 A 选项。\n\n- 15 -\n\n\f解法二：\n第一步，本题考查基础应用题，用方程法解题。\n\n第二步，设三人共带了 x 元，由甲剩下的钱是乙丙的 ，那么甲剩下的钱是剩余总数 x-100 的 ；同理乙剩\n\n下的钱是剩余总数 x-100 的 ，丙打 9 折只需要 90 元，那么丙剩下的钱是剩余总数 x-90 的 。由此可列出方\n\n程：\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第56题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某电商平台每隔 5 千米有一座仓库，共有 A、B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A"
+      },
+      {
+        "label": "B",
+        "content": "仓库 B"
+      },
+      {
+        "label": "C",
+        "content": "仓库 C"
+      },
+      {
+        "label": "D",
+        "content": "仓库 D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：57%，易错项：B。\n\n解析\n\n，解得 x=850。\n\n第一步，本题考查其他杂题。\n第二步，以 B、C 中间为界，左边货物（A 和 B）共有 10＋20＝30（吨），右边货物（C 和 D）共有 15＋25＝40\n（吨），左边货物较轻，所以将左边的货物往右边移动，A、B 货物均移到 C，此时 C 点共有货物 30＋15＝45（吨）。\n第三步，以 C、D 中间为界，C 点货物有 45 吨，D 点货物有 25 吨，D 点货物较轻，所以将 D 点货物移动到 C 点，\n使得运费最少，故将货物集中在 C 仓库。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第57题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2020/q057.png"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某会展中心布置会场，从花卉市场购买郁金香、月季花、牡丹花三种花卉各 20 盆，每盆均用纸箱打包好装 车运送至会展中心，再由工人搬运至布展区。问至少要搬出多少盆花卉才能保证搬出的鲜花中一定有郁金香？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20 盆"
+      },
+      {
+        "label": "B",
+        "content": "21 盆"
+      },
+      {
+        "label": "C",
+        "content": "40 盆"
+      },
+      {
+        "label": "D",
+        "content": "41 盆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：40%，易错项：B。\n\n解析\n\n第一步，本题考查最值问题，属于最不利构造。\n第二步，根据“至少……保证……”可知本题为最不利构造，答案为“所有最不利情况+1”。要求搬出的鲜花中\n一定有郁金香，最不利的情况是把所有月季花、牡丹花都搬出来，即搬出 20+20=40（盆）。在此基础上再搬 1\n盆，就能够保证搬出的鲜花中一定有郁金香，即至少要搬出 40+1=41（盆）。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第58题",
+    "region": "jilin"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "村民陶某承包一块长方形种植地，他将地分割成如图所示的 4 个小长方形，在 A、B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米"
+      },
+      {
+        "label": "B",
+        "content": "49 平方米"
+      },
+      {
+        "label": "C",
+        "content": "64 平方米"
+      },
+      {
+        "label": "D",
+        "content": "81 平方米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：55%，易错项：B。\n\n解析\n\n第一步，本题考查平面几何问题，用方程法解题。\n第二步，设 A 的长和宽分别为 x、y，由长方形 A 周长为 20 米，可得 x＋y＝10；由长方形 B 周长 24 米，且长方\n形 B 与长方形 A 的长相同，可得 B 的长和宽分别为 x、y+2；由长方形 C 周长 28 米，且长方形 C 与长方形 A 的宽\n相同，可得 C 的长和宽分别为 x+4、y。那么长方形 D 的面积 S=（x+4）（y+2）＝（x＋4）（10－x＋2）＝（x\n＋4）（12－x），当且仅当 x＋4＝12－x，即 x＝4 时 S 取最大值，此时 S＝64，故长方形 D 的最大面积为 64 平\n方米。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第59题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2020/q059.png"
+  },
+  {
+    "id": "provincial-jilin-xingce-shuliang-2020-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "野外生存需要用一个简易的圆锥型过滤器（如下图所示）装满溪水进行过滤。过滤器的底面直径为 20 厘米， 高为 6 厘米。问全部过滤完毕后，在不考虑损耗的情况下，可使底面半径为 5 厘米，高为 15 厘米圆柱型容器的 水面高度达到：",
+    "options": [
+      {
+        "label": "A",
+        "content": "4 厘米"
+      },
+      {
+        "label": "B",
+        "content": "6 厘米"
+      },
+      {
+        "label": "C",
+        "content": "8 厘米"
+      },
+      {
+        "label": "D",
+        "content": "12 厘米 第四部分 判断推理"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：55%，易错项：B。\n\n解析\n\n第一步，本题考查几何问题，属于立体几何类。\n第二步，过滤器底面直径为 20 厘米，即半径为 10 厘米，高为 6 厘米，根据圆锥体体积公式可知，过滤器体积为\n\n；圆柱型容器底面半径为 5 厘米，则其底面积为\n\n，根据圆柱体体积公式\n\n可知，全部过滤完毕后圆柱型容器的水面高度为\n因此，选择 C 选项。\n\n（厘米）。\n\n拓展\n\n圆锥体体积=\n\n；圆柱体体积=",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jilin行测第60题",
+    "region": "jilin",
+    "questionImage": "/img/questions/provincial_jilin_2020/q060.png"
+  }
+]

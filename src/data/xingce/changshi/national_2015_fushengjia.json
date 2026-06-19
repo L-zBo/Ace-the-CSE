@@ -1,0 +1,704 @@
+[
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-001",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2014 年是第二次世界大战爆发75 周年，3 月28 日，国家主席习近平在德国科尔伯基金会发表演讲，谈到二 战时引用到的名言是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "谁忘记历史，谁就会在灵魂上生病"
+      },
+      {
+        "label": "B",
+        "content": "胜利不会向我走来，我必须自己走向胜利"
+      },
+      {
+        "label": "C",
+        "content": "历史的道路不是涅瓦大街上的人行道，它完全是在田野中前进的"
+      },
+      {
+        "label": "D",
+        "content": "世界上最宽阔的是海洋，比海洋更宽阔的是天空，比天空更宽阔的是人的胸怀"
+      }
+    ],
+    "answer": "A",
+    "explanation": "2014 年 3 月 28 日，国家主席习近平在德国科尔伯基金会的演讲：……今年是第一次世界大战爆发 100 周年、\n第二次世界大战爆发 75 周年……贵国前总理勃兰特曾经说过：“谁忘记历史，谁就会在灵魂上生病。”\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "时政热点",
+      "人文常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第1题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-002",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于我国农村三级卫生服务网络，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "主要承担预防保健、基本医疗、健康教育、计生指导等任务"
+      },
+      {
+        "label": "B",
+        "content": "包括乡镇卫生院、村卫生室和家庭自我保健"
+      },
+      {
+        "label": "C",
+        "content": "以让农民“看病不出乡镇”为发展目标"
+      },
+      {
+        "label": "D",
+        "content": "以乡镇卫生院为基础"
+      }
+    ],
+    "answer": "A",
+    "explanation": "农村三级卫生服务网络是指以县级医疗卫生机构为龙头、乡镇卫生院为主体、村卫生室为基础的卫生服务体\n系，B、D 两项错误；农村三级卫生服务网络主要承担着预防保健、基本医疗、卫生监督、健康教育、计划生育\n技术指导等任务，为农民获得基本卫生服务提供保障，A 项正确；我国农村三级卫生服务网络可缓解看病难、看\n病贵，实现农村医疗卫生发展目标，使农民“小病不出村、一般疾病不出乡、大病基本不出县”，C 项错误。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "科技常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第2题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-003",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "根据生产要素在各产业中的相对密集度，可以将产业划分为不同类型。下列对应错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "土地密集型产业——畜牧业、采掘业"
+      },
+      {
+        "label": "B",
+        "content": "劳动密集型产业——钢铁业、化工业"
+      },
+      {
+        "label": "C",
+        "content": "技术密集型产业——微电子工业、现代制药业"
+      },
+      {
+        "label": "D",
+        "content": "资本密集型产业——重型机械工业、电力工业"
+      }
+    ],
+    "answer": "B",
+    "explanation": "钢铁业、化工业属于资本密集型产业，B 项错误；A、C、D 三项对应均正确。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第3题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-004",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "成语“南橘北枳”是与晏婴出使楚国有关"
+      },
+      {
+        "label": "B",
+        "content": "苏武牧羊的地点在今天的贝加尔湖一带"
+      },
+      {
+        "label": "C",
+        "content": "东汉使者班超同时也是《汉书》的作者"
+      },
+      {
+        "label": "D",
+        "content": "西汉张骞与唐代鉴真出行的方向不同"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项正确，成语“南橘北枳”出自《晏子春秋▪内篇杂下》：“橘生淮南则为橘，生于淮北则为枳，叶徒相似，\n其实味不同。所以然者何？水土异也。”意思是淮南的橘树，移植到淮河以北就变为枳树。比喻同一物种因环境\n条件不同而发生变异。此成语与晏婴出使楚国有关。B 项正确，苏武牧羊讲的是苏武在天汉元年（前 100 年）奉\n命以中郎将持节出使匈奴，被扣留。匈奴贵族多次威胁利诱，欲使其投降；后将他迁到北海（今贝加尔湖）边牧\n羊，扬言要公羊生子方可释放他回国。苏武历尽艰辛，留居匈奴 19 年持节不屈。至始元六年（前 81 年），方获\n释回汉。C 项错误，《汉书》又称《前汉书》，由我国东汉时期的历史学家班固编撰，是中国第一部纪传体断代\n史，“二十四史”之一。D 项正确，西汉张骞出使西域，唐代鉴真东渡日本，两人出行的方向不同。\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "人文常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第4题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-005",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于现代武器，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "迫击炮通常配属装甲兵使用"
+      },
+      {
+        "label": "B",
+        "content": "陆军航空兵以直升机为主要装备"
+      },
+      {
+        "label": "C",
+        "content": "洲际弹道导弹是目前射程最远的导弹"
+      },
+      {
+        "label": "D",
+        "content": "驱逐舰具有防空、反潜和对地攻击的综合作战能力"
+      }
+    ],
+    "answer": "A",
+    "explanation": "装甲兵以坦克为基本装备，主要执行地面突击任务，是陆军的重要突击力量。迫击炮是一种炮身短、射角大、\n弹道弧线高、以座钣承受后座力、采用炮口装填、发射带尾翼弹的曲射滑膛火炮。射程较近，轻便灵活，能射击\n遮蔽物后方的目标，是一种支援和伴随步兵作战的有效的压制兵器，A 项错误。B、C、D 三项说法均正确。\n本题为选非题，故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第5题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-006",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于我国政府信息公开，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "行政机关对政府信息不能确定是否可以公开时，应不公开"
+      },
+      {
+        "label": "B",
+        "content": "公民可以根据自身生产、生活和科研等特殊需要申请政府信息公开"
+      },
+      {
+        "label": "C",
+        "content": "行政机关逾期不答复公民申请信息公开的，公民可依法提起行政诉讼"
+      },
+      {
+        "label": "D",
+        "content": "县级以上各级人民政府的办公厅(室)可以作为本级政府信息公开工作的主管部门"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项错误，《政府信息公开条例》第十四条第三款规定，行政机关对政府信息不能确定是否可以公开时，应\n当依照法律、法规和国家有关规定报有关主管部门或者同级保密工作部门确定。B 项正确，《政府信息公开条例》\n第 13 条规定，除本条例第九条、第十条、第十一条、第十二条规定的行政机关主动公开的政府信息外，公民、\n法人或者其他组织还可以根据自身生产、生活、科研等特殊需要，向国务院部门、地方各级人民政府及县级以上\n地方人民政府部门申请获取相关政府信息。C 项正确，行政机关逾期不答复公民申请信息公开的，属于行政不作\n为，属于行政诉讼受案范围。公民当然可以依法提起行政诉讼。D 项正确，《政府信息公开条例》第三条规定，\n各级人民政府应当加强对政府信息公开工作的组织领导。国务院办公厅是全国政府信息公开工作的主管部门，负\n责推进、指导、协调、监督全国的政府信息公开工作。县级以上地方人民政府办公厅（室）或者县级以上地方人\n民政府确定的其他政府信息公开工作主管部门负责推进、指导、协调、监督本行政区域的政府信息公开工作。\n本题为选非题，故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "法律常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第6题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-007",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列哪种情形最可能实行一审终审：",
+    "options": [
+      {
+        "label": "A",
+        "content": "基层人民法院审理被告提出反诉的买卖合同纠纷案件"
+      },
+      {
+        "label": "B",
+        "content": "基层人民法院审理夫妻双方争夺子女抚养权的离婚案件"
+      },
+      {
+        "label": "C",
+        "content": "中级人民法院审理在本辖区有重大影响的合同纠纷案件"
+      },
+      {
+        "label": "D",
+        "content": "基层人民法院审理权利义务关系明确的租赁合同纠纷案件"
+      }
+    ],
+    "answer": "D",
+    "explanation": "《民事诉讼法》第一百六十二条规定，基层人民法院和它派出的法庭审理符合本法第一百五十七条第一款规\n定的简单的民事案件，标的额为各省、自治区、直辖市上年度就业人员年平均工资百分之三十以下的，实行一审\n终审。《民事诉讼法》第一百五十七条规定，基层人民法院和它派出的法庭审理事实清楚、权利义务关系明确、\n争议不大的简单的民事案件，适用本章规定。基层人民法院和它派出的法庭审理前款规定以外的民事案件，当事\n人双方也可以约定适用简易程序，D 项符合。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "法律常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第7题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-008",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列关于地理位置的描述与城市之间对应关系错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "北通汝洛，西带秦蜀，南遮湖广，东瞰吴越——襄阳"
+      },
+      {
+        "label": "B",
+        "content": "东压江淮，西挟关陇，北通幽燕，南系荆襄——南京"
+      },
+      {
+        "label": "C",
+        "content": "南抚百越，北望中州，据五岭之要会，扼赣闽粤湘之要冲——赣州"
+      },
+      {
+        "label": "D",
+        "content": "居浙右之上游，控鄱阳之肘腋，制闽越之喉吭，通宣歙之声势——衢州"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项正确，《读史方舆纪要》称：“襄阳上流门户，北通汝洛，西带秦蜀，南遮湖广，东瞰吴越。”B 项错误，\n洛阳城，雄踞“天下之中”，东压江淮，西挟关陇，北通幽燕，南系荆襄，人称“八方辐辏”“九州腹地”“十\n省通衢”。C 项正确，赣州“承南启北、呼东应西、南抚百越、北望中州”，史称“南抚百越，北望中洲，据五\n岭之要会，扼赣闽粤湘之要冲”。D 项正确，浙江衢州，闽浙赣皖四省边际中心城市，“居浙右之上游，控鄱阳\n之肘腋，制闽越之喉吭，通宣歙之声势”。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "地理常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第8题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-009",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列语句按出现时间先后排序正确的是： ①劳心者治人，劳力者治于人 ②少年富则国富，少年强则国强 ③苟全性命于乱世，不求闻达于诸侯 ④业精于勤，荒于嬉；行成于思，毁于随",
+    "options": [
+      {
+        "label": "A",
+        "content": "③①④②"
+      },
+      {
+        "label": "B",
+        "content": "③②①④"
+      },
+      {
+        "label": "C",
+        "content": "①③④②"
+      },
+      {
+        "label": "D",
+        "content": "①②③④"
+      }
+    ],
+    "answer": "C",
+    "explanation": "①出自《孟子》，为战国时期；②出自梁启超《少年中国说》，为民国时期；③出自诸葛亮的《出师表》，\n为三国时期；④出自韩愈的《进学解》，为唐朝时期。故时间顺序为①③④②。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第9题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-010",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列选项所描述的对象，哪一项与其他三项不同:",
+    "options": [
+      {
+        "label": "A",
+        "content": "挥毫掣电，随手万变"
+      },
+      {
+        "label": "B",
+        "content": "池墨泼飞云，紫毫挥广宇"
+      },
+      {
+        "label": "C",
+        "content": "湖光秋月两相和，潭面无风镜未磨"
+      },
+      {
+        "label": "D",
+        "content": "怳怳如闻神鬼惊，时时只见龙蛇走"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：怀素的狂草被形容为“挥毫掣电，随手万变”。B 项：原诗为：今闻东楚人，结网为书圃。池墨泼飞\n云，紫毫挥广宇。风流与我逢，狂草竞龙舞。一舞醉三回，消愁极千古。描写的对象亦是狂草。C 项：湖光秋月\n两相和，潭面无风镜未磨，出自唐朝刘禹锡的《望洞庭》。意译为：洞庭湖的水光与秋月交相融和，水面波平浪\n静就好像铜镜未磨。因此描述的对象为洞庭湖。D 项：李白曾在一首诗里对某一书法作品称赞道：“飘风骤雨惊\n飒飒，落花飞雪何茫茫。起来向壁不停手，一行数字大如斗。怳怳如闻神鬼惊，时时只见龙蛇走。左盘右蹙如惊\n电，状同楚汉相攻战。”李白赞扬的是草书的挥洒自如和狂放之美。\n故正确答案为 C。\n\n- 1 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第10题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-011",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列哪组成语反映了同一种人际关系：",
+    "options": [
+      {
+        "label": "A",
+        "content": "琴瑟和鸣破镜重圆"
+      },
+      {
+        "label": "B",
+        "content": "负荆请罪载舟覆舟"
+      },
+      {
+        "label": "C",
+        "content": "结草衔环青梅竹马"
+      },
+      {
+        "label": "D",
+        "content": "相濡以沫舐犊情深"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项正确，“琴瑟和鸣”与“破镜重圆”两词描写的都是夫妻间的关系；B 项错误，“负荆请罪”指的是朋\n友关系，“载舟覆舟”指的是君民关系，描述的关系不同；C 项错误，“结草衔环”指的是施恩者与报恩者之间\n的关系，“青梅竹马”指的是少男少女之间朦胧的爱情关系，描述关系不同；D 项错误，“相濡以沫”指的是夫\n妻关系，“舐犊情深”指的是父母与子女之间的关系，描述的关系不同。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第11题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-012",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "话说当时住持真人对洪大尉说道：“太尉不知，此殿中当初是祖老天师洞玄真人传下法符，嘱咐道：‘此殿 内镇锁着三十六员天罡星，七十二座地煞星，共是一百单八个魔君在里面，上立石碑，凿着龙章凤篆天符，镇住 在此，若还放他出世，必恼下方生灵。’如今太尉放他走了，怎生是好？” 关于这段文字所属著作，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "是我国古代著名的长篇神魔小说"
+      },
+      {
+        "label": "B",
+        "content": "其作者与曹雪芹生活在同一时期"
+      },
+      {
+        "label": "C",
+        "content": "“白帝城托孤”是书中的一个情节"
+      },
+      {
+        "label": "D",
+        "content": "以北宋末年为故事背景"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项错误，题干说的是《水浒传》开头北宋朝廷太尉放走 108 将的故事情节，所以本题说的是《水浒传》。\n我国古代著名的神魔小说指的是《西游记》；B 项错误，《水浒传》作者是施耐庵，他生活于元末明初，曹雪芹\n生活于清代。C 项错误，“白帝城托孤”是《三国演义》中的情节。D 项正确，《水浒传》描写的正是北宋末年\n农民起义的故事。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第12题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-013",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "一跨国企业计划7 月份在全球两个大城市同期举办大型室外活动。为避免降雨影响活动效果，选择下列哪两 - 1 - 个城市最为合理：",
+    "options": [
+      {
+        "label": "A",
+        "content": "北京和纽约"
+      },
+      {
+        "label": "B",
+        "content": "东京和马德里"
+      },
+      {
+        "label": "C",
+        "content": "上海和伦敦"
+      },
+      {
+        "label": "D",
+        "content": "罗马和洛杉矶"
+      }
+    ],
+    "answer": "D",
+    "explanation": "选项中 8 个城市都位于北半球，7 月北半球正处于夏季。罗马和洛杉矶都属于地中海气候，特点是夏季炎热\n干燥，冬季温和多雨；北京为温带季风性气候，特点为夏季温热多雨，冬季寒冷干燥；纽约和马德里属于温带大\n陆性气候，特点为降水稀少且集中在夏季；东京属于亚热带海洋性季风气候，特点为夏季暖热多雨，雨热同季；\n上海属于亚热带季风气候，特点为夏季湿润多雨，冬季温和少雨；伦敦属于温带海洋性气候，全年多雨。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "地理常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第13题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-014",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "日常生活中经常可以依据动物的某些行为预判天气，下列对应正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "麻雀囤食——雨天"
+      },
+      {
+        "label": "B",
+        "content": "蚂蚁垒窝——晴天"
+      },
+      {
+        "label": "C",
+        "content": "蜻蜓低飞——雨天"
+      },
+      {
+        "label": "D",
+        "content": "龟背冒“汗”——晴天"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项错误，麻雀囤食要落雪，麻雀预见到要下雪的话，赶紧多准备食物，否则下雪了无处觅食就会饿死。B\n项错误，蚂蚁垒窝要下雨，蚂蚁天性喜欢干燥，在它的身体上有一个感知水分的器官，当空气中的水分太高时，\n它就感觉要下雨了，就会向高处搬家，以免被雨水淹；蜻蜓飞得低是因为要下雨了，通常在下雨之前，空气中的\n湿度相当高，昆虫一遇到潮湿的水气，往往翅膀会沾湿，此时就是蜻蜓捕捉猎物的好时机，所以，才会有看见蜻\n蜓低飞。D 项错误，“龟背冒汗，出门带雨伞”。乌龟背壳潮湿，壳上的纹路混而暗，是天要降雨的征兆；龟壳\n有水珠，像是冒汗，将要下大雨。龟壳干燥，纹路清晰，预示近期不会下雨。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第14题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-015",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列唐诗所描写的内容与对应的体育项目不相符的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "御马牵来亲自试，珠球到处玉蹄知——马球"
+      },
+      {
+        "label": "B",
+        "content": "杨桴击节雷阗阗，乱流齐进声轰然——游泳"
+      },
+      {
+        "label": "C",
+        "content": "壮徒恒贾勇，拔拒抵长河——拔河"
+      },
+      {
+        "label": "D",
+        "content": "上弦明月半，激箭流星远——射箭"
+      }
+    ],
+    "answer": "B",
+    "explanation": "“杨桴击节雷阗阗，乱流齐进声轰然”出自刘禹锡的《竞渡曲》，记叙的是一次赛龙舟的活动。B 项错误。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第15题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-016",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列情景不可能发生在19 世纪的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "杰克打电话约玛丽一起去看电影"
+      },
+      {
+        "label": "B",
+        "content": "史蒂芬逊乘火车到斯托克顿旅行"
+      },
+      {
+        "label": "C",
+        "content": "约翰乘电梯登大楼楼顶拍照留念"
+      },
+      {
+        "label": "D",
+        "content": "汤姆通过广播收听葛底斯堡演说"
+      }
+    ],
+    "answer": "D",
+    "explanation": "葛底斯堡演说是 1863 年 11 月 19 日林肯在宾夕法尼亚州葛底斯堡的葛底斯堡国家公墓揭幕式中发表的演说，\n且广播诞生在 20 世纪，因此汤姆不可能在 19 世纪通过广播收听葛底斯堡演说。D 项错误。\n本题为选非题，故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第16题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-017",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "对下列诗词蕴含的化学原理解释错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "蜡炬成灰泪始干——烃类的不完全燃烧"
+      },
+      {
+        "label": "B",
+        "content": "爆竹声中一岁除——爆炸产生二氧化硫"
+      },
+      {
+        "label": "C",
+        "content": "日照香炉生紫烟——多环芳香烃的升华"
+      },
+      {
+        "label": "D",
+        "content": "洪炉照破夜沉沉——燃烧释放二氧化碳"
+      }
+    ],
+    "answer": "C",
+    "explanation": "“日照香炉生紫烟”意思是庐山的香炉峰，在日光的照耀下，水汽蒸腾，呈现出紫色的烟霞，而多环芳香烃\n是煤、油类、煤气、木头、垃圾或其他有机物在不完全燃烧时形成的一类化学物质。两者之间没有联系，C 项错\n误。\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第17题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-018",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "下列俗语与对应的成语，二者本意所指属于同一物理现象的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "宝剑锋从磨砺出——百炼成钢"
+      },
+      {
+        "label": "B",
+        "content": "酒香不怕巷子深——近朱者赤"
+      },
+      {
+        "label": "C",
+        "content": "小小秤砣压千斤——举重若轻"
+      },
+      {
+        "label": "D",
+        "content": "近水楼台先得月——海市蜃楼"
+      }
+    ],
+    "answer": "B",
+    "explanation": "物质是由分子组成的，分子在不停地做无规则运动，且分子间存在相互作用的引力和斥力。由于分子在不停\n地做无规则运动，故不同物质的分子会彼此进入对方，发生扩散现象。题干中的“酒香不怕巷子深”和“近朱者\n赤”所包含的都是分子运动这一物理现象。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第18题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-019",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于生活常识，下列说法错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "吃松花蛋时佐以食醋，是为了减少松花蛋的涩味"
+      },
+      {
+        "label": "B",
+        "content": "电灯泡中加入少量红磷，是为了防止灯丝氧化"
+      },
+      {
+        "label": "C",
+        "content": "纯碱使馒头稀松多孔，是因为化学反应产生二氧化碳"
+      },
+      {
+        "label": "D",
+        "content": "千滚水不宜饮用，是因为其中的细菌含量会大大增加"
+      }
+    ],
+    "answer": "D",
+    "explanation": "千滚水是指反复煮沸的水，在反复煮沸的过程中，滋生出亚硝酸盐、重金属等有害物质，长期饮用会影响人\n的身体健康。D 项错误。\n本题为选非题，故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第19题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-changshi-2015-fushengjia-020",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "中国古代以\"右\"为尊，举办宴会，座位次序为：\"宾客之中最尊贵之人居首席，面南背北而坐，居其右而面东。\"按位次依次排列。下列座次安排符合上述礼法的是？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "古代贵族男子的字前常加伯（孟）、仲、叔、季表示排行。三国时期孙坚的四个儿子中，长子孙策，字伯符；\n次子孙权，字仲谋；三子孙翊，字叔弼；四子孙匡，字季佐。按照长幼顺序，孙策应坐主位，孙权次之，孙翊再\n次之，孙匡居末座。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第20题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q020.png"
+  }
+]

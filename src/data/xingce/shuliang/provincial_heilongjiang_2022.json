@@ -1,0 +1,143 @@
+[
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2022-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某方舱医院配有1000张床位，现已接收新冠确诊患者200名，并按床护比（护士数与床位数的比值） 0.6：1配齐了护士人员。因疫情发展迅速，该医院又收治了700名患者，此时床护比下调为0.2：1，那 么还需增加护士： 57 58 59 60",
+    "options": [
+      {
+        "label": "A",
+        "content": "80名"
+      },
+      {
+        "label": "B",
+        "content": "60名"
+      },
+      {
+        "label": "C",
+        "content": "40名"
+      },
+      {
+        "label": "D",
+        "content": "20名"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据最初床护比为 0.6：1，可求出最初 200 名患者配备的护士人数为 200×0.6=120 名；又收治 700 名\n患者后，患者总数变为 200+700=900 名，按照下调后床护比为 0.2：1 计算，共需护士 900×0.2=180 名，\n所以需增加护士人数=180-120=60 名。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考heilongjiang行测第56题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2022-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "三星堆一号祭祀坑出土一枚金杖（如下图所示），全长1.42米，直径2.3厘米，采用的是金皮包卷在圆\n柱形木头上，出土时，金皮重约500克，已知60克黄金的体积是3.1088立方厘米，则金皮的厚度大约 是：（保留小数点后两位）\n\n \n \n \n \n11/22",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.25mm"
+      },
+      {
+        "label": "B",
+        "content": "0.51mm"
+      },
+      {
+        "label": "C",
+        "content": "0.87mm"
+      },
+      {
+        "label": "D",
+        "content": "1.02mm"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，金皮展开后为长方体，展开图如下图所示。设金皮的厚度为 x 厘米，根据长方体体积公式：\n\n=长×宽×高，可得金皮的体积为：\n\n，根据体积与重量成正比，则可列式：\n\n，则\n\n， 取 3.14，解得\n\n厘米，即 0.25mm。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考heilongjiang行测第61题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2022/q061.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2022-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某助农志愿小分队采摘到甲、乙、丙三筐枸杞共144斤。第一次从甲筐中取出与乙筐一样重的枸杞放入 乙筐，第二次再从现有乙筐中取出与丙筐一样重的枸杞放入丙筐，第三次从现有丙筐中取出与现有甲 筐一样重的枸杞放入甲筐，此时三筐枸杞一样重。那么原来甲筐中有枸杞：",
+    "options": [
+      {
+        "label": "A",
+        "content": "36斤"
+      },
+      {
+        "label": "B",
+        "content": "48斤"
+      },
+      {
+        "label": "C",
+        "content": "56斤"
+      },
+      {
+        "label": "D",
+        "content": "66斤 清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副 对联既可以顺读也可以逆读，被称作回文联。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，某镇卫生院 50 多名医生被平均分配到 13 个基层诊所参与工作，医生总数为 13 的倍数，则\n\n医生总数只能为 52 人。由于男医生比女医生多 4 人，则男医生有\n\n人，女医生有\n\n人，\n\n分配到邻镇的男医生有 28×25%=7 人。要使这批人员中任意 6 人必有男医生，则女医生的人数应小于 6 人；\n又因有 4 个医疗点，且要保证必有一个医疗点的女医生多于 1 人，则女医生的人数应大于 4 人，故女医生\n的人数为 5 人。则该卫生院到邻镇支援工作的医生有 7+5=12 人。\n\n故正确答案为 A。\n注：男医生人数为 7 人，女医生人数少于 6 人，则医生总人数少于 13 人，只有 A 项满足。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考heilongjiang行测第68题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2022-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "人",
+    "options": [
+      {
+        "label": "B",
+        "content": "14人"
+      },
+      {
+        "label": "C",
+        "content": "16人 某商场为庆祝开业三周年，制作了一个长方形大蛋糕，并切成四块，如图所示。假设这个蛋糕可供350 人享用，左下角那块蛋糕平均可供50人享用，右上角那块蛋糕平均可供70人，则中间最大块蛋糕平均 可供多少人享用？"
+      },
+      {
+        "label": "D",
+        "content": "18人"
+      },
+      {
+        "label": "A",
+        "content": "150 B、155 C、175 D、180 70 商家门口摆放了一把正四棱锥形（底面为正方形，侧面为四个全等的等腰三角形）的遮阳伞，第一次 伞撑开到图1所示的位置，伞柄与伞骨成角 角 变为 ，那么第二次伞撑开后形成的正方形 为 ，继续撑开到如图2所示的位置，伞柄与伞骨成 是第一次撑开后正方形ABCD面积 的： A、 倍 C、2倍 倍 B、 D、3倍"
+      }
+    ],
+    "answer": "B",
+    "explanation": "假设平均每人享用蛋糕\n\n，则蛋糕面积为\n\n，赋值蛋糕的长为 35cm，宽为 10cm。如下图所示：\n\n根据“左下角那块蛋糕平均可供 50 人享用，右上角那块蛋糕平均可供 70 人”可知\n\n，根据三角形面积公式：\n\n，可得：CE\n\ncm，BF\n\n则 ED=35-10=25cm，DF=10-4=6cm，则\n\n，故\n\n平均可供 155 人享用，即中间最大块蛋糕平均可供 155 人享用。\n\n，\n\ncm，\n\n，\n\n中，\n\n故\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考heilongjiang行测第69题",
+    "region": "heilongjiang"
+  }
+]

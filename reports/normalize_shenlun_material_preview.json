@@ -1,0 +1,221 @@
+{
+  "totalRecords": 652,
+  "alreadyHadMaterial": 512,
+  "normalized": 0,
+  "notSplittable": 140,
+  "byCategory": {
+    "duice": {
+      "total": 16,
+      "alreadyHadMaterial": 9,
+      "normalized": 0,
+      "notSplittable": 7
+    },
+    "fenxi": {
+      "total": 1,
+      "alreadyHadMaterial": 1,
+      "normalized": 0,
+      "notSplittable": 0
+    },
+    "guanche": {
+      "total": 170,
+      "alreadyHadMaterial": 92,
+      "normalized": 0,
+      "notSplittable": 78
+    },
+    "guina": {
+      "total": 1,
+      "alreadyHadMaterial": 1,
+      "normalized": 0,
+      "notSplittable": 0
+    },
+    "xiezuo": {
+      "total": 464,
+      "alreadyHadMaterial": 409,
+      "normalized": 0,
+      "notSplittable": 55
+    }
+  },
+  "normalizedFiles": [],
+  "notSplittableSamples": [
+    {
+      "path": "src/data/shenlun/duice/provincial_anhui_2009.json",
+      "id": "shenlun-provincial-anhui-duice-2009-001",
+      "category": "duice",
+      "contentHead": "2009 年安徽省公务员考试《申论》真题\n\n一、注意事项\n\n满分：100 分时限：120 分钟\n\n1.申论考试是对应试者阅读理解能力、综合分析能力、提出和解决问题能力、文字表达能力的测试。\n2.作答参考时限：阅读资料 30 分钟，作答 90 分钟。\n3.仔细阅读给定资料，然后根据后面提出的“作答要求”依次作答。\n二、给定资料\n【给定资料一】\n(改编材料)\nA"
+    },
+    {
+      "path": "src/data/shenlun/duice/provincial_hebei_2004.json",
+      "id": "shenlun-provincial-hebei-duice-2004-001",
+      "category": "duice",
+      "contentHead": "获取试卷更新，请关注\n\n2004 年河北省公务员考试《申论》真题\n\n来源：W 整理：杨柳（微信：gwy288）\n\n一、申论题(每题 50 分，共 100 分)问答题说明\n\n(1)上汽集团总裁日前在上海对记者说，中国作为世界上最大的潜在市场，应该有一个很强的汽车工\n\n业与之匹配，应该建立一些大规模的汽车工业集团。他指出，中国缺乏具有国际竞争力企业的一个重要原\n"
+    },
+    {
+      "path": "src/data/shenlun/duice/provincial_jiangsu_2006.json",
+      "id": "shenlun-provincial-jiangsu-duice-2006-001",
+      "category": "duice",
+      "contentHead": "2006 年江苏省公务员考试《申论》真题\n\n(1)新华社北京 3 月 4 日电 \"今年的春节很热闹,年味很浓.\"提起过节，从 2003 年起就\n\n一直为弘扬中华传统优秀文化鼓与呼的李汉秋委员坐不住了，“我们应该一起为传统节日的\n\n发展加把劲，‘建设’好自己的传统节日。”\n\n“中国的情人节——七夕节以及重阳节，已经同春节、清明、端午、中秋一起列为六大\n\n传统节"
+    },
+    {
+      "path": "src/data/shenlun/duice/provincial_jiangsu_2016.json",
+      "id": "shenlun-provincial-jiangsu-duice-2016-001",
+      "category": "duice",
+      "contentHead": "2016 年江苏省录用公务员考试《申论》真题卷（A 类）\n\n一、注意事项\n\n1．本题本由给定资料与作答要求两部分组成。考试时间为 150 分钟。其中，阅读给定资料参考时限为 30\n\n分钟，作答参考时限为 120 分钟。满分 100 分。\n\n2．请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，并用 2B 铅笔\n\n在准考证号对应的数字"
+    },
+    {
+      "path": "src/data/shenlun/duice/provincial_shandong_2018.json",
+      "id": "shenlun-provincial-shandong-duice-2018-001",
+      "category": "duice",
+      "contentHead": "2018 年山东公务员考试申论真题及答案 B\n\n一、注意事项\n\n1．本题本由给定资料和作答要求两部分构成。考试时限为 180 分钟。其中，阅读给定资料参考时限为\n\n50 分钟，作答参考时限为 130 分钟。满分为 100 分。\n\n2．请用黑色字迹的钢笔或签字笔在题本、答题卡指定位置上填写自己的姓名、准考证号，并用 2B 铅\n\n笔在答题卡上填涂准考证号对应的数"
+    },
+    {
+      "path": "src/data/shenlun/duice/provincial_xinjiang_2008.json",
+      "id": "shenlun-provincial-xinjiang-duice-2008-001",
+      "category": "duice",
+      "contentHead": "获取试卷更新，请关注\n\n2008 年新疆维吾尔自治区公务员考试\n\n《申论》真题卷\n\n来源：H 整理：杨柳（微信：gwy288）\n\n一、注意事项\n\n1.本题本由给定资料与作答要求两部分构成。考试时限为 150 分钟。其中，阅读给定资料参考时限为\n\n40 分钟，作答参考时限为 110 分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名"
+    },
+    {
+      "path": "src/data/shenlun/duice/provincial_zhejiang_2011.json",
+      "id": "shenlun-provincial-zhejiang-duice-2011-001",
+      "category": "duice",
+      "contentHead": "2011 年浙江省公务员录用考试《申论》试卷\n\n满分：１００分时限：１５０分钟\n\n一、注意事项\n\n1.本题本由给定资料与作答要求两部分构成。考试时限为 150 分钟。其中，阅读给定资\n\n料参考时限为 40 分钟，作答参考时限为 110 分钟。满分 100 分。\n\n二、给定资料\n\n资料 1\n\n国家统计局公布的数据显示，2010 年我国国内生产总值达到 39.8"
+    },
+    {
+      "path": "src/data/shenlun/guanche/national_2015_dishi.json",
+      "id": "shenlun-national-guanche-2015-dishi-001",
+      "category": "guanche",
+      "contentHead": "2015 年国家公务员考试《申论》地市级卷\n\n一、注意事项\n\n1.本题本由给定材料与作答要求两部分构成。考试时限为 180 分钟。其中，阅读给定材料参考\n\n时限为 50 分钟，作答参考时限为 130 分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，并用\n\n2B 铅笔在准考证号对应的数字上填涂。\n\n3.请用黑色字迹的钢"
+    },
+    {
+      "path": "src/data/shenlun/guanche/national_2015_fushengjia.json",
+      "id": "shenlun-national-guanche-2015-fushengjia-001",
+      "category": "guanche",
+      "contentHead": "2015 年国家公务员考试《申论》省部级卷\n\n一、注意事项\n\n1.本题本由给定材料与作答要求两部分构成。考试时限为 180 分钟。其中，阅读给定材料参考\n\n时限为 50 分钟，作答参考时限为 130 分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，并用\n\n2B 铅笔在准考证号对应的数字上填涂。\n\n3.请用黑色字迹的钢"
+    },
+    {
+      "path": "src/data/shenlun/guanche/national_2020.json",
+      "id": "shenlun-national-guanche-2020-001",
+      "category": "guanche",
+      "contentHead": "2020 年国家公考《申论》真题（副省级）（网友回忆版）\n\n一、注意事项\n\n1.本题本由给定资料与作答要求两部分构成。考试时限为 180 分钟。其中，阅读给定资料参考时限\n\n为 50 分钟，作答参考时限为 130 分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，并用 2B\n\n铅笔在准考证号对应的数字上填涂。\n\n3.请"
+    },
+    {
+      "path": "src/data/shenlun/guanche/national_2021_fushengjia.json",
+      "id": "shenlun-national-guanche-2021-fushengjia-001",
+      "category": "guanche",
+      "contentHead": "2021 年国家公务员考试《申论》真题（副省级）\n\n一、注意事项\n\n1.本试题由“给定资料”和“作答要求”两部分构成。考试时限为 180 分钟。其中，阅读给定资\n\n料参考时限为 50 分钟，作答参考时限为 130 分钟。总分 100 分。\n\n2.请在题本、答题卡、草稿纸指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，\n\n并在答题卡上用 2B 铅笔"
+    },
+    {
+      "path": "src/data/shenlun/guanche/national_2023_fushengjia.json",
+      "id": "shenlun-national-guanche-2023-fushengjia-001",
+      "category": "guanche",
+      "contentHead": "2023 年国家公考《申论》题（副省卷）\n\n一、注意事项\n1.本题本由给定资料与作答要求两部分构成。考试时限为 180 分钟。其中，阅读给定资料参考时限为\n\n50 分钟，作答参考时限为 130 分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，并用 2B 铅笔\n\n在准考证号对应的数字上填涂。\n\n3.请用黑色字迹的钢笔或"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_2007.json",
+      "id": "shenlun-provincial-guanche-2007-001",
+      "category": "guanche",
+      "contentHead": "2007 年广州市公务员录用考试《申论》试卷\n\n满分 100 分时限 120 分钟\n\n一、注意事项\n\n1．申论考试是对应考者阅读理解能力、综合分析能力、提出和解决问题能力、文字表达能力的测\n\n试。\n\n2．作答时限：120 分钟。其中阅读资料 30 分钟，作答 90 分钟。\n\n3．仔细阅读给定资料，按照后面提出的“申论要求”依次作答。\n\n二、给定资料\n\n材料一"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_2008.json",
+      "id": "shenlun-provincial-guanche-2008-001",
+      "category": "guanche",
+      "contentHead": "2008 年广州市公务员考试《申论》真题\n\n一、注意事项；\n\n1、申论是对考生阅读理解能力、综合分析能力、提出问题和解决问题能力、文字表达能力的测试。\n\n2、作答参考时限：阅读材料 30 分钟，作答 90 分钟。\n\n3、仔细阅读给定材料，按照后面提出的“申论要求”依次作答。\n\n二、材料：\n\n材料一\n\n建设部等四部委于 2006 年 12 月 1 日联合下发《"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_2011.json",
+      "id": "shenlun-provincial-guanche-2011-001",
+      "category": "guanche",
+      "contentHead": "2011 年广州市公务员录用考试《申论》试卷\n\n一、注意事项\n\n满分 100 分时限 120 分钟\n\n1．申论是对考生阅读理解能力、综合分析能力、提出问题和解决问题能力、文字表达能力的测试。\n\n2．作答参考时限：阅读材料 30 分钟，作答 90 分钟。\n\n3．阅读给定材料，并按照要求回答问题。\n\n二、给定材料\n\n材料一\n\n2011 年 3 月 15 日，消费"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_2012.json",
+      "id": "shenlun-provincial-guanche-2012-001",
+      "category": "guanche",
+      "contentHead": "2012 年广州市公考《申论》真题\n\n一、注意事项\n\n1.本题本由给定材料与申论要求两部分构成。考试时限为 150 分钟。其中，阅读给定材料参考时限\n\n为 40 分钟，作答参考时限为 110 分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考证号，并用 2B\n\n铅笔在准考证号对应的数字上填涂。\n\n3.请用黑色字迹的钢笔或签字"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_2017.json",
+      "id": "shenlun-provincial-guanche-2017-001",
+      "category": "guanche",
+      "contentHead": "2017 年广州市公务员考试《申论》真题（单考区）\n\n一、注意事项\n\n1、阅读给定材料，并按照要求回答问题。\n\n2、作答参考时限：阅读材料 30 分钟，作答 90 分钟。\n\n3、本次测验共 1 题，满分 100 分。\n\n二、给定材料\n\n材料 1\n\n我国城市发展已经进入新的发展时期。改革开放以来，我国经历了世界历史上规模最大、速度最快\n\n的城镇化进程，城市发展"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_anhui_2011.json",
+      "id": "shenlun-provincial-anhui-guanche-2011-001",
+      "category": "guanche",
+      "contentHead": "2011 年安徽省公务员录用考试《申论》试卷（A 类）\n\n分类：申论/安徽\n\n一、注意事项\n\n1.申论考试是对应试者阅读理解能力、综合分析能力、提出和解决问题的能力，文字表达的测试。\n\n2.应试参考时限：阅读资料 40 分钟，作答 110 分钟。\n\n3.仔细阅读给定资料，按照后面提出的“申论要求”作答。\n\n二、给定资料\n\n1.去年 10 月，某市的调研报告显"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_anhui_2014.json",
+      "id": "shenlun-provincial-anhui-guanche-2014-001",
+      "category": "guanche",
+      "contentHead": "2014 年 412 公务员联考《申论》（安徽 A 卷）\n\n一、注意事项\n\n申论考试是对应试者阅读理解能力、综合分析能力、提出和解决问题能力、文字表达能力的测试。\n\n作答参考时限：阅读材料 40 分钟，作答 110 分钟。\n\n仔细阅读给定的资料，然后按后面提出的“作答要求”作答。\n\n二、给定材料\n\n材料 1:\n\n当前，我国在对外文化交流中存在着巨大的逆差，中"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_anhui_2017.json",
+      "id": "shenlun-provincial-anhui-guanche-2017-001",
+      "category": "guanche",
+      "contentHead": "2017 年 422 公务员联考《申论》真题（安徽 A 卷）\n\n一、注意事项\n\n1.本试卷由给定资料与作答要求两部分构成。考试时限为 150 分钟。其中，阅读给定资料参考时限为 40\n\n分钟，作答参考时限为 110 分钟。\n\n2.一律合作现代汉语在答题卡上作答。未按要求作答的，不得分。\n\n3.请在答题卡上作答，严禁折叠答题卡！\n\n二、给定材料\n\n材料 1：\n"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_anhui_2022.json",
+      "id": "shenlun-provincial-anhui-guanche-2022-001",
+      "category": "guanche",
+      "contentHead": "材料一\n\n2022 年公务员多省联考《申论》题（安徽 C 卷）\n\n“‘法博士’，房产办不了过户手续怎么办？”“‘法博士’，宅基地的面积要怎么计算？”在小南镇贝鹏村村委会，有几\n\n位村民正围着一个身高 1.3 米、圆圆脑袋的机器人，问着各种法律问题。\n\n乡村也有法律机器人？“乡村对于法律服务的需求并不少，而法律的专业性较高，乡村法律专业人员的数量有\n限。”H "
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_anhui_2024.json",
+      "id": "shenlun-provincial-anhui-guanche-2024-001",
+      "category": "guanche",
+      "contentHead": "2024 年公务员多省联考《申论》题（安徽 A 卷） \n\n【材料一】 \n\n街道两侧、楼前屋后、庭院里，一朵朵、一簇簇，千树海棠开得明艳、热烈，恍若一片片缤纷的云锦，\n\n汇聚成流动的花海，点亮了明媚春光……日前，F 市广宁旅游区的千树海棠如期绽放，繁花似锦，甚是美\n\n丽。“这里的植物层次丰富，颜色各异，基本达到三季有花、四季有绿，大大提升了城市的颜值，让城市\n"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_beijing_2014.json",
+      "id": "shenlun-provincial-beijing-guanche-2014-001",
+      "category": "guanche",
+      "contentHead": "2014 北京市公务员考试真题及参考解析（申论完整版）\n\n给定材料\n\n1、水是人类赖以生存和发展的基本条件，是维系自然生态系统的功能和支撑社会经济\n系统发展不可替代的基础性的自然资源和战略资源，历来都是治国安邦的大事。目前，我国\n年均缺水约 400 亿立方米，2/3 的城市不同程度缺水。2011 年开始，我国开始实行最严格的\n水资源管理制度，确立了水资源开发"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_beijing_2019.json",
+      "id": "shenlun-provincial-beijing-guanche-2019-001",
+      "category": "guanche",
+      "contentHead": "2019 年北京市公考《申论》真题\n\n一、注意事项\n\n1.申论考试是对应试者阅读理解能力、综合分析能力、提出和解决问题能力、文字表达能力\n的测试。\n\n2.作答参考时限：阅读材料 40 分钟，答卷 110 分钟。\n\n3.仔细阅读给定材料，按照后面提出的申论要求依次作答。\n\n4.请在题本、答题纸指定位置填写自己的姓名，座位号，填涂准考证号。\n\n5.考生可以在题本"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_beijing_2020.json",
+      "id": "shenlun-provincial-beijing-guanche-2020-001",
+      "category": "guanche",
+      "contentHead": "2020 年北京公务员考试申论真题及答案(乡镇)\n\n1.申论考试是对报考者阅读理解能力、贯彻执行能力、解决问题能力、文字表达能力的\n\n注意事项\n\n测试。\n\n2.作答参考时限：阅读材料 40 分钟，答卷 110 分钟。\n3.仔细阅读给定材料，按照后面提出的申论要求依次作答。\n4.请在题本、答题纸指定位置填写自己的姓名，座位号，填涂准考证号。\n5.考生可以在题本"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_chongqing_2015.json",
+      "id": "shenlun-provincial-chongqing-guanche-2015-001",
+      "category": "guanche",
+      "contentHead": "2015 年重庆公务员考试《申论》卷\n\n一、注意事项\n\n1. 申论考试是对应试者阅读理解能力、综合分析能力、提出和解决问题能力、文字表达能力的测试。\n\n2. 作答参考时限：阅读资料 40 分钟，答卷时间 110 分钟。\n\n3. 仔细阅读给定资料，按照后面提出的“作答任务”依次作答。\n\n4. 考生可以在本试卷页的空白位置或草稿纸上打草稿，但所有题目都要在答题纸"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_fujian_2024.json",
+      "id": "shenlun-provincial-fujian-guanche-2024-001",
+      "category": "guanche",
+      "contentHead": "2024年福建省公务员录用考试\n\n申论试卷 (县乡)\n\n满分: 100分 时限: 150分钟\n\n注意事项\n\n1.本题本由给定资料与作答要求两部分构成。考试时限为150分钟。其中， 阅读给\n\n定资料参考时限为40分钟，作答参考时限为110分钟。\n\n2.请在题本、答题卡指定位置上用黑色字迹的钢笔或签字笔填写自己的姓名和准考\n\n证号，并用2B铅笔在准考证号对应的数"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_guangdong_2004.json",
+      "id": "shenlun-provincial-guangdong-guanche-2004-001",
+      "category": "guanche",
+      "contentHead": "获取试卷更新，请关注\n\n2004 年上半年广东省公务员录用考试申论试题\n\n材料 1：\n\n来源：W 整理：杨柳（微信：gwy288）\n\n(1)传销于 20 世纪 90 年代初进入我国东南沿海。1990 年，中美合资雅芳有限公司将传销模式悄悄引进了\n\n中国，“雅芳小姐”上门推销商品的方式，令当时试图挣脱计划经济束缚的市场耳目一新。雅芳公司的探路成\n\n功，令一些在"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_guangdong_2005.json",
+      "id": "shenlun-provincial-guangdong-guanche-2005-001",
+      "category": "guanche",
+      "contentHead": "获取试卷更新，请关注\n\n2005 年下半年广东省公务员录用考试《申论》真题\n\n满分：100 分时限：120 分钟\n\n来源：W 整理：杨柳（微信：gwy288）\n\n一、注意事项\n\n1.申论考试，是对分析驾驭材料能力、提出和解决问题能力、文字表达能力的测试。\n\n2.作答参考时限：阅读资料 30 分钟，作答 90 分钟。\n\n3.仔细阅读给定的材料，然后按申论要求依"
+    },
+    {
+      "path": "src/data/shenlun/guanche/provincial_guangdong_2006.json",
+      "id": "shenlun-provincial-guangdong-guanche-2006-001",
+      "category": "guanche",
+      "contentHead": "获取试卷更新，请关注\n\n2006 年广东省公务员录用考试申论真题\n\n来源：W 整理：杨柳（微信：gwy288）\n\n问题一：请你用 500 字左右的篇幅，将所给定的材料中手机垃圾短信泛滥成灾的具体原因以及垃圾短信的危\n\n害性归纳成文。(本题 40 分)\n\n问题二：请你对所给材料进行分析和理解，用 800 字左右的篇幅阐述政府应如何进行综合治理以有效地控制\n\n垃"
+    }
+  ]
+}

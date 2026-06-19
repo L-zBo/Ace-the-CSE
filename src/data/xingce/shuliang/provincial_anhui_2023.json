@@ -1,0 +1,602 @@
+[
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-021",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某村拟建造一个容积为 144 立方米，深度为 4 米的长方体无盖蓄水池。为节约成本，侧面积最小为多少平 方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "36"
+      },
+      {
+        "label": "C",
+        "content": "96"
+      },
+      {
+        "label": "D",
+        "content": "132"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据长方体体积=长×宽×高，结合水池“容积为 144 立方米，深度为 4 米”，可得\n\n平方米。题干所求水池侧面积=底面周长×高=4×底面周长，若要\n\n侧面积最小，则底面周长最短。因为“长方形面积一定，长宽相等也就是正方形时周长最短”，所以底面周长\n最短时，长=宽=6，周长=4×6=24 米，此时侧面积=4×24=96 平方米。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第21题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-022",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "4 浮雕银杯是我国古代常见的一种盛酒容器，有大银杯和小银杯之分。已知 5 个大银杯加 1 个小银杯，可以 盛酒 3 斛（斛，是古代的一种容量单位），5 个小银杯加 1 个大银杯，可以盛酒 2 斛，则 1 斛酒至多可以倒满 小银杯的数量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 个"
+      },
+      {
+        "label": "B",
+        "content": "3 个"
+      },
+      {
+        "label": "C",
+        "content": "4 个"
+      },
+      {
+        "label": "D",
+        "content": "5 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设大银杯容量为 x，小银杯容量为 y，赋值 1 斛酒的量为 1；根据题意可列方程：5x+y=3······①，\n\n5y+x=2······②，联立①②解得\n\n，\n\n。则 1 斛酒可倒满的小银杯数量\n\n，故至\n\n多可以倒满小银杯的数量为 3 个。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第22题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-023",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某智慧公共停车场的收费标准如下：停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小 时计，收费 5 元；超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）。若李先生 支付停车费 17 元，则他停车的时长可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 小时"
+      },
+      {
+        "label": "B",
+        "content": "2 小时 15 分钟"
+      },
+      {
+        "label": "C",
+        "content": "2 小时 45 分钟"
+      },
+      {
+        "label": "D",
+        "content": "3 小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小时计，收费 5 元”，李先\n生支付停车费 17 元，则停车时长一定超过 1 小时。扣除前 1 小时的收费 5 元，超出 1 小时部分付款为 17-5=12\n元。根据题干“超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）”，12 元最\n多可支付 12÷4=3 个 30 分钟=1.5 小时，则 2 小时＜李先生的停车时长\n\n小时。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第23题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-024",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公司自主研发生产的 A、B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的 10%（按 一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种型号的产 量之和还多 400 块。预计该公司今年的轿车总产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的 10%（按 一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种型号的产 量之和还多 400 块。预计该公司今年的轿车总产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是： A、3500 块"
+      },
+      {
+        "label": "B",
+        "content": "7000 块"
+      },
+      {
+        "label": "C",
+        "content": "14000 块"
+      },
+      {
+        "label": "D",
+        "content": "21400 块"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，该公司今年自主研发生产的 A、B、C 三种型号氢燃料电池的产量和为 42.4×10000×10%=42400\n\n块。已知 C 型号的产量比 A、B 两种型号的产量之和还多 400 块，则 A、B 两种型号的产量之和为\n\n块，A 型号氢燃料电池的产量是 B 型号的 2 倍，则 B 型号氢燃料电池的产量为\n\n块。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第24题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-025",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学习平台收到的征文，将通过两轮评审决定能否采用。先由两位编辑进行初审，若两位编辑评审都通过， 则予以采用；若两位编辑都未予通过，则不予采用；若仅有一位编辑初审通过，则再由主编进行复审，若复审 通过，则予以采用，否则不予采用。设稿件能通过各初审编辑评审的概率均为 0.4，复审的稿件能通过的概率 为 0.2，各编辑独立评审，则每篇征文被采用的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.32"
+      },
+      {
+        "label": "B",
+        "content": "0.256"
+      },
+      {
+        "label": "C",
+        "content": "0.24"
+      },
+      {
+        "label": "D",
+        "content": "0.208"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，每篇征文被采用的情况为：①初审两位编辑均通过，概率为：0.4×0.4=0.16；②初审两位编辑\n\n仅有一位通过，且主编复审通过，概率为：\n\n，分类用加法，故每篇征文被采\n\n用的概率为 0.16+0.096=0.256。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考anhui行测第25题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-026",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某小区物业准备了 230 盒口罩免费派发给 10 栋楼，要求任意两栋楼派发的口罩数量都不相同，但最多相差 不超过 1 倍。假设口罩不拆盒发放，那么派发口罩数量最少的那栋楼最少可派发口罩：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18 盒"
+      },
+      {
+        "label": "B",
+        "content": "15 盒"
+      },
+      {
+        "label": "C",
+        "content": "14 盒"
+      },
+      {
+        "label": "D",
+        "content": "12 盒"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设派发口罩数量最少的那栋楼最少派发口罩 x 盒。要让派发口罩数量最少的楼栋派发口罩最少，则其他楼\n栋口罩派发尽量多，且派发口罩最多的楼栋不超过最少的 1 倍，即派发口罩最多的楼栋最多派发口罩 2x 盒。由\n于任意两栋楼派发口罩数量都不相同，则可列表如下：",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第26题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-027",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某市公立小学入学实行摇号方式，依次分别从十个号码球中（内置 0 至 9 十个号码）摇号抽取个、十、百 位数号码，组成一个数。与该数字相同编号（如 001 即为 1）学生即为第一个中签录取的学生，第二位录取的 学生为第一位录取学生的编号+等差数，以此类推确定中签号。参加摇号的学生总人数为 950 人，若在第一轮摇 号中，第一个中签数是 270，等差数是 8，那么以下哪一个号段中签的人数最多？",
+    "options": [
+      {
+        "label": "A",
+        "content": "100 至 200 号段中签的人数为 0；"
+      },
+      {
+        "label": "B",
+        "content": "200 至 300 号段中签的是 270、278、286、294，总人数为 4 人；"
+      },
+      {
+        "label": "C",
+        "content": "300 至 400 号段，第一个中签的是 302，该号段最后一个中签的是 302+12×8=398，总人数为 1+12=13\n\n人；\n\n人。"
+      },
+      {
+        "label": "D",
+        "content": "400 至 500 号段，第一个中签的是 406，该号段最后一个中签的是 406+11×8=494，总人数为 1+11=12\n\n综上，300 至 400 号段中签的人数最多。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由于第一个中签数是 270，则\nA 项：100 至 200 号段中签的人数为 0；\nB 项：200 至 300 号段中签的是 270、278、286、294，总人数为 4 人；\nC 项：300 至 400 号段，第一个中签的是 302，该号段最后一个中签的是 302+12×8=398，总人数为 1+12=13\n\n人；\n\n人。\n\nD 项：400 至 500 号段，第一个中签的是 406，该号段最后一个中签的是 406+11×8=494，总人数为 1+11=12\n\n综上，300 至 400 号段中签的人数最多。\n故正确答案为 C。\n注：本题不严谨，若按照日常实际情况，需循环 1 至 270 号段，则选项中 A、B、C 项中签人数均为 13 人。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第27题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "党内法规体系建设是一个久久为功、持续推进的历史过程。习近平总书记在庆祝中国共产党成立100 周年\n大会上宣布，我们党已经“形成比较完善的党内法规体系”，下列关于中国共产党党内法规体系的说法错误的\n是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "100 至 200"
+      },
+      {
+        "label": "B",
+        "content": "200 至 300"
+      },
+      {
+        "label": "C",
+        "content": "300 至 400"
+      },
+      {
+        "label": "D",
+        "content": "400 至 500"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题考查政治常识。\nA 项正确，《中国共产党党内法规体系》指出：“党内法规体系的框架构成，党章是最根本的党内法规。\n\n党的一切制度是从党章开始的，党章是所有党内法规的源头，是制定一切党内法规的基础和依据。”\n\nB 项正确，《中国共产党党内法规体系》指出：“党内法规使用党章、准则、条例、规定、办法、规则、\n细则 7 类名称，现行有效党内法规中，党章 1 部，准则 3 部，条例 43 部，规定 850 部，办法 2034 部，规则 75\n部，细则 609 部。”\n\nC 项错误，《中国共产党党内法规制定条例》中指出：“党内法规草案形成后，应当广泛征求意见。征求\n意见范围根据党内法规草案的具体内容确定，必要时在全党范围内征求意见。征求意见时应当注意听取党代表\n大会代表和有关专家学者的意见。与群众切身利益密切相关的党内法规草案，应当充分听取群众意见。征求意\n见可以采取书面形式，也可以采取座谈会、论证会、网上征询等形式。”\n\nD 项正确，《中共中央关于加强党内法规制度建设的意见》规定，党内法规体系以“1+4”为基本框架，即\n\n在党章之下分为党的组织法规、党的领导法规、党的自身建设法规、党的监督保障法规四大板块。\n\n本题为选非题，故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第5题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-028",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某空军基地举行飞行训练，有 8 架歼击机、3 架预警直升机、2 架反潜直升机参与训练，每架飞机编号不同。 训练时，需派出 3 架歼击机、2 架预警直升机、1 架反潜直升机进行起降飞行。若每次只能起飞 1 架飞机，其中 3 架歼击机必须相邻起飞，2 架预警直升机不能相邻起飞，那么不同的起飞方式有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "504"
+      },
+      {
+        "label": "B",
+        "content": "4032"
+      },
+      {
+        "label": "C",
+        "content": "8064"
+      },
+      {
+        "label": "D",
+        "content": "24192"
+      }
+    ],
+    "answer": "D",
+    "explanation": "先从 8 架歼击机中选出 3 架、3 架预警直升机中选出 2 架、2 架反潜直升机中选出 1 架，共有\n\n种方法；再根据要求安排起飞顺序，3 架歼击机必须相邻起飞可用捆绑法、2 架预警直升机不能相邻起飞可用插\n\n空法，即先将 3 架歼击机捆绑后与 1 架反潜直升机进行排列有\n\n种方法，再将 2 架预警直升机插空有 种\n\n方法。故满足要求的不同的起飞方式有\n\n种。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考anhui行测第28题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-029",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "小林因病入院需挂瓶输液，上午 9 点开始输液，输液袋上标有“容量 300 毫升，每毫升 15 滴”等药液信息。 输液开始时，药液滴速为 75 滴/分钟。输液 5 分钟后小林感觉身体不适，护士帮忙调整了药液滴速（调整时间 不计），又继续输液 10 分钟，药液还剩 235 毫升，那么输液结束的时间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10 点 26 分"
+      },
+      {
+        "label": "B",
+        "content": "10 点 18 分"
+      },
+      {
+        "label": "C",
+        "content": "10 点 14 分"
+      },
+      {
+        "label": "D",
+        "content": "10 点 10 分"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，输液 5 分钟后剩余的药液为\n\n毫升，则调整后药液的滴速为\n\n滴/分钟，剩余的 235 毫升药液还需输液的时间为\n\n分钟，则输液的总时\n\n分钟\n\n分钟，即 1 小时 14 分钟，上午 9 点开始输液，则输液结束的时间是 10 点 14\n\n间为\n分。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第29题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-030",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "世界非物质文化遗产高峰论坛召开记者会，共有 10 家国内媒体和 4 家国外媒体参加。组委会从中选出 3 家 媒体回答他们的问题，要求这 3 家媒体中既有国内媒体又有国外媒体，且国内外媒体交叉提问，则不同的提问 方式有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "240 种"
+      },
+      {
+        "label": "B",
+        "content": "360 种"
+      },
+      {
+        "label": "C",
+        "content": "480 种"
+      },
+      {
+        "label": "D",
+        "content": "1440 种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "选出 3 家媒体中既有国内媒体又有国外媒体，分为两种情况：\n\n情况一：2 家国内媒体、1 家国外媒体。先从 10 家国内媒体中选出 2 家，有 种情况，再从 4 家国外媒\n\n体中选出 1 家，有 种情况，由于国内外媒体交叉提问，则国外媒体处于中间位置，2 家国内媒体位于头尾位\n\n置，有 种情况，则有\n\n种情况；",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第30题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-031",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某产业展洽会主办方融合“七巧板”元素设计了七大展示区域（如下图所示），甲、乙、丙三家参展公司 从 7 块展区中分别选择面积各不相同的一个区域进行布展，则共有多少种选择方案？",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "72"
+      },
+      {
+        "label": "C",
+        "content": "96 6"
+      },
+      {
+        "label": "D",
+        "content": "192"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据七巧板特性，结合所给图形可知，三角形①与三角形②等底同高，两个区域面积相等；三角形③与三\n角形⑤等底等高，两个区域面积相等；区域⑥为正方形，三角形④与三角形⑦等底等高，两个区域面积相等，\n且面积是正方形⑥的一半，也是三角形⑤的一半。故面积相等的区域可分为三组：①②、③⑤⑥、④⑦。\n\n从三组中分别选出一个区域，再分配给三家不同的公司，共有\n\n种选\n\n择方案。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第31题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2023/q031.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-032",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某餐馆承诺 25 分钟内上齐一桌菜，若超时则未上的菜品免单。每张餐桌上都有一个装满后正好 25 分钟漏 完的圆锥形沙漏（如下图所示）。某位顾客在等待的过程中发现沙漏内上方沙子的高度为原先的一半，此时还 差一道菜未上，则再过多久还未上菜，这位顾客将享受免单服务？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 3 分钟"
+      },
+      {
+        "label": "B",
+        "content": "3-4 分钟之间"
+      },
+      {
+        "label": "C",
+        "content": "4-5 分钟之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 6 分钟"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据几何等比放缩性质，在立体几何中，体积比等于相似比的立方。该顾客在发现“沙漏内上方沙子的高\n\n度为原先的一半”时，\n\n，即相似比为 1：2，则\n\n。因所有沙子（8 份）\n\n漏完需要 25 分钟，则现在剩余沙子（1 份）漏完还需要\n\n分钟。即若再过 3.125 分钟还未上菜，\n\n这位顾客将享受免单服务，在 B 项范围内。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第32题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2023/q032.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-033",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "厦门鼓浪屿海滨覆鼎岩上屹立着一尊郑成功雕像。为了测量石像的高度，某测量小组选取的测量点 A 与覆 鼎岩底部 D 在同一水平线上，如下图所示。已知覆鼎岩高 CD 为 24 米，在 A 处测得石像头顶部 B 的仰角为 ， ），则石像 BC 的高度约 石像底部 C 的仰角为 （参考数据： 为： ， ，",
+    "options": [
+      {
+        "label": "A",
+        "content": "20 米"
+      },
+      {
+        "label": "B",
+        "content": "18 米"
+      },
+      {
+        "label": "C",
+        "content": "16 米"
+      },
+      {
+        "label": "D",
+        "content": "14 米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "在直角三角形 ACD 中，已知\n\n，CD=24 米，\n\n，则\n\n米。\n\n在直角三角形 ABD 中，已知\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考anhui行测第33题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2023/q033.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-034",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某品牌圆形扫地机器人升级设计方案，是在原有扫地机器人的前端伸出 8cm 可转动的边刷进行清扫（如下 图所示），目的是将无法触及的边边角角都彻底清扫干净，那么，为保证这一效果，该型号扫地机器人圆形机 身的最大直径是：（答案取整数位）",
+    "options": [
+      {
+        "label": "A",
+        "content": "D=BD=40 米，则石像 BC=BD-CD=40-24=16 米。\n\n，解得\n\n大半径为 rcm，根据三角形勾股定理可得：\n则该型号扫地机器人圆形机身的最大直径为 19×2=38cm。"
+      },
+      {
+        "label": "B",
+        "content": "D=40 米，则石像 BC=BD-CD=40-24=16 米。\n\n，解得\n\n大半径为 rcm，根据三角形勾股定理可得：\n则该型号扫地机器人圆形机身的最大直径为 19×2=38cm。"
+      },
+      {
+        "label": "C",
+        "content": "=BD-CD=40-24=16 米。\n\n，解得\n\n大半径为 rcm，根据三角形勾股定理可得：\n则该型号扫地机器人圆形机身的最大直径为 19×2=38cm。"
+      },
+      {
+        "label": "D",
+        "content": "=BD=40 米，则石像 BC=BD-CD=40-24=16 米。\n\n，解得\n\n大半径为 rcm，根据三角形勾股定理可得：\n则该型号扫地机器人圆形机身的最大直径为 19×2=38cm。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，扫地机器人的前端边刷需要清扫到地面边角，如下图所示，设该型号扫地机器人圆形机身的最\n，向下取整，即最大半径为 19cm，\n\n，可得 AD=BD=40 米，则石像 BC=BD-CD=40-24=16 米。\n\n，解得\n\n大半径为 rcm，根据三角形勾股定理可得：\n则该型号扫地机器人圆形机身的最大直径为 19×2=38cm。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第34题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2023/q034.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-007",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "习近平总书记常以回信的形式问候、勉励广大干部群众和专家学者。下列习近平总书记回信原文和出处的\n对应关系正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30cm"
+      },
+      {
+        "label": "B",
+        "content": "36cm"
+      },
+      {
+        "label": "C",
+        "content": "38cm"
+      },
+      {
+        "label": "D",
+        "content": "40cm"
+      }
+    ],
+    "answer": "A",
+    "explanation": "2\n\n\f本题考查政治常识。\nA 项正确，2022 年 8 月 13 日，习主席给安徽黄山风景区工作人员李培生、胡晓春回信，对他们继续发挥“中\n国好人”榜样作用提出殷切期望。习主席在回信中说，你们长年在山崖间清洁环境，日复一日呵护着千年迎客\n松，用心用情守护美丽的黄山，充分体现了敬业奉献精神。\n\nB 项错误，2022 年 10 月 4 日，习近平给山东省地矿局第六地质大队全体地质工作者的回信中指出，矿产资\n源是经济社会发展的重要物质基础，矿产资源勘查开发事关国计民生和国家安全。希望同志们大力弘扬爱国奉\n献、开拓创新、艰苦奋斗的优良传统，积极践行绿色发展理念，加大勘查力度，加强科技攻关，在新一轮找矿\n突破战略行动中发挥更大作用，为保障国家能源资源安全、为全面建设社会主义现代化国家作出新贡献，奋力\n书写“英雄地质队”新篇章。\n\nC 项错误，2022 年 9 月 9 日，习近平给北京师范大学“优师计划”师范生的回信中指出，入学一年来，你\n们通过课堂学习和支教实践，增长了学识，开阔了眼界，坚定了到基层教书育人的信念，我感到很欣慰。值此\n北京师范大学建校 120 周年之际，谨向全校师生员工、广大校友致以热烈的祝贺和诚挚的问候！\n\nD 项错误，2022 年 5 月 3 日，五四青年节到来之际，中共中央总书记、国家主席、中央军委主席习近平 5\n月 2 日给中国航天科技集团空间站建造青年团队回信，向航天战线全体青年致以节日的祝贺，并向他们提出殷\n切期望。习近平强调，建设航天强国要靠一代代人接续奋斗。希望广大航天青年弘扬“两弹一星”精神、载人\n航天精神，勇于创新突破，在逐梦太空的征途上发出青春的夺目光彩，为我国航天科技实现高水平自立自强再\n立新功。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第7题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2023-035",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某大型商场的地下停车场入口处横截面如下图所示，入口处斜坡的坡角为 30 度，下坡起点至入口顶部水平 距离为 6 米，楼板厚为 0.6 米。商场管理处需在入口处张贴限高标志，以便告知车辆能否安全驶入。若停车场 内部的高度均高于入口处汽车可通过的最低高度，则下列限高最为合理的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.8 米"
+      },
+      {
+        "label": "B",
+        "content": "2.3 米"
+      },
+      {
+        "label": "C",
+        "content": "2.6 米"
+      },
+      {
+        "label": "D",
+        "content": "3.2 米 三、言语理解与表达。本部分包括表达与理解两方面的内容。请根据题目要求，在四个选项中选出一个最 恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "9\n\n\f如图所示，CE 为可通过入口的汽车的最大高度。在直角\n\n中，AB=6 米，\n\n，则\n\n米，则\n\n米。在直角\n\n中，\n\n，则\n\n高设置\n\n米即可，在这个范围内越接近 2.48 米越合理，结合选项可知 B 项最为合理。\n\n米。因此停车场入口处汽车可通过的最低高度是 2.48 米，汽车限\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考anhui行测第35题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2023/q035.png"
+  }
+]

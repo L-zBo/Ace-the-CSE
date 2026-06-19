@@ -1,0 +1,355 @@
+[
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "一项工作甲独立完成需要 3 小时，乙独立完成的用时比其与甲合作完成多 4 小时，且乙和丙合作完成需要 4 小时。问丙独立完成需要多少小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "18\n\n\f赋值工作总量为 12，则甲的效率为\n\n，乙、丙合作的效率为\n\n。设乙的效率为 x，根据“乙独立\n\n完成的用时比其与甲合作完成多 4 小时”，可得：\n\n，解得：x=2，即乙的效率为 2，则丙的效率为\n\n3-2=1。因此，丙独立完成需要\n\n小时。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第61题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "在一块正方形土地中，画一条经过某个顶点的规划线，将其分割为三角形和梯形两块土地，且梯形土地的 面积正好是三角形土地的 2 倍。问三角形和梯形土地的周长之比是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "赋值正方形土地的边长为 3，根据题意，梯形土地的面积正好是三角形土地的 2 倍，则正方形土地的面积\n\n是三角形土地的 3 倍，设三角形土地 BE 边长为 x，则\n\n，代入数据得\n\n，\n\n解得 x=2，则 ED=BD-BE=3-2=1。根据勾股定理，\n\n，则三角形土地的周长\n\n，梯形土地的周长\n\n，故\n\n三角形和梯形土地的周长之比为\n\n。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第62题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2023_xingzhengzhifa/q062.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "已知 A、B 两种设备定价相同，C 设备单价为 8000 元/台。现 A、B 两种设备分别打六折、七折促销，购买 1 台 B 设备的费用比购买 A、C 设备各 1 台的总费用高 2 万元。问促销期间 1000 万元预算最多可以购买多少台 A 设备？",
+    "options": [
+      {
+        "label": "A",
+        "content": "35"
+      },
+      {
+        "label": "B",
+        "content": "51"
+      },
+      {
+        "label": "C",
+        "content": "59"
+      },
+      {
+        "label": "D",
+        "content": "77"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设 A、B 两种设备每台定价均为 x 万元，则促销期间 A 设备单价为 0.6x 万元，B 设备为 0.7x 万元。8000\n元=0.8 万元，根据题意，可列方程：0.7x=0.6x+0.8+2，解得 x=28，则促销期间 A 设备单价为 28×0.6=16.8\n\n万元。促销期间 1000 万元可以购买\n\n台 A 设备，则最多可以购买 59 台 A 设备。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第63题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "13 某单位有甲和乙 2 个办公室，分别有职工 5 人和 4 人。每周从这 9 名职工中随机抽取 1 人下沉社区担任志 愿者（同一人有可能被连续、重复选中）。问 7 月前 2 周的志愿者均来自甲办公室的概率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 25%"
+      },
+      {
+        "label": "B",
+        "content": "25%~35%之间"
+      },
+      {
+        "label": "C",
+        "content": "35%~45%之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 45%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，7 月前 2 周的志愿者总情况数为\n\n种，7 月前 2 周的志愿者均来自甲办公室的情\n\n况数为\n\n种。因此所求概率\n\n，在 25%~35%之间。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第64题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "公园里有一片四边形草坪，沿对角线修建的小道相交于 O 点，O 到四个顶点 A、B、C、D 的距离之比正好为 1：2：3：4，一名工人花费 1 天正好完成 AOB 区域的修剪，问第二天至少需要额外增加多少名效率相同的工人 一起工作，才能在当天内完成剩余草坪的修剪？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "11"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，设\n\n的面积为 S。因为\n\n与\n\n的高相同，底边 BO：DO=2：4=1：2，根据结论“两\n\n个三角形的高相同，面积之比等于底之比”可得：\n底边 AO：CO=1：3，则\n\n；\n\n；同理，\n\n与\n\n的高相同，\n\n与\n\n的高相同，底边 AO：CO=1：3，则",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第65题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "单位将 10 个培训名额分配给 4 个分公司，要求在每个分公司至少分配 1 个名额的所有分配方案中，随机 选择 1 个方案实施，问 4 个分公司中有 3 个分配名额数量相同的概率为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意可知，将 10 个相同的培训名额分配给 4 个不同的分公司，每个分公司至少分配 1 个名额，可使\n\n用插板法解题，共有\n\n种分配方案。\n\n方法一：4 个分公司中有 3 个分公司分配到的名额数量相同，设 3 个分公司分配到的名额数量均为 a 个，\n\n另外一个分公司分配到的名额数量为 b 个，则 3a+b=10，且\n\n，符合要求的情况有 3 大类（a=1，b=7；a=2，\n\nb=4；a=3，b=1），那么符合条件的情况数有\n\n种，则题干所求概率为\n\n。\n\n方法二：根据公式：概率\n\n，则题目所求概率为\n\n，即选项的分母部分\n\n为 84 的因子，结合选项，只有 D 项符合。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第66题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2023_xingzhengzhifa/q066.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "某次会议邀请 4 所高校每所各 2 位学者作报告。在某日上午、下午和晚上的三个时间段分别安排 3 位、3 位和 2 位学者依次作报告，且同一所高校的 2 位学者不安排在同一时间段内作报告。问 8 人的报告次序有多少 种不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 5000 种"
+      },
+      {
+        "label": "B",
+        "content": "5000~10000 种之间"
+      },
+      {
+        "label": "C",
+        "content": "10001~20000 种之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 20000 种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "对上午、下午和晚上的三个时间段报告次序进行分步讨论：\n第一步，上午需要从 4 所高校中选 3 所高校，每所高校各选 1 位学者进行排序，有\n\n种情况；\n\n第二步，下午需要从上午未选高校中选 1 位学者，再从上午已选 3 所高校中选 2 位学者进行排序，有\n\n种情况；\n\n第三步，对晚上剩余的 2 位学者进行排序，有\n\n种情况。\n\n则这 8 人的报告次序共有 192×36×2=13824 种不同的安排方式，在 C 项范围内。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第67题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "一辆汽车从甲地开往乙地，先以 40 千米/小时的速度匀速行驶一半的路程，然后均匀加速；行驶完剩下路 程的一半时，速度达到 80 千米/小时；此后均匀减速，到达乙地时的速度正好降为 0。问其全程的平均速度在 以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到44 千米/小时"
+      },
+      {
+        "label": "B",
+        "content": "在44~45 千米/小时之间"
+      },
+      {
+        "label": "C",
+        "content": "在45~46 千米/小时之间"
+      },
+      {
+        "label": "D",
+        "content": "超过46 千米/小时"
+      }
+    ],
+    "answer": "A",
+    "explanation": "如下图所示，A 地为甲、乙两地的中点，B 地为 A 地、乙地的中点。由 A 地到 B 地汽车均匀加速，则该段\n\n的平均速度为\n\n千米/小时；由 B 地到乙地汽车均匀减速，则该段的平均速度为\n\n千米/小时。\n\n因 B 地为 A 地、乙地的中点，根据等距离平均速度公式，可得汽车从 A 地到乙地的平均速度为\n\n千\n\n米/小时；又因 A 地为甲、乙两地的中点，根据等距离平均速度公式，可得汽车全程的平均速度为\n\n千米/小时，在 A 项范围内。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第68题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲、乙、丙三家科技企业 2021 年的收入之和比 2020 年提升了 20%。其中甲企业的收入上升了 400 万元， 乙企业的收入下降了 100 万元且是甲企业收入的一半，丙企业的收入上升了 30%且其 2020 年的收入与甲、乙两 企业同年收入之和相同。问 2020 年甲企业的收入比乙企业高多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "900"
+      },
+      {
+        "label": "B",
+        "content": "1100"
+      },
+      {
+        "label": "C",
+        "content": "400"
+      },
+      {
+        "label": "D",
+        "content": "600"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设 2021 年乙企业的收入为 x 万元，则根据题干条件甲、乙、丙三家企业的收入如下表所示：\n\n2021 年甲、乙、丙三家企业的收入之和为 2x+x+3.9x-390=6.9x-390，2020 年甲、乙、丙三家企业的收入\n\n之和为\n\n。因甲、乙、丙三家企业 2021 年的收入之和比 2020 年提升了 20%，即\n\n，解得 x=1100，则 2020 年甲企业的收入比乙企业高（2x-400）-（x+100）\n\n=x-500=600 万元。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第69题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-xingzhengzhifa-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "一个圆柱体零件 A 和一个圆锥体零件 B 分别用甲、乙两种合金铸造而成。A 的底面半径和高相同，B 的底 面半径是高的 2 倍，两个零件的高相同，质量也相同。问甲合金的密度是乙合金的多少倍？ A、 B、 C、",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "赋值零件 A 与零件 B 的高均为 1，则 A 的底面半径为 1，B 的底面半径为 2，可得零件 A 的体积为\n\n，零件 B 的体积为\n\n。根据公式：质量=密度×体积，可知质量相同\n\n时，密度和体积成反比，即\n\n。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（行政执法）第70题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2023_xingzhengzhifa/q070.png"
+  }
+]

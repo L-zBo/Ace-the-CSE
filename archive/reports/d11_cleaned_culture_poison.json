@@ -1,0 +1,53 @@
+{
+  "count": 6,
+  "items": [
+    {
+      "qid": "provincial-henan-xingce-changshi-2023-004",
+      "file": "src\\data\\xingce\\changshi\\provincial_henan_2023.json",
+      "marker": "文化产业",
+      "ziliao_hits": 3,
+      "content_head": "应急科普能够及时解疑释惑，提升公众认知力，还可以_____________伪科学和谣言， _____________社会",
+      "exp_head": "故？处图形灰色三角形数量应为 5，排除 A、C 两项。继续观察发现，灰色三角形有明显 / 的位置移动，故考虑灰色三角形的位置"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-changshi-2024-012",
+      "file": "src\\data\\xingce\\changshi\\provincial_liaoning_2024.json",
+      "marker": "文化企业",
+      "ziliao_hits": 6,
+      "content_head": "关于我国古代体育运动，下列说法不正确的是： 第2⻚，共22⻚ A.射箭是周朝官学要求学生学习掌握的基本技能 B.角力是先",
+      "exp_head": "4%。根据公式：增长量 /  / ，则 2023 年前三季度文化核心领域实现营业收入同比 /  / 增量 /  / 入同比增量 /  / 亿元，文化企业"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-yanyu-2024-037",
+      "file": "src\\data\\xingce\\yanyu\\provincial_heilongjiang_2024.json",
+      "marker": "文化企业",
+      "ziliao_hits": 3,
+      "content_head": "“惹不起躲得起”是犰狳独一无二的生存智慧，遇到危险它除了会蜷起来变成球之外，还会使用“土遁术”逃 跑。它一两分钟就能挖出",
+      "exp_head": "2024 黑龙江省公务员《行测》解析 /  /  智库，获取 /  / 较 2013 年的增长率 /  / ，正确。 /  / 本题为选非题，故正确答案"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2021-110",
+      "file": "src\\data\\xingce\\ziliao\\provincial_guangxi_2021.json",
+      "marker": "文化产业",
+      "ziliao_hits": 2,
+      "content_head": "下列选项说法正确的是：",
+      "exp_head": "、A / 1、本题考查政治常识。 / A项正确，1978年12月，党的十一届三中全会作出把党和国家工作中心转移到经济建设上来、实"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2024-115",
+      "file": "src\\data\\xingce\\ziliao\\provincial_heilongjiang_2024.json",
+      "marker": "文化企业",
+      "ziliao_hits": 6,
+      "content_head": "下列说法错误的是：",
+      "exp_head": "—正确答案A】 / A 项：定位文字材料第一段可得，2023 年前三季度，规模以上文化企业（简称文化企业）实现营业 / 收入91"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-ziliao-2024-105",
+      "file": "src\\data\\xingce\\ziliao\\provincial_liaoning_2024.json",
+      "marker": "文化企业",
+      "ziliao_hits": 6,
+      "content_head": "下列说法错误的是：",
+      "exp_head": "—正确答案A】 / A 项：定位文字材料第一段可得，2023 年前三季度，规模以上文化企业（简称文化企业）实现营业 / 收入91"
+    }
+  ]
+}

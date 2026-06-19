@@ -1,0 +1,598 @@
+[
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-024",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，由软件产品、信息技术服务、信息安全产品和服务、嵌入式系统软件四大业务形态构成的我 国软件和信息技术服务业持续恢复，收入保持较快增长，信息技术服务加快云化发展，软件应用服务化、 平台化趋势明显。 2020 年，软件产品实现收入 22758 亿元，同比增长 10.1%，占全行业比重为 27.9%。其中，工业软件产 品实现收入 1974 亿元，增长 11.2%，为支撑工业领域的自主可控发展发挥重要作用。 2020 年，信息技术服务实现收入 49868 亿元，同比增长 15.2%，增速高出全行业平均水平 1.9 个百分 点，占全行业收入比重为 61.1%。其中，电子商务平台技术服务收入 9095 亿元，同比增长 10.5%；云服务、 大数据服务共实现收入 4116 亿元，同比增长 11.1%。 2020 年，信息安全产品和服务实现收入 1498 亿元，同比增长 10.0%，增速较上年回落 2.4 个百分点。 2020 年嵌入式系统软件实现收入 7492 亿元，同比增长 12.0%，增速较上年提高 4.2 个百分点，占全行 业收入比重为 9.2%。嵌入式系统软件已成为产品和装备数字化改造、各领域智能化增值的关键性带动技术。",
+    "options": [
+      {
+        "label": "A",
+        "content": "“强\n大”指的是力量雄厚，常见搭配为“强大力量、强大动力”等，"
+      },
+      {
+        "label": "B",
+        "content": "“宏大”指的是气势宏伟、巨大，常见\n搭配为“宏大场面、宏大目标”等，"
+      },
+      {
+        "label": "C",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "D",
+        "content": "“壮大”指的是变得更加强大，“发展壮大”为固定搭配，保留。A 项“强\n大”指的是力量雄厚，常见搭配为“强大力量、强大动力”等，"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一空，搭配“发展”，D 项“壮大”指的是变得更加强大，“发展壮大”为固定搭配，保留。A 项“强\n大”指的是力量雄厚，常见搭配为“强大力量、强大动力”等，B 项“宏大”指的是气势宏伟、巨大，常见\n搭配为“宏大场面、宏大目标”等，C 项“伟大”指的是十分崇高卓越，常见搭配为“伟大精神、伟大梦想”\n等，均与“发展”搭配不当，排除。\n\n第二空，代入验证，根据后文“通过大项任务磨砺、军事斗争淬炼、日常作风培塑······”可\n知，陆军部队正是通过这一系列举措在培养部队的战斗精神，D 项“培育”指的是培养使其发育成长，符合\n文意，当选。\n\n故正确答案为 D。\n【文段出处】求是网《【求是之声】传承发扬“硬骨头精神”的英雄连队》",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第24题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年电子商务平台技术服务收入占全行业收入的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.6%"
+      },
+      {
+        "label": "B",
+        "content": "11.1%"
+      },
+      {
+        "label": "C",
+        "content": "15.3%"
+      },
+      {
+        "label": "D",
+        "content": "18.2%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2020 年······占······的比重约为”，结合材料时间是 2020 年，可判定本题\n为现期比重问题。定位文字材料第二段、第三段可知：2020 年，软件产品实现收入 22758 亿元，同比增长\n\n10.1%，占全行业比重为 27.9%；电子商务平台技术服务收入 9095 亿元。根据公式：比重\n\n，则 2020\n\n年全行业收入\n\n亿元，故题干所求\n\n，与 B 项最接近。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第106题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年四大业务形态收入同比增速高于全行业平均水平的有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 个"
+      },
+      {
+        "label": "B",
+        "content": "2 个"
+      },
+      {
+        "label": "C",
+        "content": "3 个"
+      },
+      {
+        "label": "D",
+        "content": "4 个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "定位文字材料第二段可知：2020 年软件产品收入同比增长 10.1%；定位文字材料第三段可知：2020 年\n信息技术服务收入同比增长 15.2%，增速高出全行业平均水平 1.9 个百分点，可得 2020 年全行业平均水平\n同比增速为 15.2%-1.9%=13.3%；定位文字材料第四段可知：2020 年信息安全产品和服务收入同比增长 10.0%；",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第107题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年全行业实现收入约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.2 万亿元"
+      },
+      {
+        "label": "B",
+        "content": "7.4 万亿元"
+      },
+      {
+        "label": "C",
+        "content": "8.2 万亿元"
+      },
+      {
+        "label": "D",
+        "content": "8.4 万亿元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019 年······约为”，结合材料时间为 2020 年，可判定本题为基期计算问题。定位\n文字材料第三段可得：2020 年，信息技术服务实现收入 49868 亿元，同比增长 15.2%，增速高出全行业平\n\n均水平 1.9 个百分点，占全行业收入比重为 61.1%。根据公式：整体量\n\n，则 2020 年全行业实现收\n\n入\n\n入\n\n亿元，同比增速=15.2%-1.9%=13.3%。根据公式：基期量\n\n，则 2019 年全行业实现收\n\n亿元\n\n万亿元。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第108题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "与 2019 年相比，2020 年占全行业收入比重上升的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "软件产品"
+      },
+      {
+        "label": "B",
+        "content": "信息技术服务"
+      },
+      {
+        "label": "C",
+        "content": "信息安全产品和服务"
+      },
+      {
+        "label": "D",
+        "content": "嵌入式系统软件"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“与 2019 年相比，2020 年占全行业收入比重上升的是”，可判定本题为两期比重问题。定位\n材料第二段至第五段可得：2020 年，软件产品、信息技术服务、信息安全产品和服务、嵌入式系统软件实\n现收入分别同比增长 10.1%、15.2%、10.0%、12.0%。定位材料第三段“2020 年，信息技术服务实现收入 49868\n亿元，同比增长 15.2%，增速高出全行业平均水平 1.9 个百分点，”则 2020 年全行业收入同比增速\n=15.2%-1.9%=13.3%。根据两期比重比较结论：部分增长率＞整体增长率，比重上升。观察可知，只有信息\n技术服务收入同比增速（15.2%）＞全行业收入同比增速（13.3%），即与 2019 年相比，2020 年占全行业收\n入比重上升的是信息技术服务。\n\n故正确答案为 B。\n备注：由于题目为单选题，在考场上可直接根据第三段中“2020 年，信息技术服务实现收入······增\n\n速高出全行业平均水平······”，秒选 B 项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第109题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "下列选项不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年信息安全产品和服务实现收入约为 1361.8 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2019 年信息安全产品和服务占全行业收入比重最低"
+      },
+      {
+        "label": "C",
+        "content": "2020 年信息安全产品和服务占全行业收入比重为 2.8%"
+      },
+      {
+        "label": "D",
+        "content": "2019 年信息技术服务收入占全行业收入比重低于 61.1% （二）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位文字材料第四段可得：2020 年，信息安全产品和服务实现收入 1498 亿元，同比增长 10.0%。\n\n根据公式：基期量\n\n，则 2019 年信息安全产品和服务实现收入为\n\n亿元，正确；\n\nB 项：定位文字材料可知 2020 年软件产品、信息技术服务、信息安全产品和服务、嵌入式系统软件的\n\n实现收入及同比增长率。根据公式：比重\n\n，整体量一致，比较比重的大小，只需比较部分量的大小\n\n即可。根据公式：基期量\n\n，则 2019 年软件产品、信息技术服务、信息安全产品和服务、嵌入\n\n式系统软件的实现收入分别为\n\n亿元、\n\n亿元、\n\n亿元、\n\n亿元。分母（1+\n\n增长率）相差不大，现期量最小的是信息安全产品和服务，则其基期量最小，占全行业收入比重最低，正\n确；\n\nC 项：定位文字材料第一段可知：软件产品、信息技术服务、信息安全产品和服务、嵌入式系统软件四\n大业务形态构成我国软件和信息技术服务业。定位文字材料第二、三、五段可知 2020 年软件产品、信息技\n术服务、嵌入式系统软件实现收入占全行业收入的比重分别是 27.9%、61.1%、9.2%。因此，2020 年信息安\n全产品和服务占全行业收入比重为 1-27.9%-61.1%-9.2%=1.8%，错误；\n\nD 项：定位文字材料第三段可得：2020 年，信息技术服务实现收入同比增长 15.2%，增速高出全行业平\n均水平 1.9 个百分点，占全行业收入比重为 61.1%。根据两期比重比较口诀“部分增长率大于整体增长率，",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第110题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-025",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年末，全国共有艺术表演团体 17581 个，从业人员 43.69 万人，其中各级文化 和旅游部门所属艺术表演团体 2060 个，从业人员 10.75 万人。2020 年，全国文化和旅游部门所属艺术表演 团体共组织政府采购公益演出 13.38 万场，比上年下降 14.9%；观众 0.86 亿人次，下降 27.9%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "“促使”指推动某物或某事使达到一定目的，"
+      },
+      {
+        "label": "B",
+        "content": "“推动”\n指使事物前进或发展，均与“能源结构转型升级”搭配恰当，保留。"
+      },
+      {
+        "label": "C",
+        "content": "“鼓动”指以言语或行为使他人有\n所行动，多用于贬义语境，与文段感情色彩不符，排除；"
+      },
+      {
+        "label": "D",
+        "content": "“提高”指使位置、程度、水平等方面比原来\n高，与“能源结构转型升级”搭配不当，排除。\n\n第二空，搭配“一步”，"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一空，搭配“能源结构转型升级”，A 项“促使”指推动某物或某事使达到一定目的，B 项“推动”\n指使事物前进或发展，均与“能源结构转型升级”搭配恰当，保留。C 项“鼓动”指以言语或行为使他人有\n所行动，多用于贬义语境，与文段感情色彩不符，排除；D 项“提高”指使位置、程度、水平等方面比原来\n高，与“能源结构转型升级”搭配不当，排除。\n\n第二空，搭配“一步”，B 项“坚实”指牢固结实，符合文意，且与“一步”搭配恰当，当选。A 项“坚\n\n决”指意志坚定，毫不犹豫，多形容态度、主张等，与“一步”搭配不当，排除。\n\n故正确答案为 B。\n【文段出处】光明网《“深海一号”，探寻超深海能源宝藏》",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第25题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2011~2020 年中，全国艺术团体数同比增量超过 2000 个的年份有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 个"
+      },
+      {
+        "label": "B",
+        "content": "2 个"
+      },
+      {
+        "label": "C",
+        "content": "3 个"
+      },
+      {
+        "label": "D",
+        "content": "4 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2011~2020 年中······同比增量超过 2000 个······”，可判定本题为增长量\n计算问题。定位表格材料可得：2011~2020 年各年的全国艺术团体数依次为：7055 个、7321 个、8180 个、\n8769 个、10787 个、12301 个、15742 个、17123 个、17795 个和 17581 个。根据公式：增长量=现期量-基\n期量，可得 2012~2020 年各年全国艺术团体数的同比增量，情况如下：\n\n2012 年的同比增量=7321-7055=266 个<2000 个；\n2013 年的同比增量=8180-7321=859 个<2000 个；\n2014 年的同比增量=8769-8180=589 个<2000 个；\n2015 年的同比增量=10787-8769=2018 个>2000 个；\n2016 年的同比增量=12301-10787=1514 个<2000 个；\n2017 年的同比增量=15742-12301=3441 个>2000 个；\n2018 年的同比增量=17123-15742=1381 个<2000 个；\n2019 年的同比增量=17795-17123=672 个<2000 个；\n2020 年的同比增量=17581-17795=-214 个<2000 个。\n则 2011~2020 年中，全国艺术团体数同比增量超过 2000 个的年份有 2015 年和 2017 年，共 2 个。\n故正确答案为 B。\n【备注】根据历年真题教研，本题问法也应计算 2011 年的增量。但由于题目数据不支持推出 2011 年\n\n增量，本题从 2012 年增量开始分析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第111题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，在全国艺术表演团体中，各级文化和旅游部门所属艺术表演团体从业人员占比约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.7%"
+      },
+      {
+        "label": "B",
+        "content": "24.6%"
+      },
+      {
+        "label": "C",
+        "content": "27.4%"
+      },
+      {
+        "label": "D",
+        "content": "31.7%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2020 年，······占比约为”，可判定本题为现期比重问题。定位文字材料可得：2020\n年末，全国共有艺术表演团体从业人员 43.69 万人，其中各级文化和旅游部门所属艺术表演团体从业人员\n10.75 万人。则 2020 年，在全国艺术表演团体中，各级文化和旅游部门所属艺术表演团体从业人员占比\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第112题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年全国艺术表演团体演出场次比 2012 年增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "约 80%"
+      },
+      {
+        "label": "B",
+        "content": "约 100%"
+      },
+      {
+        "label": "C",
+        "content": "约 120%"
+      },
+      {
+        "label": "D",
+        "content": "约 140%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年······比 2012 年增长了”，结合选项为百分数，可判定本题为一般增长率问\n题。定位统计表可得：2012 年、2019 年全国艺术表演团体演出场次分别为 135.02 万场、296.80 万场。根\n\n据公式：增长率\n\n，可得 2019 年全国艺术表演团体演出场次比 2012 年增长了\n\n，与 C 项最接近。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第113题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下折线图中，能准确反映 2011~2020 年国内演出观众人次变化的是： 26",
+    "options": [
+      {
+        "label": "A",
+        "content": "A"
+      },
+      {
+        "label": "B",
+        "content": "B"
+      },
+      {
+        "label": "C",
+        "content": "C"
+      },
+      {
+        "label": "D",
+        "content": "D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "定位表格材料可得：2011 年、2012 年、2013 年、2014 年、2015 年、2016 年、2017 年、2018 年、2019\n年、2020 年国内演出观众人次分别为：7.46 亿人次、8.28 亿人次、9.01 亿人次、9.10 亿人次、9.58 亿人\n次、11.81 亿人次、12.47 亿人次、11.76 亿人次、12.30 亿人次、8.93 亿人次，人次变化趋势为开始缓慢\n升高，排除 B、D 两项；最后下降，排除 A 项。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第114题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2022/q114.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2011~2020 年期间，全国艺术表演团体演出收入的年平均值：",
+    "options": [
+      {
+        "label": "A",
+        "content": "大于 100 亿元"
+      },
+      {
+        "label": "B",
+        "content": "等于 100 亿元"
+      },
+      {
+        "label": "C",
+        "content": "小于 100 亿元"
+      },
+      {
+        "label": "D",
+        "content": "无法算出 （三）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "35\n\n\f根据题干“2011~2020 年······的年平均值”，可判定本题为现期平均数问题。定位表格材料可\n得：2011~2020 年全国艺术表演团体演出收入分别为 52.67 亿元、64.15 亿元、82.07 亿元、75.70 亿元、\n93.93 亿元、120.86 亿元、147.68 亿元、152.27 亿元、126.78 亿元、86.63 亿元。根据选项的范围设置，\n利用“削峰填谷”，以 100 为基准，分别作差为：-47.33、-35.85、-17.93、-24.3、-6.07、20.86、47.68、\n52.27、26.78、-13.37，\n\n，即所\n\n求年平均值大于 100 亿元。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第115题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "假设 2021 年居民医保基金收入同比增速与 2020 年相同，那么，2021 年居民医保基金收入约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9598 亿元 27"
+      },
+      {
+        "label": "B",
+        "content": "9689 亿元"
+      },
+      {
+        "label": "C",
+        "content": "9727 亿元"
+      },
+      {
+        "label": "D",
+        "content": "9873 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“假设 2021 年······同比增速与 2020 年相同······2021 年······约为”，\n\n结合材料时间为 2012-2020 年，可判定本题为现期计算问题。定位统计表可得：2019 年居民医保基金支出\n\n和结余率分别为 8191 亿元和 4.5%，2020 年基金收入为 9115 亿元。根据结余率\n\n，则\n\n有\n\n，解得 2019 年居民医保基金收入\n\n亿元（也可结合本篇材\n\n料第 3 题得出此数据）。根据公式：增长率\n\n、现期量=基期量×（1+增长率）。则 2021\n\n年居民医保基金收入\n\n亿元，与 B 项最接近。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第116题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年，职工医保参保人数共：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30322 万人"
+      },
+      {
+        "label": "B",
+        "content": "31681 万人"
+      },
+      {
+        "label": "C",
+        "content": "32924 万人"
+      },
+      {
+        "label": "D",
+        "content": "34455 万人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "定位统计图可知，2019 年在职职工医保参保人数为 24224 万人，退休职工医保参保人数为 8700 万人，\n则 2019 年职工医保参保人数为在职职工医保参保人数与退休职工医保参保人数之和：24224+8700=32924 万\n人。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第117题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "下列年份中，在职职工参保人数同比增速大小排序错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017 年＞2016 年"
+      },
+      {
+        "label": "B",
+        "content": "2018 年＞2017 年"
+      },
+      {
+        "label": "C",
+        "content": "2019 年＞2018 年"
+      },
+      {
+        "label": "D",
+        "content": "2020 年＞2019 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······同比增速大小排序”，可判定本题为一般增长率问题。定位统计图可得 2016-2020\n\n年在职职工参保人数，根据公式，增长率\n\n，代入公式可得 2016-2020 年在职职工参保人数同\n\n比增速分别为：\n\n，\n\n，\n\n，\n\n，\n\n。因此，2019 年同比增速小于 2018 年同比增速，\n\nC 项排序错误。\n\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第118题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "表中（？）处应填入的数字是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7822"
+      },
+      {
+        "label": "B",
+        "content": "8559"
+      },
+      {
+        "label": "C",
+        "content": "8577"
+      },
+      {
+        "label": "D",
+        "content": "8898"
+      }
+    ],
+    "answer": "C",
+    "explanation": "表中“？”为 2019 年基金收入，结合材料给出 2019 年基金支出以及结余率，可判定本题为现期比重\n\n问题。定位统计表，2019 年基金支出为 8191 亿元，结余率为 4.5%。根据公式结余率\n\n，\n\n将数据代入公式可得\n\n，则基金收入\n\n，与 C 项最接近。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第119题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2022-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "能够从上述资料中推出的有： ①2017 年职工医保在职退休比高于 2016 年 ②2020 年居民医保参保人数比上年略有增加 ③2012—2020 年间，职工医保参保人数持续增加 ④2012—2020 年间，居民医保基金支出增长金额最快的是 2017 年",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4 28"
+      }
+    ],
+    "answer": "B",
+    "explanation": "36\n\n\f①：定位统计图可得：2017 年职工医保在职退休比相较于 2016 年有所下降，故 2017 年退休比＜2016\n\n年退休比，错误；\n\n②：材料所给数据均为职工医保参保人数，未出现居民医保参保人数相关数据，故无法推出，错误；\n③：定位统计图可得：在职职工参保人数和退休职工参保人数 2012 年-2020 年每年均在增加，故职工\n\n医保参保总人数也持续增加，正确；\n\n④：定位统计表可得 2012-2020 年的数据，根据公式：增长率\n\n，\n\n2013 年，\n\n2014 年，\n\n2015 年，\n\n2016 年，\n\n2017 年，\n\n2018 年，\n\n2019 年，\n\n；\n\n；\n\n；\n\n；\n\n；\n\n；\n\n；\n\n2020 年，基金支出较上年下降，增长率<0。故 2017 年增速最快，正确；\n综上所述，只有③④正确，共 2 项。\n故正确答案为 B。\n【备注】根据历年真题教研，对于④的问法，如果材料有 2011 年数据，需要计算 2012 年的增速，但\n\n如果材料没有 2011 年的数据，则不用计算。因此判定④正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考neimenggu行测第120题",
+    "region": "neimenggu"
+  }
+]

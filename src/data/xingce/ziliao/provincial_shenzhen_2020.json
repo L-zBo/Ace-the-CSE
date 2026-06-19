@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-009",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2%。一般公共预算支出 4282.54 亿元，下降 6.8%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：43%，易错项：D。\n\n解析\n\n第一步，本题考查非整数数列中的分数数列。\n\n第二步，将原数列相邻两项做和后可得： ， ， ， ，和数列的分子做差后可得：4，3，2，是公差为-1\n\n的等差数列，下一项为 1，则和数列下一项为\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第9题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q009.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年，该市三大产业增加值同比增速最快的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第一产业"
+      },
+      {
+        "label": "B",
+        "content": "第二产业"
+      },
+      {
+        "label": "C",
+        "content": "第三产业"
+      },
+      {
+        "label": "D",
+        "content": "无法判断"
+      }
+    ],
+    "answer": "D",
+    "explanation": "，全站正确率：69%，易错项：B。\n解析\n第一步，本题考查增长率读数比较。\n第二步，定位全篇材料。\n第三步，整篇材料未给出2017\n年选项中相关联数据，且通过材料无法求出，则无法判定大小。\n因此，选择D\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第86题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，下列产业对该市地区生产总值增长的贡献率最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第三产业"
+      },
+      {
+        "label": "B",
+        "content": "现代服务业"
+      },
+      {
+        "label": "C",
+        "content": "文化及相关产业（规模以上）"
+      },
+      {
+        "label": "D",
+        "content": "高新技术产业"
+      }
+    ],
+    "answer": "D",
+    "explanation": "，全站正确率：45%，易错项：A。\n解析\n第一步，本题考查增长贡献率比较。\n第二步，定位第一段文字材料，“（2018\n年），第三产业增加值14237.94\n亿元，增长6.4%……现代服务业增加\n值10090.59\n亿元，增长7.1%……文化及相关产业（规模以上）增加值1560.52\n亿元，增长6.3%；高新技术产业\n增加值8296.63\n亿元，增长12.7%”。\n第三步，根据增长贡献率=部分增长量/整体增长量，发现整体是同一个整体，则整体增长量一致，则增长贡献率\n比较转化为部分增长量比较。\n第四步，根据增长量比较“大大则大”，可得第三产业增加（14237.94\n亿元，增长6.4%）的增长量＞文化及相\n关产业（规模以上）增加值（1560.52\n亿元，增长6.3%），排除C\n选项。根据增长量比较“一大一小看乘积”，\n可得高新技术产业增加值对应“乘积”（8296.63×12.7%）＞第三产业增加值（14237.94×6.4%）和现代服务业\n增加值（10090.59×7.1%），排除A、B\n选项。\n因此，选择D\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第87题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，从产业增加值的同比增量看，该市七大战略性新兴产业中，高端装备制造产业和（ 最接近。 ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "新一代信息技术产业"
+      },
+      {
+        "label": "B",
+        "content": "数字经济产业"
+      },
+      {
+        "label": "C",
+        "content": "绿色低碳产业"
+      },
+      {
+        "label": "D",
+        "content": "生物医药产业"
+      }
+    ],
+    "answer": "C",
+    "explanation": "，全站正确率：82%，易错项：B。\n解析\n第一步，本题考查增长量公式比较。\n第二步，定位文字材料第一段，“新一代信息技术产业增加值4772.02\n亿元，增长10.9%；数字经济产业增加值\n1240.73\n亿元，增长3.8%；高端装备制造产业增加值1065.82\n亿元增长10.7%；绿色低碳产业增加值990.73\n亿\n元，增长11.7%；生物医药产业增加值298.58\n亿元，增长22.3%”。\n第三步，根据增长量比较口诀，大大则大，一大一小看乘积，要使两个的增长量接近，即现期量×增长率乘积接\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。\n-\n20\n-\n近即可，高端装备制造产业（1065.82×10.7%≈114），A\n选项，新一代信息技术产业（4772.02×10.9%≈5292），\nB\n选项，数字经济产业（1240.73×3.8%≈47），C\n选项，绿色低碳产业（990.73×11.7%≈116），D\n选项，生物\n医药产业（298.58×22.3%≈67），乘积与高端装备制造产业最接近的是绿色低碳产业。\n因此，选择C\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第88题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，该市年末常住人口同比增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.6%"
+      },
+      {
+        "label": "B",
+        "content": "3.9%"
+      },
+      {
+        "label": "C",
+        "content": "4.1%"
+      },
+      {
+        "label": "D",
+        "content": "4.2%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "，全站正确率：75%，易错项：C。\n解析\n第一步，本题考查混合增长率计算。\n第二步，定位文字材料第二段，\n“全市年末常住人口1302.67\n万人，其中常驻户籍人口454.70\n万人，增长4.6%……\n常驻非户籍人口847.97\n万人，增长3.6%”。\n常住人口=常住户籍人口＋常住非户籍人口，根据混合增长率口诀，整体增速介于各部分增速之间，且偏向于基\n期量较大的一方，可得常住户籍人口同比增速（4.6%）＞常住人口同比增速＞常住非户籍人口同比增速（3.6%），\n排除A\n选项；且常驻非户籍人口847.97\n万人明显大于常住户籍人口454.70\n万人，常驻非户籍人口基期量高于常\n住户籍人口基期量，整体增速偏向于常住非户籍人口的增速（3.6%），即3.6%＜常住人口增速＜\n=4.1%，B\n选项符合。\n因此，选择B\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第89题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上文，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年，该市第二产业增加值占地区生产总值比重同比下降"
+      },
+      {
+        "label": "B",
+        "content": "2017 年，该市四大支柱产业中，物流业增加值最大"
+      },
+      {
+        "label": "C",
+        "content": "2018 年，该市年末城镇登记失业人口 29.96 万人"
+      },
+      {
+        "label": "D",
+        "content": "2018 年，该市一般公共预算收入中，非税收收入同比负增长 (材料 2) - 12 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "，全站正确率：31%，易错项：C。\n解析\n第一步，本题考查综合分析，且需选出正确的一项。\n第二步，A\n选项，两期比重比较，定位第一段文字材料，“2018\n年，某市实现地区生产总值24221.98\n亿元，比\n上年增长7.6%……第二产业增加值9961.95\n亿元，增长9.3%”。根据两期比重比较口诀，部分的增速大于整体\n的增速，比重上升，反之，则下降。可得，第二产业增加值同比增速9.3%＞地区生产总值同比增速7.6%，则比\n重上升，错误。\nB\n选项，基期量比较，定位第一段文字材料，“（2018\n年），四大支柱产业中，金融业增加值3067.21\n亿元，增\n长3.6%；物流业增加值2541.58\n亿元，增长9.4%；文化及相关产业（规模以上）增加值1560.52\n亿元，增长6.3%；\n高新技术产业增加值8296.63\n亿元，增长12.7%”。根据基期量=现期量/（1+增长率），很明显高新技术产业增\n加值的现期量特别大，而1+增长率相差不大，则2017\n年该市四大支柱产业中，高新技术产业增加值最大，错误。\nC\n选项，现期比重计算中求部分量，定位第二段文字材料，“（2018\n年），全市年末常住人口1302.67\n万人……\n年末城镇登记失业率2.3%”，城镇登记人口＜全市常住人口（1302.67\n万人），又根据部分量=整体量×比重，\n则2018\n年城镇登记失业人口=城镇登记人口×失业率＜全市常住人口×失业率=1302.67×2.3%≈29.96（万人），\n一定低于29.96\n万人，排除。\nD\n选项，增长量比较，定位第二段文字材料，“（2018\n年），全年完成一般公共预算收入3538.41\n亿元，比上年\n增长6.2%；其中税收收入2899.60\n亿元，增长9.2%”，根据增长量计算n+1\n原则，及6.2%≈\n，9.2%≈\n，\n可得2018\n年，全市一般公共预算收入的增长量\n≈208（亿元）＜税收收入的增长量\n≈242（亿元），\n则非税收收入的增长量=208－242＜0，则2018\n年非税收收入同比实现负增长，正确。\n因此，选择D\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第90题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-091",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "若电影票房按“观影人次×平均票价”计算，则 2019 年电影平均票价比 2015 年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "高 2.2 元"
+      },
+      {
+        "label": "B",
+        "content": "高 3.9 元"
+      },
+      {
+        "label": "C",
+        "content": "低 2.2 元"
+      },
+      {
+        "label": "D",
+        "content": "低 3.9 元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "，全站正确率：56%，易错项：B。\n解析\n第一步，本题考查平均数增长量计算。\n第二步，定位图1，“2019\n年我国电影票房642.66\n亿元，观影人次17.27\n亿人；2015\n年我国电影票房440.69\n亿元，观影人次12.60\n亿人；\n第三步，根据平均票价＝电影票房÷观影人次，分子取整，分母从左向右截取前三位，可得2019\n年电影平均票\n价为\n（元），2015\n年电影平均票价为\n（元），前者比后者高37.2－35＝2.2（元）。\n因此，选择A\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第91题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-092",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016-2019 年，电影票房同比增幅最低的年份，当年观影人次的同比增幅为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.6%"
+      },
+      {
+        "label": "B",
+        "content": "6.9%"
+      },
+      {
+        "label": "C",
+        "content": "8.9%"
+      },
+      {
+        "label": "D",
+        "content": "18.1%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "，全站正确率：57%，易错项：B。\n解析\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。\n-\n21\n-\n第一步，本题考查增长率计算。\n第二步，定位图1。\n第三步，增幅即为增长率，首先找出2016—2019\n年电影票房的同比增长率最低的年份，根据增长率＝（现期量\n－基期量）/基期量，当基期量差别不大时，可以用增长量替代增长率进行比较，将数据取整处理，可得2016—\n2019\n年同比增长率分别为：457－441=16、559－457=102、610－559=51、643－610=33，2016\n年同比增长量最低，\n则其同比增长率也最低，故2016\n年观影人次的增幅为\n，直除首位商8。\n因此，选择C\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第92题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-093",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016-2019 年，上映电影数同比增幅超过 10%的年份有（ ）个。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "，全站正确率：72%，易错项：C。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位图2。\n第三步，首先计算出每一年上映电影数，2015\n年电影数＝80＋278＝358；2016\n年电影数＝90＋381＝471；2017\n年电影数＝109＋355＝464；2018\n年电影数＝122＋393＝515；2019\n年电影数＝129＋412＝541。根据增长率=（现\n期量/基期量）－1，若要使增长率＞10%，则现期量＞基期量×1.1。代入数据可得：2016\n年471＞358×1.1，2017\n年464＜471×1.1，2018\n年515＞464×1.1，2019\n年541＜515×1.1，故同比增幅超过10%的有2016\n和2018\n年\n这2\n个年份。\n因此，选择B\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第93题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-094",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016—2019 年，下列指标中，与下方折线图的变化趋势最相符的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "上映国产电影数"
+      },
+      {
+        "label": "B",
+        "content": "电影观影人次同比增量"
+      },
+      {
+        "label": "C",
+        "content": "电影平均票价"
+      },
+      {
+        "label": "D",
+        "content": "上映进口电影数同比增量"
+      }
+    ],
+    "answer": "B",
+    "explanation": "，全站正确率：54%，易错项：C。\n解析\n第一步，本题考查其他比较。\n第二步，定位柱状图与折线图。\n第三步，2017\n年上映国产电影数低于2016\n年，不符合，排除A\n选项；根据增长量=现期量－基期量，加减计算\n考虑截位舍相同，则2016—2019\n年电影观影人次同比增量依次为：13.7－12.6=1.1、16.2－13.7=2.5、17.2－\n16.2=1、17.3－17.2=0.1，符合；根据平均票价＝票房收入/观影人次，分子取整，分母从左向右留三位，可得\n2016\n年平均票价为\n（元），2019\n年平均票价为\n（元），不符合，排除C\n选项；2016—2019\n年上映进口电影数同比增量依次为：90－80=10、109－90=19、122－109=13、129－122=7，由于趋势图中2018\n年低于2016\n年，不符合，排除D\n选项。\n因此，选择B\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第94题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-095",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上图，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015—2019 年，上映电影数与电影票房的变化趋势一致"
+      },
+      {
+        "label": "B",
+        "content": "2016—2019 年，观影人次同比增长最快的一年，其电影票房及上映电影数均同比增长最快"
+      },
+      {
+        "label": "C",
+        "content": "2015—2019 年，上映电影平均票房均超 1 亿元/部"
+      },
+      {
+        "label": "D",
+        "content": "2015—2019 年，当年电影票房超过五年年均电影票房的年份有 3 个 (材料 3)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D。解析：逐项判断。A项，2015—2019年上映电影数与电影票房并非每年同向变化，错误。B项，观影人次同比增长最快的年份，与电影票房、上映电影数同比增长最快年份并不完全一致，错误。C项，逐年用电影票房除以上映电影数，至少有年份低于1亿元/部，错误。D项，五年电影票房年均值介于中间水平，超过该均值的年份为2017年、2018年、2019年，共3个，正确。故选D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第95题",
+    "region": "shenzhen",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 3,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationDeferTo": "D18b-vision-ocr",
+      "dataRescuedAt": "2026-06-01",
+      "dataRescuedBy": "codex-targeted-short-explanation-rescue",
+      "dataRescueScope": "explanation"
+    }
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2012—2018 年，国家财政支出同比增速最快的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年"
+      },
+      {
+        "label": "B",
+        "content": "2015 年"
+      },
+      {
+        "label": "C",
+        "content": "2014 年"
+      },
+      {
+        "label": "D",
+        "content": "2012 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "，全站正确率：56%，易错项：D。\n解析\n第一步，本题考查增长率计算比较。\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。\n-\n22\n-\n第二步，定位表格材料“国家财政支出”所在行。\n第三步，根据增长率=（现期量-基期量）/基期量，比较大小，将分母从左向右截取前三位，分子减法计算，考\n虑截位舍相同，代入数据可得各年增速分别为：2018\n年，\n；2015\n年，\n；\n2014\n年，\n；2012\n年，\n，根据分数性质（分子大分母小，分数值大）可知，\n2015\n年＞2018\n年，排除A\n选项；2012\n年＞2014\n年，排除C\n选项。2015\n年和2012\n年直除首三位分别商157\n和155，\n则2015\n年增速更大，排除D\n选项。\n因此，选择B\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第96题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2011—2018 年，国家财政赤字的变化趋势为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不断缩小"
+      },
+      {
+        "label": "B",
+        "content": "与国家财政收入的变化趋势相反"
+      },
+      {
+        "label": "C",
+        "content": "不断扩大"
+      },
+      {
+        "label": "D",
+        "content": "先扩大后缩小"
+      }
+    ],
+    "answer": "C",
+    "explanation": "，全站正确率：69%，易错项：B。\n解析\n第一步，本题考查简单和差比较。\n第二步，定位表格材料“国家财政收入”和“国家财政支出”所在行。\n第三步，财政赤字=财政支出－财政收入，做差后比较大小，将数据从左向右截取前三位计算，代入数据可得2011\n—2018\n年，国家财政赤字分别为：2011\n年，109-104=5；2012\n年，126-117=9；2013\n年，140-129=11；2014\n年，\n152-140=12；2015\n年，176-152=24；2016\n年，188-160=28；2017\n年，203-173=30；2018\n年，221-183=38。观察\n数据可得，财政赤字不断扩大。\n因此，选择C\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第97题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，上表所列国家税收收入的税种中，按税收收入同比增速从高到低排序，正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "企业所得税＞国内增值税＞个人所得税＞国内消费税＞关税"
+      },
+      {
+        "label": "B",
+        "content": "个人所得税＞企业所得税＞国内增值税＞国内消费税＞关税"
+      },
+      {
+        "label": "C",
+        "content": "企业所得税＞个人所得税＞国内增值税＞关税＞国内消费税"
+      },
+      {
+        "label": "D",
+        "content": "个人所得税＞国内消费税＞企业所得税＞国内增值税＞关税"
+      }
+    ],
+    "answer": "B",
+    "explanation": "，全站正确率：65%，易错项：C。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位表格材料“2017\n年”和“2018\n年”部分数据。\n第三步，根据根据增长率=（现期量-基期量）/基期量\n，表中所列各税种中，关税税收收入2018\n年（2848\n亿\n元）小于2017\n年（2998\n亿元），即增长率为负数，其余各税种均同比有所上升，则关税增速最小，排除C\n选项。\n其余税种比较大小，将分母从左向右截取前三位，分子减法计算，考虑截位舍相同，代入数据可得，国内增值税，\n≈9%；个人所得税，\n＞10%，则个人所得税＞国内增值税，排除A\n选项。\n国内消费税，\n≈4%，则国内增值税＞国内消费税，排除D\n选项。\n因此，选择B\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第98题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2011—2016 年，中央税收收入年均增速约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6.2%"
+      },
+      {
+        "label": "B",
+        "content": "7.1%"
+      },
+      {
+        "label": "C",
+        "content": "7.6%"
+      },
+      {
+        "label": "D",
+        "content": "7.9%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "，全站正确率：27%，易错项：B。\n解析\n第一步，本题考查年均增长率计算。\n第二步，定位表格“中央税收收入”行。\n第三步，根据（1+年均增长率）^n=末期量/初期量，初期为2011\n年，末期为2016\n年，相差年数n=2016-2011=5，\n选项首位相同第二位不同，分母从左向右截取前三位，分子截位舍相同（保留量级不变），代入数据可得\n。根据二项式展开定理可得\n≈1+5r+10r²，若年均增长率为7%，代入二项式\n展开公式可得\n≈1+5×7%+10×7%²=1.35+10×7%²＞1.35，则r＜7%，仅A\n选项符合。\n因此，选择A\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第99题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-100",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上表，下列说法正确的有（ ）个。 （1）2011—2018 年，中央财政支出占国家财政支出比重逐年降低 - 13 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。 （2）2011—2018 年，地方财政收入均超过 6 万亿元 （3）与 2011 年相比，2018 年中央财政收入的增幅小于国家财政收入的增幅",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "0 - 14 -"
+      }
+    ],
+    "answer": "C",
+    "explanation": "，全站正确率：54%，易错项：B。\n解析\n第一步，本题考查综合分析，且需选出正确的个数。\n第二步，（1），比重比较，定位表格“中央财政支出”、“国家财政支出”行。根据比重=部分量/整体量，2013\n年的比重为\n，2014\n年的比重为\n，2013\n年的比重低于2014\n年，并不是逐年\n降低，错误。\n（2），简单和差比较，定位表格“中央财政收入”、“国家财政收入”行。根据地方财政收入=国家财政收入-\n中央财政收入，可得2011\n年地方财政收入为103874-51327＜60000\n亿元，错误。\n获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。\n-\n23\n-\n（3），增长率比较，定位表格“中央财政收入”、“国家财政收入”行。根据增长率=（现期量-基期量）/基期\n量，分母从左向右截取前三位，分子减法计算考虑截位舍相同，可得与2011\n年相比，2018\n年中央财政收入和国\n家财政收入的增幅分别为\n、\n，直除首位分别商6、7，故前者小于后者，正\n确。\n共1\n个正确。\n因此，选择C\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第100题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-066",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年，该市三大产业增加值同比增速最快的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第一产业"
+      },
+      {
+        "label": "B",
+        "content": "第二产业"
+      },
+      {
+        "label": "C",
+        "content": "第三产业"
+      },
+      {
+        "label": "D",
+        "content": "无法判断"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：36%，易错项：B。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“论证策略”，确定为正误评价。\n第二步，找论点和论据。\n论点：小亮不吃菜，所以小亮挑食。\n论据：妈妈也不吃甜品，妈妈也挑食。\n第三步，辨析选项。\nA 项：虽然小亮拿妈妈挑食来举例子，但是也是在讨论具体的行为和是不是挑食之间的关系，与论点的话题一致，\n不是用不相干的问题来转移论证焦点，排除；\nB 项：小亮没有对挑食这个概念做出新的解释来模糊“是”与“否”的界线，排除；\nC 项：妈妈批评小亮的时候，小亮利用了妈妈的行为与妈妈对他批评的矛盾来做掩饰，说明自己对妈妈的批评的\n不认可，降低妈妈观点的可信度，正确；\nD 项：小亮是举了妈妈行为的例子，来反驳妈妈，而不是选取了自己的一个行为特例来证明妈妈的批评不对，排\n除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第66题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-067",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，下列产业对该市地区生产总值增长的贡献率最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第三产业"
+      },
+      {
+        "label": "B",
+        "content": "现代服务业"
+      },
+      {
+        "label": "C",
+        "content": "文化及相关产业（规模以上）"
+      },
+      {
+        "label": "D",
+        "content": "高新技术产业"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：65%，易错项：D。\n\n- 12 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，确定题型。\n题干中有若干论断及提问方式，确定为真假推理。\n第二部，找关系。\n题干中没有明显的矛盾或反对关系，采用假设的方法。\n第三步，辨析选项。\n3 号门的小妖所说为真，即 1 号门和 2 号门的小妖有一个说的是真的，假设 1 号门的小妖说的是真的，则 1 号门\n通向师父所在，而 2 号门小妖说的是假的，可以得到 2 号门也通向师父所在，与已知信息矛盾，因此，假设错误，\n1 号门的小妖说的是假的，2 号门的小妖说的是真的，即 1 号门和 2 号门都不通向师父所在，因此，3 号门通向\n师父所在。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第67题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-068",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，从产业增加值的同比增量看，该市七大战略性新兴产业中，高端装备制造产业和（ ） 最接近。",
+    "options": [
+      {
+        "label": "A",
+        "content": "新一代信息技术产业"
+      },
+      {
+        "label": "B",
+        "content": "数字经济产业"
+      },
+      {
+        "label": "C",
+        "content": "绿色低碳产业"
+      },
+      {
+        "label": "D",
+        "content": "生物医药产业"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，确定题型。\n根据题干特征和选项特点，确定为集合推理。\n第二步，翻译题干。\n①有的环保主义者是热爱旅游的人；\n②环保企业代表→支持减少风景区开发；\n③热爱旅游的人→反对减少风景区开发。\n第三步，辨析选项。\nA 项：①和③递推可得：有的环保主义者反对减少风景区的开发，只能得到“有的”，而不能推出“所有”，无\n法推出；\nB 项：③逆否等价为：不反对减少风景区开发→不热爱旅游的人，与②递推可得：环保企业代表→不热爱旅游的\n人，可以推出；\nC 项：根据③可以得知热爱旅游的人反对减少风景区开发，但反对减少风景区开发不代表支持加大风景区开发，\n无法推出；\nD 项：①③递推可以得到：有的环保主义者反对减少风景区开发，但无法得到是不是有环保主义者支持减少风景\n区开发，无法推出。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第68题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-069",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，该市年末常住人口同比增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.6%"
+      },
+      {
+        "label": "B",
+        "content": "3.9%"
+      },
+      {
+        "label": "C",
+        "content": "4.1%"
+      },
+      {
+        "label": "D",
+        "content": "4.2%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：83%，易错项：D。\n\n解析\n\n第一步，看提问方式，本题属于选是题。\n第二步，找关键信息。\n①问题的答案不是固定的。\n第三步，辨析选项。\nA 项：与深圳陆地接壤的城市是固定的，不符合关键信息，不符合定义；\nB 项：水凝结成冰后体积会变大，答案是固定的，不符合关键信息，不符合定义；\nC 项：孔子门下有多少弟子称得上贤能，需根据贤能的定义来回答，符合关键信息，符合定义；\nD 项：“孟子三乐”中第一乐,指的是亲情；第二乐,指的是孟子的为人处事的态度,他告诉人们做人应该正直坦\n荡,对得起天地和身边的人。第三乐,指的是孟子的教育态度,得到优秀的人才并教育他们。答案固定，不符合关\n键信息，不符合定义。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第69题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-070",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上文，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年，该市第二产业增加值占地区生产总值比重同比下降"
+      },
+      {
+        "label": "B",
+        "content": "2017 年，该市四大支柱产业中，物流业增加值最大"
+      },
+      {
+        "label": "C",
+        "content": "2018 年，该市年末城镇登记失业人口 29.96 万人"
+      },
+      {
+        "label": "D",
+        "content": "2018 年，该市一般公共预算收入中，非税收收入同比负增长 (材料 2) - 9 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：37%，易错项：C。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“前提”，确定为加强论证。\n第二步，找论点和论据。\n论点：某些错绘国界线的地图是严重违法违规的。\n论据：有损我国领土和主权完整的地图是严重违法违规的。\n第三步，辨析选项。\n\n- 13 -\n\n\f获取试卷更新，请关注\nA 项：不明确项。该项中的“有可能导致”说明不确定结果究竟怎样，不是论证的前提，不具有加强作用。\nB 项：无关选项。该项中“严重违法的地图”不一定是论点中“错绘国界的地图”，不具有加强作用。\nC 项：建立联系。该项和论据进行递推可以得到“所有错绘国界的地图都是严重违法违规的”，进一步可以推出\n论点“某些错绘国界线的地图是严重违法违规的”，具有加强作用。\nD 项：建立联系。该项建立了论点“某些错绘国界的地图”和论据“有损我国领土和主权完整”之间的联系，具\n有加强作用。\n第四步，强弱比较。\nC 和 D 都可以建立论据和论点之间的关联，但要使论点“某些”成立，并不需要“所有错绘国界线的地图都有损\n我国领土和主权完整”，故 C 项不是必要的前提。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第70题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-071",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "若电影票房按“观影人次×平均票价”计算，则 2019 年电影平均票价比 2015 年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "高 2.2 元"
+      },
+      {
+        "label": "B",
+        "content": "高 3.9 元"
+      },
+      {
+        "label": "C",
+        "content": "低 2.2 元"
+      },
+      {
+        "label": "D",
+        "content": "低 3.9 元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：71%，易错项：B。\n\n解析\n\n第一步，确定题型。\n题干有若干论断和真假限定，确定为真假推理。\n第二步，找矛盾。\n乙和丁的话为矛盾关系，必有一真一假。\n第三步，看其余。\n根据已知“有两人说谎”，可知其余论断中只能有一句为假；假设丙的话为真时，戊、己的话均为假，与题干矛\n盾，所以其余论断中，丙的话为假，甲、戊、己的话为真，此时完成自学的人为：丙和乙。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第71题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-072",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016-2019 年，电影票房同比增幅最低的年份，当年观影人次的同比增幅为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.6%"
+      },
+      {
+        "label": "B",
+        "content": "6.9%"
+      },
+      {
+        "label": "C",
+        "content": "8.9%"
+      },
+      {
+        "label": "D",
+        "content": "18.1%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：21%，易错项：C。\n\n解析\n\n暂缺",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第72题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-073",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016-2019 年，上映电影数同比增幅超过 10%的年份有（ ）个。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：31%，易错项：C。\n\n解析\n\n第一步，确定题型。\n题干具有匹配特征，确定为分析推理。\n第二步，分析条件，进行推理。\n根据条件“黑阵地 1 分、白阵地 3 分、蓝阵地 5 分、粉阵地 7 分、黄阵地 9 分”，可知各项阵地的得分为奇数；\n根据条件“每人挑战 6 次，每次成功占领一个阵地”，可知，本次游戏最高分为连续 6 次占领黄阵地，即 54 分，\n故小赵说“得了 58 分”，一定是说谎；\n根据条件“每人挑战 6 次，每次成功占领一个阵地”，以及各项阵地得分为奇数可知，最终得分应为偶数，故小\n李说“我得了 33 分”，一定是说谎；\n小张的得分为 10 分，可能是“1+1+1+1+3+3”，是真话，也可能是假话；\n小王的得分是 30 分，可能是“3+3+3+3+9+9”，是真话，也可能是假话。\n综上可知，至少两人说了假话。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第73题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-074",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016—2019 年，下列指标中，与下方折线图的变化趋势最相符的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "上映国产电影数"
+      },
+      {
+        "label": "B",
+        "content": "电影观影人次同比增量"
+      },
+      {
+        "label": "C",
+        "content": "电影平均票价"
+      },
+      {
+        "label": "D",
+        "content": "上映进口电影数同比增量"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：60%，易错项：D。\n\n解析\n\n第一步，看提问方式，本题属于选是题。\n第二步，找关键信息。\n人们大多受制于惯性思维。\n第三步，辨析选项。\nA 项：大刘认为买涉水险是明智之举，说明是思考后的决定，而非“惯性思维”，不符合定义；\nB 项：莉莉认为华贵的礼服，必须搭配“价格不菲”高跟鞋和手拿包，属于“惯性思维”，符合定义；\nC 项：小明因为受到老师的夸奖，然后成绩提升了，并未体现“惯性思维”，不符合定义；\nD 项：某人得出结论，是一种以偏概全，而不是“惯性思维”，不符合定义。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第74题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-075",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上图，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015—2019 年，上映电影数与电影票房的变化趋势一致"
+      },
+      {
+        "label": "B",
+        "content": "2016—2019 年，观影人次同比增长最快的一年，其电影票房及上映电影数均同比增长最快"
+      },
+      {
+        "label": "C",
+        "content": "2015—2019 年，上映电影平均票房均超 1 亿元/部"
+      },
+      {
+        "label": "D",
+        "content": "2015—2019 年，当年电影票房超过五年年均电影票房的年份有 3 个 (材料 3) - 10 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：39%，易错项：D。\n\n- 14 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，确定题型。\n根据提问方式中的“支持的论断”，确定为加强论证。\n第二步，找论据。\n论据：最明显的是草原地区，原本习惯防火烧荒的游牧居民的定居化，使非洲的热带稀树草原每年火烧土地面积\n缩小了约 79 万平方公里。\n第三步，辨析选项。\nA 项：题干提到“全球气候变暖使自燃野火的风险增加”，说明全球气候变化与全球火烧土地面积存在关联，而\n不是没有关联，排除；\nB 项：题干并未提及全球火土地面积的减少对气候变暖的影响，排除；\nC 项：根据论据可知，人类生活方式的改变能够减少火烧土地面积，即题干论据可以支持该项，符合；\nD 项：题干并未将人类行为和自燃野火导致的火烧土地面积大小进行比较，排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第75题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q075.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-076",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2012—2018 年，国家财政支出同比增速最快的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年"
+      },
+      {
+        "label": "B",
+        "content": "2015 年"
+      },
+      {
+        "label": "C",
+        "content": "2014 年"
+      },
+      {
+        "label": "D",
+        "content": "2012 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：64%，易错项：B。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“支持”，确定为加强论证。\n第二步，找论据。\n论点：新型号 CPU 可以显著提升笔记本性能。\n论据：搭载新型号 CPU 的 2020 款笔记本，其运行速度是搭载旧型号 CPU 的 2019 款笔记本的 2 倍。\n第三步，辨析选项。\nA 项：不明确项。该项只是提及新款笔记本的用户体验，但用户体验好不代表是靠新型号 CPU 提升了性能，不具\n有加强作用。\nB 项：不明确项。该项讨论的是新款笔记本的硬件也更新迭代了，故无法确定性能的提升是靠硬件还是新型 CPU，\n不具有加强作用。\nC 项：加强论据。该项指出新款笔记本只升级了 CPU 和外在设计，在其他不变的情况下，意味着的确是靠新型 CPU\n提升了性能，具有加强作用。\nD 项：不明确项。该项只是提及新型 CPU 对于占据市场份额的优势，不代表能提升性能，不具有加强作用。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第76题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-077",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2011—2018 年，国家财政赤字的变化趋势为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不断缩小"
+      },
+      {
+        "label": "B",
+        "content": "与国家财政收入的变化趋势相反"
+      },
+      {
+        "label": "C",
+        "content": "不断扩大"
+      },
+      {
+        "label": "D",
+        "content": "先扩大后缩小"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：75%，易错项：A。\n\n解析\n\n第一步，确定题型。\n根据提问方式中的“削弱”，确定为削弱论证。\n第二步，找论点和论据。\n论点：基因编辑婴儿已健康出生。\n论据：人类基因中的某个片段会在细胞表面产生一种特殊的受体蛋白，因为它的存在，使得流感病毒得意侵袭细\n胞；通过对这段基因进行编辑，使得人体不再生成这种受体蛋白，从而可以免疫流感。\n第三步，辨析选项。\nA 项，无关选项。题干中讨论的是基因编辑婴儿是否能健康出生，A 选项强调的是基因编辑婴儿的存活率，论题\n不一致，排除。\nB 项，无关选项。题干讨论的是通过编辑基因使得人体不再产生受体蛋白，从而预防流感，B 选项并未提及编辑\n基因的效果，论题不一致，排除。\nC 项，补充反面论据。基因变异极快，即使对这段基因进行编辑可以免疫流感，但是新的病毒仍然可以侵袭其他\n受体蛋白，使得人体受到病毒侵袭，具有削弱作用。\nD 项，无关选项。选项讨论的是对编辑基因这项研究的评价，与题干所讨论的作用无关，论题不一致，排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第77题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-078",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年，上表所列国家税收收入的税种中，按税收收入同比增速从高到低排序，正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "企业所得税＞国内增值税＞个人所得税＞国内消费税＞关税"
+      },
+      {
+        "label": "B",
+        "content": "个人所得税＞企业所得税＞国内增值税＞国内消费税＞关税"
+      },
+      {
+        "label": "C",
+        "content": "企业所得税＞个人所得税＞国内增值税＞关税＞国内消费税"
+      },
+      {
+        "label": "D",
+        "content": "个人所得税＞国内消费税＞企业所得税＞国内增值税＞关税"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：59%，易错项：C。\n\n解析\n\n第一步，确定题型。\n题干具有信息匹配特征，确定为分析推理。\n\n- 15 -\n\n\f获取试卷更新，请关注\n第二步，分析条件，进行推理。\n已知每人只答对了一半。假设甲说的 4 号是巴厘岛为真，则丁说的两句话均为假，与已知矛盾。故甲说：4 号是\n巴厘岛为假，则 5 号是塞舍尔为真。乙说：5 号是塔希提岛为假，2 号是塞班岛。丙说：2 号是塞舍尔为假，4 号\n是帕劳为真。丁说：4 号是塞班岛为假，3 号是巴厘岛为真。戊说：5 号是塞舍尔为假，1 号是巴厘岛为真。\n巴厘岛、塞舍尔、塔希提岛、塞班岛、帕劳的顺序是 35124。\n因此，D 选项正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第78题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-079",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2011—2016 年，中央税收收入年均增速约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6.2%"
+      },
+      {
+        "label": "B",
+        "content": "7.1%"
+      },
+      {
+        "label": "C",
+        "content": "7.6%"
+      },
+      {
+        "label": "D",
+        "content": "7.9%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：71%，易错项：B。\n\n解析\n\n”，确定为原因解释。\n\n第一步，确定题型。\n根据提问方式“如果下列选项为真，最能解析上述看似矛盾的现象是\n第二步，分析题干。\n74%的被调查者表示赞成购买国产化妆品，但是当问及这些被调查者是否都购买国产化妆品自用，却有 70%的人\n表示“没有”。\n第三步，辨析选项。\nA 项，选项说的是欧美化妆品的优势，没有提及对国产化妆品的态度，不能解释为什么愿意购买国产而不自用的\n现象，排除；\nB 项，大部分购买者购买自用化妆品时，主要考虑功效及自身情况，不大考虑产地的话，不能解释购买了国产化\n妆品但不自用的现象，排除；\nC 项，购买国产化妆品的消费者中，70%的人将其作为礼物送人，也就能解析 74%的购买者中有 70%的人没有自用，\n是因为将其送人了，因此没有自用，可以解释；\nD 项，1000 元以内用来购买化妆品，解释不了为何自己用的少。排除。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第79题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-ziliao-2020-080",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上表，下列说法正确的有（ ）个。 （1）2011—2018 年，中央财政支出占国家财政支出比重逐年降低 （2）2011—2018 年，地方财政收入均超过 6 万亿元 （3）与 2011 年相比，2018 年中央财政收入的增幅小于国家财政收入的增幅",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "0 - 11 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：46%，易错项：C。\n\n解析\n\n第一步，确定题型。\n题干有若干论断和真假限定，确定为真假推理。\n第二步，找关系。\n（1） 每个嫌疑人都指控两外两人中的一人为真凶，但是没说谁指控谁。\n（2）甲说了真话\n（3）没说乙说的是真话还是假话\n（4）说了丙说的是真话还是假话\n关于丙说话的真假，老赵已经忘了。\n根据（1）（2）可知，（5）甲指控乙或丙为真凶。\n假设乙说的是真话，根据（1）可知。（6）乙指控甲或丙为真凶。由（5）（6）可推出：乙说真话，丙是真凶。\nB、D 选项都成立。故排除这一假设。\n乙说假话（乙指控甲或丙为真凶为假话），真凶不是甲不是丙，真凶是乙。\n假设丙说的是真话，根据（1）可知，（7）丙指控乙或甲是真凶。由（5）（7）可推出啊：丙说真话，真凶是乙。\n假设丙说假话（丙指控乙或甲是真凶为假话）。凶手不是甲不是乙，真凶是丙。即丙说假话，真凶是丙。CD 选\n项都成立，故排除这一假设。\n故乙说假话，真凶是乙；丙说真话，真凶是乙。\n因此，选择 A 选项。\n\n- 16 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第80题",
+    "region": "shenzhen"
+  }
+]

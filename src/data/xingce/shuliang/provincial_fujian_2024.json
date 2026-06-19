@@ -1,0 +1,355 @@
+[
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两工厂共同完成某个生产订单需要12天。现两工厂共同生产8天后，再由乙单独生产7天，一共完成了订 单总量的90%。若整个订单由乙单独生产，那么需要多少天完成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "23"
+      },
+      {
+        "label": "C",
+        "content": "26"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，甲、乙两工厂的工作效率满足：8（甲+乙）+7 乙=12（甲+乙）×90%，整理可得甲、乙两\n工厂的工作效率之比为 3：2。赋值甲的工作效率为 3，乙的工作效率为 2，则该订单的工作总量为\n\n12×（3+2）=60，故所求为\n\n天。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考fujian行测第61题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "企业将12个技术培训名额分配给甲、乙、丙三个研发团队。要求乙团队分配的培训名额比甲团队少，但比丙团 队多，且每个团队至少分配1个名额。问有多少种不同的分配方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干条件，各团队分配的培训名额甲>乙>丙，采用枚举法，情况如下： \n\n由上表可知，共有 7 种不同的分配方式。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第62题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一块直角三角形绿地的三边均铺有长度为整数米的水管，其中一条直角边外的水管长7米。若在水管上随机任 选1个点做标记，则该标记点在斜边上的概率在以下哪个范围内？（忽略水管直径）",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于0.35"
+      },
+      {
+        "label": "B",
+        "content": "B.在0.35~0.42之间"
+      },
+      {
+        "label": "C",
+        "content": "在0.42~0.50之间"
+      },
+      {
+        "label": "D",
+        "content": "D.大于0.50 第 10 页，共 21 页"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，若直角三角形一条直角边为 a，a=7 米，设另外一条直角边为 b，斜边长为 c，根据勾股\n\n定 理 可 知\n\n， 即 （c+b ） ×（ c-b ） =49×1 ，可 得 ：c+b=49······ ①，c-\n\nb=1······②，联立①②两式，解得：b=24 米，c=25 米。根据公式：概率\n\n若在水管上随机任选 1 个点做标记，则该标记点在斜边上的概率为\n\n在 C 项范围内。 \n故正确答案为 C。 \n\n，\n\n，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考fujian行测第63题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "运动会招募志愿者，第一次招募了不到100人，其中男女比例为11：7；补招若干女性志愿者后，男女比例变为 4：3。问最多可能补招了多少名女性志愿者？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据“男女比例为 11：7”“补招若干女性志愿者后，男女比例变为 4：3”可知，男生人数既是 11\n的倍数，又是 4 的倍数，男生人数为 44n。结合“第一次招募了不到 100 人”可知，男生人数是 44\n\n \n \n \n \n \n\f人，原来女生人数为 44÷11×7=28 人；补招后女生人数变为 44÷4×3=33 人。可知女生最多可能补\n招人数为 33-28=5 人。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第64题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "部队射击比赛中，5名参赛的战士共击中了88次目标。已知任意2人击中的目标数量均互不相同，问射击成绩排 前两名的战士至少击中了多少次目标？",
+    "options": [
+      {
+        "label": "A",
+        "content": "37"
+      },
+      {
+        "label": "B",
+        "content": "39"
+      },
+      {
+        "label": "C",
+        "content": "58"
+      },
+      {
+        "label": "D",
+        "content": "82"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，要使排前两名的战士击中的次数尽可能少，则其他战士击中的次数要尽可能多。设第二\n名击中 x 次，又因任意 2 人击中的目标数量均互不相同，可得击中次数如下： \n\n根据“5 名战士共击中了 88 次目标”，可列式：x+1+x+x-1+x-2+x-3=88，解得 x=18.6，则第二名至\n少击中 19 次目标，第一名为 x+1=20 次，可得前两名至少击中了 20+19=39 次目标。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第65题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某校园围墙外的道路形成一个边长为300米的正方形（如图所示），甲、乙两人分别从正方形的两个对角沿逆 时针方向同时出发，甲、乙的步行速度比为9：7。问甲、乙两人第一次处于同一条边是在哪一条边上？",
+    "options": [
+      {
+        "label": "A",
+        "content": "AB"
+      },
+      {
+        "label": "B",
+        "content": "BC"
+      },
+      {
+        "label": "C",
+        "content": "CD"
+      },
+      {
+        "label": "D",
+        "content": "DA"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，设甲的速度为 9v，则乙的速度为 7v。甲、乙初始路程差为 CD+DA=300+300=600 米，若甲、\n\n乙两人第一次处于同一条边，即两人路程差\n\n米。根据追及公式：\n\n，当甲与乙\n\n相差 300 米时，可列式：300=（9v-7v）×t，解得 vt=150，则此时甲所走路程=9v×t=1350 米（走\n完一圈 300×4=1200 米多 150 米），甲在 CD 中点；此时乙所走路程=7v×t=1050 米（还差 150 米走\n\n完一圈），乙在 DA 中点。因\n\n，故当甲到达 D 点时，乙未到达 A 点，此时甲、乙两人均在\n\nDA 边，且为第一次处于同一条边。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考fujian行测第66题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2024/q066.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个白色圆柱体零件的底面半径是高的1.5倍，现将其表面涂上黑漆之后，沿下图所示虚线方向切割为4个完全 相同的部分。问单个部分的黑色面积是白色面积的多少倍？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1.1倍"
+      },
+      {
+        "label": "B",
+        "content": "1.1-1.2倍之间"
+      },
+      {
+        "label": "C",
+        "content": "1.2-1.3倍之间"
+      },
+      {
+        "label": "D",
+        "content": "1.3倍以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根 据 题 意 ， 赋 值 该 圆 柱 零 件 高 为 2 ， 则 底 面 半 径 为 3 ，\n\n； 切 割 后 单 个 部 分 如 图 所 示 ， 其 黑 色 面 积\n\n， 其 白 色 面 积\n\n， 则 所 求 倍 数 为\n\n倍，在 B 项范围内。 \n\n \n \n \n \n\f故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第67题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2024/q067.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个半径300米的圆形湖泊中有一个半径100米的圆形人工岛，该人工岛的中心在湖泊中心的正西方150米处。 甲从湖正北的A点开船出发，绕行人工岛西侧到达正南的B点。如果保持最短路线行驶，那么行驶多少米后甲到 达人工岛的岸边？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "如下图所示，要保持最短路线行驶，甲开船行驶的路线为线段AC-弧线CD-线段DB，其中线段AC、DB与圆形人工岛相切。则甲从A点开船出发至到达人工岛岸边的路线为线段AC，根据勾股定理可知，，且，则，即。\n\n故正确答案为C。\n\n[来源 baijing1.top paperId=343 sort=68 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第68题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2024/q068.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某单位从所有职工中选出若干人参加培训，如果选择4人，可能的选择方式正好是选择3人时的10倍，问该单位 有多少名职工？",
+    "options": [
+      {
+        "label": "A",
+        "content": "32"
+      },
+      {
+        "label": "B",
+        "content": "33"
+      },
+      {
+        "label": "C",
+        "content": "42"
+      },
+      {
+        "label": "D",
+        "content": "43"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设 该 单 位 有 x 名 职 工 ， 根 据 题 意 可 知 ：\n\n， 即\n\n故正确答案为 D。 \n\n，解得 x=43。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第69题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2024-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "从甲地到乙地的全价机票为2000元，购买全价或折扣机票，每张都要支付120元税费，从甲地到乙地的高铁票 价为680元，企业要安排20人当日从甲地前往乙地出差，单程总预算不超过2万元，已知当日高铁票、机票都充 足，2折、3折和5折机票分别还剩余2张、3张和5张，其余为全价机票，问在预算范围内最多能安排多少人乘飞 机前往乙地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11"
+      },
+      {
+        "label": "B",
+        "content": "12 B.D.14"
+      },
+      {
+        "label": "C",
+        "content": "13"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题干要求预算范围内安排乘飞机前往乙地的人数最多，结合选项可知乘飞机的人数大于折扣机票的\n剩 余 张 数 2+3+5=10 张 ， 则 题 干 中 的 折 扣 机 票 应 全 部 购买 ， 购 买 折 扣 机 票 的 费 用 为\n2000×0.2×2+2000×0.3×3+2000×0.5×5+120×10=8800 元；设购买全价机票的人数为 n 人，根据\n\n \n \n \n \n \n\f题意可列方程：\n\n，解得\n\n，\n\n则 n=3 人。故在预算范围内最多能安排乘飞机前往乙地的人数为 10+3=13 人。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考fujian行测第70题",
+    "region": "fujian"
+  }
+]

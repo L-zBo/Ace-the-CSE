@@ -1,0 +1,567 @@
+[
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某口罩生产车间一月份生产口罩 100 万包，以后每个月都比前一个月按相同增长率增长，四月份生产 口罩 133.1 万包，这个增长率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10%"
+      },
+      {
+        "label": "B",
+        "content": "8%"
+      },
+      {
+        "label": "C",
+        "content": "6% 12"
+      },
+      {
+        "label": "D",
+        "content": "5%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设每月比前一个月的增长率为 r，根据公式：现期量\n。代入 A 项：\n\n化简为\n\n，可列式：\n\n，\n\n，满足条件且为唯一解。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第56题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学校组织学生分组参观红色教育基地，租赁了若干辆客车。其中，一辆大型客车可容纳 5 个小组， 一辆中型客车可容纳 3 个小组，大型客车比中型客车多容纳 16 个小组，那么至少租赁了大型客车和中型客 车各多少辆？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3；5"
+      },
+      {
+        "label": "B",
+        "content": "5；3"
+      },
+      {
+        "label": "C",
+        "content": "4；3"
+      },
+      {
+        "label": "D",
+        "content": "5；6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设租赁大型客车 x 辆，中型客车 y 辆，根据“大型客车比中型客车多容纳 16 个小组”，可得 5x-3y=16。\n方法一：把选项代入条件中验证：\nA 项：若 x=3，y=5，则 5x-3y=0，不满足条件，排除；\nB 项：若 x=5，y=3，则 5x-3y=16，满足所有条件，当选；\nC 项：若 x=4，y=3，则 5x-3y=11，不满足条件，排除；\nD 项：若 x=5，y=6，则 5x-3y=7，不满足条件，排除。\n方法二：x、y 均为整数，故 5x 尾数只能为 0 或 5，分情况讨论：\n当 5x 尾数为 0 时，解得 3y=5x-16 的尾数为 4，y 最小为 8，此时 x=8，无对应选项；\n当 5x 尾数为 5 时，解得 3y=5x-16 的尾数为 9，y 最小为 3，此时 x=5，对应 B 项。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第57题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "美术培训班有 3 名学员，他们的年龄满足以下条件：他们的年龄都是正整数；2 号学员的年龄是 1 号学 员年龄的一半；3 号学员比 2 号学员大 7 岁；3 名学员的年龄之和是不超过 70 的素数，且该素数的各位数 字之和为 13，那么这 3 位学员的年龄分别是多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12；6；13"
+      },
+      {
+        "label": "B",
+        "content": "20；10；17"
+      },
+      {
+        "label": "C",
+        "content": "24；12；19"
+      },
+      {
+        "label": "D",
+        "content": "30；15；22"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题为年龄问题，且选项给出三人具体年龄，优先考虑代入排除法。根据“3 名学员的年龄之和是不超\n\n过 70 的素数，且该素数的各位数字之和为 13”逐一代入选项。\n\nA 项，年龄之和为 12+6+13=31 岁，年龄和各位数字加和为 3+1=4≠13，排除；\nB 项，年龄之和为 20+10+17=47 岁，年龄和各位数字加和为 4+7=11≠13，排除；\nC 项，年龄之和为 24+12+19=55 岁，不是素数，排除；\nD 项，年龄之和为 30+15+22=67 岁，小于 70 岁且为素数，年龄和各位数字加和为 6+7=13，当选。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第58题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公路隧道长 1500 米，一辆公共汽车匀速从隧道通过，测得公共汽车从开始进入隧道到车身完全驶出 隧道用时 151 秒，整辆公共汽车完全在隧道里的时间为 149 秒，则公共汽车的车身长度和行驶速度分别为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8 米；5 米/秒"
+      },
+      {
+        "label": "B",
+        "content": "10 米；10 米/秒"
+      },
+      {
+        "label": "C",
+        "content": "10 米；15 米/秒"
+      },
+      {
+        "label": "D",
+        "content": "12 米；20 米/秒"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设公共汽车的长度为 L，速度为 v，根据火车过桥公式，完全通过桥时：\n\n；完全在\n\n桥上时：\n①+②可得 v=10 米/秒，将其代入①可得 L=10 米。\n\n。代入数据得：1500+L=v×151······①， 1500-L=v×149······②，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第59题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某高校今年共有 231 名本科毕业生被录取为硕士研究生。其中推荐录取人数比上年度减少 ，而考试录 取人数比上年度增加 ，总体录取人数比上年度高 10％，那么，这所高校今年推荐录取的研究生人数为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "40 人"
+      },
+      {
+        "label": "B",
+        "content": "45 人"
+      },
+      {
+        "label": "C",
+        "content": "50 人"
+      },
+      {
+        "label": "D",
+        "content": "55 人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：设上年度推荐录取的人数为 6x，考试录取的人数为 150y，根据题意可知，今年推荐录取的人\n\n数为 5x，考试录取的人数为 181y，则上年度录取的总人数为\n\n······①；\n\n今年录取的总人数为 5x+181y=231······②。联立方程组①②，解得 x=10，y=1，则今年推荐录取的\n研究生人数为\n\n人。\n\n方法二：根据考试录取的人数比上年度增加\n\n，可知上年度考试录取的人数为 150 的整数倍。上年\n\n度录取的总人数为\n\n人，则上年度考试录取人数小于 210 且是 150 的倍数，只能取 150 人。上\n\n年度推荐录取的人数=210-150=60 人，故今年推荐录取的研究生人数为\n\n人。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第60题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "19 个不同的正整数从小到大排序，总和为 191，则最大的数只能取：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18"
+      },
+      {
+        "label": "B",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据等差数列求和公式，最小的 19 个不同正整数（1-19）总和\n\n，要想\n\n19 个不同正整数总和为 191，只需求和时将 1-19 中最大的数 19 换为成 20 即可。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第61题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某企业有职工 240 人，其中 50 岁以上共有 60 人。该企业规定 50 岁以上的职工可以申请退休。为保持 总体规模不变，拟按职工总数 10%的比例引进高级技术工人，则 50 岁以上职工申请退休的比例为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "45%"
+      },
+      {
+        "label": "B",
+        "content": "40% 13"
+      },
+      {
+        "label": "C",
+        "content": "30%"
+      },
+      {
+        "label": "D",
+        "content": "25%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "“为保持总体规模不变，拟按职工总数 10%的比例引进高级技术工人”，可得退休人数=引进人数=240\n\n×10%=24 人。则 50 岁以上职工申请退休的比例\n\n。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第62题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "在一张纸上画出 6×6 的正方形格，······以 4 个连续正方形为一条边的纸条，问最多可以裁成 几条",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，要想纸条数量最多，其宽度要尽可地小，最小为 1 格，结果如下图所示。\n\n因此，最多可以裁成 8 条。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第63题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "如果 3 个学生一起报名，且 3 个学生都通过科目一考试，那么就可以减免 1 个学生的报名费。他们 3 人不能通过科目一考试的概率分别为 、 、 ，则减免 1 个学生报名费资格的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据“3人不能通过科目一考试的概率分别为、  、 ”，可知3个人能通过科目一考试的概率分别为、 、。则3个学生都通过科目一考试的概率为，即减免1个学生报名费资格的概率为。\n故正确答案为D。\n\n[来源 baijing1.top paperId=625 sort=64 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第64题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2023/q064.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "抛掷两颗质地均匀的骰子，记录向上的面出现的数字，那么这两个数字之和等于 8 的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "总情况数：抛掷质地均匀的骰子，朝上的数字有1-6共6种情况，所以抛掷两颗质地均匀的骰子，两个数字的排列顺序共6×6=36种情况。\n满足要求的情况数：抛掷两颗质地均匀的骰子，两个数字之和等于8，有（2，6）（3，5）（4，4）（5，3）（6，2）共5种情况。则所求概率。\n故正确答案为A。\n\n[来源 baijing1.top paperId=625 sort=65 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第65题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2023/q065.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "712934856 是一个包含 1 至 9 每个数字恰好一次的九位数，它具有以下特征：数字 1 至 6 在其中是从小 到大排列的，但是数字 1 至 7 不是从小到大排列的。则符合这种特征的九位数共有多少个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "336"
+      },
+      {
+        "label": "C",
+        "content": "432"
+      },
+      {
+        "label": "D",
+        "content": "504"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：根据“数字 1 至 6 在其中是从小到大排列的”，可知 1 至 6 这 6 个数字的排列顺序为 1 种；\n第二步：将数字 7 插入第一步六个数字产生的 7 个空里，由“数字 1 至 7 不是从小到大排列的”可得\n\n数字 7 不能放在数字 6 之后，因此只有 6 个空可以用，有 6 种情况；\n\n第三步：将数字 8 插入第二步七个数字产生的 8 个空里，有 8 种情况；\n第四步：将数字 9 插入第三步八个数字产生的 9 个空里，有 9 种情况；\n分步用乘法，因此总情况数=1×6×8×9=432。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第66题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "在一个 3×3 的表格（如下图所示）中，分别填入 5 个数字 0 和 4 个数字 1，若要求灰色方格中不能同 时填入数字 1，问有多少种填法：",
+    "options": [
+      {
+        "label": "A",
+        "content": "98"
+      },
+      {
+        "label": "B",
+        "content": "100"
+      },
+      {
+        "label": "C",
+        "content": "120"
+      },
+      {
+        "label": "D",
+        "content": "126"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：要求灰色方格中不能同时填入数字 1，考虑反向计算，即灰色方格中同时填入数字 1，还剩 1\n\n个数字 1 需填入白色方格中，有\n\n种填法。总情况为从 9 个方格中任选 4 个方格填入数字 1，其他方格\n\n填入数字 0，共有\n\n种填法，故灰色方格中不能同时填入数字 1 有 126-6=120 种填法。\n\n方法二：要求灰色方格中不能同时填入数字 1，不同的填法为：\n\n情况 1：灰色方格中填入 0 个数字 1，选 4 个白色方格中填入数字 1，有\n\n种填法；\n\n情况 2：灰色方格中填入 1 个数字 1，再选 3 个白色方格中填入数字 1，有\n\n种填法；\n\n情况 3：灰色方格中填入 2 个数字 1，再选 2 个白色方格中填入数字 1，有\n\n种填\n\n法；\n\n则共有 15+60+45=120 种填法。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第67题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2023/q067.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-014",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下列描述与所指节气对应正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "98"
+      },
+      {
+        "label": "B",
+        "content": "100"
+      },
+      {
+        "label": "C",
+        "content": "120"
+      },
+      {
+        "label": "D",
+        "content": "126"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查人文常识。\nA 项错误，汉朝董仲舒在《春秋繁露·阴阳出入上下》中说道：“至於仲春之月，阳在正东，阴在正西，\n\n谓之春分。春分者，阴阳相半也，故昼夜均而寒暑平。”\n\nB 项错误，“麦至是而始可收，稻过是而不可种”大意是有芒的麦子快收，有芒的稻子可种，对应的节\n\n气是芒种。\n\nC 项错误，古人云：阴极之至，阳气始生，日南至，日短之至，日影长之至，故曰“冬至”。意思是自\n\n冬至起，天地阳气开始兴作渐强，冬至一阳生、天地阳气回升，所以自古以来将冬至视为吉日。\n\nD 项正确，元代文人吴澄编著《月令七十二候集解》，他将一年二十四节气分成“七十二候”，每个节\n\n气分成三候。立冬三候为：“一候水始冰；二候地始冻；三候雉入大水为蜃。”\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第14题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "杂技团表演小猴骑小车，3 只小猴配 3 辆小车，要求每只小猴至少骑一次车但不能重复骑同一辆，最后 3 只小猴分别骑了 2，2，x 次，小车被骑了 1，3，y 次，则 x+y 的最大值为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由题可知 3 只小猴骑车的总次数=3 辆小车被骑的总次数，2+2+x=1+3+y，得 x=y。根据每只小猴至少骑\n一次车但不能重复骑同一辆，第三只小猴最多骑 3 次车，即 x=3，第三辆小车被骑的次数最多也为 3 次，即\ny=3，满足 x=y，则 x+y 的最大值为 6。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第68题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "向截面为如下形状的高为 H 的水杯内等速注水，直到注满为止，则杯中水量 v 与水深 h 的函数图像是 下图中哪一个？（四个选项中坐标系横轴表示水深 h，纵轴表示水量 v）",
+    "options": [
+      {
+        "label": "A",
+        "content": "函数图 h 随 v 的变化为先快后慢；"
+      },
+      {
+        "label": "B",
+        "content": "函数图 h 随 v 的变\n化为先慢后快；"
+      },
+      {
+        "label": "C",
+        "content": "函数图为 h 随 v 的增加而增加；"
+      },
+      {
+        "label": "D",
+        "content": "函数图为 h 随 v 的增加而减少。故只有 A 项符合题\n意。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "18\n\n\f观察水杯可知，水杯上面较宽，下面较窄。由于等速注水，所以随水量 v 增加，截面积与高成反比，\n水杯截面越大，水深 h 变化越慢。观察选项，A 项函数图 h 随 v 的变化为先快后慢；B 项函数图 h 随 v 的变\n化为先慢后快；C 项函数图为 h 随 v 的增加而增加；D 项函数图为 h 随 v 的增加而减少。故只有 A 项符合题\n意。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第69题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2023/q069.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2023-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下表给出了两个变量之间关系的部分观测数据： 那么下列四个图形中，最适合描述这两个变量之间关系的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据表格数据可知，随着 x 值自小变大，y 先变小后变大，且（-1，2）、（1，2）两点关于 y 轴左右\n\n对称，观察选项，只有 A 项符合要求。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2023年省考heilongjiang行测第70题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2023/q070.png"
+  }
+]

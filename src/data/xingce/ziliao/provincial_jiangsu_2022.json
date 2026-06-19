@@ -1,0 +1,705 @@
+[
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）“十三五”时期，我国航天发射次数占全球的比重为",
+    "options": [
+      {
+        "label": "A",
+        "content": "15%"
+      },
+      {
+        "label": "B",
+        "content": "20%"
+      },
+      {
+        "label": "C",
+        "content": "25%"
+      },
+      {
+        "label": "D",
+        "content": "30%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“‘十三五’时期······比重为”，结合材料时间为2016—2020年，可判定本题为现期比重问题。定位表格材料，可知“十三五”时期我国及全球的航天发射次数。根据公式：比重，可得“十三五”时期，我国航天发射次数占全球的比重。\n故正确答案为D。\n\n[来源 baijing1.top paperId=250 sort=111 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第111题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）下列国家或地区中，2017—2020 年发射数量年均增速为负的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "中国"
+      },
+      {
+        "label": "B",
+        "content": "美国"
+      },
+      {
+        "label": "C",
+        "content": "俄罗斯"
+      },
+      {
+        "label": "D",
+        "content": "欧洲"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“······2017—2020年发射数量年均增速······”，可判定本题为年均增长率问题。定位表格材料，可知2016年、2020年中国、美国、俄罗斯、欧洲的航天器发射数量。根据年均增长率公式：，可得年均增速为负即，故现期量＜基期量。观察发现只有俄罗斯满足该要求。\n因此2017—2020年发射数量年均增速为负的是俄罗斯。\n故正确答案为C。\n\n[来源 baijing1.top paperId=250 sort=112 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第112题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2016—2020 年全球主要国家或地区单次发射航天器的最大数量",
+    "options": [
+      {
+        "label": "D",
+        "content": "30% D.欧洲"
+      },
+      {
+        "label": "A",
+        "content": "大于 24 枚"
+      },
+      {
+        "label": "C",
+        "content": "小于 11 枚"
+      },
+      {
+        "label": "B",
+        "content": "大于 16 枚且不大于 24 枚 D.不小于 11 枚，且不大于 11 枚"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，看提问方式，本题属于选是题。\n第二步，找关键信息。\n①现实生活中；\n②受到前人信息的影响时，放弃自己原有的想法，跟着他人选择的现象。\n第三步，辨析选项。\nA项:小李递交求职信，招聘单位大都以他失业太久为理由而拒绝他，招聘单位在招人的时候并不会彼此交流也没有\n受到前人信息的影响，不符合“放弃自己原有的想法，跟着他人选择的现象”，不符合定义；\nB项:不爱吃辣的胡先生跟着几位湖南同事进了一家湘菜馆，只是说他不爱吃辣，并没有体现他原来想吃什么，不符\n合”放弃自己原有的想法”，不符合定义；\nC项:消费者受明星影响，重新接纳之前认为过时的服装款式，符合“放弃自己原有的想法，跟着他人去选择”，符\n合定义；\nD项:该厂外壳酷似史前巨型昆虫的办公椅，在市场上收到喜爱，成为畅销的椅子，并没有体现消费者受到“前人信\n息的的影响”，也没有体现“放弃自己的想法，跟着他人选择”，不符合定义。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第113题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）下列饼图中，能正确反映对应年份中国、美国、俄罗斯及其他国家和地区航天器发射数量占 比关系的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······占比关系的是”，结合材料给出相应年份数据，可判定本题为现期比重问题。定位统计表材料，可知2016-2019年全球、中国、美国、俄罗斯航天器发射数量。结合选项，各年份情况如下：\n2016年：中国航天器发射数量大于俄罗斯，A项不符合，排除；\n2017年：美国航天器发射数量大于俄罗斯，B项不符合，排除；\n2018年：中国航天器发射数量占比，C项不符合，排除。\n故正确答案为D。\n\n[来源 baijing1.top paperId=250 sort=114 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第114题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2022/q114.png"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）不能从上述资料中推出的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017—2020 年全球航天器发射数量增速最慢的是 2018 年"
+      },
+      {
+        "label": "B",
+        "content": "2017—2020 年俄罗斯与美国发射航天器的数量差距逐年增大 B.2021 年 1—7 月、某市累计客运量 97638 万人"
+      },
+      {
+        "label": "C",
+        "content": "2016—2020 年中国单次发射航天器的平均数量大于 2 枚"
+      },
+      {
+        "label": "D",
+        "content": "2019 年全球主要国家或地区中发射航天器数量增速最快的是俄罗斯 D.第 18 页 共 21 页 2021 年 1—6 月某市轨道交通与公共汽电车客运量及同比增速"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，看提问方式，本题属于选是题。\n第二步，找关键信息。\n①多年前网络上发布的各种文字、图片、影像等资料；\n②重新查看或考证，从中发现有价值的信息。\n第 38 页 共 45 页\n第三步，辨析选项。\nA项：十多年前在社交软件上的好友、大学图书馆的借书记录、当年在各种网站的帖文，符合“多年前网络上发布\n的各种文字、图片、影像等资料”，都翻了出来，符合“重新查看或考证”，为了写一篇回忆大学生活的散文，符\n合“从中发现有价值的信息”，符合定义；\nB项：都储存在了网络云相册里，并不是发布在网络上，没有体现“多年前网络上发布的各种文字、图片、影像等\n资料”，不符合定义；\nC项：从公司报废的硬盘中恢复出，不符合“网络上发布”，不符合定义；\nD项：多年前，网络上进行了一场“三星堆起源”的大辩论，符合“多年前网络上发布的各种文字、图片、影像等\n资料”，但是辩论的参与者老张回想起当年，只是回想，并未重新查看或考证，不符合“重新查看或考证，从中发\n现有价值的信息”，不符合定义。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第115题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2021 年一季度，该市公共汽电车月平均客运量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5223 万人"
+      },
+      {
+        "label": "B",
+        "content": "5568 万人"
+      },
+      {
+        "label": "C",
+        "content": "5612 万人"
+      },
+      {
+        "label": "D",
+        "content": "5911 万人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查现期平均数计算中的单平均数。\n第二步，定位柱状图。\n第三步，根据平均数= ，2021年第一季度公共汽电车月平均客运量为2021年1到3月客运量的总和除\n以3个月份，故平均值= ，观察选项出现首位相同，第二位不同的情况，将分子中最大数据\n截取前三位其余数据舍相同处理，可得 = ，计算商前两位为52，与A选项最为接近。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第116题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2021 年 1—7 月，该市客运量增速最大的客运方式是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "公共汽电车"
+      },
+      {
+        "label": "B",
+        "content": "轨道交通"
+      },
+      {
+        "label": "C",
+        "content": "出租车"
+      },
+      {
+        "label": "D",
+        "content": "轮渡"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查增长率读数比较。\n第二步，定位文字材料，“2021年1—7月……其中，公共汽电车客运量37465万人，增长33.4%；轨道交通客\n运量55863万人，增长46.7%；出租车客运量4175万，增长36.5%；轮渡客运量135万人，增长42.1%”。\n第三步，题干中所求增速最大即增长率最大，公共汽电车（33.4%）、轨道交通（46.7%）、出租车（36.5%）、\n轮渡（42.1%），故轨道交通客运量增速最大。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第117题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2021 年上半年，该市轨道交通客运量占全市客运量比重最大的月份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3月"
+      },
+      {
+        "label": "B",
+        "content": "4月"
+      },
+      {
+        "label": "C",
+        "content": "5月"
+      },
+      {
+        "label": "D",
+        "content": "6月"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2021年上半年······占······比重最大的月份是”，可判定本题为现期比重问题。定位文字材料可得：2021年1—6月，出租车客运量分别为576万人、472万人、659万人、666万人、651万人和630万人。定位统计图可知，2021年1-6月某市轨道交通与公共汽电车客运量。全市客运量=公共汽电车客运量+轨道交通客运量+出租车客运量+轮渡客运量。根据公式：比重，即，由于轮渡客运量和其他客运量相比起来非常小，可忽略。要想比较的大小，可以直接比较的大小。代入数据可知，3月：；4月：；5月：；6月：。比较可知，2021年上半年，该市轨道交通客运量占全市客运量比重最大的月份是3月。\n故正确答案为A。\n\n[来源 baijing1.top paperId=250 sort=118 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第118题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2021 年二季度，该市出租车客运量比一季度多：",
+    "options": [
+      {
+        "label": "C",
+        "content": "16.8%"
+      },
+      {
+        "label": "B",
+        "content": "14.1%"
+      },
+      {
+        "label": "A",
+        "content": "12.4%"
+      },
+      {
+        "label": "D",
+        "content": "6 月 D.17.2%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第 39 页 共 45 页\n第一步，本题考查增长率计算。\n第二步，定位文字材料，“2021年1—6月，出租车客运量分别为576万人、472万人、659万人、666万人、\n651万人和630万人”。\n第三步，根据增长率= ，代入数据可得所求增长率为\n，选项首位相同第二位不同，分母从左向右截取前三\n位，分子舍相同， ，直除首两位商14，与B选项最接近。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第119题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2021 年 6 月，该市公共汽电车客运量环比下降超过 5.0%"
+      },
+      {
+        "label": "B",
+        "content": "2021 年 7 月，该市轨道交通客运量同比增速高于 46.7%"
+      },
+      {
+        "label": "C",
+        "content": "2020 年 1—7 月，该市公共汽电车客运量不足 25000 万人"
+      },
+      {
+        "label": "D",
+        "content": "2021 年 6 月，该市轨道交通客运量比公共汽电车多 2000 万人以上 第 19 页 共 21 页"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查综合分析问题，且需选出说法正确的一项。\n第二步，A选项，减少率计算。定位图形材料，“公共汽电车2021年5月、6月客运量分别为5665万人、5491\n万人”； 根据减少率= ，将数据截位代入可得 ≈3.1%，环比下降未超过5%，\n错误。\nB选项，混合增长率计算。定位文字材料和柱状图材料，“2021年1—7月，某市累计客运量97638万人，同比\n增长40.8%。其中......轨道交通客运量55863万人，增长46.7%”；观察柱状图1—6月的每月同比增速，只有1\n月最低为9.9%，其余5个月份增速均较高，最小者为60.3%；根据混合增长率口诀，整体增长率介于部分增长率\n之间，且偏向于基期量较大一方，2—6月总量远高于1月，因此整体增速应接近60.3%，即1—6月同比增速应\n高于46.7%。已知1—7月同比增速46.7%，则7月同比增速低于46.7%，错误。\nC选项，基期量计算。定位文字材料，“2021年1—7月、某市累计客运量97638万人，同比增长40.8%。其中，\n公共汽电车客运量37465万人、增长33.4%”；根据基期量计算公式，基期量\n= ，大于25000万人，错误。\nD选项，简单和差计算。定位图形材料，“2021年6月轨道交通客运量与公共汽电车客运量分别为8357万人、\n5491万人”，8357-5491=2866万人，多2000万人以上，正确。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第120题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）“十三五”时期，我国住房公积金实缴余额年均增量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.39 万亿元"
+      },
+      {
+        "label": "B",
+        "content": "0.43 万亿元"
+      },
+      {
+        "label": "C",
+        "content": "0.54 万亿元"
+      },
+      {
+        "label": "D",
+        "content": "0.65 万亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查增长率计算。\n第二步，定位文字材料“（2020年）全省战略性新兴产业产值增长11.0%，快于规模以上工业5.5个百分点。其\n中新能源汽车、数字创意、新能源和高端装备制造业的产值增速分别为21.0%、19.8%、15.6%和15.5%”。\n第三步，通过文段可知2020年数字创意产值增速为19.8%，规模以上工业产值增速为11%-5.5%=5.5%，前者比\n后者高19.8%-5.5%=14.3%，即高14.3个百分点。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第121题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2020 年我国实缴职工的人均实缴住房公积金为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.50 万元"
+      },
+      {
+        "label": "B",
+        "content": "1.61 万元"
+      },
+      {
+        "label": "C",
+        "content": "1.71 万元"
+      },
+      {
+        "label": "D",
+        "content": "1.87 万元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查现期平均数计算中的单平均数。\n第二步，定位文字材料“（2020年）其中属于战略性新兴产业的中药材种植业种植面积1.8万公项，实现产值32\n亿元”。\n第 40 页 共 45 页\n第三步，根据平均数= ，可知2020年江苏中药材种植业平均每公顷产值为 万元，直除首两位商17，只\n有D选项符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第122题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）设 2020 年我国住房公积金实缴额、实缴余额、实缴职工人数、实缴单位数的增速分别为 、 、 、 ，则下列关系正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······2020年······增速······则下列关系正确的是”，可判定本题为一般增长率问题。定位统计表和统计图，可得2020年我国住房公积金实缴额、实缴余额、实缴职工人数、实缴单位数分别为2.62万亿元、7.30万亿元、1.53亿人、365万个；2019年我国住房公积金实缴额、实缴余额、实缴职工人数、实缴单位数分别为2.37万亿元、6.54万亿元、1.49亿人、322万个。根据公式：增长率，可得、、、，即。\n故正确答案为A。\n\n[来源 baijing1.top paperId=250 sort=123 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第123题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2022/q123.png"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2016—2020 年我国住房公积金实缴职工人数年增长超过 4%的年份个数是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查基期量计算。\n第二步，定位文字材料“（2020年）全省网上零售额10602亿元，增长10.0%。其中，实物商品网上零售额增长",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第124题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2022/q124.png"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020 年我国住房公积金实缴余额小于 2019 年"
+      },
+      {
+        "label": "B",
+        "content": "2019 年我国住房公积金实缴单位数增速大于 2018 年 B.2021 年上半年，我国进口集成电路 3123 亿块，同比增长 28.4%；进口额 1979 亿美元，增长 28.3%。出口"
+      },
+      {
+        "label": "C",
+        "content": "2020 年我国住房公积金实缴单位的平均人数不足 40 人"
+      },
+      {
+        "label": "D",
+        "content": "2016—2020 年我国住房公积金实缴额年增量均超过 2000 亿元 D.集成电路 1514 亿块，增长 34.5%；出口额 664 亿美元、增长 32.0%。 第 20 页 共 21 页"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查综合分析问题，且需选出可推出的一项。\n第二步，A选项，现期比重计算。定位文字材料“2020年江苏省……“三新”经济增加值25177亿元……占全省地\n区生产总值的比重为24.5%”。根据整体量= ，2020年江苏省地区生产总值为 ＞10（万亿元），\n可推出。\nB选项，混合增长率比较。定位文字材料“（2020年）江苏全省网上零售额10602亿元，增长10.0%。其中，实\n物商品网上零售额增长13.9%”。根据混合增长率比较口诀，整体增长率介于部分增长率之间，可得非实物商品网\n上零售额增速＜全省网上零售额增速（10.0%）＜食物商品网上零售额增速（13.9%），则非实物商品网上零售额\n增速＜13.9%，不可推出。\nC选项，两期比重比较。定位文字材料“（2020年）江苏高技术服务业营业收入增长14.1%，占规模以上服务业\n的比重为37.9%，提高2.4个百分点”。根据两期比重比较口诀，分子增速a＞分母增速b，比重上升；反之，则\n第 41 页 共 45 页\n下降。根据比重上升，可得分子增速a（高技术服务业）＞分母增速b（规模以上服务业），即2020年江苏高技\n术服务业营业收入增长速度快于规模以上服务业，不可推出。\nD选项，混合增长率比较。定位文字材料。材料未给出各个部分的具体量，则只可求出三个部分平均增长率的范围，\n无法求得三个部分平均增长率的具体数据，不可推出。\n因此，选择A选项。\n拓展\n多个部分+平均增长率，求解的是混合增长率；时间段+平均增长率，求解的是年均增长率",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第125题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2021 年上半年，我国集成电路进口量的环比增速是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.8%"
+      },
+      {
+        "label": "B",
+        "content": "2.1%"
+      },
+      {
+        "label": "C",
+        "content": "3.5%"
+      },
+      {
+        "label": "D",
+        "content": "4.6%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2021年上半年······环比增速是”，结合选项是百分数，可判定本题为一般增长率问题。定位文字材料第一段可得：2021年上半年，我国进口集成电路3123亿块；定位统计图可得：2020年7—12月我国进口集成电路量分别为469亿块、443亿块、537亿块、485亿块、528亿块、555亿块。则2020年下半年，我国进口集成电路亿块；根据公式：增长率，代入数据，可得2021年上半年，我国集成电路进口量的环比增速，与C项最接近。\n故正确答案为C。\n\n[来源 baijing1.top paperId=250 sort=126 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第126题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）“十三五”时期，我国集成电路出口额的年均增量是：",
+    "options": [
+      {
+        "label": "C",
+        "content": "111 亿美元"
+      },
+      {
+        "label": "B",
+        "content": "95 亿美元"
+      },
+      {
+        "label": "A",
+        "content": "79 亿美元"
+      },
+      {
+        "label": "D",
+        "content": "4.6% D.139 亿美元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查年均增长量计算。\n第二步，定位表格最后一列“出口额”，2015年出口额691亿美元，2020年出口额1166亿美元。\n第三步，根据年均增长量 ，“十三五”时期指2016—2020年，五年规划求年均增长量，初\n期需要往前推一年，即初期是2015年，则“十三五”时期，我国集成电路出口额年均增量\n（亿美元）。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第127题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）十三五”时期，我国集成电路进口量、进口额、出口量、出口额中，年平均增长速度最快和 最慢的分别是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "进口量、出口量"
+      },
+      {
+        "label": "B",
+        "content": "进口量、进口额"
+      },
+      {
+        "label": "C",
+        "content": "进口额、出口量"
+      },
+      {
+        "label": "D",
+        "content": "进口额、进口量"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查增长率比较中的年均增长率比较。\n第二步，选项中未涉及出口额，故不考虑出口额。定位表格材料，2020年我国集成电路进口量为5549亿块，出\n口量为2698块，进口额为3500亿块。2015年我国集成电路进口量为3140亿块，出口量为1827亿块，进口额\n为2299亿美元。\n第三步，相差年数n相同，比较年均增长率，可比较 的大小。进口量、出口量、进口额的 分别为\n， ， ，直除首两位分别商17、14、15，故进口量年均增长率最快，出口量年均增长率最慢。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第128题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）2020 年 3-12 月，我国集成电路进、出口量相差最大的月份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7 月"
+      },
+      {
+        "label": "B",
+        "content": "9 月"
+      },
+      {
+        "label": "C",
+        "content": "11 月"
+      },
+      {
+        "label": "D",
+        "content": "12 月"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第 42 页 共 45 页\n第一步，本题考查简单计算中的和差比较。\n第二步，定位图形材料。\n第三步，结合选项，2020年7月我国集成电路进、出口量相差469-238=231，9月相差537-272=265，11月\n相差528-255=273，12月相差555-289=266，11月相差最大。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第129题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-ziliao-2022-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "（单选题）能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "“十三五”时期，我国集成电路出口额增量逐年增大"
+      },
+      {
+        "label": "B",
+        "content": "2020 年各月，我国集成电路进、出口量呈相同的变动走势"
+      },
+      {
+        "label": "C",
+        "content": "2021 年上半年，我国集成电路出口平均价格同比有所提高"
+      },
+      {
+        "label": "D",
+        "content": "2020 年下半年，我国集成电路进口量环比增速最快的月份是 9 月 第 21 页 共 21 页"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查综合分析题目，且需选出正确的一项。\n第二步，A选项，增长量比较。定位表格材料“出口额”，根据增长量=现期量－基期量，2019年出口额同比增量\n为1016－846=170，2020年同比增量为1166－1016=150，2020年同比增量低于2019年，并非逐年增大，\n错误。\nB选项，读数比较。定位图形材料，2020年5月我国集成电路进口量比上月下降，而出口量比上月上升，变化趋\n势不同，错误。\nC选项，两期平均数比较。定位文字材料，“2021年上半年，出口集成电路1514亿块，增长34.5%；出口额664\n亿美元，增长32.0%”，根据两期平均数比较口诀，分子增速高于分母增速，平均数高于上年，反之则下降，平均\n价格= ，出口额增速（32.0%）＜出口量增速（34.5%），低于上年，错误。\nD选项，增长率计算比较。定位图形材料“进口量”，增长率= ，比较增长率的大小，比较 即\n可，2020年下半年，即7—12月中，8月和10月环比下降，排除；7月、9月、11月和12月的 分别为\n、 、 、 ，9月和11月相比，9月分子大分母小，则分数最大，排除11月；9月和12月相比，\n分子相差不大，12月分母明显更大，则分数小，排除12月；7月和9月直除首两位分别商11和12，最大的是9\n月，环比增速最高，正确。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考jiangsu行测第130题",
+    "region": "jiangsu"
+  }
+]

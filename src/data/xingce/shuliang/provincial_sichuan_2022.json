@@ -1,0 +1,529 @@
+[
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某年级有甲、乙、丙三个班级，三个班级的期末考试平均成绩分别为 70 分、88 分和 74 分。若甲班和乙班的平均成绩为 78 分，乙班和丙班的平均成绩为 82 分。问该年级的期末 考试平均成绩为多少分？",
+    "options": [
+      {
+        "label": "A",
+        "content": "75"
+      },
+      {
+        "label": "B",
+        "content": "77"
+      },
+      {
+        "label": "C",
+        "content": "79"
+      },
+      {
+        "label": "D",
+        "content": "81"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 41 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第41题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某零件生产车间每天产量固定且目前有一定库存，车间用货车将库存零件运往买方仓库。 如每天运 24 车，5 天刚好运完；如每天运 18 车，8 天刚好运完。现每天运 x 车，4 天后 车间生产效率提高了 50%，又用了 7 天运完存货。问 x 可能的最小值为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18"
+      },
+      {
+        "label": "B",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 42 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第42题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "从甲地到乙地全程为 9 千米。其中前1/6为下坡路；剩下路程中，前2/3为平路，后1/3为 上坡路。小张从甲地到乙地，下坡路转平路、平路转上坡路时各休息 5 分钟，下坡路、平 路和上坡路的用时之比为 1：4：5(休息时间不计)。已知他走上坡路的速度为 2 千米/小时， 则其全程用时为： B",
+    "options": [
+      {
+        "label": "A",
+        "content": "2小时"
+      },
+      {
+        "label": "B",
+        "content": "2小时30分钟"
+      },
+      {
+        "label": "C",
+        "content": "2小时40分钟"
+      },
+      {
+        "label": "D",
+        "content": "3小时"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 43 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第43题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "如图所示的图形是一个由小正方体组成的大正方体，图中灰色部分的小正方体被挖去且 贯穿到对面，则剩下的部分有多少块小正方体？",
+    "options": [
+      {
+        "label": "A",
+        "content": "32"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "42"
+      },
+      {
+        "label": "D",
+        "content": "48"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题\n解析\n已知大正方体由 个小正方体组成。由题意可得，每一个灰色部分的小正方体被挖去\n且贯穿到对面，会挖去4个小正方体。如图所示，将8处灰色小正方体分别标记为A-H，\n正视图与俯视图重合部分的小正方体分别为AE、BD、CD，共3个；正视图与右视图重合\n部分分别为DF、EG、EH，共3个；俯视图与右视图重合部分为BF、BG、CH，共3个。\n由于BF与DF为重合部分，故被挖去的小正方体共4×8-3×3+1=24个，则剩余小正方体个\n数为64-24=40个。\n故正确答案为B。\n第",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第44题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2022/q044.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "张某参加甲、乙、丙三门课程的网络在线培训，培训学时分别为 28 学时、36 学时、40 学时。已知每门课程每天最多学习 2 学时，张某每天最多学习 2 门课程，问他最少需要多 少天完成 3 门课程的培训？ C B",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "28"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 45 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第45题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "一艘轮船在点 A 处测得灯塔 M 在北偏西，向北航行了 20 千米后到达 B 点，测得灯塔 M 在北偏西30°。此后该船继续向北航行，在到达灯塔正东方向 C 处时，轮船与灯塔 M 的 距离为多少千米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "10√3"
+      },
+      {
+        "label": "D",
+        "content": "20√3/3"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 46 题，题干匹配度 92%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第46题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "甲生产零件的效率比乙高 50%，1 小时内甲比乙多生产 8 个零件。现安排甲、乙共同生 产 1 小时，从生产的零件中抽取 3 件。问至少有 1 件是甲生产的概率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于 0.80"
+      },
+      {
+        "label": "B",
+        "content": "0.80~0.90 之间"
+      },
+      {
+        "label": "C",
+        "content": "0.90~0.95 之间"
+      },
+      {
+        "label": "D",
+        "content": "大于 0.95 B D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题\n解析\n根据甲比乙的效率高50%且每小时比乙多生产8个零件，可得50%×乙=8，则乙每小时生产\n16个零件，甲每小时生产16+8=24个零件，两人1小时共生产16+24=40个零件。正面情况\n较多可以从反面考虑，“从生产的零件中抽取3件，至少有1件是甲生产的”反面为没有1\n件是甲生产，即3件都是乙生产，满足条件的情况数为 种，总情况数为 种，根据概率\n，可得所求概率 ，在0.90~0.95之间。\n故正确答案为C。\n第",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第47题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "甲、乙、丙 3 名消费者在某餐厅排队，各自拿取两位数字的等位号。已知 3 个等位号的 个位数字和十位数字恰好由 1、2、3、4、5、6 六个不重复的数字组成，乙的等位号正好 与 3 人等位号的平均数相同，且甲的等位号数字最小。问三人的等位号组合有多少种不同 的可能性？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 48 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第48题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "商场 6 月 6 日开始销售某种电器，从 6 月 7 日起，每天这种电器的销量都比前一天多 1 台。已知 6 月 16 日卖了 22 台这种电器，问其 6 月共卖了多少台这种电器？ .690",
+    "options": [
+      {
+        "label": "A",
+        "content": "555"
+      },
+      {
+        "label": "B",
+        "content": "600"
+      },
+      {
+        "label": "C",
+        "content": "645"
+      },
+      {
+        "label": "D",
+        "content": "690"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 49 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第49题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "甲、乙两名游泳运动员同时从下游 A 点出发，游向 900 米外的上游 B 点并立刻原路返回。 甲游了 200 米时，乙游了 120 米。已知甲顺流游泳的速度是逆流的 1.8 倍，问两人迎面相 遇的地点距离 A 点多少米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "270"
+      },
+      {
+        "label": "B",
+        "content": "390"
+      },
+      {
+        "label": "C",
+        "content": "510"
+      },
+      {
+        "label": "D",
+        "content": "630"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】\n[Source: 四川 2022 下半年行测 PDF (gkzenti.cn 网友回忆版) 第 50 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第50题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某网店同时针对 A、B 两种商品开展促销活动，A 商品只按组销售，每组的价格保持 10 元不变，但每 组商品由 4 件增加到 5 件；B 商品的优惠活动则为买一送一。张某以 55 元的价格购买了原价总计 80 元的 A、B 离品各若干件，其中 A 商品的件数为 B 商品的 2 倍。问 B 离品原价为多少元/件?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.5"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "25"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，\n解析\n第一步，本题考查基础应用题。\n第二步，A商品优惠后相当于打8折，B商品优惠后相当于打5折，设A商品总额占比为x，B商\n品占比为y。原价80元商品优惠后55元，可列方程80×0.8×x+80×0.5×y=55（x十y），解\n得x：y=5：3，那么A商品原价50元，B商品原价30元，A商品共买20件，则B商品10件，\n那么单价3元。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第51题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "小王打算从 6 月某日开始每天进行在线学习。每 3 天学习一次语文，每 4 天学习一次数学，每 5 天 学习一次外语，已知小王 8 月 13 日学习语文，8 月 14 日学习数学，8 月 15 日学习外语。问他是从 6 月哪一天开始第一次学习的?",
+    "options": [
+      {
+        "label": "A",
+        "content": "6 月 12 日"
+      },
+      {
+        "label": "B",
+        "content": "6 月 13 日"
+      },
+      {
+        "label": "C",
+        "content": "6 月 14 日"
+      },
+      {
+        "label": "D",
+        "content": "6 月 15 日"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C。\n解析\n第一步，本题考查星期日期问题。\n第二步，选项与学习日即8月13一15日相差60天左右，而60是3、4、5的公倍数，故优先尝\n试60天。8月13日学习语文，那么60天前是6月14日（8月13天十7月31天十6月16天）。\n8月14日学习数学，那么60天前是6月15日（8月14天十7月31天十6月15天）。8月15\n日学习外语，那么60天前是6月16日（8月15天+7月31天+6月14天）故第一次学习是\n6月14日。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第52题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "在一块边长为 8 米的正方形草坪上架设了 5 个自动洒水器，洒水器的洒水半径为 2 米（如图所示）。 问草坪上同时被两个洒水器洒到水的区城（灰色）面积比没有洒到水的区城（黑色）面积:",
+    "options": [
+      {
+        "label": "A",
+        "content": "小不到 5 平方米"
+      },
+      {
+        "label": "B",
+        "content": "小 5 平方米以上"
+      },
+      {
+        "label": "C",
+        "content": "大不到 5 平方米"
+      },
+      {
+        "label": "D",
+        "content": "大 5 平方米以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，\n解析\n第一步，本题考查几何问题。\n第二步，设灰色中间的白色四边形面积为x，灰色面积为π2²-x，黑色面积为8-4π2-x，灰色\n比黑色：π2²-x-（8²-4π2²-x）=4π-x-64+16π+x=20π-64~62.8-64=-1.2平方米。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第53题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2022/q053.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "将 A、B 两个工程交给甲、乙两个工程队实施，已知 A 工程甲、乙合作需 14 小时完成，甲单独需 18 小时完成；B 工程甲、乙合作需 18 小时完成，乙单独需 30 小时完成。问如两个工程队同时开始工作且 在完成所有工程之前中途不休息，则完成时间最长和最短的实施方案，完成时间相差:",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 10 个时"
+      },
+      {
+        "label": "B",
+        "content": "10—15 小时之间"
+      },
+      {
+        "label": "C",
+        "content": "15—20 小时之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 20 小时"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，\n解析\n第一步，本题考查工程问题。\n第二步，A工程，14（甲+乙）=18甲，2甲=7乙，设甲的效率为7、乙的效率为2，A工程工程\n总量为18×7=126；B工程，18（甲+乙）=30乙，3甲=2乙，设甲的效率为2、乙的效率为3，B\n-20-\n20\n工程总量为30×3=90。\n第三步，时间最短的方案，甲做A工程、乙做B工程，甲18小时完成A，乙完成了B工程中18\nX3=54的工作量，B工程剩余90-54=36的工程量，此时甲乙合作还需36÷（2+3）=7.2小时，\n最短需要18+7.2=25.2小时。\n第四部，时间最长的方案，甲做B工程、乙做A工程，甲单独完成B工程需要90÷2=45小时，\n然后再去帮助乙完成A，总耗时一定大于45.2小时。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第54题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2022-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某科考队由 A、B 研究所分别抽调 5 人，C、D 研究所分别抽调 7 人组成，从每个研究所抽调的人员 中，男性均比女性多 1 人，现将整个科考队分成勘察、化验两个小组，要求每个小组中均包含 4 个研究 所的人且来自任意 2 个研究所的人数都不相同，问化验小组最少有几名男性成员?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4 第四部分 判断推理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B。\n解析（\n第一步，本题考查最值问题。\n第二步，A、B、C、D研究所各有3、3、4、4名男性，要使化验小组男性最少，化验小组分别从\nA、B、C、D抽调1、3、2、4人，则勘察小组分别抽调4、2、5、3人，此时男性最少为0+1+0+1=2\n人。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第55题",
+    "region": "sichuan"
+  }
+]

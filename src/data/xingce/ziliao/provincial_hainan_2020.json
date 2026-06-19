@@ -1,0 +1,353 @@
+[
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-051",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "图 2 中排名第二的省份，其人工智能企业数量的个数约是排名后四位的数量之和的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.3"
+      },
+      {
+        "label": "B",
+        "content": "12.3"
+      },
+      {
+        "label": "C",
+        "content": "12.8"
+      },
+      {
+        "label": "D",
+        "content": "13.3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：78%，易错项：C。\n\n解析\n\n第一步，本题考查现期倍数计算。\n第二步，定位图 2，人工智能企业数排名第二的是广东\n河南\n第三步，根据现期倍数公式，倍数=前/后，可得排名第二的省份其人工智能企业数量个数是排名后四位\n\n185 个），排名后四位的是广西（1 个），重庆\n\n5 个），辽宁\n\n6 个）\n\n（\n\n（\n\n（\n\n。\n\n的\n\n（\n\n3 个）\n\n，\n\n因此，选择 B 选项。\n\n倍。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考hainan行测第51题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-052",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2015 至 2018 年，中国人工智能市场规模同比增长率最高的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015 年"
+      },
+      {
+        "label": "B",
+        "content": "2016 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2018 年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：75%，易错项：C。\n\n解析\n\n第一步，本题考查增长率计算比较。\n第二步，定位图 1，2014—2018 年，中国人工智能市场规模数据分别为：51.7 亿元、70.2 亿元、100.6 亿元、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hainan行测第52题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-053",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年中国人工智能市场规模同比增长率与 2015 年相比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了 13.3 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "增加了 13.3 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "减少了 15.4 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "增加了 15.4 个百分点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：54%，易错项：B。\n\n解析\n\n第一步，本题考查增长率计算。\n第二步，定位图 1，2014—2017 年，中国人工智能市场规模数据分别为：51.7 亿元、70.2 亿元、100.6 亿元、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hainan行测第53题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-054",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "截至 2017 年底，中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "141.1 亿元"
+      },
+      {
+        "label": "B",
+        "content": "152.1 亿元"
+      },
+      {
+        "label": "C",
+        "content": "156.1 亿元"
+      },
+      {
+        "label": "D",
+        "content": "164.1 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：75%，易错项：C。\n\n解析\n\n第一步，本题考查直接读数。\n第二步，定位图 1，2017 年中国人工智能市场规模 152.1 亿元\n\n。\n\n- 12 -\n\n\f第三步，直接读数，截至 2017 年底中国人工智能市场规模为 152.1 亿元。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考hainan行测第54题",
+    "region": "hainan",
+    "questionImage": "/img/questions/provincial_hainan_2020/q054.png"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-055",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "若按照 2018 年同比增长率，到 2019 年底中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "363 亿元"
+      },
+      {
+        "label": "B",
+        "content": "371 亿元"
+      },
+      {
+        "label": "C",
+        "content": "373 亿元"
+      },
+      {
+        "label": "D",
+        "content": "383 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：53%，易错项：B。\n\n解析\n\n第一步，本题考查现期量计算。\n第二步，定位文字材料，“截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到 56.6%”。\n）\n第三步，根据现期量=基期量×\n=238.2＋238.2×56.6%≈238.2＋134.8=373（亿元）。\n因此，选择 C 选项。\n\n1+增长率），选项出现首两位相同，精确计算，代入数据可得 238.2×（1+56.6%\n\n（",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hainan行测第55题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-056",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 4 月，平台受理的价格咨询比价格举报约多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26146 件"
+      },
+      {
+        "label": "B",
+        "content": "27133 件"
+      },
+      {
+        "label": "C",
+        "content": "28627 件"
+      },
+      {
+        "label": "D",
+        "content": "29614 件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：50%，易错项：B。\n\n解析\n\n第一步，本题考查基期量和差计算。\n第二步，定位文字材料，“2019 年 5 月，价格举报 4192 件，环比下降 19.06%；价格咨询 31325 件，环比下降",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考hainan行测第56题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-057",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名第二的省份约是排名第九的省份的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "2.4"
+      },
+      {
+        "label": "C",
+        "content": "3.7"
+      },
+      {
+        "label": "D",
+        "content": "4.4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：78%，易错项：C。\n\n解析\n\n第一步，本题考查现期倍数计算。\n第二步，定位文字材料，“平台受理量排名前十的省份依次是北京\n件）、重庆\n2440 件）、浙江\n件）、广西（1309 件）”。\n第三步，读数可知，受理量排名第二的省份为江苏\n\n2469 件）、陕西\n\n2486 件）、河南\n\n（\n\n（\n\n（\n\n（\n\n（\n（\n\n5786 件）、江苏\n2321 件）、天津\n\n（\n（\n\n3528 件）、上海\n1571 件）、福建\n\n（ 9",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考hainan行测第57题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-058",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名前五的行业占受理总数的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "61.4%"
+      },
+      {
+        "label": "B",
+        "content": "56.3%"
+      },
+      {
+        "label": "C",
+        "content": "51.8%"
+      },
+      {
+        "label": "D",
+        "content": "46.5%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n，直除首位商 2。\n\n解析\n\n第一步，本题考查现期比重计算。\n售\n第二步，定位表格材料，“2019 年 5 月，平台受理量排名前五的行业分别是：停车收费\n2587 件），平台受理量合计为 37576 件”\n（3118 件）、交通运输\n第三步，根据比重=部分量/整体量，选项出现了首位相同第二位不同的情况，可将分母从左向右截取前三位，分\n子为加法考虑截位舍相同，可得 2019 年 5 月，平台受理量排名前五的行业占受理总数的比重约\n\n2686 件）和物业管理\n\n2730 件）、社会服务\n\n10043 件）、商品零\n\n（\n\n（\n\n（\n\n（\n\n为\n\n。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hainan行测第58题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-059",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，邮政通信行业的受理量比房地产业约少：",
+    "options": [
+      {
+        "label": "A",
+        "content": "41.9%"
+      },
+      {
+        "label": "B",
+        "content": "51.9%"
+      },
+      {
+        "label": "C",
+        "content": "61.9%"
+      },
+      {
+        "label": "D",
+        "content": "71.9%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：65%，易错项：B。\n\n，直除首两位商 56。\n\n解析\n\n第一步，本题考查减少率计算。\n第二步，定位表格材料，“2019 年 5 月，邮政通信行业受理 421 件、房地产业受理 1105 件”。\n第三步，根据减少率=（基期量－现期量）/基期量，选项首位不同，分母从左向右截取前二位，分子为减法考\n\n虑\n\n截位舍相同处理数据，可\n因此，选择 C 选项。\n\n得\n\n，直除首位商 6。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考hainan行测第59题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2020-060",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 5 月，平台受理价格举报、投诉、咨询总数约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26706 件"
+      },
+      {
+        "label": "B",
+        "content": "34376 件"
+      },
+      {
+        "label": "C",
+        "content": "41433 件"
+      },
+      {
+        "label": "D",
+        "content": "63366 件 第四部分 判断推理"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：60%，易错项：C。\n\n解\n\n析\n\n- 13 -\n\n\f第一步，本题考查基期量计算。\n第二步，定位第一段文字材料，“2019 年 5 月，全国 12358 价格监管平台受理价格举报、投诉、咨询共计 37576\n件，同比下降 40.7%”。\n第三步，根据基期量=现期量/（1+增长率），选项首位各不相同，可将分母从左向右截取前二位，则 2018 年 5\n\n月，平台受理价格举报、投诉、咨询总数约\n因此，选择 D 选项。\n\n为\n\n，直除首位商 6。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hainan行测第60题",
+    "region": "hainan"
+  }
+]

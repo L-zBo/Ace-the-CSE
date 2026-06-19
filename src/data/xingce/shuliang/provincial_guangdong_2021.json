@@ -1,0 +1,567 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-035",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、"
+      },
+      {
+        "label": "C",
+        "content": "D、 36、在某大型医院的建设过程中，施工单位调配了吊机、挖掘机和推土机共 120 台工程设备进场施工。其中，推 土机数量是吊机的 3 倍，挖掘机数量是吊机的 4 倍，则吊机有（ ）台。 A、18"
+      },
+      {
+        "label": "B",
+        "content": "15 C、12"
+      },
+      {
+        "label": "D",
+        "content": "10 37、某茶园需要在一定时间内完成采摘。前 4 天安排了 20 名采茶工，完成了五分之一的工作量。如果再用 10 天 完成全部采摘，至少还需要增加（ ）名采茶工"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：57%，易错项：D。\n解析\n第一步，本题考查非整数数列。\n121212 12\n第二步，观察分数数列中分母规律不明显，将分子进行通分，将各项写成为：12”18’24’30，分子均为12,\n12_1\n下一项仍是12；分母12、18、24、30，是公差为6的等差数列，下一项是36。因此原数列下一项是36一3。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第35题",
+    "region": "guangdong",
+    "meta": {
+      "invalid": true,
+      "reason": "content_pure_punct"
+    }
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-031",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "23，24，22，25，21，26，（ ），（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "19 28"
+      },
+      {
+        "label": "B",
+        "content": "20 27"
+      },
+      {
+        "label": "C",
+        "content": "26 21"
+      },
+      {
+        "label": "D",
+        "content": "32 39"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：93%，易错项：C。\n解析\n第一步，本题考查多重数列。\n第二步，观察数列有两个括号且项数较多，优先尝试多重数列。奇偶交叉看，奇数项为23、22、21，是公差为\n-1的等差数列，下一项为20；偶数项为24、25、26，是公差为1的等差数列，下一项为27。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第31题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-032",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "3，9，18，30，45，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "69"
+      },
+      {
+        "label": "B",
+        "content": "66"
+      },
+      {
+        "label": "C",
+        "content": "63"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：88%，易错项：B。\n解析\n第一步，本题考查多级数列。\n第二步，观察数列各项单调递增，优先做差，得到新数列6、9、12、15，为公差是3的等差数列，下一项是18。\n则原数列下一项是45+18=63。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第32题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-033",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "11，44，99，176，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "275"
+      },
+      {
+        "label": "B",
+        "content": "265"
+      },
+      {
+        "label": "C",
+        "content": "260"
+      },
+      {
+        "label": "D",
+        "content": "255"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：76%，易错项：B。\n解析\n第一步，本题考查多级数列。\n第二步，观察数列单调递增，优先选择做差求解。两两做差，后减前得到新数列33、55、77，是公差为22的等\n差数列，下一项是99。因此原数列下一项是176+99=275。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第33题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-034",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "389，569，479，587，299，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "845"
+      },
+      {
+        "label": "B",
+        "content": "787"
+      },
+      {
+        "label": "C",
+        "content": "673"
+      },
+      {
+        "label": "D",
+        "content": "668"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：73%，易错项：C。\n解析\n第一步，本题考查特殊数列。\n第二步，观察数列大小杂乱且都是三位数，考虑特殊数列中的数位组合。数列各项的百、十、个位数字加和均为\n20，那么下一项三个数字加和也应为20，只有D选项6+6+8=20，符合题意。\n- 9-\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第34题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "在某大型医院的建设过程中，施工单位调配了吊机、挖掘机和推土机共 120 台工程设备进场施工。其中，推 土机数量是吊机的 3 倍，挖掘机数量是吊机的 4 倍，则吊机有（ ）台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "18"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：75%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设吊机有x台，则推土机有3x台，挖掘机有4x台，有x+3x+4x=120，解得x=15。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第36题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某茶园需要在一定时间内完成采摘。前 4 天安排了 20 名采茶工，完成了五分之一的工作量。如果再用 10 天 完成全部采摘，至少还需要增加（ ）名采茶工。",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：54%，易错项：C。\n解析\n第一步，本题考查工程问题。\n第二步，设每名采茶工的效率均为1，则前4天完成了4×20=80的工作量，所以总量为80×5=400，还剩400\n-80=320的工作量。需要10天采完，每天需要320÷10=32名采茶工，还需要增加32一20=12（名）。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第37题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某帮扶项目以每公斤 9 元的价格从农民手中收购了一批苹果，并以每公斤 12 元（包邮）的价格在网上销售。 售出总量的 80%后，价格下调为每公斤 10 元（包邮）。运费成本为每公斤 0.1 元。全部售完后，扣除收购成本 和运费的总收益为 2.5 万元，则这批苹果为（ ）吨。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "20"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：58%，易错项：C。\n解析\n第一步，本题考查经济利润问题，属于基础公式类。\n第二步，设这批苹果有n公斤，根据利润=售价一成本，25000=12×80%n+10×（1-80%）n-9n-0.1n，解得n=10000。\n10000公斤=10吨（1吨=1000千克=1000公斤）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第38题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "上午 7 点，A、B 市干部同时乘车前往省城参观学习，汽车时速均为每小时 80 公里。但由于突发状况，B 市 干部在路上停留了 2 个小时。最终，A 市干部于当天上午 9 点到达省城；B 市干部于当天下午 3 点到达。则如果 从 A 市出发，途经省城到达 B 市，总路程为（ ）公里。",
+    "options": [
+      {
+        "label": "A",
+        "content": "720"
+      },
+      {
+        "label": "B",
+        "content": "640"
+      },
+      {
+        "label": "C",
+        "content": "320"
+      },
+      {
+        "label": "D",
+        "content": "280"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：62%，易错项：C。\n解析\n第一步，本题考查行程问题。\n第二步，速度为每小时80公里，A市干部上午9时到达，共走了2小时，所以A市距省城80×2=160（公里）；\nB市干部下午3小时到达，停留了2小时，所以行驶时间为6小时，B市距离省城80×6=480（公里）。\n第三步，从A市经省城到B市，总路程为160+480=640（公里）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第39题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一条长 20 厘米的纸带，先从左端开始涂上 4 厘米红色，之后每间隔 4 厘米再涂 4 厘米红色；再从右端开始 涂上 5 厘米绿色，之后每间隔 5 厘米再涂 5 厘米绿色，则红绿色重叠的部分共有（ ）段。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "1"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：53%，易错项：B。\n解析\n第一步，本题考查循环周期问题。\n第二步，红绿两色的涂色情况如图所示：\n红\n红\n红\n绿\n绿\n绿色与红色重叠部分共有2段。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第40题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某货运公司承运一批工艺品，每件运费 20 元。如果运输途中出现破损，那么每件破损的工艺品不仅收不到 运费，还要赔偿 30 元。运输完成后发现，工艺品的破损率为 6.4%，最终货运公司收到了 16800 元运费，则运输 途中破损的工艺品有（ ）件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "64"
+      },
+      {
+        "label": "B",
+        "content": "96"
+      },
+      {
+        "label": "C",
+        "content": "128"
+      },
+      {
+        "label": "D",
+        "content": "156"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：26%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设共有1000x件艺术品，则破损的艺术品为64x件。根据最终货运公司收到了16800元运费，有20×\n1000x一（20+30）×64x=16800，解得x=1，则破损的艺术品共有64件。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第41题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某学校组织学生外出学农。如果每间宿舍住 6 名学生，就会缺 7 张床位，如果每间宿舍住 8 名学生，就会空 出 3 张床位，则这批学生一共有（ ）人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "50"
+      },
+      {
+        "label": "B",
+        "content": "45"
+      },
+      {
+        "label": "C",
+        "content": "43"
+      },
+      {
+        "label": "D",
+        "content": "37"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：42%，易错项：C。\n-10 -\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设共有x间宿舍，根据学生人数不变可得6x+7=8x一3，解得x=5。\n第三步，共有学生6×5+7=37（人）。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第42题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "县公安局计划举办篮球比赛，6 支报名参赛的队伍将平均分为上午组和下午组进行小组赛。其中甲队与乙队 来自同部门，不能分在同一组，则分组情况共有（ ）种可能。",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：40%，易错项：C。\n解析\n第一步，本题考查排列组合，属于基础排列组合。\n第二步，考虑逆向思维解题，甲队与乙队不能分在同一组情况数=总情况数一甲队与乙队分在同一组情况数。总\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第43题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某县政府组织干部职工开展党建知识竞赛，其中甲、乙两镇参赛人数之比为 4∶3，甲镇有 8 人、乙镇有 24 人没有参加竞赛。已知甲、乙两镇干部职工人数之比为 5∶6，则乙镇的干部职工比甲镇多（ ）人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：33%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设甲镇参赛人数为4x，则乙镇参赛人数为3x，有（4x+8）：（3x+24）=5：6，解得x=8。故甲镇\n干部职工共有4×8+8=40（人），乙镇干部职工共有3×8+24=48（人），乙比甲多48一40=8（人）。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第44题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，周长为 24 米的平行四边形绿化地被划分为三块区域，两边为三角形的花坛，中间为矩形的草地。 已知 a、b、c 长度之比为 4∶2∶ ，则矩形草地的面积为（ ）平方米。 - 4 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：36%，易错项：B。\n解析\n第一步，本题考查几何问题。\n第二步，平行四边形周长为 24，则a+b=12，a:b：c=4：2：√3，可得a=8，b=4，c=2V3，所以m\n=4。易得边n、m、c构成一个角为30°的直角三角形，则n=m÷2=2，所以矩形的另一边长为a-n=8-2=6，\n面积为6X2V3=12V3。\na\nn\nC\nm\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第45题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2021-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中最符合所给图形规律的是： 第四部分 判断推理 47、下列选项中最符合所给图形图形规律的是： 48、下列选项中最符合所给图形规律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：76%，易错项：C。\n解析\n第一步，观察特征。\n题干图形较为规整，考虑对称性。\n第二步，一条式，从左到右找规律。\n题干中的图形均为轴对称图形，且对称轴方向依次为竖轴、横轴、竖轴、横轴交替出现，所以问号处应该选择竖\n轴对称的图形，观察选项，只有B项符合。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第46题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q046.png"
+  }
+]

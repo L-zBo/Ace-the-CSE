@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-05-01T12:16:44.751747Z",
+  "source": "national",
+  "filters": {
+    "year": "2019"
+  },
+  "summary": {
+    "examCount": 2,
+    "issueCount": 5,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2019_dishi",
+      "source": "national",
+      "year": "2019",
+      "level": "dishi",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2019-dishi-068",
+              "number": 68,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-ziliao-2019-dishi-114",
+              "number": 114,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-ziliao-2019-dishi-124",
+              "number": 124,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2019_fushengjia",
+      "source": "national",
+      "year": "2019",
+      "level": "fushengjia",
+      "actualTotal": 134,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 15,
+        "yanyu": 39,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "unexpected_total",
+          "expected": 135,
+          "actual": 134
+        },
+        {
+          "type": "unexpected_module_distribution",
+          "module": "yanyu",
+          "expected": 40,
+          "actual": 39
+        },
+        {
+          "type": "missing_questions",
+          "numbers": [
+            47
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2019-fushengjia-067",
+              "number": 67,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-ziliao-2019-fushengjia-119",
+              "number": 119,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 4,
+      "ready": false
+    }
+  ]
+}

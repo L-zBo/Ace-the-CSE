@@ -1,0 +1,198 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="本站提供公务员考试、事业单位考试等真题整套在线打印和下载服务，包含行测、申论、公务员面试、公共基础、职能测试、综合应用能力、事业单位面试等。"><meta name="keywords" content="公务员考试真题，公考题库，行测题库，申论题库，事业单位题库"><link rel="stylesheet" href="../javascripts/bootstrap-3.3.7-dist/css/bootstrap.min.css"><link type="text/css" rel="stylesheet" href="../javascripts/css.css"><script src="../javascripts/jquery-1.11.1.min.js"></script><script src="../javascripts/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script><link type="text/css" rel="stylesheet" href="../javascripts/jquery.bxslider/jquery.bxslider.css"><script type="text/javascript" src="../javascripts/jquery.bxslider/jquery.bxslider.min.js"></script><title>2023年北京市公务员录用考试《行测》题（网友回忆版）（答案）</title></head><body><div class="container"><div class="header clearfix"><nav><ul class="nav nav-pills pull-right"><li role="presentation"><a href="/">首页</a></li><li><a href="/paper">整卷</a></li><li><a href="/classify">行测分项</a></li><li><a href="/searchp">搜卷</a></li><li><a href="/search">搜题</a></li><!--lia(href='/searchall') 搜全站--><li><a href="/fuli">公告</a></li><li><a href="/newmsg">帮助</a></li><li><a href="/api">接口</a></li><li><a href="/ucenter/uinfo" target="_blank">用户中心</a></li></ul></nav><!--h3.text-muted <img src="/images/icon.png" width="32"></img>公考真题库--><div class="navbar-header"><a href="/" class="navbar-brand"> <p><img alt="Brand" src="/images/icon.png" width="32">公开真题库</p></a></div></div><div role="alert" class="alert alert-info">公开真题库启用新域名，请收藏：<a href="/">https://gwy.gkzhenti.cn/</a>，有问题请发邮件：kf@wotiku.cn</div><div role="group" aria-label="..." class="btn-group btn-group-justified"><a href="/" role="button" class="btn btn-info btn-lg">首页</a><a href="/paper" role="button" class="btn btn-info btn-lg">整卷下载</a><a href="/classify" role="button" class="btn btn-info btn-lg">行测分项下载 <span class="glyphicon glyphicon-lock" aria-hidden="true"></span></a><a href="/searchp" role="button" class="btn btn-info btn-lg">试卷搜索</a><a href="/search" role="button" class="btn btn-info btn-lg">题目搜索</a><!--a.btn.btn-info.btn-lg(href="/searchall" role="button") 全站搜索--></div><p></p><script type="text/javascript" src="../javascripts/RitsC-PrintArea/jquery.PrintArea.js"></script><link type="text/css" rel="stylesheet" href="../javascripts/docs.min.css"><!-- DOC导出功能已简化，不再依赖外部库--><script type="text/javascript">$(function(){
+    $("ol li#print").click(function(){
+        var options = {mode: "iframe", popClose: false};
+        $("div#printcontent").printArea(options);
+    });
+});
+
+// 简化的DOC导出功能（使用HTML格式）
+function saveAsDoc() {
+    try {
+        // 显示加载提示
+        const loadingMsg = document.createElement('div');
+        loadingMsg.style.cssText = 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(0,0,0,0.8);color:white;padding:20px;border-radius:8px;z-index:9999;';
+        loadingMsg.textContent = '正在生成文档，请稍候...';
+        document.body.appendChild(loadingMsg);
+
+        setTimeout(() => {
+            try {
+                // 获取要导出的内容
+                const printContent = document.getElementById('printcontent');
+                if (!printContent) {
+                    throw new Error('找不到要导出的内容');
+                }
+
+                // 克隆内容以避免修改原始页面
+                const contentClone = printContent.cloneNode(true);
+
+                // 处理图片：确保图片正确显示
+                const images = contentClone.querySelectorAll('img');
+                images.forEach(img => {
+                    // 确保图片使用完整的URL
+                    let src = img.src || img.getAttribute('src') || img.getAttribute('data-src');
+                    if (src) {
+                        if (src.startsWith('data:')) {
+                            // 保持data URL不变
+                            img.src = src;
+                        } else if (src.startsWith('http')) {
+                            // 保持完整HTTP URL
+                            img.src = src;
+                        } else {
+                            // 补全相对路径
+                            img.src = src.startsWith('/') ? window.location.origin + src : window.location.origin + '/' + src;
+                        }
+                        // 确保图片显示属性
+                        img.style.maxWidth = '100%';
+                        img.style.height = 'auto';
+                        img.style.display = 'block';
+                    }
+                });
+
+                // 添加Bootstrap网格样式支持
+                const styleElement = document.createElement('style');
+                styleElement.textContent = `
+                    .row { display: flex; margin: 0 -15px; }
+                    .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6,
+                    .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+                        flex: 1;
+                        padding: 0 15px;
+                        min-width: 0;
+                    }
+                    .col-xs-1 { flex: 0 0 8.333333%; }
+                    .col-xs-2 { flex: 0 0 16.666667%; }
+                    .col-xs-3 { flex: 0 0 25%; }
+                    .col-xs-4 { flex: 0 0 33.333333%; }
+                    .col-xs-5 { flex: 0 0 41.666667%; }
+                    .col-xs-6 { flex: 0 0 50%; }
+                    .col-xs-7 { flex: 0 0 58.333333%; }
+                    .col-xs-8 { flex: 0 0 66.666667%; }
+                    .col-xs-9 { flex: 0 0 75%; }
+                    .col-xs-10 { flex: 0 0 83.333333%; }
+                    .col-xs-11 { flex: 0 0 91.666667%; }
+                    .col-xs-12 { flex: 0 0 100%; }
+                `;
+                contentClone.appendChild(styleElement);
+
+                // 创建HTML文档内容 - 使用字符串拼接避免Jade解析错误
+                const htmlContent = '<!DOCTYPE html><html><head>' +
+                    '<meta charset="utf-8">' +
+                    '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">' +
+                    '<title>试卷详情</title>' +
+                    '<style>' +
+                    'body { font-family: "SimSun", "Microsoft YaHei", "Times New Roman", serif; margin: 30px; line-height: 1.8; font-size: 10.5pt; }' +
+                    'h3 { font-size: 16pt; font-weight: bold; text-align: center; margin-bottom: 20px; }' +
+                    'p[align="center"] { font-size: 12pt; text-align: center; margin-bottom: 30px; color: #666; }' +
+                    '.title { font-size: 16pt; font-weight: bold; text-align: center; margin-bottom: 20px; }' +
+                    '.subtitle { font-size: 12pt; text-align: center; margin-bottom: 30px; color: #666; }' +
+                    '.section-title { font-size: 14pt; font-weight: bold; color: #1565C0; text-align: center; margin: 20px 0; }' +
+                    '.question { margin: 15px 0; font-weight: bold; }' +
+                    '.option { margin: 8px 0 8px 30px; }' +
+                    '.answer { color: #D32F2F; font-weight: bold; margin: 10px 0; }' +
+                    '.analysis { color: #388E3C; margin: 10px 0; }' +
+                    '.content-row { margin: 10px 0; display: flex; }' +
+                    '.content-col { flex: 1; padding: 5px; }' +
+                    'img { max-width: 100%; height: auto; margin: 10px 0; display: block; }' +
+                    '@page { margin: 2.5cm; }' +
+                    '.footer { font-size: 10pt; font-style: italic; text-align: center; margin-top: 40px; color: #888; }' +
+                    /* Bootstrap网格样式 - 确保题目编号和内容在同一行 */
+                    '.row { display: flex; margin: 0 -15px; clear: both; }' +
+                    '.row:before, .row:after { display: table; content: " "; }' +
+                    '.row:after { clear: both; }' +
+                    '.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6,' +
+                    '.col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {' +
+                    '  position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; float: left; box-sizing: border-box;' +
+                    '}' +
+                    '.col-xs-1 { width: 8.33333333%; }' +
+                    '.col-xs-2 { width: 16.66666667%; }' +
+                    '.col-xs-3 { width: 25%; }' +
+                    '.col-xs-4 { width: 33.33333333%; }' +
+                    '.col-xs-5 { width: 41.66666667%; }' +
+                    '.col-xs-6 { width: 50%; }' +
+                    '.col-xs-7 { width: 58.33333333%; }' +
+                    '.col-xs-8 { width: 66.66666667%; }' +
+                    '.col-xs-9 { width: 75%; }' +
+                    '.col-xs-10 { width: 83.33333333%; }' +
+                    '.col-xs-11 { width: 91.66666667%; }' +
+                    '.col-xs-12 { width: 100%; }' +
+                    /* 确保内容不会换行 */
+                    '.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {' +
+                    '  white-space: nowrap; overflow: visible;' +
+                    '}' +
+                    '</style>' +
+                    '</head><body>' +
+                    contentClone.innerHTML +
+                    '<div class="footer">' +
+                    '<p>欢迎使用公开真题库（https://gwy.gkzhenti.cn）</p>' +
+                    '<p>本文档由系统自动生成</p>' +
+                    '</div>' +
+                    '</body></html>';
+
+                        // 创建Blob对象，使用Word的MIME类型
+                        const blob = new Blob(['\uFEFF' + htmlContent], {
+                            type: 'application/msword;charset=utf-8'
+                        });
+
+                        // 创建下载链接
+                        const url = window.URL.createObjectURL(blob);
+                        const a = document.createElement('a');
+                        a.href = url;
+
+                        // 生成文件名
+                        const h3Element = contentClone.querySelector('h3');
+                        const titleText = h3Element ? h3Element.textContent : '试卷详情';
+                        const fileName = titleText.replace(/[^\w\u4e00-\u9fa5]/g, '_') + '.doc';
+
+                        a.download = fileName;
+
+                        // 触发下载
+                        document.body.appendChild(a);
+                        a.click();
+                        document.body.removeChild(a);
+
+                        // 清理
+                        window.URL.revokeObjectURL(url);
+                        document.body.removeChild(loadingMsg);
+
+
+                    } catch (error) {
+                        console.error('生成文档时出错:', error);
+                        document.body.removeChild(loadingMsg);
+                        alert('生成文档失败，请重试。');
+                    }
+                }, 500);
+
+            } catch (error) {
+                console.error('初始化导出时出错:', error);
+                if (document.body.contains(loadingMsg)) {
+                    document.body.removeChild(loadingMsg);
+                }
+                alert('导出功能初始化失败，请刷新页面后重试。');
+            }
+        }
+
+</script><body><div class="container"><ol class="breadcrumb"><li><a href="/">返回首页</a></li><li><a href="/paper">返回题库</a></li><li id="print"><a href="#">打印卷面</a></li><li onclick="saveAsDoc()"><a href="#">保存为Word</a></li><li><a href="/paper/1678839701264" style="color:white;background:blue">查看真题</a></li><li><a href="/answer/1678839701264" style="color:white;background:blue">查看答案</a></li><li><a href="/explain/1678839701264" style="color:white;background:blue">查看解析</a></li></ol></div><!--if ad == 'yes'div(class="_ue1ydv856bi",align="center")
+script(type="text/javascript").
+        (window.slotbydup = window.slotbydup || []).push({
+            id: "u6646295",
+            container: "_ue1ydv856bi",
+            async: true
+        });
+script(type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/cm.js" async="async" defer="defer"--><div id="printcontent" class="container"><h3 align="center">2023年北京市公务员录用考试《行测》题（网友回忆版）（答案）</h3><!--p &nbsp--><p align="center">分类：行测/北京 &nbsp&nbsp 来源：</p><div><div class="col-xs-1-5">1、B</div><div class="col-xs-1-5">2、C</div><div class="col-xs-1-5">3、B</div><div class="col-xs-1-5">4、A</div><div class="col-xs-1-5">5、D</div><div class="col-xs-1-5">6、D</div><div class="col-xs-1-5">7、C</div><div class="col-xs-1-5">8、B</div><div class="col-xs-1-5">9、B</div><div class="col-xs-1-5">10、D</div><div class="col-xs-1-5">11、C</div><div class="col-xs-1-5">12、B</div><div class="col-xs-1-5">13、D</div><div class="col-xs-1-5">14、A</div><div class="col-xs-1-5">15、A</div><div class="col-xs-1-5">16、B</div><div class="col-xs-1-5">17、A</div><div class="col-xs-1-5">18、A</div><div class="col-xs-1-5">19、A</div><div class="col-xs-1-5">20、A</div><div class="col-xs-1-5">21、A</div><div class="col-xs-1-5">22、A</div><div class="col-xs-1-5">23、A</div><div class="col-xs-1-5">24、A</div><div class="col-xs-1-5">25、A</div><div class="col-xs-1-5">26、A</div><div class="col-xs-1-5">27、A</div><div class="col-xs-1-5">28、C</div><div class="col-xs-1-5">29、A</div><div class="col-xs-1-5">30、B</div><div class="col-xs-1-5">31、B</div><div class="col-xs-1-5">32、C</div><div class="col-xs-1-5">33、A</div><div class="col-xs-1-5">34、D</div><div class="col-xs-1-5">35、D</div><div class="col-xs-1-5">36、B</div><div class="col-xs-1-5">37、D</div><div class="col-xs-1-5">38、C</div><div class="col-xs-1-5">39、A</div><div class="col-xs-1-5">40、D</div><div class="col-xs-1-5">41、A</div><div class="col-xs-1-5">42、C</div><div class="col-xs-1-5">43、A</div><div class="col-xs-1-5">44、C</div><div class="col-xs-1-5">45、B</div><div class="col-xs-1-5">46、A</div><div class="col-xs-1-5">47、D</div><div class="col-xs-1-5">48、C</div><div class="col-xs-1-5">49、A</div><div class="col-xs-1-5">50、C</div><div class="col-xs-1-5">51、B</div><div class="col-xs-1-5">52、A</div><div class="col-xs-1-5">53、A</div><div class="col-xs-1-5">54、D</div><div class="col-xs-1-5">55、B</div><div class="col-xs-1-5">56、D</div><div class="col-xs-1-5">57、B</div><div class="col-xs-1-5">58、A</div><div class="col-xs-1-5">59、B</div><div class="col-xs-1-5">60、C</div><div class="col-xs-1-5">61、C</div><div class="col-xs-1-5">62、B</div><div class="col-xs-1-5">63、A</div><div class="col-xs-1-5">64、B</div><div class="col-xs-1-5">65、D</div><div class="col-xs-1-5">66、C</div><div class="col-xs-1-5">67、B</div><div class="col-xs-1-5">68、A</div><div class="col-xs-1-5">69、C</div><div class="col-xs-1-5">70、D</div><div class="col-xs-1-5">71、C</div><div class="col-xs-1-5">72、A</div><div class="col-xs-1-5">73、B</div><div class="col-xs-1-5">74、D</div><div class="col-xs-1-5">75、D</div><div class="col-xs-1-5">76、C</div><div class="col-xs-1-5">77、B</div><div class="col-xs-1-5">78、A</div><div class="col-xs-1-5">79、A</div><div class="col-xs-1-5">80、D</div><div class="col-xs-1-5">81、A</div><div class="col-xs-1-5">82、D</div><div class="col-xs-1-5">83、D</div><div class="col-xs-1-5">84、B</div><div class="col-xs-1-5">85、A</div><div class="col-xs-1-5">86、A</div><div class="col-xs-1-5">87、A</div><div class="col-xs-1-5">88、A</div><div class="col-xs-1-5">89、C</div><div class="col-xs-1-5">90、A</div><div class="col-xs-1-5">91、C</div><div class="col-xs-1-5">92、B</div><div class="col-xs-1-5">93、D</div><div class="col-xs-1-5">94、A</div><div class="col-xs-1-5">95、C</div><div class="col-xs-1-5">96、B</div><div class="col-xs-1-5">97、A</div><div class="col-xs-1-5">98、D</div><div class="col-xs-1-5">99、A</div><div class="col-xs-1-5">100、B</div><div class="col-xs-1-5">101、B</div><div class="col-xs-1-5">102、D</div><div class="col-xs-1-5">103、A</div><div class="col-xs-1-5">104、A</div><div class="col-xs-1-5">105、D</div><div class="col-xs-1-5">106、D</div><div class="col-xs-1-5">107、A</div><div class="col-xs-1-5">108、C</div><div class="col-xs-1-5">109、B</div><div class="col-xs-1-5">110、D</div><div class="col-xs-1-5">111、A</div><div class="col-xs-1-5">112、A</div><div class="col-xs-1-5">113、A</div><div class="col-xs-1-5">114、A</div><div class="col-xs-1-5">115、A</div><div class="col-xs-1-5">116、A</div><div class="col-xs-1-5">117、A</div><div class="col-xs-1-5">118、A</div><div class="col-xs-1-5">119、A</div><div class="col-xs-1-5">120、A</div><div class="col-xs-1-5">121、A</div><div class="col-xs-1-5">122、A</div><div class="col-xs-1-5">123、A</div><div class="col-xs-1-5">124、A</div><div class="col-xs-1-5">125、A</div><div class="col-xs-1-5">126、A</div><div class="col-xs-1-5">127、D</div><div class="col-xs-1-5">128、A</div><div class="col-xs-1-5">129、A</div><div class="col-xs-1-5">130、A</div><div class="col-xs-1-5">131、A</div><div class="col-xs-1-5">132、A</div><div class="col-xs-1-5">133、A</div><div class="col-xs-1-5">134、A</div><div class="col-xs-1-5">135、A</div></div></div></body><div class="container"></div><footer class="footer"><div id="printcontent" align="center" class="container"><p>&nbsp</p><p>&nbsp</p><p>欢迎使用公开真题库（https://gwy.gkzhenti.cn）</p></div></footer><script type="text/javascript">var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?99784146ee7913288dadf72b9fa9d461";
+var s = document.getElementsByTagName("script")[0]; 
+s.parentNode.insertBefore(hm, s);
+})();</script><!--自动推送百度收录        --><script type="text/javascript">(function(){
+var bp = document.createElement('script');
+var curProtocol = window.location.protocol.split(':')[0];
+if (curProtocol === 'https') {
+    bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+}else {
+    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+}
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(bp, s);
+})();
+
+</script><footer class="footer"><div class="row marketing"><hr style="height:1px;border:none;border-top:1px solid lightblue;"><div class="col-sm-7"><!--img(src="/images/qrcode_for_gh_de684a5123f0_258.png",width="280px")--></div><div align="right" class="col-sm-5"><p>备案编号：<a href="https://beian.miit.gov.cn" target="_blank">浙ICP备2026012934号-1</a> </p><p>若有网络数据相关投诉举报，请发邮件：<span class="label label-info">kf@wotiku.cn</span></p><p>网站版本：v20260406</p></div></div></footer></div></body></html>

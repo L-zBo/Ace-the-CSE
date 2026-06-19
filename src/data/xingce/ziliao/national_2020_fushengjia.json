@@ -1,0 +1,703 @@
+[
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年中国在线旅游收入约占旅游业总收入的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "20%"
+      },
+      {
+        "label": "B",
+        "content": "25%"
+      },
+      {
+        "label": "C",
+        "content": "12%"
+      },
+      {
+        "label": "D",
+        "content": "16%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2018 年···占···的”结合选项“ ”，且表格包含 2018 年数据，可判定本题为现期比\n重问题。定位表格最后一行可知，2018 年旅游业总收入为 5.97 万亿元，2018 年在线旅游收入\n\n。代入公式：比重\n\n。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第116题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2017 年中国在线旅游收入同比约增长多少万亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.15"
+      },
+      {
+        "label": "B",
+        "content": "0.20"
+      },
+      {
+        "label": "C",
+        "content": "0.25"
+      },
+      {
+        "label": "D",
+        "content": "0.30"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2017 年···同比约增长···万亿元”，可判定本题为增长量计算问题。定位表格可知，中\n\n国在线旅游收入\n\n旅游收入\n\n，根据表格可得，2017 年在线\n\n；2016 年在线旅游收入\n\n。代入公式：增长量\n\n。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第117题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "中国在线旅游收入中，2014 年占中国旅游业总收入比重高于上年水平的包括：",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅在线交通预订"
+      },
+      {
+        "label": "B",
+        "content": "在线交通预订、在线住宿预订、在线度假旅游预订"
+      },
+      {
+        "label": "C",
+        "content": "仅在线交通预订、在线住宿预订"
+      },
+      {
+        "label": "D",
+        "content": "仅在线交通预订、在线度假旅游预订"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“···2014 年占···比重高于上年水平的包括”可判定本题为两期比重问题。\n\n方法一：根据两期比重结论，部分增长率\n可知 2013 年、2014 年中国旅游业总收入和在线旅游收入各部分的相关数据。利用公式“增长率\n\n大于总体增长率 则比重同比上升，即高于上年水平。定位表格\n\n”可得，总体增长率 即中国旅游业总收入增长率\n\n；\n\n增长\n\n率\n\n即在线交通预订收入增长率\n\n；\n\n增长率\n\n即在线住宿预订收入\n\n增长率\n\n；\n\n增长率\n\n即在线度假旅游预订收入增长率\n\n。因此，满足条件的有在线交通预订，\n\n；在线住宿预\n\n订，\n方法二：根据表格中 2013 年、2014 年中国旅游业总收入和在线旅游收入各部分的相关数据，利用公式“比重\n\n；在线度假旅游预订，\n\n。\n\n”可得，2013 年、2014 年在线交通预订收入占中国旅游业总收入的比重分别\n\n、\n\n，\n\n，即比重高于上年水平；\n\n2013 年、2014 年在线住宿预订收入占中国旅游业总收入的比重分别\n\n，\n\n，即比重高于上年水平；\n\n2013 年、2014 年在线度假旅游预订收入占中国旅游业总收入的比重分别\n\n、\n\n、\n\n，则\n\n，即比重高于上年水平。\n\n故满足条件的有在线交通预订、在线住宿预订、在线度假旅游预订。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第118题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "以下折线图反映了 2014～2018 年间哪项收入同比增量的变化趋势？",
+    "options": [
+      {
+        "label": "D",
+        "content": "仅在线交通预订、在线度假旅游预订"
+      },
+      {
+        "label": "B",
+        "content": "0.20 B、在线交通预订、在线住宿预订、在线度假旅游预订 - 14 -"
+      },
+      {
+        "label": "C",
+        "content": "在线度假旅游预订 B、旅游业总体"
+      },
+      {
+        "label": "A",
+        "content": "在线住宿预订"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······同比增量的变化趋势”，可判定本题为增长量比较问题。\nA 项：定位表格第四列数据可得：“2013 年~2018 年在线住宿预订收入依次为 412.10 亿元、547.45 亿元、\n862.57 亿元、1251.42 亿元、1586.19 亿元、1881.49 亿元”，2014 年~2018 年增长量分别约为 135 亿元、315\n\n- 24 -\n\n\f亿元、389 亿元、335 亿元、295 亿元。2017 年比 2015 年增长量大，即折线图中第 4 个点应比第 2 个点高，与\n题干折线图矛盾，排除 A 项。\nB 项：定位表格第二列数据可得：“2013 年~2018 年旅游业总体收入依次为 2.95 万亿元、3.38 万亿元、4.13 万\n亿元、4.69 万亿元、5.40 万亿元、5.97 万亿元”，2014 年~2018 年增长量分别为 0.43 万亿元、0.75 万亿元、\n0.56 万亿元、0.71 万亿元、0.57 万亿元。2015 年增长量最大，即折线图中第 2 个点应该最高，与题干折线图\n矛盾，排除 B 项。\nC 项：定位表格第五列数据可得：“2013 年~2018 年在线度假旅游预订收入依次为 244.20 亿元、347.58 亿元、\n549.97 亿元、757.40 亿元、947.47 亿元、1051.81 亿元”，2014 年~2018 年增长量分别约为 103 亿元、202 亿\n元、207 亿元、190 亿元、104 亿元。满足题干折线图趋势。\nD 项：定位表格第三列数据可得：“2013 年~2018 年在线交通预订收入依次为 1519.67 亿元、2271.57 亿元、\n3325.15 亿元、5385.42 亿元、6389.65 亿元、6820.95 亿元”，2014 年~2018 年增长量分别约为 752 亿元、\n1054 亿元、2060 亿元、1004 亿元、431 亿元。2018 年增长量较 2014 年小很多，即折线图中第 5 个点应比第 1\n个点低很多，与题干折线图矛盾，排除 D 项。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第119题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2020_fushengjia/q119.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2014～2018 年，中国旅游业总收入超过 25 万亿元"
+      },
+      {
+        "label": "B",
+        "content": "2014～2016 年，中国旅游业总收入同比增速逐年递增"
+      },
+      {
+        "label": "C",
+        "content": "2016 年中国在线交通预订收入同比增速快于上年水平"
+      },
+      {
+        "label": "D",
+        "content": "如保持 2018 年同比增量，中国在线住宿预订收入将在 2023 年首超 3000 亿元 D、在线交通预订 B、4 C、超过 200 万吨 B、不到 100 万吨 C、增加了 10%以上 B、下降了不到 10% D、150～200 万吨之间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位表格第二列数据可得：“2014 年~2018 年旅游业总体收入依次为 3.38 万亿元、4.13 万亿元、\n4.69 万亿元、5.40 万亿元、5.97 万亿元”，故题干所求总收入\n\nB 项：根据 124 题计算数据可得：“2014 年~2016 年中国旅游业总收入增长量分别为 0.43 万亿元、0.75 万亿\n\n，错误。\n\n元、0.56 万亿元”，代入公式：增长率\n\n，\n\n，\n\n，两者比较\n\n分子\n\n大分母小，明显\nC 项：根据 124 题计算数据可得：“2015 年、2016 年中国在线交通预订收入增长量分别约为 1054 亿元、2060\n\n，即 2016 年增速下降，错误。\n\n亿元”，代入公式：增长率\n即 2016 年增速快于 2015 年，正确。\nD 项：根据 124 题计算数据可得：“2018 年中国在线住宿预订收入增长量约为 295 亿元”，代入公式：现期量\n\n，明显\n\n，\n\n，\n\n，\n\n，\n\n，解得\n\n年，故在\n\n年住宿预订收入已超过\n\n3000 亿元，错误。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第120题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2016～2018 年，全国茶叶产量之和比 2013～2015 年产量之和增加了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "100～150 万吨之间"
+      },
+      {
+        "label": "B",
+        "content": "不到100 万吨"
+      },
+      {
+        "label": "C",
+        "content": "超过200 万吨"
+      },
+      {
+        "label": "D",
+        "content": "150～200 万吨之间"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“···比···增加了”，结合选项带单位，可判定本题为增长量计算问题。定位图形材料，\n可知 2013-2018 年各年份全国茶叶产量。则题干所求为\n\n万吨，在 100~150 万吨\n\n之间。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第121题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2007～2018 年间，全国茶园面积首次超过 200 万公顷的年份，当年茶园单位面积茶叶产量比上年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了10%以上"
+      },
+      {
+        "label": "B",
+        "content": "下降了不到10%"
+      },
+      {
+        "label": "C",
+        "content": "增加了10%以上"
+      },
+      {
+        "label": "D",
+        "content": "增加了不到10%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“···单位面积茶叶产量比上年”，结合选项为下降/增加 ，可判定本题为平均数的增长率\n计算问题。定位图形材料，可知 2013-2018 年全国茶园面积首次超过 200 万公顷的年份为 2011 年。2011 年全国\n茶园面积为 205.6 万公顷、产量为 160.8 万吨；2010 年面积为 193.2 万公顷、产量为 146.3 万吨。根据公式增\n\n长率\n\n，可以算得：2011 年全国茶叶产量的增长率\n\n，茶园\n\n面积的增长率\n\n；代入平均数的增长率公式：\n\nr\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第122题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年全国产茶省份中，有几个省份的茶园单位面积茶叶产量高于 1 吨/公顷？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“···有几个省份的单位面积茶叶产量高于 1 吨/公顷”，可判定本题为现期平均数的计算问\n\n，满足的是 D 项。\n\n题。定位表格材料，可知 2018 年全国产茶省份的产量和面积。单位面积产量\n于面积数值的省份，查找表中数据，共有 5 个省份符合要求，分别为福建、山东、湖北、湖南、广东。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第123题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年茶园面积最大的 4 个省份中，茶叶产量也是全国前 4 名的省份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "A",
+    "explanation": "定位表格材料，可以得到全国产茶省份茶园面积及茶叶产量。2018 年茶园面积最大的 4 个省份分别是贵州\n（45.62 万公顷）、云南（44.45 万公顷）、四川（36.34 万公顷）、湖北（29.93 万公顷）；茶叶产量全国前 4\n名的省份分别是福建（40.16 万吨）、云南（39.81 万吨）、湖北（31.45 万吨）、四川（29.50 万吨）。由此\n可以看出，2018 年茶园面积最大的 4 个省份中，茶叶产量也是全国前 4 名的省份有湖北、四川、云南 3 个。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第124题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年全国茶叶产量比 9 年前翻了一番"
+      },
+      {
+        "label": "B",
+        "content": "2018 年全国茶园面积最小的产茶省份，单位面积产量也最低"
+      },
+      {
+        "label": "C",
+        "content": "2008～2010 年，全国茶园面积同比增速逐年持续下降"
+      },
+      {
+        "label": "D",
+        "content": "2018 年湖南、湖北的茶园面积占全国茶园总面积的两成以上 D、增加了不到 10% D、6 C、7 D、2 C、1 B、4 - 15 - B、在 1～1.1 万亿元之间 C、在 1～5 个百分点之间 B、在 5～10 个百分点之间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位图形材料，2018 年全国茶叶产量为 261.6 万吨；9 年前即 2009 年全国茶叶产量为 135.1 万吨。\n\n＞1 吨/公顷，即产量数值大\n\n- 25 -\n\n\f可计算出 2018 年全国茶叶产量约是 9 年前的\nB 项：定位表格材料，2018 年全国茶园面积最小的产茶省份是海南（0.24 万公顷），单位面积产量\n\n，翻了不到一番。错误；\n\n吨/公顷，甘肃的单位面积产量\n（0.12 吨/公顷）＜海南的单位面积产量（0.25 吨/公顷）。可以看出 2018 年全国茶园面积最小的产茶省份海\n南，其单位面积产量不是最低。错误；\n\n吨/公顷。而甘肃的单位面积产量\n\nC 项：定位图形材料，可以得到 2007~2010 年全国茶园面积。根据增长率\n2010 年，全国茶园面积同比增速如下：\n\n，可计算出 2008～\n\n2008 年增速\n\n2009 年增速\n\n；\n\n；\n\n2010 年增速\n可以看出，2008～2010 年，全国茶园面积同比增速逐年持续下降。正确；\nD 项：定位表格材料，2018 年湖南、湖北的茶园面积分别为 16.89 万公顷、29.93 万公顷。定位图形材料，2018\n\n。\n\n年全国茶园总面积为 293.1 万公顷。根据比重\n\n，可计算出 2018 年湖南、湖北的茶园面积占全国茶园总\n\n面积的\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第125题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年中国进出口贸易总额为 4.62 万亿美元，其中集成电路进出口贸易额占比：",
+    "options": [
+      {
+        "label": "A",
+        "content": "超过10 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "在5～10 个百分点之间"
+      },
+      {
+        "label": "C",
+        "content": "在1～5 个百分点之间"
+      },
+      {
+        "label": "D",
+        "content": "不到1 个百分点"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干所求“2018 年······其中······占比”，结合材料时间为 2018 年，可判定此题为\n现期比重问题。定位表格，\n\n，非两成以上。错误。\n\n，根据\n\n，在 B 项范围内。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第126题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2012～2015 年，中国集成电路产业累计销售额在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1 万亿元"
+      },
+      {
+        "label": "B",
+        "content": "在1～1.1 万亿元之间"
+      },
+      {
+        "label": "C",
+        "content": "在1.1～1.2 万亿元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过1.2 万亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干所求“2012~2015 年，······累计销售额······”，可判定此题为简单加减计算问\n\n题。定位统计图，2013~2015 年销售额分别为：2508.5 亿、3015.4 亿、3609.8 亿，根据\n\n，则\n\n。则 2012~2015 年中国集成电路产业\n\n，在 C 项范围内。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第127题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2013～2018 年间中国集成电路产业销售额增速最高的年份，当年集成电路进口金额同比约增加：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5%"
+      },
+      {
+        "label": "B",
+        "content": "10%"
+      },
+      {
+        "label": "C",
+        "content": "15%"
+      },
+      {
+        "label": "D",
+        "content": "20%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干所求“当年······同比约增加”，结合选项为“ ”，可判定此题为一般增长率问\n题。 “2013~2018 年间中国集成电路产业销售额增速最高的年份”，定位统计图观察折线部分，增速最高的年\n\n份为 2017 年（\n\n）。定位表格，集成电路进口金额 2017 年为 2601.4 亿美元，2016 年为 2270.7 亿美元。根\n\n据\n故正确答案为 C。\n\n，则\n\n。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第128题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年中国平均每块集成电路出口单价比上年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了30%以上"
+      },
+      {
+        "label": "B",
+        "content": "上升了30%以上"
+      },
+      {
+        "label": "C",
+        "content": "下降了30%以内"
+      },
+      {
+        "label": "D",
+        "content": "上升了30%以内"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2018 年中国平均每块集成电路出口单价比上年”，结合选项为“\n题为平均数的增长率问题。定位表格数据可知，2017 年中国集成电路出口金额为 668.8 亿美元，出口数量为\n2043.5 亿块；2018 年中国集成电路出口金额为 846.4 亿美元，出口数量为 2171.0 亿块。根据公式：\n\n”，可判定本\n\n，\n\n，则\n\n，即上升了 以内。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第129题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "关于中国集成电路产业销售及进出口状况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016～2017 年，月均进出口总量超过 450 亿块"
+      },
+      {
+        "label": "C",
+        "content": "2015～2018 年，进口量和进口额均逐年上升"
+      },
+      {
+        "label": "B",
+        "content": "2016 年销售额同比增量低于上年水平"
+      },
+      {
+        "label": "D",
+        "content": "2014～2018 年，出口总量超过 1 万亿块 C、在 1.1～1.2 万亿元之间 C、下降了 30%以内 D、上升了 30%以内 B、上升了 30%以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项：定位表格数据，2016 年中国集成电路进口数量为 3425.5 亿块，出口数量为 1810.1 亿块，2017 年进\n口数量为 3770.1 亿块，出口数量为 2043.5 亿块。代入公式：\n\nB 项：定位图形数据，2016 年中国集成电路产业销售额为 4335.5 亿人民币；2015 年销售额为 3609.8 亿人民\n\n，正确；\n\n- 26 -\n\n\f币；2014 年销售额为 3015.4 亿人民币。根据公式：\n\n，则\n\n,\n\n，即 2016 年销售\n\n额同比增量高于上年，错误；\nC 项：定位表格数据，2015 年-2018 年中国集成电路进口金额分别为 2300.0 亿美元，2270.7 亿美元，2601.4 亿\n美元，3120.6 亿美元，其中 2016 年下降，并非逐年上升，错误；\nD 项：定位表格数据，2014 年-2018 年中国集成电路出口总量分别为 1535.2 亿块，1827.7 亿块，1810.1 亿块，\n2043.5 亿块，2171.0 亿块。\n\n，\n\n错误。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第130题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年前三季度，S 省工业品物流总额同比增量约为同期社会物流总额同比增量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "超过30%"
+      },
+      {
+        "label": "B",
+        "content": "10%~30%之间"
+      },
+      {
+        "label": "C",
+        "content": "5%~10%之间"
+      },
+      {
+        "label": "D",
+        "content": "不到5%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干所求“2018 年前三季度……约为……”，结合选项“ ”，可判定此题为现期比重问题。定位文\n\n字材料第一段“2018 年前三季度，S 省社会物流总额 35357.26 亿元，同比增长\n\n，……。其中，工业品物流\n\n总额 16636.15 亿元，同比增长\n\n”。根据\n\n，\n\n，\n\n，则\n\n，在 D 项范围内。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第131题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "在工业品物流、外部流入（含进口）货物物流、农产品物流、单位与居民物品物流和再生资源物流中，2018 年前三季度物流总额占社会物流总额的比重高于上年水平的有几类？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第132题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "2018 年前三季度，平均每万元社会物流总额产生的物流费用比上年同期：",
+    "options": [
+      {
+        "label": "A",
+        "content": "上升了不到1%"
+      },
+      {
+        "label": "B",
+        "content": "上升了1% 以上"
+      },
+      {
+        "label": "C",
+        "content": "下降了不到1%"
+      },
+      {
+        "label": "D",
+        "content": "下降了1% 以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第133题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "将 2018 年前三季度 S 省物流相关行业不同类型的收入按照同比增量从高到低排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "运输收入>保管收入>邮政业收入> 配送、加工、包装业收入"
+      },
+      {
+        "label": "B",
+        "content": "运输收入>配送、加工、包装业收入>邮政业收入>保管收入"
+      },
+      {
+        "label": "C",
+        "content": "运输收入>保管收入>配送、加工、包装业收入>邮政业收入"
+      },
+      {
+        "label": "D",
+        "content": "运输收入>邮政业收入>配送、加工、包装业收入>保管收入"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“将……从高到低排列”，可判定本题为排序类问题。定位文字资料第二段：2018 年前三季\n\n度，……运输环节收入 1321.9 亿元，同比增长\n\n；保管环节收入 226.2 亿元，同比增长\n\n；邮政业收入\n\n82.8 亿元，同比增长\n。观察数据可知，保管收入和\n配送、加工、包装业收入的增长率相同，那么现期量大的，增长量大，即保管收入的增长量＞配送、加工、包\n\n；配送、加工、包装业收入 98.8 亿元，同比增长\n\n装业收入的增长量，结合选项可排除 B、D 项；根据公式：\n\n，则\n\n；\n\n，即邮政业收入的增长量 配送、加工、\n\n包装业收入的增长量，排除 C 项。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第134题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2020-fushengjia-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "关于 2018 年前三季度 S 省物流情况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "农产品物流总额同比增长了 100 多亿元"
+      },
+      {
+        "label": "B",
+        "content": "物流运输环节收入同比增量高于该环节费用同比增量"
+      },
+      {
+        "label": "C",
+        "content": "外部流入（含进口）货物物流总额占社会物流总额的一半以上"
+      },
+      {
+        "label": "D",
+        "content": "配送、加工、包装业收入占物流相关行业总收入的比重超过 5% B、上升了 1% 以上 D、下降了 1% 以上 C、下降了不到 1% - 16 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位文字材料第一段可知，2018 年前三季度，农产品物流总额 875.06 亿元，同比增长\n\n。根据\n\n公式：增长量=\n\n，则农产品物流总额增长量\n\n=\n\n亿元，错误；\n\n- 27 -\n\n\fB 项：定位文字材料第二段和第三段可知，运输环节收入 1321.9 亿元，同比增长\n\n；物流运输环节总费用\n\n1854.6 亿元，同比增长\n大，则增长量也大，错误；\nC 项：定位文字材料第一段可知，2018 年前三季度，S 省社会物流总额 35357.26 亿元，外部流入（含进口）货\n\n；根据增长量比较口诀“大大则大”可知，物流运输环节总费用现期量大，增长率\n\n物物流总额 17357.31 亿元。根据公式：比重=\nD 项：定位文字材料第二段可知，2018 年前三季度，S 省物流相关行业实现总收入 1912.8 亿元，其中，配送、\n\n，则所求比重=\n\n，错误；\n\n加工、包装业收入 98.8 亿元。根据公式：比重=\n故正确答案为 D。\n\n，则所求比重=\n\n，正确。\n\n- 28 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第135题",
+    "level": "fushengjia"
+  }
+]

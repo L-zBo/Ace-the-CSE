@@ -1,0 +1,353 @@
+[
+  {
+    "id": "national-xingce-shuliang-2019-dishi-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "有 100 名员工去年和今年均参加考核，考核结果分为优、良、中、差四个等次。今年考核结果为优的人数是 去年的 1.2 倍，今年考核结果为良及以下的人员占比比去年低 15 个百分点。问两年考核结果均为优的人数至少 为多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "55"
+      },
+      {
+        "label": "B",
+        "content": "65"
+      },
+      {
+        "label": "C",
+        "content": "75"
+      },
+      {
+        "label": "D",
+        "content": "85"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设去年考核结果为优的有 人，则今年考核结果为优的为 人。根据题意，两年总人数均为 100，则今年考\n\n核结果为良及以下的人员比去年少了\n\n人，即\n\n。解方程得\n\n，则今年\n\n获优的有\n\n人。根据两集合容斥原理，\n\n，要\n\n“两年都为优的人数”最少，则“两年都不是优的人数”取最小数 0，此时两年考核结果均为优的人数\n\n人。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第61题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "从 A 市到 B 市的机票如果打 6 折，包含接送机出租车交通费 90 元、机票税费 60 元在内的总乘机成本是机票 打 4 折时总乘机成本的 1.4 倍。问从 A 市到 B 市的全价机票价格（不含税费）为多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1200"
+      },
+      {
+        "label": "B",
+        "content": "1250"
+      },
+      {
+        "label": "C",
+        "content": "1500"
+      },
+      {
+        "label": "D",
+        "content": "1600"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，乘机总成本包括机票价格（不含税费）、交通费和机票税费。设从 A 市到 B 市的全价机票价格（不\n\n含税费）为 元。根据两次折扣的 1.4 倍关系可列式：\n\n，解得\n\n元。\n\n故正确答案为 C。\n\n63、3 天中乘坐的班车发车时间都不同，每人需在四趟班车内依次选三趟乘坐，有 种情况。两人在 3 天中乘坐\n\n的班车发车时间都不同的总情况数有\n\n种，若要求两人每天都乘坐同一趟班车，则其中一人选定之后，另\n\n- 15 -\n\n\f一人只能与他的选择方式相同，有\n\n种情况。故这 3 天小张和小王每天都乘坐同一趟班车的概率\n\n故正确答案为 C。\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第62题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "小张和小王在同一个学校读研究生，每天早上从宿舍到学校有 6:40、7:00、7:20 和 7:40 发车的 4 班校车。 某星期周一到周三，小张和小王都坐班车去学校，且每个人在 3 天中乘坐的班车发车时间都不同。问这 3 天小张 和小王每天都乘坐同一趟班车的概率在：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3%以下"
+      },
+      {
+        "label": "B",
+        "content": "3%~4%之间"
+      },
+      {
+        "label": "C",
+        "content": "4%~5%之间"
+      },
+      {
+        "label": "D",
+        "content": "5%以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "3 天中乘坐的班车发车时间都不同，每人需在四趟班车内依次选三趟乘坐，有 种情况。两人在 3 天中乘坐\n\n的班车发车时间都不同的总情况数有\n\n种，若要求两人每天都乘坐同一趟班车，则其中一人选定之后，另\n\n- 15 -\n\n\f一人只能与他的选择方式相同，有\n\n种情况。故这 3 天小张和小王每天都乘坐同一趟班车的概率\n\n故正确答案为 C。\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第63题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "甲车上午 8 点从 A 地出发匀速开往 B 地，出发 30 分钟后乙车从 A 地出发以甲车 2 倍的速度前往 B 地，并在 距离 B 地 10 千米时追上甲车。如乙车 9 点 10 分到达 B 地，问甲车的速度为多少千米/小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "36"
+      },
+      {
+        "label": "C",
+        "content": "45"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设甲车的速度为 千米/小时，乙车的速度为甲车的 2 倍即 千米/小时。甲车出发 30 分钟即 小时后乙车开\n\n始追，则两车的路程差为 千米，由追及公式“\n\n”可得，\n\n小时。乙车在上午 8 点的 30 分钟后出发，9 点 10 分到达 B 地，共用时\n\n。设乙在 C 点追上甲，则\n\n千米，乙车从 C 地到 B 地用时\n\n小时。\n\n则乙车的速度=\n\n故正确答案为 A。\n\n，甲车的速度\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第64题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "甲和乙进行 5 局 3 胜的乒乓球比赛，甲每局获胜的概率是乙每局获胜概率的 1.5 倍。问以下哪种情况发生的 概率最大？",
+    "options": [
+      {
+        "label": "A",
+        "content": "比赛在3 局内结束"
+      },
+      {
+        "label": "B",
+        "content": "乙连胜3 局获胜"
+      },
+      {
+        "label": "C",
+        "content": "甲获胜且两人均无连胜"
+      },
+      {
+        "label": "D",
+        "content": "乙用4 局获胜"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据“甲每局获胜的概率是乙每局获胜概率的 1.5 倍”，设乙的概率为 ，则甲的概率为 ，由\n\n，\n\n解得\n\n，即甲获胜的概率为 0.6，乙为 0.4。\n\nA 项：比赛在 3 局内结束，有两种情况：①甲连胜 3 局，概率\n\n；②乙连胜 3 局，概率\n\n。故 A 项总概率\n\n。\n\nB 项：乙连胜 3 局获胜，有三种情况：①乙前 3 局连胜，概率\n\n；②乙第 2、3、4 局连胜，\n\n概率\n\n项总概率\n\n；③乙第 3、4、5 局连胜，概率\n\n；故 B\n\n。\n\nC 项：甲获胜且两人均无连胜，只有一种情况，即甲获胜三局且分别是第 1、3、5 局获胜，概率\n\nD 项：乙用 4 局获胜，则第四局必然是乙获胜，且前三局中乙有两局获胜，因此概率\n\n。\n\n。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第65题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "有甲、乙、丙三个工作组，已知乙组 2 天的工作量与甲、丙共同工作 1 天的工作量相同。A 工程如由甲、乙 组共同工作 3 天，再由乙、丙组共同工作 7 天，正好完成。如果三组共同完成，需要整 7 天。B 工程如丙组单独 完成正好需要 10 天，问如由甲、乙组共同完成，需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到6 天"
+      },
+      {
+        "label": "B",
+        "content": "6 天多"
+      },
+      {
+        "label": "C",
+        "content": "7 天多"
+      },
+      {
+        "label": "D",
+        "content": "超过8 天"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，甲、乙、丙三者的效率满足以下关系：\n\n②式整理可得：\n\n，即\n\n。赋值\n\n，\n\n，代入①式可得：\n\n。则 B 工程的工作量\n\n为\n\n，如由甲、乙共同完成需要\n\n天，即 7 天多。\n\n故正确答案为 C。\n\n- 16 -",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第66题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "某单位有 2 个处室，甲处室有 12 人，乙处室有 20 人。现在将甲处室最年轻的 4 人调入乙处室，则乙处室的 平均年龄增加了 1 岁，甲处室的平均年龄增加了 3 岁。问在调动之前，两个处室的平均年龄相差多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "14"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设调动前甲处室的平均年龄为 岁，乙处室的平均年龄为 岁，则调动后甲处室的平均年龄为\n\n岁，乙处\n\n室的平均年龄为\n\n岁。根据调动前后甲、乙两处室的年龄之和不变，可列式：\n\n，\n\n解得\n\n，所以调动前两个处室的平均年龄差为 12 岁。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第67题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "甲和乙两条自动化生产线同时生产相同的产品，甲生产线单位时间的产量是乙生产线的 5 倍，甲生产线每工 作 1 小时就需要花 3 小时时间停机冷却而乙生产线可以不间断生产。问以下哪个坐标图能准确表示甲、乙生产线 产量之差（纵轴 L）与总生产时间（横轴 T）之间的关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据“甲生产线单位时间的产量是乙生产线的 5 倍”赋值甲的效率为 5，乙的效率为 1。根据题意，甲生产\n线工作 1 小时，休息 3 小时，而乙生产线持续工作，可得下表：\n\n观察表格可知，每 4 小时为一个变化周期。\n先看变化趋势：每个周期前 1 个小时产量之差不断增大，后 3 小时产量之差不断减小，排除 C；\n再看拐点对应时长（横轴 T）：每个周期增加过程所对应时长与下降过程所对应时长之比为 1:3，排除 B；\n最后看对应高度（纵轴 L）：每个周期都是升 4 再降 3，下降值大于上升值的一半，排除 D。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第68题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2019_dishi/q068.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "某单位要求职工参加 20 课时线上教育课程，其中政治理论 10 课时，专业技能 10 课时。可供选择的政治理 论课共 8 门，每门 2 课时；可供选择的专业技能课共 10 门，其中 2 课时的有 5 门，1 课时的有 5 门。问可选择 的课程组合共有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5656"
+      },
+      {
+        "label": "B",
+        "content": "5600"
+      },
+      {
+        "label": "C",
+        "content": "1848"
+      },
+      {
+        "label": "D",
+        "content": "616"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，政治理论课在 8 门中选 5 门即可达到 10 课时，一共有：\n\n种情况。专业\n\n技能课若要达到 10 课时，可分为以下 3 类：①2 课时的课 5 门全选，情况数为 1 种；②2 课时的课选 4 门，1 课\n\n时的课选 2 门，情况数为\n\n种；③2 课时的课选 3 门，1 课时的课选 4 门，情况数为\n\n种，故选专业技能课的情况数为\n\n种。所以可选择的课程组合共有\n\n种。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第69题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2019-dishi-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "花圃自动浇水装置的规则设置如下： ①每次浇水在中午 12:00~12:30 之间进行； ②在上次浇水结束后，如连续 3 日中午 12:00 气温超过 30 摄氏度，则在连续第 3 个气温超过 30 摄氏度的日子中 午 12:00 开始浇水； ③如在上次浇水开始 120 小时后仍不满足条件②，则立刻浇水。 已知 6 月 30 日 12:00~12:30 该花圃第一次自动浇水，7 月份该花圃共自动浇水 8 次，问 7 月至少有几天中午 12:00 的气温超过 30 摄氏度？",
+    "options": [
+      {
+        "label": "A",
+        "content": "18"
+      },
+      {
+        "label": "B",
+        "content": "20"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "15 四、判断推理，本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，若要使 7 月份中午气温超过 30 摄氏度的天数尽可能少，则应同时满足两个条件：（1）超过 30\n\n摄氏度的日子均以连续 3 天的方式出现；（2）未超过 30 摄氏度的日子均以连续\n\n天的方式出现。\n\n题干问“至少”，从最小的选项开始代入。\n\nC 项：若超过 30 摄氏度的日子有 12 天，则未超过 30 摄氏度的日子有\n\n天。根据规则②可知，12 天中\n\n浇水\n\n排除；\n\n次；根据规则③可知，\n\n，即 19 天中浇水 3 次。\n\n次，与“浇水 8 次”矛盾，\n\nD 项：若超过 30 摄氏度的天数为 15 天，则未超过 30 摄氏度的天数为\n\n天。根据规则②可知，15 天中\n\n浇水\n\n次；根据规则③可知，\n\n，即 16 天中浇水 3 次，\n\n次。满足题意。\n\n故正确答案为 D。\n\n71、\n\n- 17 -\n\n\f题干每幅图都由一个三角形和正方形组成，元素组成相同，优先考虑位置规律。观察发现，三角形与正方形的公\n共边,每次沿正方形的外框顺时针平移半条边，则？处图形中公共边应位于正方形上边框的右侧，排除 C 项和 D\n项。继续观察发现，三角形在正方形内部的顶点也每次顺时针平移一个位置（如图），故？处应选择一个三角形\n顶点位于正方形内部左下角位置的图形，只有 B 符合。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2019年国考行测（地市级）第70题",
+    "level": "dishi"
+  }
+]

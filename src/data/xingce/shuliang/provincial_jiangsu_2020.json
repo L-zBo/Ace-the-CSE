@@ -1,0 +1,741 @@
+[
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "7.003，13.009，19.027，25.081，31.243，（ ）",
+    "options": [
+      {
+        "label": "D",
+        "content": "37.729"
+      },
+      {
+        "label": "A",
+        "content": "36.568"
+      },
+      {
+        "label": "B",
+        "content": "36.729"
+      },
+      {
+        "label": "C",
+        "content": "37.568 D、不恰当的饮食方式中隐含哪些健康风险因素"
+      }
+    ],
+    "answer": "D",
+    "explanation": "观察数列特征，有小数点且数字位数较多，考虑机械拆分。小数点前的数字 7，13，19，25，31，可以\n\n看出此数列是公差为 6 的等差数列，（\n\n）里应是\n\n；小数点后的数字 003，009，027，081，243，\n\n可以看出此数列是公比为 3 的等比数列，（\n\n）里应是\n\n。故所求项是 37.729。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第46题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，<img src=\"https://upload.gkzhenti.cn/1575888244181jjk/veo9fxfpdzf\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/1575888244181jjk/y26s6jgwev9\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，10，<img src=\"https://upload.gkzhenti.cn/1575888244181jjk/de78ej0es5a\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "观察数列特征，有特殊符号“”，考虑机械拆分。原数列可转化为,,,,，“”前是1，2，4，8，16，此数列是公比为2的等比数列，（  ）应是；“”后是，，，，，根号下的数列是公差为1的等差数列，（  ）应是。故所求项是。\n故正确答案为C。\n\n[来源 baijing1.top paperId=258 sort=47 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第47题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "3，7，16，36，80，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "176"
+      },
+      {
+        "label": "B",
+        "content": "148"
+      },
+      {
+        "label": "C",
+        "content": "166"
+      },
+      {
+        "label": "D",
+        "content": "188"
+      }
+    ],
+    "answer": "A",
+    "explanation": "观察数列无特征，做差无规律，考虑递推。该数列\n\n，\n\n，\n\n，\n\n，可以得出规律，第二项\n\n，修正项为 1，2，4，8，此数列是公比为 2 的等比\n\n数列，故所求修正项\n\n。则所求项\n\n。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第48题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "23：30，23：45，0：20，1：20，2：50，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3：20"
+      },
+      {
+        "label": "B",
+        "content": "4：55"
+      },
+      {
+        "label": "D",
+        "content": "6：50"
+      },
+      {
+        "label": "C",
+        "content": "5：45 D、188 D、28"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列无特征，考虑做差。该数列为时间表示形式，后项 前项分别为 15 分钟，35 分钟，60 分钟，90\n\n分钟，？，此数列无特征，继续做差，后项 前项分别为 20，25，30，可以看出此数列是公差为 5 的等差数列，\n\n故下一项\n\n，则？\n\n。因此所求项\n\n。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第49题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "， ， ， ， ，（ ） A、",
+    "options": [
+      {
+        "label": "A",
+        "content": "64"
+      },
+      {
+        "label": "B",
+        "content": "49"
+      },
+      {
+        "label": "C",
+        "content": "81"
+      },
+      {
+        "label": "D",
+        "content": "121"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列特征，大多数是分数，考虑分数数列。观察分子分母的规律，考虑反约分。原数列可转化为 ，\n\n， ， ， ，分子 ， ， ， ， ，此数列是公比为 的等比数列，所求分子为\n\n；\n\n分母 ， ， ， ， ，此数列是公差为 的等差数列，所求分母为\n\n。故所求项=\n\n= 。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第50题",
+    "region": "jiangsu",
+    "meta": {
+      "invalid": true,
+      "reason": "pdf_not_located"
+    }
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "台风过后，某单位发起救灾捐款活动，甲、乙两部门的员工人数之比是 4:3，捐款总额之比是 5:4。若甲",
+    "options": [
+      {
+        "label": "A",
+        "content": "270 元"
+      },
+      {
+        "label": "B",
+        "content": "290 元"
+      },
+      {
+        "label": "C",
+        "content": "320 元"
+      },
+      {
+        "label": "D",
+        "content": "350 元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设乙部门人均捐款 元，甲、乙两部门员工人数分别 、 。捐款总额 人均捐款 部门人数，则根据条\n\n件可得：\n元。\n\n故正确答案为 C。\n\n，解得\n\n元。则部门的人均捐款是",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第51题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某网店零售月季花，每束成本 39 元、售价 99 元，月销量 800 束。现推出团购活动，购买 10 束及以上，",
+    "options": [
+      {
+        "label": "D",
+        "content": "350 元"
+      },
+      {
+        "label": "B",
+        "content": "290 元"
+      },
+      {
+        "label": "C",
+        "content": "320 元 每束售价 59 元，预计零售销量减半，团购销量激增。若使原销售利润不减，则月团购销量至少应是"
+      },
+      {
+        "label": "A",
+        "content": "800 束"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设团购销量至少 束，则根据题意，单束花利润 单束售价 单束成本\n\n总利润 单束利润 销量\n\n元；推出团购活动后零售销量变为\n\n元，则推出团购之前\n\n束，团购单束花利润\n\n元。根据题意，推出团购活动后总利润 零售利润 团购利润\n\n，解得\n\n束，则团购销量至少\n\n束。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第52题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某装配式建筑企业接到一个生产 1033 套楼板的订单。甲班组生产 5 天后，乙班组再生产 4 天，刚好完成",
+    "options": [
+      {
+        "label": "B",
+        "content": "1000 束"
+      },
+      {
+        "label": "D",
+        "content": "1500 束"
+      },
+      {
+        "label": "C",
+        "content": "1200 束 任务。若甲班组比乙班组每天多生产 23 套，则甲班组生产楼板的套数是"
+      },
+      {
+        "label": "A",
+        "content": "625 套"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设乙班组每天生产楼板 套，则甲班组每天生产\n\n套。根据题意，甲班组 5 天产量 甲生产效率 甲\n\n生产时间\n\n套；乙班组 4 天产量 乙生产效率 乙生产时间\n\n套，总订单 甲产量 乙产量\n\n，解得\n\n套，则甲班组产量\n\n套。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第53题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "使用浓度为 60%的硫酸溶液 50 克和浓度为 90%的硫酸溶液若干克，配制浓度为 66%的硫酸溶液 100 克，",
+    "options": [
+      {
+        "label": "D",
+        "content": "515 套"
+      },
+      {
+        "label": "B",
+        "content": "645 套"
+      },
+      {
+        "label": "C",
+        "content": "535 套 B、12 克 需要加水的质量是"
+      },
+      {
+        "label": "A",
+        "content": "10 克"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设需 的硫酸 克，根据公式\n\n，且混合前后溶质的质量相等，混合后溶质 混合前溶\n\n质，即\n\n故正确答案为 A。\n\n，则解得\n\n克，则需加水共\n\n克。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第54题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "长方形花坛的周长为 20 米，若长与宽各增加 3 米，则增加的面积是",
+    "options": [
+      {
+        "label": "A",
+        "content": "42 平方米"
+      },
+      {
+        "label": "B",
+        "content": "24 平方米"
+      },
+      {
+        "label": "C",
+        "content": "28 平方米"
+      },
+      {
+        "label": "D",
+        "content": "39 平方米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设长方形花坛长为 ，宽为 ，则花坛周长为\n\n米，解得\n\n米。\n\n- 9 -\n\n\f根据图形可知，增加的面积\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第55题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小张下班回家乘地铁 18:45 之前到家的概率为 0.8，乘公交为 0.7。已知小张下班回家要么乘地铁，要么",
+    "options": [
+      {
+        "label": "D",
+        "content": "39 平方米"
+      },
+      {
+        "label": "C",
+        "content": "28 平方米"
+      },
+      {
+        "label": "B",
+        "content": "24 平方米 D、18 克 C、15 克 乘公交，且选择乘地铁的概率为 0.6，则他下班回家 18:45 之前到家的概率是"
+      },
+      {
+        "label": "A",
+        "content": "0.73"
+      }
+    ],
+    "answer": "D",
+    "explanation": "乘地铁概率为 0.6，乘地铁 18:45 之前到家的概率为 0.8，则选择乘地铁且 18:45 之前到家的概率为\n\n平方米。\n\n；小张要么乘地铁，要么乘公交，则乘公交的概率为\n\n，乘公交 18:45 之前到家的概率\n\n为 0.7，则选择乘公交且 18:45 之前到家的概率为\n\n。则小张 18:45 之前到家的概率为\n\n。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第56题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某企业预计今年营业收入增长 15%，营业支出增长 10%，营业利润增加 600 万元。已知该企业去年的营业",
+    "options": [
+      {
+        "label": "B",
+        "content": "0.74"
+      },
+      {
+        "label": "C",
+        "content": "0.75"
+      },
+      {
+        "label": "D",
+        "content": "0.76 利润为 1000 万元，则其今年的预计营业支出是 B、9900 万元"
+      },
+      {
+        "label": "A",
+        "content": "9000 万元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设去年收入为 万元，则今年预计收入为\n\n万元；去年支出为 万元，则今年预计支出为\n\n万元。去年营业利润为 1000 万元，则有\n\n；今年营业利润增加 600 万元，则今\n\n年利润为\n\n年的预计支出为\n\n故正确答案为 B。\n\n万元，则有\n\n。联立①②方程，解得\n\n，\n\n。则今\n\n万元。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第57题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两人分别从 A、B 两地同时出发相向而行。当两人合计走完两地间路程的 1/4 时，甲距 A 地的路程 是 500 米；当两人合计走完两地间路程的 3/4 时，乙距 B 地的路程是 2400 米。若两人的速度始终不变，则当速度 较快者走完全程时，速度较慢者距走完全程还剩的路程是 D、11500 万元 C、10800 万元",
+    "options": [
+      {
+        "label": "A",
+        "content": "1350 米"
+      },
+      {
+        "label": "B",
+        "content": "1600 米"
+      },
+      {
+        "label": "C",
+        "content": "1800 米"
+      },
+      {
+        "label": "D",
+        "content": "1950 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "两人走完全程的 时，甲走的路程是 500 米；现两人走完全程的 ，因速度一直不变，则甲此时走的路程\n\n是\n\n米，乙走的路程为 2400 米，时间相同，速度与路程成正比，\n\n，乙\n\n的速度较快，全程一共是\n\n米，当乙走完全程 5200 米，因时间相同，甲、乙的路程之比即\n\n为速度之比\n\n，则甲走了\n\n米，还剩\n\n米。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第58题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某便民超市将薏米、红豆和小黄米按 2：3：5 混合后出售，每千克成本 13.3 元。若薏米每千克成本 23.6",
+    "options": [
+      {
+        "label": "D",
+        "content": "1950 米"
+      },
+      {
+        "label": "B",
+        "content": "1600 米"
+      },
+      {
+        "label": "C",
+        "content": "1800 米 元，红豆每千克成本 9.8 元，则小黄米每千克的成本是 B、10.18 元"
+      },
+      {
+        "label": "A",
+        "content": "10.36 元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "假设混合后薏米 2 千克，红豆 3 千克、小黄米 5 千克。设小黄米每千克成本为 元，则有\n\n，解得\n\n。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第59题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某区财政局年度考核，办公室与国库科平均得分 90 分，预算科与政府采购科平均得分 84 分，办公室与",
+    "options": [
+      {
+        "label": "D",
+        "content": "11.28 元"
+      },
+      {
+        "label": "C",
+        "content": "11.45 元 政府采购科平均得分 86 分，政府采购科比预算科多 10 分，国库科的得分比综合科多 5 分，那么办公室、预算科、 国库科、政府采购科、综合科的平均得分是"
+      },
+      {
+        "label": "B",
+        "content": "86 分"
+      },
+      {
+        "label": "A",
+        "content": "84 分"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得：\n\n；\n\n；\n\n；\n\n；\n\n。联立②④，解得采购\n\n分，预\n\n算\n\n分，则办公室\n\n分，国库\n\n分，综合\n\n分。五个部门的平均得分则\n\n故正确答案为 C。\n\n分。\n\n61、“3 个大盒与 5 个小盒装的饺子数量相等”，即\n\n，化简\n\n为：每个大盒的饺子数量：每个小盒的饺子数量\n\n。设大盒可以装 只饺子，小盒可以装 只饺子。根据“现\n\n生产了 11000 只饺子，恰好装满 100 个大盒和 200 个小盒”，可得\n个小盒的饺子数量为 30 只，每个大盒的饺子数量为 50 只，对应 B 项。\n\n，解得\n\n，则每\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第60题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某食品厂速冻饺子的包装有大盒和小盒两种规格，现生产了 11000 只饺子，恰好装满 100 个大盒和 200",
+    "options": [
+      {
+        "label": "D",
+        "content": "90 分"
+      },
+      {
+        "label": "C",
+        "content": "88 分 个小盒。若 3 个大盒与 5 个小盒装的饺子数量相等，则每个小盒与每个大盒装入的饺子数量分别是"
+      },
+      {
+        "label": "B",
+        "content": "30 只、50 只"
+      },
+      {
+        "label": "A",
+        "content": "24 只、40 只"
+      }
+    ],
+    "answer": "B",
+    "explanation": "“3 个大盒与 5 个小盒装的饺子数量相等”，即\n\n，化简\n\n为：每个大盒的饺子数量：每个小盒的饺子数量\n\n。设大盒可以装 只饺子，小盒可以装 只饺子。根据“现\n\n生产了 11000 只饺子，恰好装满 100 个大盒和 200 个小盒”，可得\n个小盒的饺子数量为 30 只，每个大盒的饺子数量为 50 只，对应 B 项。\n\n，解得\n\n，则每\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第61题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在统计某高校运动会参赛人数时，第一次汇总的结果是 1742 人，复核的结果是 1796 人，检查发现是第 一次计算有误，将某学院参赛人数的个位数字与十位数字颠倒了。已知该学院参赛人数的个位数字与十位数字之 和是 10，则该学院的参赛人数可能是",
+    "options": [
+      {
+        "label": "A",
+        "content": "64 人"
+      },
+      {
+        "label": "B",
+        "content": "73 人"
+      },
+      {
+        "label": "C",
+        "content": "82 人"
+      },
+      {
+        "label": "D",
+        "content": "91 人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，实际的参赛人数为 1796 人，“将某学院参赛人数的个位数字与十位数字颠倒”后，汇总的结\n\n果为 1742 人，即该学院颠倒后的参赛人数比实际参赛人数少\n37、28、19，与原数做差后分别少 18、36、54、72，只有 C 项符合。\n\n人。选项 A、B、C、D 颠倒后为 46、\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第62题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某商品的进货单价为 80 元，销售单价为 100 元，每天可售出 120 件。已知销售单价每降低 1 元，每天可",
+    "options": [
+      {
+        "label": "D",
+        "content": "91 人"
+      },
+      {
+        "label": "C",
+        "content": "82 人"
+      },
+      {
+        "label": "B",
+        "content": "73 人 多售出 20 件。若要实现该商品的销售利润最大化，则销售单价应降低的金额是"
+      },
+      {
+        "label": "A",
+        "content": "5 元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设降价 x 元，已知“销售单价每降低 1 元，每天可多售出 20 件”，调价后销售单价为\n\n元，进货\n\n单价为 80 元，则降价后单个利润为\n\n元；降价后的销量为\n\n件。总利润 单个利\n\n润 数量\n\n。令总利润为 0，即令\n\n和\n\n都等于 0，解得\n\n，\n\n。\n\n当\n\n时，总利润最大，即销售单价应降低的金额是 7 元，对应 C 项。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第63题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某企业按三个等级给员工发放奖金，一、二、三等奖的获奖人数之比为 1：3：10，奖金总额之比为 2：3：",
+    "options": [
+      {
+        "label": "D",
+        "content": "8 元"
+      },
+      {
+        "label": "B",
+        "content": "6 元"
+      },
+      {
+        "label": "C",
+        "content": "7 元 1。已知获奖员工总数 126 人，发放奖金总额 16.2 万元，则三等奖的奖金是 - 6 -"
+      },
+      {
+        "label": "A",
+        "content": "250 元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设一、二、三等奖的获奖人数为 、 、 ，因为“获奖员工总数 126 人”，即\n\n，解\n\n得\n\n，即一、二、三等奖的获奖人数分别为 9、27、90 人。设一、二、三等奖的奖金总额分别为 、 、 。\n\n因为“发放奖金总额 16.2 万元”，即\n\n，解得\n\n元，即三等奖的奖金总额为 27000 元，\n\n故三等奖奖金为\n\n元。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第64题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某单位要抽调若干人员下乡扶贫，小王、小李、小张都报了名，但因工作需要，若选小李或小张，就不",
+    "options": [
+      {
+        "label": "D",
+        "content": "400 元"
+      },
+      {
+        "label": "B",
+        "content": "300 元"
+      },
+      {
+        "label": "C",
+        "content": "350 元 能选小王。已知三人入选的概率都是 0.2，但小李、小张同时入选的概率是 0.1，则三人中有人入选的概率是 B、0.4 D、0.6 C、0.5 D、惩前：毖后 C、开卷：有益 B、纲举：目张 C、玉：玉手：玉食 C、英国人：西欧人 D、中山门：凯旋门 B、松：松紧：松散 B、青海湖：内陆湖"
+      },
+      {
+        "label": "A",
+        "content": "0.3 四、判断推理。本部分包含类比推理、图形推理、逻辑判断和定义判断四个部分。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意“若选小李或小张，就不能选小王”，即小李或小张入选时，小王一定不入选，小王入选时，\n\n小李和小张都不入选。“三人中有人入选”有以下四种情况：\n\n①小李和小张同时入选，此时小王一定不入选：概率为 0.1；\n\n- 10 -\n\n\f②小李入选、小张不入选，此时小王一定不入选：当小李入选时有两类情况：小李单独入选和小李和小张共\n\n同入选，所以小李单独入选的概率为“小李入选的概率 小李和小张共同入选的概率”\n\n。\n\n③小张入选、小李不入选，此时小王一定不入选：当小张入选时有两类情况：小张单独入选和小李和小张共\n\n同入选，所以小张单独入选的概率为“小张入选的概率 小李和小张共同入选的概率”\n\n。\n\n④小李与小张都未入选，小王单独入选：概率为 0.2。\n\n故“三人中有人入选” 的概率是\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第65题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2020-023",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "6 元，红豆每千克成本9.8 元，则小黄米每千克的成本是",
+    "options": [
+      {
+        "label": "A",
+        "content": "10.36 元"
+      },
+      {
+        "label": "B",
+        "content": "10.18 元"
+      },
+      {
+        "label": "C",
+        "content": "11.45 元"
+      },
+      {
+        "label": "D",
+        "content": "11.28 元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "观察选项，对比首句。③句论述生态文明的理论要求，提出法律要对生态环境进行系统性、整体性的保\n护，⑥句论述生态文明需要怎样的法律体系，对比两句内容可知，③句为宏观理论要求，⑥句为宏观理论要求的\n具体内容，从逻辑顺序而言，应该先提出宏观理论要求，再根据宏观理论提出具体的内容，故③句应在⑥句前，\n排除 A、B 项。\n\n④句出现指代词“这”，且后文指出这决定了仅仅依托传统的法律部门不能对生态环境提供有效的保护，与\n\n③句后半部分“系统性、整体性的保护”相对应，两句衔接恰当。②⑤句所述内容无法衔接④句内容，排除 D 项。\n\n验证 C 项，③句提出宏观要求，指出要进行系统性、整体性的保护，紧接着④句说明仅依托传统的法律部门\n是不够的，⑥句具体指出生态文明究竟需要怎样的法律体系，②⑤①句对⑥句所述的法律体系进行具体解释，逻\n辑通顺。\n\n故正确答案为 C。\n【文段出处】《论我国环境法律的体系化》",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考jiangsu行测第23题",
+    "region": "jiangsu"
+  }
+]

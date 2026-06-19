@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2011~2020年中，全国艺术团体数同比增量超过2000个的年份有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1个"
+      },
+      {
+        "label": "B",
+        "content": "2个"
+      },
+      {
+        "label": "C",
+        "content": "3个"
+      },
+      {
+        "label": "D",
+        "content": "4个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n根据题干“2011~2020 年中······同比增量超过 2000 个······”，可判定本题为增长\n量计算问题。定位表格材料可得：2011~2020 年各年的全国艺术团体数依次为：7055 个、7321 个、\n8180 个、8769 个、10787 个、12301 个、15742 个、17123 个、17795 个和 17581 个。根据公式：增\n长量=现期量-基期量，可得 2012~2020 年各年全国艺术团体数的同比增量，情况如下：\n2012 年的同比增量=7321-7055=266 个<2000 个；\n2013 年的同比增量=8180-7321=859 个<2000 个；\n2014 年的同比增量=8769-8180=589 个<2000 个；\n2015 年的同比增量=10787-8769=2018 个>2000 个；\n2016 年的同比增量=12301-10787=1514 个<2000 个；\n2017 年的同比增量=15742-12301=3441 个>2000 个；\n2018 年的同比增量=17123-15742=1381 个<2000 个；\n2019 年的同比增量=17795-17123=672 个<2000 个；\n2020 年的同比增量=17581-17795=-214 个<2000 个。\n则 2011~2020 年中，全国艺术团体数同比增量超过 2000 个的年份有 2015 年和 2017 年，共 2 个。\n故正确答案为 B。\n【备注】根据历年真题教研，本题问法也应计算 2011 年的增量。但由于题目数据不支持推出 2011\n年增量，本题从 2012 年增量开始分析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第111题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年，在全国艺术表演团体中，各级文化和旅游部门所属艺术表演团体从业人员占比约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.7%"
+      },
+      {
+        "label": "B",
+        "content": "24.6%"
+      },
+      {
+        "label": "C",
+        "content": "27.4%"
+      },
+      {
+        "label": "D",
+        "content": "31.7%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2020 年，······占比约为”，可判定本题为现期比重问题。定位文字材料可得：\n2020 年末，全国共有艺术表演团体从业人员 43.69 万人，其中各级文化和旅游部门所属艺术表演团\n体从业人员 10.75 万人。则 2020 年，在全国艺术表演团体中，各级文化和旅游部门所属艺术表演团\n\n体从业人员占比\n\n故正确答案为 B。\n\n。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第112题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年全国艺术表演团体演出场次比2012年增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "约80%"
+      },
+      {
+        "label": "B",
+        "content": "约100%"
+      },
+      {
+        "label": "C",
+        "content": "约120%"
+      },
+      {
+        "label": "D",
+        "content": "约140%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年······比 2012 年增长了”，结合选项为百分数，可判定本题为一般增长\n率问题。定位统计表可得：2012 年、2019 年全国艺术表演团体演出场次分别为 135.02 万场、296.80\n\n万 场 。 根 据 公 式 ： 增 长 率\n\n， 可 得 2019 年 全 国 艺 术 表 演 团 体 演 出 场 次 比 2012 年 增 长 了\n\n故正确答案为 C。\n\n，与 C 项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第113题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下折线图中，能准确反映2011~2020年国内演出观众人次变化的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "A"
+      },
+      {
+        "label": "B",
+        "content": "B"
+      },
+      {
+        "label": "C",
+        "content": "C"
+      },
+      {
+        "label": "D",
+        "content": "D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "定位表格材料可得：2011 年、2012 年、2013 年、2014 年、2015 年、2016 年、2017 年、2018 年、\n2019 年、2020 年国内演出观众人次分别为：7.46 亿人次、8.28 亿人次、9.01 亿人次、9.10 亿人次、\n9.58 亿人次、11.81 亿人次、12.47 亿人次、11.76 亿人次、12.30 亿人次、8.93 亿人次，人次变化\n趋势为开始缓慢升高，排除 B、D 两项；最后下降，排除 A 项。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第114题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q114.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "不能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015年，全国艺术表演团体平均演出收入不足100万元"
+      },
+      {
+        "label": "B",
+        "content": "2018年，全国艺术表演团体演出收入同比增速快于2016年 / D.2020年，全国艺术表演团体演出场次与国内演出观众人次均同比下降"
+      },
+      {
+        "label": "C",
+        "content": "2019年，全国文化和旅游部门所属艺术表演团体组织的政府采购公益演出中，观众超过1亿人次"
+      },
+      {
+        "label": "D",
+        "content": "（二）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项：定位表格材料可得，2015 年全国艺术表演团体演出收入为 93.93 亿元，表演团体数为 10787 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n个。则 2015 年全国艺术表演团体平均演出收入为\n元，正确。\nB 项：定位表格材料可得，2018 年全国艺术表演团体演出收入为 152.27 亿元，2017 年为 147.68 亿\n\n万元＜100 万\n\n元，故 2018 年全国艺术表演团体演出收入同比增速为\n；\n2016 年全国艺术表演团体演出收入为 120.86 亿元，2015 年为 93.93 亿元，故 2016 年全国艺术表演\n\n团体演出收入同比增速为\n体演出收入同比增速低于 2016 年，而非快于 2016 年，错误。\nC 项：定位文字材料可得，2020 年，全国文化和旅游部门所属艺术表演团体组织政府采购公益演出\n\n。因此 2018 年全国艺术表演团\n\n观众 0.86 亿人次，下降 27.9%。则 2019 年观众人次\n\n亿人次＞1 亿人次，正确。\nD 项：定位表格材料可得，2020 年全国艺术表演团体演出场次 225.61 万场＜2019 年演出场次 296.80\n万场；2020 年国内演出观众人次 8.93 亿人次＜2019 年观众人次 12.30 亿人次。因此 2020 年全国艺\n术表演团体演出场次与国内演出观众人次均同比下降，正确。\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第115题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "表中（？）处应填入的数字是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7822"
+      },
+      {
+        "label": "B",
+        "content": "8559"
+      },
+      {
+        "label": "C",
+        "content": "8577"
+      },
+      {
+        "label": "D",
+        "content": "8898"
+      }
+    ],
+    "answer": "C",
+    "explanation": "表中“？”为 2019 年基金收入，结合材料给出 2019 年基金支出以及结余率，可判定本题为现期比\n重 问 题 。 定 位 统 计 表 ， 2019 年 基 金 支 出 为 8191 亿 元 ， 结 余 率 为 4.5% 。 根 据 公 式 结 余 率\n\n，将数据代入公式可得\n\n，则基金收入\n\n故正确答案为 C。\n\n，与 C 项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第116题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2012—2020年中，在职退休比最接近3的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020年"
+      },
+      {
+        "label": "B",
+        "content": "2019年"
+      },
+      {
+        "label": "C",
+        "content": "2013年"
+      },
+      {
+        "label": "D",
+        "content": "2012年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：根据题干“2012—2020 年中，在职退休比······”，可判定本题为比值计算问题。\n定 位 统 计 图 可 得 2012—2020 年 在 职 职 工 参 保 人 数 与 退 休 职 工 参 保 人 数 。 根 据 在 职 退 休 比\n\n，可得各年份在职退休比分别为：\n\nA 项，2020 年\n\nB 项，2019 年\n\nC 项，2013 年\n\n；\n\n；\n\n；\n\n。\nD 项，2012 年\n在职退休比最接近 3 的是 2012 年。 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n方法二：定位统计图折线数据，观察可知 2012、2013、2019、2020 年在职退休比最接近 3 的是 2012\n年。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第117题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "下列年份中，在职职工参保人数同比增速大小排序错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017年＞2016年"
+      },
+      {
+        "label": "C",
+        "content": "2019年＞2018年"
+      },
+      {
+        "label": "B",
+        "content": "2018年＞2017年"
+      },
+      {
+        "label": "D",
+        "content": "2020年＞2019年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······同比增速大小排序”，可判定本题为一般增长率问题。定位统计图可得\n\n2016-2020 年在职职工参保人数，根据公式，增长率\n\n，代入公式可得 2016-2020 年\n\n在 职 职 工 参 保 人 数 同 比 增 速 分 别 为 ：\n\n，\n\n，\n\n，\n\n小于 2018 年同比增速，C 项排序错误。\n本题为选非题，故正确答案为 C。\n\n，\n\n。因此，2019 年同比增速",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第118题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "假设2021年居民医保基金收入同比增速与2020年相同，那么，2021年居民医保基金收入约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9598亿元"
+      },
+      {
+        "label": "B",
+        "content": "9689亿元"
+      },
+      {
+        "label": "C",
+        "content": "9727亿元"
+      },
+      {
+        "label": "D",
+        "content": "9873亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“假设 2021 年······同比增速与 2020 年相同······2021 年······约\n为”，结合材料时间为 2012-2020 年，可判定本题为现期计算问题。定位统计表可得：2019 年居民\n医保基金支出和结余率分别为 8191 亿元和 4.5%，2020 年基金收入为 9115 亿元。根据结余率\n\n，则有\n\n，解得 2019\n\n年居民医保基金收入\n\n亿元（也可结合本篇材料第 3 题得出此数据）。根据公式：增长率\n\n、 现 期 量 = 基 期 量 × （ 1+ 增 长 率 ） 。 则 2021 年 居 民 医 保 基 金 收 入\n\n亿元，与 B 项最接\n\n近。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第119题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "能够从上述资料中推出的有： ①2017年职工医保在职退休比高于2016年 ②2020年居民医保参保人数比上年略有增加 ③2012—2020年间，职工医保参保人数持续增加 ④2012—2020年间，居民医保基金支出增长金额最快的是2017年",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2 B.（三）"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "D.4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "①：定位统计图可得：2017 年职工医保在职退休比相较于 2016 年有所下降，故 2017 年退休比＜2016\n年退休比，错误；\n②：材料所给数据均为职工医保参保人数，未出现居民医保参保人数相关数据，故无法推出，错误；\n③：定位统计图可得：在职职工参保人数和退休职工参保人数 2012 年-2020 年每年均在增加，故职\n工医保参保总人数也持续增加，正确；\n\n④：定位统计表可得 2012-2020 年的数据，根据公式：增长率\n\n，\n\n2013 年，\n\n； 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n2014 年，\n\n2015 年，\n\n2016 年，\n\n2017 年，\n\n2018 年，\n\n；\n\n；\n\n；\n\n；\n\n；\n\n；\n\n2019 年，\n2020 年，基金支出较上年下降，增长率<0。故 2017 年增速最快，正确；\n综上所述，只有③④正确，共 2 项。\n故正确答案为 B。\n【备注】根据历年真题教研，对于④的问法，如果材料有 2011 年数据，需要计算 2012 年的增速，\n但如果材料没有 2011 年的数据，则不用计算。因此判定④正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第120题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年电子商务平台技术服务收入占全行业收入的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.6%"
+      },
+      {
+        "label": "B",
+        "content": "11.1%"
+      },
+      {
+        "label": "C",
+        "content": "15.3%"
+      },
+      {
+        "label": "D",
+        "content": "18.2%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2020 年······占······的比重约为”，结合材料时间是 2020 年，可判定\n本题为现期比重问题。定位文字材料第二段、第三段可知：2020 年，软件产品实现收入 22758 亿元，\n同比增长 10.1%，占全行业比重为 27.9%；电子商务平台技术服务收入 9095 亿元。根据公式：比重\n\n，则 2020 年全行业收入\n\n亿元，故题干所求\n\n故正确答案为 B。\n\n，与 B 项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第121题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "与2019年相比，2020年占全行业收入比重上升的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "软件产品"
+      },
+      {
+        "label": "B",
+        "content": "信息技术服务"
+      },
+      {
+        "label": "C",
+        "content": "信息安全产品和服务"
+      },
+      {
+        "label": "D",
+        "content": "嵌入式系统软件"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“与 2019 年相比，2020 年占全行业收入比重上升的是”，可判定本题为两期比重问题。\n定位材料第二段至第五段可得：2020 年，软件产品、信息技术服务、信息安全产品和服务、嵌入式\n系统软件实现收入分别同比增长 10.1%、15.2%、10.0%、12.0%。定位材料第三段“2020 年，信息技\n术服务实现收入 49868 亿元，同比增长 15.2%，增速高出全行业平均水平 1.9 个百分点，”则 2020\n年全行业收入同比增速=15.2%-1.9%=13.3%。根据两期比重比较结论：部分增长率＞整体增长率，比\n重上升。观察可知，只有信息技术服务收入同比增速（15.2%）＞全行业收入同比增速（13.3%），\n即与 2019 年相比，2020 年占全行业收入比重上升的是信息技术服务。\n故正确答案为 B。\n备 注 ： 由 于 题 目 为 单 选 题 ， 在 考 场 上 可 直 接 根 据 第 三 段 中 “2020 年 ， 信 息 技 术 服 务 实 现 收\n入······增速高出全行业平均水平······”，秒选 B 项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第122题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年全行业实现收入约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.2万亿元"
+      },
+      {
+        "label": "B",
+        "content": "7.4万亿元"
+      },
+      {
+        "label": "C",
+        "content": "8.2万亿元"
+      },
+      {
+        "label": "D",
+        "content": "8.4万亿元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019 年······约为”，结合材料时间为 2020 年，可判定本题为基期计算问题。\n定位文字材料第三段可得：2020 年，信息技术服务实现收入 49868 亿元，同比增长 15.2%，增速高 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n出全行业平均水平 1.9 个百分点，占全行业收入比重为 61.1%。根据公式：整体量\n\n，则\n\n2020 年 全 行 业 实 现 收 入\n\n亿 元 ， 同 比 增 速 =15.2%-1.9%=13.3% 。 根 据 公 式 ： 基 期 量\n\n， 则 2019 年 全 行 业 实 现 收 入\n\n亿 元\n\n万亿元。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第123题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年嵌入式系统软件同比增速相较于信息安全产品和服务同比增速：",
+    "options": [
+      {
+        "label": "A",
+        "content": "快2.0%"
+      },
+      {
+        "label": "B",
+        "content": "快8.6%"
+      },
+      {
+        "label": "C",
+        "content": "慢4.6%"
+      },
+      {
+        "label": "D",
+        "content": "慢7.5%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年······同比增速相较于······同比增速”，可判定本题为一般增长\n率问题。定位材料第五段，2020 年嵌入式系统软件实现收入 7492 亿元，同比增长 12.0%，增速较上\n年提高 4.2 个百分点，则 2019 年嵌入式系统软件同比增速为 12.0%-4.2%=7.8%；定位材料第四段，\n2020 年信息安全产品和服务实现收入 1498 亿元，同比增长 10.0%，增速较上年回落 2.4 个百分点，\n则 2019 年信息安全产品和服务同比增速为 10.0%+2.4%=12.4%，二者相差：7.8%-12.4%=-4.6%，即\n慢 4.6%。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第124题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "下列选项不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019年信息安全产品和服务实现收入约为1361.8亿元"
+      },
+      {
+        "label": "B",
+        "content": "2019年信息安全产品和服务占全行业收入比重最低"
+      },
+      {
+        "label": "C",
+        "content": "2020年信息安全产品和服务占全行业收入比重为2.8%"
+      },
+      {
+        "label": "D",
+        "content": "2019年信息技术服务收入占全行业收入比重低于61.1%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位文字材料第四段可得：2020 年，信息安全产品和服务实现收入 1498 亿元，同比增长 10.0%。\n\n根 据 公 式 ： 基 期 量\n\n， 则 2019 年 信 息 安 全 产 品 和 服 务 实 现 收 入 为\n\nB 项：定位文字材料可知 2020 年软件产品、信息技术服务、信息安全产品和服务、嵌入式系统软件\n\n亿元，正确；\n\n的实现收入及同比增长率。根据公式：比重\n\n，整体量一致，比较比重的大小，只需比较部\n\n分量的大小即可。根据公式：基期量\n\n，则 2019 年软件产品、信息技术服务、信息\n\n安 全 产 品 和 服 务 、 嵌 入 式 系 统 软 件 的 实 现收 入 分 别 为\n\n亿 元 、\n\n亿 元 、\n\n亿元、\n\n亿元。分母（1+增长率）相差不大，现期量最小的是信息安全产品\n\n和服务，则其基期量最小，占全行业收入比重最低，正确；\nC 项：定位文字材料第一段可知：软件产品、信息技术服务、信息安全产品和服务、嵌入式系统软\n件四大业务形态构成我国软件和信息技术服务业。定位文字材料第二、三、五段可知 2020 年软件产\n品、信息技术服务、嵌入式系统软件实现收入占全行业收入的比重分别是 27.9%、61.1%、9.2%。因\n此，2020 年信息安全产品和服务占全行业收入比重为 1-27.9%-61.1%-9.2%=1.8%，错误；\nD 项：定位文字材料第三段可得：2020 年，信息技术服务实现收入同比增长 15.2%，增速高出全行 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n业平均水平 1.9 个百分点，占全行业收入比重为 61.1%。根据两期比重比较口诀“部分增长率大于\n整体增长率，则比重上升”。部分增长率（15.2%）大于整体增长率（15.2%-1.9%），比重上升，即\n2019 年信息技术服务收入占全行业收入比重低于 61.1%，正确。\n本题为选非题，故正确答案为 C。\n\n考公-考研-事业单位-教资- 资料\n–淘宝：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第125题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-066",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2011~2020年中，全国艺术团体数同比增量超过2000个的年份有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1个"
+      },
+      {
+        "label": "B",
+        "content": "2个"
+      },
+      {
+        "label": "C",
+        "content": "3个"
+      },
+      {
+        "label": "D",
+        "content": "4个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，某镇卫生院 50 多名医生被平均分配到 13 个基层诊所参与工作，医生总数为 13 的倍数，\n\n则医生总数只能为 52 人。由于男医生比女医生多 4 人，则男医生有\n\n人，女医生有\n\n人，分配到邻镇的男医生有 28×25%=7 人。要使这批人员中任意 6 人必有男医生，则\n女医生的人数应小于 6 人；又因有 4 个医疗点，且要保证必有一个医疗点的女医生多于 1 人，则女\n医生的人数应大于 4 人，故女医生的人数为 5 人。则该卫生院到邻镇支援工作的医生有 7+5=12 人。\n故正确答案为 A。\n注：男医生人数为 7 人，女医生人数少于 6 人，则医生总人数少于 13 人，只有 A 项满足。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第66题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-067",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年，在全国艺术表演团体中，各级文化和旅游部门所属艺术表演团体从业人员占比约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.7%"
+      },
+      {
+        "label": "B",
+        "content": "24.6%"
+      },
+      {
+        "label": "C",
+        "content": "27.4%"
+      },
+      {
+        "label": "D",
+        "content": "31.7%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题目要求桥长 2km，最短距离=AB 最短距离+桥长，如下图所示，将河流看成一条直线，两点之\n\n间线段最短，连接 AB 构成直角三角形 ABC，\n\nkm。\n\n从 A 镇前往 B 镇的最短距离=13+2=15km。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第67题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-068",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年全国艺术表演团体演出场次比2012年增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "约80%"
+      },
+      {
+        "label": "B",
+        "content": "约100%"
+      },
+      {
+        "label": "C",
+        "content": "约120%"
+      },
+      {
+        "label": "D",
+        "content": "约140%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "连接 CQ，如图 1 所示，因 PQ 与正四棱锥的底面垂直，故三角形 CPQ 为直角三角形，在直角三角形\n\nCPQ 中，\n\n，故\n\n。同理，连接\n\n，如图 2，在直角三角形\n\n中，\n\n， 故\n\n， 根 据\n\n， 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n，且\n\n，可得\n\n，故第二次伞撑开后形成的正方形\n\n是第一次撑开后正方形 ABCD\n\n面积的 3 倍。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第68题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q068.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-069",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下折线图中，能准确反映2011~2020年国内演出观众人次变化的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "A"
+      },
+      {
+        "label": "B",
+        "content": "B"
+      },
+      {
+        "label": "C",
+        "content": "C"
+      },
+      {
+        "label": "D",
+        "content": "D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "木珠子是球形的，需要从长方体木料的内部进行切割，由于长方体的高为 1.5 厘米，则木珠子的最\n大直径为长方体的高 1.5 厘米，即半径最大。长方体的宽为 2 厘米，木珠子的直径为 1.5 厘米，制\n作过程中，要令数量最多，木珠子错落摆放即满足要求。摆放过程注意不要超出长方体木料的长度，\n用前两个珠子的摆放作为演示： 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\nAC 是两个木珠子球心的连线，长度即为木珠子的直径 1.5 厘米，AC 为斜边做直角三角形 ABC，AC 即\n两个球心间的最短距离。BC 的长度为长方体的宽-木珠子的半径-B 点距长方体左边的边长，且 AB 垂\n直 BC ， 可 得 出 B 点 距 长 方 体 左 边 的 边 长 即 A 点 距 长 方 体 边 长 的 距 离 0.75 厘 米 ， 可 求 BC 长\n\n=2-0.75-0.75=0.5 厘米，在直角三角形 ABC 中，利用勾股定理可以求出 AB 长为 厘米，即在 AB\n\n所在直线上，相邻两个珠子间距（把珠子看成点）为 厘米，且第一个和最后一个珠子的球心距\n\n长方体木料两端至少为 0.75 厘米。则制作的珠子数量=段数+1，段数\n\n，\n\n即分为 13 段，那么珠子数量最多=13+1=14 个。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第69题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q069.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-070",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "不能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015年，全国艺术表演团体平均演出收入不足100万元"
+      },
+      {
+        "label": "B",
+        "content": "2018年，全国艺术表演团体演出收入同比增速快于2016年"
+      },
+      {
+        "label": "C",
+        "content": "2019年，全国文化和旅游部门所属艺术表演团体组织的政府采购公益演出中，观众超过1亿人次"
+      },
+      {
+        "label": "D",
+        "content": "2020年，全国艺术表演团体演出场次与国内演出观众人次均同比下降 （二）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设 2020 年时李某的工龄为 x 年，则李某的年龄为 4x 岁，张某的年龄为\n\n岁，则 2024 年张\n\n某的年龄为（6x+4）岁。根据“到 2024 年时，张某的年龄正好是自己工龄的 2 倍”，则 2024 年张\n\n某的工龄为\n岁，张某参加工作时的年龄为 6x+4-（3x+2）=（3x+2）岁，根\n据“年龄差不变”可得，张某参加工作时，两人的年龄差为 3x+2-10=3x-8，2020 年，两人年龄差为\n6x-4x=2x，即 3x-8=2x，解得 x=8。即李某参加工作时的年龄为 4x-x=3x=24 岁。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第70题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q070.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-071",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2012—2020年中，在职退休比最接近3的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020年"
+      },
+      {
+        "label": "B",
+        "content": "2019年"
+      },
+      {
+        "label": "C",
+        "content": "2013年"
+      },
+      {
+        "label": "D",
+        "content": "2012年"
+      }
+    ],
+    "answer": "A",
+    "explanation": "元素组成相同，优先考虑位置规律。观察发现，若将每列的元素分别标号后，如上图所示，每列的\n元素整体依次向右平移 2 列，且向右平移后又整体依次向下平移 1 格，只有 A 项符合此规律。\n故正确答案为 A。 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第71题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q071.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-072",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "下列年份中，在职职工参保人数同比增速大小排序错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017年＞2016年"
+      },
+      {
+        "label": "B",
+        "content": "2018年＞2017年"
+      },
+      {
+        "label": "C",
+        "content": "2019年＞2018年"
+      },
+      {
+        "label": "D",
+        "content": "2020年＞2019年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······同比增速大小排序”，可判定本题为一般增长率问题。定位统计图可得2016-2020年在职职工参保人数，根据公式，增长率，代入公式可得2016-2020年在职职工参保人数同比增速分别为：，，，，。因此，2019年同比增速小于2018年同比增速，C项排序错误。\n本题为选非题，故正确答案为C。\n\n[来源 baijing1.top paperId=214 sort=72 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第72题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-073",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "表中（？）处应填入的数字是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7822"
+      },
+      {
+        "label": "B",
+        "content": "8559"
+      },
+      {
+        "label": "C",
+        "content": "8577"
+      },
+      {
+        "label": "D",
+        "content": "8898"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项：选项由面 a、面 b 和面 c 构成，选项与题干立体图形一致，排除；\nB 项：选项中面 a、面 b 的公共边挨着面 a 中云朵的顶端，而题干立体图形中面 a、面 b 的公共边挨\n着面 a 中云朵的底端，选项与题干立体图形不一致，当选；\n\nC 项：选项由面 a、面 b 和面 c 构成，选项与题干立体图形一致，排除；\nD 项：选项由面 a、面 b 和面 c 构成，选项与题干立体图形一致，排除。\n本题为选非题，故正确答案为 B。\n备注：本题作图不严谨，C 项中面 b 与面 a 的公共边所对应的图形与题干立体图有差别，云朵的细\n节与立体图形不同，但对比 B、C 两项，B 项错误更加明显，因此建议选择 B 项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第73题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q073.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-074",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "假设2021年居民医保基金收入同比增速与2020年相同，那么，2021年居民医保基金收入约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9598亿元"
+      },
+      {
+        "label": "B",
+        "content": "9689亿元"
+      },
+      {
+        "label": "C",
+        "content": "9727亿元"
+      },
+      {
+        "label": "D",
+        "content": "9873亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题为分组分类题目。元素组成不同，且题干图形出现多个封闭面连在一起，考虑图形间关系。观\n察发现，图①②⑤中封闭面之间通过公共边连接，图③④⑥中封闭面之间通过点连接。即图①②⑤\n一组，图③④⑥一组。 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第74题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-075",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "能够从上述资料中推出的有： ①2017年职工医保在职退休比高于2016年 ②2020年居民医保参保人数比上年略有增加 ③2012—2020年间，职工医保参保人数持续增加 ④2012—2020年间，居民医保基金支出增长金额最快的是2017年",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2 B.（三）"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "D.4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题为分组分类题目。元素组成不同，且属性规律无法分为两组，考虑数量规律。题干每幅图形均\n为 25 宫格内出现的一个由黑粗线条构成的多边形封闭区域。观察发现，图①④⑤中多边形的面积相\n同，均占 7.5 个格子，图②③⑥中多边形的面积相同，均占 10.5 个格子。即图①④⑤为一组，图\n②③⑥为一组。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第75题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q075.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-076",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020年电子商务平台技术服务收入占全行业收入的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.6%"
+      },
+      {
+        "label": "B",
+        "content": "11.1%"
+      },
+      {
+        "label": "C",
+        "content": "15.3%"
+      },
+      {
+        "label": "D",
+        "content": "18.2%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "元素组成不同，且无明显属性规律，考虑数量规律。观察发现，题干图形分割明显，考虑面数量。\n图①⑤⑥均有 6 个面，图②③④均有 9 个面，即图①⑤⑥一组，图②③④一组。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第76题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-077",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年全行业实现收入约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.2万亿元"
+      },
+      {
+        "label": "B",
+        "content": "7.4万亿元"
+      },
+      {
+        "label": "C",
+        "content": "8.2万亿元"
+      },
+      {
+        "label": "D",
+        "content": "8.4万亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "元素组成不同，且无明显属性规律，考虑数量规律。观察发现，图一、图三和图四均为多端点图形，\n图二为多圆相交图形，可以考虑笔画数。题干图形均为一笔画，而本题为选非题，故？处应选择不\n是一笔画的图形。A、B、C 三项均为一笔画图形，D 项为两笔画图形。只有 D 项不符合规律。\n本题为选非题，故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第77题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q077.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-078",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "与2019年相比，2020年占全行业收入比重上升的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "软件产品"
+      },
+      {
+        "label": "B",
+        "content": "信息技术服务"
+      },
+      {
+        "label": "C",
+        "content": "信息安全产品和服务"
+      },
+      {
+        "label": "D",
+        "content": "嵌入式系统软件"
+      }
+    ],
+    "answer": "A",
+    "explanation": "元素组成基本相同，优先考虑位置规律，观察发现，图 1、3、5 元素组成相同，图 2、4 元素组成相\n同，故考虑间隔看位置规律。图 1 经过逆时针旋转 90°可得到图 3，图 3 经过逆时针旋转 90°可得\n到图 5；图 2 经过逆时针旋转 90°可得到图 4，故？处应为图 4 逆时针旋转 90°后得到，对应 A 项。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第78题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-079",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019年嵌入式系统软件同比增速相较于信息安全产品和服务同比增速：",
+    "options": [
+      {
+        "label": "A",
+        "content": "快2.0%"
+      },
+      {
+        "label": "B",
+        "content": "快8.6%"
+      },
+      {
+        "label": "C",
+        "content": "慢4.6%"
+      },
+      {
+        "label": "D",
+        "content": "慢7.5%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题为分组分类题目。观察发现，题干每幅图形均由明显外框图形和内部两条线构成，考虑内部线\n条与外框图形的关系。图①④⑥中内部两条线是从外框图形的最小内角发出的，图②③⑤中内部两\n条线是从外框图形的最大内角发出的，即图①④⑥为一组，图②③⑤为一组，如下图所示。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第79题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-ziliao-2022-080",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "下列选项不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019年信息安全产品和服务实现收入约为1361.8亿元"
+      },
+      {
+        "label": "B",
+        "content": "2019年信息安全产品和服务占全行业收入比重最低 / D.2019年信息技术服务收入占全行业收入比重低于61.1%"
+      },
+      {
+        "label": "C",
+        "content": "2020年信息安全产品和服务占全行业收入比重为2.8%"
+      },
+      {
+        "label": "D",
+        "content": "五. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查截面图，如下图所示，A、C、D 三项均可截出，只有 B 项无法截出。 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n本题为选非题，故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考zhejiang行测第80题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2022/q080.png"
+  }
+]

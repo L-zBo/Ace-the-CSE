@@ -1,0 +1,425 @@
+[
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-001",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年 10 月 14 日，习近平总书记在深圳经济特区建立 40 周年庆祝大会上发表讲话，对经济特区建设给予 了充分肯定。下列关于经济特区建设的表述不准确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1978 年 12 月，党的十一届三中全会作出把党和国家工作中心转移到经济建设上来、实行改革开放的历史性 决策"
+      },
+      {
+        "label": "B",
+        "content": "1979 年 7 月，党中央、国务院批准广东、福建两省实行“特殊政策、灵活措施、先行一步”，并试办出口特 区"
+      },
+      {
+        "label": "C",
+        "content": "1980 年 8 月，党和国家批准在深圳、珠海、上海、厦门设置经济特区"
+      },
+      {
+        "label": "D",
+        "content": "1988 年 4 月，党和国家批准建立海南经济特区"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n\n【解析】本题考查改革开放和经济特区建设。1978年12月，党的十一届三中全会作出把党和国家工作中心转移到经济建设上来、实行改革开放的历史性决策，A项正确。1979年7月，党中央、国务院批准广东、福建两省实行“特殊政策、灵活措施、先行一步”，并试办出口特区，B项正确。1980年8月，党和国家批准在深圳、珠海、汕头、厦门设置经济特区，并非上海，C项错误。1988年4月，海南经济特区获批建立，D项正确。本题为选非题，故选择C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "时政热点",
+      "经济常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第1题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-002",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列对我国“十四五”时期经济社会发展主要目标表述错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "经济发展取得新成效和改革开放迈出新步伐"
+      },
+      {
+        "label": "B",
+        "content": "创新驱动取得新优势和国内市场形成发展新格局"
+      },
+      {
+        "label": "C",
+        "content": "民生福祉达到新水平和国家治理效能得到新提升"
+      },
+      {
+        "label": "D",
+        "content": "社会文明程度得到新提高和生态文明建设实现新进步"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B\n\n【解析】本题考查“十四五”规划主要目标。“十四五”时期经济社会发展主要目标包括经济发展取得新成效、改革开放迈出新步伐、社会文明程度得到新提高、生态文明建设实现新进步、民生福祉达到新水平、国家治理效能得到新提升等。创新驱动相关表述应为“创新能力显著提升”，并非“创新驱动取得新优势”；“形成发展新格局”也不是“国内市场形成发展新格局”的表述，B项错误。本题为选非题，故选择B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "经济常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第2题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-003",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "党的十九届五中全会审议通过的《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远 景目标的建议》，明确提出到 2035 年建成社会主义文化强国的远景目标。关于社会主义文化强国建设目标任务， 下列表述正确的有几项？ ①提高社会文明程度 ③健全现代文化产业体系 ②提升公共文化服务水平 ④加强对外文化交流和多层次文明对话",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 项"
+      },
+      {
+        "label": "B",
+        "content": "2 项"
+      },
+      {
+        "label": "C",
+        "content": "3 项"
+      },
+      {
+        "label": "D",
+        "content": "4 项"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n\n【解析】本题考查社会主义文化强国建设。党的十九届五中全会相关建议提出，到2035年建成文化强国，并强调提高社会文明程度、提升公共文化服务水平、健全现代文化产业体系、加强对外文化交流和多层次文明对话等任务。①②③④均属于社会主义文化强国建设目标任务，正确项共4项。故选择D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "时政热点",
+      "经济常识",
+      "人文常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第3题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-004",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年 12 月 8 日，中国国家主席习近平同尼泊尔总统班达里互致信函，共同宣布珠穆朗玛峰最新高程为 8848.86 米。下列关于珠穆朗玛峰的形成原因与“8848.86 米”的内涵，对应正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "板块挤压―雪面高程"
+      },
+      {
+        "label": "B",
+        "content": "板块挤压―岩石面高程"
+      },
+      {
+        "label": "C",
+        "content": "板块张裂―雪面高程"
+      },
+      {
+        "label": "D",
+        "content": "板块张裂―岩石面高程"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n\n【解析】本题考查地理常识和珠峰高程。珠穆朗玛峰位于喜马拉雅山脉，是印度洋板块与亚欧板块碰撞挤压形成并持续抬升的结果，不是板块张裂形成。2020年公布的珠穆朗玛峰最新高程8848.86米采用的是雪面高程。故“板块挤压―雪面高程”对应正确，选择A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "时政热点"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第4题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-005",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "“秦王扫六合，虎视何雄哉！挥剑决浮云，诸侯尽西来。”下列历史事件不是发生在此诗所咏“秦王”在位 期间的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "蔺相如完璧归赵"
+      },
+      {
+        "label": "B",
+        "content": "唐雎不辱使命"
+      },
+      {
+        "label": "C",
+        "content": "荆轲刺秦王"
+      },
+      {
+        "label": "D",
+        "content": "郑国疲秦"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n\n【解析】诗句中的“秦王”指秦王嬴政，即后来的秦始皇。蔺相如完璧归赵发生在战国时期赵惠文王与秦昭襄王时期，早于秦王嬴政在位，A项不发生在嬴政在位期间。唐雎不辱使命、荆轲刺秦王、郑国疲秦均发生在嬴政在位时期。故选择A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "人文常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第5题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-006",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列关于 2021 年 3 月 1 日起施行的《中华人民共和国长江保护法》的亮点描述准确的是： ①做好了统等协调、系统保护的顶层设计 ②坚持把保护和修复长江流域生态环境放在压倒性位置 ③突出共抓大保护、不搞新开发 ④坚持责任导向，加大处罚力度 ⑤切实增强了长江保护和发展的系统性、整体性、协同性",
+    "options": [
+      {
+        "label": "A",
+        "content": "①③④"
+      },
+      {
+        "label": "B",
+        "content": "②④⑤"
+      },
+      {
+        "label": "C",
+        "content": "①②③④"
+      },
+      {
+        "label": "D",
+        "content": "①②④⑤"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n\n【解析】本题考查《中华人民共和国长江保护法》。该法强调统筹协调、系统保护，做好长江流域保护顶层设计，①正确；坚持把保护和修复长江流域生态环境摆在压倒性位置，②正确；相关表述应为“共抓大保护、不搞大开发”，题干③写作“不搞新开发”，说法不准确；该法坚持责任导向，强化法律责任，加大处罚力度，④正确；有利于增强长江保护和发展的系统性、整体性、协同性，⑤正确。故正确的是①②④⑤，选择D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第6题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-007",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "中华传统美德是中华文化精髓，蕴含着丰富的思想道德资源，凝聚着数千年来中华民族关于个人品德修养和 行为规范的思考和表达。下列关于中华传统美德的表述正确的有几项？ ①天行健，君子以自强不息 ②天下兴亡，匹夫有责 ③美德即知识 ④仁者爱人",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 项"
+      },
+      {
+        "label": "B",
+        "content": "2 项"
+      },
+      {
+        "label": "C",
+        "content": "3 项"
+      },
+      {
+        "label": "D",
+        "content": "4 项"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n\n【解析】本题考查中华传统美德。①“天行健，君子以自强不息”体现自强不息精神，属于中华传统美德。②“天下兴亡，匹夫有责”体现家国责任担当，属于中华传统美德。③“美德即知识”是苏格拉底的伦理思想，不属于中华传统美德。④“仁者爱人”体现儒家仁爱思想，属于中华传统美德。因此正确的是①②④，共3项，选择C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "人文常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第7题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-008",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列关于吊扇悬挂点的拉力描述正确的有： ①吊扇不转动时，悬挂点的拉力等于重力 ②吊扇转动时，悬挂点的拉力小于重力 ③吊扇转速越大，悬挂点的拉力越小 ④吊扇转速越小，悬挂点的拉力越小",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 项"
+      },
+      {
+        "label": "B",
+        "content": "2 项"
+      },
+      {
+        "label": "C",
+        "content": "3 项"
+      },
+      {
+        "label": "D",
+        "content": "4 项"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n\n【解析】本题考查力学常识。吊扇静止时，悬挂点的拉力等于吊扇重力，①正确。吊扇转动时，扇叶向下推动空气，空气对吊扇产生向上的反作用力，悬挂点承担的拉力小于重力，②正确。转速越大，向上的反作用力越大，悬挂点拉力越小，③正确。转速越小，向上的反作用力越小，悬挂点拉力越接近重力，并不是越小，④错误。正确的有3项，故选择C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第8题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-009",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列关于黄河流域的说法错误的是: - 1 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "陕西境内秦岭以北的河流皆属该流域"
+      },
+      {
+        "label": "B",
+        "content": "以“水少沙多、水沙异源”为突出特点"
+      },
+      {
+        "label": "C",
+        "content": "该流域下游常因泥沙堆积形成“地上河”"
+      },
+      {
+        "label": "D",
+        "content": "“泾渭分明”的现象发生在该流域的上游"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n\n【解析】本题考查黄河流域地理。陕西境内秦岭以北河流大多属于黄河流域，A项正确。黄河以水少沙多、水沙异源为突出特点，B项正确。黄河下游因泥沙淤积、河床抬高，常形成“地上河”，C项正确。“泾渭分明”发生在陕西西安附近泾河与渭河交汇处，属于黄河中游区域，并非上游，D项错误。本题为选非题，故选择D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "地理常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第9题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  },
+  {
+    "id": "provincial-guangxi-xingce-changshi-2021-010",
+    "subject": "xingce",
+    "category": "changshi",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "王某向李某借款 1 万元，李某当场向王某交付现金 1 万元，王某向李某出具借条一份，张某在该借条上签字， 后王某没有按时还钱，李某将王某和张某同时起诉至法院，要求王某还钱，并要求张某承担连带责任。关于张某 的责任，下列说法正确的是:",
+    "options": [
+      {
+        "label": "A",
+        "content": "张某只是作为见证人签字，无须承担任何责任"
+      },
+      {
+        "label": "B",
+        "content": "张某在别人的借条上签字，应当推定为保证人，并承担保证责任"
+      },
+      {
+        "label": "C",
+        "content": "张某在别人的借条上签字，视同共同借款人，应当承担共同还款责任"
+      },
+      {
+        "label": "D",
+        "content": "只要借条上没有任何明确表述或其他事实表明张某愿意承担保证责任的，张某即无须承担任何责任"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n\n【解析】本题考查民事保证责任。根据民间借贷相关司法解释及保证责任认定规则，他人在借据、收据、欠条等债权凭证或者借款合同上签字、盖章，如果没有载明其为保证人，或者没有其他事实表明其具有承担保证责任的意思表示，出借人请求其承担保证责任的，人民法院不予支持。本题中张某仅在借条上签字，借条没有明确其保证人身份，也无其他事实表明其愿意承担保证责任，因此张某无须承担保证责任，选择D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "综合常识"
+    ],
+    "sourceLabel": "2021年省考guangxi行测第10题",
+    "region": "guangxi",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 2,
+      "shortExplanationRescueClass": "C",
+      "shortExplanationDeferTo": "D18b-pdf-reextract",
+      "dataCompletedBy": "D18b-short-explanation-web-2026-05-31"
+    }
+  }
+]

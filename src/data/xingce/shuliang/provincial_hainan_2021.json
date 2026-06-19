@@ -1,0 +1,353 @@
+[
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "100 亩实验田中种植了 A、B、C 三种作物，三种作物亩产量分别为 300、500 和 600 千克，总产量为 45 吨。 已知 A 作物的种植面积是 B 作物的 3 倍，问 C 作物的种植面积是 B 作物的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设B作物的种植面积是亩，则A作物的种植面积是亩。C作物的种植面积是亩。总种植面积，整理可得：······①。\n总产量，整理可得：······②\n根据①②联立方程组，解得，，故C作物的种植面积是B作物的倍。\n故正确答案为D。\n\n[来源 baijing1.top paperId=569 sort=56 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第56题",
+    "region": "hainan",
+    "questionImage": "/img/questions/provincial_hainan_2021/q056.png"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一个工程的实施有甲、乙、丙和丁四个工程队供选择。已知甲、乙、丙的效率比为 5:4:3，如果由丁单独实 施，比由甲单独实施用时长 4 天，比由乙单独实施用时短 5 天。问四个队共同实施，多少天可以完成（不足 1 天 的部分算 1 天）？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查工程问题。\n第二步，赋值甲乙丙的效率分别为5、4、3，由于天数有具体数值，令工程总量为5、4、3的公倍数60x，那么\n甲乙的天数分别为12x、15x。由丁比甲多4天，比乙少5天，可知15x-12x=5+4，解得x=3。\n第三步，总量为180，丁的时间为12x+4=40天，效率为180÷40=4.5。四队合干需要180÷（5+4+3+4.5）≈10.9，\n取整为11天。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考hainan行测第57题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲单位职工人数是乙单位的 2 倍，两个单位所有职工中正好有一半是党员。其中甲单位职工中党员占比比乙 单位高 15 个百分点，且甲单位的职工中群众人数比乙单位多 18 人。问甲单位职工中，党员比群众多多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：12%，易错项：C。！\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设乙单位总人数为x，群众为y。已知“申单位职工人数是乙单位的2倍”，所以申单位的总人数为2x。\n末中，+由8之中工电，\n员”，所以群众也是一半，根据这个建立等量关系，2（y+y+18）=x+2x①。“已知甲单位职工中党员占比比乙单\n + 18\n+15%=\n位高15个百分点\"那么甲单位的群众占比比乙单位低15个百分点，根据这个建立等量关系，2c\n②。\n-14-\n第三步，解这两个方程，x=60，y=36，所以甲单位的总人数2x=120，群众为y+18=36+18=54，所以党员为120-54=66.\n所以党员比群众多66-54=12。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第58题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年老张的年龄是小王年龄的 4 倍，2021 年老李的年龄是小王年龄的 3 倍，已知老张比老李大 12 岁，问 - 7 - 哪一年三人的年龄之和第一次超过 140 岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020"
+      },
+      {
+        "label": "B",
+        "content": "2023"
+      },
+      {
+        "label": "C",
+        "content": "2026"
+      },
+      {
+        "label": "D",
+        "content": "2029"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：18%，易错项：C。\n解析\n第一步，本题考查年龄问题。\n第二步，设2020年小王年龄为x岁，则老张年龄为4x岁，2021年小王年龄为x+1岁，老李年龄为3（x+1）岁。\n根据题意列方程4x-[3（x+1）-1]=12，解得x=14岁，即2020年小王14岁，老张56岁，老李44岁，三人年龄\n和为14+56+44=114岁。（140-114）÷38.6，即过9年三人年龄和超过140岁。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第59题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "乙地在甲地的正东方 26 千米处，丙地在甲、乙两地连线的北方，且与甲、乙的距离分别为 24 千米和 10 千 米。一辆车从甲、乙两地中点位置出发向正北方行驶，在经过甲丙连线时，与丙地的距离在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 8 千米"
+      },
+      {
+        "label": "B",
+        "content": "8—9 千米"
+      },
+      {
+        "label": "C",
+        "content": "9—10 千米"
+      },
+      {
+        "label": "D",
+        "content": "10 千米以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：44%，易错项：B。\n解析\n第一步，本题考查平面几何计算。\n第二步，如图：\n丙\nP\n甲\n乙\nA\n甲乙丙三者关系如图，A点为甲乙的中点，P点为甲丙的交点。由条件可知甲乙=26千米，甲丙=24千米，丙乙=10\n千米，满足勾股数，因此角丙为直角。根据题意，PA垂直甲乙所在直线，因此两个三角形相似，设P点到甲的\n距离为x，则，x：26=13：24，可得x=14.08，则P点到丙的距离为24一14.08=9.9。\n因此，选择C答案。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第60题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一次 2 小时的在线会议，会议结束前半小时才有人开始退出且每分钟退出会议人数满足 4+（-1）ⁿ ,（n=1， 2，3，...，30）。若会议开始后加入会议人数是退出人数的 1.5 倍，且会议结束时还有 100 人在线，问会议开 始时可能有多少人在线？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "70"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：11%，易错项：C。\n解析\n第一步，本题考查基础计算问题。\n第二步，退出人数4+（-1）”，（n=1，2，3，...，30），当n为奇数时，会有3个人退出，当n为偶数时，会\n有5个人退出，n=30，奇偶各一半，共（3+5）×15=120人。\n第三步，会议开始后加入会议人数是退出人数的1.5倍，则加入120×1.5=180人，设会议开始时可能有X人在\n线，则180+X-120=100，X=40。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第61题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某直播平台为 3 种特色农产品直播带货 3 小时，第 1 小时 B 产品销售额比 A 产品多 50 万元，C 产品只有 B 产品的 60%；第 2 小时与第 1 小时相比：A 翻倍，B 增加幅度比 A 少 20%，而 C 增加两倍；最后 1 小时共带货 3090 万元，且 A 产品带货额比第 1 小时大幅增加 300%，B、C 均比第 2 小时增加 50%，问第 2 小时直播带货额是多少 万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1580"
+      },
+      {
+        "label": "B",
+        "content": "1600"
+      },
+      {
+        "label": "C",
+        "content": "1860"
+      },
+      {
+        "label": "D",
+        "content": "2000"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：50%，易错项：B。（\n解析\n第一步，本题考查基础应用题。\n第二步，设第一小时A产品销售额为x，根据第1小时B产品销售额比A产品多50万元，C产品只有B产品的\n加幅度比A少20%，而c增加两倍。则第二小时A产品销售额为2x，B产品销售额为（1+0.8）×（x+50），C\n产品销售额为3×0.6×（x+50）；根据A产品带货额比第1小时大幅增加300%，B、C均比第2小时增加50%，\n则第三小时A产品销售额为4x，B产品销售额为1.5×1.8×（x+50），C产品销售额为1.5×1.8×（x+50）；\n由最后1小时共带货3090万元，可得4x+1.5×1.8×（x+50）+1.5×1.8×（x+50）=3090，求得x=300。最\n后代入第二小时可得直播带货额2x+1.8×（x+50）+1.8×（x+50）=1860。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第62题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某省在新冠疫情期间派出包括传染科医生、重症科医生和护士在内的三批援鄂医疗队。三批医疗队中三者人 5:2:3 和 4:3:3。已知第二批医疗队中医生比护士多 40 人，且传染科医生数逐批增加并 数之比分别为 4:2:4, 成等差数列，三批共派出护士 113 人。则三批医疗队共有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "339"
+      },
+      {
+        "label": "B",
+        "content": "350"
+      },
+      {
+        "label": "C",
+        "content": "360"
+      },
+      {
+        "label": "D",
+        "content": "390"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：42%，易错项：C。（\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设第二批医疗队中传染科医生人数为5a，重症科医生人数为2a和护士人数为3a，可列方程：5a+2a-3a=40，\n- 15 -\n解得a=10，那么第二批医疗队共有100人。\n第三步，根据第一批比例为4：2：4和第三批比例为4：3：3，设第一批传染科医生、重症医生、护士人数分别为4x、\n2x、4x，第三批传染科医生、重症医生、护士人数分别为4y、3y、3y。根据护士总人数是113，可列方程：\n4x+30+3y=113，根据三批传染科医生人数成等差数列，可列方程：50-4x=3y-50。联立解得x=8，y=17。则三批\n医疗队一共有80+100+170=350（人）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第63题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "受新冠疫情影响，某高校某专业开展在线教育，在同一上课时间开设 3 门选修课 A，B 和 C，每个学生可任 选其中 1 门，但每门课程限选 30 人。已知该专业共有 90 人，问该专业学生小李能选中课程 A 的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/9"
+      },
+      {
+        "label": "B",
+        "content": "1/6"
+      },
+      {
+        "label": "C",
+        "content": "1/3"
+      },
+      {
+        "label": "D",
+        "content": "2/3"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：53%，易错项：B。（\n解析\n第一步，本题考查概率问题。\n第二步，每门课程限选30人，那么3门课程最多可选90人，则该专业学生每人各选1门且其中30人选的A，\n30人选的B，30人选的C。那么小李能选中课程A的概率为30÷90=1/3。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年省考hainan行测第64题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2021-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "饲养兔子需要场地，小林准备用一段长为 28 米的篱笆围成一个三角形形状的场地，已知第一条边长为 m 米， 由于条件限制第二条边长只能是第一条边长度的 多 4 米，若第一条边是唯一最短边，则 m 的取值可以为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "9 第四部分 判断推理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：42%，易错项：C。\n解析\n第一步，本题考查几何特殊性质，可以采用带入排除。\n第二步，根据题意，代入A选项，若m=6，则第二条边长为3+4=7，第三条边长为15，两边之和小于第三边15，\n不满足题意，排除。\n代入B选项，若m=7，则第二条边长为7.5，第三条边长为13.5，满足题意。\n代入C选项，若m=8，则第二条边长为8，等于第一条，不满足第一条边长为最短。同理可排除D选项。\n因此，选择B答案。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hainan行测第65题",
+    "region": "hainan"
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "运送一批货物，第一趟派出10辆大车，第二趟又增派15辆小车，运输量比第一趟高50%。问每辆大车的载货量 是小车的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2.5"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "1.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设每辆大车的载货量为 x，每辆小车的载货量为 y，则第一趟的运输量为 10x，第二趟的运输量为 10x+15y。 2025  国考《行测》（副省级）解析 \n\n根据题意可列式：10x+15y=(1+50%)×10x，整理可得：x=3y，即每辆大车的载货量是小车的 3 倍。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第66题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某企业今年3月节电量是1月的1.2倍、2月的1.5倍，已知2月节电量比1月少4万度，问今年一季度企业节电量为 多少万度？",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "52"
+      },
+      {
+        "label": "C",
+        "content": "56"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设 3 月节电量为 6x 万度，则 1 月节电量为 6x/1.2=5x 万度，2 月节电量为 6x/1.5=4x 万度，根据“2 月\n节电量比 1 月少 4 万度”可得：4x=5x-4，解得 x=4。故今年一季度企业节电量=5x+4x+6x=15x=15×4=60\n万度。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第67题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲和乙从环形跑道的同一点出发，向相反方向匀速慢跑，乙的速度是甲的一半。两人3分钟后第一次相遇，此 后乙加速又跑了正好半圈后和甲第二次相遇。问两人第一次到第二次相遇间隔了多长时间？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2分10秒"
+      },
+      {
+        "label": "B",
+        "content": "2分15秒"
+      },
+      {
+        "label": "C",
+        "content": "2分20秒"
+      },
+      {
+        "label": "D",
+        "content": "2分30秒"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，赋值最初乙每分钟的速度为 1，则甲每分钟的速度为 2。环形跑道同点出发反向而行，第一次\n\n相遇路程和为一圈，设环形跑道一圈路程为 S，则\n\n。从第一次\n\n相遇到第二次相遇，两人的路程和又是一圈，而乙正好跑了半圈，则甲跑的路程也为半圈，即甲跑的路\n程为 =4.5。甲的速度始终未变，则两人第一次到第二次相遇间隔了 4. =2.25 分钟，即 2 分 15 秒。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第68题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某研发小组员工中，60％的人参与了A项目，45％的人参与了B项目，两个项目都参与的人比两个项目都不参与 的多2人。问该研发小组有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "100"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "40"
+      },
+      {
+        "label": "D",
+        "content": "20"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设 该 研 发 小 组 有 x 人 ， 则 参 与 了 A 项 目 的 有\n\n人 ， 参 与 了 B 项 目 的 有\n\n人；设两个项目都不参与的有 y 人，则两个项目都参与的有（y+2）人。根据两集\n\n合容斥原理公式：\n\n即该研发小组有 40 人。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第69题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "2024年甲、乙、丙三人的年龄之和与2034年甲的年龄相同，且甲、乙的年龄之差大于乙、丙的年龄之差。已知 乙的年龄小于甲但大于丙，问2024年甲的年龄最小可能为多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "13"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "，可列式：0.6x+0.45x-（y+2）=x-y，解得 x=40，\n\n根据“2024 年甲、乙、丙三人的年龄之和与 2034 年甲的年龄相同”可得：甲+乙+丙=甲+（2034-2024），\n化简为：丙=10-乙······①，根据“乙的年龄小于甲但大于丙”，则乙>5。年龄问题优先考虑代\n入排除法，问最小，按照从小到大依次代入。 \n代入 D 项，当甲=9 时，根据“甲、乙的年龄之差大于乙、丙的年龄之差”可得：9-乙>乙-丙······②，\n\n将①代入②，解得：\n\n，又因乙>5，则乙=6，丙=10-6=4，满足题干所有条件，无需验证其他选\n\n项。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第70题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲、乙、丙3台收割机每小时均能收割2亩小麦，三台机器上午先后开始收割工作，12：00时甲收割的面积是乙 的1.5倍，且比丙多收割6亩，16：00时3台收割机共收割了50亩，问乙是何时开始工作的？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6：00"
+      },
+      {
+        "label": "B",
+        "content": "7：00"
+      },
+      {
+        "label": "C",
+        "content": "8：00"
+      },
+      {
+        "label": "D",
+        "content": "9：00"
+      }
+    ],
+    "answer": "C",
+    "explanation": "12：00 至 16：00，3 台收割机均工作 4 小时，共收割\n\n亩小麦，则 12：00 之前 3 台收\n\n割机收割 50-24=26 亩小麦。设 12：00 之前乙收割机工作了 x 小时，收割面积为 2x 亩，根据题意可列等\n\n式：\n\n，解得 x=4，即乙收割机在 12：00 之前工作了 4 小\n\n时，则乙是在 8：00 开始工作的。 2025  国考《行测》（副省级）解析 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第71题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某竞赛由5道次序固定的判断题组成，参赛者起始为0分，每答对1题加1分，每答错1题扣1分。小王作答了所有 试题，答完每道题时当前的得分都不低于1分。问他的答题情况有多少种不同的可能？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“答完每道题时当前的得分都不低于 1 分”可知，第一题和第二题均答对，第三题分情况讨论： \n①第三题答对，此时有 3 分，第四题和第五题不论是答对还是答错，均能保证答完每道题时当前的得分\n都不低于 1 分，故第四题和第五题答题情况均为 2 种，分步用乘法，有 2×2=4 种情况； \n②第三题答错，此时还剩 1 分，所以第四题必须答对，第四题答对后有 2 分，则第五题不论答对还是答\n错均满足题干条件，有 2 种情况。 \n分类用加法，即共有 4+2=6 种情况。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第72题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某种机械由3个A模块和2个B模块组成。甲车间每天可生产6个A模块或3个B模块，乙车间每天可生产1个A模块 或2个B模块。现两车间合作生产40台该机械所需模块，问至少需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "28"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "C",
+    "explanation": "要使所需时间最少，则让两个车间分别生产相对效率更高的模块。甲车间相对于乙车间生产 A 模块的效\n\n率为\n\n，生产 B 模块的相对效率为\n\n，比较发现，甲车间生产 A 模块的相对效率更高，故\n\n先由甲车间生产 A 模块，乙车间生产 B 模块。甲车间生产 A 模块需要\n\n天，此时乙车间已\n\n生产 B 模块 2×20=40 个，还剩 40×2-40=40 个 B 模块由两车间共同生产，需要\n\n天，故至\n\n少需要 20+8=28 天。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第73题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲船在A港正东n海里，乙船在A港正南 海里，两船相距120海里，同时出发向A港匀速行驶。已知乙船的速 度是甲船的 倍，比甲船早3小时到A港。问甲船的速度是多少海里/小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "10√3"
+      },
+      {
+        "label": "D",
+        "content": "15√3"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，\n\n，解得 n=60，则甲船距离 A 港 60 海里，乙船距离 A 港\n\n海里。已知乙船的速度是甲船的\n\n倍，则\n\n，根据乙船比甲船早 3 小时到 A 港，可列\n\n式：\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第74题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某门店星期一至星期五的日营业额均为1万元，星期六和星期日的日营业额均为2万元。某月1-16日的总营业额 为22万元，问该月8日为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "星期三"
+      },
+      {
+        "label": "B",
+        "content": "星期四"
+      },
+      {
+        "label": "C",
+        "content": "星期五"
+      },
+      {
+        "label": "D",
+        "content": "星期六"
+      }
+    ],
+    "answer": "D",
+    "explanation": "，即\n\n，解得\n\n。 \n\n根据题意，该门店每周的营业额为 1×5+2×2=9 万元， =2 周余 2 天，即该月 1-16 日的总营业额包\n含 2 个整周加 2 天的营业额，这 2 天的营业额为 22-9×2=4 万元，则多出的这 2 天只能是星期六和星期\n日，即该月 1-16 日包含 3 个星期六和 3 个星期日，连续的 14 天（3 日至 16 日）包含星期一至星期日各\n2 个，则该月 1 日只能是星期六，该月 8 日也是星期六。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第75题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-076",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某种商品在定价基础上打八折销售，打折之前每天卖40件，开始打折第一天起，每天都比前一天多卖10件。打 折销售15天的利润总额与打折之前销售20天的利润总额相同，问这种商品的成本是定价的： B.64% C.70% D.75%",
+    "options": [
+      {
+        "label": "A",
+        "content": "60%"
+      },
+      {
+        "label": "B",
+        "content": "64%"
+      },
+      {
+        "label": "C",
+        "content": "70%"
+      },
+      {
+        "label": "D",
+        "content": "75%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "2025  国考《行测》（副省级）解析 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第76题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-077",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "将甲、乙两种设备各5件全部分配给A、B、C三个车间，要求每个车间分配两种设备至少各1件，A车间分配的 设备总数比其他任一车间都多，B车间分配的甲设备多于乙设备，问有多少种不同的分配方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "24"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，符合要求的情况列表如下： \n\n综上，共有 3 种不同的分配方式。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第77题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-078",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某厂区如图所示，其中ABCD为矩形，ABEF为直角梯形，AB与DE相交于G点，其中阴影区域ADGF为涉密区 域。已知AD、AF、AB长度分别为240米、150米、100米，问涉密区域的面积为多少万平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.2"
+      },
+      {
+        "label": "B",
+        "content": "1.3"
+      },
+      {
+        "label": "C",
+        "content": "1.4"
+      },
+      {
+        "label": "D",
+        "content": "1.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：如下图所示，连接 AE，根据“ABEF 为直角梯形”，可知\n\n，\n\n和\n\n均以 AG 为底、EB 为高，即两个三角形同底等高，则\n\n。由于 ABCD 为矩形且 AD、AB\n\n长度分别为 240 米、100 米，则所求涉密区域面积\n\n平方米=1.2 万平方米。 2025  国考《行测》（副省级）解析 \n\n方法二：设 AG、BE 的长度分别为 x 米、y 米，则 BG 的长度为（100-x）米。根据“ABCD 为矩形，ABEF 为\n\n直角梯形”，则\n\n，\n\n，因此\n\n，\n\n则有\n\n，即\n\n，整理可得\n\n，故所求涉密区域面\n\n积\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第78题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2025_fushengjia/q078.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-079",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "小王计划在7天假期自学甲、乙两门在线课程，每门课程需要连学2整天。如在所有可能的安排中随机选择1 种，不用学习的3天均不相邻的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/7"
+      },
+      {
+        "label": "B",
+        "content": "1/8"
+      },
+      {
+        "label": "C",
+        "content": "1/9"
+      },
+      {
+        "label": "D",
+        "content": "1/10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "平方米=1.2 万平方米。 \n\n根据公式：概率=满组要求情况数/总情况数，分析如下： \n甲、乙两门课程均需要占用相邻的 2 天，可用捆绑法，先将每门课程所占用的 2 天分别捆绑，再将这 2\n个捆绑体和其它 3 天进行排序。因每“天”均相同，不用排序，而两门课程不同，需要排序，则总情况\n\n数\n\n种情况； \n\n根据题意，不用学习的 3 天均不相邻，可用插空法，优先安排学习两门课程的时间，因两门课程不同，\n\n对两门课程进行排序有\n\n种情况，再将剩余 3 天插入两门课程安排好之后形成的 3 个空隙，因每\n\n“天”均相同不用再排序，有\n\n种情况，故满足要求的情况数=2×1=2 种情况。 \n\n综上，所求概率\n\n。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第79题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-fushengjia-080",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "一个容器的下部分为高12厘米的倒立圆锥体，上部分为圆柱体，且圆锥和圆柱的底面半径相等。现匀速向容器 中注入水，1分钟后液面高6厘米，又过30分钟后注满。问整个容器的高度为多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "22"
+      },
+      {
+        "label": "B",
+        "content": "个最恰当的答案。"
+      },
+      {
+        "label": "D",
+        "content": "五. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一"
+      },
+      {
+        "label": "C",
+        "content": "23"
+      }
+    ],
+    "answer": "D",
+    "explanation": "2025  国考《行测》（副省级）解析 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（副省级）第80题",
+    "level": "fushengjia"
+  }
+]

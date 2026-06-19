@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 常识判断 changshi — 古书 / 卷轴（常识 = 古今知识沉淀） -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="常识判断">
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 12 14 q 0 -6 6 -6 h 28 q 6 0 6 6 v 36 q 0 6 -6 6 h -28 q -6 0 -6 -6 z" />
+    <path d="M 18 8 v 48" opacity="0.5" />
+    <line x1="22" y1="18" x2="46" y2="18" opacity="0.7" />
+    <line x1="22" y1="26" x2="42" y2="26" opacity="0.7" />
+    <line x1="22" y1="34" x2="46" y2="34" opacity="0.7" />
+    <line x1="22" y1="42" x2="40" y2="42" opacity="0.7" />
+  </g>
+  <text x="38" y="50" font-family="'LXGW WenKai','PingFang SC',serif" font-size="9" font-weight="bold" fill="currentColor" text-anchor="middle">识</text>
+</svg>

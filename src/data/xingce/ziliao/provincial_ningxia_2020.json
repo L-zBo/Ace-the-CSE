@@ -1,0 +1,703 @@
+[
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-101",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列说法正确的是:",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2018 年底，中国人工智能市场规模每年同比增长率都超过 50%"
+      },
+      {
+        "label": "B",
+        "content": "截至 2018 年底，中国人工智能企业地城分布情况中，广东企业数量最多 - 18 -"
+      },
+      {
+        "label": "C",
+        "content": "截至 2018 年底，中国人工智能企业北京企业数量不超过上海企业数量的 50%"
+      },
+      {
+        "label": "D",
+        "content": "截至 2018 年底，福建人工智能企业的数量等于河南、天津、广西三省企业数量之和"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：73%，易错项：C。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，增长率计算。定位图 1，根据增长率=（现期量－基期量）/基期量，数据本身不大，简单取整\n\n，错误。\n\n处理，可得 2016 年增长率为\nB 选项，直接读数。定位文字材料，“从中国人工智能企业地域分布情况表看，北京企业数量最多”，可知企业\n数量最多的是北京，而非广东，错误。\nC 选项，简单比较。定位图 2，北京企业数量 368 个，上海企业数量 131 个，368＞131×50%，超过 50%，错误。\nD 选项，简单计算。定位图 2，福建人工智能企业数量（16 个）=河南（5 个）+天津（10 个）＋广西（1 个），\n正确。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第101题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-102",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "图 2 中排名第二的省份，其人工智能企业数量的个数约是排名后四位的数量之和的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.3"
+      },
+      {
+        "label": "B",
+        "content": "12.3"
+      },
+      {
+        "label": "C",
+        "content": "12.8"
+      },
+      {
+        "label": "D",
+        "content": "13.3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：78%，易错项：C。\n\n解析\n\n第一步，本题考查现期倍数计算。\n第二步，定位图 2，人工智能企业数排名第二的是广东（185 个），排名后四位的是广西（1 个），重庆（3 个），\n河南（5 个），辽宁（6 个）。\n第三步，根据现期倍数公式，倍数=前/后，可得排名第二的省份其人工智能企业数量个数是排名后四位的\n\n因此，选择 B 选项。\n\n倍。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第102题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-103",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2015 至 2018 年，中国人工智能市场规模同比增长率最高的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015 年"
+      },
+      {
+        "label": "B",
+        "content": "2016 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2018 年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：75%，易错项：C。\n\n解析\n\n第一步，本题考查增长率计算比较。\n第二步，定位图 1，2014—2018 年，中国人工智能市场规模数据分别为：51.7 亿元、70.2 亿元、100.6 亿元、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第103题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-104",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年中国人工智能市场规模同比增长率与 2015 年相比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了 13.3 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "增加了 13.3 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "减少了 15.4 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "增加了 15.4 个百分点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：54%，易错项：B。\n\n解析\n\n第一步，本题考查增长率计算。\n第二步，定位图 1，2014—2017 年，中国人工智能市场规模数据分别为：51.7 亿元、70.2 亿元、100.6 亿元、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第104题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-105",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "若按照 2018 年同比增长率，到 2019 年底中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "363 亿元"
+      },
+      {
+        "label": "B",
+        "content": "371 亿元"
+      },
+      {
+        "label": "C",
+        "content": "373 亿元"
+      },
+      {
+        "label": "D",
+        "content": "383 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：53%，易错项：B。\n\n解析\n\n，差值超过 15 个百分点，D 选项符合。\n\n第一步，本题考查现期量计算。\n第二步，定位文字材料，“截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到 56.6%”。\n第三步，根据现期量=基期量×（1+增长率），选项出现首两位相同，精确计算，代入数据可得 238.2×（1+56.6%）\n=238.2＋238.2×56.6%≈238.2＋134.8=373（亿元）。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第105题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2019 年 6 月末，地方政府一般债务余额和专项债务余额都控制在限额之内"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 1 至 6 月，地方政府一般债券的平均发行利率高于专项债券 0.1 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 5 月，地方政府新增债券的平均发行期限比置换债券和再融资债券短"
+      },
+      {
+        "label": "D",
+        "content": "2019 年地方一般债务限额比专项债务限额多 25404.14 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：58%，易错项：B。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出不能推出的一项。\n第二步，A 选项，直接读数，定位最后一段文字材料，“（2019 年全国地方政府）一般债务限额 133089.22 亿元，\n专项债务限额 107685.08 亿元。截至 2019 年 6 月末，全国地方政府一般债务余额 118397 亿元，专项债务 8708\n亿元”，直接读数可知，截至 2019 年 6 月末，地方政府一般债务余额（118397 亿元）＜一般债务限额（133089.22\n，地\n亿元）；专项债务余额（87080 亿元）＜专项债务限额（107685.08 亿元），即截至 2019 年 6 月末\n方政府一般债务余额和专项债务余额都控制在限额之内，正确。\nB 选项，直接读数，定位倒数第二段文字材料，“（2019 年 1 至 6 月地方政府）一般债券平均发行利率 3.53%，\n专项债券 3.43%”，直接读数可知，一般债券平均发行利率高于专项债券：3.53%－3.43%=0.1%，即高了 0.1 个\n百分点，正确。\nC 选项，无中生有，定位全篇材料。未给出 2019 年 5 月相关数据，无法求得，错误。\nD 选项，简单计算，定位最后一段文字材料，“（2019 年全国地方政府）一般债务限额 133089.22 亿元，专项债\n务限额 107685.08 亿元”，2019 年地方一般债务限额比专项债务限额多 133089.22－107685.08=25404.14（亿元），\n正确。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第106题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1 至 6 月，发行一般债券的占比较发行专项债券的占比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低 9.36%"
+      },
+      {
+        "label": "B",
+        "content": "低 52.81%"
+      },
+      {
+        "label": "C",
+        "content": "高 47.93%"
+      },
+      {
+        "label": "D",
+        "content": "高 53.43%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：45%，易错项：D。\n\n解析\n\n第一步，本题考查基期比重计算。\n第二步，定位第三段文字材料，“2019 年 1 至 6 月，全国发行地方政府债券 28372 亿元，同比增长 101.09%。其\n中，发行一般债券 12858 亿元，同比增长 23.21%，发行专项债券 15514 亿元，同比增长 322.38%”。\n第三步，解法一：根据基期量=现期量/（1+增长率）和比重=部分量/整体量，同一个整体，则比重之差=部分量\n之差/整体量，可得，2018 年 1 至 6 月，发行一般债券的占比较发行专项债券的占比高\n\n因此，选择 C 选项。\n\n，与 C 选项最接近。\n\n解法二：根据基期比重=\n\n，复杂计算，可将部分数据截位舍相同处理，可得 2018 年 1 至 6 月，发行\n\n一般债券的占比约为\n≈26%（或者，直接\n≈74%；发行专项债券的占比约为\n用发行专项债券的占比=1－发行一般债券的占比=1－74%=26%），则 2018 年 1 至 6 月，发行一般债券的占比较发\n行专项债券的占比高 74%－26%=48%，与 C 选项最接近。\n因此，选择 C 选项。\n\n- 29 -\n\n\f获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第107题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1 至 5 月，全国发行地方政府债券约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "23029 亿元"
+      },
+      {
+        "label": "B",
+        "content": "19376 亿元"
+      },
+      {
+        "label": "C",
+        "content": "14109 亿元"
+      },
+      {
+        "label": "D",
+        "content": "8766 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，本题考查基期量和差计算。\n第二步，定位第一段和第三段文字材料，“2019 年 6 月，全国发行地方政府债券 8996 亿元，同比增长 68.37%”\n和“2019 年 1 至 6 月，全国发行地方政府债券 28372 亿元，同比增长 101.09%”。\n第三步，根据基期量=现期量/（1+增长率），选项出现首位相同第二位不同，分母从左向右截取前三位，可得\n\n≈14000－5000=9000（亿元），与 D 选项最接近。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第108题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 1 至 6 月，全国发行地方政府债券同比增量绝对值排序正确的是： - 19 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "新增债券＞专项债券＞置换债券和再融资债券＞一般债券"
+      },
+      {
+        "label": "B",
+        "content": "新增债券＞置换债券和再融资债券＞一般债券＞专项债券"
+      },
+      {
+        "label": "C",
+        "content": "专项债券＞新增债券＞置换债券和再融资债券＞一般债券"
+      },
+      {
+        "label": "D",
+        "content": "置换债券和再融资债券＞专项债券＞一般债券＞新增债券"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：57%，易错项：C。\n\n解析\n\n第一步，本题考查增长量公式比较。\n第二步，定位第三段文字材料，“（2019 年 1 至 6 月全国）发行一般债券 12858 亿元，同比增长 23.21%，发行\n专项债券 15514 亿元，同比增长 322.38%；按用途划分，发行新增债券 21765 亿元，同比增长 553.80%，发行置\n换债券和再融资债券 6607 亿元，同比减少 38.71%”。\n第三步，根据增长量比较口诀，大大则大，一大一小看乘积。增长量本身有正负之分，比较增长量的绝对值，即\n比较变化量，需看绝对值的大小关系。读数可知，新增债券现期量和增长率的绝对值（21765 亿元、553.80%）\n均最大，则其增长量的绝对值最大，排除 C、D 选项。专项债券现期量与增长率的绝对值（15514 亿元、322.38%）\n均大于置换债券和再融资债券（6607 亿元、|－38.71%|），排除 B 选项。\n因此，选择 A 选项。\n\n拓展\n\n增长量本身有正负之分，增长量的绝对值，即变化量，看绝对值",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第109题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 6 月，全国发行的地方政府债券比 2018 年 6 月多约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6151 亿元"
+      },
+      {
+        "label": "B",
+        "content": "5953 亿元"
+      },
+      {
+        "label": "C",
+        "content": "3653 亿元"
+      },
+      {
+        "label": "D",
+        "content": "3043 亿元 (材料 3)"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：68%，易错项：B。\n\n解析\n\n第一步，本题考查增长量计算中的已知现期量与增长率。\n第二步，定位第一段文字材料，“2019 年 6 月，全国发行地方政府债券 8996 亿元，同比增长 68.37%”。\n\n第三步，68.37%≈66.7%≈\n\n，根据增长量计算 n+1 原则，2019 年 6 月，全国发行的地方政府债券比 2018 年 6\n\n月多约\n因此，选择 C 选项。\n\n，直除首两位商 35，与 C 选项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第110题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016 年 A 市气候调节价值年值超过 700 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2017 年 A 市现代农业生态服务价值年值增长率、贴现值增长率最低的是同一个指标"
+      },
+      {
+        "label": "C",
+        "content": "2017 年 A 市生态与环境价值贴现值超过直接经济价值贴现值、间接经济价值贴现值之和的 5 倍"
+      },
+      {
+        "label": "D",
+        "content": "2017 年 A 市气候调节价值与水源涵养价值的年值之和超过生态与环境价值中其余指标的年值之和"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：59%，易错项：D。\n\n解析\n\n第一步，本题考查综合分析，且需选出正确的一项。\n\n第二步，A 选项，基期量计算。定位表格中“气候调节价值”所在行，根据基期量=\n\n，代入数据可得，\n\n（亿元），错误。\n\n2016 年 A 市气候调节价值年值为\nB 选项，增长率读数比较。定位表格中“比上年增长（%）”所在列，2017 年，现代农业生态服务价值年值同比\n增长率最低的指标是“土壤保持价值（－12.6%）”，贴现值同比增长率最低的指标是“水力发电价值（－10.1%）”，\n二者不是同一个指标，错误。\nC 选项，现期倍数计算。定位表格中“贴现值”所在列，将数据取整处理，9183＞（373+1214）×5，即 2017 年\nA 市生态与环境价值贴现值超过直接经济价值贴现值、间接经济价值贴现值之和的 5 倍，正确。\nD 选项，简单计算和差类。定位表格中“年值”所在列。将数据取整处理，2017 年 A 市气候调节价值与水源涵养\n价值的年值之和为 732+288=1020（亿元），环境价值中其余指标的年值之和为 2049－1020=1029（亿元），前者\n低于后者，错误。\n因此，选择 C 选项。\n\n拓展\n\n- 30 -\n\n\f获取试卷更新，请关注\nA 超过 B 的 n 倍，即 A＞n×B",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第111题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列 A 市的指标中，2017 年同比增量最多的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "气候调节价值年值"
+      },
+      {
+        "label": "B",
+        "content": "水源涵养价值年值"
+      },
+      {
+        "label": "C",
+        "content": "水源涵养价值贴现值"
+      },
+      {
+        "label": "D",
+        "content": "生物多样性价值贴现值"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：49%，易错项：D。\n\n解析\n\n第一步，本题考查增长量公式比较。\n第二步，定位表格。\n第三步，根据增长量比较口诀“大大则大，一大一小看乘积”，乘积为“现期量×增长率”，气候调节价值年值\n的乘积（732.34×5.6%）明显高于其余三个指标的的乘积（287.78×10.2%、402.98×7.5%、2898.67×1.2%），\n则 A 选项同比增量最多。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第112题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 A 市生态与环境价值中，年值、贴现值较上年均有所上升的指标有： - 20 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "6 个"
+      },
+      {
+        "label": "B",
+        "content": "5 个"
+      },
+      {
+        "label": "C",
+        "content": "4 个"
+      },
+      {
+        "label": "D",
+        "content": "3 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：81%，易错项：C。\n\n解析\n\n第一步，本题考查简单比较中的读数比较。\n第二步，定位表格。\n第三步，年值、贴现值较上年有所上升，即同比增长率大于 0，读表可知，2017 年生态与环境价值中，年值、贴\n现值同比增长率均大于 0 的指标有：气候调节价值（5.6%、2.7%）、水源涵养价值（10.2%、7.5%）、生物多样\n性价值（0.3%、1.2%）、防护与减灾价值（0.3%、1.2%）、土壤形成价值（1.6%、1.6%），共计 5 个。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第113题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市直接经济价值年值占现代农业生态服务价值年值的比重为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.24%"
+      },
+      {
+        "label": "B",
+        "content": "11.23%"
+      },
+      {
+        "label": "C",
+        "content": "13.59%"
+      },
+      {
+        "label": "D",
+        "content": "15.46%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：69%，易错项：C。\n\n解析\n\n第一步，本题考查基期比重计算问题。\n第二步，定位表格可知，“2017 年，A 市直接经济价值年值 372.60 亿元，同比增长－6.0%；现代农业生态服务\n价值年值 3635.46 亿元，同比增长 3.0%”。\n\n第三步，根据基期比重公式：\n\n，选项出现首位相同第二位不同的情况，复杂计算，可将部分数据截\n\n位舍相同处理，代入相应数据为\n最接近。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第114题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是： (材料 4) 2019 年 5 月，全国 12358 价格监管平台受理价格举报、投诉、咨询共计 37576 件，同比下降 40.70%，环比 下降 9.31%。其中，价格举报 4192 件，环比下降 19.06%；价格投诉 2059 件，环比下降 15.92%；价格咨询 31325 件，环比下降 7.34%。平台受理量排名前十的省份依次是北京（5786 件）、江苏（3528 件）、上海 （2499 件）、重庆（2486 件）、河南（2469 件）、陕西（2440 件）、浙江（2321 件）、天津（1571 件）、福 建（1483 件）、广西（1309 件）。平台受理量行业分布如下表所示：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：72%，易错项：C。\n\n解析\n\n，与 B 选项\n\n第一步，本题考查现期比重比较。\n第二步，定位表格可知，“2017 年，A 市间接经济价值年值为 1214.15 亿元，其中，旅游服务价值年值为 804.78\n亿元、水力发电价值年值为 8.68 亿元、景观增值价值年值为 400.70 亿元”。\n第三步，观察发现 804.78 大约是 400.70 的 2 倍，只有 A 选项符合。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第115题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2020/q115.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名第二的省份约是排名第九的省份的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "2.4"
+      },
+      {
+        "label": "C",
+        "content": "3.7"
+      },
+      {
+        "label": "D",
+        "content": "4.4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：78%，易错项：C。\n\n解析\n\n第一步，本题考查现期倍数计算。\n第二步，定位文字材料，“平台受理量排名前十的省份依次是北京（5786 件）、江苏（3528 件）、上海（2499\n件）、重庆（2486 件）、河南（2469 件）、陕西（2440 件）、浙江（2321 件）、天津（1571 件）、福建（1483\n件）、广西（1309 件）”。\n第三步，读数可知，受理量排名第二的省份为江苏（3528 件），排名第九的省份为福建（1483 件），选项首位\n\n不同，可将分母从左向右截取前二位，代入数据可得\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第116题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 4 月，平台受理的价格咨询比价格举报约多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26146 件"
+      },
+      {
+        "label": "B",
+        "content": "27133 件"
+      },
+      {
+        "label": "C",
+        "content": "28627 件"
+      },
+      {
+        "label": "D",
+        "content": "29614 件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：50%，易错项：B。\n\n解析\n\n第一步，本题考查基期量和差计算。\n\n，直除首位商 2。\n\n- 31 -\n\n\f获取试卷更新，请关注\n第二步，定位文字材料，“2019 年 5 月，价格举报 4192 件，环比下降 19.06%；价格咨询 31325 件，环比下降",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第117题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 5 月，平台受理量排名前五的行业占受理总数的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "61.4%"
+      },
+      {
+        "label": "B",
+        "content": "56.3%"
+      },
+      {
+        "label": "C",
+        "content": "51.8%"
+      },
+      {
+        "label": "D",
+        "content": "46.5%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n≈33800－5200=28600（件），与 C 选项最接近。\n\n第一步，本题考查现期比重计算。\n第二步，定位表格材料，“2019 年 5 月，平台受理量排名前五的行业分别是：停车收费（10043 件）、商品零售\n（3118 件）、交通运输（2730 件）、社会服务（2686 件）和物业管理（2587 件），平台受理量合计为 37576 件”。\n第三步，根据比重=部分量/整体量，选项出现了首位相同第二位不同的情况，可将分母从左向右截取前三位，分\n子为加法考虑截位舍相同，可得 2019 年 5 月，平台受理量排名前五的行业占受理总数的比重约为\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第118题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年 5 月，平台受理价格举报数量多于价格投诉数量"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 5 月，平台受理价格咨询数量环比下降幅度最大"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 5 月，平台受理教育行业数量不超过旅游行业的 2 倍 - 21 -"
+      },
+      {
+        "label": "D",
+        "content": "2019 年 5 月，平台受理量排名前三的省份占总数的比重低于 35%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：39%，易错项：C。\n\n，直除首两位商 56。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出能推出的一项。\n第二步，A 选项，基期量比较，定位文字材料，材料给出了 2019 年 5 月平台受理价格举报数量与价格投诉数量，\n但未给出“同比增长率”，无法求出 2018 年 5 月价格举报数量和价格投资数量，错误。\nB 选项，直接读数，定位文字材料，“2019 年 5 月，平台受理价格举报环比下降 19.06%；价格投诉环比下降 15.92%；\n价格咨询环比下降 7.34%”，下降幅度，指减少率，比较时看绝对值。直接读数可知，2019 年 5 月，平台受理价\n格咨询数量环比下降幅度（7.34%）＜平台受理价格举报环比下降幅度（19.06%），错误。\nC 选项，现期倍数计算，定位表格材料，“2019 年 5 月，平台受理教育行业数量为 927 件，旅游行业数量为 459\n件”，927＞2×459，前者超过后者的 2 倍，错误。\nD 选项，现期比重计算，定位文字材料，“2019 年 5 月，全国平台受理共计 37576 件……北京（5786 件）、江\n苏（3528 件）、上海（2499 件）”，根据比重=部分量/整体量，可得所求比重\n\n=\n因此，选择 D 选项。\n\n拓展\n\nA 超过 B 的 n 倍，即 A>n×B\n\n≈31%＜35%，正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第119题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2020-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 5 月，平台受理价格举报、投诉、咨询总数约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "26706 件"
+      },
+      {
+        "label": "B",
+        "content": "34376 件"
+      },
+      {
+        "label": "C",
+        "content": "41433 件"
+      },
+      {
+        "label": "D",
+        "content": "63366 件 - 22 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：60%，易错项：C。\n\n解析\n\n第一步，本题考查基期量计算。\n第二步，定位第一段文字材料，“2019 年 5 月，全国 12358 价格监管平台受理价格举报、投诉、咨询共计 37576\n件，同比下降 40.7%”。\n第三步，根据基期量=现期量/（1+增长率），选项首位各不相同，可将分母从左向右截取前二位，则 2018 年 5\n\n月，平台受理价格举报、投诉、咨询总数约为\n因此，选择 D 选项。\n\n，直除首位商 6。\n\n- 32 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第120题",
+    "region": "ningxia"
+  }
+]

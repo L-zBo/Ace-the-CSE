@@ -1,0 +1,529 @@
+[
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市直接经济价值年值占现代农业生态服务价值年值的比重为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2016年，······占······的比重为”，结合材料时间“2017年”，可判定本题为基期比重问题。定位表格材料可得：2017年直接经济价值年值为372.60亿元，比上年增长，现代农业生态服务价值年值为3635.46亿元，比上年增长。故2016年A市直接经济价值年值占现代农业生态服务价值年值的比重，所求结果与B项最接近。\n故正确答案为B。\n\n[来源 baijing1.top paperId=696 sort=106 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第106题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q106.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "A"
+      },
+      {
+        "label": "B",
+        "content": "B"
+      },
+      {
+        "label": "C",
+        "content": "C"
+      },
+      {
+        "label": "D",
+        "content": "D"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：根据题干“······2017年······占比······”，结合材料时间“2017年”，可判定本题为现期比重问题。定位表格材料可得：2017年间接经济价值年值为1214.15亿元，旅游服务价值年值为804.78亿元，水力发电价值年值为8.68亿元，景观增值价值年值为400.70亿元。旅游服务价值年值占比为，即大于、小于，说明第一个扇形的圆心角大于、小于，结合选项排除B、C两项；景观增值价值年值占比为，说明最后一个扇形的圆心角大于，结合选项排除D项。\n方法二：旅游服务价值年值与景观增值价值年值比例为，说明第一个扇形的面积约为第三个扇形面积的2倍，结合选项排除B、C两项；水力发电价值年值8.68亿元远小于其他两个指标，说明第二个扇形的面积非常小，结合选项排除D项。\n故正确答案为A。\n\n[来源 baijing1.top paperId=696 sort=107 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第107题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2020/q107.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年，A 市旅游服务价值年值比农林牧渔业总产值年值多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "494.46 亿元"
+      },
+      {
+        "label": "B",
+        "content": "462.79 亿元"
+      },
+      {
+        "label": "C",
+        "content": "441.85 亿元"
+      },
+      {
+        "label": "D",
+        "content": "404.35 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2016 年，······比······多”，结合材料时间“2017 年”，可判定本题为基期做\n\n差问题。定位表格材料可得：“2017 年，A 市旅游服务价值年值为 804.78 亿元，同比增长\n\n；农林牧渔业总\n\n产值年值为 308.32 亿元，同比增长\n\n”。根据：\n\n，列式：2016 年 A 市旅游服务价值年值比\n\n农林牧渔业总产值年值多\n接近。\n\n故正确答案为 D。\n\n亿元，所求结果与 D 项最",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第108题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 A 市生态与环境价值中，年值、贴现值较上年均有所上升的指标有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6 个"
+      },
+      {
+        "label": "B",
+        "content": "5 个"
+      },
+      {
+        "label": "C",
+        "content": "4 个"
+      },
+      {
+        "label": "D",
+        "content": "3 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2017 年······较上年均有所上升的······”，可知 2017 年 A 市生态与环境价值\n中“年值、贴现值”的增速都为正（即增长率大于 0），即表明较上年均有所上升。定位表格可知：2017 年 A 市\n\n生态与环境价值中，年值、贴现值同比增长率都为正的指标有：“气候调节价值（\n\n、\n\n）、水源涵养价\n\n值（\n\n、\n\n）、生物多样性价值（\n\n、\n\n）、防护与减灾价值（\n\n、\n\n）、土壤形成价值（\n\n、\n\n）”，共 5 个。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第109题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列 A 市的指标中，2017 年同比增量最多的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "气候调节价值年值"
+      },
+      {
+        "label": "B",
+        "content": "水源涵养价值年值"
+      },
+      {
+        "label": "C",
+        "content": "水源涵养价值贴现值"
+      },
+      {
+        "label": "D",
+        "content": "生物多样性价值贴现值"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······2017 年同比增量最多的是”，可判定本题为增长量比较问题。定位表格材料可得，\n\n气候调节价值年值为 732.34 亿元，增长率为\n\n，增长量\n\n，水源涵养价值年值为 287.78，\n\n- 25 -\n\n\f获取试卷更新，请关注\n增长率为\n\n，增长量\n\n，水源涵养价值贴现值为 402.98，增长率为\n\n，增长量\n\n，生物多样性价值贴现值为 2898.67，增长率为\n\n，增长量\n\n，所以增长量\n\n最大为 38.5，是气候调节价值年值。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第110题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年 6 月，全国发行的地方政府债券比 2018 年 6 月多约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6151 亿元"
+      },
+      {
+        "label": "B",
+        "content": "5953 亿元"
+      },
+      {
+        "label": "C",
+        "content": "3653 亿元"
+      },
+      {
+        "label": "D",
+        "content": "3043 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年 6 月，······比 2018 年 6 月多约”，判定本题为增长量计算问题。定位文字材\n\n料第一段“2019 年 6 月，全国发行地方政府债券 8996 亿元，同比增长\n\n”。根据公式：增长量\n\n。代入数据，2019 年 6 月，全国发行的地方政府债券的同比增长量\n\n亿元，与 C 项最接近。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第111题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1 至 5 月，全国发行地方政府债券约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "23029 亿元"
+      },
+      {
+        "label": "B",
+        "content": "19376 亿元"
+      },
+      {
+        "label": "C",
+        "content": "14109 亿元"
+      },
+      {
+        "label": "D",
+        "content": "8766 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2018 年 1 至 5 月······约”，定位材料第一段“2019 年 6 月，全国发行地方政府债券\n\n8996 亿元，同比增长\n\n”，第三段“2019 年 1 至 6 月，全国发行地方政府债券 28372 亿元，同比增长\n\n”，\n\n可判定本题为基期和差问题。根据公式：基期量\n\n，可知 2018 年 1 至 5 月，全国发行地方政府债券\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第112题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 1 至 6 月，发行一般债券的占比较发行专项债券的占比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低 9.36%"
+      },
+      {
+        "label": "B",
+        "content": "低 52.81%"
+      },
+      {
+        "label": "C",
+        "content": "高 47.93%"
+      },
+      {
+        "label": "D",
+        "content": "高 53.43%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2018 年 1 至 6 月······占比约”，结合材料时间，可判定本题为基期比重问题。根据本\n篇材料第二题所求：2018 年 1 至 6 月全国发行地方政府债券约为 14000 亿元。结合文字资料第三段“2019 年 1\n\n至 6 月······发行一般债券 12858 亿元，同比增长\n\n，发行专项债券 15514 亿元，同比增长\n\n”。\n\n亿元，与 D 项最接近。\n\n代入公式：基期量\n\n和比重\n\n，可得所求比重\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第113题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年 6 月，发行置换债券和再融资债券约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3157 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2186 亿元"
+      },
+      {
+        "label": "C",
+        "content": "1657 亿元"
+      },
+      {
+        "label": "D",
+        "content": "1386 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2018 年 6 月”，结合选项单位与材料时间，可判定本题为基期计算问题。根据文字材料第一段\n\n，与 C 项最接近。\n\n“（2019 年 6 月）发行置换债券和再融资债券 1826 亿元，同比减少\n\n”。结合公式：基期量\n\n可得，2018 年 6 月发行置换债券和再融资债券\n\n亿元，与 B 项最接近。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第114题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2019 年 6 月末，地方政府一般债务余额和专项债务余额都控制在限额之内"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 1 至 6 月，地方政府一般债券的平均发行利率高于专项债券 0.1 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 5 月，地方政府新增债券的平均发行期限比置换债券和再融资债券短"
+      },
+      {
+        "label": "D",
+        "content": "2019 年地方一般债务限额比专项债务限额多 25404.14 亿元 （三） 截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到 56.6%。从中国人工智能企业地 域分布情况来看，北京企业数量最多，企业数量为 368 家；其次为广东，人工智能企业数量为 185 家；排名第三 的是上海，数量为 131 家"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位文字材料最后一段“2019 年······一般债务限额 133089.22 亿元，专项债务限额 107685.08\n\n亿元。截至 2019 年 6 月末······一般债务 118397 亿元，专项债务 87080 亿元”，由于 118397 亿元 133089.22\n\n亿元、87080 亿元 107685.08 亿元，说明都控制在限额之内，正确；\n\nB 项：定位文字材料第四段“2019 年 1 至 6 月，······其中一般债券\n\n，专项债券\n\n”，则一般债\n\n券平均发行利率 专项债券平均发行利率\n\n个百分点，正确；\n\nC 项：定位文字材料第二段“2019 年 6 月，······其中新增债券 10.4 年，置换债券和再融资债券 13.4 年”，\n只有 2019 年 6 月的年份数据，无法计算出 2019 年 5 月的数据，故无法推出，错误；\n\nD 项：定位文字材料最后一段“2019 年······其中，一般债务限额 133089.22 亿元，专项债务限额 107685.08\n\n亿元”，一般债务限额 专项债务限额\n\n本题为选非题，故正确答案为 C。\n\n亿元，正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第115题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "截至 2017 年底，中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "141.1 亿元"
+      },
+      {
+        "label": "B",
+        "content": "152.1 亿元"
+      },
+      {
+        "label": "C",
+        "content": "156.1 亿元"
+      },
+      {
+        "label": "D",
+        "content": "164.1 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位柱形图 1 可得，2017 年中国人工智能市场规模约为 152.1 亿元。\n\n故正确答案为 B。\n\n注：若本题没有发现柱形图 1 的数据，直接看到文字材料，可以按照求解基期量计算。根据文字材料“截至 2018\n\n- 26 -\n\n\f获取试卷更新，请关注\n年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到\n\n”，可得 2017 年中国人工智能市场规模约\n\n为\n\n亿元，与 B 项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第116题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年中国人工智能市场规模同比增长率与 2015 年相比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了 13.3 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "增加了 13.3 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "减少了 15.4 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "增加了 15.4 个百分点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2017 年······同比增长率与 2015 年相比”，可判定本题为一般增长率问题。定位柱形\n图 1，2017 年和 2016 年中国人工智能市场规模分别为 152.1 亿元和 100.6 亿元，则 2017 年中国人工智能市场规\n\n模同比增长率约为\n\n，2015 年和 2014 年中国人工智能市场规模分别为 70.2 亿元和",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第117题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "若按照 2018 年同比增长率，到 2019 年底中国人工智能市场规模约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "363 亿元"
+      },
+      {
+        "label": "B",
+        "content": "371 亿元"
+      },
+      {
+        "label": "C",
+        "content": "373 亿元"
+      },
+      {
+        "label": "D",
+        "content": "383 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“按照 2018 年同比增长率，到 2019 年底···约为”，材料给出的是 2018 年的数据，可判定本\n题为现期计算问题。定位文字材料：截至 2018 年底，中国人工智能市场规模约为 238.2 亿元，同比增长率达到\n\n。根据公式：\n\n，可得 2019 年底中国人工智能市场规模\n\n亿元，与 C 项最为接近。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第118题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "图 2 中排名第二的省份，其人工智能企业数量的个数约是排名后四位的数量之和的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.3"
+      },
+      {
+        "label": "B",
+        "content": "12.3"
+      },
+      {
+        "label": "C",
+        "content": "12.8"
+      },
+      {
+        "label": "D",
+        "content": "13.3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“···约是···的多少倍”，可判定本题为现期倍数计算问题。定位图 2 可得：排名第二的\n省份是广东，其人工智能企业数量为 185 个，排名后四位的为广西、重庆、河南、辽宁，其人工智能企业数量依\n\n次为 1 个、3 个、5 个、6 个。因此所求倍数\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第119题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2020-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "截至 2018 年底，中国人工智能市场规模每年同比增长率都超过 50%"
+      },
+      {
+        "label": "B",
+        "content": "截至 2018 年底，中国人工智能企业地域分布情况中，广东企业数量最多"
+      },
+      {
+        "label": "C",
+        "content": "截至 2018 年底，中国人工智能企业北京企业数量不超过上海企业数量的 50%"
+      },
+      {
+        "label": "D",
+        "content": "截至 2018 年底，福建人工智能企业的数量等于河南、天津、广西三省企业数量之和 - 16 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位图 1，2015 年中国人工智能市场规模同比增长率为\n\n，错误；\n\n注：根据 108 题的计算结果也可以得到 2015 年和 2016 年的同比增长率低于 。\n\nB 项：定位文字材料，截至 2018 年底，中国人工智能企业地域分布中，北京企业数量最多，而非广东，错误；\n\nC 项：定位文字材料，截至 2018 年底，北京企业数量 368 家，上海企业数量 131 家，\n\n，错误；\n\nD 项：定位图 2，截至 2018 年底，福建人工智能企业数为 16 家，河南、天津和广西分别为 5 家、10 家和 1 家，\n\n，福建人工智能企业数量等于河南、天津、广西三省企业数量之和，正确。\n\n故正确答案为 D。\n\n- 27 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考neimenggu行测第120题",
+    "region": "neimenggu"
+  }
+]

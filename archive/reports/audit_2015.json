@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-05-01T13:18:02.769910Z",
+  "source": "national",
+  "filters": {
+    "year": "2015"
+  },
+  "summary": {
+    "examCount": 2,
+    "issueCount": 2,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2015_dishi",
+      "source": "national",
+      "year": "2015",
+      "level": "dishi",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-changshi-2015-dishi-020",
+              "number": 20,
+              "optionCount": 7
+            },
+            {
+              "id": "national-xingce-panduan-2015-dishi-087",
+              "number": 87,
+              "optionCount": 6
+            },
+            {
+              "id": "national-xingce-shuliang-2015-dishi-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2015-dishi-070",
+              "number": 70,
+              "optionCount": 1
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2015_fushengjia",
+      "source": "national",
+      "year": "2015",
+      "level": "fushengjia",
+      "actualTotal": 135,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 15,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-changshi-2015-fushengjia-020",
+              "number": 20,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2015-fushengjia-071",
+              "number": 71,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    }
+  ]
+}

@@ -1,0 +1,5171 @@
+{
+  "count": 606,
+  "items": [
+    {
+      "qid": "institution-xingce-changshi-2021-a-045",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2021-c-014",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-b-033",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-b-034",
+      "old_labels": [
+        "B",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-c-019",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-e-016",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-e-017",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-e-019",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2023-b-006",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-changshi-2024-a-019",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-changshi-2020-049",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2023-018",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-changshi-2022-006",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-changshi-2024-018",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-changshi-2024-019",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2020-083",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-002",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-003",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-004",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-005",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-changshi-2023-055",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-changshi-2023-102",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2020-014",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-086",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-107",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-changshi-2020-091",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-changshi-2020-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-changshi-2023-097",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-changshi-2023-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-changshi-2023-119",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-changshi-2021-019",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-changshi-2022-005",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-changshi-2023-005",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-changshi-2023-117",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-changshi-2023-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-changshi-2023-112",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-changshi-2023-007",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-changshi-2023-013",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-changshi-2024-001",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-changshi-2024-014",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-changshi-2024-015",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-changshi-2023-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-changshi-2023-106",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-changshi-2023-119",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-changshi-2022-015",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-changshi-2023-011",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-changshi-2023-063",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-changshi-2023-117",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-changshi-2024-017",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-changshi-2022-008",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-changshi-2022-009",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-changshi-2023-010",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-changshi-2024-016",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-changshi-2025-020",
+      "old_labels": [
+        "B",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-005",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-035",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-036",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-077",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-083",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-087",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-010",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-049",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-050",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-changshi-2023-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-changshi-2024-020",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-changshi-2023-006",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2021-006",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2021-007",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2021-010",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2021-012",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2023-089",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2023-092",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-changshi-2023-049",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-changshi-2023-054",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-changshi-2023-052",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-changshi-2023-097",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2022-014",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2022-018",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2022-029",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2023-103",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2023-024",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2023-114",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2024-020",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-057",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-065",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-c-060",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-c-002",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-079",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-093",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-078",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-091",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-096",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-065",
+      "old_labels": [
+        "C"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-078",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-078",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-079",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-b-079",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-b-081",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-063",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-e-097",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-e-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-e-077",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-a-092",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-077",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-096",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-a-065",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-a-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-b-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-b-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-b-077",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-b-078",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-e-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-e-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2023-062",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2023-079",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2024-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2024-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2024-089",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-beijing-xingce-panduan-2023-093",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2023-093",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2023-098",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2024-090",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2024-091",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2024-099",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2020-088",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2020-093",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2023-075",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2023-082",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2023-104",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2024-090",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2024-093",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-panduan-2020-090",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-panduan-2021-093",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-panduan-2022-074",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-panduan-2022-093",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-panduan-2024-091",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-panduan-2024-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-panduan-2024-082",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-panduan-2024-083",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-panduan-2024-079",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-panduan-2024-070",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-panduan-2024-071",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-panduan-2024-084",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-panduan-2022-110",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-panduan-2024-097",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-panduan-2024-110",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2020-104",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2023-079",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2023-101",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2024-089",
+      "old_labels": [
+        "C"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2024-090",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2024-091",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-panduan-2024-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-panduan-2020-085",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-panduan-2024-092",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-panduan-2024-097",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-panduan-2021-090",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-panduan-2021-092",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-panduan-2024-092",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-panduan-2024-093",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-panduan-2020-085",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-panduan-2020-087",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-panduan-2022-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-panduan-2022-110",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-panduan-2024-102",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-panduan-2024-107",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-panduan-2024-115",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-panduan-2020-070",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-panduan-2023-066",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-panduan-2023-070",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2020-085",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2024-085",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2024-089",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2024-091",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-panduan-2023-020",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-panduan-2023-092",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-panduan-2023-097",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-panduan-2023-076",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-panduan-2024-077",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-panduan-2024-078",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-panduan-2024-091",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-panduan-2024-092",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-panduan-2024-099",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-panduan-2024-085",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2021-057",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2022-060",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2022-075",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2023-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2024-080",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-034",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-053",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-055",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-057",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-058",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-059",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-089",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-panduan-2024-095",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-panduan-2024-096",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2023-033",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2024-031",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2024-032",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2024-034",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-panduan-2022-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-panduan-2024-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-panduan-2024-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-panduan-2024-095",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2020-101",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2021-096",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2021-097",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2024-088",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2024-096",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-panduan-2024-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-panduan-2020-032",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-073",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-075",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-c-059",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-e-049",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-e-060",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-076",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-c-060",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-c-050",
+      "old_labels": [
+        "B"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2020-005",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2020-006",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2022-006",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2024-024",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2024-033",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-shuliang-2020-064",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-shuliang-2024-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-shuliang-2023-063",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-shuliang-2024-068",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2020-059",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2020-063",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2024-068",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2024-069",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-shuliang-2020-026",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-shuliang-2024-031",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-shuliang-2024-034",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-shuliang-2020-047",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-shuliang-2020-053",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-shuliang-2024-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-shuliang-2020-057",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-shuliang-2020-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-shuliang-2020-044",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-shuliang-2021-056",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-shuliang-2020-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-shuliang-2022-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-shuliang-2024-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-shuliang-2024-074",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2020-065",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2020-070",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2020-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2020-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2021-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2023-064",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2023-065",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2024-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2024-063",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2024-070",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-shuliang-2021-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-shuliang-2020-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-shuliang-2020-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-shuliang-2024-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-shuliang-2024-063",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2020-047",
+      "old_labels": [
+        "B"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2022-050",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2022-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2024-046",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2024-047",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2024-049",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2024-050",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2024-065",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-shuliang-2020-063",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-shuliang-2023-080",
+      "old_labels": [
+        "A",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-shuliang-2024-071",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-shuliang-2024-080",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-shuliang-2020-055",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-shuliang-2023-059",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-shuliang-2024-051",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-shuliang-2024-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-shuliang-2024-063",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-shuliang-2024-069",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-shuliang-2020-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-shuliang-2020-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-shuliang-2022-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-shuliang-2022-069",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-shuliang-2023-059",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-shuliang-2020-061",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-shuliang-2024-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-shuliang-2024-097",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2020-043",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-038",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-039",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-040",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-041",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2022-044",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2023-039",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2024-059",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-shuliang-2020-048",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-shuliang-2024-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-shuliang-2024-067",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-004",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-008",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-009",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-045",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2023-046",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2024-046",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2024-054",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2021-049",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-042",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-046",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2024-055",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2021-006",
+      "old_labels": [
+        "B",
+        "A"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2023-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2024-052",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2024-060",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-shuliang-2020-062",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-052",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-053",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-054",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-059",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-002",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-010",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-015",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-060",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-066",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-034",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2024-051",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2024-053",
+      "old_labels": [
+        "B",
+        "A",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2024-054",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-yanyu-2022-e-039",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-yanyu-2023-b-043",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-yanyu-2023-b-044",
+      "old_labels": [
+        "B",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-yanyu-2023-b-055",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-yanyu-2023-026",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-yanyu-2023-048",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-yanyu-2023-060",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-yanyu-2022-037",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-yanyu-2022-045",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-yanyu-2020-032",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-yanyu-2021-004",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-yanyu-2021-056",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-yanyu-2023-049",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-yanyu-2022-042",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-yanyu-2023-041",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-yanyu-2022-035",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-yanyu-2024-052",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-yanyu-2024-053",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-yanyu-2024-054",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-yanyu-2024-042",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-yanyu-2024-043",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-yanyu-2024-051",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-yanyu-2023-035",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-yanyu-2024-031",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-yanyu-2025-038",
+      "old_labels": [
+        "B",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-yanyu-2025-040",
+      "old_labels": [
+        "B",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-yanyu-2023-071",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-yanyu-2023-015",
+      "old_labels": [
+        "D"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-yanyu-2024-070",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-yanyu-2022-006",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-yanyu-2023-006",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-yanyu-2023-038",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-yanyu-2024-006",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-yanyu-2024-007",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-yanyu-2023-026",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-yanyu-2023-031",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-yanyu-2023-010",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2020-e-055",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2021-a-094",
+      "old_labels": [
+        "C",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2021-c-055",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2023-e-060",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2022-100",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2022-108",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2022-109",
+      "old_labels": [
+        "B",
+        "D",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2023-102",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-100",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-104",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-110",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "取最后一组ABCD_6→4"
+    },
+    {
+      "qid": "provincial-beijing-xingce-ziliao-2022-117",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2024-106",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2024-107",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2024-110",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-ziliao-2023-117",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-fujian-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2023-110",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2023-115",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2023-117",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2024-112",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2024-113",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2024-114",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2024-075",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2024-080",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2024-084",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2024-085",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2024-100",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2024-108",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2024-094",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2024-099",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2024-102",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2024-103",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2024-104",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2021-104",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-100",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-106",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-107",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-108",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-ziliao-2022-115",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-ziliao-2022-120",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-ziliao-2024-120",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-hebei-xingce-ziliao-2024-123",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2020-116",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2020-123",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2020-124",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2022-108",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "取最后一组ABCD_10→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2022-116",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2022-120",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "取最后一组ABCD_6→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2024-110",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "B",
+        "C"
+      ],
+      "action": "去重合并_6→4"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2024-115",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-108",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-110",
+      "old_labels": [
+        "A",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-115",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-116",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-117",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-118",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-119",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-110",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "取最后一组ABCD_6→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-111",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-112",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-120",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-123",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-ziliao-2024-113",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-ziliao-2024-114",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-hunan-xingce-ziliao-2024-120",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2020-023",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-111",
+      "old_labels": [
+        "B",
+        "A",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-112",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-114",
+      "old_labels": [
+        "A",
+        "B"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-118",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-123",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-126",
+      "old_labels": [
+        "B",
+        "A",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2023-120",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D",
+        "D"
+      ],
+      "action": "去重合并_6→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2023-125",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D",
+        "D"
+      ],
+      "action": "去重合并_6→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2023-130",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D",
+        "D"
+      ],
+      "action": "去重合并_6→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-120",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-125",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-130",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-113",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-114",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-115",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-120",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-125",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-130",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-133",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-134",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-135",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D",
+        "D"
+      ],
+      "action": "去重合并_6→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2024-116",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2024-117",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2024-120",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2024-125",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-ziliao-2023-099",
+      "old_labels": [
+        "A"
+      ],
+      "action": "补齐_1→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-ziliao-2024-093",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-jilin-xingce-ziliao-2024-098",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-ziliao-2024-110",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "取最后一组ABCD_6→4"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-ziliao-2024-120",
+      "old_labels": [
+        "B",
+        "D"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2020-106",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2020-107",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2022-024",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2023-112",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2021-114",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2023-120",
+      "old_labels": [
+        "B",
+        "D",
+        "A"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-101",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-102",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-103",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-104",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-106",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-115",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-ziliao-2024-110",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-ziliao-2024-101",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-ziliao-2024-102",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-ziliao-2024-110",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2020-077",
+      "old_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2020-084",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-080",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-081",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-082",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-083",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-084",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-085",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "action": "去重合并_9→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2023-085",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-104",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-115",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-119",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-120",
+      "old_labels": [
+        "B",
+        "D",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-ziliao-2024-086",
+      "old_labels": [
+        "C",
+        "B",
+        "A"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-ziliao-2024-099",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2021-090",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2021-095",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2022-086",
+      "old_labels": [
+        "A",
+        "C",
+        "B"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2022-089",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-109",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-110",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_7→4"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-120",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-ziliao-2023-115",
+      "old_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-ziliao-2024-110",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-ziliao-2024-092",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-ziliao-2024-097",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2020-094",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2021-058",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2022-115",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2022-072",
+      "old_labels": [
+        "A",
+        "C"
+      ],
+      "action": "补齐_2→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2022-073",
+      "old_labels": [
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "取最后一组ABCD_6→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2022-080",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2023-115",
+      "old_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2024-121",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2024-110",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2024-104",
+      "old_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "action": "补齐_3→4"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2024-105",
+      "old_labels": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "D"
+      ],
+      "action": "去重合并_5→4"
+    }
+  ]
+}

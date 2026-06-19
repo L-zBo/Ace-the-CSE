@@ -1,0 +1,355 @@
+[
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-001",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某智慧公共停车场的收费标准如下：停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小时计，收费 5 元；超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）。 若李先生支付停车费 17 元，则他停车的时长可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 小时"
+      },
+      {
+        "label": "B",
+        "content": "2 小时 15 分钟"
+      },
+      {
+        "label": "C",
+        "content": "2 小时 45 分钟"
+      },
+      {
+        "label": "D",
+        "content": "3 小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小时计，收费 5 元”，\n李先生支付停车费 17 元，则停车时长一定超过 1 小时。扣除前 1 小时的收费 5 元，超出 1 小时部分付款为\n17-5=12 元。根据题干“超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）”，\n12 元最多可支付 12÷4=3 个 30 分钟=1.5 小时，则 2 小时＜李先生的停车时长\n\n小时。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第1题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-002",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公司自主研发生产的 A、B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的 10% （按一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种 型号的产量之和还多 400 块。预计该公司今年的轿车总产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的 10% （按一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种 型号的产量之和还多 400 块。预计该公司今年的轿车总产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是： A、3500 块"
+      },
+      {
+        "label": "B",
+        "content": "7000 块"
+      },
+      {
+        "label": "C",
+        "content": "14000 块"
+      },
+      {
+        "label": "D",
+        "content": "21400 块"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，该公司今年自主研发生产的 A、B、C 三种型号氢燃料电池的产量和为 42.4×10000×10%=42400\n\n块。已知 C 型号的产量比 A、B 两种型号的产量之和还多 400 块，则 A、B 两种型号的产量之和为\n\n块，A 型号氢燃料电池的产量是 B 型号的 2 倍，则 B 型号氢燃料电池的产量为\n\n块。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第2题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某小区物业准备了 230 盒口罩免费派发给 10 栋楼，要求任意两栋楼派发的口罩数量都不相同，但最多 相差不超过 1 倍。假设口罩不拆盒发放，那么派发口罩数量最少的那栋楼最少可派发口罩：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18 盒"
+      },
+      {
+        "label": "B",
+        "content": "15 盒"
+      },
+      {
+        "label": "C",
+        "content": "14 盒"
+      },
+      {
+        "label": "D",
+        "content": "12 盒"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设派发口罩数量最少的那栋楼最少派发口罩 x 盒。要让派发口罩数量最少的楼栋派发口罩最少，则其\n他楼栋口罩派发尽量多，且派发口罩最多的楼栋不超过最少的 1 倍，即派发口罩最多的楼栋最多派发口罩\n2x 盒。由于任意两栋楼派发口罩数量都不相同，则可列表如下：\n\n根据口罩一共有 230 盒可列式：2x+2x-1+2x-2+2x-3+2x-4+2x-5+2x-6+2x-7+2x-8+x=230，化简可得：\n\n19x-36=230，解得 x=14。那么派发口罩数量最少的那栋楼最少可派发口罩 14 盒。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第3题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-004",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学习平台收到的征文，将通过两轮评审决定能否采用。先由两位编辑进行初审，若两位编辑评审都 通过，则予以采用；若两位编辑都未予通过，则不予采用；若仅有一位编辑初审通过，则再由主编进行复 审，若复审通过，则予以采用，否则不予采用。设稿件能通过各初审编辑评审的概率均为 0.4，复审的稿件 能通过的概率为 0.2，各编辑独立评审，则每篇征文被采用的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.32"
+      },
+      {
+        "label": "B",
+        "content": "0.256"
+      },
+      {
+        "label": "C",
+        "content": "0.24"
+      },
+      {
+        "label": "D",
+        "content": "0.208"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，每篇征文被采用的情况为：①初审两位编辑均通过，概率为：0.4×0.4=0.16；②初审两位\n\n编辑仅有一位通过，且主编复审通过，概率为：\n\n，分类用加法，故每篇\n\n征文被采用的概率为 0.16+0.096=0.256。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第4题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某空军基地举行飞行训练，有 8 架歼击机、3 架预警直升机、2 架反潜直升机参与训练，每架飞机编号 不同。训练时，需派出 3 架歼击机、2 架预警直升机、1 架反潜直升机进行起降飞行。若每次只能起飞 1 架 飞机，其中 3 架歼击机必须相邻起飞，2 架预警直升机不能相邻起飞，那么不同的起飞方式有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "504"
+      },
+      {
+        "label": "B",
+        "content": "4032"
+      },
+      {
+        "label": "C",
+        "content": "8064"
+      },
+      {
+        "label": "D",
+        "content": "24192 1"
+      }
+    ],
+    "answer": "D",
+    "explanation": "先从 8 架歼击机中选出 3 架、3 架预警直升机中选出 2 架、2 架反潜直升机中选出 1 架，共有\n\n种方法；再根据要求安排起飞顺序，3 架歼击机必须相邻起飞可用捆绑法、2 架预警直升机\n\n不能相邻起飞可用插空法，即先将 3 架歼击机捆绑后与 1 架反潜直升机进行排列有\n\n种方法，再将 2 架\n\n预警直升机插空有 种方法。故满足要求的不同的起飞方式有\n\n种。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第5题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "小林因病入院需挂瓶输液，上午 9 点开始输液，输液袋上标有“容量 300 毫升，每毫升 15 滴”等药液 信息。输液开始时，药液滴速为 75 滴/分钟。输液 5 分钟后小林感觉身体不适，护士帮忙调整了药液滴速 （调整时间不计），又继续输液 10 分钟，药液还剩 235 毫升，那么输液结束的时间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10 点 26 分"
+      },
+      {
+        "label": "B",
+        "content": "10 点 18 分"
+      },
+      {
+        "label": "C",
+        "content": "10 点 14 分"
+      },
+      {
+        "label": "D",
+        "content": "10 点 10 分"
+      }
+    ],
+    "answer": "C",
+    "explanation": "1\n\n\f根据题意，输液 5 分钟后剩余的药液为\n\n毫升，则调整后药液的滴速为\n\n滴/分钟，剩余的 235 毫升药液还需输液的时间为\n\n分钟，则输液的\n\n分钟\n\n分钟，即 1 小时 14 分钟，上午 9 点开始输液，则输液结束的时间是\n\n总时间为\n10 点 14 分。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第6题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-007",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下图所示是一种帐篷屋顶的示意图，底面是一个长 4 米宽 3 米的长方形，屋顶高 1 米，上棱长 2 米且 平行于底面，那么该帐篷屋顶的体积是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5 立方米"
+      },
+      {
+        "label": "B",
+        "content": "11 立方米"
+      },
+      {
+        "label": "C",
+        "content": "12 立方米"
+      },
+      {
+        "label": "D",
+        "content": "24 立方米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "如图所示，过上棱两个端点 M、N 分别向底面做垂直截面，交底面 ABCD 于点 E、F、G、H，则该帐篷屋\n\n顶可拆分为左、右两个四棱锥（M-AEFD 和 N-BCHG）和中间一个三棱柱（EFM-GHN）。根据公式：\n\n；\n\n，则\n\n立方米；\n\n立方米。则该帐篷屋顶的体积\n\n立方米。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第7题",
+    "region": "tianjin",
+    "questionImage": "/img/questions/provincial_tianjin_2023/q007.png"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-008",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某产业展洽会主办方融合“七巧板”元素设计了七大展示区域（如下图所示），甲、乙、丙三家参展 公司从 7 块展区中分别选择面积各不相同的一个区域进行布展，则共有多少种选择方案？",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "72"
+      },
+      {
+        "label": "C",
+        "content": "96"
+      },
+      {
+        "label": "D",
+        "content": "192"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据七巧板特性，结合所给图形可知，三角形①与三角形②等底同高，两个区域面积相等；三角形③\n与三角形⑤等底等高，两个区域面积相等；区域⑥为正方形，三角形④与三角形⑦等底等高，两个区域面\n积相等，且面积是正方形⑥的一半，也是三角形⑤的一半。故面积相等的区域可分为三组：①②、③⑤⑥、\n④⑦。\n\n从三组中分别选出一个区域，再分配给三家不同的公司，共有\n\n种\n\n选择方案。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第8题",
+    "region": "tianjin",
+    "questionImage": "/img/questions/provincial_tianjin_2023/q008.png"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-009",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "黄河文化源远流长、博大精深，具有根源性、灵魂性、包容性、忠诚性、原创性、可持续性特征。全\n面认识和把握这些特征，有利于我们坚定文化自信，保护生态环境。在保护、传承、弘扬和创新黄河文化\n方面要谋划开展丰富多彩的活动，系统打造代表黄河六大特征的典型地标，以传统艺术和现代艺术相结合\n的形式讲好“黄河故事”，延续历史文脉，以具体行动激励全社会坚定文化自信，为实现中华民族伟大复\n兴的中国梦凝聚精神力量，谱写新时代建设社会主义现代化国家更加出彩的绚丽篇章。",
+    "options": [
+      {
+        "label": "A",
+        "content": "黄河文化源远流长、博大精深"
+      },
+      {
+        "label": "B",
+        "content": "黄河文化具有可持续性的特征"
+      },
+      {
+        "label": "C",
+        "content": "讲好“黄河故事”延续历史文脉"
+      },
+      {
+        "label": "D",
+        "content": "黄河文化的保护、传承、弘扬和创新"
+      }
+    ],
+    "answer": "C",
+    "explanation": "如图所示：过公路作 A 点的对称点为 ，交公路于点 M；过 B 点作公路的垂线，垂点为 N；过 的垂线，\n，交 MN 于点 O，\n\n垂点为 ；过 A 点作 BN 的垂线，垂点为 D，则四边形 ADNM 和\n根据两点之间线段最短，可知将物资集散中心修建在 O 点时，到两村的直线路程之和最小。\n\n为矩形。连接",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第9题",
+    "region": "tianjin"
+  },
+  {
+    "id": "provincial-tianjin-xingce-shuliang-2023-010",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某大型商场的地下停车场入口处横截面如下图所示，入口处斜坡的坡角为 30 度，下坡起点至入口顶部 水平距离为 6 米，楼板厚为 0.6 米。商场管理处需在入口处张贴限高标志，以便告知车辆能否安全驶入。 若停车场内部的高度均高于入口处汽车可通过的最低高度，则下列限高最为合理的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.8 米"
+      },
+      {
+        "label": "B",
+        "content": "2.3 米"
+      },
+      {
+        "label": "C",
+        "content": "2.6 米"
+      },
+      {
+        "label": "D",
+        "content": "3.2 米 二、言语理解与表达。第二部分 言语理解与表达。 本部分包括表达与理解两方面的内容。请根据题 目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如图所示，CE 为可通过入口的汽车的最大高度。在直角\n\n中，AB=6 米，\n\n，则\n\n米，则\n\n米。在直角\n\n中，\n\n，则\n\n车限高设置\n\n米即可，在这个范围内越接近 2.48 米越合理，结合选项可知 B 项最为合理。\n\n米。因此停车场入口处汽车可通过的最低高度是 2.48 米，汽\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考tianjin行测第10题",
+    "region": "tianjin",
+    "questionImage": "/img/questions/provincial_tianjin_2023/q010.png"
+  }
+]

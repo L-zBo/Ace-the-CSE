@@ -1,0 +1,347 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2022-e-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "水质实验室已有烧杯和三角瓶的数量比为 7：4，若再买进若干个烧杯，这时烧杯与三角瓶的数量比变成 3： 1，接着又买进相同数量的三角瓶，此时烧杯与三角瓶的比为 4：3。问实验室原有三角瓶的个数是新增三角 瓶个数的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5"
+      },
+      {
+        "label": "C",
+        "content": "1.25"
+      },
+      {
+        "label": "B",
+        "content": "0.8"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "B",
+    "explanation": "92\n2010 年：\n32 百亿元\n10 亿人次< 600 元；2011 年：\n45 百亿元\n10 亿人次< 600 元；2012 年：\n50 百亿元\n10 亿人次< 600 元；2013 年：\n56 百亿元\n11 亿人次<\n600 元；2014 年：\n61 百亿元\n11 亿人次< 600 元；2015 年：\n66 百亿元\n12 亿人次< 600 元；2016 年：\n71 百亿元\n12 亿人次< 600 元；2017 年：\n80 百亿元\n13 亿人次> 600 元；2018 年：\n87 百亿元\n14 亿人次> 600 元；2019 年：\n97 百亿元\n15 亿人次> 600 元；2020 年：\n43 百亿元\n8 亿人次< 600 元。\n综上，2010～2020 年农村居民平均每人次国内旅游花费超过600 元的年份有3 个。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "北京冬奥会某合作厂家仅日间生产冰墩墩，月产量达到了 30000 件，每件利润 25 元。冬奥期间，为了提高 产量，决定夜间继续生产，夜间产量仅为日间的一半，且每件利润比日间减少 10 元，问该厂在日夜生产模 式下预计该月盈利多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "22.5"
+      },
+      {
+        "label": "B",
+        "content": "75"
+      },
+      {
+        "label": "C",
+        "content": "97.5"
+      },
+      {
+        "label": "D",
+        "content": "112"
+      }
+    ],
+    "answer": "C",
+    "explanation": "每件利润为25元，夜间每件利润比日间少10元，即为15元\n根据总利润=单个利润×数量。则日间总利润=25×3=75万元，夜间总利润=15×1.5=22.5万元。故该月日夜\n生产模式总盈利为75+22.5=97.5万元。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第47题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "某特警部队训练警犬时发现“可疑人员”张某以 6m/s 的速度由 A 处跑向人质 C，与此同时警犬以 8m/s 从 B 跑向人质 C，C 也同时以 4m/s 跑向 B，A、C、B 在一条直线上，为确保警犬不晚于张某与人质相遇，问 BC 的距离最多是 AC 距离的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题意作图如下： \n \n设警犬与人质相遇时间为t1，张某与人质相遇时间为t2。警犬与人质为相遇过程，根据公式S 和=U 和t，可\n得：BC=（4+8）t1=12t1，则t1=\nBC\n12；张某与人质为追及过程，根据公式S 差=U 差t，可得：AC=（6-4）t2=2t2，\n则t2=\nAC\n2 。警犬不晚于张某与人质相遇，则t1≤t2，即\nBC\n12≤\nAC\n2 ，BC≤6AC，因此BC 的距离最多是AC 距离的6\n倍。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第48题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "为了加强某社区消防安全意识，某消防支队对该社区的 4 栋居民楼开展消防安全检查，该支队 6 名消防员 负责此次安全检查，规定任一栋居民楼保证至少一名消防员前往，若同时开始检查，问共有多少种检查方 式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1560"
+      },
+      {
+        "label": "C",
+        "content": "6300"
+      },
+      {
+        "label": "B",
+        "content": "3240"
+      },
+      {
+        "label": "D",
+        "content": "7200"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据题意，任一栋居民楼保证至少一名消防员前往有两类情况： \n①人数分布为（3，1，1，1）：先从4 栋楼中选择1 栋楼安排3 人，情况数为C4\n1 × C6\n3，剩余3 人分配到3 栋\n楼，情况数为A3\n3，总情况数为C4\n1 × C6\n3 × A3\n3 = 4 ×\n6×5×4\n3×2×1 × 3 × 2 = 480种； \n②人数分布为（2，2，1，1）：先从4 栋楼中选择2 栋楼均安排2 人，情况数为C4\n2 × C6\n2 × C4\n2，剩余2 人分\n配到2 栋楼，情况数为A2\n2，总情况数为C4\n2 × C6\n2 × C4\n2 × A2\n2 = 1080种。 \n则共有480+1080=1560 种检查方式。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第49题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "某单位向福利院捐赠大小外观完全相同，质量不同的 4 种皮球供孩子们玩要，已知 4 种球分别有 13、15 个， 分别装在 4 个小车内，某小朋友不慎将其中 3 个小车打翻，球全部倾倒出来混在一起，为了将球全部复位， 需对球进行称重，则最多需要称多少次？",
+    "options": [
+      {
+        "label": "A",
+        "content": "37"
+      },
+      {
+        "label": "B",
+        "content": "51-55 题目暂缺"
+      },
+      {
+        "label": "C",
+        "content": "28"
+      },
+      {
+        "label": "D",
+        "content": "材料 B．36 D．27"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】总共有4种质量的小球，需要先确定打翻的三辆车，然后确定所有数量最多需要挨个称重，当除最\n101\n\n102\n后一个小球以外的所有小球都称重完成后，仅剩一辆车还缺一个小球，直接放入即可，所以最后一个小球则\n无需称重。\n第一种情况：13，6，9，则需要称重13+6+9-1=27 次；第二种情况：6，9，15，则需要称重6+9+15-1=29 次；\n第三种情况：13，9，15，则需要13+9+15-1=36 次；第四种情况：13，6，15，则需要13+6+15-1=33 次。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第50题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2021 年全国居民平均每人次国内旅游花费在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 800 元"
+      },
+      {
+        "label": "C",
+        "content": "900～1000 元之间"
+      },
+      {
+        "label": "B",
+        "content": "800～900 元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 1000 元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】定位表格可知，2021年城镇、农村居民旅游人数（亿人次）分别为23、9；城镇、农村居民旅游\n(23+9)亿人\n32亿人\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第56题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2010～2020 年间，全国农村居民平均每人次国内旅游花费超过 600 元的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】定位统计表可知，2010～2020农村民居的人数及花费。则2010～2020年农村居民平均每人次国内\n旅游花费分别为：\n91\n\n92\n2010 年：\n32 百亿元\n10 亿人次< 600 元；2011 年：\n45 百亿元\n10 亿人次< 600 元；2012 年：\n50 百亿元\n10 亿人次< 600 元；2013 年：\n56 百亿元\n11 亿人次<\n600 元；2014 年：\n61 百亿元\n11 亿人次< 600 元；2015 年：\n66 百亿元\n12 亿人次< 600 元；2016 年：\n71 百亿元\n12 亿人次< 600 元；2017 年：\n80 百亿元\n13 亿人次> 600 元；2018 年：\n87 百亿元\n14 亿人次> 600 元；2019 年：\n97 百亿元\n15 亿人次> 600 元；2020 年：\n43 百亿元\n8 亿人次< 600 元。\n综上，2010～2020 年农村居民平均每人次国内旅游花费超过600 元的年份有3 个。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第57题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2021 年全国城镇居民国内旅游总花费同比增速比农村居民：",
+    "options": [
+      {
+        "label": "A",
+        "content": "快不到 10 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "慢不到 10 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "快 10 个百分点以上"
+      },
+      {
+        "label": "D",
+        "content": "慢 10 个百分点以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】定位统计表可知，2021 年和2020 年全国城镇居民国内旅游总花费分别为236 百亿元、180 百亿\n元，农村居民分别为55 百亿元、43 百亿元。根据公式增长率=\n现期量−基期量\n基期量\n，可得2021 年城镇居民同比增\n速=\n236−180\n180\n≈31%，农村居民同比增速=\n55−43\n43\n≈28%。则2021 年全国城镇居民国内旅游总花费同比增\n速比农村居民快31% −28% = 3%，即快3 个百分点，在A 项范围内。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第58题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2012～2021 年间，全国城镇居民国内旅游人数同比增量最高的年份为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2021 年"
+      },
+      {
+        "label": "C",
+        "content": "2014 年"
+      },
+      {
+        "label": "B",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2012 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】定位统计表，可知2012～2021 年每年的全国城镇居民国内旅游人数。根据公式增长量= 现期量\n−基期量，结合选项，可得各年份全国城镇居民国内旅游人数同比增量分别为： \n2021 年：23 −21 = 2亿人次； \n2017 年：37 −32 = 5亿人次； \n2014 年：25 −22 = 3亿人次； \n2012 年：19 −17 = 2亿人次。 \n对比可知，2012～2021 年间，全国城镇居民国内旅游人数同比增量最高的年份为2017 年。 \n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第59题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-e-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "以下折线图中，最能准确反映 2019～2021 年全国城镇居民国内旅游花费同比增速的是： 第四部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】定位统计表可知：2018～2021 年全国城镇居民国内旅游花费分别为：426 百亿元、475 百亿元、\n180 百亿元、236 百亿元。根据公式：增长率=\n现期量−基期量\n基期量\n，可得：r2019 年=\n475−426\n426\n=\n49\n426 = 10%+，r2020 年=\n180−475\n475\n< 0，r2021 年=\n236−180\n180\n=\n56\n180 = 30%+，r2020 年为最小值，对应为图中最低点，排除A、B 项，r2019 年<\nr2021 年，即第1 个点低于第3 个点，排除C 项。 \n故正确答案为D。 \n第四部分 判断推理",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（e）第60题",
+    "meta": {
+      "invalid": true,
+      "reason": "pdf_not_located"
+    },
+    "questionImage": "/img/questions/institution_2022_e/q060.png"
+  }
+]

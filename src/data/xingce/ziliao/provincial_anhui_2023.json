@@ -1,0 +1,528 @@
+[
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "正常年份雨季长度最长的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "华南"
+      },
+      {
+        "label": "B",
+        "content": "西南"
+      },
+      {
+        "label": "C",
+        "content": "东北"
+      },
+      {
+        "label": "D",
+        "content": "华西"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位文字材料第一段可得：2021 年华南雨季长度为 67 天，与正常年份相比，雨季长度偏短 24 天。定位文\n字材料第二段可得：（2021 年）西南雨季长度为 122 天，与正常年份相比，雨季长度偏短 19 天。定位文字材\n料第四段可得：（2021 年）东北雨季长度为 85 天，与正常年份相比，雨季长度偏长 21 天。定位文字材料第五\n段可得：（2021 年）华西雨季长度为 77 天，与正常年份相比，雨季长度偏长 15 天。则正常年份各地区雨季长\n度分别为：华南，67+24=91 天；西南，122+19=141 天；东北，85-21=64 天；华西，77-15=62 天。综上，正常\n年份雨季长度最长的地区是西南。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第96题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年雨季开始时间最迟的两个地区在雨季开始时间上相差了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "34 天"
+      },
+      {
+        "label": "B",
+        "content": "35 天"
+      },
+      {
+        "label": "C",
+        "content": "41 天"
+      },
+      {
+        "label": "D",
+        "content": "42 天"
+      }
+    ],
+    "answer": "D",
+    "explanation": "定位文字材料可知：2021 年雨季开始时间最迟的两个地区分别为华北（7 月 12 日）、华西（8 月 23 日），\n\n故时间上相差了 31-12+23=42 天（7 月共有 31 天）。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第97题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下列地区中 2021 年雨季期平均每天降雨量最大的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "西南"
+      },
+      {
+        "label": "B",
+        "content": "华北"
+      },
+      {
+        "label": "C",
+        "content": "东北"
+      },
+      {
+        "label": "D",
+        "content": "华西"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“下列地区中 2021 年雨季期平均每天降雨量最大的地区是”，可判定本题为现期平均数问题。定\n\n位文字材料第二段至第五段可得：2021 年西南雨季长度为 122 天，总雨量 634.5 毫米；华北雨季长度为 59 天，\n总雨量 276.4 毫米；东北雨季长度为 85 天，总雨量 364.3 毫米；华西雨季长度为 77 天，总雨量 379.9 毫米。\n\n根据公式：雨季期平均每天降雨量\n\n，则各地区平均每天降雨量分别为：\n\n西南\n\n华北\n\n东北\n\n毫米/天；\n\n毫米/天；\n\n毫米/天；",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第98题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "华西 2021 年雨季降水量与正常年份雨季降水量相比增加了约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "153.4 毫米"
+      },
+      {
+        "label": "B",
+        "content": "176.7 毫米"
+      },
+      {
+        "label": "C",
+        "content": "203.2 毫米"
+      },
+      {
+        "label": "D",
+        "content": "232.5 毫米 100 能够从上述资料推出的是："
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“华西 2021 年······与······相比增加了约”，结合选项带单位，可判定本题为增\n长量计算问题。定位文字材料第五段可知：2021 年，华西秋雨于 8 月 23 日开始，总雨量 379.9 毫米。与正常\n\n年份相比，雨量偏多 87%。根据公式：增长量\n\n，则所求为\n\n毫米，与 B 项最接近。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考anhui行测第99题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-023",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某智慧公共停车场的收费标准如下：停车不超过15 分钟，不收费；超过15 分钟但不超过60 分钟，按1 小\n时计，收费5 元；超过1 小时后，超过的部分按每30 分钟4 元收费（不足30 分钟，按30 分钟计）。若李先生\n支付停车费17 元，则他停车的时长可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 小时"
+      },
+      {
+        "label": "B",
+        "content": "2 小时15 分钟"
+      },
+      {
+        "label": "C",
+        "content": "2 小时45 分钟"
+      },
+      {
+        "label": "D",
+        "content": "3 小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小时计，收费 5 元”，李先\n生支付停车费 17 元，则停车时长一定超过 1 小时。扣除前 1 小时的收费 5 元，超出 1 小时部分付款为 17-5=12\n元。根据题干“超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）”，12 元最\n多可支付 12÷4=3 个 30 分钟=1.5 小时，则 2 小时＜李先生的停车时长\n\n小时。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第23题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-101",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年全国城市供水管道长度比 2020 年增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5 万公里"
+      },
+      {
+        "label": "B",
+        "content": "5.3 万公里"
+      },
+      {
+        "label": "C",
+        "content": "5.6 万公里"
+      },
+      {
+        "label": "D",
+        "content": "6 万公里"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2021 年······比 2020 年增长约”，结合选项带单位，可判定本题为增长量计算问题。\n\n定位文字材料可得：2021 年，城市供水管道长度 105.99 万公里，同比增长 5.26%。根据公式：增长量\n\n，则 2021 年全国城市供水管道长度比 2020 年增长\n\n万公里。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考anhui行测第101题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-102",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下列折线图中，最能准确反映 2013~2021 年全国城市人均日生活用水量同比增长率变化情况的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······同比增长率变化情况的是”，可判定本题为一般增长率问题。定位图1可得2013-2021年全国城市人均日生活用水量的数据。根据公式：增长率，可得2013年全国城市人均日生活用水量同比增长率；2014年同比增长率，通过分子大、分母小可知，2013年的同比增长率＞2014年的同比年增长率，排除C项。2020年人均日生活用水量＜2019年人均日生活用水量，则2020年的同比增长率＜0，其余年份同比增长率均大于0，故2020年同比增长率应为最小，排除B项。2016年的同比增长率，2021年的同比增长率，故2021年的同比增长率＞2016年的同比增长率，排除D项。\n故正确答案为A。\n注：排除C项后，2016-2020年的同比增长量变化不大，2021年的增长量5.63（185.03-179.40）最大，是其他年份的数倍，且基期量差别不大，所以2016-2021年这几年里2021年对应的增长率也最大，故正确答案为A。\n\n[来源 baijing1.top paperId=328 sort=102 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考anhui行测第102题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2023/q102.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-103",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "图 2 所列的全国部分省（区、市）中，2021 年城市人均日生活用水量超过全国平均值的有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5 个"
+      },
+      {
+        "label": "B",
+        "content": "6 个"
+      },
+      {
+        "label": "C",
+        "content": "7 个"
+      },
+      {
+        "label": "D",
+        "content": "8 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位文字材料可得：2021 年，全国人均日生活用水量 185.03 升。定位图 2 可得 2021 年全国部分省（区、\n市）城市人均日生活用水量。则超过全国平均值（185.03 升）的有浙江（212 升）、安徽（190 升）、福建（231\n升）、广东（251 升）、海南（315 升）、西藏（256 升）6 个省（区、市）。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第103题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-104",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "图 2 中，城市人均日生活用水量最高的省份是用水量中位数省份的约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.78 倍"
+      },
+      {
+        "label": "B",
+        "content": "1.88 倍"
+      },
+      {
+        "label": "C",
+        "content": "1.95 倍"
+      },
+      {
+        "label": "D",
+        "content": "2.03 倍"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“图 2 中······是······”，结合选项求倍数，可判定本题为现期倍数问题。定位\n图 2 可知，城市人均日生活用水量最高的省份是海南，用水量为 315 升；城市人均日生活用水量中位数省份，\n即排名第 8 的省份为宁夏，用水量为 168 升。故城市人均日生活用水量最高的省份是用水量中位数省份的倍数\n\n为\n\n倍，与 B 项最接近。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第104题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-105",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "能够从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2012～2021 年，全国城市供水普及率逐年增长"
+      },
+      {
+        "label": "B",
+        "content": "2021 年，浙江和广东的供水普及率低于新疆建设兵团"
+      },
+      {
+        "label": "C",
+        "content": "2012～2021 年，全国城市人均日生活用水量平均值不超过 176 升"
+      },
+      {
+        "label": "D",
+        "content": "图 2 中，用水量排名前三名的省（区、市）城市人均日生活用水量之和是排名后三位的约 2.13 倍 （三） 25"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位文字材料可得 2020 年、2021 年全国城市供水普及率，但未给出其余年份的全国城市供水普及率，\n\n无法推出，错误；\n\nB 项：定位文字材料可得，2021 年浙江和广东城市供水普及率达到 100%，新疆建设兵团超过 95%。比较可\n\n知 2021 年浙江和广东的供水普及率高于新疆建设兵团，错误；\n\nC 项：定位图 1 可得 2012-2021 年全国城市人均日生活用水量。则所求平均值\n\n升＞\n\n176 升，错误；\n\nD 项：定位图 2 可得用水量排名前三名的省（区、市）城市人均日生活用水量分别为海南 315 升、西藏 256\n\n升、广东 251 升；用水量排名后三位分别为天津 123 升、吉林 125 升、山西 138 升。则所求倍数\n\n倍，正确。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第105题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年，全国羊肉产量同比增长率约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.4%"
+      },
+      {
+        "label": "B",
+        "content": "3.4%"
+      },
+      {
+        "label": "C",
+        "content": "4.4%"
+      },
+      {
+        "label": "D",
+        "content": "5.4%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2021 年，全国羊肉产量同比增长率约为”，可判定本题为一般增长率问题。定位图 1 可知 2020\n\n年、2021 年全国羊肉产量分别为 492.3 万吨、514.1 万吨。根据公式：增长率\n\n，则 2021 年\n\n全国羊肉产量同比增长率为\n\n。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考anhui行测第106题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2012～2021 年，最接近全国羊肉年平均产量的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015 年"
+      },
+      {
+        "label": "B",
+        "content": "2016 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2018 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2012-2021 年······年平均产量······”，可判定本题为现期平均数问题。定位\n\n统计图可知 2012-2021 年全国羊肉产量。利用“削峰填谷”，以 450 为基准，分别作差为：-45.5、-40.1、-22.4、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第107题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2020 年，表 1 所列的主要畜禽产品中，零售价格与批发价格差距最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "猪肉"
+      },
+      {
+        "label": "B",
+        "content": "牛肉"
+      },
+      {
+        "label": "C",
+        "content": "羊肉"
+      },
+      {
+        "label": "D",
+        "content": "鸡肉"
+      }
+    ],
+    "answer": "A",
+    "explanation": "定位表 1 可得，2020 年，零售价格与批发价格差距分别为：猪肉=69.51-45.22=24.29 元/公斤；牛肉\n=86.81-73.03=13.78 元/公斤；羊肉=77.01-69.27=7.74 元/公斤；鸡肉=26.66-16.82=9.84 元/公斤。故 2020\n年，表 1 所列的主要畜禽产品中，零售价格与批发价格差距最大的是猪肉。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第108题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "假设羊肉每年以零售价格全部售罄，那么，2021 年羊肉销售收入同比增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5.2%"
+      },
+      {
+        "label": "B",
+        "content": "10.4%"
+      },
+      {
+        "label": "C",
+        "content": "17.6%"
+      },
+      {
+        "label": "D",
+        "content": "22.7%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方法一：根据题干“2021 年······同比增长约”，结合选项为百分数，可判定本题为一般增长率问\n题。定位图表可得：2021 年、2020 年羊肉产量分别为 514.1 万吨、492.3 万吨，2021 年、2020 年羊肉零售价\n格分别为 81.40 元/公斤、77.01 元/公斤。因题目假设羊肉每年以零售价格全部售罄，故羊肉销售收入=产量×\n零售价格，则 2021 年羊肉销售收入=514.1 万吨×81.40 元/公斤 51 亿公斤×81 元/公斤=4131 亿元；2020 年\n羊肉销售收入=492.3 万吨×77.01 元/公斤 49 亿公斤×77 元/公斤=3773 亿元。根据公式：增长率\n\n，则 2021 年羊肉销售收入同比增长\n\n，与 B 项最接近。\n\n方法二：根据题干“2021 年······同比增长约”，结合选项为百分数，且题目假设羊肉每年以零售\n\n价格全部售罄，故羊肉零售价格\n\n，可判定本题为平均数的增长率问题。定位图表可得：2021 年、\n\n2020 年羊肉产量分别为 514.1 万吨、492.3 万吨，2021 年、2020 年羊肉零售价格分别为 81.40 元/公斤、77.01\n\n元/公斤。根据公式：增长率\n\n，则 2021 年羊肉产量同比增长率为\n\n（b）（也可根据第一小题答案直接使用），2021 年羊肉零售价格同比增长率为\n\n（r）。根据平均数的增长率公式：r\n\n，设 2021 年羊肉销售收入同比增长\n\n率为 a，代入公式得：\n\n，则 a\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考anhui行测第109题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-ziliao-2023-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2012～2021 年，全国羊肉产量逐年增长"
+      },
+      {
+        "label": "B",
+        "content": "2020 年，牛肉批发价格不足零售价格的 90%"
+      },
+      {
+        "label": "C",
+        "content": "2020 年，鸡肉零售价格与批发价格之比大于牛肉"
+      },
+      {
+        "label": "D",
+        "content": "2012～2021 年，鸡蛋批发价格同比增速最快的年份是 2018 年 26"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位统计图可知，2012～2021 年，全国羊肉产量一年比一年变大，即逐年增长，正确；\nB 项：定位统计表可知，2020 年牛肉批发价格为 73.03 元/公斤，零售价格为 86.81 元/公斤，\n\n元/公斤，2020 年牛肉批发价格 73.03 元/公斤＜78.1 元/公斤，即 2020 年，牛肉批发价格\n\n不足零售价格的 90%，正确；\n\nC 项：定位统计表可知，2020 年鸡肉零售价格为 26.66 元/公斤，批发价格为 16.82 元/公斤；牛肉零售价\n\n格为 86.81 元/公斤，批发价格为 73.03 元/公斤；2020 年，\n\n，\n\n，\n\n，正确；",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考anhui行测第110题",
+    "region": "anhui"
+  }
+]

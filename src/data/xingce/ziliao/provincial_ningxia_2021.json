@@ -1,0 +1,532 @@
+[
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年，互联网企业业务收入同比约增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1187 亿元"
+      },
+      {
+        "label": "B",
+        "content": "1309 亿元"
+      },
+      {
+        "label": "C",
+        "content": "1426 亿元"
+      },
+      {
+        "label": "D",
+        "content": "1605 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：71%，易错项：B。\n解析\n第一步，本题考查增长量计算中的已知现期量与增长率。\n第二步，定位第一段可知，“2020年，我国规模以上互联网和相关服务企业（以下简称互联网企业）业务收入12838\n亿元，同比增长12.5%”。\n1\n第三步，12.5%≈8，根据增长量计算n+1原则，则2020年，互联网企业业务收入同比约增长了\n1283812838\n≈1426\n8+1~9\n（亿元）。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第106题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年，互联网企业互联网接入及相关服务收入同比增速比同年信息服务收入同比增速：",
+    "options": [
+      {
+        "label": "A",
+        "content": "高不到 10 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "高 10 个百分点以上"
+      },
+      {
+        "label": "C",
+        "content": "低不到 10 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "低 10 个百分点以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：65%，易错项：C。\n解析\n第一步，本题考查简单计算。\n第二步，定位第三段可知，“2020年，互联网企业信息服务收入共7068亿元，同比增长11.5%，增速低于上年同\n第三步，2019年互联网企业信息服务收入同比增速为11.5%+11.2%=22.7%；2019年互联网接入及相关服务收\n入同比增速为11.5%+20.8%=32.3%。故2019年，互联网企业互联网接入及相关服务收入同比增速比同年信息\n服务收入同比增速高32.3%一22.7%=9.6%，高不到10个百分点。\n因此，选择A选项。\n-27 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第107题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "在东部、中部、西部和东北四个地区中，2019 年和 2020 年互联网业务收入占全国比重均高于上年水平的 地区有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：64%，易错项：C。\n解析\n第一步，本题考查两期比重比较。\n第二步，定位文字材料第一段“2020年，我国规模以上互联网和相关服务企业（以下简称互联网企业）业务收入\n12838亿元，同比增长12.5%，增速低于上年同期8.9个百分点”和第四段。\n第三步，根据两期比重比较口诀，部分增速大于整体增速，比重上升，反之，比重下降。2020年我国规模以上\n互联网和相关服务企业（以下简称互联网企业）业务收入同比增长12.5%，即整体增速12.5%，材料中已知2020\n年东、中、西和东北地区同比增速分别为14.8%、3.4%、6.9%和9.1%，仅东部地区增速14.8%>整体增速12.5%，\n）\n长12.5%+8.9%=21.4%，2019年东部地区互联网业务收入同比增速为14.8%+9%=23.8%；仅东部地区增速23.8%\n>整体增速21.4%。故2019年和2020年互联网业务收入占全国比重均高于上年水平的地区只有1个东部地区。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第108题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年，东部地区除广东、北京、上海、浙江和江苏之外的省市互联网业务收入约比 2019 年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增长了 9%"
+      },
+      {
+        "label": "B",
+        "content": "增长了 19%"
+      },
+      {
+        "label": "C",
+        "content": "减少了 9%"
+      },
+      {
+        "label": "D",
+        "content": "减少了 19%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查混合增长率计算。\n第二步，定位文字材料第四段和第五段，“2020年，东部地区互联网业务收入11227亿元，同比增长14.8%；2020\n年，互联网业务累计收入居前5名的广东（增长5.2%）、北京（增长21.5%）、上海（增长20.9%）、渐江（增\n长24.4%）和江苏（增长8.0%），共完成互联网业务收入10706亿元，同比增长15.1%”。\n第三步，根据混合增长率口诀，整体增速介于各部分增速之间，且偏向于基期量较大的一方，可得广东、北京、\n上海、浙江和江苏五省同比增速（15.1%）>东部地区同比增速（14.8%）>东部地区除五省之外业务收入同比增\n速，排除B项。根据增长量比较口诀“大大则大，一大一小看乘积”可得，2020年，东部地区互联网业务收入\n同比增量高于广东、北京、上海、浙江和江苏五省业务收入同比增量，即东部地区除五省之外业务收入同比增量\n为正，则同比增速也应为正增长，排除C、D选项。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第109题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2021/q109.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "关于我国互联网企业业务状况，能够从上述资料中推出的有几条？ ①2019 年实现利润超过 1000 亿元 ②2020 年，互联网数据服务收入比 2018 年增加了不到 70% ③2018 年及 2019 年，中部地区互联网业务收入均低于西部地区",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "3 (材料 2) - 15 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：26%，易错项：C。\n解析\n第一步，本题考查综合分析问题。\n第二步，①基期量计算。定位第二段“2020年，互联网企业实现营业利润1187亿元，同比增长13.2%”，根据\n现期量\n1187\n（亿元），正确。\n②间隔增长率计算，定位第三段，“2020年互联网数据服务（包括云服务、大数据服务等）收入199.8亿元，\n同比增长29.5%，增速较上年同期提高3.9个百分点”，可知2019年互联网数据服务收入同比增速29.5%一\n增长率为29.5%+25.6%+29.5%×25.6%≈55.1%+30%×26%=55.1%+7.8%<70%，正确。\n③基期量比较。定位第四段，“2020年中部地区互联网业务收入448.1亿元，同比增长3.4%，增速较上年同期\n回落53.1个百分点。西部地区互联网业务收入497.2亿元，同比增长6.9%，增速较上年同期回落15.2个百分\n现期量\n448.1 448.1\n=430+\n，西部地区\n497.2497.2\n460+\n互联网业务收入为1+6.9%～1.07\n，2019年，中部地区互联网业务收入低于西部地区。根据间隔增\n长率计算公式R=r1+r2+I1×I2，2020年相比2018年，中部地区互联网业务收入增长率为3.4%+（3.4%+\n53.1%）+3.4%×（3.4%+53.1%）59.9%+2%62%。西部地区互联网业务收入增长率为6.9%+（6.9%+15.2%）\n448.1\n+6.9%×（6.9%+15.2%）29%+2%32%，2018年中部地区互联网业务收入为1+62%，西部地区互联网业务\n497.2448.1497.2\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第110题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2021/q110.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年，通勤高峰最拥堵的城市是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "北京"
+      },
+      {
+        "label": "B",
+        "content": "上海"
+      },
+      {
+        "label": "C",
+        "content": "重庆"
+      },
+      {
+        "label": "D",
+        "content": "南京"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：59%，易错项：A。\n解析\n第一步，本题考查简单比较中的读数比较。\n-28-\n第二步，定位表格材料，“2020年度排名”、“排名环比升降”两列。\n第三步，2019年各选项通勤高峰交通拥堵指数的年度排名分别为：北京3一1=2（名），上海5+2=7（名），重\n庆与上年持平仍为第1名，南京9一3=6（名），故2019年重庆的通勤高峰交通拥堵指数排名最高，是通勤高峰\n最拥堵的城市。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第111题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如果小张从家里到公司的距离是 20 公里，并且都采用开车方式，2020 年他在下列哪个城市居住高峰时段 通勤用时最短？",
+    "options": [
+      {
+        "label": "A",
+        "content": "广州"
+      },
+      {
+        "label": "B",
+        "content": "成都"
+      },
+      {
+        "label": "C",
+        "content": "苏州"
+      },
+      {
+        "label": "D",
+        "content": "西安"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：73%，易错项：B。\n解析\n第一步，本题考查读数比较。\n26. 41km/h\"。\n第三步，根据路程=速度×时间，路程相同，时间与速度成反比，求哪个城市居住高峰时段通勤用时最短，即求\n哪个城市通勤高峰实际速度最大，观察数据可得苏州（37.26）最大。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第112题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "小张在下列哪个新一线城市居住会感觉公共交通最便利？",
+    "options": [
+      {
+        "label": "A",
+        "content": "合肥"
+      },
+      {
+        "label": "B",
+        "content": "成都"
+      },
+      {
+        "label": "C",
+        "content": "郑州"
+      },
+      {
+        "label": "D",
+        "content": "长沙"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：61%，易错项：C。\n解析\n第一步，本题考查读数比较。\n第二步，定位表格材料，“合肥的地面公交线路网密度、地铁线路网密度分别为3.029、0.480；成都分别为4.678、\n0.977；郑州分别为4.106、0.753；长沙分别为3.953、0.630”。\n第三步，根据题意，公共交通最便利的限即公共交通线路网密度最大的，观察数据发现成都的地面公交线路网密度\n（4.678）、地铁线路网密度（0.977）均为各选项城市中最大的。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第113题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "比较一线城市（北京、上海、广州、深圳），2019 年通勤高峰交通拥堵程度由重到轻依次是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "北京、上海、广州、深圳"
+      },
+      {
+        "label": "B",
+        "content": "上海、北京、深圳、广州"
+      },
+      {
+        "label": "C",
+        "content": "深圳、北京、上海、广州"
+      },
+      {
+        "label": "D",
+        "content": "北京、广州、上海、深圳"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2019年通勤高峰交通拥堵程度由重到轻······”，结合表格材料所给数据为2020年各城市通勤高峰交通拥堵指数及同比增速，可判定本题为基期比较问题。结合基期量可知，2019年北京：、上海：、广州：、深圳：。故2019年通勤高峰交通拥堵程度由重到轻依次是北京、广州、上海、深圳。\n故正确答案为D。\n\n[来源 baijing1.top paperId=704 sort=114 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第114题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项说法错误的是：",
+    "options": [
+      {
+        "label": "B",
+        "content": "上海、北京、深圳、广州"
+      },
+      {
+        "label": "D",
+        "content": "北京、广州、上海、深圳"
+      },
+      {
+        "label": "A",
+        "content": "2020 年，在通勤高峰交通拥堵指数排名全国前 10 位的城市中，新一线城市占比达到 50% B、如果只考虑交通拥堵情况，新一线城市中最宜居的是郑州"
+      },
+      {
+        "label": "C",
+        "content": "2020 年佛山拥堵排名比上年下降了 4 位，极有可能是该市增加了地面公交投入 D、如果重庆要在 2021 年缓解交通拥堵，一个有效的办法是在通勤的高峰限制私家车出行 - 16 - (材料 3)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：37%，易错项：B。\n解析\n第一步，本题考查综合分析问题，且需选出说法错误的一项。\n第二步，A选项，求比重。定位表格材料，2020年，在通勤高峰交通拥堵指数排名全国前10位的城市中，新一\n线城市（表中除4个一线城市北京、上海、广州、深圳以外的）有重庆（排名第1）、西安（排名第4）、南京\n部分量\n4\n，错误。\nB选项，直接读数。定位表格材料，表中新一线城市中通勤高峰交通拥堵指数最低的是郑州（1.526），2020年\n度排名第45，通勤方便，比较宜居，正确。\nC选项，直接读数。定位表格材料，2020年佛山地面公交线路网密度较高，为5.029km/km²，在一线城市和新一\n线城市中排名第2；而地铁线路网密度较低，为0.236km/km²，在一线城市和新一线城市中排名倒数第1。如果\n2020年佛山的拥堵排名要比上年下降，则极有可能是通过增加地面公交投入，而非地铁投入，正确。\n^）在一线城市和新一线城市中都已经相对较高，则要想缓解交通拥堵，应鼓励人们利用公共交通工具出行，限\n制私家车出行，正确。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第115题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2021/q115.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年下半年，全国公路货运量高于上月水平的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：77%，易错项：C。\n解析\n第一步，本题考查简单比较中的读数比较。\n第二步，定位图形材料。\n第三步，观察柱状图数据，7月全国公路货运量（30.81亿吨）<6月（30.85亿吨），8月（32.52亿吨）>7\n- 29 -\n月（30.81亿吨），9月（34.04亿吨）>8月（32.52亿吨），10月（33.07亿吨）<9月（34.04亿吨），11\n月（35.24亿吨）>10月（33.07亿吨），12月（33.73亿吨）<11月（35.24亿吨），高于上月的有8、9、11\n月，共3个。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第116题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年第二季度，全国货物周转量约比第一季度增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "40%"
+      },
+      {
+        "label": "B",
+        "content": "51%"
+      },
+      {
+        "label": "C",
+        "content": "62%"
+      },
+      {
+        "label": "D",
+        "content": "73%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：61%，易错项：C。\n解析\n第一步，本题考查增长率计算。\n第二步，定位图形材料。\n现期量－基期量\n第三步，根据增长率=\n基期量\n，选项首位各不相同，可将分母从左向右截取前两位，分子分母均出\n(52 + 52 + 56) (37 +14 + 41)\n160 -92\n68\n现加减法，整体考虑截位舍相同处理数据，可得增长率为\n37 + 14 + 41\n92\n92，\n直除首位商7。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第117题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2021/q117.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年，我国公路货物周转量累计达 1 万亿吨公里、2 万亿吨公里、3 万亿吨公里分别是在：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 月 5 月 7 月"
+      },
+      {
+        "label": "B",
+        "content": "4 月 6 月 8 月"
+      },
+      {
+        "label": "C",
+        "content": "4 月 6 月 7 月"
+      },
+      {
+        "label": "D",
+        "content": "3 月 5 月 8 月"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：66%，易错项：B。\n解析\n第一步，本题考查简单计算中的和差类。\n第二步，定位图形材料。\n第三步，加法计算，可将数据截位舍相同处理（并保留量级），代入数据可得2020年3月份累计为\n3690+1400+4140=9230（亿吨公里）<1万亿吨公里，排除A、D选项，前7个月累计为\n除B选项。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第118题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年各季度公路货物平均运输距离最高的季度是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第一季度"
+      },
+      {
+        "label": "B",
+        "content": "第二季度"
+      },
+      {
+        "label": "C",
+        "content": "第三季度"
+      },
+      {
+        "label": "D",
+        "content": "第四季度"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：28%，易错项：D。（\n解析\n第一步，本题考查现期平均数比较。\n第二步，定位图形材料。\n货物周转量\n第三步，根据货物平均运输距离\n货运量\n，比较类问题，可将分母从左向右截取前三位，分子分母均出现\n加减法，考虑截位舍相同处理，代入数据可得一季度公路货物平均运输距离\n3690.2 + 1396.4 + 4141.3\n369 + 140 + 414\n923\n≈ 17.4\n21.07+8.27+23.53\n21.1 + 8.3 + 23.5\n52.9\n，二季度公路货物平均运输距离\n5156.7+5217.3+5583.5\n516+522+558\n1596\n二\n29.05 + 30.43 + 30.85\n29.1 + 30.4 + 30.9\n90.4\n17.7\n，三季度公路货物平均运输距离\n5341.2+5576.3+6122.3\n534 +558 + 612\n1704\n17.5\n=\n30.81 + 32.52 + 34.04\n30.8 + 32.5 + 34\n97.3\n，四季度公路货物平均运输距离\n5837.8 + 6167.6 + 5941.2\n584 + 617 + 594\n1795\n≈17.6\n33.07 + 35.24+ 33.73\n33.1 + 35.2 + 33.7\n102\n。因此，二季度的公路货物平均运输距离\n最高。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第119题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-ziliao-2021-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "关于 2020 年全国公路货物运输情况的描述，可以推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 月份货运平均运输距离在 170—175 公里"
+      },
+      {
+        "label": "B",
+        "content": "全年日均货运量多于 1 亿吨的月份有 6 个"
+      },
+      {
+        "label": "C",
+        "content": "3 月份货物周转量比 2 月份多 200%以上"
+      },
+      {
+        "label": "D",
+        "content": "全年月均货运量超过 30 亿吨 - 17 -"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：45%，易错项：C。\n解析\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A选项，现期平均数计算。定位图形材料可知，“2020年2月货运量为8.27亿吨，货物周转量为1396.4\n货物周转量\n1396.4\n≈169 < 170\n（公里），错误。\n总数\n当月货运量\n>1亿吨，即当月货\n运量数值>当月天数，符合的月份有6月（30.85>30）、8月（32.52>31）、9月（34.04>30）、10月（33.07\n- 30 -\n>31）、11月（35.24>30）、12月（33.73>31）这6个月份符合，正确。\nC选项，增长率计算。定位折线图可知，“2020年2月份货物周转量为1396.4亿吨公里、3月份为4141.3亿吨\n现期量-基期量\n公里“，根据增长率=\n基期量\n，将数据截位舍相同处理后代入可得，增长率为\n414  140\n274\n<200%\n140\n140\n，错误。\n总数\nD选项，现期平均数计算。定位柱状图，根据平均数=总个数，利用中间值法可得全年月均货运量为\n8.93 -21.73  6.47 0.95 + 0.43 + 0.85 + 0.81 + 2.52 + 4.04 + 3.07 + 5.24 + 3.73\n30+\n=30+0<30\n12\n（亿吨），错误。\n因此，选择B选项。\n-31-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考ningxia行测第120题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2021/q120.png"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "27 2021 年 1~2 月，我国固定互联网宽带接入用户数月均约增加多少万户？",
+    "options": [
+      {
+        "label": "A",
+        "content": "867"
+      },
+      {
+        "label": "B",
+        "content": "629"
+      },
+      {
+        "label": "C",
+        "content": "434"
+      },
+      {
+        "label": "D",
+        "content": "315"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2021 年 1~2 月······月均约增加······万户”，可判定本题为年均增长量问题。\n定位文字材料第一段可得：截至 2021 年底，我国固定互联网宽带接入用户数比上年底净增 5224 万户；定位统\n计表可得：2021 年 2 月末我国固定互联网宽带接入用户数为 49222 万户，12 月末为 53579 万户。根据公式：\n基期量=现期量-增长量，可得 2020 年 12 月末我国固定互联网宽带接入用户数为 53579-5224=48355 万户。根\n\n据公式：年均增长量\n\n，则 2021 年 1~2 月，我国固定互联网宽带接入用户数月均增加\n\n万户。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第116题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2021 年下半年，我国固定互联网宽带接入用户中，光纤用户数增量超过 500 万户的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······光纤用户数增量超过 500 万户的月份有几个”，可判定本题为增长量计算问题。\n\n定位表格材料可知 2021 年 6-12 月光纤用户数量。根据公式：增长量=现期量-基期量，可知 2021 年 7 月光纤\n用户数增量为 48416-47968=448 万户，8 月增长量为 48921-48416=505 万户，9 月增长量为 49643-48921=722\n万户，10 月增长量为 50077-49643=434 万户，11 月增长量为 50466-50077=389 万户，12 月增长量为\n50551-50466=85 万户。故 2021 年下半年，我国固定互联网宽带接入用户中，光纤用户数增量超过 500 万户的\n月份有 8 月、9 月，共 2 个月份。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第117题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2021 年年末，我国固定互联网宽带接入用户中 100Mbps 速率以上用户占比比上年末：",
+    "options": [
+      {
+        "label": "A",
+        "content": "上升了不到 1 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "上升了 1 个百分点以上"
+      },
+      {
+        "label": "C",
+        "content": "下降了不到 1 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "下降了 1 个百分点以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2021 年年末······中······占比比上年末”，结合选项为上升/下降+百分点，可\n判定本题为两期比重问题。定位文字材料第一段可得：截至 2021 年底，我国固定互联网宽带接入用户数比上\n年底净增 5224 万户。其中，100Mbps 及以上接入速率的用户比上年底净增 6385 万户；定位表格材料可得：2021\n年 12 月末我国固定互联网宽带接入用户数 53579 万户，其中，100Mbps 速率以上接入用户 49848 万户。根据公\n\n式：比重\n\n，基期量=现期量-增长量，所求比重差\n\n，即约上升\n\n了 3 个百分点，在 B 项范围内。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第118题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2021 年末，我国固定互联网宽带接入用户中，使用 xDSL 和光纤以外接入方式的用户数量比上半年末：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增加了不到 200 万户"
+      },
+      {
+        "label": "B",
+        "content": "增加了 200 万户以上"
+      },
+      {
+        "label": "C",
+        "content": "减少了不到 200 万户"
+      },
+      {
+        "label": "D",
+        "content": "减少了 200 万户以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "36\n\n\f根据题干“2021 年末······比上半年末”，结合选项为增加/减少+具体单位，可判定本题为增长量\n计算问题。定位表格材料可得，2021 年末我国固定互联网宽带接入用户数 53579 万户，其中 xDSL 用户 283 万\n户、光纤用户 50551 万户；2021 年上半年末（6 月末）固定互联网宽带接入用户数 50961 万户，其中 xDSL 用\n户 290 万户、光纤用户 47968 万户。则 2021 年末使用 xDSL 和光纤以外接入方式的用户数量比上半年末增加：\n（53579-283-50551）-（50961-290-47968）=2745-2703=42 万户，即增加了不到 200 万户，A 项满足。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第119题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "以下折线图反映了 2021 年哪一时间段内，我国固定互联网宽带 100Mbps 速率以上用户数环比增量的变化 趋势？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3~6 月"
+      },
+      {
+        "label": "B",
+        "content": "5~8 月"
+      },
+      {
+        "label": "C",
+        "content": "7~10 月"
+      },
+      {
+        "label": "D",
+        "content": "9~12 月 （四） 28"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······环比增量的变化趋势”，可判定本题为增长量比较问题。定位表格材料可知 2021\n年 2-12 月各月末我国固定互联网宽带 100Mbps 速率以上用户数。根据公式：增长量=现期量-基期量，可得 2021\n年各时间段内各月的环比增量：\n\nA 项：3 月，45072-44516＝556 万户；4 月，45517-45072＝445 万户。4 月环比增量（445 万户）＜3 月环\n\n比增量（556 万户），不符合折线图先增加的变化趋势，排除；\n\nB 项：5 月，46104-45517＝587 万户；6 月，46649-46104＝545 万户。6 月环比增量（545 万户）＜5 月环\n\n比增量（587 万户），不符合折线图先增加的变化趋势，排除；\n\nC 项：7 月，47173-46649＝524 万户；8 月，47710-47173＝537 万户；9 月，48450-47710＝740 万户；10\n月，49026-48450＝576 万户。则 2021 年 7～10 月，我国固定互联网宽带 100Mbps 速率以上用户数各月环比增\n量的变化趋势为先增加再降低，符合折线图变化趋势，当选；\n\nD 项：由 C 项可知 10 月环比增量（576 万户）＜9 月环比增量（740 万户），不符合折线图先增加的变化\n\n趋势，排除。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第120题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2023_fushengjia/q120.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2021 年，表中所列省市集成电路产量约占全国总产量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "80%"
+      },
+      {
+        "label": "B",
+        "content": "84%"
+      },
+      {
+        "label": "C",
+        "content": "88%"
+      },
+      {
+        "label": "D",
+        "content": "92%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2021 年······占······”，可判定本题为现期比重问题。定位统计表可知 2021\n\n年表中所列省市及全国集成电路产量。根据公式：比重\n\n，可知所求比重\n\n。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第121题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2017~2021 年间，全国集成电路产量同比增速超过 20%的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2017~2021 年间······同比增速······”，可判定本题为一般增长率计算问题。\n\n定位统计表可知 2016~2021 年每年的全国集成电路产量。根据公式：一般增长率\n\n，则\n\n2017~2021 年全国集成电路产量同比增速分别为：\n\n2017 年，\n\n2018 年，\n\n2019 年，\n\n2020 年，\n\n2021 年，\n\n；\n\n；\n\n；\n\n；\n\n。\n\n综上，同比增速超过 20%的年份有 2020 年、2021 年，共 2 个。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第122题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "表中所列 7 个省市中，2019 年集成电路产量同比增速超过 2%的省市比上年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少 1 个"
+      },
+      {
+        "label": "B",
+        "content": "少 2 个"
+      },
+      {
+        "label": "C",
+        "content": "多 1 个"
+      },
+      {
+        "label": "D",
+        "content": "多 2 个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······2019 年······同比增速······”，可判定本题为一般增长率问题。\n\n定位统计表可知 2017~2019 年每年各省市集成电路产量数据。根据公式：增长率\n\n，可得：\n\n（1）2018 年各省市集成电路产量增长率分别为：\n\n江苏\n\n；甘肃\n\n；广东\n\n；上海\n\n；浙江\n\n；北京\n\n；四川\n\n。综\n\n上，2018 年表中所列 7 个省市中集成电路产量同比增速超过 2%的省市有 5 个。\n\n（2）2019 年各省市集成电路产量增长率分别为：\n\n江苏\n\n；甘肃\n\n；广东\n\n；上海\n\n；浙江\n\n；北京\n\n；四川\n\n。\n\n综上，2019 年表中所列 7 个省市中集成电路产量同比增速超过 2%的省市有 4 个。\n\n则表中所列 7 个省市中，2019 年集成电路产量同比增速超过 2%的省市（4 个）比上年（5 个）少 1 个。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第123题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "将①甘肃、②广东、③上海和④浙江按 2016~2021 年集成电路产量年均增速（以 2016 年为基期计算）从 高到低排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "④①②③"
+      },
+      {
+        "label": "B",
+        "content": "④①③②"
+      },
+      {
+        "label": "C",
+        "content": "①④②③"
+      },
+      {
+        "label": "D",
+        "content": "①④③②"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······按 2016~2021 年······年均增速（以 2016 年为基期计算）从高到低排列······”，\n可判定本题为年均增长率问题。定位统计表可知 2016 年和 2021 年甘肃、广东、上海、浙江的集成电路产量。\n\n根据年均增长率公式：\n\n（n 为年份差），当年份差 n 相同时，直接根据\n\n的值即可比较\n\n年均增长率的大小。计算各省份\n\n可得：①甘肃\n\n；②广东\n\n；③上\n\n海\n\n；④浙江\n\n，则年均增速从高到低排列为：①④②③。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第124题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "以下折线图中，最能准确反映2017~2021 年间北京市集成电路产量同比增量变化趋势的是： 29 A、 B、 C、 D、 （五） 超级计算，也被称为高性能计算。从算力资源的需求看，高性能计算可以分为尖端超算、通用超算、业务 超算和人工智能超算四大类。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······2017~2021 年间北京市集成电路产量同比增量变化趋势的是”，可判定本题为增\n长量比较问题。定位统计表可得：2016~2021 年北京市集成电路产量分别为 81 亿块、93 亿块、137 亿块、154\n亿块、171 亿块、208 亿块。根据公式：增长量=现期量-基期量，则 2017 年同比增量为 93-81=12 亿块，2018\n年为 137-93=44 亿块，2019 年为 154-137=17 亿块，2020 年为 171-154=17 亿块，2021 年为 208-171=37 亿块。\n可知 2019 年与 2020 年同比增量相等，即折线图中第三和第四个点高度一致，只有 A 项符合。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第125题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2023_fushengjia/q125.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2020～2021 年，中国超算服务市场累计规模约为多少亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "328"
+      },
+      {
+        "label": "B",
+        "content": "354"
+      },
+      {
+        "label": "C",
+        "content": "371"
+      },
+      {
+        "label": "D",
+        "content": "396"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位统计表可得 2020 年中国尖端超算、通用超算、业务超算和人工智能超算服务市场规模分别为 28.3 亿\n元、37.8 亿元、64.4 亿元、27.7 亿元；2021 年这四类超算服务市场规模分别为 31.4 亿元、40.3 亿元、85.6\n亿元、38.3 亿元。则 2020～2021 年，中国超算服务市场累计规模\n=28.3+37.8+64.4+27.7+31.4+40.3+85.6+38.3\n\n亿元。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第126题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2018 年，中国超算服务 4 类细分市场中，同比增速最快和最慢的市场当年市场规模同比增速相差约多少个 百分点？ 30",
+    "options": [
+      {
+        "label": "A",
+        "content": "41"
+      },
+      {
+        "label": "B",
+        "content": "47"
+      },
+      {
+        "label": "C",
+        "content": "53"
+      },
+      {
+        "label": "D",
+        "content": "59"
+      }
+    ],
+    "answer": "C",
+    "explanation": "38\n\n\f根据题干“2018 年······同比增速······百分点”，可判定本题为一般增长率问题。定位统\n\n计表可得 2017、2018 年中国超算服务 4 类细分市场的市场规模。根据公式：增长率\n\n，可知\n\n2018 年，中国超算服务 4 类细分市场的市场规模同比增速分别为：\n\n尖端超算：\n\n通用超算：\n\n业务超算：\n\n；\n\n；\n\n；\n\n人工智能超算：\n\n。\n\n则增速最快的市场为人工智能超算，最慢的市场为尖端超算，所求=58%-5%=53%，即相差约 53 个百分点。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第127题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2019 年，中国第三方超算服务市场规模约占同年超算服务总体市场规模的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "15%"
+      },
+      {
+        "label": "B",
+        "content": "18%"
+      },
+      {
+        "label": "C",
+        "content": "21%"
+      },
+      {
+        "label": "D",
+        "content": "24%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019 年······占同年······”，结合材料时间为 2019 年，可判定本题为现期比\n重问题。定位统计表可得 2019 年中国尖端超算、通用超算、业务超算和人工智能超算的市场规模；定位统计\n图可得 2019 年中国第三方独立超算服务商和互联网超算服务商的市场规模。则所求比重\n\n，与 A 项最接近。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第128题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "如保持 2021 年同比增量不变，则到哪一年第三方互联网超算服务商提供的服务市场规模将第一次超过第 三方独立超算服务商？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2025 年"
+      },
+      {
+        "label": "B",
+        "content": "2026 年"
+      },
+      {
+        "label": "C",
+        "content": "2027 年"
+      },
+      {
+        "label": "D",
+        "content": "2028 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“如保持 2021 年同比增量不变，则到哪一年······将第一次超过······”，可判\n\n定本题为现期追赶问题。定位统计图可知 2020 年、2021 年中国第三方独立超算和互联网超算服务商市场规模。\n根据公式：增长量=现期量-基期量，则 2021 年第三方互联网超算服务商市场规模同比增量=13.8-9.5=4.3 亿元，\n2021 年第三方独立超算服务商市场规模同比增量=18.3-15.0=3.3 亿元。根据公式：现期量=基期量+n×增长量，\n可列式：13.8+n×4.3＞18.3+n×3.3，解得 n＞4.5，则 n 至少为 5，即到 2026 年第三方互联网超算服务商提\n供的服务市场规模将第一次超过第三方独立超算服务商。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第129题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016～2020 年，通用超算服务市场累计规模超过 160 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2016～2017 年，业务超算服务市场累计规模比人工智能超算服务高 30 多亿元"
+      },
+      {
+        "label": "C",
+        "content": "2018～2021 年，第三方独立超算服务市场规模同比增量逐年递增"
+      },
+      {
+        "label": "D",
+        "content": "2017～2020 年，第三方互联网超算服务市场规模同比增速逐年递减 （六） 2021 年，全国纺织品服装出口 3155 亿美元，同比增长 8.4%。其中，纺织品出口 1452.2 亿美元，同比下 降 5.6%，较 2019"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位统计表可得 2016～2020 年通用超算服务市场规模分别为 23.9 亿元、26.9 亿元、29.7 亿元、32.2\n\n亿元、37.8 亿元。则所求=23.9+26.9+29.7+32.2+37.8\n\n亿元＜160 亿元，错误；\n\nB 项：定位统计表可得 2016～2017 年业务超算服务市场规模分别为 15.6 亿元、24.1 亿元，人工智能超算\n服务市场规模分别为 4.7 亿元、7.9 亿元。则所求=（15.6+24.1）-（4.7+7.9）=39.7-12.6=27.1 亿元＜30 亿\n元，错误；\n\nC 项：定位统计图可得 2017～2021 年中国第三方独立超算服务市场规模。根据公式：增长量=现期量-基期\n\n量，则 2018 年同比增量=8.7-7.1=1.6 亿元；2019 年同比增量=11.7-8.7=3.0 亿元；2020 年同比增量\n=15.0-11.7=3.3 亿元；2021 年同比增量=18.3-15.0=3.3 亿元。因 2021 年同比增量与 2020 年相等，则非逐年\n递增，错误；\n\nD 项：定位统计图可得 2016～2020 年中国第三方互联网超算服务市场规模。根据公式：增长率\n\n，则 2017 年同比增速\n\n；2018 年同比增速\n\n；",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第130题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2020 年，全国服装出口额比 2019 年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增长了 10%以上"
+      },
+      {
+        "label": "B",
+        "content": "下降了 10%以上"
+      },
+      {
+        "label": "C",
+        "content": "增长了不到 10%"
+      },
+      {
+        "label": "D",
+        "content": "下降了不到 10%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2020 年······比 2019 年”，结合选项为增长/下降+百分数，且材料给出 2021 年全国服\n装出口额的同比增速以及相对于 2019 年的增速，可判定本题为间隔增长率问题。定位文字材料第一段可得：\n2021 年，全国服装出口 1702.8 亿美元，同比增长 24.0%（ ），较 2019 年增长 16.0%（ ）。根据公式：\n\n，代入数据则有\n\n，解得\n\n，即下降了不到\n\n10%。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第131题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2021 年，全国针织、梭织服装及衣着附件总出口额约占纺织品服装出口总额的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "55% 31"
+      },
+      {
+        "label": "B",
+        "content": "50%"
+      },
+      {
+        "label": "C",
+        "content": "45%"
+      },
+      {
+        "label": "D",
+        "content": "40%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2021 年，全国······约占······的”，结合材料时间为 2021 年，可判定本题为\n现期比重问题。定位文字材料第一段可得：2021 年，全国纺织品服装出口 3155 亿美元······其中，针\n\n织服装及衣着附件出口 864.8 亿美元······梭织服装及衣着附件出口 701.2 亿美元。根据公式：比重\n\n，\n\n可得所求比重\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第132题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "将①美国、②东盟十国、③欧盟 27 国和④日本按 2021 年自中国进口纺织品服装金额同比增量从高到低排 列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②③④"
+      },
+      {
+        "label": "B",
+        "content": "①②④③"
+      },
+      {
+        "label": "C",
+        "content": "②①③④"
+      },
+      {
+        "label": "D",
+        "content": "②①④③"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“······同比增量从高到低······”，可判定本题为增长量比较问题。定位文字材\n料第二段可得：2021 年······对美国出口额为 563.5 亿美元，同比增长 4.0%；向东盟十国出口纺织品\n服装 491.2 亿美元，同比增长 24.9%；对欧盟 27 国出口纺织品服装 469.9 亿美元，同比下降 11.1%；对日本出\n\n口纺织品服装 200.3 亿美元，同比下降 7.2%。根据公式：增长量\n\n，则 2021 年题干中四\n\n个国家自中国进口（即中国对四个国家出口）纺织品服装金额同比增量分别为：①美国：\n\n亿美元；②东盟十国：\n\n亿美元；③欧盟 27 国：\n\n亿美元；④日本：\n\n亿美元。则按同比增量从高到低排列为：②东盟十国\n\n（98.2 亿美元）、①美国（21.7 亿美元）、④日本（-15.4 亿美元）、③欧盟 27 国（-58.7 亿美元）。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第133题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2020 年中国出口的纺织制品总额中，防疫类口罩出口额占比约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "57%"
+      },
+      {
+        "label": "B",
+        "content": "72%"
+      },
+      {
+        "label": "C",
+        "content": "33%"
+      },
+      {
+        "label": "D",
+        "content": "45%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2020 年······占比······”，结合材料时间为 2021 年，可判定本题为基期比重\n问题。定位文字材料第三段可知：2021 年······纺织制品当中，防疫类口罩出口额为 129.5 亿美元，出\n口金额同比下降 76.0%。除防疫类口罩外，其他纺织制品出口额为 517.2 亿美元，同比增长 27.5%。根据公式：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第134题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2023-fushengjia-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "2020 年，中国对“一带一路”沿线国家纺织品服装贸易顺差额约为多少亿美元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1129"
+      },
+      {
+        "label": "B",
+        "content": "1253"
+      },
+      {
+        "label": "C",
+        "content": "808"
+      },
+      {
+        "label": "D",
+        "content": "1006 32"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2020 年······贸易顺差额约为多少亿美元”，结合材料时间为 2021 年，且贸易顺差额=\n出口额-进口额，可判定本题为基期和差问题。定位文字材料最后一段可得：2021 年，中国向“一带一路”沿\n线国家出口纺织品服装 1137.9 亿美元，同比增长 24.5%；同时，中国自“一带一路”沿线国家进口纺织品服装\n\n131.6 亿美元，同比增长 24.5%。根据公式：基期量\n\n，可得所求\n\n故正确答案为 C。\n\n亿美元，与 C 项最接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第135题",
+    "level": "fushengjia"
+  }
+]

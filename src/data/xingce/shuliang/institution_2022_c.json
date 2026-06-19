@@ -1,0 +1,523 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2022-c-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "会务组租车接送参会人员，要求租用同样的车，在够用的前提下尽可能少租车，且任意两辆车的乘客数之 差不超过 1 人，已知如租用最多运载 40 名乘客的车辆，则超过一半车辆的乘客数为 29 人，如租用最多运 载 30 名乘客的车辆，则一部分车辆正好能坐满，问租用最多运载多少名乘客的车辆时，每辆车都正好能坐 满？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】设2020 年甲企业销售额万元，乙企业销售额（\n）万元。根据题意可列方程：\n\n142",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "某特警部队训练警犬时发现“可疑人员”张某以 6m/s 的速度由 A 处跑向人质 C，与此同时警犬以 8m/s 从 B 跑向人质 C，C 也同时以 4m/s 跑向 B，A、C、B 在一条直线上，为确保警犬不晚于张某与人质相遇，问 BC 的距离最多是 AC 距离的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题意作图如下： \n \n设警犬与人质相遇时间为t1，张某与人质相遇时间为t2。警犬与人质为相遇过程，根据公式S 和=U 和t，可\n得：BC=（4+8）t1=12t1，则t1=\nBC\n12；张某与人质为追及过程，根据公式S 差=U 差t，可得：AC=（6-4）t2=2t2，\n则t2=\nAC\n2 。警犬不晚于张某与人质相遇，则t1≤t2，即\nBC\n12≤\nAC\n2 ，BC≤6AC，因此BC 的距离最多是AC 距离的6\n倍。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第47题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "为了加强某社区消防安全意识，某消防支队对该社区的 4 栋居民楼开展消防安全检查，该支队 6 名消防员 负责此次安全检查，规定任一栋居民楼保证至少一名消防员前往，若同时开始检查，问共有多少种检查方 式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1560"
+      },
+      {
+        "label": "C",
+        "content": "6300"
+      },
+      {
+        "label": "B",
+        "content": "3240"
+      },
+      {
+        "label": "D",
+        "content": "7200"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据题意，任一栋居民楼保证至少一名消防员前往有两类情况： \n①人数分布为（3，1，1，1）：先从4 栋楼中选择1 栋楼安排3 人，情况数为C4\n1 × C6\n3，剩余3 人分配到3 栋\n楼，情况数为A3\n3，总情况数为C4\n1 × C6\n3 × A3\n3 = 4 ×\n6×5×4\n3×2×1 × 3 × 2 = 480种； \n②人数分布为（2，2，1，1）：先从4 栋楼中选择2 栋楼均安排2 人，情况数为C4\n2 × C6\n2 × C4\n2，剩余2 人分\n配到2 栋楼，情况数为A2\n2，总情况数为C4\n2 × C6\n2 × C4\n2 × A2\n2 = 1080种。 \n则共有480+1080=1560 种检查方式。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第48题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "水质实验室已有烧杯和三角瓶的数量比为 7:4，若再买进若干个烧杯，这时烧杯与三角瓶的数量比变成 3:1，接着又买进相同数量的三角瓶，此时烧杯与三角瓶的比为 4:3。问实验室原有三角瓶的个数是新增三角瓶个数的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5"
+      },
+      {
+        "label": "B",
+        "content": "0.8"
+      },
+      {
+        "label": "C",
+        "content": "1.25"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】根据题意赋值原有烧杯和三角瓶的数量分别为7 个和4 个，设再买进x 个烧杯，此时烧杯与三角\n瓶的数量比为\n7+x\n4 =\n1\n3，解得x=5，即新买进的三角瓶数量也为5 个。因此，原有三角瓶的个数是新增三角\n瓶个数的\n4\n5 = 0.8倍。 \n故正确答案为B。 \n50. 暂缺",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第49题",
+    "meta": {
+      "rescuedBy": "E1-vision-OCR-D17e",
+      "rescuedAt": "2026-05-23"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2021 年 S 省建筑企业总数不到 4000 个"
+      },
+      {
+        "label": "B",
+        "content": "2020 年 S 省房屋建筑业产值超过 2800 亿元 B.D．2021 年 S 省工程技术人员占建筑业期末从业人员的比重不到 15%"
+      },
+      {
+        "label": "C",
+        "content": "2021 年 S 省平均每家特级资质建筑企业建筑业产值超过 100 亿元"
+      },
+      {
+        "label": "D",
+        "content": "材料 2021 年 B 市全年城市客运总量为 55.8 亿人次，同比增速 29.9%。其中公共汽电车客运量为 23 亿人次，同 比增速 25.8%；轨道交通客运量为 30.7 亿人次，同比增速 33.7%；巡游出租汽车客运量为 2.1 亿人次，同比增 速 23.1%。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】A 选项，混合增长率比较。定位文字材料第一段，“2019 年1—8 月，我国规模以上互联网和相关\n服务企业（简称互联网企业）完成业务收入7522 亿元，同比增长20.9%，增速同比提高0.2 个百分点，比\n1—7 月加快0.2 个百分点。”2019 年1—7 月互联网企业完成业务收入同比增速为20.9%-0.2%=20.7%，根\n据混合增长率口诀，整体增速介于部分之间，偏向基数较大的一方，则2019 年8 月＞2019 年1—8 月（20.9%）\n\n184\n＞2019 年1—7 月（20.7%），2019 年8 月，互联网企业完成业务收入同比增速大于20.9%，错误。\nB 选项，简单和差计算。定位文字材料第二段“2019 年1—8 月，互联网企业共实现营业利润709 亿元，同\n比增长32.7%，增速同比提高19.7 个百分点，较1—7 月提高13.2 个百分点”。2019 年1—7 月互联网企业\n实现营业利润同比增速为32.7%-13.2%=19.5%<20%，错误。\nC 选项，现期比重计算。定位文字材料第一段“2019 年1—8 月，我国规模以上互联网和相关服务企业（简\n称互联网企业）完成业务收入7522 亿元”与第四段“（2019 年）1—8 月，互联网企业信息服务收入规模达\n4958 亿元”，根据比重=\n部分量\n整体量，2019 年1—8 月，互联网企业信息服务收入占业务收入的比重为\n4958\n7522，商一位\n为6，大于60%，正确。\nD 选项，基期比重计算。定位文字材料第一段“2019 年1—8 月，我国规模以上互联网和相关服务企业（简\n称互联网企业）完成业务收入7522 亿元，同比增长20.9%。”与第四段“（2019 年）1—8 月，互联网企业\n完成互联网数据服务收入72 亿元，同比增长23.3%”，根据基期比重=\nA\nB ×\n1+b\n1+a，代入数据，2018 年1—8 月，\n互联网企业完成互联网数据服务收入占完成业务收入的比重为\n72\n7522 ×\n1+20.9%\n1+23.3%，左半部分<1%，右半部分小于\n1，因此乘积（1−% × 1−）肯定小于1%，错误。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第55题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2020 年 B 市全年轨道交通客运量比公共汽电车多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 3 亿人次"
+      },
+      {
+        "label": "C",
+        "content": "69 亿人次之间"
+      },
+      {
+        "label": "B",
+        "content": "36 亿人次之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 9 亿人次"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题干“2020 年1-5 月，···较2019 年同期约增长了···”，结合材料所给为2021 年1-\n5 月较2019 年同期的增长率，可判定本题为间隔增长率问题。定位文字材料第一段可知：2021 年1-5 月新\n办涉税市场主体较2020 年同期增长\n，较2019 年同期增长\n。根据间隔增长率公式：\n，代入数据，可知\n，解得\n。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第56题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2021 年下半年 B 市公共汽电车客运量环比增量为负的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据题干“2021 年5 月···与3 月相比约”，结合选项为增加/减少具体单位，可判定本题为\n\n143\n增长量的计算问题。定位文字材料第一段：2021 年1-5 月···新办涉税市场主体共522.25 万户，2021\n年1-4 月，全国新办涉税市场主体413 万户；其中4 月份，新办涉税市场主体133.6 万户，较3 月份增长\n。可得：2021 年5 月新办涉税市场主体数量\n万户；2021 年3 月新办涉税市场\n主体数量\n万户。根据公式：\n，代入数据，可知\n万户，故5 月与3 月相比减少约18 万户。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第57题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2021 年第四季度 B 市轨道交通客运量大约是巡游出租汽车客运量的几倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 10 倍"
+      },
+      {
+        "label": "C",
+        "content": "14～18 倍之间"
+      },
+      {
+        "label": "B",
+        "content": "10～14 倍之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 18 倍"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】根据题干“2020 年1-5 月···是···”，结合材料时间为2021 年1-5 月且选项为倍数关系，\n可判定本题为基期倍数问题。定位材料第二段可知，“2021 年1-5 月新办企业278.41 万户，同比增长\n；新办个体工商户237.04 万户，同比增长\n”。根据基期倍数公式\n，可得2020 年\n1-5月全国新办企业大约是新办个体工商户的\n倍，在B项范围内。 \n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第58题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2021 年全年 B 市巡游出租汽车客运量占客运总量超过 5%的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题干“2021 年1-5 月···比上年同期增加···万户”，可判定本题为增长量计算问题。\n定位材料第四段可知，2021 年1-5 月信息技术服务业新办涉税市场主体数量占比从2020 年同期的\n提\n高至\n；定位材料第一段可知，2021 年1-5 月新办涉税市场主体共522.25 万户，较2020 年同期增长\n。根据公式\n可得，2020 年1-5 月新办涉税市场主体数量\n万户；\n根据公式\n \n可得，2021 年1-5 月和2020 年1-5 月全国信息技术服务业新办涉税市场主体数量分别为\n万\n户、\n万户。则2021 年1-5 月全国信息技术服务业新办涉税市场主体比上年同期增加了\n万户。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第59题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "以下折线图中，最能准确反映 B 市第二、三、四季度巡游出租车客运量环比增速变化趋势的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B.D．"
+      },
+      {
+        "label": "B",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "C",
+        "content": "B．"
+      },
+      {
+        "label": "D",
+        "content": "第四部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】A 项：定位材料第一段可知，2021 年4 月份，全国新办涉税市场主体133.6 万户，较2020 年同期\n增长\n。根据\n，可得2020年4月全国新办涉税市场主体数量为\n万户，错误；\nB 项：定位材料第三段可知，2021 年1-5 月新办民营涉税市场主体共计516.32 万户，占比达到\n，较\n2020 年提高0.09 个百分点。则2021 年1-5 月非民营新办涉税市场主体数量占比为\n，\n2020 年同期占比为\n。定位材料第一段可知，2021 年1-5 月，全国新办涉税\n市场主体共522.25 万户，较2020 年同期增长\n。根据\n，可得2021 年1-5 月新办\n非民营涉税市场主体数量为\n；2020\n年同期数量为\n。比较可知，2021 年1-5 月新办非民营涉税市场主体数量大于2020 年\n\n144\n同期水平，正确；\nC 项：定位材料第一段可知，2021 年1-5 月，全国新办涉税市场主体共522.25 万户；定位材料第五段可\n知，2021 年1-5 月，长三角经济圈新办涉税市场主体为129.27 万户。根据\n，故2021 年1-5\n月，长三角经济圈新办涉税市场主体占全国比重为\n，错误；\nD 项：定位材料第四段可知，2021 年1-5 月批发零售业、商业服务业、建筑业3 个行业新办涉税市场主体\n合计292.74 万户；科学研究和技术服务业新办涉税市场主体数量占比为\n。定位材料第一段可知，2021\n年1-5 月，全国新办涉税市场主体共522.25 万户。根据\n，故2021 年1-5 月，科学研\n究和技术服务业新办涉税市场主体数量为\n万户。因此，批发零售业、商\n业服务业、建筑业3 个行业新办涉税市场主体之和是科学研究和技术服务业的\n倍，错误。\n故正确答案为B。\n第四部分 判断推理",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第60题",
+    "questionImage": "/img/questions/institution_2022_c/q060.png"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "[题干 OCR 抽取失败-D11] 原 content: '题目缺失'（OCR 抽取留下空/暂缺/过短文本，原 PDF 可能为图形题或抽取失败，待人工补全）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "B",
+        "content": "D． （一） 2020 年，41 个城市优良天数比例范围为 ，平均为 ，比 2019 年上升 8.7 个百分点。"
+      },
+      {
+        "label": "C",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "D",
+        "content": "[选项 OCR 抽取失败-D11]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题在原 PDF 中缺失/未收录，按默认给定答案 A，仅供完整性占位。\n\n[题源缺失-D22] 后续核查修正旧判断：本题不是资料分析题。华图 C 类估分页可定位第 50 题为“工厂举办生产技能大赛”数量题，公开残片仅能确认选项为 A.2、B.3、C.4、D.5；关键人数和场次条件被打码。厚职网及同源公开页仍显示“题目暂缺”。因缺完整题干和可解释答案来源，不能入库，前端 isUnanswerable 应继续过滤此题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第50题",
+    "meta": {
+      "invalid": true,
+      "reason": "content_dirty_keyword",
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2020 年长三角地区空气质量优良天数比例最高和最低的城市，当年空气质量优良的天数差多少天？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "90"
+      },
+      {
+        "label": "C",
+        "content": "102"
+      },
+      {
+        "label": "B",
+        "content": "96"
+      },
+      {
+        "label": "D",
+        "content": "108"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据题干“2020 年\n比例最高和最低\n”，可判定此题为现期比重计算问题。定位文字材料第一\n段“2020 年，41 个城市优良天数比例范围为\n”，可得2020 年长三角地区空气质量优良天\n数比例最高城市的优良天数比例为\n，最低的城市为\n。两城市当年空气质量优良的天数差值为\n天，与D 项最\n接近。\n故正确答案为D。\n\n98",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第51题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2015 年上海空气质量为重度及以上污染的天数为多少天？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】定位文字材料第二段可知：2020 年上海出现重度污染1 天，无严重污染，重度及以上污染天数比\n2015 年减少7 天。则2015 年上海空气质量为重度及以上污染的天数为\n天。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第52题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2020 年，长三角地区 41 个城市 平均浓度同比下降了多少微克/立方米？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "16"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】根据题干“2020 年\n平均浓度\n下降了\n微克/立方米”，可判定本题为增长量计算问题。定\n位统计表可知，2020 年\n平均浓度为152 微克/立方米，比2019 年下降了\n。则2019 年\n平均浓度\n的减少量\n微克/立方米，与B 项最接近。 \n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第53题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2022-c-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2022,
+    "content": "2019 年上海 6 项污染物有几项的年平均浓度高于长三角地区 41 个城市的平均水平？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据题干“2019 年上海\n高于\n长三角\n”，结合材料时间为2020 年，可判定本题为基期比较\n问题。定位统计表，可知2020 年长三角地区41 个城市及上上海地区六项污染物平均浓度。根据公式：\n，可得 \n2019 年长三角地区41 个城六项污染物平均浓度为，\n：\n；\n：\n；\n：\n；\n：\n；\n：\n；\n：\n。 \n2019 年上海地区六项污染物平均浓度为，\n：\n；\n：\n；\n：\n；\n：\n；\n：\n；\n：\n。 \n则上海地区仅\n这一项指标的年平均浓度高于长三角地区41 个城市的平均水平。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年事业编行测（c）第54题"
+  }
+]

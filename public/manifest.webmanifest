@@ -1,0 +1,18 @@
+{
+  "name": "Ace the CSE — 公务员考试学习平台",
+  "short_name": "Ace the CSE",
+  "description": "公务员考试全功能学习平台，行测、申论历年真题刷题",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f2942",
+  "theme_color": "#1e3a5f",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

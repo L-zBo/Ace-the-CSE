@@ -1,0 +1,176 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2020-e-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "小张每周一、周三、周五和周日各写 1 篇日记，其余时间不写日记，从不间断。某年第三季度，他写的日 记数量与第四季度相同。问当年劳动节是周几？",
+    "options": [
+      {
+        "label": "A",
+        "content": "周一"
+      },
+      {
+        "label": "C",
+        "content": "周三"
+      },
+      {
+        "label": "B",
+        "content": "周二"
+      },
+      {
+        "label": "D",
+        "content": "周四"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n第三部分 数量关系 \n\n【解析】第三季度与第四季度均为 92 天，即 13 周余 1 天，根据两个季度写的日记数量相同，可知三季度、",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-e-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "某论坛上午举办甲会议，下午举办乙会议。报名参加甲会议和乙会议的人次之和正好为 520。已知甲会议 共报名 240 人。且报名参加甲会议的人中有一半报名参加乙会议，问仅报名参加乙会议的人数约占至少报 名参加 2 个会议之一总人数的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30%"
+      },
+      {
+        "label": "C",
+        "content": "50%"
+      },
+      {
+        "label": "B",
+        "content": "40%"
+      },
+      {
+        "label": "D",
+        "content": "60%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】根据题意可知，三种类型的图书总数为11 + 8 + 7 = 26本，从所有图书中任取3 本，共有C26\n3 =\n26×25×24\n3×2×1\n= 2600种情况，三种类型图书恰好各取一本有C11\n1 × C8\n1 × C7\n1 = 616种情况，则三种类型图书恰好\n各取一本的概率p =\n满足条件的情况数\n总的情况数\n=\n616\n2600 =\n77\n325。 \n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第47题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-e-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "A、B、C 三地之间彼此有唯一道路相连，且任两地之间的道路长度均为 x 千米。已知从 B 地出发，往 A 地 和 C 地都是下坡路，C 地到 A 地是平路。甲、乙两车同时从 A 地出发，甲往 B 地方向、乙往 C 地方向，在 三地之间不停循环行驶。已知甲车全程保持匀速，乙车在上坡、平路和下坡时，速度分别为甲车的 0.5、1 和 2 倍。两车第一次和第二次相遇的位置最短相隔 y 千米（按道路长度计算），问 y 的值在以下哪个范围 内？ A．y＜x",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "1.15x ≤ y＜1.3x"
+      },
+      {
+        "label": "B",
+        "content": "x ≤ y ≤ 1.15x"
+      },
+      {
+        "label": "D",
+        "content": "y ≥ 1.3x"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据甲、乙的速度的关系，赋值甲的速度为1，乙上坡速度为0.5、平路速度1、下坡速度2。第\n一次相遇点为D，甲从A 点到B 点速度为1，乙从A 点到C 点是平路速度为1，甲和乙同时分别到达B、C，\n甲由B 到C 点速度为1，乙有C 到B 点速度为0.5，根据时间相同时路程之比等于速度之比，可知BD = 2CD，\n即BD =\n2\n3 BC =\n2\n3 x。\n\n245\n从D 到第二次相遇点E，乙由D 到B 点，路程是甲的2 倍，速度是甲的一半，所用时间为甲的4 倍，因此\n当乙到达B 点时，甲到达A 点。甲由A 到B 速度是1，乙由B 到A 下坡速度是2，根据时间相同时路程的比\n等于速度的比，可知BE = 2AE，即BE =\n2\n3 AB =\n2\n3 x。y 为道路长度最短= BD + BE =\n4\n3 x。\n\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第48题",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-e-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "工厂每天生产产品的合格率相同。如每天在所有生产的产品中随机抽 1 件，抽中不合格产品的概率为 0.1%。 现工厂改进生产工艺，日产量增加 20%，且每次抽中不合格产品的概率比改进之前下降了 0.07 个百分点。 问现在每生产 10 万件产品，不合格产品的数量比未改进工艺前：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增加了 20 件"
+      },
+      {
+        "label": "C",
+        "content": "减少了 50 件"
+      },
+      {
+        "label": "B",
+        "content": "增加了 16 件"
+      },
+      {
+        "label": "D",
+        "content": "减少了 70 件"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据计分规则，小赵答对50 题，共计得分50 × 2 = 100分，另外50 题答错或不答，故扣除的分数\n\n234\n应在0～50 分之间，即小赵最终得分范围为50～100 分；小郑答对70 题，共计得分70 × 2 = 140分，另外\n30 题答错或不答，故扣除的分数应为0～30 分之间，即小郑最终得分范围为110～140 分。x 为两人的得分\n差，x 取最大值，即小郑140 分，小赵50 分，此时x 的最大值为90；x 取最小值，即小郑110 分，小赵100\n分，此时x 的最小值为10。则x 可能的最大值和最小值相差90 −10 = 80。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第49题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-e-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "甲和乙同时对某初创企业投资 10 万元和 20 万元，分别获得该企业 x 股和 2x 股股份。一段时间后乙售出 其所持有的股份，之后企业估值又增长了 2 倍，此时甲出售其所持有的股份，获利比乙高 50 万元。问乙在 本次投资中获取的利润为多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "B．60"
+      },
+      {
+        "label": "C",
+        "content": "80"
+      },
+      {
+        "label": "D",
+        "content": "D．120 第四部分 资料分析 根据题目要求，在四个选项中选出一个最恰当的答案。 材料一"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设为2a。而甲此时股票的总价值是10+a，估值增长2倍以后，总价值变为原来的3倍，为30+3a，此时\n卖出，其获利为30+3a-10=20+3a。\n根据甲获利比乙多50万，可得方程：20+3a-2a=50，得a=30，则2a=60（万元）。\n故正确答案为B。\n201\n\n202\n第四部分 资料分析",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第50题"
+  }
+]

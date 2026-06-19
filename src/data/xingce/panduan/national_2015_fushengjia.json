@@ -1,0 +1,1413 @@
+[
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "从所给四个选项中，选择最合适的一个填入问号处，使之呈现一定规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "各图构成相同，考虑位置规律。圆圈只在十六宫格最外圈出现，每次逆时针移动 2 格，排除 A、C 两项。线\n条的尾端在十六宫格中间四格出现，每次顺时针移动 1 格，排除 B 项。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第76题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q076.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "从所给四个选项中，选择最合适的一个填入问号处，使之呈现一定规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "每组第二个和第三个立体图形组合构成第一个立体图形。第二组中第二个图形与第三个立体图形应该凹凸相\n合，观察对比，应选择 B 项。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第77题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q077.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "从所给四个选项中，选择最合适的一个填入问号处，使之呈现一定规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "各图构成相似，考虑样式规律。本题考查叠加，去同存异。第一组左边图形顺时针旋转 90 度后与第二组图\n形叠加，去同存异后得到第三组图形。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第78题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q078.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "左边给的是纸盒的外表面，下列哪一项能由它折叠而成?",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "B 项：应用画边法，从小三角顶点方向开始顺时针画边，如下图所示。对比原图和 B 项：小三角面与面 a 的\n公共边为边 2，B 项中小三角面与面 a 的公共边为边 3，公共边改变，故排除。\n\nC 项：应用画边法，从小三角顶点方向开始顺时针画边，如下图所示。对比原图和 C 项：小三角面与面 a 的公共\n\n- 8 -\n\n\f边为边 2，选项 C 中小三角面与面 b 的公共边为边 2，公共边改变，故排除；\n\nD 项：应用画边法，从半黑半白面的全黑边开始顺时针画边，如下图所示。对比原图和 D 项：半黑半白面与面 c\n的公共边为边 4，选项 D 中半黑半白面与面 c 的公共边为 2，公共边改变，故排除；\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第79题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q079.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "一正方体如下图所示切掉了上半部分。现在从任意面剖开，下面哪一项不可能是该多面体的截面?",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A、B、D 三项均可得到，如下图所示：\n\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第80题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q080.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-081",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是： - 8 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "图形组成不同，考虑属性或数量。①④⑤图形都有封闭区域；②③⑥图形都没有封闭区域，可以按照开放性\n和封闭性进行分组。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第81题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q081.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-082",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "每幅图都由一个小圆圈和一个多边形组成，小圆圈作为功能元素，在①③④中靠近图形的最长边；在②⑤⑥\n中靠近图形的最短边。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第82题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q082.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-083",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由图②这个典型的“田”字变形，可以提示考虑“笔画”考点。①②⑥图形最少都可两笔画成；③④⑤图形\n最少都可一笔画成。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第83题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q083.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-084",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是： - 9 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "各图组成不同，且图形都是很规整的图形，优先考虑对称属性。各图均为轴对称图形，③④⑥三个图形均只\n含有 1 条对称轴，①②⑤三个图形均含有 3 条对称轴。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第84题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q084.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-085",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "每幅图都包含一个阴影三角形，①③④中阴影都是直角三角形；②⑤⑥中阴影都是锐角三角形。\n故正确答案为 B。\n\n- 9 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第85题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q085.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-086",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "垂直绿化指的是利用攀援植物向空中生长进行纵向绿化的一种方式，以期达到在有限面积内最大限度地利用 空气和阳光来提高绿化的效率。 根据上述定义，下列涉及垂直绿化的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "爬山虎爬满了墙头和屋顶"
+      },
+      {
+        "label": "B",
+        "content": "松树林从山脚一直延伸到山顶"
+      },
+      {
+        "label": "C",
+        "content": "利用巴根草匍匐攀援的特性，人们在沙漠中逐渐开拓出一片绿洲"
+      },
+      {
+        "label": "D",
+        "content": "在丘陵地区，人们常使用飞机从空中播种的方式对山地进行绿化"
+      }
+    ],
+    "answer": "A",
+    "explanation": "定义中“利用……以期……”的结构，呈现出典型的方式＋目的的句式。方式：攀援植物向空中生长，纵向\n绿化；目的：有限面积内，最大绿化率。A 项爬山虎满足方式关键词，墙头和屋顶满足目的关键词，符合定义。\nB、C 两项中的松树和巴根草匍匐攀援都明显不符合方式关键词，排除；D 项连植物种类都没有明确提到，排除。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第86题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-087",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "赋、比、兴指的是诗歌的三种表现手法。赋：铺陈直叙，把思想感情及其有关的事物平铺直叙地表达出来； 比：类比，以彼物比此物，使此物更加生动具体、鲜明浅近;兴：先言他物，然后借以联想，引出诗人所要表达 的事物、思想、感情。 根据上述定义，下列诗句中使用了“比”的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "死生契阔，与子成说。执子之手，与子偕老"
+      },
+      {
+        "label": "B",
+        "content": "七月流火，九月授衣。春日载阳，有鸣仓庚"
+      },
+      {
+        "label": "C",
+        "content": "我心匪石，不可转也。我心匪席，不可卷也"
+      },
+      {
+        "label": "D",
+        "content": "手如柔荑，肤如凝脂。领如蝤蛴，齿如瓠犀"
+      }
+    ],
+    "answer": "D",
+    "explanation": "多定义判断，优先找到提问的“比”：类比，以彼物比此物，即要出现两物之间的类比，排除 A、B 两项。\n比较 C、D 两项，C 项的“我心匪石”，即我的心不是石头，但没有明确指出是什么或者像什么。D 项则更加旗帜\n鲜明地指出“手像柔荑，皮肤像凝脂”等，因此 D 项更加明确。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第87题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-088",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "经济学中，系统内部个别效率较高的组织的出现，会对其他效率较低的组织的存在和发展构成破坏或抑制， 人们把这种作用称为“顶尖效应”。由于个人之间、地区之间、国家之间的发展不平衡，因此“顶尖效应”是普 遍存在的。 根据上述定义，下列有助于避免“顶尖效应”的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "发达国家甲与经济落后国家乙之间的贸易交易费用下降，导致乙国的资金外流"
+      },
+      {
+        "label": "B",
+        "content": "某地制定新政，加大对中小企业的扶持力度，同时对垄断行业进行调控，限制规模"
+      },
+      {
+        "label": "C",
+        "content": "某粮食生产企业一直不景气，在采用先进栽培技术后，企业生产规模扩大，销售份额开始提升"
+      },
+      {
+        "label": "D",
+        "content": "某地规定，对于优秀留学归国人员可参照其学历或专业水平直接授予相应等级的专业技术职称，不受任何年 - 10 - 限等限制"
+      }
+    ],
+    "answer": "B",
+    "explanation": "顶尖效应的条件是：个别效率高的出现，结果是：其他效率低的被破坏，典型的条件＋结果的句式。提问要\n求选“避免”顶尖效应，即不会发生，是个选非题。A 项属于顶尖效应，应排除；B 项对中小企业的扶持和对垄\n断企业的调控属于避免低效率被破坏的手段，满足定义；C 项只涉及一个企业，D 项只涉及优秀留学者，不涉及\n对其他对象是否破坏问题，均排除。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第88题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-089",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "正惩罚是指当个体发出某种行为后，引发外部对其行为的某种反应，导致令该个体不愉快的后果，使个体今 后发出此行为的可能性降低。负惩罚是指当个体发出某种行为后，撤销令个体愉快的后果，使个体今后发出此行 为的可能性降低。 根据上述定义，下列属于正惩罚的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "禁烟标识贴出后，在办公室吸烟的人明显减少"
+      },
+      {
+        "label": "B",
+        "content": "母亲要求小明不写作业不得出去玩"
+      },
+      {
+        "label": "C",
+        "content": "某人因酒驾被处罚后，再没有酒驾"
+      },
+      {
+        "label": "D",
+        "content": "冰棍解暑，所以夏天冰棍很畅销"
+      }
+    ],
+    "answer": "C",
+    "explanation": "多定义判断，优先看提问项，即正惩罚：①个体发出某种行为；②外部对其行为的某种反应；③该个体不愉\n快，今后发出此行为的可能性降低。包含三个行为之间的相互引发。A 项没体现出①；B 项不符合②③；C 项符\n合定义所有要点；D 项不符合①③。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第89题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-090",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "疑罪是指司法机关对被告人是否犯罪或罪行轻重难以确证的情况。疑罪从无原则是现代刑法“有利被告”思 想的体现，是无罪推定原则的具体内容之一，即在既不能证明被告人有罪又不能证明被告人无罪的情况下，推定 被告人无罪。 根据上述定义，下列采用了疑罪从无原则的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "赵六因盗窃他人网络密码被起诉，但由于赵六被证明从来不使用网络，法院判其无罪"
+      },
+      {
+        "label": "B",
+        "content": "史某和汤某打架，两人都受了伤，因无法确定谁先动手，法庭建议庭外和解"
+      },
+      {
+        "label": "C",
+        "content": "钱某因涉嫌投毒被起诉，后因证据不足，法院判决钱某无罪"
+      },
+      {
+        "label": "D",
+        "content": "张三起诉李四侵权，但因拿不出任何证据，结果败诉"
+      }
+    ],
+    "answer": "C",
+    "explanation": "疑罪从无的定义结构：在……的情况下，推定……条件＋结果的句式。条件：司法机关不能证明被告人有罪\n或无罪，结果：推定被告人无罪。A 项中赵六被证明从来不使用网络，所以是有证据证明被告人无罪的，不符合\n条件关键词；B 项没有证明是否有罪的过程，只是建议和解，不符合结果关键词；C 项符合定义关键词；D 说张\n三没有任何证据，不符合条件关键词中的主体“司法机关”，排除。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第90题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-091",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "隐域性是指自然地理现象在受到局部的地形、水文、土壤、气流、洋流、季风等因素的影响下，在地球表面 不按或偏离纬向地带性规律分布的特性，它使地带性分布规律变得不鲜明，使自然环境变得更具复杂性与多样性。 以下属于隐域性分布的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "关汉卿《窦娥冤》中描写的“六月飞雪”"
+      },
+      {
+        "label": "B",
+        "content": "余秋雨所描写的丝绸之路上的“月牙泉”"
+      },
+      {
+        "label": "C",
+        "content": "岑参在诗中所描述的“北风卷地白草折”"
+      },
+      {
+        "label": "D",
+        "content": "电影《木乃伊归来》中所出现的大沙漠"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：抓住定义中的关键词。主体：自然地理现象；条件：受到局部的地形、水文、土壤等因素的影响；\n结果：使地带性分布规律不鲜明，使自然环境变得更复杂更多样。第二步，逐一判断选项。A 项“六月飞雪”是\n小说中的虚构现象，非地理现象，主体关键词不符合；B 项“月牙泉”是沙漠中的奇妙景观，符合特殊自然环境\n导致的复杂性和多样性的特征，符合定义；C 项“北风卷地白草折”是气候现象，不符合主体关键词；D 项“大\n沙漠”是符合地带性规律分布的地貌，不符合结果关键词。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第91题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-092",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "瓿是古代的一种盛酒器和盛水器，亦可用于盛酱。流行于商代至战国。圆体，敛口无颈，广肩，大腹，圈足， 带盖，亦有方形瓿。根据上述描述下列器具中是瓿的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干对瓿的描述，由“圆体，敛口无颈”可排除 A、C 两项；由“广肩”可排除 D 项。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第92题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2015_fushengjia/q092.png"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-093",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "垂直搜索引擎是针对某一个行业的专业搜索引擎，是对网页资源中的某类专门的信息进行一次整合，定向分 字段抽取出需要的数据进行处理后再以某种形式返回给用户。 根据上述定义，下列应用与垂直搜索引擎关系最为密切的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "在某个购物网站上在线购买鞋子"
+      },
+      {
+        "label": "B",
+        "content": "登陆央视网站查询某个城市天气"
+      },
+      {
+        "label": "C",
+        "content": "用百度音乐搜索自己爱听的歌曲"
+      },
+      {
+        "label": "D",
+        "content": "在图书馆网站上查询该馆的藏书"
+      }
+    ],
+    "answer": "C",
+    "explanation": "定义中的关键词：客体——针对某一行业，属性——专业搜索引擎。即搜索引擎与搜索物品专门对应。观察\n选项，A 项的购物网站并不只针对鞋这个行业；B 项的央视网站并不只对应天气情况这个行业；D 项查询一个图\n书馆的书，并不对应整个图书行业，均不能完全满足定义关键词。C 项音乐引擎与歌曲行业明确对应，符合定义。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第93题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-094",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "概念的内涵是指概念所反映的事物具有的本质属性（或特有属性），它是从质的方面反映概念的，概念的外 延是指具有概念所反映的本质属性（或特有属性）的那些事物，它是从量的方面反映概念的。内涵和外延的反变 关系是指具有属种关系的概念之间所具有的一种相互联系、相互制约的关系，一个概念的外延越大，它的内涵越 少；一个概念外延越小，它的内涵越多。反之，一个概念的内涵越多，它的外延越小；一个概念内涵越少，它的 外延越大。 根据上述定义，下列哪组概念体现了概念内涵与外延的反变关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "司法机关，最高审判机关，最高人民法院"
+      },
+      {
+        "label": "B",
+        "content": "水杯，热水杯，大号热水杯"
+      },
+      {
+        "label": "C",
+        "content": "中国，新疆，乌鲁木齐"
+      },
+      {
+        "label": "D",
+        "content": "中国人，文学家，鲁迅"
+      }
+    ],
+    "answer": "B",
+    "explanation": "多定义判断，优先看提问的定义——概念的内涵和外延的反变关系。前面的“内涵”和“外延”可先不看。\n概念的内涵和外延的反变关系关键词：种属关系的概念。A 项最高审判机关和最高人民法院是全同关系，C 项中\n国和新疆是组成关系，D 项中国人和文学家是交叉关系，均不属于种属关系，排除。B 项三个词都满足种属关系。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第94题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-095",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "时间知觉是对客观现象延续性和顺序性的感知，时间知觉的信息，既来自于外部，也来自内部。外部信息包 括计时工具，也包括宇宙环境的周期性变化，内部信息是机体内部的一些有节奏的生理过程和心理活动。 根据上述定义，下列没有包含时间知觉信息的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东边日出西边雨，道是无晴却有晴"
+      },
+      {
+        "label": "B",
+        "content": "三更灯火五更鸡，正是男儿读书时"
+      },
+      {
+        "label": "C",
+        "content": "人有悲欢离合，月有阴晴圆缺"
+      },
+      {
+        "label": "D",
+        "content": "月出惊山鸟，时鸣春润中"
+      }
+    ],
+    "answer": "A",
+    "explanation": "题干是典型的定义有限分类设置。时间知觉信息分为两类：一是宇宙环境周期性变化，二是机体内部的节奏\n生理或心理变化。本题要求选择“没有包含”，即选非的选项。B 项的“三更”“五更”、C 项的“阴晴圆缺”、\nD 项的“月出”均属于宇宙的周期性变化，排除；A 项“东边日出西边雨”是同时发生，不满足周期性变化，故\n不属于时间知觉信息。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第95题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-096",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "小麦：馒头",
+    "options": [
+      {
+        "label": "A",
+        "content": "麋鹿：麝香"
+      },
+      {
+        "label": "B",
+        "content": "叶绿体：细胞"
+      },
+      {
+        "label": "C",
+        "content": "乌贼：墨汁"
+      },
+      {
+        "label": "D",
+        "content": "棉花：布鞋"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，判断题干词语间逻辑关系。由题意可知，“小麦”是“馒头”的原料。第二步，判断选项词语间逻\n辑关系。A 项错误，麝香的原料来自麝鹿，不是麋鹿；B 项错误，叶绿体是细胞的组成部分，不是原料；C 项错\n误，乌贼不是墨汁的原料；D 项正确，棉花是布鞋的原料。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第96题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-097",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "八卦：乾坤",
+    "options": [
+      {
+        "label": "A",
+        "content": "九族：师生"
+      },
+      {
+        "label": "B",
+        "content": "七情：情志"
+      },
+      {
+        "label": "C",
+        "content": "五音：宫商"
+      },
+      {
+        "label": "D",
+        "content": "四书：五经"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，判断题干词语间逻辑关系。八卦包含乾、坤、坎、艮、震、巽、离和兑，因此八卦包括乾坤。第二\n步，判断选项词语间逻辑关系。A 项错误，“九族”不包括师生；B 项错误，“七情”，即喜、怒、忧、思、悲、\n恐、惊七种变化，“五志”是指对应五脏的五种情绪，即喜、怒、忧、思、恐。“七情五志”合称为情志，因此\n情志包含七情；C 项正确，“五音”是指宫、商、角、徵、羽，五音包含宫商；D 项错误，“四书”“五经”之\n间不是包含关系。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第97题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-098",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "春夏秋冬：四季",
+    "options": [
+      {
+        "label": "A",
+        "content": "喜怒哀乐：情绪"
+      },
+      {
+        "label": "B",
+        "content": "赤橙黄绿：颜色"
+      },
+      {
+        "label": "C",
+        "content": "早中晚：一天"
+      },
+      {
+        "label": "D",
+        "content": "东南西北：四方"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，判断题干词语间逻辑关系。“春夏秋冬”是“四季”的同义替换。第二步，判断选项词语间逻辑关\n系。A 项错误，“情绪”不仅包括喜怒哀乐，还有惊、恐等其他感情；B 项错误，“颜色”不仅包括赤橙黄绿，\n还有青蓝紫等其他颜色；C 项错误，“一天”不仅包括早中晚，还有上、下午等其他时间段；D 项正确，“东西\n南北”是“四方”的同义替换。\n\n- 10 -\n\n\f故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第98题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-099",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "音符：乐谱：五线谱",
+    "options": [
+      {
+        "label": "A",
+        "content": "笔画：汉字：金文"
+      },
+      {
+        "label": "B",
+        "content": "树木：森林：自然"
+      },
+      {
+        "label": "C",
+        "content": "稻穗：稻谷：香米"
+      },
+      {
+        "label": "D",
+        "content": "卫星：星云：宇宙 - 11 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，判断题干词语间逻辑关系。“音符”构成了“乐谱”，“五线谱”是“乐谱”的一种。第二步，判\n断选项词语间逻辑关系。A 项正确，“笔画”构成了“汉字”，“金文”是“汉字”的一种；B 项错误，“自然”\n不是“森林”的一种；C 项错误，“稻穗”不能构成“稻谷”；D 项错误，“卫星”不能构成“星云”。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第99题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-100",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "深入：浅尝辄止",
+    "options": [
+      {
+        "label": "A",
+        "content": "疏远：形影不离"
+      },
+      {
+        "label": "B",
+        "content": "细致：事无巨细"
+      },
+      {
+        "label": "C",
+        "content": "安定：水深火热"
+      },
+      {
+        "label": "D",
+        "content": "独立：自食其力"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，判断题干词语间逻辑关系。“深入”与“浅尝辄止”为反义词关系。第二步，判断选项词语间逻\n辑关系。A 项正确，“疏远”与“形影不离”为反义词关系；B 项错误，“事无巨细”是指事情不分大小，形容\n什么事都管，与“细致”不是反义词关系；C 项错误，“水深火热”形容老百姓所受的灾难，像水那样越来越深，\n像火那样越来越热，比喻人民生活极端痛苦，与“安定”不是反义词关系；D 项错误，“独立”是“自食其力”\n的同义词关系。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第100题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-101",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "经济赤字：收入：开支",
+    "options": [
+      {
+        "label": "A",
+        "content": "债务纠纷：还钱：借钱"
+      },
+      {
+        "label": "B",
+        "content": "优胜劣汰：适应：淘汰"
+      },
+      {
+        "label": "C",
+        "content": "销售利润：进价：售价"
+      },
+      {
+        "label": "D",
+        "content": "背信弃义：诺言：谎言"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，判断题干词语间逻辑关系。“开支”大于“收入”就会产生“经济赤字”。第二步，判断选项词\n语间逻辑关系。A 项错误，“借钱”“还钱”不能进行比较；B 项错误，“适应”“淘汰”不能进行比较；C 项\n正确，“售价”大于“进价”就会有“销售利润”；D 项错误，“谎言”与“诺言”不能进行比较。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第101题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-102",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "鸳鸯：凤凰：雄雌",
+    "options": [
+      {
+        "label": "A",
+        "content": "翡翠：珊瑚：红绿"
+      },
+      {
+        "label": "B",
+        "content": "经纬：阡陌：纵横"
+      },
+      {
+        "label": "C",
+        "content": "满月：弦月：盈缺"
+      },
+      {
+        "label": "D",
+        "content": "锱铢：分毫：长短"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，判断题干词语间逻辑关系。“鸳鸯”和“凤凰”都有“雌雄”之分。鸳为雄，鸯为雌；凤为雄，\n凰为雌。第二步，判断选项词语间逻辑关系。A 项错误，“翡翠”“珊瑚”都具有“红绿”的特征，翡为红，翠\n为绿，但二字没有相反的意思；B 项正确，“经纬”和“阡陌”都有“纵横”之分。经为纵，纬为横；纤为纵，\n陌为横，与题干对应；C 项错误，“满月”和“弦月”不能用“盈缺”形容；D 项错误，“锱铢”中，锱为一两\n的四分之一，铢为一两的二十四分之一，比喻极其微小的数量，“分毫”是指极其细微的差别，均不能用“长短”\n形容。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第102题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-103",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "铁匠：火炉：镰刀",
+    "options": [
+      {
+        "label": "A",
+        "content": "医学家：试管：药剂"
+      },
+      {
+        "label": "B",
+        "content": "记者：摄像机：新闻稿"
+      },
+      {
+        "label": "C",
+        "content": "科学家：科技文献：新产品"
+      },
+      {
+        "label": "D",
+        "content": "网民：互联网：营销"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，判断题干词语间逻辑关系。“铁匠”用“火炉”造“镰刀”，这三个词语之间是职业关系。第二\n步，判断选项词语间逻辑关系。A 项正确，“医学家”用“试管”制作“药剂”，这三个词语之间是职业关系，\n符合题干逻辑关系；B 项错误，“记者”用“摄像机”记录新闻，而不是用“摄像机”写“新闻稿”，不符合题\n干逻辑关系；C 项错误，“科技文献”和“新产品”都是“科学家”的劳动成果，不符合题干逻辑关系；D 项错\n误，“网民”用“互联网”进行上网而不是“营销”，不符合题干逻辑关系。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第103题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-104",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "存折对于( ) 相当于栅栏对于( )",
+    "options": [
+      {
+        "label": "A",
+        "content": "储户牛羊"
+      },
+      {
+        "label": "B",
+        "content": "存款绿地"
+      },
+      {
+        "label": "C",
+        "content": "虚拟实物"
+      },
+      {
+        "label": "D",
+        "content": "银行卡围墙"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，判断题干词语间逻辑关系。“存折”是用来存钱的载体，“栅栏”的作用是隔离与防护。第二步，\n判断选项词语间逻辑关系。A 项错误，“储户”是存钱的主体，“牛羊”是“栅栏”保护的对象，不符合题干逻\n辑关系；B 项错误，“存款”是“存折”的对象，可是“栅栏”的对象不一定都是“绿地”，不符合题干逻辑关\n系；C 项，“存折”不是“虚拟”的，不符合题干逻辑关系；D 项正确，“存折”和“银行卡”有同样的作用，\n“栅栏”和“围墙”也有同样的作用，符合题干逻辑关系。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第104题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-105",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "七寸对于( ) 相当于( ) 对于头绪",
+    "options": [
+      {
+        "label": "A",
+        "content": "尺度线索"
+      },
+      {
+        "label": "B",
+        "content": "要害眉目"
+      },
+      {
+        "label": "C",
+        "content": "七步头脑"
+      },
+      {
+        "label": "D",
+        "content": "关键脉络"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项：七寸对应尺度的大小，线索和头绪是近义词，前后逻辑关系不一致，排除；\nB 项：七寸比喻要害，眉目比喻头绪，前后逻辑关系一致；\nC 项：七寸与七步无明显逻辑关系，前后逻辑关系不一致，排除；\nD 项：七寸可以象征关键，但是脉络和头绪无明显逻辑关系，排除；\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第105题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-106",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "在防治癌症方面，橙汁有多种潜在的积极作用，尤其由于它富含橙皮素和柚苷素等类黄酮抗氧化剂。研究 证据已经表明，橙汁可以减少儿童患白血病的风险，并有助于预防乳腺癌、肝癌和结肠癌。根据研究结果，橙汁 的生物效应在很大程度上受到其成分的影响，而其成分的变化又依赖于气候、土壤、水果成熟度以及采摘后的存 储方法等条件。 由此可以推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "并非所有的橙汁都有相同的防癌功效"
+      },
+      {
+        "label": "B",
+        "content": "过度饮用橙汁会给身体健康造成不良影响"
+      },
+      {
+        "label": "C",
+        "content": "相对于健康儿童而言，白血病患儿的橙汁饮用量较小"
+      },
+      {
+        "label": "D",
+        "content": "生长于良好的气候土壤条件下，成熟并避光保存的橙子最有功效"
+      }
+    ],
+    "answer": "A",
+    "explanation": "文段都在探讨橙汁对于防治癌症的作用。B、C 两项均在饮用量上做文章，但题干并未提及，排除；文段最\n后一句“橙汁的生物效应在很大程度上受到其成分的影响，而其成分的变化又依赖于气候、土壤、水果成熟度以\n及采摘后的存储方法等条件”说明土壤与功效相关，但是相关度如何，是正向相关还是负向相关均未明确说明，\n因此 D 项属于过度推断；A 项“并非所有的橙汁都有相同的防癌功效”，即不同的橙汁抗癌功效不同，正好对应\n文段最后一句受多方面影响。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第106题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-107",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "某国际小组对从已灭绝的一种恐鸟骨骼化石中提取的DNA 进行遗传物质衰变速率分析发现，虽然短DNA 片 段可能存在100 万年，但30 个或者更多碱基对序列在确定条件下的半衰期只有大约15.8 万年。某位科学家据此 认为，利用古代DNA 再造恐龙等类似于电影《侏罗纪公园》中的故事不可能发生。 以下哪项如果为真，最能反驳该科学家的观点：",
+    "options": [
+      {
+        "label": "A",
+        "content": "等遗传物质的衰变速率"
+      },
+      {
+        "label": "B",
+        "content": "上述研究的化石样本可能受到人类"
+      },
+      {
+        "label": "D",
+        "content": "恐鸟与恐龙的碱基对序列排列顺序不同"
+      },
+      {
+        "label": "C",
+        "content": "环境因素会影响"
+      }
+    ],
+    "answer": "C",
+    "explanation": "科学家的观点在最后一句：利用古代 DNA 再造恐龙等类似于电影《侏罗纪公园》中的故事不可能发生。论\n据：针对一种恐鸟骨骼化石中遗传物质衰变速率分析的实验。论点是典型的预测（未来无人可知，无法直接验证\n真假），故无法直接削弱论点。论据是调查实验，调查对象是衰变速率的快慢，与之直接相关的 C 项环境因素会\n影响 DNA 等遗传物质的衰变速率，即单独只看衰变速率并不准确，削弱了实验方式，属于削弱范畴。A 项偷换论\n题，属于无关选项；B 项化石被污染只是一种可能性，力度很弱；D 项排列顺序不同对结论是否有影响并不确定。\n因此，C 项更为直接。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第107题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-108",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "碎片化时代人们的注意力很难持久。让用户在邮件页面停留更长时间已经成为了营销者不断努力的方向。 随着富媒体化的逐步流行，邮件逐步从单一静态向动态转变，个性化邮件的特性也逐步凸显。GIF 制作简单，兼 容性强，在邮件中可以增加视觉冲击力。因此，在邮件中插入GIF 动态图片，更能吸引用户的目光，增加用户的 点击率。 以下哪项如果为真，最能支持上述结论：",
+    "options": [
+      {
+        "label": "A",
+        "content": "如果针对特定用户群而制定个性化营销邮件，那么销售机会会增加20%"
+      },
+      {
+        "label": "B",
+        "content": "过去没有插入GIF 动态图片的个性化营销邮件，也为很多企业带来了成功"
+      },
+      {
+        "label": "C",
+        "content": "上世纪70 年代出生的人习惯于电子邮件的静态界面，不喜欢花里胡哨的东西"
+      },
+      {
+        "label": "D",
+        "content": "插入GIF 动态图片的个性化营销邮件，比普通发送的邮件给企业带来的收入多18 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "“因此”引出论点：在邮件中插入 GIF 动态图片，更能吸引用户的目光，增加用户的点击率。论据：GIF\n制作简单，兼容性强，在邮件中可以增加视觉冲击力。A 项将 GIF 动态图片偷换为“个性化营销邮件”，属于无\n关选项；B 项说 GIF 没有作用，C 项说有人不喜欢 GIF，都是在削弱论点；D 项，插入 GIF 动态图片的个性化营销\n邮件，比普通发送的邮件给企业带来的收入多 18 倍，举例支持论点。\n故正确答案为 D。\n\n- 11 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第108题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-109",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "一个旅行者要去火车站，早上从旅馆出发，到达一个十字路口。十字路口分别通向东南西北四个方向，四 个方向上分别有饭店、旅馆、书店和火车站。书店在饭店的东北方，饭店在火车站的西北方。 该旅行者要去火车站，应当往哪个方向走：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东"
+      },
+      {
+        "label": "B",
+        "content": "南"
+      },
+      {
+        "label": "C",
+        "content": "西"
+      },
+      {
+        "label": "D",
+        "content": "北"
+      }
+    ],
+    "answer": "B",
+    "explanation": "典型的组合排列题型，根据“最大信息量优先”原则，应把饭店作为突破口。由“书店在饭店的东北方”\n可知饭店在书店的西南方，又已知“饭店在火车站西北方”可知饭店在西方。如下图所示：\n\n由“饭店在火车站西北方”，即火车站在饭店东南方，火车站在南方。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第109题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-110",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "由于一种新的电池技术装置的出现，手机在几分钟内充满电很快就会变成现实。这种新装置是一种超级电 容器，它储存电流的方式是通过让带电离子聚集到多孔材料表面，而非像传统电池那样通过化学反应储存这些离 子。因此这种超级电容器能在几分钟内储满电。研究人员认为这种技术装置将会替代传统电池。 以下哪项如果为真，不能支持上述结论：",
+    "options": [
+      {
+        "label": "A",
+        "content": "超级电容器能够储存大量电能，保证长时间正常运行"
+      },
+      {
+        "label": "B",
+        "content": "超级电容器能循环使用数百万次，相比之下传统电池只能使用数千次"
+      },
+      {
+        "label": "C",
+        "content": "超级电容器可嵌入汽车底盘为汽车提供动力，可更方便地进行无线充电"
+      },
+      {
+        "label": "D",
+        "content": "超级电容器充电时所耗电能比传统电池少90%，但供电时间比后者长10 倍"
+      }
+    ],
+    "answer": "C",
+    "explanation": "“研究人员认为”引出论点：超级电容器这种技术装置将会替代传统电池。论据：这种超级电容器能在几\n分钟内储满电。A 项储电量大、B 项使用次数多、C 项可以无线充电、D 项充电耗电少均是对于论点的支持，故要\n比较强弱。其中 C 项只是说针对汽车会带来便利，范围较其他三项小了很多，最不能支持论点。\n本题为选非题，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第110题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-111",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "台风是大自然最具破坏性的灾害之一。有研究表明：通过向空中喷洒海水水滴，增加台风形成区域上空云 层对日光的反射，那么台风将不能聚集足够的能量，这一做法将有效阻止台风的前进，从而避免更大程度的破坏。 上述结论的成立需要补充以下哪项作为前提：",
+    "options": [
+      {
+        "label": "A",
+        "content": "喷洒到空中的水滴能够在云层之上重新聚集 - 12 -"
+      },
+      {
+        "label": "B",
+        "content": "人工制造的云层将会对邻近区域的降雨产生影响"
+      },
+      {
+        "label": "C",
+        "content": "台风经过时，常伴随着大风和暴雨等强对流天气"
+      },
+      {
+        "label": "D",
+        "content": "台风前进的动力来源于海水表面日光照射所产生的热量"
+      }
+    ],
+    "answer": "D",
+    "explanation": "论点：这一做法将有效阻止台风的前进，从而避免更大程度的破坏。论据：通过向空中喷洒海水水滴，增\n加台风形成区域上空云层对日光的反射，那么台风将不能聚集足够的能量。题干要求补充前提，优先选择在论点\n和论据间搭桥。D 项台风前进的动力来源于海水表面日光照射所产生的热量，在“日光反射所产生的能量”和“台\n风的前进”之间建立了联系。A、B、C 三项都只是针对论据，没有体现论点的“阻止台风前进”。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第111题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-112",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "有一段时间，电视机生产行业竞争激烈。由于电视机品牌众多，产品质量成为消费者考虑的首要因素。某 电视机生产厂家为了扩大市场份额，一方面加大研发力度，进一步提高了电视机产品的质量；另一方面在价格上 作调整，适当降低了产品的价格。然而，调整之后的头三个月，其电视机产品的市场份额不但没有提高反而有所 下降。 以下哪项如果为真，最能解释上述现象：",
+    "options": [
+      {
+        "label": "A",
+        "content": "消费者通常会考虑不同产品的价格差异，而非同一产品在不同时期的价格差异"
+      },
+      {
+        "label": "B",
+        "content": "一个家庭再次购买电视机产品时会首先考虑原来的品牌"
+      },
+      {
+        "label": "C",
+        "content": "消费者通常是通过价格来衡量电视机产品质量的"
+      },
+      {
+        "label": "D",
+        "content": "其他电视机生产厂家也调整了产品价格"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题干中矛盾是“提升了质量，降低了价格，但销量不增反降”，同时强调质量是重要因素。可预计矛盾原\n因必然和价格有关。B 项首先可以排除。A、D 两项可以解释销量不增，但是没有明确的促使销量下降的原因，而\nC 项通过价格衡量质量，价格下降，人们就会认为其质量也会降低，故会减少购买，很好地解释了题干中矛盾的\n现象。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第112题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-113",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "“有好消息，也有坏消息”。无论是谈起什么主题，这样的开场白都顿时让人觉得一丝寒意传遍全身。接 着这句话，后边往往是这样一个问题：你想先听好消息还是坏消息？一项新的研究表明，你可能想先听坏消息。 如果以下各项为真，最能削弱上述论证的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "若消息是来自一个你信任的人，那么你想先听好坏消息的顺序会不同"
+      },
+      {
+        "label": "B",
+        "content": "研究发现，若由发布消息的人来决定，那么结果往往总是先说好消息"
+      },
+      {
+        "label": "C",
+        "content": "心理学家发现，发布好坏消息的先后顺序很可能改变人们对消息的感觉"
+      },
+      {
+        "label": "D",
+        "content": "心理评估结果证明先听到坏消息的学生比先听到好消息的学生焦虑要小"
+      }
+    ],
+    "answer": "A",
+    "explanation": "“一项新的研究表明”引出论点：你可能想先听坏消息。没有明显论据。A 项指出先听好坏消息的顺序会\n受到告诉你消息的人的影响，直接对论点进行或然性削弱；B 项的“先说好消息”、C 项的“发布好坏消息”将\n论点的“听”偷换成了“说”，D 项“听后的焦虑程度”与听的顺序无关，均属于无关选项，排除。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第113题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-114",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "城市病指的是人口涌入大城市，导致其公共服务功能被过度消费，最终造成交通拥挤、住房紧张、空气污 染等问题。有专家认为，当城市病严重到一定程度时，大城市的吸引力就会下降，人们不会再像从前一样向大城 市集聚，城市病将会减轻，从而焕发新的活力。 如果以下各项为真，能够削弱上述观点的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "我国已经进入城市病的爆发期，居民生活已受到影响"
+      },
+      {
+        "label": "B",
+        "content": "大城市能够提供的公共服务是中小城市所无法替代的"
+      },
+      {
+        "label": "C",
+        "content": "政府应该将更多财力用于发展中小城市、乡镇、农村"
+      },
+      {
+        "label": "D",
+        "content": "中小城市活力足，发展潜力大，对人们吸引力会很强"
+      }
+    ],
+    "answer": "B",
+    "explanation": "“有专家认为”引出论点：当城市病严重到一定程度时，大城市的吸引力就会下降，人们不会再像从前一\n样向大城市集聚，城市病将会减轻，从而焕发新的活力。没有明显论据。论点就是论述小城市吸引力会变大，要\n想削弱它，就要说大城市还是比小城市吸引力大，只有 B 项体现出这一点。A 项说大城市不好，C、D 两项试图说\n明小城市会更好，都属于加强论点项，排除。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第114题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-panduan-2015-fushengjia-115",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "今年联赛决赛的最后4 支队伍是甲、乙、丙和丁。其中N 与T 分别为甲队和丁队的主教练。有人指出，甲 队此前每次夺该项桂冠的赛季都曾战胜过T 教练所在的球队；过去4 年间，丁队在N 教练的指导下，每隔一年都 能夺得该项桂冠，而去年丁队没有夺冠。 以下哪项如果为真，与上述表述相矛盾：",
+    "options": [
+      {
+        "label": "A",
+        "content": "T 教练可能执教过丁队"
+      },
+      {
+        "label": "B",
+        "content": "N 教练去年曾执教丁队"
+      },
+      {
+        "label": "C",
+        "content": "甲队曾4 次夺得该项冠军"
+      },
+      {
+        "label": "D",
+        "content": "丁队前年未获得该项冠军 五、资料分析，共20 题，参考时限15 分钟，所给出的图、表、文字或综合性资料均有5 个问题要你回答，请你 根据资料所提供的信息进行分析、比较、计算和判断处理。 （一）根据以下资料，回答116—120题。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题干最后一句话“过去 4 年间，丁队在 N 教练的指导下，每隔一年都能夺得该项桂冠，而去年丁没夺冠”\n可知前年丁肯定夺冠，因此 D 项一定错误。本题要求选与题干矛盾的选项，即选择错误的选项。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2015年国考行测（副省级）第115题",
+    "level": "fushengjia"
+  }
+]

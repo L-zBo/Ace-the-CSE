@@ -1,0 +1,354 @@
+[
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "为实现产业振兴，农科院对某县的所有自然村进行了调研，结果发现，适合种植A作物的自然村占 。适合种 植B作物的自然村有25个，同时适合种植两种作物的自然村占总数的 ，则在该县，不适合种植两种作物的自 然村至少有多少个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "57"
+      },
+      {
+        "label": "B",
+        "content": "67"
+      },
+      {
+        "label": "C",
+        "content": "114"
+      },
+      {
+        "label": "D",
+        "content": "134"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由题意可知，自然村总数既是13的倍数，又是14的倍数，即自然村总数一定是13和14最小公倍数182\n的整数倍，设该县的自然村共有182x个，则适合种植A作物的自然村有 个，同时适\n合种植两种作物的自然村有 个。根据两集合容斥原理公式：A+B-A B=总数-都不，\n则56x+25-13x=182x-都不，整理可得：都不=139x-25。要使不适合种植两种作物的自然村（都不）数量\n尽可能小，则x应尽可能小，x最小取1，故不适合种植两种作物的自然村至少有139×1-25=114个。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第46题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "小王每天以v千米/小时的速度骑车到单位上班，如果速度提高20%，则可以提前10分钟到单位；如果以原速度 骑行2千米后再提速30%，也可以提前10分钟到达。问小王家距离单位多少千米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5.4"
+      },
+      {
+        "label": "B",
+        "content": "7.2"
+      },
+      {
+        "label": "C",
+        "content": "8.5"
+      },
+      {
+        "label": "D",
+        "content": "9.6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据路程不变时，速度与时间成反比。原速度（v）与提高20%后的速度之比为1：（1+20%），即为5：6，\n则全程所用时间之比为6：5，故小王以原速v千米/小时骑车到单位上班需要60分钟也就是1小时，则\n总路程为：v×1=v千米。根据“如果以原速度骑行2千米后再提速30%，也可以提前10分钟到达。”根\n据总路程不变，\n，解得v=7.2，故总路程为7.2千米。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第47题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "农科院派出6名科技人员支援甲、乙、丙三个县农业发展，每个县分配2人。其中精通农业、牧业和渔业技术的 分别有3人、3人和2人。有2人同时精通农业和牧业技术、且精通渔业技术的人均不精通农业和牧业技术，已知 丙县因无条件发展渔业只需要农业和牧业技术专家，甲县和乙县都需要掌握3类技术的专家支援，问有多少种 不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "20"
+      }
+    ],
+    "answer": "A",
+    "explanation": "6 名专家中有 2人同时精通农业和牧业技术，有 2人只精通渔业技术，根据两集合容斥原理可知，则余\n下 2 人分别精通农业和牧业技术。根据题干要求，甲、乙县均需 1 名双技术专家和 1 名渔业技术专家，\n只掌握农业、牧业技术的2名专家支援丙县，则安排方式共有 种。 2021年四川下半年公务员录用考试《行测》试题解析\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第48题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "现派出两个工作组对甲、乙、丙、丁和戊五个县的乡村振兴工作成果进行验收，要求每个工作组至少验收2个 县，且每个县由1个工作组验收。问如按要求随机分配任务，则甲、乙两个县的乡村振兴工作成果由同一个工 作组验收的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，每个工作组至少验收2个县，则令一个工作组验收2个县，一个工作组验收3个县。则总情况数为：先从2个工作组中选1个组验收2个县，再从5个县里选2个验收，共有种情况。\n满足甲、乙两个县由同一个工作组验收的情况分类讨论如下：\n①验收了2个县的工作组，恰好验收甲、乙两县。由于验收2个县的工作组有2种情况，故同时验收甲、乙两县的有2种情况。\n②验收了3个县的工作组，验收甲、乙两县。由于验收3个县的工作组有两种情况，还需从剩余3个县中选1个使得该工作组共验收3县，有种情况。\n则所求概率。\n故正确答案为B。\n\n[来源 baijing1.top paperId=295 sort=49 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第49题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2021/q049.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "王、李、刘、张四人参加测试，每人得分均为正整数，张的得分高于任意一人，李的得分低于其余任意一人， 王的得分高于刘，已知张和王得分之和为34，王和刘得分之和为20，刘和李得分之和为16，问张比王多得多少 分？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "C",
+    "explanation": "王、李、刘、张四人参加测试，根据“张的得分高于任意一人”，说明张的得分排名第一；根据“李的\n得分低于其余任意一人”，说明李的得分排名第四；根据“王的得分高于刘”，说明王的得分排名第二、\n刘的得分排名第三，即四人的测试成绩由高到低分别为：张、王、刘、李。由于“王和刘得分之和为20”，\n刘的得分应低于10分，同时由于“刘和李得分之和为16”，刘的得分应高于8分，即刘的得分为9分。\n由此可计算出王的得分为20-9=11分，张的得分为34-11=23分，张比王多得23-11=12分。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第50题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某项工程，甲、乙、丙三个工程队如单独施工，分别需要12小时、10小时和8小时完成。现按“甲—乙—丙— 甲······”的顺序让三个工程队轮班，每队施工1小时后换班，问该工程完成时，甲工程队的施工时间 共计：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2小时54分"
+      },
+      {
+        "label": "B",
+        "content": "3小时"
+      },
+      {
+        "label": "C",
+        "content": "3小时54分"
+      },
+      {
+        "label": "D",
+        "content": "4小时"
+      }
+    ],
+    "answer": "C",
+    "explanation": "2021年四川下半年公务员录用考试《行测》试题解析\n赋值该工程的工作总量为12、10、8的公倍数120。则甲工程队每小时工作量为 ，乙工程队\n每小时工作量为 ，丙工程队每小时工作量为 。按照甲、乙、丙三个工程队各施工\n1小时的顺序轮班，则甲、乙、丙三个工程队每3个小时的工作量为10+12+15=37， ，\n即三轮后（其中甲工程队施工 3 小时），该工程剩余工作量为 9，剩余的工作量甲需 小时完成，即\n分钟，故该工程完成时，甲工程队的施工时间共计3小时54分钟。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第51题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某公司开展爱心捐款活动，50名员工人均捐款81.5元。已知任意2名员工捐款金额相差不超过10元，问该公司捐 款83元及以上的员工最多可能有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "42"
+      },
+      {
+        "label": "C",
+        "content": "44"
+      },
+      {
+        "label": "D",
+        "content": "46"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题目涉及平均数混合问题，可以考虑通过线段法求解。结合题意画出如下线段：\n总人数为 50 人，设捐款 83 元及以上的员工最多为 x 人，则 83 元以下人数为（50-x）人。根据线段法\n“距离与量成反比”，要想 x 尽可能多，则捐款 83 元及以上的员工平均捐款额与 81.5 的差应尽量小，\n捐款83元以下的员工平均捐款额与81.5 的差应尽量大。故捐款83元及以上的员工平均捐款最小为83\n元，捐款83元以下的员工平均捐款额最小为83-10=73元。因此可列式： ，解得\nx=42.5，所求42.5为捐款83元及以上的员工人数最多的情况，因此人数需向下取整为42人。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第52题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某工厂原有甲工种的人数是乙工种人数的2倍，由于公司扩大产能，又招聘了甲、乙两个工种的工人，且新招 聘的甲工种人数是新招聘的乙工种人数的0.5倍，招聘后工厂中甲工种的人数是乙工种人数的1.5倍，问新招聘 的乙工种人数是原乙工种人数的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设工厂原有乙工种的人数为，则原有甲工种的人数为；新招聘乙工种的人数为，则新招聘甲工种的人数为。根据题意，，整理得，故新招聘的乙工种人数是原乙工种人数的。\n故正确答案为B。\n\n[来源 baijing1.top paperId=295 sort=53 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第53题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2021/q053.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "果农陈伯将收获的水果全部卖出，出售价格为苹果5元/公斤，冬枣6元/公斤，甜橘7元/公斤，已知苹果和冬枣的 产量之比为4：3，苹果和甜橘的产量之比为5：2，出售冬枣的收入比甜橘多3400元，问他销售水果的总收入为 多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "22800"
+      },
+      {
+        "label": "B",
+        "content": "23400"
+      },
+      {
+        "label": "C",
+        "content": "24000"
+      },
+      {
+        "label": "D",
+        "content": "24600"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据“苹果和冬枣的产量之比为4：3，苹果和甜橘的产量之比为5：2”可得，苹果、冬枣、甜橘的产量\n之比为20：15：8，设苹果产量为20x公斤，则冬枣产量为15x公斤，甜橘产量为8x公斤，根据“出售\n冬枣的收入比甜橘多 3400 元”可得，6×15x=7×8x+3400，解得 x=100，则销售水果的总收入为 2021年四川下半年公务员录用考试《行测》试题解析\n2000×5+1500×6+800×7=24600元。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第54题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2021-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "已知A单位在3月x日（x≤10）举行校招会，B单位在4月y日（y≥20）举行校招会，两个单位的校招会都在星期 五举行，已知x+y=32，问y的值为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "25 B.D.27"
+      },
+      {
+        "label": "C",
+        "content": "26"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：第四部分 判断推理。 本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题， 在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题意可知，从3月x日至4月y日，经过3月份剩下的（31-x）天、4月份y天，共经过31-x+y=31-\n(32-y)+y=2y-1天。由于这两天均为星期五，因此2y-1为7的整数倍。代入选项，仅B项满足。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考sichuan行测第55题",
+    "region": "sichuan"
+  }
+]

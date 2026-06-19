@@ -1,0 +1,528 @@
+[
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "250，296，346，400，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "450"
+      },
+      {
+        "label": "B",
+        "content": "458"
+      },
+      {
+        "label": "C",
+        "content": "520"
+      },
+      {
+        "label": "D",
+        "content": "586"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列没有明显特征，优先考虑多级数列。后项减前项得到新数列：46，50，54，（    ），是公差为4的等差数列，则下一项为54+4=58。故所求项为400+58=458。\n故正确答案为B。\n\n[来源 baijing1.top paperId=175 sort=46 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第46题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "1123，2436，3547，4759，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "6880"
+      },
+      {
+        "label": "B",
+        "content": "5879 B.D.586"
+      },
+      {
+        "label": "C",
+        "content": "520"
+      },
+      {
+        "label": "D",
+        "content": "C.5970 D.7327"
+      }
+    ],
+    "answer": "A",
+    "explanation": "】\n数列各项均为四位数，考虑机械划分。将每项数字拆分成两部分，即（11、23），（24、\n36），（35、47），（47、59）。观察可得，23-11=12，36-24=12，47-35=12，59-47=12，\n即每项后部分-前部分=12。观察选项，只有A 项80-68=12 符合。\n故正确答案为A。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第47题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "25，4，1， 1/2 ，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1/4"
+      },
+      {
+        "label": "C",
+        "content": "1/3"
+      },
+      {
+        "label": "D",
+        "content": "1"
+      }
+    ],
+    "answer": "D",
+    "explanation": "】\n数列均为幂次数，优先考虑幂次数列。将原数列转化为：\n，\n，\n，\n，数列底\n数为：5，4，3，2，是公差为-1 的等差数列，则所求项底数为1；指数为：2，1，0，\n-1，是公差为-1 的等差数列，则所求项指数为-2。故所求项为\n。\n故正确答案为D。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第48题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "（3，4，5），（6，6，12），（12，8，28），（21，24，51），（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "（33，48，63）"
+      },
+      {
+        "label": "C",
+        "content": "（36，48，108）"
+      },
+      {
+        "label": "B",
+        "content": "（27，32，85）"
+      },
+      {
+        "label": "D",
+        "content": "（33，64，95）"
+      }
+    ],
+    "answer": "D",
+    "explanation": "】\n数列各项均三三分组，考虑多重数列。每组中的第一项分别为：3，6，12，21，（），\n后项减前项得到新数列：3，6，9，（），是公差为3 的等差数列，下一项为12，则所\n求项中的第一项为21+12=33，排除B、C 两项；每组中的三项加和分别为：12，24，48，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第49题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "4，2/3 ，1， 13/16 ， 18/25 ，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/3"
+      },
+      {
+        "label": "B",
+        "content": "1/2"
+      },
+      {
+        "label": "C",
+        "content": "2/3"
+      },
+      {
+        "label": "D",
+        "content": "1/4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n数列部分为分数且选项均为分数，考虑分数数列。对数列进行反约分可得：\n，\n，\n，\n，\n，（），分子部分为：4，6，9，13，18，（），后项减前项可得：2，3，\n\n4，5，（），为连续自然数列，下一项为6，则分子的下一项为18+6=24；分母部分为：\n1，4，9，16，25，（），均为幂次数，分别为\n，\n，\n，\n，\n，（），则\n分母的下一项为\n。故所求项为\n。\n故正确答案为C。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第50题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "老刘家有 100 亩草场，平均每亩草场年产草料 4 吨。草场上饲养了羊、驴、牛共 252 头， 平均每头羊年需草料 1 吨，每头驴年需草料 2 吨，每头牛年需草料 5 吨。去年老刘家草场恰 好能满足草料需求，今年老刘没有饲养羊， 但驴和牛的数量都翻了一倍，草场仍恰好满足草 料需求，则老刘家去年饲养了（ ）头牛。",
+    "options": [
+      {
+        "label": "A",
+        "content": "32"
+      },
+      {
+        "label": "D",
+        "content": "35"
+      },
+      {
+        "label": "B",
+        "content": "33"
+      },
+      {
+        "label": "C",
+        "content": "34"
+      }
+    ],
+    "answer": "A",
+    "explanation": "】\n根据题意可知，草场每年可生产草料100×4=400 吨。设老刘家去年饲养羊、驴、牛分\n别为x 头、y 头、z 头，根据“饲养了羊、驴、牛共252 头”，可列式：x+y+z=252①；\n根据去年和今年草场均恰好满足草料需求，且今年没有饲养羊，驴和牛的数量都翻了一\n倍，可列式：x+2y+5z=400②；2×2y+2×5z=400③。联立方程①、②、③式可解得：x=200、\ny=20、z=32，则老刘家去年饲养了32 头牛。\n故正确答案为A。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第51题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某早餐店推出“10 元 2 件”套餐，顾客花费 10 元即可在白粥、豆浆、油条、蛋饼、叉烧 9 包、云吞面 6 个品类中任 选 2 件，既可以选相同的，也可以选不同的。则至少售出（ ）份 该套餐时， 一定有 2 份套餐的搭配完全一致。",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "22"
+      },
+      {
+        "label": "B",
+        "content": "16"
+      },
+      {
+        "label": "C",
+        "content": "21"
+      }
+    ],
+    "answer": "D",
+    "explanation": "】\n根据题干“至少······一定有”，可判定本题为最不利构造问题。根据题意可知\n该套餐中共有6 个品类可供选择，若选出的2 件为相同品类，共有\n种搭配；若\n选2 件为不同品类，共有\n种搭配。则最不利情况为每种搭配售出1 份，\n共计6+15=21 份。则在此基础上再售出1 份，一定有2 份套餐的搭配完全一致，故至少\n售出21+1=22 份。\n故正确答案为D。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第52题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "有只松鼠在某处发现了 90 粒松子，欲搬回 25 米远的家中储存，但这只松鼠每次最多只能 携带 45 粒，且其往返途 中每走 1 米必须要吃 1 粒松子。那么松鼠最多能搬（ ）粒松子回 家。",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "D",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "35"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n方法一：根据题意可知，松鼠在搬运的往返途中始终要消耗松子，要使松鼠搬回家的松\n子尽量多，则松鼠需每次出发时携带最多数量的松子，且累计路程尽量少。若松鼠第一\n次携带45 粒松子直接返回家中，则剩余45-25=20 粒，不足以返回发现处，故松鼠需在\n中途中转一次，放下一些松子，再返回发现处搬运剩余的45 粒松子。\n设松鼠在距离发现处x 米处A 点中转，第一次携带45 粒松子到A 点还剩余（45-x）粒\n松子，返回发现处还需x 粒松子，则此时在A 点放置（45-2x）粒松子；第二次从发现\n处携带剩余45 粒返回A 点，还剩余（45-x）粒松子。此时A 地松子累计量为（45-2x）\n+（45-x）=90-3x，该累计量为松鼠能携带的最大值45 粒时，可使剩余量最大，即90-3x=45，\n解得x=15，则距离家剩余25-15=10 米，还需消耗10 粒松子，那么松鼠最多能搬45-10=35\n粒松子回家。\n方法二：设松鼠在距离发现松子处x 米中转。松鼠总共搬运90 粒松子，途中共消耗（2x+25）\n粒松子。则最多搬运到家的松子数为90-（2x+25）=（65-2x）粒，其中2x 为偶数，则\n（65-2x）一定为奇数，只有C 项满足。\n故正确答案为C。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第53题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某单位制定了年度部门预算，但年中进行了预算调整，行政管理费及人员经费压缩了 50 万 元，这笔钱占原行政 管理费及人员经费预算的 40%，而原行政管理费及人员经费预算占原部 门总预算的 25%。则当前该单位部门预 算是（ ）万元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "450"
+      },
+      {
+        "label": "B",
+        "content": "125"
+      },
+      {
+        "label": "C",
+        "content": "500"
+      },
+      {
+        "label": "D",
+        "content": "75"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：根据题意，原行政管理费及人员经费预算为50÷40%=125万元，原部门总预算为125÷25%=500万元，则当前该单位部门预算是500-50=450万元。\n方法二：根据题意，，则，可得当前该单位部门预算为9的倍数，只有A项满足。\n故正确答案为A。\n\n[来源 baijing1.top paperId=175 sort=54 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第54题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "有如下图所示的飞镖盘，当飞镖落到数字标示的扇形区域，可得相应分数，否则记 0 分， 每个区域可落有多支 飞镖。若一次性射出三支飞镖，恰好得到 30 分，则共有（ ）种得分组 合。",
+    "options": [
+      {
+        "label": "B",
+        "content": "125"
+      },
+      {
+        "label": "C",
+        "content": "500"
+      },
+      {
+        "label": "D",
+        "content": "75 B.7"
+      },
+      {
+        "label": "A",
+        "content": "6 C.8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n根据题意，三支飞镖得分之和为30 分，每支可以得30 分、25 分、20 分、15 分、10 分、\n5 分、4 分、1 分、0 分，并且每个区域可落有多支飞镖。选项数据不大，采用枚举法求\n解，如下表所示：\n因为问的是得分组合，所以三支飞镖没有顺序，共8 种得分组合。\n故正确答案为C。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第55题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2024/q055.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小朗和小峰每晚都会绕着体育场跑步。某晚，小朗、小峰分别从体育场的一号门、三号门 同时出发匀速跑步， 6 分钟后，两人迎面相遇，相遇后，两人继续匀速前进。小峰又跑了 5 分钟到达一号门并由此进入体育场，横穿 体育场从三号门跑出，沿与小朗相同的方向继续 跑。已知小朗跑到三号门时，小峰距三号门还有 180 米，小峰 又经过 6 分钟追上了小朗。则 小朗的跑步速度为（ ）千米/小时。",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "10.8"
+      },
+      {
+        "label": "B",
+        "content": "7.2 D.9"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "】\n小朗从一号门跑到两人迎面相遇的位置用时6 分钟，小峰从两人迎面相遇的位置跑到一\n号门用时5 分钟，根据“路程相同，速度与时间成反比”，则\n，设小朗\n速度为5v，小峰速度为6v。小朗跑到三号门时，小峰距离三号门还有180 米，且小峰\n又经过6 分钟追上小朗，根据追及公式\n，可列式：180=（6v-5v）×6，解\n得v=30 米/分钟，则小朗速度为5v=5×30=150 米/分钟=9 千米/小时。\n\n故正确答案为C。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第56题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某同城速递平台给予骑手每单 a 元基础收益（a 为整数），且该平台在鼓励骑手多劳多得 的同时，还鼓励其关注 个人健康，在完成一定数量的订单后及时休息，并为此设定了每日基 础接单量和健康临界接单量。骑手在完成基础接单量后，超出的订单每单收益平台补贴 1.5 元 （a+1.5）；但若持续接单，超出健康临界接单量的订单每 单收益平台扣除 1 元（a-1）。已知 某骑手某日完成 30 单，共获得 247.5 元；第二日完成 40 单，共获得 315 元。若 该骑手仅第二 日超出了健康临界接单量，则扣除后的每单收益为（ ）元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      }
+    ],
+    "answer": "B",
+    "explanation": "】\n根据题意可得，骑手完成每单的基础收益a 元为整数，则第一日完成30 单时收益247.5\n元，平均每单价格为\n元，非整数，说明30 单已超出每日基础接单量，但\n由题意可知30 单未超过健康临界接单量，即这30 单中每单收益可以分为a 和（a+1.5）\n两类。则根据混合比例居中，可得：a<8.25<a+1.5，解得6.75<a<8.25，则5.75<a-1<7.25，\n排除A、D 选项。\n该骑手第一日完成30 单时收益247.5 元，第二日完成40 单时收益315 元，相差40-30=10\n单，收益相差315-247.5=67.5 元，由题意可知这10 单中每单收益可以分为（a+1.5）\n和（a-1）两类。\n方法一：设这10 单中每单收益（a+1.5）元的有x 单，则每单收益（a-1）元的有（10-x）\n单。代入选项验证：\nB 项：若a-1=6 元，则a+1.5=6+1+1.5=8.5 元。8.5x+6（10-x）=67.5，解得x=3，满足\n条件。\nC 项：若a-1=7 元，则a+1.5=7+1+1.5=9.5 元。9.5x+7（10-x）=67.5，解得x=-1，不\n符合题意，排除。\n方法二：两天相差的10 单平均每单收益=6.75 元，根据混合比例居中，可得：\na-1<6.75<a+1.5，解得5.25<a<7.75，则4.25<a-1<6.75，排除C 选项。\n故正确答案为B。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第57题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某高校法学院对学生毕业后就职于司法机关、律所、企业的意愿进行调查，共 725 名学生 参与调查，可选其中 0 至 3 项。结果显示，选择司法机关、律所、企业的学生分别有 360 人、 380 人、237 人，3 项都选的学生有 60 人，3 项都不选的学生有 8 人，则仅选择其中 1 项的学 生有（ ）人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "517"
+      },
+      {
+        "label": "D",
+        "content": "514"
+      },
+      {
+        "label": "B",
+        "content": "516"
+      },
+      {
+        "label": "C",
+        "content": "515"
+      }
+    ],
+    "answer": "A",
+    "explanation": "】\n根据三集合容斥原理非标准型公式：A+B+C-满足两项-2×满足三项=总数-都不，可列式：\n360+380+237-选择其中两项的学生人数-2×60=725-8，解得：选择其中两项的学生人数\n=140 人。根据三集合常识型公式：满足一项+满足两项+满足三项=总数-都不，可列式：\n仅选择其中1 项的学生人数+140+60=725-8，解得：仅选择其中1 项的学生人数=517 人。\n故正确答案为A。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第58题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某灯光秀表演中，无人机群先排列成红、绿两个正方形实心方阵，然后融合并变换灯光， 10 形成一个黄色的正方 框形空心方阵。原红方阵最外侧每边有 8 架无人机，且原红方阵恰好可 填满黄方阵的空心，原绿方阵最外侧每 边的无人机数量比黄方阵少 4 架。则参加灯光秀表演 的无人机共有（ ）架。",
+    "options": [
+      {
+        "label": "A",
+        "content": "260"
+      },
+      {
+        "label": "D",
+        "content": "185"
+      },
+      {
+        "label": "B",
+        "content": "233"
+      },
+      {
+        "label": "C",
+        "content": "196"
+      }
+    ],
+    "answer": "A",
+    "explanation": "】\n设原绿方阵最外侧每边有n 架无人机，则黄色正方框空心方阵最外侧每边有n+4 架无人\n机，根据“原红方阵恰好可填满黄方阵的空心”可得：黄色正方框空心方阵共有\n架无人机。根据题意可知，黄色方阵为红、绿两个正方形方阵融合而成，\n即黄色无人机数量=红色无人机数量+绿色无人机数量，可列式：\n，\n解得n=14。则无人机总数=红色无人机数量+绿色无人机数量\n架。\n故正确答案为A。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第59题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "阿学的爸爸上午七点多出门钓鱼时，发现家里墙上时钟的时针与分针夹角为 90，中午十二 点多回家吃饭时，发 现墙上时钟的时针与分针夹角依然为 90°,阿学的爸爸外出期间，时针与 分针呈 180 至多有（ ）次。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6 第四部分 言语理解与表达（共 25 题）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "】\n根据题意，要想次数尽可能多，则阿学的爸爸出门应尽量早，回家应尽量晚。因时针每\n小时走\n，分针每小时走\n，即分针每分钟比时针多走\n。\n从上午7 点开始，分针与时针呈\n，此后分针与时针夹角逐渐减小直至\n（阿学的\n爸爸出门时间），随后分针超过时针，直至时针与分针第一次呈\n为止，共经过了\n=1 小时\n分钟，即阿学的爸爸出门后，在上午8 时\n分钟时分针与\n时针的夹角首次呈\n。\n此后每次分针比时针多走\n，二者再次呈\n，即经过\n分钟。\n从中午12 时开始至下午1 时，时针与分针最后一次呈\n需要\n分钟，即阿\n学的爸爸回家最晚为12 时\n分。8 时\n分与12 时\n分之间间隔4 小时\n分\n钟，即\n分钟，\n，即除首次外还有4 次时针与分针呈\n，则\n总共最多有4+1=5 次。\n故正确答案为B。\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shenzhen行测第60题",
+    "region": "shenzhen"
+  }
+]

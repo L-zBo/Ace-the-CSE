@@ -1,0 +1,2179 @@
+{
+  "recoverable": [
+    {
+      "qid": "institution-xingce-changshi-2022-c-019",
+      "file": "src\\data\\xingce\\changshi\\institution_2022_c.json",
+      "content": "下列马克思主义哲学观点在“共谋人与自然和谐共生之道”中得到体现的有几项： ①人类应当合理地调节人与自然之间的物质变换 ②",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-changshi-2024-a-019",
+      "file": "src\\data\\xingce\\changshi\\institution_2024_a.json",
+      "content": "下列与呼吸道传染病有关的说法，正确的是（ ）。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-anhui-xingce-changshi-2020-049",
+      "file": "src\\data\\xingce\\changshi\\provincial_anhui_2020.json",
+      "content": "祠堂在中国传统社会是家族成员的重要活动中心，一般情况下姓氏称为某氏宗祠，但有时也会称为某氏家庙。 称为“家庙”的依据是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-026",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 因为不会使用智能手机，许多老年人遭遇了就医难、购票难、购物难等 问题。2021 年 3 月第十三届全国人民代",
+      "opts_count": 4,
+      "ans": "BC"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-027",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 下列各项体现出矛盾双方相互依存或相互转化的辩证思想的有:",
+      "opts_count": 4,
+      "ans": "ABD"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-028",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) “十四五规划”提出要“坚持系统观念”，加强前瞻性思考、全局性谋 划、战略性布局、整体性推进，实现发展质量、结",
+      "opts_count": 4,
+      "ans": "AB"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-029",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 甲、乙、丙和丁四人计划合作出资成立一股份公司，注册时可以被认可 的出资形式有：",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-030",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 党的七大把党在长期奋斗中形成的优良作风概括为三大作风，即：",
+      "opts_count": 4,
+      "ans": "ABD"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-032",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 下列选项中，前后表述内涵对应一致的有：",
+      "opts_count": 4,
+      "ans": "AC"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-033",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 中国古代许多诗人喜欢写“山”，以下诗句与作者对应正确的有：",
+      "opts_count": 4,
+      "ans": "ACD"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-034",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 根据板块学说，喜马拉雅山脉是由下列哪些板块碰撞造成的？",
+      "opts_count": 4,
+      "ans": "AD"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-035",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 在以下绘画技法中，属于中国画的技法有：",
+      "opts_count": 4,
+      "ans": "AC"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-011",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2024.json",
+      "content": "（多选题）党的二十大报告指出，要完善社会治理体系。关于完善社会治理体系，以下说法准确的有（ ）。",
+      "opts_count": 4,
+      "ans": "ABD"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-012",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2024.json",
+      "content": "（多选题）矛盾是反映事物内部或者事物之间对立统一关系的哲学范畴。矛盾的同一性是指矛盾着的对立面相 互依存、相互贯通的性质",
+      "opts_count": 4,
+      "ans": "ABC"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-013",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2024.json",
+      "content": "（多选题）在面对重重困难艰辛探索适合中国国情的社会主义建设道路过程中，涌现出大量先进典型和英雄模 范人物，抒写了无数改天",
+      "opts_count": 4,
+      "ans": "BC"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-014",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2024.json",
+      "content": "（多选题）马克思主义道德观认为，人类社会的实际情况是“物质生活的生产方式制约着整个社会生活、政治 生活和精神生活的过程。",
+      "opts_count": 4,
+      "ans": "ACD"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2024-015",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2024.json",
+      "content": "（多选题）根据《中华人民共和国爱国主义教育法》，以下属于爱国主义教育主要内容的有（ ）。",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-086",
+      "file": "src\\data\\xingce\\changshi\\provincial_guizhou_2023.json",
+      "content": "“饿怒”是“饥饿”和“愤怒”两个词的合成词。最近，研究人员在欧洲招募了 64 位 自愿受试者，在 21 天里，对他们在日",
+      "opts_count": 3,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-hainan-xingce-changshi-2020-091",
+      "file": "src\\data\\xingce\\changshi\\provincial_hainan_2020.json",
+      "content": "海关总署表示，为支持海南逐步探索、稳步推进中国特色自由贸易港建设，分步骤、分阶段建设自由贸易港 政策和制度体系，除禁止进",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hebei-xingce-changshi-2023-075",
+      "file": "src\\data\\xingce\\changshi\\provincial_hebei_2023.json",
+      "content": "甲乙两地间的纵横道路网如下图所示，若从甲地到乙地沿道路铺设电缆，要使铺设的电 缆长度最短，则电缆经过丙地的概率为：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-changshi-2023-013",
+      "file": "src\\data\\xingce\\changshi\\provincial_jiangxi_2023.json",
+      "content": "人体的血糖水平通常会维持在一个比较窄的范围内。下列关于血糖和血糖调节的说法错误的是：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jilin-xingce-changshi-2024-001",
+      "file": "src\\data\\xingce\\changshi\\provincial_jilin_2024.json",
+      "content": "2023年全国宣传思想文化工作会议正式提出习近平文化思想。关于文化建设的表述，正确的有： ①文化自信是更基础、更广泛、更",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-changshi-2022-015",
+      "file": "src\\data\\xingce\\changshi\\provincial_neimenggu_2022.json",
+      "content": "根据《中华人民共和国监察官法》，下列关于监察官回避制度的说法错误的是：",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-changshi-2024-017",
+      "file": "src\\data\\xingce\\changshi\\provincial_qinghai_2024.json",
+      "content": "2022年7月，美国宇航局（NASA）公布韦伯太空望远镜（JWST）拍摄的遥远气态星云一颗新生恒星的照片，其 边缘区域的",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-changshi-2024-016",
+      "file": "src\\data\\xingce\\changshi\\provincial_shandong_2024.json",
+      "content": "关于新兴体育项目，下列说法错误的是：",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-116",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(多选题) 30 年来，浦东创造性贯彻落实党中央决策部署，改革开放走在全国前列，诞生了（ ）等 一系列“全国第一”。",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-117",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(多选题) 浦东开发开放 30 年取得的显著成就，为中国特色社会主义制度优势提供了最鲜活的现实明证， 为改革开放和社会主",
+      "opts_count": 4,
+      "ans": "ACD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-119",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(多选题) 到 2019 年底，我国已有市场主体 1.23 亿户，其中企业 3858 万户，个体工商户 8261 万户。",
+      "opts_count": 4,
+      "ans": "ACD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-121",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(多选题) 习近平指出，改革开放以来，一大批有胆识、勇创新的企业家茁壮成长，形成了具有鲜明时代 特征、民族特色、世界水准",
+      "opts_count": 4,
+      "ans": "CD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-124",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(多选题) 民法典“与每个人的生活息相关”，是因为它是一部体现对（ ）、生活幸福、人格尊享等 各方面权利平等保护的民法典",
+      "opts_count": 4,
+      "ans": "ABC"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-126",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(多选题) 民法典在中国特色社会主义法律体系中具有重要地位，是一部固根本、稳预期、利长远的基础 性法律，（ ），都具有重",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-128",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(不定项选择) 驻村干部介绍，脱贫攻坚实施之初，“扶起来立不住，立住了走不动”的现象比较突出。 - 19 - 以下对这句",
+      "opts_count": 4,
+      "ans": "BD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-129",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(不定项选择) 在 2019 年的“班彦感恩纪念日”上，村里还增设了“好婆婆”“好媳妇”评选、“脱贫光 荣户”表彰等活动",
+      "opts_count": 4,
+      "ans": "AD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-130",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "(不定项选择) 依据材料所示，互助土族自治县脱贫成功的经验包括：",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-005",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "度过了漫长的中世纪之后，西方社会迎来了文化启蒙的思想大解放时期。这一时期，西方的哲学家将本体论 的问题抛在了一边， 地研",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-067",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "已知易拉罐的直径为 8cm，现将 7 个易拉罐如图捆扎在一起，那么需要 cm 长的绳子。（仅计算一 圈的绳长）。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-070",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "小李抽盲盒，这类盲盒一共有 8 款，小李只要其中的 1 款，他一次买了两个盲盒，则抽中他想要的那款的概 率是 。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-073",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "甲到飞机场坐飞机，飞机场的十二个登机口排成一条直线，相邻两个登机口之间相距 50 米。甲在登机口等 待时被告知登机口更改",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-077",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "2019 年上半年期间，在线政务服务用户约增长了：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-087",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2021.json",
+      "content": "2019 年日均可回收物回收量同比年增长率，与日均湿垃圾分出量同比年增长率相差约：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-010",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "下列句子中语法结构不同于其它三句的是 ：",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-049",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "若以上海、苏州、南京和温州这四个城市的教育文化娱乐市场为总体 ，假定各城市2021 年人均教育文化娱乐支出都为 3380",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-050",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "与2015年相比 ，2020年江浙沪地区年人均教育文化娱乐支出增量_________年人均消费支出增量 ，年人均教育文化",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-116",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "2019 年 ，习近平在上海市长宁区虹桥街道市民议事厅考察工作时强调指出 ：“我们走的是一条中国特色社会主义政治发展 道",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-117",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "改革开放以来 ，中国不断探索、积极推进政治建设 ，成功开辟并坚持了中国特色社会主义民主政治发展道路 ，为实现最广 泛的人",
+      "opts_count": 4,
+      "ans": "ACD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-118",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "我国全过程人民民主实现了过程民主和成果民主、程序民主和实质民主、直接民主和间接民主、人民民主和国家意志相统 一 ，是全链",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-120",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "习近平总书记强调 ：“民主不是装饰品 ，不是用来做摆设的 ，而是要用来解决人民要解决的问题的。”我国社会主义民主的 本质",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-123",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "下列关于行政处罚听证的说法中正确的有 ：",
+      "opts_count": 4,
+      "ans": "ABD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-124",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "F区水利局作出行政处罚后 ，R市某石业公司的下列做法中正确的有 ：",
+      "opts_count": 4,
+      "ans": "CD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-126",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "长三角医疗数字化转型的探索致力于解决 ( ) 的现实痛点。",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-127",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "材料中“病人足不出户 ，在床旁就享受到了优质医疗资源下沉服务”的个案包含了“便捷就医”的 ( ) 应用场景。",
+      "opts_count": 4,
+      "ans": "ABC"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-128",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "长三角医疗数字化转型的前提条件为 ：",
+      "opts_count": 4,
+      "ans": "AC"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-129",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "材料中 ，“长三角 (上海) 智慧互联网医院 … … 已逐渐实现与6家三甲医院的‘对接’ ，并向下辐射到青浦区内3家医疗",
+      "opts_count": 4,
+      "ans": "BC"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2023-130",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanghai_2023.json",
+      "content": "从材料中可以推断 ，长三角一体化示范区数字医疗发展的方向为 ：",
+      "opts_count": 4,
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-changshi-2023-069",
+      "file": "src\\data\\xingce\\changshi\\provincial_shanxi_2023.json",
+      "content": "甲乙两地间的纵横道路网如下图所示，若从甲地到乙地沿道路铺设电缆，要使铺设的电 缆长度最短，则电缆经过丙地的概率为：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2021-006",
+      "file": "src\\data\\xingce\\changshi\\provincial_sichuan_2021.json",
+      "content": "组织是经设计以达到某种特定目标的社会群体，下列关于组织的判断正确的是：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2023-089",
+      "file": "src\\data\\xingce\\changshi\\provincial_sichuan_2023.json",
+      "content": "以下饼图中，最能准确反映 2020 年信息技术服务实现收入中，电子商务平台技术服务收 入（黑色）、云服务、大数据服务收入",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-changshi-2023-054",
+      "file": "src\\data\\xingce\\changshi\\provincial_tianjin_2023.json",
+      "content": "为了避讳，古代君王的名字在说话或行文中不能直接说出或写出，而以改字、缺字等办法处理。下列 说法不符合这一避讳原则的是：",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2022-014",
+      "file": "src\\data\\xingce\\changshi\\provincial_zhejiang_2022.json",
+      "content": "某品牌果汁饮料的配料表为：水、橙浓缩汁、木糖醇、山梨酸、维生素C、羧甲基纤维素钠、黄原胶、姜黄、 食用香精。下列关于该饮",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-057",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_a.json",
+      "content": "期待受挫是指阅读中读者的预估和期盼受阻产生的心理反应。读者本来根据自身的阅读经验和审美趣味等， 对于阅读文本有预先的估计",
+      "opts_count": 2,
+      "ans": "A"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-065",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_a.json",
+      "content": "铁锹、镐头等是常用的农具。铁锹是一种扁平长方形半圆尖头的适于用脚踩入地中翻土的农具；铁锨是铲 砂、土等大型的工具，用铝铁",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-073",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_a.json",
+      "content": "火之于（ ）相当于（ ）之于光阴",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-c-063",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_c.json",
+      "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+      "opts_count": 4,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-c-064",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_c.json",
+      "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+      "opts_count": 4,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-070",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "标化死亡比简称 SMR，以全人口发病死亡率作为标准，得出观察人群的预期发病死亡人数，再求观察人群 中实际发病死亡数与预期",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-091",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "下面这段文字最可能位于文中哪个位置？ 由于算法具有技术门槛，很多时候出现问题难以追责，造成伤害无从补偿。如何让数据分析系",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-078",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_c.json",
+      "content": "（ ）对于流感相当于滑坡对于（ ）：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-078",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_e.json",
+      "content": "拥堵对于（ ）相当于（ ）对于防控。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-063",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_c.json",
+      "content": "以下为纸盒的外表面展开图，问哪一个折叠成的纸盒和其他三个不一样？",
+      "opts_count": 2,
+      "ans": "A"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-e-097",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_e.json",
+      "content": "张阿姨的儿子最近总是愁眉苦脸、唉声叹气，以前感兴趣的游戏、运动都提不起兴趣，所以张阿姨带儿子 去医院就诊，去医院后，医生",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-096",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_c.json",
+      "content": "实验步骤（1）中最为合适的顺序是（ ）。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-e-068",
+      "file": "src\\data\\xingce\\panduan\\institution_2024_e.json",
+      "content": "物理治疗指的是康复治疗的个体使用包括声、光、冷、热、电、力（运动和压力）等物理因子进行治疗，针 对治疗个体局部或全身性的",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2023-079",
+      "file": "src\\data\\xingce\\panduan\\provincial_anhui_2023.json",
+      "content": "代表性启发，是指在使用启发法时，首先会考虑借鉴要判断的事件本身或同类事件以往的经验，即以往出 现的结果；可得性启发，是指",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2023-098",
+      "file": "src\\data\\xingce\\panduan\\provincial_chongqing_2023.json",
+      "content": "心脏是被神经系统控制的，调控心脏的神经是交感神经和迷走神经。安静状态下，迷走神经对心脏的调控 比较强，心跳每分钟 75 ",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2023-082",
+      "file": "src\\data\\xingce\\panduan\\provincial_fujian_2023.json",
+      "content": "情绪智力是指个体察觉、处理自我及他人情绪，并利用情绪信息指导行动的能力。 根据上述定义，下列属于情绪智力的是：",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hebei-xingce-panduan-2022-110",
+      "file": "src\\data\\xingce\\panduan\\provincial_hebei_2022.json",
+      "content": "欧洲杯比赛期间，小赵、小钱、小孙、小李预测甲、乙两支队伍能否进入决赛。他们的对话如下： 小赵：如果甲进入决赛，则乙也能进",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hubei-xingce-panduan-2020-085",
+      "file": "src\\data\\xingce\\panduan\\provincial_hubei_2020.json",
+      "content": "错觉是完全不符合刺激本身特征的失真的或扭曲事实的知觉经验，生活中，凭知觉经验所作的解释显然是失 真的，甚至是错误的。幻觉",
+      "opts_count": 3,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-panduan-2022-070",
+      "file": "src\\data\\xingce\\panduan\\provincial_jiangsu_2022.json",
+      "content": "（单选题）专项训练∶短期训练∶综合训练",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-panduan-2022-110",
+      "file": "src\\data\\xingce\\panduan\\provincial_jiangsu_2022.json",
+      "content": "（单选题）骑楼：指底层沿街面后退且留出公共人行空间的建筑物。 下列建筑物不属于骑楼的是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jilin-xingce-panduan-2020-070",
+      "file": "src\\data\\xingce\\panduan\\provincial_jilin_2020.json",
+      "content": "错觉是完全不符合刺激本身特征的失真的或扭曲事实的知觉经验，生活中，凭知觉经验所作的解释显然是失 真的，甚至是错误的。幻觉",
+      "opts_count": 3,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jilin-xingce-panduan-2023-070",
+      "file": "src\\data\\xingce\\panduan\\provincial_jilin_2023.json",
+      "content": "假说是根据已观察到的事实和已有的科学原理，对尚未认识到的现象的性质或发生原因作出的推测性 解释。依据提出假说的目的不同，",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2020-085",
+      "file": "src\\data\\xingce\\panduan\\provincial_liaoning_2020.json",
+      "content": "（ ） 对于 世味年来薄似纱 相当于 达观 对于 （ ）",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-panduan-2023-020",
+      "file": "src\\data\\xingce\\panduan\\provincial_neimenggu_2023.json",
+      "content": "） 相当于 （ ） 对于 平整土地",
+      "opts_count": 2,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-panduan-2023-097",
+      "file": "src\\data\\xingce\\panduan\\provincial_neimenggu_2023.json",
+      "content": "近期的一项研究从机理上揭示了经常喝咖啡对大脑内在功能网络的影响。在实验中，研究人员将受试 者分为经常喝咖啡、偶尔喝咖啡和",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2024-080",
+      "file": "src\\data\\xingce\\panduan\\provincial_shandong_2024.json",
+      "content": "封闭性问题指具有标准答案的问题，这类问题除了标准答案之外的解答，均被认为是错误解答。 根据上述定义，下列属于封闭性问题的",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-057",
+      "file": "src\\data\\xingce\\panduan\\provincial_shanghai_2021.json",
+      "content": "某单位 2019 年初招聘了 8 名研发人员，他们都非常优秀。其中，小李、小孔和小陈 3 人研发小组表现尤其 突出。该团",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-070",
+      "file": "src\\data\\xingce\\panduan\\provincial_shanghai_2021.json",
+      "content": "甲到飞机场坐飞机，飞机场的十二个登机口排成一条直线，相邻两个登机口之间相距 50 米。甲在登机口等 待时被告知登机口更改",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2023-033",
+      "file": "src\\data\\xingce\\panduan\\provincial_shenzhen_2023.json",
+      "content": "（1）深入调查 （2）直播炫富 （3）定罪判刑 （4）舆论哗然 （5）网友举报",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2024-031",
+      "file": "src\\data\\xingce\\panduan\\provincial_shenzhen_2024.json",
+      "content": "（1）忌不自信，比美徐公 （2）亲见徐公，自视弗如 （3）遍问亲友，皆称忌美 （4）王令臣谏，国力益强 （5）入朝觐见，",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-panduan-2024-032",
+      "file": "src\\data\\xingce\\panduan\\provincial_shenzhen_2024.json",
+      "content": "（1）开启抱团揽才 （2）优质人才集聚 （3）成立引才联盟 （4）支撑长远发展 （5）政企高效协作",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-panduan-2020-032",
+      "file": "src\\data\\xingce\\panduan\\provincial_zhejiang_2020.json",
+      "content": "左边给定的是纸盒的外表面，右边哪一项能由它折叠而成？",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-072",
+      "file": "src\\data\\xingce\\shuliang\\institution_2020_a.json",
+      "content": "运河之于（ ）相当于词典之于（ ）",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-054",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_b.json",
+      "content": "2011-2019 年 Z 市接待国内游客数量同比增速不足 10%的年份有几个？：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-c-059",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_c.json",
+      "content": "2019 年 S 省本级科学技术科目下的科技支出占当年全省财政公共预算支出的比重在以下哪个范围内：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-e-049",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_e.json",
+      "content": "某企业排班调休，每名职工在下个星期的七天内随机安排两天休息，问职工小韩和小李被安排的休息日完 全相同的概率为（ ）。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-c-060",
+      "file": "src\\data\\xingce\\shuliang\\institution_2022_c.json",
+      "content": "以下折线图中，最能准确反映 B 市第二、三、四季度巡游出租车客运量环比增速变化趋势的是：",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2020-005",
+      "file": "src\\data\\xingce\\shuliang\\provincial_anhui_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特种 兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-anhui-xingce-shuliang-2020-006",
+      "file": "src\\data\\xingce\\shuliang\\provincial_anhui_2020.json",
+      "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%，那 么，该单位职工小张种",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-shuliang-2020-064",
+      "file": "src\\data\\xingce\\shuliang\\provincial_chongqing_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2020-059",
+      "file": "src\\data\\xingce\\shuliang\\provincial_gansu_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2020-063",
+      "file": "src\\data\\xingce\\shuliang\\provincial_gansu_2020.json",
+      "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%，那 么，该单位职工小张种",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2024-068",
+      "file": "src\\data\\xingce\\shuliang\\provincial_gansu_2024.json",
+      "content": "商店销售甲、乙、丙、丁四种商品，每件分别盈利15元、9元、4元和1元。某日销售这四种商品共40件，共盈 利201元。四种",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-shuliang-2020-047",
+      "file": "src\\data\\xingce\\shuliang\\provincial_guangxi_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-shuliang-2020-053",
+      "file": "src\\data\\xingce\\shuliang\\provincial_guangxi_2020.json",
+      "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%，那 么，该单位职工小张种",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-shuliang-2020-057",
+      "file": "src\\data\\xingce\\shuliang\\provincial_guizhou_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hainan-xingce-shuliang-2020-044",
+      "file": "src\\data\\xingce\\shuliang\\provincial_hainan_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hainan-xingce-shuliang-2021-056",
+      "file": "src\\data\\xingce\\shuliang\\provincial_hainan_2021.json",
+      "content": "100 亩实验田中种植了 A、B、C 三种作物，三种作物亩产量分别为 300、500 和 600 千克，总产量为 45 ",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hebei-xingce-shuliang-2022-069",
+      "file": "src\\data\\xingce\\shuliang\\provincial_hebei_2022.json",
+      "content": "清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副对 联既可以顺读也可以逆读",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2020-065",
+      "file": "src\\data\\xingce\\shuliang\\provincial_heilongjiang_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以 上特种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2020-071",
+      "file": "src\\data\\xingce\\shuliang\\provincial_heilongjiang_2020.json",
+      "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 ， 那么，该单位职工小张种植 3",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2021-067",
+      "file": "src\\data\\xingce\\shuliang\\provincial_heilongjiang_2021.json",
+      "content": "一辆垃圾转运车和一辆小汽车在一段狭窄的道路上相遇，必须其中一车倒车让道才能通过，已知小汽 车倒车的距离是转运车的 9 倍",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2023-064",
+      "file": "src\\data\\xingce\\shuliang\\provincial_heilongjiang_2023.json",
+      "content": "如果 3 个学生一起报名，且 3 个学生都通过科目一考试，那么就可以减免 1 个学生的报名费。他们 3 人不能通过科目一",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2024-070",
+      "file": "src\\data\\xingce\\shuliang\\provincial_heilongjiang_2024.json",
+      "content": "一盒中有10支晶体管，其中有2支次品，8支正品。现从中连取两次，每次取1支，取后不放回，则至少取到1支 次品的概率是：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-hubei-xingce-shuliang-2020-061",
+      "file": "src\\data\\xingce\\shuliang\\provincial_hubei_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2022-050",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jiangsu_2022.json",
+      "content": "（单选题） ， ， ， ， ，（ ）",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-shuliang-2020-063",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jiangxi_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jilin-xingce-shuliang-2023-059",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jilin_2023.json",
+      "content": "一辆大货车由 M 地匀速驶向相距 120 千米的 N 地，它的速度是 30 千米/小时，则该辆大货车与 N 地的 距离 ",
+      "opts_count": 3,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jilin-xingce-shuliang-2024-051",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jilin_2024.json",
+      "content": "一个不透明箱子里面有3个黑球，2个白球，第一次取走2个小球（无顺序）且不放回，第二次取出2个小球与第 一次相同的概率为：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-shuliang-2024-069",
+      "file": "src\\data\\xingce\\shuliang\\provincial_liaoning_2024.json",
+      "content": "一盒中有10支晶体管，其中有2支次品，8支正品。现从中连取两次，每次取1支，取后不放回，则至少取到1支 次品的概率是：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-shuliang-2020-062",
+      "file": "src\\data\\xingce\\shuliang\\provincial_neimenggu_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-shuliang-2020-061",
+      "file": "src\\data\\xingce\\shuliang\\provincial_ningxia_2020.json",
+      "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%， 那么，该单位职工小张种",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-038",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2021.json",
+      "content": "进入某比赛四强的选手通过抽签方式随机分成 2 组进行半决赛，已知小王在面对任何对手时获胜的概率都是 60%，小张在面对任",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-040",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2021.json",
+      "content": "X 千克甲盐水和 Y 千克乙盐水中的含盐量相同。将 X 千克乙盐水与 X 千克甲盐水混合，并蒸发掉 X 千克水之 后，得",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2021-041",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2021.json",
+      "content": "某围场的形状为边长 100 米的等边三角形，在场地正中修建一座信号塔，塔顶安装有效覆盖半径为 米的信号发射器。如要信号覆",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2022-044",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2022.json",
+      "content": "已知10个外观完全一样的产品中有1个是次品。如果从中随机选择3个，选中次品的概率为x%；每次随即选择1 个后放回，选择4",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2024-059",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2024.json",
+      "content": "某单位给车加油，可以用两种方式：第一种不考虑油价的升降，每次加200元的油；第二种也不考虑油价的升 降，每次加20升油。",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-shuliang-2020-048",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shanxi_2020.json",
+      "content": "南部某战区一个 10 人小分队里有 6 人是特种兵，某次突击任务需派出 5 人参战，若抽到 3 名或 3 名以上特 种兵",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2021-049",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2021.json",
+      "content": "现派出两个工作组对甲、乙、丙、丁和戊五个县的乡村振兴工作成果进行验收，要求每个工作组至少验收2个 县，且每个县由1个工作",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2024-055",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2024.json",
+      "content": "正方形水池ABCD的边长为80米。E点在AB边正中的正北30米处，F点在C点东偏南 方向，F点到C点距离为 米。甲从E点",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2021-006",
+      "file": "src\\data\\xingce\\shuliang\\provincial_xinjiang_2021.json",
+      "content": "20，21，23，26，31，（ ），",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2023-054",
+      "file": "src\\data\\xingce\\shuliang\\provincial_xinjiang_2023.json",
+      "content": "甲乙两地间的纵横道路网如下图所示，若从甲地到乙地沿道路铺设电缆，要使铺设的电缆长度最短，则电缆经 过丙地的概率为：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-053",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2022.json",
+      "content": "-9，6，3，12，27，（ ）",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-059",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2022.json",
+      "content": "清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副对 联既可以顺读也可以逆读",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-010",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2022.json",
+      "content": "为了加强环境治理和生态修复，某市派出4位专家（甲、乙、丙、丁）前往某山区3个勘探点进行环境检测，要 求每个勘探点至少安排",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-015",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2022.json",
+      "content": "清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副对 联既可以顺读也可以逆读",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-060",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2023.json",
+      "content": "某停车场有7个连成一排的空车位。现有3辆车随机停在这排车位中，则任意两辆车之间至少间隔一个 车位的概率为：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-066",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2023.json",
+      "content": "一只闹钟的秒针顶点距离表盘圆心4厘米，分针顶点距离表盘圆心3厘米。小王烧开一壶水的时间内， 秒针顶点累计移动了 厘米。那",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-yanyu-2022-e-039",
+      "file": "src\\data\\xingce\\yanyu\\institution_2022_e.json",
+      "content": "生息于刚果河盆地和坦噶尼喀湖的巨虎鱼，虽然只是一条鱼，却只有尼罗鳄能撼动它的霸主地位。它身形 巨大，满口利齿，简直是食人",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-yanyu-2021-056",
+      "file": "src\\data\\xingce\\yanyu\\provincial_heilongjiang_2021.json",
+      "content": "文学名篇精粹光润、千锤百炼、声情并茂、朗朗上口，具有久传远播的生命功能。一些属于上上品的 短小篇章，比如李白的《静夜思》",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-yanyu-2022-042",
+      "file": "src\\data\\xingce\\yanyu\\provincial_jiangsu_2022.json",
+      "content": "（单选题）下列说法与文意相符的是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-yanyu-2024-043",
+      "file": "src\\data\\xingce\\yanyu\\provincial_qinghai_2024.json",
+      "content": "到2030年，我国数字人整体市场规模将达2700亿元。数字人应用的多元拓展，得益于我国数字技术的不断进步 和产业布局的持",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2021-a-094",
+      "file": "src\\data\\xingce\\ziliao\\institution_2021_a.json",
+      "content": "在所有 2018 年进口额正增长的大类中，设 2018 年进口额增速最快和最慢的大类分别为甲和乙，则 2018 年",
+      "opts_count": 2,
+      "ans": "A"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2021-c-055",
+      "file": "src\\data\\xingce\\ziliao\\institution_2021_c.json",
+      "content": "以下折线图中，最能准确反映 2020 第三季度各月全国实用新型专利申请总授权数中，非职务专利申请授 权数占比变化趋势的是",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2023-e-060",
+      "file": "src\\data\\xingce\\ziliao\\institution_2023_e.json",
+      "content": "以下饼图反映了 2019 年全国娱乐场所、互联网上网服务营业场所、演出市场单位、艺术品经营机构和经营 性互联网文化单位哪",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-104",
+      "file": "src\\data\\xingce\\ziliao\\provincial_anhui_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-109",
+      "file": "src\\data\\xingce\\ziliao\\provincial_anhui_2024.json",
+      "content": "2022年，按运动项目划分场地数量之和最接近全国体育场地数量25%的是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-beijing-xingce-ziliao-2022-117",
+      "file": "src\\data\\xingce\\ziliao\\provincial_beijing_2022.json",
+      "content": "(单选题) 以下饼图中，最能准确反映 2020 年 7 月该行业销售（用白色表示）、 管理（用灰色表示）和财务（用黑色表",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2024-107",
+      "file": "src\\data\\xingce\\ziliao\\provincial_chongqing_2024.json",
+      "content": "表格所列国家中，2022年全球创新指数排名前五位国家的平均创新指数是：",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2024-105",
+      "file": "src\\data\\xingce\\ziliao\\provincial_guangxi_2024.json",
+      "content": "以下饼图中，最能准确反映2022年中国锂电池出货量中，储能锂电池、数码锂电池和动力锂电池占比关系的 是： （黑色：储能锂",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2024-099",
+      "file": "src\\data\\xingce\\ziliao\\provincial_guizhou_2024.json",
+      "content": "以下饼图中，最能准确反映2022年中国锂电池出货量中，储能锂电池、数码锂电池和动力锂电池占比关系的 是： （黑色：储能锂",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2021-104",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hainan_2021.json",
+      "content": "比较一线城市（北京、上海、广州、深圳），2019 年通勤高峰交通拥堵程度由重到轻依次是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2024-105",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hainan_2024.json",
+      "content": "以下饼图中，最能准确反映2022年中国锂电池出货量中，储能锂电池、数码锂电池和动力锂电池占比关系的 是： （黑色：储能锂",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hebei-xingce-ziliao-2024-123",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hebei_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2020-116",
+      "file": "src\\data\\xingce\\ziliao\\provincial_heilongjiang_2020.json",
+      "content": "2016 年，A 市直接经济价值年值占现代农业生态服务价值年值的比重为：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2020-123",
+      "file": "src\\data\\xingce\\ziliao\\provincial_heilongjiang_2020.json",
+      "content": "2019 年 5 月，平台受理量排名前五的行业占受理总数的比重约为：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-110",
+      "file": "src\\data\\xingce\\ziliao\\provincial_henan_2024.json",
+      "content": "以下柱状图中，最能准确反映2019年12月-2022年12月全国互联网普及率同比增量变化趋势的是（横轴位置代 表增量为0",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2024-115",
+      "file": "src\\data\\xingce\\ziliao\\provincial_henan_2024.json",
+      "content": "以下饼图中，最能准确反映2022年中国锂电池出货量中，储能锂电池、数码锂电池和动力锂电池占比关系的 是： （黑色：储能锂",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-109",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hubei_2024.json",
+      "content": "2022年，按运动项目划分场地数量之和最接近全国体育场地数量25%的是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-112",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hubei_2024.json",
+      "content": "表格所列国家中，2022年全球创新指数排名前五位国家的平均创新指数是：",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-123",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hubei_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-111",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangsu_2022.json",
+      "content": "（单选题）“十三五”时期，我国航天发射次数占全球的比重为",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-112",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangsu_2022.json",
+      "content": "（单选题）下列国家或地区中，2017—2020 年发射数量年均增速为负的是",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-114",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangsu_2022.json",
+      "content": "（单选题）下列饼图中，能正确反映对应年份中国、美国、俄罗斯及其他国家和地区航天器发射数量占 比关系的是",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-123",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangsu_2022.json",
+      "content": "（单选题）设 2020 年我国住房公积金实缴额、实缴余额、实缴职工人数、实缴单位数的增速分别为 、 、 、 ，则下列关系",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2024-114",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangsu_2024.json",
+      "content": "下列能够表示2022年我国直播电商行业三大平台交易额比例关系的示意图是：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2024-117",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangxi_2024.json",
+      "content": "表格所列国家中，2022年全球创新指数排名前五位国家的平均创新指数是：",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-ziliao-2024-120",
+      "file": "src\\data\\xingce\\ziliao\\provincial_liaoning_2024.json",
+      "content": "下面能够反映2023年J省深圳证券交易所第三季度各月证券当期成交金额环比增速的折线图是： 第21⻚，共22⻚ A.",
+      "opts_count": 2,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2020-106",
+      "file": "src\\data\\xingce\\ziliao\\provincial_neimenggu_2020.json",
+      "content": "2016 年，A 市直接经济价值年值占现代农业生态服务价值年值的比重为：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2020-107",
+      "file": "src\\data\\xingce\\ziliao\\provincial_neimenggu_2020.json",
+      "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是：",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2021-114",
+      "file": "src\\data\\xingce\\ziliao\\provincial_ningxia_2021.json",
+      "content": "比较一线城市（北京、上海、广州、深圳），2019 年通勤高峰交通拥堵程度由重到轻依次是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2024-115",
+      "file": "src\\data\\xingce\\ziliao\\provincial_ningxia_2024.json",
+      "content": "以下饼图中，最能准确反映2022年中国锂电池出货量中，储能锂电池、数码锂电池和动力锂电池占比关系的 是： （黑色：储能锂",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-ziliao-2024-102",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shaanxi_2024.json",
+      "content": "表格所列国家中，2022年全球创新指数排名前五位国家的平均创新指数是：",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2020-077",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shandong_2020.json",
+      "content": "以下饼图中，最能准确反映 2015 年不同机械结构的国产工业机器人销量分布状况的是（白色：多关节机器 人、斜线：坐标机器",
+      "opts_count": 3,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2020-084",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shandong_2020.json",
+      "content": "以下饼图中，能准确反映 2017 年末我国农林生物质发电项目（斜线）、生活垃圾焚烧发电项目（白色）和 沼气发电项目（黑色",
+      "opts_count": 3,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-081",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shandong_2022.json",
+      "content": "如果2021年我国第4季度注册养老相关企业的同比增长幅度与1-3季度相同，则2021年我国养老相关企业注册量 约为多少万",
+      "opts_count": 3,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-109",
+      "file": "src\\data\\xingce\\ziliao\\provincial_tianjin_2024.json",
+      "content": "2022年，按运动项目划分场地数量之和最接近全国体育场地数量25%的是：",
+      "opts_count": 2,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-yunnan-xingce-ziliao-2024-097",
+      "file": "src\\data\\xingce\\ziliao\\provincial_yunnan_2024.json",
+      "content": "2023年一季度，新疆外贸规模与增速均居前五的地州市有：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2022-072",
+      "file": "src\\data\\xingce\\ziliao\\provincial_zhejiang_2022.json",
+      "content": "下列年份中，在职职工参保人数同比增速大小排序错误的是：",
+      "opts_count": 2,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2024-104",
+      "file": "src\\data\\xingce\\ziliao\\provincial_zhejiang_2024.json",
+      "content": "下列饼图中，最能体现2021年上半年福利彩票中乐透数字型（灰色）、即开型（白色）、基诺型（斜线）占比 的是：",
+      "opts_count": 3,
+      "ans": "D"
+    }
+  ],
+  "stem_missing": [
+    {
+      "qid": "institution-xingce-changshi-2022-b-034",
+      "file": "src\\data\\xingce\\changshi\\institution_2022_b.json",
+      "content": "暂缺",
+      "ans": "A"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-e-016",
+      "file": "src\\data\\xingce\\changshi\\institution_2022_e.json",
+      "content": "年轻女性便秘的主要原因：",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-e-017",
+      "file": "src\\data\\xingce\\changshi\\institution_2022_e.json",
+      "content": "胡蜂蜇伤后错误的处理方式：",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-changshi-2022-e-019",
+      "file": "src\\data\\xingce\\changshi\\institution_2022_e.json",
+      "content": "以下不用急诊手术的是：",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-beijing-xingce-changshi-2022-031",
+      "file": "src\\data\\xingce\\changshi\\provincial_beijing_2022.json",
+      "content": "(多选题) 货币的职能包括：",
+      "ans": "ABCD"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2020-083",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2020.json",
+      "content": "， ， ， ，（ ）",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-105",
+      "file": "src\\data\\xingce\\changshi\\provincial_guizhou_2023.json",
+      "content": "不能从上述资料中推出的是：",
+      "ans": "AD"
+    },
+    {
+      "qid": "provincial-henan-xingce-changshi-2023-115",
+      "file": "src\\data\\xingce\\changshi\\provincial_henan_2023.json",
+      "content": "不能从上述资料中推出的是：",
+      "ans": "AD"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2023-114",
+      "file": "src\\data\\xingce\\changshi\\provincial_zhejiang_2023.json",
+      "content": "下列诗句与端午节有关的是：",
+      "ans": "C"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-068",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_a.json",
+      "content": "劫富济贫：凶多吉少（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_a.json",
+      "content": "物理：光线：衍射（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_e.json",
+      "content": "高铁∶服务指南",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-072",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_e.json",
+      "content": "计算器∶搅拌机",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-e-073",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_e.json",
+      "content": "灾害∶预警∶损失",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-066",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_a.json",
+      "content": "信息∶资源",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-068",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_a.json",
+      "content": "胶卷∶光盘",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-a-070",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_a.json",
+      "content": "摘要∶毕业论文",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "锤打：盆浴",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-072",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "荷塘：莲藕",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-073",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "信息：资源",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-074",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "摘要：毕业论文",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-b-076",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_b.json",
+      "content": "民警∶军人∶法官",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-c-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_c.json",
+      "content": "立柱：承重",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_e.json",
+      "content": "荷塘：莲藕",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2021-e-073",
+      "file": "src\\data\\xingce\\panduan\\institution_2021_e.json",
+      "content": "胶卷：光盘",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-066",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_a.json",
+      "content": "风扇：风",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-072",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_a.json",
+      "content": "字宙：星系：行星",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-b-081",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_b.json",
+      "content": "申报：查验：放行",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-075",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_c.json",
+      "content": "衣服：裙带：亲戚",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-c-076",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_c.json",
+      "content": "申报：查验：放行",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-e-076",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_e.json",
+      "content": "申报：查验：放行",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_b.json",
+      "content": "柳烟：云海",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-b-077",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_b.json",
+      "content": "佛像：佛龛：佛窟",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-073",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_c.json",
+      "content": "崇仁爱：守诚信",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-074",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_c.json",
+      "content": "房屋：浇筑：榫卯",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-c-075",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_c.json",
+      "content": "提纲：初稿：终稿",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-072",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_e.json",
+      "content": "柳烟：云海",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-073",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_e.json",
+      "content": "杂乱：井井有条",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2023-e-075",
+      "file": "src\\data\\xingce\\panduan\\institution_2023_e.json",
+      "content": "提纲：初稿：终稿",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-b-077",
+      "file": "src\\data\\xingce\\panduan\\institution_2024_b.json",
+      "content": "鸟鸣：谷应",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-071",
+      "file": "src\\data\\xingce\\panduan\\institution_2024_c.json",
+      "content": "鸟鸣：谷应（ ）",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-072",
+      "file": "src\\data\\xingce\\panduan\\institution_2024_c.json",
+      "content": "晶体：食盐（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-c-074",
+      "file": "src\\data\\xingce\\panduan\\institution_2024_c.json",
+      "content": "大气：磁场：极光（ ）",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-e-075",
+      "file": "src\\data\\xingce\\panduan\\institution_2024_e.json",
+      "content": "浏览：截屏：分享",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-anhui-xingce-panduan-2024-068",
+      "file": "src\\data\\xingce\\panduan\\provincial_anhui_2024.json",
+      "content": "泡沫经济：实体经济：通货膨胀",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-panduan-2024-090",
+      "file": "src\\data\\xingce\\panduan\\provincial_chongqing_2024.json",
+      "content": "泡沫经济：实体经济：通货膨胀",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-fujian-xingce-panduan-2024-093",
+      "file": "src\\data\\xingce\\panduan\\provincial_fujian_2024.json",
+      "content": "政治家：文学家：思想家",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-panduan-2024-083",
+      "file": "src\\data\\xingce\\panduan\\provincial_guangxi_2024.json",
+      "content": "政治家：文学家：思想家",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-hebei-xingce-panduan-2024-097",
+      "file": "src\\data\\xingce\\panduan\\provincial_hebei_2024.json",
+      "content": "泡沫经济：实体经济：通货膨胀",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2024-090",
+      "file": "src\\data\\xingce\\panduan\\provincial_heilongjiang_2024.json",
+      "content": "简繁转换：繁转简：简转繁",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-henan-xingce-panduan-2024-071",
+      "file": "src\\data\\xingce\\panduan\\provincial_henan_2024.json",
+      "content": "政治家：文学家：思想家",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-hunan-xingce-panduan-2021-090",
+      "file": "src\\data\\xingce\\panduan\\provincial_hunan_2021.json",
+      "content": "洪涝∶干旱∶防洪抗旱",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-hunan-xingce-panduan-2024-093",
+      "file": "src\\data\\xingce\\panduan\\provincial_hunan_2024.json",
+      "content": "政治家：文学家：思想家",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2024-085",
+      "file": "src\\data\\xingce\\panduan\\provincial_liaoning_2024.json",
+      "content": "陶瓷杯：玻璃杯：咖啡杯",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-liaoning-xingce-panduan-2024-089",
+      "file": "src\\data\\xingce\\panduan\\provincial_liaoning_2024.json",
+      "content": "简繁转换：繁转简：简转繁",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-ningxia-xingce-panduan-2024-077",
+      "file": "src\\data\\xingce\\panduan\\provincial_ningxia_2024.json",
+      "content": "政治家：文学家：思想家",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-panduan-2024-091",
+      "file": "src\\data\\xingce\\panduan\\provincial_qinghai_2024.json",
+      "content": "泡沫经济：实体经济：通货膨胀",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2021-057",
+      "file": "src\\data\\xingce\\panduan\\provincial_shandong_2021.json",
+      "content": "水生动物：卵生动物",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2022-060",
+      "file": "src\\data\\xingce\\panduan\\provincial_shandong_2022.json",
+      "content": "瓷器：瓷土：彩绘瓷",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-panduan-2023-062",
+      "file": "src\\data\\xingce\\panduan\\provincial_shandong_2023.json",
+      "content": "文学：古代文学：古代小说",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-059",
+      "file": "src\\data\\xingce\\panduan\\provincial_shanghai_2021.json",
+      "content": "下列（",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-panduan-2024-095",
+      "file": "src\\data\\xingce\\panduan\\provincial_shanxi_2024.json",
+      "content": "泡沫经济：实体经济：通货膨胀",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-panduan-2024-074",
+      "file": "src\\data\\xingce\\panduan\\provincial_sichuan_2024.json",
+      "content": "政治家：军事家：曹操",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2021-097",
+      "file": "src\\data\\xingce\\panduan\\provincial_xinjiang_2021.json",
+      "content": "成绩：合格：升学",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-panduan-2024-096",
+      "file": "src\\data\\xingce\\panduan\\provincial_xinjiang_2024.json",
+      "content": "泡沫经济：实体经济：通货膨胀",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-066",
+      "file": "src\\data\\xingce\\shuliang\\institution_2020_a.json",
+      "content": "计算器∶搅拌机（ ）",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2020-a-068",
+      "file": "src\\data\\xingce\\shuliang\\institution_2020_a.json",
+      "content": "灾害∶预警∶损失（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-071",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_b.json",
+      "content": "牙刷∶刷牙",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-072",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_b.json",
+      "content": "青年∶画家",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-073",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_b.json",
+      "content": "敲山∶震虎",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-075",
+      "file": "src\\data\\xingce\\shuliang\\institution_2021_b.json",
+      "content": "学习∶脱产∶自主",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-066",
+      "file": "src\\data\\xingce\\shuliang\\institution_2022_a.json",
+      "content": "素描：橡皮",
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-068",
+      "file": "src\\data\\xingce\\shuliang\\institution_2022_a.json",
+      "content": "沙发椅：玻璃窗",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-a-070",
+      "file": "src\\data\\xingce\\shuliang\\institution_2022_a.json",
+      "content": "衣服：裙带：亲戚",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-c-050",
+      "file": "src\\data\\xingce\\shuliang\\institution_2022_c.json",
+      "content": "题目缺失",
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2020-047",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jiangsu_2020.json",
+      "content": "2， ， ，10， ，（ ）",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2024-049",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jiangsu_2024.json",
+      "content": "， ，9，18， ，（ ）",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-004",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shenzhen_2020.json",
+      "content": "， ， ，2，（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-shuliang-2020-009",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shenzhen_2020.json",
+      "content": "0， ， ，1，1，（ ）",
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-002",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2022.json",
+      "content": "， ，2，2，（ ）",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2023-054",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2023.json",
+      "content": "2，2，2， ， ，（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2024-054",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2024.json",
+      "content": "9，18， ， ， ，（ ）",
+      "ans": "D"
+    },
+    {
+      "qid": "institution-xingce-yanyu-2023-b-044",
+      "file": "src\\data\\xingce\\yanyu\\institution_2023_b.json",
+      "content": "暂缺",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shandong-xingce-yanyu-2025-038",
+      "file": "src\\data\\xingce\\yanyu\\provincial_shandong_2025.json",
+      "content": "题干缺失",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shandong-xingce-yanyu-2025-040",
+      "file": "src\\data\\xingce\\yanyu\\provincial_shandong_2025.json",
+      "content": "题干缺失",
+      "ans": "C"
+    },
+    {
+      "qid": "institution-xingce-ziliao-2020-e-055",
+      "file": "src\\data\\xingce\\ziliao\\institution_2020_e.json",
+      "content": "能够从上述资料中推出的是：",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-ziliao-2024-115",
+      "file": "src\\data\\xingce\\ziliao\\provincial_qinghai_2024.json",
+      "content": "能够从上述资料推出的是：",
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-120",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shandong_2024.json",
+      "content": "不能从上述资料中推出的是：",
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2021-090",
+      "file": "src\\data\\xingce\\ziliao\\provincial_sichuan_2021.json",
+      "content": "能够从上述资料中推出的是：",
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2023-115",
+      "file": "src\\data\\xingce\\ziliao\\provincial_zhejiang_2023.json",
+      "content": "能够从上述资料中推出的是：",
+      "ans": "C"
+    }
+  ],
+  "options_minimal": [
+    {
+      "qid": "institution-xingce-changshi-2022-e-005",
+      "file": "src\\data\\xingce\\changshi\\institution_2022_e.json",
+      "content": "根据相关法规，关于网络直播营销，下列说法错误的是：",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "institution-xingce-changshi-2023-c-013",
+      "file": "src\\data\\xingce\\changshi\\institution_2023_c.json",
+      "content": "关于卫星通信，下列说法错误的是（ ）。",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2020-077",
+      "file": "src\\data\\xingce\\changshi\\provincial_guangdong_2020.json",
+      "content": "商场销售某种型号的冰箱，上半年的利润率为 ，由于下半年的进货价格下降 ，商场决定适 当下调销售价格，但调整后下半年的利润",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-changshi-2021-006",
+      "file": "src\\data\\xingce\\changshi\\provincial_heilongjiang_2021.json",
+      "content": "下列选项在习近平总书记发表的 2021 年新年贺词中，没有提到的是：",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-changshi-2021-012",
+      "file": "src\\data\\xingce\\changshi\\provincial_heilongjiang_2021.json",
+      "content": "下列关于第七次全国人口普查工作有关表述不正确的是：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jilin-xingce-changshi-2023-016",
+      "file": "src\\data\\xingce\\changshi\\provincial_jilin_2023.json",
+      "content": "关于中国茶，下列说法正确的是：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-changshi-2022-009",
+      "file": "src\\data\\xingce\\changshi\\provincial_neimenggu_2022.json",
+      "content": "下列关于伟大科学工程的说法，正确的是：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-changshi-2023-017",
+      "file": "src\\data\\xingce\\changshi\\provincial_neimenggu_2023.json",
+      "content": "新时代十年来，我国航天和深空探测领域取得重大成就。关于我国在这一领域中的国际地位，下列说 法不正确的是：",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-changshi-2022-019",
+      "file": "src\\data\\xingce\\changshi\\provincial_zhejiang_2022.json",
+      "content": "在日常生活中，长期来看下列杯子的使用方法对人体最没有危害的是： .用不锈钢杯喝碳酸饮料 B",
+      "opts_count": 1,
+      "ans": "A"
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-085",
+      "file": "src\\data\\xingce\\panduan\\institution_2020_a.json",
+      "content": "以下除哪项外，均能支持反方观点？（ ）",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-panduan-2022-a-056",
+      "file": "src\\data\\xingce\\panduan\\institution_2022_a.json",
+      "content": "穿衣指数是指根据自然环境对人体感觉温度影响最大的几项气象条件（如天空状况、气温、湿度、风 力等），提醒人们根据周围温度升",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-panduan-2021-082",
+      "file": "src\\data\\xingce\\panduan\\provincial_heilongjiang_2021.json",
+      "content": "音爆是飞行器在突破音障时，由于对空气的压缩无法迅速传播，会逐渐形成激波面，激波面上高度集 中的声学能量引起巨大响声，让人",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-panduan-2023-088",
+      "file": "src\\data\\xingce\\panduan\\provincial_neimenggu_2023.json",
+      "content": "生物刺激是通过采用可促进微生物繁殖与生长的手段，来增加本土微生物活动从而增强土壤对污染物 降解能力的一种技术。生物强化是",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2020-089",
+      "file": "src\\data\\xingce\\panduan\\provincial_shanghai_2020.json",
+      "content": "将上海市的 中外合作企业、 中外合资企业和 外商独资企业按 2018 年全年进出口贸易总额同比 增量从高到低排列，正确的",
+      "opts_count": 1,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-056",
+      "file": "src\\data\\xingce\\panduan\\provincial_shanghai_2021.json",
+      "content": "赵、钱、孙、李、周、吴打算组队参加创新创业大赛。大赛规定一个团队必须为三位选手，赵说：“钱和李 肯定不能组成一队。钱说：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "institution-xingce-shuliang-2022-c-049",
+      "file": "src\\data\\xingce\\shuliang\\institution_2022_c.json",
+      "content": "水质实验室已有烧杯和三角瓶的数量比为 7:4，若再买进若干个烧杯，这时烧杯与三角瓶的数量比变成 3:1， 接着又买进相同",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-gansu-xingce-shuliang-2023-057",
+      "file": "src\\data\\xingce\\shuliang\\provincial_gansu_2023.json",
+      "content": "某学院有新生两百多人，将学生从1开始依次编号，选取编号为3的倍数的学生，正好构成新生运动会开幕式方 队，选取编号为m（3",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-shuliang-2020-041",
+      "file": "src\\data\\xingce\\shuliang\\provincial_guangdong_2020.json",
+      "content": "某企业四月的营业额比三月的营业额多三分之一，五月的营业额比四月多三分之一，则三月的营业额比五 月的营业额少：",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guangdong-xingce-shuliang-2024-032",
+      "file": "src\\data\\xingce\\shuliang\\provincial_guangdong_2024.json",
+      "content": "1，11，23，33，45，55，67，（ ）",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-guangxi-xingce-shuliang-2024-050",
+      "file": "src\\data\\xingce\\shuliang\\provincial_guangxi_2024.json",
+      "content": "c地为a、b两地直线道路上的一点，甲、乙两人9：00分别自a、b两地同时出发匀速相向而行，甲的速度是乙的 1.5倍，甲9",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-shuliang-2024-068",
+      "file": "src\\data\\xingce\\shuliang\\provincial_heilongjiang_2024.json",
+      "content": "某商家购进一批商品，每件成本为27元，最初将商品定价为每件40元，该商家经过百分率相等的连续两次降价 后，每件商品的利润",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-henan-xingce-shuliang-2024-037",
+      "file": "src\\data\\xingce\\shuliang\\provincial_henan_2024.json",
+      "content": "一个半径300米的圆形湖泊中有一个半径100米的圆形人工岛，该人工岛的中心在湖泊中心的正西方150米处。 甲从湖正北的A",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-shuliang-2022-052",
+      "file": "src\\data\\xingce\\shuliang\\provincial_jiangsu_2022.json",
+      "content": "（单选题）如图所示，考古队在 B 和 C 两处发现重要遗址，根据对周边环境考察，确定以 A 和 D 为顶点划 出一个正方",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2024-051",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2024.json",
+      "content": "山东手造精品众多，某展览会有叶雕、皮影、风筝、麦秸画、柳编、葫芦画、锡雕、鲁班枕8个展厅。因时间 原因，一名参观者决定从",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-shandong-xingce-shuliang-2024-055",
+      "file": "src\\data\\xingce\\shuliang\\provincial_shandong_2024.json",
+      "content": "若干职员参加某次强国知识竞赛，每人的得分均不相同且为整数，分数排名相邻的2人分差均为5分。已知有3 人成绩低于70分，且",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2021-053",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2021.json",
+      "content": "某工厂原有甲工种的人数是乙工种人数的2倍，由于公司扩大产能，又招聘了甲、乙两个工种的工人，且新招 聘的甲工种人数是新招聘",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-041",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2022.json",
+      "content": "某年级有甲、乙、丙三个班级，三个班级的期末考试平均成绩分别为 70 分、88 分和 74 分。若甲班和乙班的平均成绩为 ",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-043",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2022.json",
+      "content": "从甲地到乙地全程为 9 千米。其中前1/6为下坡路；剩下路程中，前2/3为平路，后1/3为 上坡路。小张从甲地到乙地，下",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-045",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2022.json",
+      "content": "张某参加甲、乙、丙三门课程的网络在线培训，培训学时分别为 28 学时、36 学时、40 学时。已知每门课程每天最多学习 ",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-048",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2022.json",
+      "content": "甲、乙、丙 3 名消费者在某餐厅排队，各自拿取两位数字的等位号。已知 3 个等位号的 个位数字和十位数字恰好由 1、2、",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-049",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2022.json",
+      "content": "商场 6 月 6 日开始销售某种电器，从 6 月 7 日起，每天这种电器的销量都比前一天多 1 台。已知 6 月 16 ",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-sichuan-xingce-shuliang-2022-050",
+      "file": "src\\data\\xingce\\shuliang\\provincial_sichuan_2022.json",
+      "content": "甲、乙两名游泳运动员同时从下游 A 点出发，游向 900 米外的上游 B 点并立刻原路返回。 甲游了 200 米时，乙游",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-shuliang-2024-056",
+      "file": "src\\data\\xingce\\shuliang\\provincial_xinjiang_2024.json",
+      "content": "一个机器零部件的三视图如下图所示。为防生锈，要给其内部以及外表面均匀涂抹机油，若零件厚度忽略不 计，则涂抹机油的面积为多",
+      "opts_count": 1,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2022-057",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2022.json",
+      "content": "为了加强环境治理和生态修复，某市派出4位专家（甲、乙、丙、丁）前往某山区3个勘探点进行环境检测，要 求每个勘探点至少安排",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2024-052",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2024.json",
+      "content": "3，6，15，39，102，267，（ ）",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-shuliang-2024-056",
+      "file": "src\\data\\xingce\\shuliang\\provincial_zhejiang_2024.json",
+      "content": "时钟的分针顶点距离圆心5厘米，现在时间为7：30，那么接下来时针和分针第三次成直角的时候，分针顶点走 过的长度累计为多少",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-qinghai-xingce-yanyu-2024-041",
+      "file": "src\\data\\xingce\\yanyu\\provincial_qinghai_2024.json",
+      "content": "伴随着城市化快速发展的步伐，今天的少年儿童与乡土田园渐行渐远。如何开展既符合时代特色又“接地 气”的耕读教育？这道“考题",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-anhui-xingce-ziliao-2024-102",
+      "file": "src\\data\\xingce\\ziliao\\provincial_anhui_2024.json",
+      "content": "相比2021年，2022年我国十个品种再生资源回收重量降幅超过10%的有：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2023-106",
+      "file": "src\\data\\xingce\\ziliao\\provincial_chongqing_2023.json",
+      "content": "图 1 中相较于 2012 年，11 个沿海省市海水冷却用水量实现翻一番的年份首次出现在：",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2024-111",
+      "file": "src\\data\\xingce\\ziliao\\provincial_chongqing_2024.json",
+      "content": "相比2021年，2022年我国十个品种再生资源回收重量降幅超过10%的有：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2024-113",
+      "file": "src\\data\\xingce\\ziliao\\provincial_chongqing_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-heilongjiang-xingce-ziliao-2024-109",
+      "file": "src\\data\\xingce\\ziliao\\provincial_heilongjiang_2024.json",
+      "content": "2021年，中国外贸总值比2013年多： 第18⻚，共20⻚ A.不到2.1万亿美元",
+      "opts_count": 1,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2024-121",
+      "file": "src\\data\\xingce\\ziliao\\provincial_hubei_2024.json",
+      "content": "相比2021年，2022年我国十个品种再生资源回收重量降幅超过10%的有：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2020-006",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangsu_2020.json",
+      "content": "2 个百分点，比上海高 9.7 个百分点，比浙江高 5.7 个百分点，比山东高 4.4 个百分点，比福建高 8.7 个百",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-124",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangxi_2023.json",
+      "content": "下列折线图中，最能准确反映2013~2021年全国城市人均日生活用水量同比增长率变化情况的是：",
+      "opts_count": 1,
+      "ans": "A"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2023-129",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangxi_2023.json",
+      "content": "图1中2012～2021年期间海水冷却用水量年增量高于2012～2021年期间全国海水冷却用水量年平均增长量的年 份共有",
+      "opts_count": 1,
+      "ans": "C"
+    },
+    {
+      "qid": "provincial-jiangxi-xingce-ziliao-2024-128",
+      "file": "src\\data\\xingce\\ziliao\\provincial_jiangxi_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-ziliao-2024-113",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shaanxi_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2022-087",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shandong_2022.json",
+      "content": "以下折线图中，能准确反映该市2015-2018年社会消费品零售总额同比增量变化趋势的是：",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-shanxi-xingce-ziliao-2024-118",
+      "file": "src\\data\\xingce\\ziliao\\provincial_shanxi_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-111",
+      "file": "src\\data\\xingce\\ziliao\\provincial_tianjin_2024.json",
+      "content": "相比2021年，2022年我国十个品种再生资源回收重量降幅超过10%的有：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-tianjin-xingce-ziliao-2024-113",
+      "file": "src\\data\\xingce\\ziliao\\provincial_tianjin_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 1,
+      "ans": "D"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-ziliao-2024-111",
+      "file": "src\\data\\xingce\\ziliao\\provincial_xinjiang_2024.json",
+      "content": "相比2021年，2022年我国十个品种再生资源回收重量降幅超过10%的有：",
+      "opts_count": 1,
+      "ans": "B"
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-ziliao-2024-113",
+      "file": "src\\data\\xingce\\ziliao\\provincial_xinjiang_2024.json",
+      "content": "按2022年我国十个品种再生资源回收重量从大到小进行排序，以下哪个折线图能准确反映排名前5位再生资源 同比增量的变化趋势",
+      "opts_count": 1,
+      "ans": "D"
+    }
+  ]
+}

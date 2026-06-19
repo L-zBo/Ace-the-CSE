@@ -1,0 +1,540 @@
+[
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "截至2022年12月，我国20岁以上网民人数是20岁以下网民人数的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到3倍"
+      },
+      {
+        "label": "B",
+        "content": "3-4倍之间"
+      },
+      {
+        "label": "C",
+        "content": "4-5倍之间"
+      },
+      {
+        "label": "D",
+        "content": "5倍以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题干“截至2022 年12 月······是······的”，结合材料时间为2022 年12 月，\n且选项为倍数，可判定本题为现期倍数问题。定位文字材料第二段可得：2022 年12 月，我国20-29\n岁、30-39 岁、40-49 岁网民占比分别为14.2%、19.6%和16.7%；50 岁及以上网民群体占比由2021\n年12 月的26.8%提升至30.8%。则截至2022 年12 月，我国20 岁以上网民人数占比\n=14.2%+19.6%+16.7%+30.8%=81.3% ，20 岁以下网民人数占比=1-81.3%=18.7% ，则题干所求\n，在C 项范围内。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2024年省考hainan行测第96题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "根据上述材料，截止2022年12月我国网民使用上网前3位的设备是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "手机、台式电脑、笔记本电脑"
+      },
+      {
+        "label": "C",
+        "content": "手机、电视、台式电脑"
+      },
+      {
+        "label": "B",
+        "content": "手机、笔记本电脑、平板电脑"
+      },
+      {
+        "label": "D",
+        "content": "电视、台式电脑、平板电脑"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】\n定位文字材料第一段可知：截止2022 年12 月，我国网民使用手机上网的比例达99.8%，使用电视\n上网的比例为25.9%，使用台式电脑、笔记本电脑、平板电脑上网的比例分别为34.2%、32.8%和28.5%。\n故截止2022 年12 月我国网民使用上网前3 位的设备是：手机（99.8%）、台式电脑（34.2%）、笔\n记本电脑（32.8%）。\n故正确答案为A。\n\n2024 海南省公务员《行测》解析\n\n 智库，获取\n 33 / 36\n\n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2024年省考hainan行测第97题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2019-2022年，当年12月我国城镇与农村互联网普及率同比增量相差在1个百分点以内的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据题干“2019-2022 年，当年12 月······同比增量······”，可判定本题为增长量\n计算问题。定位统计图可知2018 年12 月-2022 年12 月我国城镇与农村互联网的普及率。根据公式：\n增长量=现期量-基期量，则2019-2022 年，当年12 月我国城镇与农村互联网普及率同比增量差值分\n别为： \n2019 年：\n，不满足； \n2020 年：\n，不满足； \n2021 年：\n，满足； \n2022 年：\n，不满足。 \n综上可知，2019-2022 年，当年12 月我国城镇与农村互联网普及率同比增量相差在1 个百分点以内\n的年份仅有1 个（2021 年）。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第98题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "以下信息中，能够从上述资料中推出的有几项？ ①2022年12月我国手机网民人数同比增量 ②2021年12月我国线上办公用户占网民整体的比重",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n①定位文字材料第一段可得：截止2022 年12 月，我国网民规模约为10.67 亿，较2021 年12 月新\n增网民约3549 万；我国网民使用手机上网的比例达99.8%，较2021 年12 月增加0.1 个百分点。根\n据公式：部分量=整体量×比重，增长量=现期量-基期量，可得题干所求=[10.67×99.8%-（10.67-\n0.3549）×（99.8%-0.1%）]亿，可以推出； \n②定位文字材料第一段可得：截止2022 年12 月，我国网民规模约为10.67 亿，较2021 年12 月新\n增网民约3549 万；定位文字材料第三段可得：2022 年12 月，线上办公用户规模约达5.4 亿，较\n2021 年12 月增加7078 万户。根据公式：比重\n，可得题干所求\n，\n可以推出； \n③定位文字材料第一段可得：截止2022 年12 月，我国农村网民规模约为3.08 亿；定位文字材料第\n三段可得：2022 年12 月，互联网医疗用户规模约达3.63 亿，农村地区互联网医疗用户占农村网民\n整体的21.5%。根据公式：部分量=整体量×比重，可得农村地区互联网医疗用户规模=（3.08×21.5%）\n亿，则题干所求=（3.63-3.08×21.5%）亿，可以推出。 \n综上可知，能够推出的有3 项。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第99题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-100",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "以下柱状图中，最能准确反映2019年12月-2022年12月全国互联网普及率同比增量变化趋势的是（横轴位置代 表增量为0）：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······最能准确反映2019年12月-2022年12月全国互联网普及率同比增量变化趋势的是······”，可判定本题为增长量比较问题。定位统计图可知2018年12月-2022年12月全国互联网普及率。根据公式：增长量=现期量-基期量，则2019年12月-2022年12月全国互联网普及率同比增量分别为：\n2019年12月：64.5%-59.6%=4.9%，即同比增长4.9个百分点；\n2020年12月：70.4%-64.5%=5.9%，即同比增长5.9个百分点；\n2021年12月：73.0%-70.4%=2.6%，即同比增长2.6个百分点；\n2022年12月：75.6%-73.0%=2.6%，即同比增长2.6个百分点。\n观察可知，同比增量呈先上升再下降最后相等的趋势，且2020年12月与2019年12月同比增量仅相差1个百分点，与C项变化趋势一致。\n故正确答案为C。\n\n[来源 baijing1.top paperId=566 sort=100 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第100题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-101",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2019-2022年，中国数码锂电池年均出货量在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到45GWh"
+      },
+      {
+        "label": "B",
+        "content": "45-47GWh之间"
+      },
+      {
+        "label": "C",
+        "content": "47-49GWh之间"
+      },
+      {
+        "label": "D",
+        "content": "49GWh以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题干“2019-2022 年······年均······在以下哪个范围内”，结合材料时间为\n2019-2022 年，可判定本题为现期平均数问题。定位统计图可得：2019-2022 年中国数码锂电池出货\n量分别为：36.5GWh、46.2GWh、53.5GWh、48.0GWh。则2019-2022 年中国数码锂电池年均出货量为\nGWh，在B 项范围内。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2024年省考hainan行测第101题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-102",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2019-2022年，中国锂电池年出货量超过全球锂电池年出货量一半的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n定位统计表和统计图可知：2019-2022 年全球锂电池出货量和中国各类型锂电池出货量。故各年份中\n国锂电池出货量分别为：2019 年，9.5+36.5+71.0=117.0GWh；2020 年，16.2+46.2+80.0=142.4GWh；\n2021 年47.7+53.5+226.0=327.2GWh。定位文字材料第一段可知：2022 年中国锂电池出货量658GWh。\n若想找出中国锂电池年出货量＞(全球锂电池年出货量/2)的年份，则需找出中国锂电池年出货量×2>\n全球锂电池年出货量的年份。比较可知：2019 年，117.0×2=234GWh>218GWh ；2020 年，\n142.4×2=284.8GWh<294.5GWh ；2021\n年，327.2×2=654.4GWh>562.4GWh ；2022\n年，\n658×2=1316GWh>957.7GWh。满足题意的有：2019 年、2021 年、2022 年，共3 个年份。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2024年省考hainan行测第102题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-103",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2021年，全球动力锂电池装车量约为多少GWh？",
+    "options": [
+      {
+        "label": "A",
+        "content": "271.5"
+      },
+      {
+        "label": "B",
+        "content": "295.6"
+      },
+      {
+        "label": "C",
+        "content": "301.4"
+      },
+      {
+        "label": "D",
+        "content": "323.6"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题干“2021 年······约为多少GWh”，结合材料时间为2022 年，可判定本题为基期计算\n问题。定位文字材料可得：2022 年中国动力锂电池装车量达294.6GWh，同比增长90.7%，高于全球\n同比增速18.9 个百分点，占全球动力锂电池装车量的56.9%。根据公式：整体=部分/比重，则2022\n年全球动力锂电池装车量为\nGWh。根据公式：基期量\n，结合2022 年全\n球动力锂电池装车量同比增速为90.7%-18.9%=71.8%，则题干所求为\nGWh，与C 项最接近。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2024年省考hainan行测第103题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-104",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "在以下信息中，能够从上述资料中推出的有几项？ ①2019-2022年，中国储能锂电池出货量年均增速为3类锂电池中最快 ②2019-2022年，中国锂电池出货量逐年增加 ③2019-2022年，中国数码锂电池年出货量同比增速逐年下降 ④2022年，中国新能源汽车产量同比增速慢于2021年水平",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n①定位统计图可得，2019 年中国储能锂电池、数码锂电池、动力锂电池出货量分别为9.5GWh、36.5GWh、\n71.0GWh；2022 年三者出货量分别为130.0GWh、48.0GWh、480.0GWh。根据年均增长率公式：\n，当年份差n 相同时，直接比较\n即可。储能锂电池：\n；\n数码锂电池：\n；动力锂电池：\n，比较可得储能锂电池出货量年均增速最\n\n2024 海南省公务员《行测》解析\n\n 智库，获取\n 35 / 36\n\n快，正确；\n②定位文字材料可得，2022 年中国锂电池出货量658GWh；定位统计图可得2019-2021 年中国锂电池\n出货量。2019-2022 年中国锂电池出货量分别为：9.5+36.5+71.0=117GWh、16.2+46.2+80.0=142.4GWh、\n47.7+53.5+226.0=327.2GWh、658GWh。比较可得2019-2022 年，中国锂电池出货量逐年增加，正确；\n③定位统计图可得2019-2022 年中国数码锂电池年出货量，但材料未给出2018 年相关数据，无法计\n算2019 年同比增速，故无法判断2020 年的增速是否较2019 年下降，错误；\n④定位统计表可得，2020-2022 年中国新能源汽车产量分别为146 万辆、368 万辆、722 万辆。比较\n增速大小时，当\n，可直接比较\n，则2021 年：\n；2022 年：\n。\n即2022 年中国新能源汽车产量同比增速慢于2021 年水平，正确。\n综上所述，说法正确的有3 个。\n故正确答案为C。\n\n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第104题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-105",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "以下饼图中，最能准确反映2022年中国锂电池出货量中，储能锂电池、数码锂电池和动力锂电池占比关系的 是： （黑色：储能锂电池 白色：数码锂电池 斜杠：动力锂电池） B. C. D. （三） 2023年前5个月，天津口岸出口汽车约17.2万辆，同比增长29.5%，总价值约100.1亿元人民币，同比增长 40.2%。 2023年前5个月，汽车出口带动天津口岸整体出口同比增加。汽车出口占同期天津口岸出口商品总值的 2.2%，较上年同期提升0.3个百分点。1~5月民营企业出口活力明显，民营企业出口约10.6万辆，同比增长 64.3%，占同期天津口岸汽车出口总量的61.6%，占比较上年同期提升13个百分点。新能源汽车出口成为新的增 长点，出口约11万辆，同比增长50.2%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“······最能准确反映2022年······占比关系的是”，结合材料时间为2022年，可判定本题为现期比重问题。定位统计图可得：2022年中国储能锂电池出货量为130.0GWh，数码锂电池出货量为48.0GWh，动力锂电池出货量为480.0GWh；定位文字材料可得：2022年中国锂电池出货量658GWh。根据公式：比重，则在2022年中国锂电池出货量中，动力锂电池出货量占比，A项中动力锂电池出货量占比为75%，C项中超过75%，排除A、C两项；储能锂电池出货量（130.0GWh）是数码锂电池出货量（48.0GWh）的2倍多，B项两部分占比相近，排除B项，D项当选。\n故正确答案为D。\n\n[来源 baijing1.top paperId=566 sort=105 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第105题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2023年1-5月，天津口岸出口汽车均价同比上涨为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8%"
+      },
+      {
+        "label": "B",
+        "content": "12%"
+      },
+      {
+        "label": "C",
+        "content": "16%"
+      },
+      {
+        "label": "D",
+        "content": "20%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2023年1-5月······均价同比上涨为”，结合选项为百分数，可判定本题为平均数的增长率问题。定位文字材料第一段可得：2023年前5个月，天津口岸出口汽车约17.2万辆，同比增长29.5%（b），总价值约100.1亿元人民币，同比增长40.2%（a）。根据公式：平均数的增长率，则2023年1-5月，天津口岸出口汽车均价同比上涨，结合选项，只有A项满足。\n故正确答案为A。\n\n[来源 baijing1.top paperId=566 sort=106 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第106题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2023年1~5月，民营企业出口汽车同比约增加了多少万辆？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······同比约增加了多少万辆”，可判定本题为增长量计算问题。定位文字材料第二段可得：2023年1~5月，民营企业出口汽车约10.6万辆，同比增长64.3%。根据公式：增长量，则题干所求万辆。\n故正确答案为B。\n\n[来源 baijing1.top paperId=566 sort=107 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第107题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2022年1~5月，天津口岸出口新能源汽车约占天津口岸出口汽车的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "46%"
+      },
+      {
+        "label": "B",
+        "content": "50%"
+      },
+      {
+        "label": "C",
+        "content": "55%"
+      },
+      {
+        "label": "D",
+        "content": "64%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2022年1~5月······占······”，结合材料时间为2023年前5个月，可判定本题为基期比重问题。定位文字材料第一段可知：2023年前5个月，天津口岸出口汽车约17.2万辆（B），同比增长29.5%（b）。定位文字材料第二段可知：2023年前5个月，天津口岸出口新能源汽车约11万辆（A），同比增长50.2%（a）。根据公式：基期比重，则所求比重。\n故正确答案为C。\n\n[来源 baijing1.top paperId=566 sort=108 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第108题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "2023年1~5月，天津口岸出口汽车平均单价同比增长率最大的月份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1月"
+      },
+      {
+        "label": "B",
+        "content": "2月"
+      },
+      {
+        "label": "C",
+        "content": "4月"
+      },
+      {
+        "label": "D",
+        "content": "5月"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······平均单价同比增长率最大······”，可以判定本题为平均数的增长率问题。定位表格可得2023年1~5月天津口岸汽车出口值的同比增速（a）和出口车辆数的同比增速（b），根据公式：平均数的增长率，则2023年1~5月天津口岸出口汽车平均单价同比增长率分别为：1月，；2月，； 4月，；5月，。比较可知，2023年1~5月天津口岸出口汽车平均单价同比增长率最大的月份是2月。\n故正确答案为B。\n\n[来源 baijing1.top paperId=566 sort=109 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第109题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-ziliao-2024-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "在以下信息中，能够从上述资料中推出的有几项？ ①2022年1~5月，天津口岸汽车出口量最大的是3月 ②2023年1~5月，民营企业月均通过天津口岸出口汽车2万辆以上 ③2023年2月，天津口岸出口汽车平均单价高于1月水平 ④2022年1~5月，汽车出口总价值占天津口岸出口商品总值的2%以下",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "①定位统计表可知2023年1~5月各月天津口岸出口车辆数及其同比增速。根据公式：基期量=现期量/（1+增长率），可比较2022年1~5月天津口岸汽车出口量，最大的是5月，并非3月，错误。\n②定位文字材料第二段可知，2023年前5个月民营企业出口汽车约10.6万辆，月均约10.6/5=2.12万辆，超过2万辆，正确。\n③定位统计表可知，2023年1月天津口岸出口车辆29105辆，车辆出口值151198.7万元；2月天津口岸出口车辆22785辆，车辆出口值161250.2万元。根据平均单价=出口值/出口量，2月分子更大、分母更小，因此2月平均单价高于1月，正确。\n④定位文字材料第二段可知，2023年前5个月汽车出口占同期天津口岸出口商品总值的2.2%，较上年同期提升0.3个百分点，则2022年1~5月汽车出口总价值占天津口岸出口商品总值的2.2%-0.3%=1.9%<2%，正确。\n综上，能够推出的有②③④，共3项。故正确答案为C。\n\n[PDF 题源缺失-D17e] E-3 vision 侦查确认: 海南原PDF p020 q110为征集占位。D17补救时以同一资料组跨卷回填：海南2024第106-109题与宁夏2024第101-104题、甘肃2024第111-114题的天津口岸出口汽车材料及题序一致；宁夏2024第105题、甘肃2024第115题提供完整同题题干、选项、答案和解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2024年省考hainan行测第110题",
+    "region": "hainan",
+    "meta": {
+      "verifiedMissingBy": "E3-vision-D17e",
+      "verifiedAt": "2026-05-24",
+      "rescuedBy": "CrossPaper-Xingguang-D17",
+      "rescuedAt": "2026-06-04",
+      "rescueEvidence": [
+        "data/tmp_xg_hainan_2024.txt:919-939",
+        "data/tmp_xg_ningxia_2024.txt:878-906",
+        "data/tmp_xg_gansu_2024.txt:961-995",
+        "src/data/xingce/ziliao/provincial_ningxia_2024.json:105",
+        "src/data/xingce/ziliao/provincial_gansu_2024.json:115"
+      ]
+    }
+  }
+]

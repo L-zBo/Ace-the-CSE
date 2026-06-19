@@ -1,0 +1,354 @@
+[
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公路隧道长 1500 米，一辆公共汽车匀速从隧道通过，测得公共汽车从开始进入隧道到车身完全驶出 隧道用时 151 秒，整辆公共汽车完全在隧道里的时间为 149 秒，则公共汽车的车身长度和行驶速度分别为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8 米；5 米/秒"
+      },
+      {
+        "label": "B",
+        "content": "10 米；10 米/秒"
+      },
+      {
+        "label": "C",
+        "content": "10 米；15 米/秒"
+      },
+      {
+        "label": "D",
+        "content": "12 米；20 米/秒"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设公共汽车的长度为 L，速度为 v，根据火车过桥公式，完全通过桥时：\n\n；完全在\n\n桥上时：\n①+②可得 v=10 米/秒，将其代入①可得 L=10 米。\n\n。代入数据得：1500+L=v×151······①， 1500-L=v×149······②，\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第56题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "19 个不同的正整数从小到大排序，总和为 191，则最大的数只能取：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18"
+      },
+      {
+        "label": "B",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "C",
+    "explanation": "15\n\n\f根据等差数列求和公式，最小的 19 个不同正整数（1-19）总和\n\n，要想\n\n19 个不同正整数总和为 191，只需求和时将 1-19 中最大的数 19 换为成 20 即可。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第57题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "12 某企业有职工 240 人，其中 50 岁以上共有 60 人。该企业规定 50 岁以上的职工可以申请退休。为保持 总体规模不变，拟按职工总数 10%的比例引进高级技术工人，则 50 岁以上职工申请退休的比例为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "45%"
+      },
+      {
+        "label": "B",
+        "content": "40%"
+      },
+      {
+        "label": "C",
+        "content": "30%"
+      },
+      {
+        "label": "D",
+        "content": "25%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "“为保持总体规模不变，拟按职工总数 10%的比例引进高级技术工人”，可得退休人数=引进人数=240\n\n×10%=24 人。则 50 岁以上职工申请退休的比例\n\n。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第58题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "抛掷两颗质地均匀的骰子，记录向上的面出现的数字，那么这两个数字之和等于 8 的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "总情况数：抛掷质地均匀的骰子，朝上的数字有1-6共6种情况，所以抛掷两颗质地均匀的骰子，两个数字的排列顺序共6×6=36种情况。\n满足要求的情况数：抛掷两颗质地均匀的骰子，两个数字之和等于8，有（2，6）（3，5）（4，4）（5，3）（6，2）共5种情况。则所求概率。\n故正确答案为A。\n\n[来源 baijing1.top paperId=692 sort=59 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第59题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2023/q059.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某口罩生产车间一月份生产口罩 100 万包，以后每个月都比前一个月按相同增长率增长，四月份生产 口罩 133.1 万包，这个增长率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10%"
+      },
+      {
+        "label": "B",
+        "content": "8%"
+      },
+      {
+        "label": "C",
+        "content": "6%"
+      },
+      {
+        "label": "D",
+        "content": "5%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设每月比前一个月的增长率为 r，根据公式：现期量\n。代入 A 项：\n\n化简为\n\n，可列式：\n\n，\n\n，满足条件且为唯一解。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第60题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学校组织学生分组参观红色教育基地，租赁了若干辆客车。其中，一辆大型客车可容纳 5 个小组， 一辆中型客车可容纳 3 个小组，大型客车比中型客车多容纳 16 个小组，那么至少租赁了大型客车和中型客 车各多少辆？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3；5"
+      },
+      {
+        "label": "B",
+        "content": "5；3"
+      },
+      {
+        "label": "C",
+        "content": "4；3"
+      },
+      {
+        "label": "D",
+        "content": "5；6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设租赁大型客车 x 辆，中型客车 y 辆，根据“大型客车比中型客车多容纳 16 个小组”，可得 5x-3y=16。\n方法一：把选项代入条件中验证：\nA 项：若 x=3，y=5，则 5x-3y=0，不满足条件，排除；\nB 项：若 x=5，y=3，则 5x-3y=16，满足所有条件，当选；\nC 项：若 x=4，y=3，则 5x-3y=11，不满足条件，排除；\nD 项：若 x=5，y=6，则 5x-3y=7，不满足条件，排除。\n方法二：x、y 均为整数，故 5x 尾数只能为 0 或 5，分情况讨论：\n当 5x 尾数为 0 时，解得 3y=5x-16 的尾数为 4，y 最小为 8，此时 x=8，无对应选项；\n当 5x 尾数为 5 时，解得 3y=5x-16 的尾数为 9，y 最小为 3，此时 x=5，对应 B 项。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第61题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "冬奥会短道速滑比赛，有 3 个国家 4 名运动员参加比赛，其中 2 名中国运动员，已知中国运动员始终 处于领滑位置，则运动员的排序共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "12 种"
+      },
+      {
+        "label": "B",
+        "content": "16 种"
+      },
+      {
+        "label": "C",
+        "content": "18 种"
+      },
+      {
+        "label": "D",
+        "content": "20 种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，从 2 名中国运动员中抽出 1 名使其处于领滑位置，情况数为\n\n，剩余的 3 名运动员全\n\n排列，情况数为\n\n，则运动员的排序共有 2×6=12 种。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第62题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "712934856 是一个包含 1 至 9 每个数字恰好一次的九位数，它具有以下特征：数字 1 至 6 在其中是从小 到大排列的，但是数字 1 至 7 不是从小到大排列的。则符合这种特征的九位数共有多少个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "336"
+      },
+      {
+        "label": "C",
+        "content": "432 13"
+      },
+      {
+        "label": "D",
+        "content": "504"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：根据“数字 1 至 6 在其中是从小到大排列的”，可知 1 至 6 这 6 个数字的排列顺序为 1 种；\n第二步：将数字 7 插入第一步六个数字产生的 7 个空里，由“数字 1 至 7 不是从小到大排列的”可得\n\n数字 7 不能放在数字 6 之后，因此只有 6 个空可以用，有 6 种情况；\n\n第三步：将数字 8 插入第二步七个数字产生的 8 个空里，有 8 种情况；\n第四步：将数字 9 插入第三步八个数字产生的 9 个空里，有 9 种情况；\n分步用乘法，因此总情况数=1×6×8×9=432。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第63题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "美术培训班有 3 名学员，他们的年龄满足以下条件：他们的年龄都是正整数；2 号学员的年龄是 1 号学 员年龄的一半；3 号学员比 2 号学员大 7 岁；3 名学员的年龄之和是不超过 70 的素数，且该素数的各位数 字之和为 13，那么这 3 位学员的年龄分别是多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12；6；13"
+      },
+      {
+        "label": "B",
+        "content": "20；10；17"
+      },
+      {
+        "label": "C",
+        "content": "24；12；19"
+      },
+      {
+        "label": "D",
+        "content": "30；15；22"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题为年龄问题，且选项给出三人具体年龄，优先考虑代入排除法。根据“3 名学员的年龄之和是不超\n\n过 70 的素数，且该素数的各位数字之和为 13”逐一代入选项。\n\nA 项，年龄之和为 12+6+13=31 岁，年龄和各位数字加和为 3+1=4≠13，排除；\nB 项，年龄之和为 20+10+17=47 岁，年龄和各位数字加和为 4+7=11≠13，排除；\nC 项，年龄之和为 24+12+19=55 岁，不是素数，排除；\nD 项，年龄之和为 30+15+22=67 岁，小于 70 岁且为素数，年龄和各位数字加和为 6+7=13，当选。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第64题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-shuliang-2023-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "向截面为如下形状的高为 H 的水杯内等速注水，直到注满为止，则杯中水量 v 与水深 h 的函数图像是 下图中哪一个？（四个选项中坐标系横轴表示水深 h，纵轴表示水量 v）",
+    "options": [
+      {
+        "label": "A",
+        "content": "函数图 h 随 v 的变化为先快后慢；"
+      },
+      {
+        "label": "B",
+        "content": "函数图 h 随 v 的变\n化为先慢后快；"
+      },
+      {
+        "label": "C",
+        "content": "函数图为 h 随 v 的增加而增加；"
+      },
+      {
+        "label": "D",
+        "content": "函数图为 h 随 v 的增加而减少。故只有 A 项符合题\n意。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "观察水杯可知，水杯上面较宽，下面较窄。由于等速注水，所以随水量 v 增加，截面积与高成反比，\n水杯截面越大，水深 h 变化越慢。观察选项，A 项函数图 h 随 v 的变化为先快后慢；B 项函数图 h 随 v 的变\n化为先慢后快；C 项函数图为 h 随 v 的增加而增加；D 项函数图为 h 随 v 的增加而减少。故只有 A 项符合题\n意。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第65题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2023/q065.png"
+  }
+]

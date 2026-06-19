@@ -1,0 +1,703 @@
+[
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年全球贸易总额约为多少万亿美元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "28"
+      },
+      {
+        "label": "B",
+        "content": "33"
+      },
+      {
+        "label": "C",
+        "content": "40"
+      },
+      {
+        "label": "D",
+        "content": "75"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题干“2016 年全球贸易总额”，结合材料“占全球贸易总额的\n\n”，可判定此题为现期比重问题。\n\n定位文字材料，“对外贸易总额（\n\n）约为 71885.6 亿美元，占全球贸易总额的\n\n”，可得，\n\n2016 年全球贸易总额\n\n。\n\n- 23 -\n\n\f故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第116题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年“一带一路”沿线国家中，东欧 20 国的人均 GDP 约是中亚 5 国的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.5"
+      },
+      {
+        "label": "B",
+        "content": "3.6"
+      },
+      {
+        "label": "C",
+        "content": "5.3"
+      },
+      {
+        "label": "D",
+        "content": "11.7"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干“2016 年······是······的多少倍”，材料已知时间为 2016 年，可判定此题为现期\n倍数问题。定位统计表：“东欧 20 国的人口为 32161.9 万人，GDP 为 26352.1 亿美元，中亚 5 国的人口为 6946.7\n\n万人，GDP 为 2254.7 亿美元”，可得，东欧 20 国的\n\n，中亚 5 国的\n\n，故 2016 年“一带一路”沿线国家中，东欧 20 国的人均 GDP 约是中亚 5 国的\n\n故正确答案为 A。\n\n倍，与 A 项最为接近。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第117题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "“一带一路”沿线主要区域中，2016 年进口额与出口额数值相差最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东南亚11 国"
+      },
+      {
+        "label": "B",
+        "content": "南亚8 国"
+      },
+      {
+        "label": "C",
+        "content": "西亚、北非19 国"
+      },
+      {
+        "label": "D",
+        "content": "东欧20 国"
+      }
+    ],
+    "answer": "D",
+    "explanation": "定位统计表，东南亚 11 国进口额与出口额数值差\n\n亿美元；南亚 8 国进口额与\n\n出口额数值差\n\n亿美元；西亚、北非 19 国进口额与出口额数值差\n\n亿美元；东欧 20 国进口额与出口额数值差\n带一路”沿线主要区域中，2016 年进口额与出口额数值相差最大的是东欧 20 国，D 项符合。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第118题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年，蒙古 GDP 约占全球总体 GDP 的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.61‰"
+      },
+      {
+        "label": "B",
+        "content": "1.56‰"
+      },
+      {
+        "label": "C",
+        "content": "0.06‰"
+      },
+      {
+        "label": "D",
+        "content": "0.16‰"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题干“2016 年，蒙古约占全球······”，可判定本题为现期比重问题。\n定位表格第一行，“蒙古 GDP 为 116.5 亿美元”；定位文字材料第一段，“2016 年，‘一带一路’沿线 64 个国\n\n亿美元；故“一\n\n家 GDP 之和约为 12.0 万亿美元，占全球 GDP 的\n\n”。可知，\n\n，则 2016\n\n年蒙古 GDP 约占全球 GDP 总体的比重\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第119题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "关于“一带一路”沿线国家 2016 年状况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "超过六成人口集中在南亚地区"
+      },
+      {
+        "label": "B",
+        "content": "东南亚和南亚国家 GDP 之和占全球的 8%以上"
+      },
+      {
+        "label": "C",
+        "content": "平均每个南亚国家对外贸易额超过 1000 亿美元"
+      },
+      {
+        "label": "D",
+        "content": "平均每个东欧国家的进口额高于平均每个西亚、北非国家的进口额 （二）根据以下资料，回答下列 5 题。 C、西亚、北非 19 国 D、东欧 20 国 B、1.56‰ D、0.16‰ C、0.06‰ - 14 - B、63%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位表格第三行，南亚 8 国人口为 174499.0 万人；定位文字材料第一段，“一带一路”人口总数约\n\n。\n\n为 32.1 亿人，则南亚人口占“一带一路”总人口比重为\n一路”沿线国家的六成，错误。\nB 项：定位表格第二、第三行，东南亚和南亚国家 GDP 分别为 25802.2 亿美元、29146.6 亿美元。定位文字材料\n\n，则南亚人口未超过“一带\n\n第一段：“2016 年‘一带一路’沿线 64 个国家 GDP 之和约为 12.0 万亿美元，占全球 GDP 的\n\n”，东南亚和\n\n南亚国家 GDP 占“一带一路”沿线国家的比重\n\n，即东南亚和南亚国家 GDP\n\n之和占全球的比重小于\nC 项：定位表格第三行，南亚 8 国的进口额与出口额分别为 4724.1 亿美元、3308.5 亿美元，则平均每个南亚国\n\n，错误。\n\n家对外贸易额\n\n亿美元，正确。\n\nD 项：定位表格最后两行，平均每个东欧国家的进口额\n\n，平均每个西亚、北非国家\n\n的进口额\n错误。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第120题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年在线旅游市场交易规模约比上年增加了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "132%"
+      },
+      {
+        "label": "B",
+        "content": "63%"
+      },
+      {
+        "label": "C",
+        "content": "104%"
+      },
+      {
+        "label": "D",
+        "content": "37%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题干“2016 年比上年增加了……”且选项为百分数，可判定本题为一般增长率问题。定位表格材料可知，\n\n。即平均每个东欧国家的进口额低于平均每个西亚、北非国家的进口额，\n\n在线旅游市场交易规模 2015 年为 4487.2 亿元，2016 年为 6138.0 亿元。根据公式\n\n，2016 年在\n\n线旅游市场交易规模约比上年增加了\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第121题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2015 年第四季度在线餐饮外卖市场交易规模占全年交易规模的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "21%"
+      },
+      {
+        "label": "B",
+        "content": "28%"
+      },
+      {
+        "label": "C",
+        "content": "37%"
+      },
+      {
+        "label": "D",
+        "content": "49%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干所求“2015 年……占……比重”，结合材料，可判定此题为基期比重问题。定位图形材料，2016\n\n，只有 D 项符合。\n\n年第一季度在线餐饮外卖市场交易规模为 231.1 亿元，环比增速\n交易规模 530.6 亿元。可计算出，2015 年第四季度在线餐饮外卖市场交易规模占全年交易规模的比重约为\n\n，表格材料中，2015 年在线餐饮外卖市场\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第122题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "如按 2016 年移动出行市场同比增长趋势估算，2018 年该市场规模将为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "接近5000 亿元"
+      },
+      {
+        "label": "B",
+        "content": "6000 多亿元"
+      },
+      {
+        "label": "C",
+        "content": "8000 多亿元"
+      },
+      {
+        "label": "D",
+        "content": "超过1 万亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干所求“如按 2016 年……同比增长趋势估算，2018 年……”，可判定此题为现期计算问题。定位\n表格材料，2015 年移动出行市场交易规模为 999.0 亿元，2016 年移动出行市场交易规模为 2038.0 亿元。可计算\n\n，B 项最接近。\n\n出，2016 年移动出行市场增长率为\n\n，2018 年该市场规模将为\n\n- 24 -\n\n\f亿元。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第123题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "以下哪项最能准确描述 2016 年生活服务电商市场中，三个不同细分市场交易规模同比增量的比例关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由题干“同比增量的比例关系”，可判定本题为增长量的计算问题。定位图表可知，2016 年，在线餐饮外\n\n卖市场的同比增量为\n\n亿元；移动出行市场同比增量为\n\n亿元；在线旅游市\n\n场同比增量为\n，即最大的增量小于另外两者之和，且三者之\n前不存在明显倍数关系。分析选项，A、B 项最大的比另两个加和还大，排除；D 项第二大是第三大的几倍，不满\n足，排除。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第124题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2018_fushengjia/q124.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015～2016 年在线旅游市场总规模超过 1 万亿元"
+      },
+      {
+        "label": "B",
+        "content": "2016 年每个季度的在线餐饮外卖市场环比增量都高于 100 亿元"
+      },
+      {
+        "label": "C",
+        "content": "2016 年移动出行市场月均交易规模比 2015 年高 100 多亿元"
+      },
+      {
+        "label": "D",
+        "content": "2016 年下半年在线餐饮外卖市场规模比上半年高 1 倍以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项：定位表格，2016 年，在线旅游市场规模为 6138 亿元，2015 年，在线旅游市场规模为 4487.2 亿元，\n\n亿元。\n\n2015～2016 年在线旅游市场总规模为\n\n亿元，正确；\n\nB 项：定位图表，2016 年在线餐饮外卖市场交易规模第一季度为 231.1 亿元，环比增长率为\n\n，故\n\nC 项：定位表格可得，2016 年移动出行市场交易规模为 2038 亿元，2015 年移动出行市场交易规模为 999 亿元。\n\n，错误；\n\n故 2016 年移动出行市场月均交易规模比 2015 年高：\nD 项：2016 年下半年在线餐饮外卖市场规模比上半年高 1 倍以上，即下半年是上半年的 2 倍多，定位图表 ，下\n\n亿元，错误；\n\n半年市场规模为\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第125题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年，佛山市平均每个公园的面积约为多少公顷？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干“2016 年……佛山市平均每个公园……”，可判定此题为现期平均数问题。定位表格材料，佛山市\n\n亿元，上半年为\n\n倍，错误。\n\n亿元，\n\n公园个数 202 个，公园面积 2033 公顷。故 2016 年，佛山市平均每个公园的面积\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第126题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年，全国公园绿地面积约为多少万公顷？",
+    "options": [
+      {
+        "label": "A",
+        "content": "200"
+      },
+      {
+        "label": "B",
+        "content": "640"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "64"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题干“2016 年，全国公园绿地面积……”以及文字材料“……占全国公园绿地面积比重约为……”可判\n\n。\n\n定此题为现期比重问题。定位文字材料可知，2016 年，广东公园绿地面积 89591 公顷，占全国比重约为 。故\n\n2016 年，\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第127题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "表中公园面积大于公园绿地面积的城市有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位表格材料可知，\n\n，最接近 D 选项 64 万公顷。\n\n；\n\n，\n\n其余均为\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第128题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年，杭州公园数量约占浙江省公园总数的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "19%"
+      },
+      {
+        "label": "B",
+        "content": "15%"
+      },
+      {
+        "label": "C",
+        "content": "27%"
+      },
+      {
+        "label": "D",
+        "content": "23%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干“2016 年，……约占……的比重”，可判定此题为现期比重问题。定位文字材料，浙江省公园数量\n\n。一共两个城市满足条件。\n\n1171 个；定位表格材料，杭州公园数量 217 个，故\n\n，最接近 A\n\n选项 。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第129题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "关于表中城市公园数量及面积，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "平均每个公园面积最大的城市是深圳"
+      },
+      {
+        "label": "C",
+        "content": "昆明市公园数量多于云南其他城市公园数量之和 （四）根据以下资料，回答下列 5 题。"
+      },
+      {
+        "label": "B",
+        "content": "公园绿地面积最大的城市，其公园面积排第 3"
+      },
+      {
+        "label": "D",
+        "content": "珠海和佛山两市公园面积之和为 400 多公顷"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位表格材料，深圳公园面积为 21955 公顷，深圳公园个数为 911 个，故\n\n；南京公园面积为 7122 公顷，公园个数 127 个，故\n\n，因此\n\n，深圳并不是最大，错\n\n误；\nB 项：定位表格材料，公园绿地面积最大的城市是广州，公园面积排序为：深圳(21955)、东莞(14493)、南京(7122)、\n广州(5193)……，广州排名第四，不是第三，错误；\nC 项：定位文字材料，云南公园数量为 683 个；定位表格，昆明市公园数量为 463 个，所以云南其他城市公园数\n\n量为\n\n，即昆明市公园数量多于云南其他城市公园数量之和，正确；\n\nD 项：定位表格材料，珠海公园面积为 2792 公顷、佛山公园面积 2033 公顷，故两市公园面积之和为\n约为 4000 多公顷，不是 400 多，错误。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第130题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2016 年末全国手持船舶订单较同年 2 月末：",
+    "options": [
+      {
+        "label": "A",
+        "content": "降低16.2%"
+      },
+      {
+        "label": "B",
+        "content": "降低2.2%"
+      },
+      {
+        "label": "C",
+        "content": "增加16.2%"
+      },
+      {
+        "label": "D",
+        "content": "增加2.2%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干“2016 年末…较同年 2 月末”，选项为增加/降低百分数，可判定此题为一般增长率计算问题。根\n\n，\n\n据材料第一段“(2017 年)2 月末手持船舶订单 9207 万载重吨，同比下降\n\n，比 2016 年末下降\n\n”可知，\n\n现期量 2016 年末手持船舶订单为\n\n万载重吨，基期量 2016 年 2 月末手持船舶订单为\n\n万载重吨。\n\n- 25 -\n\n\f代入增长率公式：\n\n，则\n\n，因此增速为降\n\n低\n。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第131题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "设 2017 年 1～2 月出口船完工量占全国造船完工量比重为 X，同期出口船承接订单量占全国承接新船订单 量比重为 Y，2 月末手持出口船订单量占全国手持船舶订单量比重为 Z，则有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "X>Y>Z"
+      },
+      {
+        "label": "B",
+        "content": "X>Z>Y"
+      },
+      {
+        "label": "C",
+        "content": "Y>X>Z"
+      },
+      {
+        "label": "D",
+        "content": "Y>Z>X"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题干“…占…的比重为…”，可判定本题为比重问题。定位材料第一段可知，“2017 年 1~2 月，全国造\n船完工 936 万载重吨……承接新船订单 221 万载重吨……2 月末，手持船舶订单 9207 万载重吨”。定位材料第\n二段可知，“2017 年 1~2 月，全国完工出口船 907 万载重吨……承接出口船订单 191 万载重吨……2 月末，手持\n\n出口船订单 8406 万载重吨”。则三个比重分别为\n只有 B 选项符合。\n故正确答案为 B。\n\n，\n\n，\n\n， 最小，",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第132题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2017 年 1～2 月，重点企业下列指标中同比增速最快的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "造船完工量"
+      },
+      {
+        "label": "B",
+        "content": "承接新船订单量"
+      },
+      {
+        "label": "C",
+        "content": "出口船完工量"
+      },
+      {
+        "label": "D",
+        "content": "承接出口船订单量"
+      }
+    ],
+    "answer": "C",
+    "explanation": "定位材料第三、四段可知，2017 年 1~2 月重点企业造船完工量同比增速为\n\n、承接新船订单量同比增速\n\n、出口船完工量同比增速为\n\n为\n出口船完工量。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第133题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "2017 年 1～2 月，非重点企业出口船完工量约占全国出口船完工量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2%"
+      },
+      {
+        "label": "B",
+        "content": "5%"
+      },
+      {
+        "label": "C",
+        "content": "95%"
+      },
+      {
+        "label": "D",
+        "content": "98%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干“2017 年 1~2 月，······约占······”，可判定本题为现期比重的问题。定位材料第\n二段，全国出口船完工量为 907 万载重吨，材料中未直接给出非重点企业出口船完工量，第四段给出重点企业出\n\n、承接出口船订单量同比增速为\n\n最大，则同比增速最快的是\n\n，\n\n口船完工量为 886 万载重吨，则非重点企业出口船完工量为\n\n万载重吨，因此非重点企业出口船完\n\n工量约占全国出口船完工量的比重为\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第134题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2018-fushengjia-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016 年末，重点企业手持船舶订单不到 9000 万载重吨"
+      },
+      {
+        "label": "B",
+        "content": "2017 年 1～2 月，非重点企业承接出口船订单约 30 万载重吨"
+      },
+      {
+        "label": "C",
+        "content": "2017 年 2 月末，重点企业手持船舶订单同比降幅低于全国平均水平"
+      },
+      {
+        "label": "D",
+        "content": "2017 年 2 月末，重点企业手持出口船订单占全国比重低于上年同期 D、承接出口船订单量 B、承接新船订单量 C、出口船完工量 D、Y>Z>X D、98% C、95% B、5% - 16 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：材料中未给出 2016 年末重点企业手持船舶订单的相关数据，无法推出，错误；\nB 项：定位材料第二段可知，2017 年 1~2 月，全国承接出口船订单 191 万载重吨；定位材料第四段可知，2017\n\n。\n\n年 1~2 月，重点企业承接出口船订单 171 万载重吨，则非重点企业承接出口船订单为\n错误；\n\n万载重吨，\n\nC 项：定位文字材料第一段可知，2017 年 2 月末全国手持船舶订单同比下降\n\n；定位文字材料第三段可知，\n\n重点企业手持船舶订单同比下降\n均水平，错误；\nD 项：两期比重问题，只需要比较部分增长率和总体增长率的大小即可。定位材料第四段可知，2017 年 2 月末，\n\n，则重点企业手持船舶订单同比降幅高于全国平\n\n，下降幅度\n\n重点企业手持出口船订单同比增长率为\n\n；定位材料第二段可知，全国手持出口船订单同比增长率为\n\n，部分增长率\n\n小于整体增长率\n\n，则比重低于上年同期，正确。\n\n故正确答案为 D。\n\n- 26 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第135题",
+    "level": "fushengjia"
+  }
+]

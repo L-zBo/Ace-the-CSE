@@ -1,0 +1,529 @@
+[
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "甲商店购入 400 件同款夏装。7 月以进价的 1.6 倍出售，共售出 200 件；8 月以进价的 1.3 倍出售，共售出 100 件；9 月以进价的 0.7 倍将剩余的 100 件全部售出，总共获利 15000 元。问这批夏装的单件进价为多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "125"
+      },
+      {
+        "label": "B",
+        "content": "144"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "120"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设同款夏装的单件进价为 元，则 7 月利润\n\n元、8 月利润\n\n月利润\n\n得\n故正确答案为 A。\n\n。\n\n元，\n\n元、9\n\n，解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第61题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "一辆汽车第一天行驶了 5 个小时，第二天行驶了 600 公里，第三天比第一天少行驶 200 公里，三天共行驶了 18 个小时。已知第一天的平均速度与三天全程的平均速度相同，问三天共行驶了多少公里？",
+    "options": [
+      {
+        "label": "A",
+        "content": "800"
+      },
+      {
+        "label": "B",
+        "content": "900"
+      },
+      {
+        "label": "C",
+        "content": "1000"
+      },
+      {
+        "label": "D",
+        "content": "1100"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设第一天的平均速度为 ，则第一天路程为 ，第三天路程为\n\n。由全程平均速度与第一天相同，可\n\n得方程：\n\n，解得\n\n，则三天共行驶\n\n公里。\n\n- 11 -\n\n\f故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第62题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "企业某次培训的员工中有 369 名来自 A 部门，412 名来自 B 部门。现分批对所有人进行培训，要求每批人数 相同且批次尽可能少。如果有且仅有一批培训对象同时包含来自 A 和 B 部门的员工，那么该批中有多少人来自 B 部门？",
+    "options": [
+      {
+        "label": "A",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "32"
+      },
+      {
+        "label": "C",
+        "content": "57"
+      },
+      {
+        "label": "D",
+        "content": "65"
+      }
+    ],
+    "answer": "C",
+    "explanation": "两部门总人数\n\n人。要使每批人数相同且批次尽可能少，则可以对总人数因式分解为\n\n，要让批次最少，则将所有人分为 11 批，每批人数 71 人。\n\n根据题意“有且仅有一批培训对象同时包含来自 A 和 B 部门的员工”，故只有这一批的 71 人由两个部门组合而\n成，其余的每一批 71 人均来自同一个部门。\n\n考虑 B 部门\n门。\n故正确答案为 C。\n\n，则 B 部门可以分为完整的 5 批再加 57 人，故所求的这一批人中有 57 人来自 B 部",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第63题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某单位的会议室有 5 排共 40 个座位，每排座位数相同。小张和小李随机入座，则他们坐在同一排的概率：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不高于15%"
+      },
+      {
+        "label": "B",
+        "content": "高于15%但低于20%"
+      },
+      {
+        "label": "C",
+        "content": "正好为20%"
+      },
+      {
+        "label": "D",
+        "content": "高于20%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "从 40 个座位中选 2 个座位，由小张和小李随机入座，总的情况数为\n\n。\n\n要让他们恰好坐在同一排，应先从 5 排中选一排，再从这一排中选 2 个座位，符合条件的情况为\n\n。\n\n满足情况的概率\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第64题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "将一块长 24 厘米、宽 16 厘米的木板分割成一个正方形和两个相同的圆形，其余部分弃去不用。在弃去不用 的部分面积最小的情况下，圆的半径为多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "若要求弃去不用的面积最小，则分割出的面积应尽可能大。\n\n，在 到 之间。\n\n如图所示，分割出的正方形面积应尽可能大，可分割出一个\n\n厘米的正方形，还剩一个\n\n厘米的小长方\n\n形。小长方形可以分割出两个\n去不用的面积最小。\n\n厘米的小正方形，再从每个小正方形内部分割出一个完整的内切圆，此时弃\n\n依此可得，\n\n厘米。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第65题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2018_fushengjia/q065.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "工程队接到一项工程，投入 80 台挖掘机。如连续施工 30 天，每天工作 10 小时，正好按期完成。但施工过 程中遭遇大暴雨，有 10 天时间无法施工。工期还剩 8 天时，工程队增派 70 台挖掘机并加班施工。问工程队若想 按期完成，平均每天需多工作多少个小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.5"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "2.5"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值每台挖掘机每小时的效率为 1，因遭遇暴雨，10 天时间无法施工，则只能施工\n\n天，在还剩 8\n\n天时，已施工 12 天，此时\n\n间完工，设每天需工作 小时，则可得：\n小时。\n故正确答案为 B。\n\n。在增派 70 台挖掘机后，若想在规定时\n\n，解得\n\n。即平均每天需多工作",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第66题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "书法大赛的观众对 5 幅作品进行不记名投票。每张选票都可以选择 5 幅作品中的任意一幅或多幅，但只有在 选择不超过 2 幅作品时才为有效票。5 幅作品的得票数（不考虑是否有效）分别为总票数的 69%、63%、44%、58% 和 56%。问本次投票的有效率最高可能为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "65%"
+      },
+      {
+        "label": "B",
+        "content": "70%"
+      },
+      {
+        "label": "C",
+        "content": "75%"
+      },
+      {
+        "label": "D",
+        "content": "80%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "假设共有 100 位观众，每人可以投票一票及以上，则\n明人均投票数为 2.9 票。\n要使投票有效率（即有效票占比）最高，则让有效票的人均投票数尽可能靠近 2.9 票，取为一人 2 票；反之，无\n效票占比最低，则无效票的人均投票数尽可能远离 2.9 票，取为一人 5 票。\n\n。说\n\n设有效票观众人数为 ，无效票观众人数为\n\n，则\n\n，解得：\n\n人，即\n\n有效率为\n故正确答案为 B。\n方法二：\n\n。\n\n假设有 100 位观众，若每人都投 5 幅作品则有\n\n票，而实际上，\n\n票未投。一个人如果只投 1\\2\\3\\4\\5\n，说明有\n幅作品，则分别有 4\\3\\2\\1\\0 幅作品空着未投，要想有效票最多，则空着未投的 210 票应尽量由只投 2 票即有 3\n\n票空着的人来填补，则最多为\n故正确答案为 B。\n\n人，其余人均为投满 5 票，有效率为",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第67题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "企业花费 600 万元升级生产线，升级后能耗费用降低了 10%，人工成本降低了 30%。如每天的产量不变，预 计在 400 个工作日后收回成本。如果升级前人工成本为能耗费用的 3 倍，问升级后每天的人工成本比能耗费用高 多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.2"
+      },
+      {
+        "label": "B",
+        "content": "1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.8"
+      },
+      {
+        "label": "D",
+        "content": "2.4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据条件“升级前人工成本为能耗费用的 3 倍”，设能耗费用为 ，则人工成本为 。在升级生产线后，能\n\n耗费用降低了 ，则降低了 ；人工成本降低了 ，则降低了\n\n。\n\n在 400 个工作日后收回成本，此时减少的成本达到升级生产线所花的钱数，即\n\n万，解得\n\n万。\n\n- 12 -\n\n\f则升级后每天的\n\n，每天的\n\n。前者比后者高\n\n万元。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第68题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "枣园每年产枣 2500 公斤，每公斤固定盈利 18 元。为了提高土地利用率，现决定明年在枣树下种植紫薯（产 量最大为 10000 公斤），每公斤固定盈利 3 元。当紫薯产量大于 400 公斤时，其产量每增加 n 公斤将导致枣的产 量下降 0.2n 公斤。问该枣园明年最多可能盈利多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "46176"
+      },
+      {
+        "label": "B",
+        "content": "46200"
+      },
+      {
+        "label": "C",
+        "content": "46260"
+      },
+      {
+        "label": "D",
+        "content": "46380"
+      }
+    ],
+    "answer": "B",
+    "explanation": "当紫薯产量大于 400 公斤时，每增加 n 公斤将导致枣的产量下降 0.2n 公斤。\n\n假设紫薯的产量为\n\n公斤，则此时枣的产量为\n\n公斤。\n\n则总盈利为\n元。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第69题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某企业国庆放假期间，甲、乙和丙三人被安排在 10 月 1 号到 6 号值班。要求每天安排且仅安排 1 人值班， 每人值班 2 天，且同一人不连续值班 2 天。问有多少种不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "24"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "36"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：\n情况较复杂，考虑枚举法，设 10 月 1 日安排甲值班，10 月 2 日安排乙值班，将安排情况梳理如下：\n\n，要让总盈利最大，则 n 取 0，此时总盈利为 46200\n\n此时符合条件的情况有 5 种，又因为 10 月 1 日和 2 日可以从甲、乙、丙三人中任选两人值班，所以共有\n种不同的安排方式。\n方法二：\n\n1 号，甲乙丙三人选一人，有\n种排法；在 3 号有两种可能\n种排法；2 号，从另外两人中选一人，有\n性：①如果为甲，则剩下的 4 号丙、5 号乙、6 号丙，有 1 种情况；②如果为丙，则 4 号可排甲乙，2 种情况，5\n\n号有 2 种情况，一共有\n故正确答案为 C。\n\n种情况。因此总的情况数为\n\n种不同的安排方式。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第70题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "一艘非法渔船作业时发现其正右方有海上执法船，于是沿下图所示方向左转 30°后，立即以 15 节（1 节=1 海里/小时）的速度逃跑，同时执法船沿某一直线方向匀速追赶，并正好在某一点追上。已知渔船在被追上前逃 跑的距离刚好与其发现执法船时与执法船的距离相同，问执法船的速度为多少节？",
+    "options": [
+      {
+        "label": "D",
+        "content": "46380"
+      },
+      {
+        "label": "C",
+        "content": "46260"
+      },
+      {
+        "label": "B",
+        "content": "46200 B、1.5 C、1.8 D、2.4 D、36 B、24 C、30 - 8 - D、 C、 B、30 B、25% C、30%"
+      },
+      {
+        "label": "A",
+        "content": "20"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意可知，非法渔船和执法船的行驶路线为上图所示，非法渔船在 A 点被追上。由于非法渔船的逃跑距离和\n\n发现执法船时跟其距离相同，假设距离为 ，即\n\n；渔船左转 ，即\n\n。又因为\n\n为等腰三角形，故\n\n。\n\n过点 O 做 OC 垂直 AB 于点 C，根据\n\n为直角三角形，且\n\n可得\n\n，因此\n\n。\n\n渔船从 O 到 A，执法船从 B 到 A，行驶时间相同，假设执法船速度为 ，则有\n故正确答案为 D。\n\n，解得\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第71题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2018_fushengjia/q071.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某公司 A 商品利润为定价的 30%，前年销量为 10 万个；B 商品利润为定价的 40%，前年销量为 4 万个。去年 公司将 A B 商品捆绑销售，售价为前年两种商品定价之和的 90%，共卖出 8 万套，总利润比前年增加了 20%。 如两种商品去年的成本与前年相同，则前年 A 商品的定价为 B 商品定价的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24%"
+      },
+      {
+        "label": "B",
+        "content": "25%"
+      },
+      {
+        "label": "C",
+        "content": "30%"
+      },
+      {
+        "label": "D",
+        "content": "36%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "假设前年每个 A 商品定价为 x，利润为 0.3x，则其成本为\n\n；每个 B 商品定价为 y，利润为 0.4y，\n\n则其成本为\n\n。\n\n前年的总利润为\n\n，去年的总利润为\n\n，去\n\n年总利润比前年增加了 ，则\n\n，解得\n\n，则前年 A 商品的定价为 B 商品定价的\n\n。\n\n故正确答案为 A。\n\n- 13 -",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第72题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某新能源汽车企业计划在 A、B、C、D 四个城市建设 72 个充电站，其中在 B 市建设的充电站数量占总数的 1/3，在 C 市建设的充电站数量比 A 市多 6 个，在 D 市建设的充电站数量少于其他任一城市。问至少要在 C 市建 设多少个充电站？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "22"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "D",
+    "explanation": "因为 B 市建设充电站的数量占总数的 ，C 市又比 A 市多 6 个，D 市最少，所以四个城市充电站个数关系为：\nB、C 两市建设充电站的数量较多，A 市第三多，D 市最少。要使 C 市建设的充电站尽量少，就要让其他市建设的\n\n充电站尽量多，其中\n\n站总个数\n建设 21 个充电站。\n故正确答案为 D。\n\n，\n\n，D 尽量多且比 A 少，所以 D 最多为\n\n。此时充电\n\n，解得\n\n，问至少，应向上取整，所以 C 至少",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第73题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某饲料厂原有旧粮库存 Y 袋，现购进 X 袋新粮后，将粮食总库存的 1/3 精加工为饲料。被精加工为饲料的新 粮最多为 A1 袋，最少为 A2 袋。如所有旧粮、新粮每袋重量相同，则以下哪个坐标图最能准确描述 A1、A2 分别 与 X 的关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "无需完整解题）\n\n如果新粮\n\n，则新粮加工量\n\n，而 是常数，故 的函数图的后半部分应为\n\n斜率为 的直线，与 A 项符合。"
+      },
+      {
+        "label": "B",
+        "content": "的斜率远大于 1（或看倾斜度远大于 ），排除"
+      },
+      {
+        "label": "C",
+        "content": "；\n\n，则新粮精加工量为 0，说明 的函数图必须有一段纵轴值为 0 的横线，而"
+      },
+      {
+        "label": "D",
+        "content": "是阶梯型上升，排除"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“某饲料厂原有旧粮库存 袋，现购进 袋新粮后，将粮食总库存的 精加工为饲料”可知需加工\n\n成饲料的粮食量为\n\n。\n\n若想要新粮加工量最少\n\n，则我们需要先加工旧粮，旧粮 为恒定不变的值。分类讨论如下：\n\n如果\nC 选项；\n\n，则新粮精加工量为 0，说明 的函数图必须有一段纵轴值为 0 的横线，而 C 选项没有，排除\n\n如果\n\n，则需要加工一部分新粮，需要新粮量\n\n，而 是常数，故可知需\n\n要新粮的量为一条斜率为 的直线，说明 的函数图后半部分是直线上升的，而 D 是阶梯型上升，排除 D 选项。\n\n若想要新粮加工量最多\n\n，则需要先加工新粮，旧粮 为恒定不变的值。分类讨论如下：\n\n如果新粮\n\n，则新粮需全部使用，图形纵坐标新粮加工量为 ，故 的函数图的前半部分应为斜率\n\n为 1 的直线（斜率为 1，倾斜度为 ），而 B 项的斜率远大于 1（或看倾斜度远大于 ），排除 B 选项。\n（备注：考场上此时可直接选择 A 项，无需完整解题）\n\n如果新粮\n\n，则新粮加工量\n\n，而 是常数，故 的函数图的后半部分应为\n\n斜率为 的直线，与 A 项符合。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第74题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-fushengjia-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某公司按 1:3:4 的比例订购了一批红色、蓝色、黑色的签字笔，实际使用时发现三种颜色的笔消耗比例为 1:4:5。当某种颜色的签字笔用完时，发现另两种颜色的签字笔共剩下 100 盒。此时又购进三种颜色签字笔总共 900 盒，从而使三种颜色的签字笔可以同时用完。问新购进黑色签字笔多少盒？",
+    "options": [
+      {
+        "label": "A",
+        "content": "450"
+      },
+      {
+        "label": "B",
+        "content": "425"
+      },
+      {
+        "label": "C",
+        "content": "500"
+      },
+      {
+        "label": "D",
+        "content": "475 四、判断推理，本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，红色、蓝色、黑色签字笔订购量的比例为 1:3:4，消耗的比例为 1:4:5（可以理解为消耗速度），\n\n故消耗的时间分别为 、 、 ，由此可看出蓝色笔的消耗时间（ ）最短，最先被消耗完。设公司订购蓝色签字\n\n笔 盒，则红色签字笔 盒、黑色签字笔 盒。实际使用时，蓝色签字笔消耗 盒，则红色签字笔消耗 盒、\n\n黑色签字笔 盒，此时剩下红色、黑色签字笔各 盒，即\n之后又购进三种颜色签字笔 900 盒，此时共有签字笔 1000 盒，因为三种颜色的签字笔可以同时用完，所以按照\n\n，解得\n\n。\n\n1:4:5 的消耗比例分配，这 1000 盒中黑色签字笔有\n\n盒，而之前还剩余\n\n盒，所以新购\n\n盒。\n\n进黑色签字笔\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（副省级）第75题",
+    "level": "fushengjia"
+  }
+]

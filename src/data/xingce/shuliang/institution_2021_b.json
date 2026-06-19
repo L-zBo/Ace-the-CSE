@@ -1,0 +1,1791 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2021-b-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某种签字笔一盒 24 支，如果单支购买，价格为 3 元/支。如果整盒购买，价格为 60 元/盒。现至少要购买 这种签字笔 1102 支，问最少需要多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2751"
+      },
+      {
+        "label": "C",
+        "content": "2760"
+      },
+      {
+        "label": "B",
+        "content": "2754"
+      },
+      {
+        "label": "D",
+        "content": "2766"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】整盒购买单价为\n60\n24 = 2.5元/支< 3元/支，即整盒购买单价更低，因此为了花费最少则应优先整盒\n购买。\n1102\n24 = 45盒…22 支，余下的22 支若单支购买需22 × 3 = 66元，而整盒购买只需60 元，故可再购\n买1 盒，因此一共购买45 + 1 = 46盒。因此，最少花费60 × 46 = 2760元。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第41题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某连锁餐馆共有 9 家店面，平均每家店面每年客流量为 5 万人次。由于疫情影响，今年客流量降到原来的 20%，公司决定趁着租金减少迅速新开 10 家餐馆抢占市场，新开餐馆明年可以正常投入使用。假设明年客 流量回升到疫情前的 60%。那么，今年和明年的总客流量可以达到多少万人次？",
+    "options": [
+      {
+        "label": "A",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "39"
+      },
+      {
+        "label": "D",
+        "content": "66"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】由题意可知，今年平均每家店面客流量为5 × 20% = 1万人次，则 9 家店面共1 × 9 = 9万人次；\n\n明年平均每家店面客流量为5 × 60% = 3万人次，店铺数为9 + 10 = 19家，则 19 家店面客流总量为\n\n3 × 19 = 57万人次。那么，今年和明年的总客流量可以达到9 + 57 = 66万人次。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第42题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某水站计划向干旱地区送水。已知该水站有载水量为 18 和 25 吨的中、大型水车各若干辆。现将 31 辆水车 全部装满出发，运送总水量不到 750 吨，问最多出动了多少辆大型水车？",
+    "options": [
+      {
+        "label": "A",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "28"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "D",
+        "content": "29"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】设出动大型水车 x 辆，则中型水车为（31 − x）辆，根据运送总量不到 750，可得：18（31 − x）\n\n+ 25x < 750，解得x < 27.4，x 应为整数，故最大取 27，对应 B 项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第43题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "甲、乙、丙三人同时从 A 地出发去 B 地，按计划甲驾车载乙行驶 1 小时到达，丙步行 5 小时到达。过了 t 小时后，乙下车按丙的步行速度继续前行，甲驾车折返载上丙后再前往 B 地。最后甲、乙、丙三人同时到 达 B 地，那么 t 为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.45"
+      },
+      {
+        "label": "C",
+        "content": "0.67"
+      },
+      {
+        "label": "B",
+        "content": "0.5"
+      },
+      {
+        "label": "D",
+        "content": "0.75"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】赋值甲驾车速度为5，由S = v × t，可得SAB = 5 × 1 = 5，丙步行速度为\n5\n5 = 1。t 小时后乙下车\n时，甲乙走过的路程为5t，丙走过的路程t，则乙距离B 地距离为5 −5t，乙下车时甲和丙距离为5t −t =\n4t。根据公式：S和= V和t，甲从乙下车点到接上丙所需时间为\n4t\n1+5，则甲回到乙下车点的时间为\n4t\n1+5 × 2，甲\n丙继续前行到达B 点的时间为1 −t；乙从下车点继续步行前往B 地时间为\n5−5t\n1\n= 5 −5t。三人同时到达B\n地，根据时间相等可列方程：\n4t\n1+5 × 2 + （1 −t）= 5 −5t，解得t = 0.75。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第44题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某公司推出 4 款杯子，分别为陶瓷杯、玻璃杯、木质杯和不锈钢杯，现将 4 个杯子放进展柜排成一排展示， 要求玻璃杯不能放在两端，木质杯和不锈钢杯不能相邻，那么可能会出现多少种排列方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "B．12"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "D．20 （一） 2019 年 1-8 月，我国规模以上互联网和相关服务企业（简称互联网企业）完成业务收入 7522 亿元，同比增 长 20.9%，增速同比提高 0.2 个百分点，比 1-7 月加快 0.2 个百分点。 2019 年 1-8 月，互联网企业共实现营业利润 709 亿元，"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n× 2 + （1 − t） = 5 − 5t，解得t = 0.75。 \n\n【解析】由题意可知，玻璃杯应该在中间两个位置中选一个，有C2\n6种情况，而木质杯和不锈钢杯相邻有A2\n4 个杯子可能会出现2 × 4 = 8种排列方式。 \n\n3 =\n2 = 2种情况，故这 3 个杯子排列方式共有6 − 2 = 4种。因此，这\n\n1 = 2种情况；其余 3 个杯子随意排有A3\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第45题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1-8 月，互联网企业月均业务收入比 2018 年同期提高了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 200 亿元"
+      },
+      {
+        "label": "C",
+        "content": "400—600 亿元"
+      },
+      {
+        "label": "B",
+        "content": "200—400 亿元"
+      },
+      {
+        "label": "D",
+        "content": "600 亿元以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】根据题干“2019 年 1-8 月……比 2018 年同期提高了”，结合选项“亿元”，可判定本题为增长\n\n量计算问题。定位材料第一段“2019 年 1-8 月，我国规模以上互联网和相关服务企业（简称互联网企业）\n\n完成业务收入 7522 亿元，同比增长 20.9%”。根据增长量= 现期量\n1+增长率\n\n× 增长率，代入数据，则 2019 年 1-8 月\n\n互联网企业月均业务收入同比增长 7522÷8\n1+20.9%\n\n× 20.9% ≈",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "设 2017 年 1-8 月、2018 年 1-8 月、2019 年 1-8 月互联网企业营业利润与业务收入的比值分别为 x、y 和 z，则有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "x<y，y<z"
+      },
+      {
+        "label": "C",
+        "content": "x<y，y>z"
+      },
+      {
+        "label": "B",
+        "content": "x>y，y>z"
+      },
+      {
+        "label": "D",
+        "content": "x>y，y<z"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据题干“设 2017 年 1-8 月、2018 年 1-8 月、2019 年 1-8 月，……营业利润与业务收入的比值\n\n分别为 x、y 和 z”，结合选项为 x、y、z 的大小比较，可判定本题为两期比重的比较问题。定位材料第一、\n\n二段可知，2019 年 1-8 月，互联网企业完成业务收入同比增长 20.9%（b），增速同比提高 0.2 个百分点；\n\n互联网企业营业利润同比增长 32.7%（a），增速同比提高 19.7 个百分点。则 2018 年 1-8 月业务收入同比\n\n增速= 20.9% − 0.2% = 20.7%，营业利润同比增速= 32.7% − 19.7% = 13%。结合两期比重比较结论\n\n“部分速（a）>整体增速（b），则比重上升；反之，比重下降”，13% < 20.7%，则 2018 年 1-8 月利润\n\n与收入的比值同比下降，即x > y；32.7% > 20.9%，则 2019 年 1-8 月利润与收入的比值同比上升，即y <\n\nz。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第47题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "假设 2018 年互联网企业研发投入额为 491.95 亿元，则当年 9-12 月互联网企业研发月均投入额：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 30 亿元"
+      },
+      {
+        "label": "B",
+        "content": "在 30—40 亿元之间"
+      },
+      {
+        "label": "C",
+        "content": "在 40—50 亿元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 50 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据题干“…2018 年…当年 9-12 月…月均投入额…”，结合材料所给时间为 2019 年，可判定本\n\n题为基期平均数问题。定位材料第三段可知，2019 年 1-8 月，互联网企业研发投入额 313 亿元，同比增长",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第48题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1-7 月，互联网企业信息服务收入规模同比增速比平台型企业实现业务收入同比增速高多少个百分 点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.1"
+      },
+      {
+        "label": "C",
+        "content": "7.5"
+      },
+      {
+        "label": "B",
+        "content": "6.7"
+      },
+      {
+        "label": "D",
+        "content": "13.1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】定位材料第四段“2019 年 1-8 月，互联网企业信息服务收入同比增长 24.3%，增速较 1-7 月提高",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第49题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年 8 月，互联网企业完成业务收入同比增速低于 20.9%"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 1—7 月，互联网企业实现营业利润同比增速超过 20%"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 1—8 月，互联网企业信息服务收入规模占业务收入的 60%以上"
+      },
+      {
+        "label": "D",
+        "content": "2018 年 1—8 月，互联网企业完成互联网数据服务收入占完成业务收入的 1%以上 （二）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C。解析：逐项判断。A项，若2019年1—8月累计同比增速为20.9%，而1—7月累计同比增速为20.7%，则8月当月同比增速应高于20.9%，A错误。B项，材料显示1—8月营业利润同比增长32.7%，但无法推出1—7月同比增速一定超过20%，B错误。C项，2019年1—8月信息服务收入规模为4958亿元，业务收入为7522亿元，占比4958÷7522≈65.9%，超过60%，C正确。D项，2018年1—8月互联网数据服务收入约为72÷(1+23.3%)≈58.4亿元，2018年1—8月业务收入约为7522÷(1+20.9%)≈6222亿元，占比不足1%，D错误。故选C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第50题",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 16,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationDeferTo": "D18b-vision-ocr",
+      "dataRescuedAt": "2026-06-01",
+      "dataRescuedBy": "codex-targeted-short-explanation-rescue",
+      "dataRescueScope": "explanation"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 Z 市旅游总收入是 2009 年的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 倍"
+      },
+      {
+        "label": "C",
+        "content": "4 倍"
+      },
+      {
+        "label": "B",
+        "content": "3.5 倍"
+      },
+      {
+        "label": "D",
+        "content": "4.5 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】定位文字材料第三段“（2019 年）各类企业研究与试验发展（R&D）经费支出 156.7 亿元，比上\n\n年增长 7.9%；政府属研究机构经费支出 16.5 亿元，下降 6.3%；高等学校经费支出 16.0 亿元，增长 32.0%”。 \n\n由于政府属研究机构经费支出同比有所减少，故增长量为负，排除 A、B 两项，分析 C、D 两项，只需比较\n\n政府属研究机构经费支出的同比减少量和高等学校经费支出的同比增长量即可，根据增长量=现期量\n1+r\n\n× r，代\n\n入数据可知，2019 年政府属研究机构支出经费的增长量为 16.5\n1−6.3%",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第51题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2010-2019 年 Z 市旅游总收入同比增速最高的年份，当年旅游外汇收入同比约增加：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.9%"
+      },
+      {
+        "label": "C",
+        "content": "5.3%"
+      },
+      {
+        "label": "B",
+        "content": "4.8%"
+      },
+      {
+        "label": "D",
+        "content": "6.8%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第52题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下折线图反映了哪一时间段 Z 市接待入境游客同比增长量的变化趋势？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2011-2015 年"
+      },
+      {
+        "label": "C",
+        "content": "2013-2017 年"
+      },
+      {
+        "label": "B",
+        "content": "2012-2016 年"
+      },
+      {
+        "label": "D",
+        "content": "2014-2018 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第53题",
+    "questionImage": "/img/questions/institution_2021_b/q053.png"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2011-2019 年 Z 市接待国内游客数量同比增速不足 10%的年份有几个？：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687179 sort=54 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第54题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      },
+      {
+        "label": "A",
+        "content": "2010-2019 年 Z 市旅游总收入同比增速呈逐年增长趋势 B．2010-2019 年 Z 市平均每年的旅游总收入高于 1000 亿元 B.D．2019 年 Z 市平均接待每人次入境游客获得的外汇收入高于 2017 年"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 Z 市旅游外汇收入同比增速高于旅游总收入同比增速 D.第四部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "4\n\n≈ 394美\n\n元，即 2019 年高于 2017 年，正确。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第55题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】元素组成相似，优先考虑样式规律。题干出现黑白球，考虑黑白运算，九宫格按行看不存在规律，\n\n按列看，观察第一列发现，黑+白=黑，黑+黑=白，白+白=白，白+黑=黑，第二列符合此规律，第三列应用此\n\n规律。只有 B 项符合。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第60题",
+    "questionImage": "/img/questions/institution_2021_b/q060.png"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "连续异称是一种修辞手段，是从不同角度对同一个人给予连续的、不同的称谓。 根据上述定义，下列属于连续异称的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "瞧，邻居家的小孩多快活呀，像刚出笼的小鸟，像展翅欲飞的雄鹰，像活蹦乱跳的兔子，像自由自在的 鱼儿"
+      },
+      {
+        "label": "B",
+        "content": "李铜钟，这个给财主放羊的小长工，这个土改时的民兵队长，抗美援朝的志愿兵，这个复原残疾军人， 李家寨大队的“瘸腿书记” B.脱离了低级趣味的人，一个有益于人民的人"
+      },
+      {
+        "label": "C",
+        "content": "一个人的能力有大小，但只要有这点精神，就是一个高尚的人，一个纯粹的人，一个有道德的人，一个"
+      },
+      {
+        "label": "D",
+        "content": "D．在抗美援朝战争中，英雄儿女舍生忘死，罗盛教奋不顾身，解救儿童，邱少云牢记纪律，壮烈牺牲；黄 继光扑向枪口，英勇救义"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】找关键信息。 \n\n从不同角度对同一个人给予连续的不同的称谓。 \n\n辨析选项。 \n\nA 项：该项将邻居家的小孩比喻成小鸟、雄鹰、兔子、鱼儿，不符合“从不同角度对同一个人给予连续的、\n\n不同的称谓”，不符合定义，排除； \n\nB 项：该项给予李铜钟，财主放羊的小长工、土改时的民兵队长、抗美援朝的志愿兵、复原残疾军人、李家\n\n寨大队的“病腿书记”等等称谓，符合“从不同角度对同一个人给予连续的、不同的称谓”，符合定义，\n\n当选； \n\nC 项：该项仅说明一个人能力有大小，但只要有这点精神，就是一个高尚的人，一个纯粹的人，一个有道德\n\n的人，一个脱离了低级趣味的人，一个有益于人民的人，未体现称谓，不符合“从不同角度对同一个人给\n\n予连续的、不同的称谓”，不符合定义，排除； \n\nD 项：该项介绍在抗美援朝战争中的英雄儿女，罗盛教、邱少云、黄继光，及其事件，是不同的人，不符合\n\n“从不同角度对同一个人给予连续的、不同的称谓”，不符合定义，排除。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第61题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "生物指示物是指能通过典型症状或可衡量的反应揭示污染物存在与否的生物体或生物反应，通常选择生态 系统中较敏感和快速地对环境污染物产生明显反应的动物、植物或微生物作为指示生物。 根据上述定义，下列没有涉及生物指示物的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "金丝雀如在煤矿地区中毒，说明矿井内一氧化碳含量过多"
+      },
+      {
+        "label": "B",
+        "content": "当水中存在着责翅目、蜉蝣目稚虫或毛翅目幼虫，说明水质比较好 B."
+      },
+      {
+        "label": "C",
+        "content": "柳杉能够吸收大气中的二氧化硫，在柳杉种植地区，二氧化硫浓度较低"
+      },
+      {
+        "label": "D",
+        "content": "D．当大气中氟化氢浓度超过环境卫生标准 15 倍时，24 小时后唐菖蒲就会叶片枯黄，变成褐色"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】找关键信息。 \n\n①揭示污染物存在与否的生物体或生物反应； \n\n②较敏感和快速地对环境污染物产生明显反应的动物、植物或微生物作为指示生物。 \n\n辨析选项。 \n\nA 项：金丝雀中毒说明一氧化碳含量过多，揭示污染物一氧化碳存在，反应过程较快，符合“较敏感和快速\n\n地对环境污染物产生明显反应”，符合定义； \n\nB 项：水中存在特定品种幼虫，说明水质较好，即“揭示污染物不存在”，反应过程较快，符合“较敏感和\n\n快速地对环境污染物产生明显反应”，符合定义； \n\nC 项：柳杉能吸收二氧化硫，但不具备检测二氧化硫浓度的功能，且种植柳杉所需时间较长，不符合“较敏\n\n感和快速地对环境污染物产生明显反应”，不符合定义； \n\nD 项：大气中氟化氢浓度超过环境卫生标准 15 倍时，24 小时后唐富蒲就会叶片枯黄，变成褐色，通过叶片\n\n枯黄揭示有污染物氟化氢的存在，符合“通过典型症状或可衡量的反应揭示污染物存在与否的生物体或生",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第62题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "回馈倾向指的是在社会交往过程中，一方对于另一方的举措报以对等反应的心理倾向。一种是你对我坏， 我就对你坏；另一种是你对我好，我就对你好。 根据上述定义，下列不涉及回馈倾向的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "滴水之恩，涌泉相报"
+      },
+      {
+        "label": "C",
+        "content": "以德报怨，宽宏大量"
+      },
+      {
+        "label": "B",
+        "content": "投桃报李，礼尚往来"
+      },
+      {
+        "label": "D",
+        "content": "针锋相对，以牙还牙"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】找关键信息。 \n\n①一方对于另一方的举措报以对等反应； \n\n②你对我坏，我就对你坏；你对我好，我就对你好。 \n\n辨析选项。 \n\nA 项：滴水之恩，涌泉相报，受人一点小小的恩惠应当加倍报答，符合“一方对于另一方的举措报以对等反\n\n应”，体现了“你对我好，我就对你好”，符合定义； \n\nB 项：投桃报李，礼尚往来，比喻友好往来或互相赠送东西，符合“一方对于另一方的举措报以对等反应”，\n\n体现了“你对我好，我就对你好”，符合定义； \n\nC 项：以德报怨，用恩惠回报别人的怨恨，不属于“一方对于另一方的举措报以对等反应”，不符合定义； \n\nD 项：以牙还牙，比喻针锋相对地进行回击，符合“一方对于另一方的举措报以对等反应”，体现了“你对\n\n我坏，我就对你坏”，符合定义。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第63题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "“行百里者半九十”出自西汉刘向《战国策》，意思是一百里的路程，走完九十里也只能算只开始一半而 已。比喻做事愈接近成功愈困难，越是到最后越要坚持。 根据上述定义，下列符合“行百里者半九十”寓意的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "距离实现中华民族伟大复兴的目标越近，我们越不能懈怠，越要加倍努力，越要动员广大青年为之奋斗"
+      },
+      {
+        "label": "B",
+        "content": "对于成功的经验，我们必须坚定不移地坚持下去，这样才能取得下一个 40 年的辉煌 B.义现代化国家的目标一定能实现，中华民族伟大复兴的梦想一定能实现"
+      },
+      {
+        "label": "C",
+        "content": "我坚信，中华民族伟大复兴的梦想一定能实现，到新中国成立 100 年时建成富强民主文明和谐的社会主"
+      },
+      {
+        "label": "D",
+        "content": "D．从南昌城头一声枪响到万里长征，再到艰苦抗战，那都是面对生死存亡的困难挑战，我们何尝畏惧过、 退缩过"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】找关键信息。 \n\n单定义，“行百里者半九十”比喻做事愈接近成功愈困难，越是到最后越要坚持。 \n\n辨析选项。 \n\nA 项：距离实现中华民族伟大复兴的目标越近，我们越不能懈怠，越要加越要坚持，完全和题干意义一致； \n\nB 项：主要是坚持成功的经验，没有体现愈接近成功愈困难，不符合定义； \n\nC 项：主要体现的是实现梦想的信心，没有体现愈接近成功愈困难，不符合定义； \n\nD 项：主要体现的坚定理想的信念，未能体现越是到最后越要坚持，不符合定义。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第64题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "一个自然数的各位数字之和是一个小于它的质数，并且该数能被这个质数整除，则称该数为曼达洛数。 根据上述定义，下列属于曼达洛数的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "67"
+      },
+      {
+        "label": "C",
+        "content": "887"
+      },
+      {
+        "label": "B",
+        "content": "322"
+      },
+      {
+        "label": "D",
+        "content": "9925"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】找关键信息。 \n\n①各位数字之和是一个小于它的质数； \n\n②能被这个质数整除。 \n\n辨析选项。 \n\nA 项：67 的各位数字之和为 6+7=13，符合“各位数字之和是一个小于它的质数”，但 67 不能被 13 整除，\n\n不符合定义； \n\nB 项：322 的各位数字之和为 3+2+2=7，符合“各位数字之和是一个小于它的质数”，且 322 能被 7 整除，\n\n符合定义； \n\nC 项：887 的各位数字之和为 8+8+7=23，符合“各位数字之和是一个小于它的质数”，但 887 不能被 23 整\n\n除，不符合定义； \n\nD 项：9925 的各位数字之和为 9+9+2+5=25，25 能被 5 整除，不是质数，不符合“各位数字之和是一个小于\n\n它的质数”，不符合定义。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第65题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "调音是修辞方法的一种，是指利用并协调语音，以造成话语抑扬顿挫、和谐悦耳的音响效果，一般运用叠 音、摹声、儿化韵等都可起到调音作用。 根据上述定义，下列不属于调音的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "海风呼呼地吹着，船尖儿嗤嗤地响着"
+      },
+      {
+        "label": "B",
+        "content": "机智差，往往赶不上点儿，对不上茬儿"
+      },
+      {
+        "label": "C",
+        "content": "人民，只有人民，才是创造世界历史的动力"
+      },
+      {
+        "label": "D",
+        "content": "舒活舒活筋骨，抖擞抖擞精神，各做各的一份事去"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C。解析：调音强调利用并协调语音，造成抑扬顿挫、和谐悦耳的音响效果，常见方式包括叠音、摹声、儿化韵等。A项“呼呼”“嗤嗤”属于摹声；B项“点儿”“茬儿”体现儿化韵；D项“舒活舒活”“抖擞抖擞”属于叠音，均符合定义。C项重复“人民”主要是语义强调，不是通过语音协调形成音响效果，不属于调音。故选C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第66题",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 18,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationDeferTo": "D18b-vision-ocr",
+      "dataRescuedAt": "2026-06-01",
+      "dataRescuedBy": "codex-targeted-short-explanation-rescue",
+      "dataRescueScope": "explanation"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "功能形态学是探讨生物形态、构造与其功能的关系，以及它们对不同环境的适应及相关规律的学科。 根据上述定义，下列内容属于功能形态学范畴的是： ①雄性三棘鱼在求偶季节为争夺配偶和保护鱼卵，变得好斗 ②生活在沙漠的爬行类动物棘蜥的皮肤组织可避免水分散失 ③小麦在干旱时气孔关闭，其叶片中脱落酸的含量增加 40 倍 ④以昆虫为食的刺猬为捕捉食物形成了昼伏夜出的生活习性",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②"
+      },
+      {
+        "label": "C",
+        "content": "①④"
+      },
+      {
+        "label": "B",
+        "content": "②③"
+      },
+      {
+        "label": "D",
+        "content": "③④"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】找关键信息。\n①生物形态、构造与其功能的关系；\n②它们对不同环境的适应及相关规律。\n辨析例证。\n①项：探讨的是雄性三棘鱼在求偶季节为争夺配偶和保护鱼卵而好斗的行为，不符合“探讨生物形态、构\n造与其功能的关系”、“它们对不同的环境的适应及其相关规律”，不符合定义；\n②项：探讨的是生活在沙漠的棘蜥的皮肤组织，此种皮肤构造可避免水分散失以适应沙漠环境，符合“探\n讨生物形态、构造与其功能的关系”、“它们对不同的环境的适应及其相关规律”，符合定义；\n③项：探讨的是小麦在干旱时气孔关闭且叶片脱落酸含量增加，此种生物形态可以帮助小麦适应干旱环境，\n符合“探讨生物形态、构造与其功能的关系”、“它们对不同的环境的适应及其相关规律”，符合定义；\n④项：探讨的是以昆虫为食的刺猬为捕捉食物而养成昼伏夜出的行为习惯，不符合“探讨生物形态、构造\n与其功能的关系”、“它们对不同的环境的适应及其相关规律”，不符合定义。\n综上，符合定义的为②③，只有B选项符合。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第67题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "反例指的是对于一个理论而言，该事件的出现将直接导致理论不成立；反常指的是对于一个理论而言，该     事件的出现并不能直接否定这个理论，只是相对于这个理论而言，它是小概率发生的事件。 根据上述定义，下列选项判断正确的是： ①所有的鸟都会飞，企鹅是鸟，但是企鹅不会飞； ②湖南人普遍能吃辣，小姜是湖南人，但是他不能吃辣； ③常温下金属都是固体，汞是金属，但是它在常温下是液体。",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②是反例，③是反常"
+      },
+      {
+        "label": "B",
+        "content": "①②是反常，③是反例"
+      },
+      {
+        "label": "C",
+        "content": "①③是反例，②是反常"
+      },
+      {
+        "label": "D",
+        "content": "①③是反常，②是反例"
+      }
+    ],
+    "answer": "D",
+    "explanation": "该事件的出现将直接导致理论不成立”；\n反常：“对于一个理论而言，该事件的出现并不能直接否定这个理论，只是相对于这个理论而言，它是小概\n率发生的事件”。\n①企鹅是鸟但不会飞的事件出现，可以证明“所有的鸟都会飞”的理论不成立，符合“对于一个理论而言，\n该事件的出现将直接导致理论不成立”，符合“反例”定义；\n②普遍指广泛而具有共同性，并非指所有湖南人，因此小姜是湖南人但不能吃辣的事件出现，不能否定“湖\n南人普遍能吃辣”的理论，符合“对于一个理论而言，该事件的出现并不能直接否定这个理论，只是相对于\n这个理论而言，它是小概率发生的事件”，符合“反常”定义；\n③汞是金属但在常温下是液体的事件出现，可以证明“常温下金属都是固体”的理论不成立，符合“对于一\n个理论而言，该事件的出现将直接导致理论不成立”，符合“反例”定义；\n综上，①③是反例，②是反常，只有C\n选项符合。\n故正确答案为C。\n65.\n【答案】D\n【解析】找出定义关键词。\n阿赞德文字：（1）a、b、c、d、e；（2）A、E、I、O；（3）¬、ⅴ、∣；（4）（）。\n阿赞德词语：xMy（x、y\n是5\n个小写字母中的任意两个，M\n是4\n个大写字母的任意一个）。\n事业单位联考真题\n老师微信：AS73982\n公考事业编学习资料加微信AS73982\n208\n阿赞德语句:“若X\n是一个阿赞德词语，则（X）、¬（X）都是阿赞德语句”、“若X、Y\n是任意阿赞德语句，\n则（XⅴY）、（X∣Y）都是阿赞德语句”。\nA\n项：aEd\n符合阿赞德词语，但构成阿赞德语句缺少（），不符合“若X\n是一个阿赞德词语，则（X）、¬（X）\n都是阿赞德语句”，不符合定义，排除；\nB\n项：x\n和y\n均不是阿赞德文字中5\n个小写字母中的任意一个，M\n也不是阿赞德文字中4\n个大写字母中的任\n意一个，因此，xMy\n不属于阿赞德词语，不符合“若X\n是一个阿赞德词语，则（X）、¬（X）都是阿赞德语句”，\n不符合定义，排除；\nC\n项：（bIc）ⅴ¬（cAe）中，（bIc）和¬（cAe）均为阿赞德语句，两者之间用符号ⅴ连接，但缺少构成（XⅴY）\n的括号（），不符合“若X、Y\n是任意阿赞德语句，则（XⅴY）、（X∣Y）都是阿赞德语句”，不符合定义，排\n除；\nD\n项：（¬（aEd）∣（（cAe）ⅴ（aEd））））中，¬（aEd）",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第68题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "拆字就是分析与利用汉字的形体来作为提高话语的表达效果的一种修辞格式；拆词就是利用分析、分解词的 结构和意义，重新组合，建立新的结构，制造临时的新词，用来提高话语的表达效果的一种修辞格式。 根据上述定义，下列选项判断正确的是： ①剧本剧本，那是一剧之本； ②处世须存心上刃，修身切记寸边而。",
+    "options": [
+      {
+        "label": "A",
+        "content": "①是拆词，②是拆字"
+      },
+      {
+        "label": "B",
+        "content": "①是拆字，②是拆词"
+      },
+      {
+        "label": "C",
+        "content": "①②均是拆词"
+      },
+      {
+        "label": "D",
+        "content": "①②均是拆字"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】找出定义关键词。 \n拆字：“分析与利用汉字的形体”； \n拆词：“分析、分解词的结构和意义，重新组合，建立新的结构，制造临时的新词”。 \n①把“剧本”一词拆开，制造出“一剧之本”一词，符合“分析、分解词的结构和意义，重新组合，建立新\n的结构，制造临时的新词”，符合“拆词”定义； \n②处世须存心上刃为“忍”字，修身切记寸边而为“耐”字，符合“分析与利用汉字的形体”，符合“拆字”\n定义。故①为拆词，②为拆字，只有A 项正确。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第69题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "阿赞德文字包括四类符号：（1）5 个小写字母 a、b、c、d、e；（2）4 个大写字母 A、E、I、O；（3）3 个 特殊符号﹁、∨、∣；（4）一对左右圆括号： 阿赞德词语按照如下方式构成：如果 x、y 是 5 个小写字母中的任意两个，M 是 4 个大写字母的任意一个， 则 xMy 是阿赞德词语。 阿赞德语句按照下列方式构成：（1）若 X 是一个阿赞德词语，则（X）、﹁（X）都是阿赞德语句；（2）若 X、Y 是任意阿赞德语句，则（X∨Y）、（X∣Y）都是阿赞德语句。 根据上述定义，下列属于阿赞德语句的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "E、I、O；（3）3 个 特殊符号﹁、∨、∣；"
+      },
+      {
+        "label": "B",
+        "content": "﹁（xMy）"
+      },
+      {
+        "label": "C",
+        "content": "（bIc）∨﹁（cAe）"
+      },
+      {
+        "label": "D",
+        "content": "（﹁（aEd）∣（（cAe）∨（aEd）））"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】找关键信息。 \n\n（1）阿赞德词语：如果 x、y 是 5 个小写字母（a、b、c、d、e）中的任意两个，M 是 4 个大写字母（A、E、\n\nI、O）的任意一个，则 xMy 是阿赞德词语； \n\n（2）阿赞德语句：①若 X 是一个阿赞德词语，则（X）、﹁（X）都是阿赞德语句；②若 X、Y 是任意阿赞\n\n德语句，则（X∨Y）、（X∣Y）都是阿赞德语句。 \n\n辨析选项。 \n\nA 项：aEd 符合“xMy”形式，属于阿赞德词语，不符合阿赞德语句； \n\nB 项：x、y 不属于“5 个小写字母（a、b、c、d、e）”，M 不属于“4 个大写字母（A、E、I、O）”，xMy\n\n不是阿赞德词语，不属于阿赞德语句，不符合定义； \n\nC 项：bIc 和 cAe 是阿赞德词语，则（bIc）和﹁（cAe）属于阿赞德语句，可用 X、Y 表示，但 X∨Y 不符合\n\n“（X∨Y）”，缺少左右括号，不符合阿赞德语句； \n\nD 项：aEd 和 cAe 是阿赞德词语，则（cAe）和（aEd）属于阿赞德语句，（（cAe）∨（aEd））符合“（X∨Y）”，\n\n符合阿赞德语句，用 M 表示，﹁（aEd）符合“﹁（X）”，属于阿赞德语句，用 N 表示，（N∣M）符合“（X∣Y）”，\n\n符合阿赞德语句。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第70题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "锤打：盆浴",
+    "options": [
+      {
+        "label": "A",
+        "content": "推敲：斟酌"
+      },
+      {
+        "label": "B",
+        "content": "纸箱：铁桶"
+      },
+      {
+        "label": "C",
+        "content": "刀刻：针织"
+      },
+      {
+        "label": "D",
+        "content": "炼钢：采茶"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687179 sort=71 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第71题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "荷塘：莲藕",
+    "options": [
+      {
+        "label": "A",
+        "content": "船坞：轮船"
+      },
+      {
+        "label": "B",
+        "content": "雏鸡：母鸡"
+      },
+      {
+        "label": "C",
+        "content": "苹果：枝头"
+      },
+      {
+        "label": "D",
+        "content": "奶牛：牛奶"
+      }
+    ],
+    "answer": "D",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687179 sort=72 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第72题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "信息：资源",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子：原子"
+      },
+      {
+        "label": "B",
+        "content": "毫克：单位"
+      },
+      {
+        "label": "C",
+        "content": "电脑：智能"
+      },
+      {
+        "label": "D",
+        "content": "分数：数学"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687179 sort=73 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第73题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "水∶火∶五行",
+    "options": [
+      {
+        "label": "A",
+        "content": "日∶月∶光明"
+      },
+      {
+        "label": "B",
+        "content": "B．渔网∶网鱼"
+      },
+      {
+        "label": "C",
+        "content": "南∶北∶季风"
+      },
+      {
+        "label": "D",
+        "content": "D．风扇∶扇风 B．孩子∶儿女 D．植物∶食物 B．登高∶望远 D．争强∶好胜 B．子∶丑∶属相 D．乾∶坤∶八卦"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】确定题干逻辑关系。 \n\n“五行”指木、“火”、土、金、“水”，前两词属于并列关系，分别与第三词属于包容关系中的组成关\n\n系。 \n\n辨析选项。 \n\nA 项：“日”“月”可以带来“光明”，前两词与第三词属于对应关系，排除； \n\nB 项：“子”和“丑”属于十二地支，“属相”是地支的形象化代表，前两词与第三词属于对应关系，排\n\n除； \n\nC 项：“季风”的方向有“南”和“北”，前两词与第三词属于对应关系，排除； \n\nD 项：“八卦”指“乾”“坤”、震、巽、坎、离、艮、兑，前两词属于并列关系，分别与第三词属于包容\n\n关系中的组成关系，与题干逻辑关系一致，符合。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第74题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "组装∶调试∶使用",
+    "options": [
+      {
+        "label": "A",
+        "content": "审稿∶投稿∶刊发"
+      },
+      {
+        "label": "B",
+        "content": "降息∶通胀∶加息"
+      },
+      {
+        "label": "C",
+        "content": "考察∶公示∶录用"
+      },
+      {
+        "label": "D",
+        "content": "注册∶充值∶登录"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687179 sort=75 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第75题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-076",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "桃木剑∶琉璃瓶∶工艺品",
+    "options": [
+      {
+        "label": "B",
+        "content": "比赛∶循环∶淘汰"
+      },
+      {
+        "label": "D",
+        "content": "运动∶减肥∶健康"
+      },
+      {
+        "label": "A",
+        "content": "太极图∶八卦阵∶兵法 B．凤凰头∶豹子尾∶文章"
+      },
+      {
+        "label": "C",
+        "content": "蒲叶扇∶楠木床∶卧具 D．桂花糕∶杏仁酥∶食品"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】确定题干逻辑关系。 \n\n“桃木剑”和“琉璃瓶”属于并列关系，且与“工艺品”属于包容关系中的种属关系，且“桃木剑”和“琉\n\n璃瓶”都是依据原材料命名的。 \n\n辨析选项。 \n\nA 项：“太极图”和“八卦阵”属于并列关系，但二者不是以原材料命名的，排除； \n\nB 项：“凤凰头”指“文章”好的开头，“豹子尾”指“文章”好的结尾，前两词属于并列关系，与第三词\n\n属于包容关系中的组成关系，排除； \n\nC 项：“蒲叶扇”不是“卧具”，排除； \n\nD 项：“桂花糕”和“杏仁酥”属于并列关系，二者与“食品”属于包容关系中的种属关系，且“桂花糕”\n\n和“杏仁酥”是根据原材料命名的，与题干逻辑关系一致，符合。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第76题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-077",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "学科对于（ ）相当于星座对于（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "专业；宇宙"
+      },
+      {
+        "label": "C",
+        "content": "知识；星空"
+      },
+      {
+        "label": "B",
+        "content": "数学；银河"
+      },
+      {
+        "label": "D",
+        "content": "积淀；光年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】分别将选项代入题干，确定逻辑关系。 \n\nA 项：“专业”是“学科”下的进一步细分，二者属于包容关系中的组成关系，“星座”是“宇宙”的组成\n\n部分，二者属于包容关系中的组成关系，但前后词语顺序不一致，排除； \n\nB 项：“数学”是“学科”，二者属于包容关系中的种属关系，“银河”会经过一些“星座”，二者属于对\n\n应关系，前后逻辑关系不一致，排除； \n\nC 项：“学科”是“知识”的分类，“星座”位于“星空”，前后都属于对应关系，前后逻辑关系一致，符\n\n合； \n\nD 项：“积淀”与“学科”无明显逻辑关系，“星座”与“光年”无明显逻辑关系，排除。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第77题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-078",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "（ ）对于制定计划相当于谱写华章对于（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "摹画蓝图；创造辉煌"
+      },
+      {
+        "label": "C",
+        "content": "集思广益；凝心聚力"
+      },
+      {
+        "label": "B",
+        "content": "探索道路；勇攀高峰"
+      },
+      {
+        "label": "D",
+        "content": "披星戴月；栉风沐雨"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】分别将选项代入题干，确定逻辑关系。 \n\nA 项：“摹画蓝图”与“制定计划”属于近义关系，“创造辉煌”与“谱写华章”属于近义关系，前后逻辑\n\n关系一致，符合； \n\nB 项：“探索道路”与“制定计划”无明显逻辑关系，“谱写华章”与“勇攀高峰”无明显逻辑关系，排\n\n除； \n\nC 项：“集思广益”是“制定计划”的方式，二者属于对应关系，“谱写华章”需要“凝心聚力”，二者属\n\n于对应关系，但前后对应方式不一致，排除； \n\nD 项：“披星戴月”与“制定计划”无明显关系，“栉风沐雨”与“谱写华章”无明显逻辑关系，排除。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第78题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-079",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "黑暗对于（ ）相当于（ ）对于科学",
+    "options": [
+      {
+        "label": "A",
+        "content": "洞穴；书本"
+      },
+      {
+        "label": "C",
+        "content": "明灯；愚昧"
+      },
+      {
+        "label": "B",
+        "content": "光明；经验"
+      },
+      {
+        "label": "D",
+        "content": "视觉；知觉"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】分别将选项代入题干，确定逻辑关系。 \n\nA 项：“黑暗”与“洞穴”属于偏正关系，“书本”中有“科学”知识，二者属于对应关系，前后逻辑关系\n\n不一致，排除； \n\nB 项：“光明”与“黑暗”属于反义关系，“经验”与“科学”无明显逻辑关系，前后逻辑关系不一致，排\n\n除； \n\nC 项：“明灯”可以驱散“黑暗”，二者属于对应关系，“科学”可以消灭“愚昧”，二者属于对应关系，\n\n前后逻辑关系一致，符合； \n\nD 项：“黑暗”是“视觉”感知，二者属于对应关系，“知觉”与“科学”无明显逻辑关系，前后逻辑关系\n\n不一致，排除。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第79题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-080",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "如果用一个圆来表示词语所指称的对象的集合，那么以下哪项中三个词语之间的关系符合下图？",
+    "options": [
+      {
+        "label": "A",
+        "content": "①话剧，②戏剧，③歌剧"
+      },
+      {
+        "label": "B",
+        "content": "①扬琴，②古琴，③古筝"
+      },
+      {
+        "label": "C",
+        "content": "①素描，②国画，③油画"
+      },
+      {
+        "label": "D",
+        "content": "①《西游记》，②小说，③名著"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】确定题干逻辑关系。 \n\n①是他们的交叉部分。 \n\n辨析选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第80题",
+    "questionImage": "/img/questions/institution_2021_b/q080.png"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-081",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "地球每时每刻都会受到宇宙射线的撞击，太阳活动和超新星爆发是宇宙射线的主要来源。当具有放射性的 宇宙射线进入大气层，并轰击平流层和对流层时，它会与空气中的氮原子发生核反应，并形成碳-14 同位 素。由于地球上的树木可以吸收碳-14 同位素，因此通过测定古树中碳-14 同位素的变化，就能了解太阳活 动和超新星爆发的情况。 以下哪项如果为真，最能削弱上述观点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "许多古树由于生存时间过长，树干已被侵蚀，其中并不存留碳-14"
+      },
+      {
+        "label": "B",
+        "content": "超新星中距离地球极为遥远的，其释放的射线难以在地球上留下痕迹"
+      },
+      {
+        "label": "C",
+        "content": "地球上只有兆分之一的碳是以碳-14 的形式存在，检测古树中碳-14 难度较大"
+      },
+      {
+        "label": "D",
+        "content": "南极冰芯中 Be-10 和 CI-36 同位素的生成同样与宇宙射线有关，它们可以提供更多证据"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】确定题型。 \n\n根据提问方式中的“削弱”，确定为削弱论证。 \n\n找论点和论据。 \n\n论点：因此通过测定古树中碳-14 同位素的变化，就能了解太阳活动和超新星爆发的情况。 \n\n论据：它会与空气中的氮原子发生核反应。并形成碳-14 同位素。由于地球上的树木可以吸收碳-14 同位素。 \n\n辨析选项。 \n\nAA 项：该项说明许多古树中由于生存时间久，并不存留碳-14，但不意味着所有古树都不存留碳-14，只要\n\n通过检测存留碳-14 的古树，依然可以了解太阳活动和超新星爆发的情况，属于无关项，无法削弱，排除； \n\nB 项：该项说明超新星中距离地球极为遥远的所释放的射线难以在地球留下痕迹，即说明在地球上也很难\n\n以形成碳-14 被树木吸收，故说明无法通过测定古树中碳-14 同位素来了解太阳活动和超新星爆发的情况，\n\n否定了论点，可以削弱，当选； \n\nC 项：该项说明检测古树中碳-14 的难度大，但不代表无法检测，不能说明是否可以通过测定古树中碳-14\n\n同位素的变化，了解太阳活动和超新星爆发的情况，属于不明确选项，无法削弱，排除； \n\nD 项：该项讨论的是 Be-10 和 Cl-36 同位素，论点讨论的是碳-14 同位素，主体不一致，无关项，不能削弱，\n\n排除。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第81题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-082",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "多年来，历史学家普遍认为，胡夫金字塔是奴隶建造的。但近年来，考古学家在胡夫金字塔附近发现了工 匠居住的村落及生活设施。这些遗迹表明，那里曾住过几千名工匠，食宿条件有充分保证。考古学家还在 附近墓穴中发现了这些工匠的骸骨，同时也发现了一些金属手术器械和死者骨折后得到医治的痕迹。考古 学家认为，这表明金字塔是由埃及的自由民建造的，而非奴隶。",
+    "options": [
+      {
+        "label": "A",
+        "content": "无关选项。该项只是提及古埃及村落中居住了自由民，但未说明建造金字塔的是不是自由民，论题不\n\n一致，排除。"
+      },
+      {
+        "label": "B",
+        "content": "建立联系。该项说明墓穴中的骸骨不是奴隶，具有加强作用。"
+      },
+      {
+        "label": "C",
+        "content": "不明确项。该项只是说明自由民的数量充分，但是不确定金字塔一定就是自由民建造的，不具有加强\n\n作用。"
+      },
+      {
+        "label": "D",
+        "content": "无关选项。该项指出村落遗迹中有妇女和婴儿的骸骨，与论点无关，论题不一致，排除。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】找论点和论据。 \n\n论点：金字塔是由埃及的自由民建造的，而非奴隶。 \n\n论据：考古学家在胡夫金字塔附近发现了工匠居住的村落及生活设施。这些遗迹表明，那里曾住过几千名\n\n工匠，食宿条件有充分保证。考古学家还在附近墓穴中发现了这些工匠的骸骨，同时也发现了一些金属手\n\n术器械和死者骨折后得到医治的痕迹。 \n\n辨析选项。 \n\nA 项：无关选项。该项只是提及古埃及村落中居住了自由民，但未说明建造金字塔的是不是自由民，论题不\n\n一致，排除。 \n\nB 项：建立联系。该项说明墓穴中的骸骨不是奴隶，具有加强作用。 \n\nC 项：不明确项。该项只是说明自由民的数量充分，但是不确定金字塔一定就是自由民建造的，不具有加强\n\n作用。 \n\nD 项：无关选项。该项指出村落遗迹中有妇女和婴儿的骸骨，与论点无关，论题不一致，排除。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第82题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-087",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某网络平台今年 3 月拟招收 6 名程序员，有 42 名求职者报名应聘，其中李铭、赵恒、王丹和陈曦等 31 人 通过了预审和初试，他们只要复试合格并且通过体检，就可以被录用。但是最终爱好运动的李铭、技术过 硬的赵恒、初试第一的王丹和预审优秀的陈曦 4 人都没有被录用。 由此可以推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "李铭复试不合格"
+      },
+      {
+        "label": "B",
+        "content": "赵恒没有通过体检"
+      },
+      {
+        "label": "C",
+        "content": "王丹复试不合格且未通过体检"
+      },
+      {
+        "label": "D",
+        "content": "陈曦如果复试合格，则没有通过体检"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】确定题型。 \n\n根据题干关联词“只要……就……”，确定为翻译推理。 \n\n翻译题干。 \n\n①复试合格且通过体检→录用 \n\n由于 4 人都没有被录用，是对①的否后，否后必否前，可知 4 人的情况为：②-复试合格或−通过体检 \n\n进行推理。 \n\nA 项：根据题干已知信息，李铭爱好运动，但其复试是否合格无法推出，排除； \n\nB 项：根据题干已知信息，赵恒技术过硬，但其是否通过体检无法推出，排除； \n\nC 项：根据题干已知信息，王丹初试第一，但其是否为“复试没合格并且也没有通过体检”无法推出，排\n\n除； \n\nD 项：根据题干已知信息，陈曦预审优秀，如果复试合格，根据“或关系否一推一”，由②可知陈曦没有通\n\n过体检，可以推出，当选。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第87题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-088",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "在某敌占区有王庄、李家湾、老河口、宋屯、东沟 5 个地下交通站，据可靠情报，其中 3 个暴露了，需要 紧急撤离。经过多方侦查，得知： （1）若王庄暴露了，则李家湾也暴露了； （2）若老河口暴露了，则宋屯也暴露了； （3）若李家湾暴露了，则老河口也暴露了； （4）若李家湾和宋屯中至少有一个暴露了，则东沟也暴露了。 根据以上信息，可以推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "王庄和李家湾都暴露了"
+      },
+      {
+        "label": "B",
+        "content": "王庄和老河口都暴露了 B.D．东沟和李家湾都暴露了"
+      },
+      {
+        "label": "C",
+        "content": "老河口和宋屯都暴露了"
+      },
+      {
+        "label": "D",
+        "content": "望远镜越来越大，越来越昂贵，是否有更好的替代方案呢？有天文学家提出，可利用地球大气弯曲和聚焦 光线，把整个地球变成一个“望远镜镜头”。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】确定题型。 \n\n根据题干关键词“若……则……”，确定为翻译推理。 \n\n翻译题干。 \n\n①王庄暴露→李家湾暴露 \n\n②老河口暴露→宋屯暴露 \n\n③李家湾暴露→老河口暴露 \n\n④李家湾或宋屯暴露→东沟暴露",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第88题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-089",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下哪项如果为真，最能支持建设“地球望远镜”这一方案？",
+    "options": [
+      {
+        "label": "A",
+        "content": "在真正建设地球望远镜之前，天文学家还要进行更多的研究"
+      },
+      {
+        "label": "B",
+        "content": "这种航天器上的探测器能收集到更多来自不太明亮恒星的光线"
+      },
+      {
+        "label": "C",
+        "content": "现有的太空望远镜难以满足当前对太阳系外天体进行研究的需要"
+      },
+      {
+        "label": "D",
+        "content": "即使这个构想不会成功，这种创造性思维也会给天文学家带来启发"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】确定题型。 \n\n根据提问方式中的“支持”，确定为加强论证。 \n\n找论点和论据。 \n\n论点：可利用地球大气弯曲和聚焦光线，把整个地球变成一个“望远镜镜头”。 \n\n论据：当太阳系外恒星的光线抵达地球大气时，光线会发生弯曲（或折射），这种弯曲使光线集中并聚焦\n\n在地球另一个空间中的某个区域，在合适的位置，比如在距地球 150 万公里的轨道上，放置一架带有探测\n\n器的航天器就可以捕捉到聚焦的光线。 \n\n辨析选项。 \n\nA 项：该项说明在建造“地球望远镜”之前还要进行更多的研究，但最终能否真正建成尚不清楚，不明确选\n\n项，无法加强，排除； \n\nB 项：该项说明探测器能收集到更多来自不太明亮恒星的光线，补充论据说明建设“地球望远镜”这一方\n\n案的优势，可以加强，当选； \n\nC 项：该项说明现有的望远镜难以满足研究需要，但与建设“地球望远镜”这一方案无必然联系，无法加\n\n强，排除； \n\nD 项：该项说明“地球望远镜”的构想可以给天文学家带来启发，而论点讨论的是“地球望远镜”这一方\n\n案的可行性，话题不一致，无法加强，排除。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第89题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-090",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下哪项如果为真，最能质疑建设“地球望远镜”这一方案？",
+    "options": [
+      {
+        "label": "A",
+        "content": "地球望远镜无法解决来自地球干扰光线的负面影响"
+      },
+      {
+        "label": "B",
+        "content": "将带有探测器的航天器放在预设位置目前难度较大 B.D．正在建造的高清望远镜能准确捕捉到太阳系内天体的光线"
+      },
+      {
+        "label": "C",
+        "content": "来自太阳系外恒星的光线会从不同高度进入地球大气"
+      },
+      {
+        "label": "D",
+        "content": "第五部分 综合分析 请根据题目要求，在四个选项中选出一个最恰当的答案"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】确定题型。 \n\n根据提问方式中的“削弱”，确定为削弱论证。 \n\n找论点和论据。 \n\n论点：这种被称为“地球望远镜”的设备能够进行超灵敏探测，揭示太阳系外恒星的特征。 \n\n论据：当太阳系外恒星的光线抵达地球大气时，光线会发生弯曲（或折射），这种弯曲使光线集中并聚焦\n\n在地球另一个空间中的某个区域，在合适的位置，比如在距地球 150 万公里的轨道上，放置一架带有探测\n\n器的航天器就可以捕捉到聚焦的光线。 \n\n辨析选项。 \n\nA 项：增加反向论据。该项指出地球望远镜有无法解决的难题，故能够质疑该方案，具有削弱作用。 \n\nB 项：不明确项。该项只是指出有难度，但不代表不可行，不具有削弱作用。 \n\nC 项：无关选项。该项只是指出太阳光线来自不同高度，与地球望远镜能否发挥作用无关，论题不一致，排\n\n除。 \n\nD 项：无关选项。该项说明可以捕捉“太阳系内天体”的光线，与伦点无关，论题不一致，排除。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第90题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-091",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "但不可回避的是，文物保护修复专家和大众的“矛盾”往往从审美开始。大众对于文物古迹历史感的来源 主要是“旧”，即将文物古迹的“旧”视为历史痕迹的主要构成，如果文物焕然一“新”，则人们会在观 感上一时难以接受。 将这段文字填入文中，正确的位置是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "①和②之间"
+      },
+      {
+        "label": "B",
+        "content": "②和③之间"
+      },
+      {
+        "label": "C",
+        "content": "③和④之间"
+      },
+      {
+        "label": "D",
+        "content": "④和⑤之间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】根据“但不可回避的是……”可知，该段文字与上文形成文意的转折，本段文字指出文物保护修\n\n复专家和大众在审美方面存在“矛盾”，大众认为文物古迹具有历史感，“旧”是历史痕迹的主要构成，人\n\n们在观感上很难接受文物焕然一“新”，故前文应论述文物保护修复专家和大众存在矛盾的背景，②介绍\n\n了关于文物修复应当“还原当时面貌”还是“保留历史痕迹”存在争论，我国及行业内更重视文物古迹的\n\n历史价值再现，与该段文字形成转折，且③“同样是……”继续论述了在提取和揭示历史信息中，也存在\n\n文物古迹大的改动或者明显的破坏迹象，晚期人类活动“打破”了早期的历史原貌，③是对该段文字的进\n\n一步论述说明。故该段文字应该放在②和③之间，起到承上启下的作用，对应 B 项。 \n\nA 项，①处主要讲述“有人认为此举会使塑像丢失不少历史信息”“当地政府决定暂停施工”，无法引出\n\n该段文字，排除。 \n\nC 项，③处主要讲述“‘叠压’和‘打破’”，和该段文字话题不一致，排除。 \n\nD 项，④处主要论述“复原到哪个时期的历史原貌或者接近哪个时期历史面貌的问题”，和该段文字话题\n\n不一致，排除。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第91题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-092",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下说法最符合原文的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "C·布兰迪认为文物修复既要还原当时面貌又要保留历史痕迹"
+      },
+      {
+        "label": "B",
+        "content": "1964 年制定的威尼斯宪章主要参考了《文物修复理论》"
+      },
+      {
+        "label": "C",
+        "content": "文物的科学价值应当让位于其历史价值和艺术价值"
+      },
+      {
+        "label": "D",
+        "content": "还原文物的历史价值是考古专家进行文物保护的重要目的"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】分析文章，将选项与原文一一对应。 \n\n辨析选项。A 项对应第②段“被提及最多的理论书籍是意大利学者 C·布兰迪的《文物修复理论》，书中对\n\n需要修复的艺术品提出双重要求，即审美的要求和历史的要求”，曲解原文。B 项对应“国内很早就依据\n\n1964 年《国际古迹保护与修复宪章》（威尼斯宪章）确立的国际准则，制定了我国不可移动实物遗存的保\n\n护准则《中国文物古迹保护准则》”属于无中生有，文段并没有提到。C 项和 D 项对应第②段“将文物古迹\n\n的历史价值与艺术价值、科学价值并列，且将历史价值排在第一的位置，行业内也往往将文物古迹的历史\n\n价值再现摆在非常重要的地位”，C 项曲解文意，D 项符合文意。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第92题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-093",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "根据文章，作者着重探讨“叠压”和“打破”主要是为了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "谴责当代过度开发对文物地层的破坏"
+      },
+      {
+        "label": "B",
+        "content": "分析还原文物早期历史原貌的困难程度"
+      },
+      {
+        "label": "C",
+        "content": "引发关于文物应复原到何种历史原貌的讨论"
+      },
+      {
+        "label": "D",
+        "content": "引出对文物保护修复计划该如何制定的探讨"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】本篇首先通过佛像修复引入话题“文物修复”，接着引用意大利学者 C·布兰迪的观点和《中国文\n\n物古迹保护准则》，然后探讨文物古迹复原到哪一时期和如何制定文物古迹保护修复计划两个问题，最后\n\n指出文物保护修复工作者要提取和保留文物上各个时期的历史痕迹和历史信息并在学科队伍中填充考古、\n\n历史、艺术方面人才。 \n\n“叠压”和“打破”主要出现在③和⑥两段，③段首先提出考古过程中存在“叠压”和“打破”，并具体介\n\n绍、举例说明了存在晚期文物叠压于早期文物之上，且可能会产生晚期文物打破、破坏旧时文物的现象，\n\n引出第④段应将文物复原到哪个时期的历史原貌的讨论。⑥段中指出“全面无死角地提取和保留文物古迹\n\n上‘叠压’‘打破’的各个不同时期的历史痕迹和历史信息，以便完整复原文物古迹的历史脉络和发展序\n\n列”。故作者着重探讨“叠压”和“打破”主要是为了引发关于文物复原的历史原貌应对应特定历史时期的\n\n讨论，对应到 C 选项“引发关于文物应复原到何种历史原貌的讨论”，“何种历史原貌”为“复原到哪个\n\n时期的历史原貌”同义替换。 \n\nA 项，“当代过度开发”对应③段中的举例，非文段重点，排除； \n\nB 项，“困难程度”不明确，文段重在强调因为“叠压”与“打破”，所以复原后的历史原貌不能脱离特定\n\n时期，选项脱离核心话题，排除； \n\nD 项，“文物保护修复计划”对应⑤段，主要为了解决上一段中引出的文物应复原到何种历史原貌的讨论，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第93题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-094",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "在作者看来，在制定文物古迹保护修复计划时最不需要考虑的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "参考大众对文物修复的期求"
+      },
+      {
+        "label": "B",
+        "content": "统一各个学科群体的研究需求"
+      },
+      {
+        "label": "C",
+        "content": "引进多种技术手段来提取文物信息"
+      },
+      {
+        "label": "D",
+        "content": "明确文物古迹保护修复的目的和意义"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】A 项，根据第⑤段“文物修复保护工作需要达到什么样的目的非常重要，同时与大众的沟通也是必\n\n要的”可知，有必要与大众沟通，参考大众对文物修复的期求，排除； \n\nB 项，根据第⑦段“文物保护修复要达到以上目标或满足大众的需求，在学科队伍中填充考古、历史、艺术\n\n方面的成员，以弥补自身专业队伍构成的不足，也是十分必要的”可知，文段仅强调要填充考古、历史、\n\n艺术方面的成员，且满足大众需求即可，并未提出要统一各个学科群体的研究需求，无中生有，当选； \n\nC 项，根据第⑥段“文物保护修复工作者有必要运用多种技术手段，全面无死角地提取和保留文物古迹上\n\n‘叠压’‘打破’的各个不同时期的历史痕迹和历史信息”可知，引进多种技术手段来提取文物信息是需\n\n要考虑的内容，排除； \n\nD 项，根据第⑤段“这就引出了另外一个问题——文物古迹保护修复计划或者规划该如何制定。首先，要明\n\n确文物古迹保护修复的目的和意义……”可知，明确文物古迹保护修复的目的和意义是需要考虑的内容，\n\n排除。 \n\n本题为选非题，故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第94题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-095",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下最适合做本文标题的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "文物修复应该循“新”还是守“旧”"
+      },
+      {
+        "label": "B",
+        "content": "从古寺佛像修复看文物古迹的保护 B.D．如何制定合理的文物古迹保护和修复计划"
+      },
+      {
+        "label": "C",
+        "content": "考古须平衡“叠压”和“打破”的关系"
+      },
+      {
+        "label": "D",
+        "content": "（二） 近年来，以互联网、大数据、云计算和人工智能等数字技术为核心的数字经济发展迅速，但同时也带来了 隐私泄露、数据泄露等新风险。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】分析文章。文章首先用“青莲寺塑像修复后引起公众争议”的事件引出关于“文物修复应当‘还原\n\n当时面貌’还是‘保留历史痕迹’的争论”，接着文章通过“但不可回避的是”话题一转，指出争论的实质\n\n是“大众对于文物古迹历史感的来源主要是‘旧’，如果文物焕然一‘新’，则人们会在观感上一时难以接\n\n受”，并对此展开解释说明，最后提出“文物修复保护工作需要达到什么样的目的非常重要，同时与大众\n\n的沟通也是必要的”，故该篇文章重在分析文物修复保护工作怎么做。 \n\n对比选项。A 项是文段主旨的概括归纳项。B 项缺少文章主题词“文物修复”，C 项属于文章解释说明的内\n\n容，偏离重点，D 项是文章第⑤段的内容，概括不全面。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第95题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-096",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "作者比较工业时代与网络时代的犯罪特点意在强调：",
+    "options": [
+      {
+        "label": "A",
+        "content": "随着技术进步，犯罪手段更加丰富"
+      },
+      {
+        "label": "B",
+        "content": "工业时代犯罪的危险性更高"
+      },
+      {
+        "label": "C",
+        "content": "网络时代的信息技术风险不宜高估"
+      },
+      {
+        "label": "D",
+        "content": "技术进步带来的风险不可预知"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】文章第二段首句提出“首先，信息技术的风险不能被夸大。”接着举例说明，“工业时代的主要方\n\n式是入户盗窃、街头抢劫，谋财常常害命。而网络时代的财产犯罪，主要是通过窃取个人数据实施网络诈\n\n骗，其危害往往限于经济损失。”比较工业时代与网络时代的犯罪，网络时代的犯罪往往限于经济损失，\n\n危害性后果更低。作者通过比较工业时代与网络时代的犯罪特点，意在强调“信息技术的风险不能被夸大”，\n\n对应 C 项。 \n\nA 项，“犯罪手段更加丰富”无中生有，排除； \n\nB 项，“工业时代犯罪的危险性更高”并非文段重点，文章的主旨是分析在网络时代，如何让法律成为发展\n\n的动力，排除； \n\nD 项，“技术进步带来的风险不可预知”与文段主旨相违背，排除。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第96题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-097",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2017 年中国移动支付的规模已经达到美国的 70 倍，但如果当年监管部门一开始就对移动支付执行强力监 管和审批制度，很多互联网巨头很难取得今天的成绩，将这段文字填入原文最合适的一处是。 将这段文字填入原文，最合适的一处是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "①"
+      },
+      {
+        "label": "C",
+        "content": "③"
+      },
+      {
+        "label": "B",
+        "content": "②"
+      },
+      {
+        "label": "D",
+        "content": "④"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】根据“但如果当年监管部门一开始就对移动支付执行强力监管和审批制度，很多互联网巨头很难\n\n取得今天的成绩”可知，该段文字以中美移动支付规模的对比为例，意在强调监管部门不应对新技术设立\n\n过多过强的限制。因此填入②处，既能对前文“法律的不作为也是作为”的观点进行例证，也可与后文“如\n\n果对新产业风险过于敏感……也就不会有今天的规模”形成对应关系，当选。 \n\nA 项，①句前后论述的是新技术产生的风险与传统产业风险的对比问题，与该段文字论述话题不符，排除；",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第97题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-098",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "下列符合作者观点的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "凡法始立必有病"
+      },
+      {
+        "label": "B",
+        "content": "有即事以穷理，无立理以限事"
+      },
+      {
+        "label": "C",
+        "content": "凡事预则立，不预则废"
+      },
+      {
+        "label": "D",
+        "content": "强人之所不能，法必不立；禁人之所必犯，法必不行"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】A 项，第1 段讲的是“身份认同从社会经济阶层认同转为消费认同”，而选项讲的是“从消费认同\n转为社会经济阶层认同”，与文意相悖，排除。 \nB 项，根据第3 段“新团体并不是用年龄、种族、职业等决定社会经济阶层的客观指标来划分的”可知，职\n业不是风格化消费时代划分团体的指标之一，与文意相悖，排除。 \nC 项，根据最后一段“当消费者以生活方式为依据寻求身份认同的时候，意味着他在购买商品和文化上有\n决策权”可知，该项表述过于绝对，排除。 \nD 项，根据最后一段“西方进入消费社会……而是关注消费品的符号意义”可知，该项表述正确，当选。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第98题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-099",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "根据文章，下列关于数字经济时代的说法，错误的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "财产犯罪的危害往往限于经济损失"
+      },
+      {
+        "label": "B",
+        "content": "人类在高危行业的死亡率大大降低 B.D．人类的运算能力能被机器所代替"
+      },
+      {
+        "label": "C",
+        "content": "立法的目的是提供社会道德尺度"
+      },
+      {
+        "label": "D",
+        "content": "100. 最适合做这篇文章标题的是： A．数字经济发展应懂法律的“规矩” B．立法过度让数字经济难以展翅高飞 C．让法律成为数字经济发展的动力 D．法律是否应该为数字经济发展让位？     第一部分 常识判断 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】分析文段，将选项与原文一一对应。\n辨析选项。A项对应第四自然段“而网络时代的财产犯罪，主要是通过窃取个人数据实施网络诈骗，其危害\n往往限于经济损失”，符合原文。B项对应第五自然段“同样，人工智能会带来机器杀人的风险，但这一新\n风险必将大幅度降低人类在高危行业与高风险行动中的死亡率”，符合原文。C项对应“立法的目的是促\n进经济发展而非限制产业创新”，属于偷换概念，不符合原文。D项对应“人类的运算能力被电脑代替，但\n人类马上会开发出新能力一一设计算法”，符合原文。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第99题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-b-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "3",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】“井蛙不可以语于海者，拘于虚也；夏虫不可以语于冰者，笃于时也。”出自《庄子·外篇·秋\n\n水》，意思是：对井里的蛙不可与它谈论关于海的事情，是由于它的眼界受着狭小居处的局限；对夏天生\n\n死的虫子不可与它谈论关于冰雪的事情，是由于它的眼界受着时令的制约。此段文字所属著作的作者为庄\n\n子。 \n\nA 项错误，孔子（公元前 551 年-公元前 479 年），生于春秋时期鲁国，是著名的思想家、教育家、政治\n\n家。 \n\n庄子（约前 369-前 286），是我国先秦战国时期伟大的思想家、哲学家、文学家。 \n\n因此《庄子》的作者生活年代晚于孔子。 \n\nB 项错误，《庄子》一书分内、外、杂篇，原有五十二篇，乃由战国中晚期逐步流传、揉杂、附益，至西汉",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第6题"
+  }
+]

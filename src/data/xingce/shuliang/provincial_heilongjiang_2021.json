@@ -1,0 +1,599 @@
+[
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "小明去某楼盘售楼部咨询售房情况。置业顾问告诉他，如果再卖出 50 套，则已卖出的数量与未卖出的 数量相等；如果再卖出 150 套，则已卖出的数量比未卖出的数量多一半，问该楼盘目前还剩下多少套房子 未卖出？",
+    "options": [
+      {
+        "label": "A",
+        "content": "350 套"
+      },
+      {
+        "label": "B",
+        "content": "450 套"
+      },
+      {
+        "label": "C",
+        "content": "550 套"
+      },
+      {
+        "label": "D",
+        "content": "650 套"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设目前已卖、未卖分别为 、 套，根据题意列方程组：\n\n······①\n\n······②\n\n，即目前还剩下 550 套房子未卖出。\n\n，\n\n联立①②求解可得\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第56题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "不超过 100 名的小朋友站成一列。如果从第一人开始依次按 1，2，3，···，9 的顺序循环报数，最 后一名小朋友报的是 7；如果按 1，2，3，···，11 的顺序循环报数，最后一名小朋友报的是 9，那么一 共有多少名小朋友？",
+    "options": [
+      {
+        "label": "A",
+        "content": "98"
+      },
+      {
+        "label": "B",
+        "content": "97"
+      },
+      {
+        "label": "C",
+        "content": "96"
+      },
+      {
+        "label": "D",
+        "content": "95"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，总人数 余 7、总人数 余 9，代入排除：\n余 8，不满足题意，排除；B 项，\nA 项，\n\n余 7，\n\n余 9，满足题意，当选；C 项，\n\n余 6，不满足题意，排除；D 项，\n\n余 5，不满足题意，排除。所以只有 B 项满足，则共有 97 名小朋友。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第57题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某高校开设 A 类选修课四门，B 类选修课三门。小刘从中共选取四门课程，若要求两类课程各至少选一 门，则选法有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18 种"
+      },
+      {
+        "label": "B",
+        "content": "22 种"
+      },
+      {
+        "label": "C",
+        "content": "26 种"
+      },
+      {
+        "label": "D",
+        "content": "34 种"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：根据题意，两类课程各至少选一门，有三种情况：\n（1）A 类选一门，B 类选三门，有\n（2）A 类选两门，B 类选两门，有\n（3）A 类选三门，B 类选一门，有\n则选法共有\n方法二：要求两类课程各至少选一门，正向情况数较多，从反面考虑。总情况为七门课程中选择四门，\n\n种；\n种；\n种；\n\n种。\n\n为\n满足情况数 总情况数 不满足要求情况数\n\n种情况；不满足要求的情况为选择四门课程都为一类，只有 A 类四门都选、B 类不选 1 种情况。\n种。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第58题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "12 随着人们生活水平的提高，汽车拥有量迅速增长，汽车牌照号码需要扩容。某地级市交通管理部门出 台了一种小型汽车牌照组成办法，每个汽车牌照后五位的要求必须是：前三位为阿拉伯数字，后两位为两 个不重复的英文字母（字母 O、I 不参与组牌），那么用这种方法可以给该地区汽车上牌照的数量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "397440 辆"
+      },
+      {
+        "label": "B",
+        "content": "402400 辆"
+      },
+      {
+        "label": "C",
+        "content": "552000 辆"
+      },
+      {
+        "label": "D",
+        "content": "576000 辆"
+      }
+    ],
+    "answer": "C",
+    "explanation": "先安排前三位，0-9 共 10 个数字，所以前三位排法有\n\n字母共 26 个，字母 O、I 不参与组牌，剩 24 个，且不重复，所以后两位排法有\n该地区汽车上牌照的数量为\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第59题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某装修公司订购了一条长为 2.5m 的长方体条形不锈钢管，要剪裁成 60cm 和 43cm 长的两种规格长度不 锈钢管若干根，所裁钢管的横截面与原来一样，不考虑剪裁时材料的损耗，要使剩下的钢管尽量少，此时 材料的利用率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.998"
+      },
+      {
+        "label": "B",
+        "content": "0.996"
+      },
+      {
+        "label": "C",
+        "content": "0.928"
+      },
+      {
+        "label": "D",
+        "content": "0.824"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设剪裁成 60cm 的不锈钢管 根，剪裁成 43cm 的不锈钢管 根，根据题意，长方体条形不锈钢管长为 2.5m，\n\n辆。\n\n种；再安排后两位，英文\n种。可以给\n\n单位统一为 250cm，即：\n\n；",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第60题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某草莓经销商有 201 箱的草莓要分配给若干个水果店，要求无论选用怎样的分配方式，都要有水果店 至少分到 8 箱，则水果店至多有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "20 个"
+      },
+      {
+        "label": "B",
+        "content": "21 个"
+      },
+      {
+        "label": "C",
+        "content": "28 个"
+      },
+      {
+        "label": "D",
+        "content": "29 个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "问至多有多少家，从最大的选项开始代入。分配方式为平均分配可以使水果店最多。\n代入 D 项，如果每家先分 7 箱，\n代入 C 项，如果每家先分 7 箱，\n\n箱，则所有水果店分得水果都不超过 8 箱，排除；\n箱，剩余\n\n箱，都会有一家至少分得 8 箱，当\n\n选。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第61题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲乙丙三个志愿者共同照顾李奶奶，甲每 4 天去一次，乙每 5 天去一次，丙每 6 天去一次。如果他们 三个于 5 月 5 日在李奶奶家同时见面，则他们三人下次在李奶奶家同时见面的时间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三个社区需要建设若干个 5G 基站，三个社区可供选择的建设基站地点分别有 2 个、4 个、5 个， 现从 A、B、C 三个社区分别选取 1、2、3 个地点随机分配给甲、乙、丙三个施工队进行建设，要求每个施 工队只能承接一个社区，则承建方式有： A、720 种"
+      },
+      {
+        "label": "B",
+        "content": "480 种"
+      },
+      {
+        "label": "C",
+        "content": "360 种"
+      },
+      {
+        "label": "D",
+        "content": "120 种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，从 A 社区选取 1 个地点的情况数为 ；从 B 社区选取 2 个地点的情况数为 ；从 C 社区选\n。又已知每个施工队只能承接一\n种。\n\n取 3 个地点的情况数为 ，组合情况数为\n个社区，将三个社区建设任务分配给三个施工队，承建方式有\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第62题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "送奶工人给 11 楼住户送牛奶，由于小区停电导致电梯无法使用。如果他走楼梯从第 1 层到第 2 层需要 5 秒，以后每多走一层需多花 2 秒，其中走到 5 层以后每多走一层需多休息 5 秒，那么他走到 11 层需要多 少秒？",
+    "options": [
+      {
+        "label": "A",
+        "content": "210"
+      },
+      {
+        "label": "B",
+        "content": "215"
+      },
+      {
+        "label": "C",
+        "content": "220"
+      },
+      {
+        "label": "D",
+        "content": "235"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，走各层楼梯用时是公差为 2 的等差数列。从第 1 层走到第 2 层用时\n\n秒，根据\n\n，从第十层走到第十一层用时\n\n秒，再根据等差数列求和公式：\n\n，可得走楼梯用时为\n\n秒；休息用时是公差为 5 的等差数列，\n\n秒，到第十层休息用时\n\n秒，中途休息总用时\n\n秒；总用时\n\n秒。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第63题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某公司职员小王要乘坐公司班车上班，班车到站点的时间为上午 7 点到 8 点之间，班车接人后立刻开 走；小王到站点的时间为上午 6 点半至 7 点半之间。假设班车和小王到站的概率是相等（均匀分布）的， 那么小王能够坐上班车的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "11"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设小王到的时间为 ，班车到的时间为 ，则只有当\n\n，小王能够坐上班车。即直线\n\n、\n\n本题所求概率即求阴影部分面积占整个图形 ABCD 面积的比例。由图可得，假设边长为 1，则面积\n\n围成的区域；如下图所示，只有在阴影部分区域小王能够坐上班车，\n，\n\n、\n\n空白部分为一个等腰直角三角形，面积为\n\n，则阴影部分面积\n\n，占总面积的 。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第64题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某商场为了促销，进行掷飞镖游戏。每位参与人员投掷一次，假设掷出的飞镖均扎在飞镖板上且位置 完全随机，扎中阴影部分区域（含边线）即为中奖。该商场预设中奖概率约为 ，仅考虑中奖概率的前提 下，以下四幅图形（图中的正三角形和正方形均与圆外切或内接）最适合作为飞镖板的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "最适合作为飞镖板即阴影部分所占面积比例约为 ，故需分别求出四个选项阴影所占面积比例。\n\nA 项，赋值圆半径为 1，则\n\n，\n\n，阴影面积所占\n\n比例\n\n（\n\n，\n\n）；\n\nB 项，赋值圆半径为 1，则\n\n，\n\n，阴影面积所占比例\n\n；\n\nC 项，赋值圆半径为 1，则\nD 项，赋值圆半径为 1，\nB 选项最接近 。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第65题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2021/q065.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如下图 1 所示，在一个金字塔造型（底面为正方形，侧面为四个全等的等腰三角形）的铸造件内部挖 空一个圆柱。现沿铸造件顶点 A 且垂直底面的方向切开，切开后的截面如下图 2 所示，已知 DE、GF 为圆柱 的高， 分米，那么挖后铸造件的体积是： 分米， 分米，",
+    "options": [
+      {
+        "label": "A",
+        "content": "BC 为等腰三角形，又从 A 点垂直底面切开，\n\n所以 AO 既是垂线也是平分线，那么\n\n分米，又因为三角形 DBE 与三角形\n\nABO 是相似三角形，所以\n\n，所以\n\n，则圆柱底面半径"
+      },
+      {
+        "label": "B",
+        "content": "C 为等腰三角形，又从 A 点垂直底面切开，\n\n所以 AO 既是垂线也是平分线，那么\n\n分米，又因为三角形 DBE 与三角形\n\nABO 是相似三角形，所以\n\n，所以\n\n，则圆柱底面半径"
+      },
+      {
+        "label": "C",
+        "content": "为等腰三角形，又从 A 点垂直底面切开，\n\n所以 AO 既是垂线也是平分线，那么\n\n分米，又因为三角形 DBE 与三角形\n\nABO 是相似三角形，所以\n\n，所以\n\n，则圆柱底面半径"
+      },
+      {
+        "label": "D",
+        "content": "BE 与三角形\n\nABO 是相似三角形，所以\n\n，所以\n\n，则圆柱底面半径"
+      }
+    ],
+    "answer": "B",
+    "explanation": "，\n\n，\n\n，阴影面积所占比例\n\n；\n\n，阴影面积所占比例\n\n。\n\n由题意可知，所求体积\n\n。\n\n四棱锥：由题干可知四棱锥的底面为正方形，且边长\n\n分米，高\n\n分米，那么\n\n立方分米。\n\n圆柱：由题干可知四棱柱侧面均为等腰三角形，即三角形 ABC 为等腰三角形，又从 A 点垂直底面切开，\n\n所以 AO 既是垂线也是平分线，那么\n\n分米，又因为三角形 DBE 与三角形\n\nABO 是相似三角形，所以\n\n，所以\n\n，则圆柱底面半径",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第66题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一辆垃圾转运车和一辆小汽车在一段狭窄的道路上相遇，必须其中一车倒车让道才能通过，已知小汽 车倒车的距离是转运车的 9 倍，小汽车的正常行驶速度是转运车的 3 倍，如果小汽车倒车速度是其正常速",
+    "options": [
+      {
+        "label": "A",
+        "content": "小汽车"
+      },
+      {
+        "label": "B",
+        "content": "垃圾转运车"
+      },
+      {
+        "label": "C",
+        "content": "两车均可"
+      },
+      {
+        "label": "D",
+        "content": "无法计算"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值情况如下：\n\n如果垃圾转运车先倒车，垃圾转运车的倒出时间为；此时垃圾转运车通过窄道，用时，合计时间。如果小汽车先倒车，小汽车的倒车时间为；此时小汽车通过窄道，用时，合计时间。\n两种方案比较，垃圾转运车倒车才能够使两车尽快都通过。\n故正确答案为B。\n\n[来源 baijing1.top paperId=630 sort=67 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第67题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-014",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "度的六分之一，垃圾转运车倒车速度是正常速度的五分之一，问应该由哪辆车倒车才能够使两车尽快都通 过？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小汽车"
+      },
+      {
+        "label": "B",
+        "content": "垃圾转运车"
+      },
+      {
+        "label": "C",
+        "content": "两车均可"
+      },
+      {
+        "label": "D",
+        "content": "无法计算"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查人文常识。\nA 项正确，巴金，原名李尧棠，字芾甘，代表作有《爱情三部曲》《寒夜》等。\nB 项正确，曹禺，原名万家宝，代表作有《雷雨》《日出》《原野》《北京人》等。\nC 项正确，老舍，原名舒庆春，字舍予，代表作有《骆驼祥子》《四世同堂》《月牙儿》等。\nD 项错误，丁玲，原名蒋伟，字冰之，代表作有《太阳照在桑干河上》等；郭沫若，本名郭开贞，代表\n\n作有《抱和儿浴博多湾中》《凤凰涅槃》等。\n\n本题为选非题，故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第14题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "大江两岸有两个正面相对的码头，可供客轮往返。如下图所示，根据河流水文情况，“幸福号”客轮 星期一沿着河岸 60 度夹角方向前行，刚好达到对岸码头；星期二“幸福号”准备返回时，发现河流水文情 况发生变化，船长调整航向，沿河岸 30 度夹角方向返回，顺利到达码头。假设客轮往返速度均是 千米/ 小时，且行驶过程中河水流速是恒定的，问返程时河水流速是去程时的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "BC 中，\n\n。因此返程水速是去程\n\n水速的：\n\n倍。"
+      },
+      {
+        "label": "B",
+        "content": "C 中，\n\n。因此返程水速是去程\n\n水速的：\n\n倍。"
+      },
+      {
+        "label": "C",
+        "content": "中，\n\n。因此返程水速是去程\n\n水速的：\n\n倍。"
+      },
+      {
+        "label": "D",
+        "content": "的三边关系则有：\n\n；同理在直角三角形 ABC 中，\n\n。因此返程水速是去程\n\n水速的：\n\n倍。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干可知船最终都是到达正对岸，说明船速和水速的合成速度行进的方向均在虚线上，且客轮往返\n千米/小时，往返时间均为 小\n\n速度均为 千米/小时。假设去程的水速为 千米/小时，返程的水速为\n时；如图所示，由题干可推出，\n\n，\n\n。根据直角三角形 EFD 的三边关系则有：\n\n；同理在直角三角形 ABC 中，\n\n。因此返程水速是去程\n\n水速的：\n\n倍。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第68题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2021/q068.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某果品公司急需将一批不易存放的水果从 A 市运到 B 市销售。现有四家运输公司可供选择，这四家运 输公司提供的信息如下：",
+    "options": [
+      {
+        "label": "A",
+        "content": "170"
+      },
+      {
+        "label": "B",
+        "content": "176"
+      },
+      {
+        "label": "C",
+        "content": "340"
+      },
+      {
+        "label": "D",
+        "content": "352"
+      }
+    ],
+    "answer": "C",
+    "explanation": "19\n\n\f根据运输时间\n\n，各公司运输费用情况如下：\n\n甲公司与丁公司总运费相同，因此二者均不可能为最小，排除 A、D 两项，丙公司总费用小于乙公司，\n\n可知丙公司总费用最小。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第69题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-015",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如果 A、B 两市的距离为 S 千米（ 千米），且这批水果在包装与装卸以及运输过程中的损耗为 300 元/小时，那么要使果品公司支付的总费用（包装与装卸费用、运输费用及损耗三项之和）最小，应选 择哪家运输公司？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两市的距离为 S 千米（ 千米），且这批水果在包装与装卸以及运输过程中的损耗为 300 元/小时，那么要使果品公司支付的总费用（包装与装卸费用、运输费用及损耗三项之和）最小，应选 择哪家运输公司？ A、甲"
+      },
+      {
+        "label": "B",
+        "content": "乙"
+      },
+      {
+        "label": "C",
+        "content": "丙"
+      },
+      {
+        "label": "D",
+        "content": "丁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查法律常识。\nA 项正确，根据《中华人民共和国民法典》第九百八十九条规定：“本编调整因人格权的享有和保护产\n\n生的民事关系。”民法典将人格权独立成编，调整的是因人格权的享有和保护产生的民事关系。\n\nB 项错误，根据《中华人民共和国民法典》第十九条规定：“八周岁以上的未成年人为限制民事行为能\n力人，实施民事法律行为由其法定代理人代理或者经其法定代理人同意、追认；但是，可以独立实施纯获\n利益的民事法律行为或者与其年龄、智力相适应的民事法律行为。”因此，八周岁以上的未成年人可以独\n立实施纯获利益的民事法律行为或者与其年龄、智力相适应的民事法律行为。\n\nC 项正确，根据《中华人民共和国民法典》第一千二百六十条规定：“本法自 2021 年 1 月 1 日起施行。\n\n《中华人民共和国婚姻法》、《中华人民共和国继承法》、《中华人民共和国民法通则》、《中华人民共",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第15题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-shuliang-2021-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某公园鸟语林共饲养 180 只鸟类动物，为养护方便，园方将鸟语林分为 A、B、C 三个区。某日，A 区的 一部分鸟飞至 B、C 两区，清点时，B、C 两区鸟的数量都增加一倍。次日，一些鸟又从 B 区飞至 A、C 两区， 清点时，A、C 两区鸟的数量也都增加一倍。第三日，一部分鸟又从 C 区飞至 A、B 两区，清点时，A、B 两 区鸟的数量同样增加一倍，而此时 C 区剩余鸟的数量恰好是 A 区的 ，那么，最初 A 区有多少只鸟？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三个区。某日，A 区的 一部分鸟飞至"
+      },
+      {
+        "label": "B",
+        "content": "C 两区，清点时，B、C 两区鸟的数量都增加一倍。次日，一些鸟又从 B 区飞至 A、C 两区， 清点时，A、C 两区鸟的数量也都增加一倍。第三日，一部分鸟又从 C 区飞至 A、B 两区，清点时，A、B 两 区鸟的数量同样增加一倍，而此时 C 区剩余鸟的数量恰好是 A 区的 ，那么，最初 A 区有多少只鸟？ A、103 B、104"
+      },
+      {
+        "label": "C",
+        "content": "105"
+      },
+      {
+        "label": "D",
+        "content": "106 四、判断推理。第四部分 判断推理。 本部分包括图形推理、定义判断、类比推理与逻辑判断四种类 型的试题，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "将三次鸟的变化情况列表如下：\n\n根据第三次后，C 区剩余鸟的数量恰好是 A 区的 ，说明 A 区现在鸟的数量必然为 26 的整数倍。代入\n\nA 项：最初 A 区有 103 只，则\n区剩余\n\n只，第三次后 也是 26 的倍数，符合题意，当选。其余选项均不满足。\n\n只，第一次后\n\n只，则 A\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第70题",
+    "region": "heilongjiang"
+  }
+]

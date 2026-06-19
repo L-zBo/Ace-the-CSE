@@ -1,0 +1,528 @@
+[
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年全国房地产开发投资比上年增长：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.0%"
+      },
+      {
+        "label": "B",
+        "content": "8.6%"
+      },
+      {
+        "label": "C",
+        "content": "9.5%"
+      },
+      {
+        "label": "D",
+        "content": "10.2%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：90%，易错项：B。\n解析\n第一步，本题考查简单计算中的和差类。\n第二步，定位文字材料可知，“2019年1—12月，全国房地产开发投资132194亿元，比上年增长9.9%，增速比\n上年加快0.4个百分点”。\n第三步，2018年同比增速为9.9%－0.4%=9.5%。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第106题",
+    "region": "fujian",
+    "questionImage": "/img/questions/provincial_fujian_2020/q106.png"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国房地产开发投资增长最快的地区：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东部地区"
+      },
+      {
+        "label": "B",
+        "content": "中部地区"
+      },
+      {
+        "label": "C",
+        "content": "西部地区"
+      },
+      {
+        "label": "D",
+        "content": "东北地区"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：89%，易错项：A。\n解析\n第一步，本题考查增长率读数比较。\n第二步，定位表1。\n第三步，2019年房地产开发投资增长最快的地区是“西部地区”（16.1%）。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第107题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国住宅投资在房地产开发投资中的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "60%"
+      },
+      {
+        "label": "B",
+        "content": "67%"
+      },
+      {
+        "label": "C",
+        "content": "73%"
+      },
+      {
+        "label": "D",
+        "content": "83%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：89%，易错项：B。\n解析\n第一步，本题考查现期比重计算中的求比重。\n第二步，定位文字材料可知，“2019年1—12月，全国房地产开发投资132194亿元……住宅投资97071亿元”。\n第三步，根据比重=部分量/整体量，选项出现首位相同第二位不同的情况，将分母从左向右截取前三位，代入数\n据可得： ，直除首位商7。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考fujian行测第108题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国商品房销售面积同比下降幅度最大的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东部地区"
+      },
+      {
+        "label": "B",
+        "content": "中部地区"
+      },
+      {
+        "label": "C",
+        "content": "西部地区"
+      },
+      {
+        "label": "D",
+        "content": "东北地区"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：83%，易错项：A。\n解析\n第一步，本题考查增长率读数比较。\n第二步，定位表2。\n第三步，“降幅”是指“减少率”，排除C选项（西部地区未下降），“降幅”的比较看绝对值， 2019年商\n品房销售面积降幅最大的地区是“东北地区”（|－5.3%|）。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考fujian行测第109题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上述材料可以推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年全国住宅投资和住宅销售面积实现增长"
+      },
+      {
+        "label": "B",
+        "content": "2019 年全国商品房销售面积和销售额同时下降"
+      },
+      {
+        "label": "C",
+        "content": "2019 年东北地区商品房销售面积和销售额同时下降"
+      },
+      {
+        "label": "D",
+        "content": "2019 年全国住宅销售额和办公楼销售额同时下降 (材料 2) - 14 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：80%，易错项：B。\n-28-\n解析\n第一步，本题考查综合分析，且需选出正确的一项。\n第二步，A选项，直接读数。定位文字材料可知，“2019年1—12月，住宅投资增长13.9%……住宅销售面积增\n长1.5%”，同比增长率均大于0 ，投资额与投资面积均实现增长，正确。\nB选项，直接读数。定位文字材料可知， “2019年1—12月，全国商品房销售面积比上年下降0.1%……商品\n房销售额增长6.5%”，销售e未下降，错误。\nC选项，直接读数。定位表2，2019年东北地区商品房销售额同比增长2.8%，销售额未下降，错误。\nD选项，直接读数。定位文字材料可知，“2019年1—12月，住宅销售额增长10.3%，办公楼销售额下降15.1%”，\n办公楼销售额未实现增长，错误。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第110题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在 4 个城市中，通勤空间半径最短的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市"
+      },
+      {
+        "label": "B",
+        "content": "乙市"
+      },
+      {
+        "label": "C",
+        "content": "丙市"
+      },
+      {
+        "label": "D",
+        "content": "丁市"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：88%，易错项：D。\n解析\n第一步，本题考查简单比较中读数比较问题。\n第二步，定位图1，“甲城市通勤空间半径40公里，乙城市通勤空间半径39公里，丙城市通勤空间半径31公\n里，丁城市通勤空间半径40公里”。\n第三步，直接读数可得，丙城市通勤空间半径（31公里）最短。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第111题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "平均通勤距离超过了 4 个城市平均值的有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 个城市"
+      },
+      {
+        "label": "B",
+        "content": "2 个城市"
+      },
+      {
+        "label": "C",
+        "content": "3 个城市"
+      },
+      {
+        "label": "D",
+        "content": "4 个城市"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：82%，易错项：C。\n解析\n第一步，本题考查现期平均数比较。\n第二步，定位图1，“甲城市平均通勤距离11.1公里，乙城市平均通勤距离9.1公里，丙城市平均通勤距离8.7\n公里，丁城市平均通勤距离8.1公里”。\n第三步，根据平均数=总数/总个数=后/前，可知，4个城市的平均值为 =9.25（公里）。\n则超过了平均值的城市有甲城市（11.1公里），共1个。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第112题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如果 5 公里内可采用步行或自行车等绿色出行方式上班，超过半数的通勤人口可以绿色出行方式上班的城 市有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市和乙市"
+      },
+      {
+        "label": "B",
+        "content": "甲市和丙市"
+      },
+      {
+        "label": "C",
+        "content": "乙市和丁市"
+      },
+      {
+        "label": "D",
+        "content": "丙市和丁市"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：91%，易错项：A。\n解析\n第一步，本题考查简单比较中的读数比较问题。\n第二步，定位图2，“甲城市5公里通勤比重38%，乙城市5公里通勤比重48%，丙城市5公里通勤比重51%，丁\n城市5公里通勤比重57%”。\n第三步，题干中“如果5公里内可以采用步行或自行车等绿色出行方式上班，超过半数的通勤人口可以绿色出行\n方式上班的城市”可理解为：超过半数的通勤人口在5公里以内的城市，即5公里通勤比重大于一半（50%）的\n城市。读数可知，超过半数（50%）的有丙城市（51%）和丁城市（57%）。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第113题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "通勤人口被轨道交通覆盖的比重最大的城市是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市"
+      },
+      {
+        "label": "B",
+        "content": "乙市"
+      },
+      {
+        "label": "C",
+        "content": "丙市"
+      },
+      {
+        "label": "D",
+        "content": "丁市"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：82%，易错项：D。\n解析\n第一步，本题考查简单比较中的读数比较问题。\n第二步，定位图2，“甲城市轨道覆盖比重27%，乙城市轨道覆盖比重33%，丙城市轨道覆盖比重37%，丁城市轨\n道覆盖比重30%”。\n第三步，通勤人口被轨道交通覆盖的比重最高的是丙城市（37%）。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考fujian行测第114题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "关于 4 个城市通勤的公共交通情况，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市公共交通服务能力最强但是轨道覆盖通勤最差"
+      },
+      {
+        "label": "B",
+        "content": "甲市公共交通服务能力最弱并且轨道覆盖通勤最差"
+      },
+      {
+        "label": "C",
+        "content": "乙市公共交通服务能力最强但是轨道覆盖通勤一般"
+      },
+      {
+        "label": "D",
+        "content": "丁市公共交通服务能力最强并且轨道覆盖通勤最好 (材料 3) - 15 -"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：85%，易错项：A。\n解析\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A选项，读数比较，定位图2，根据政府《报告》可知，45分钟通勤时间是合理通勤的基本保障，也反\n映了公共交通系统与职住空间的契合程度。45分钟公交服务能力比重越高，说明公共交通系统对城市通勤的保\n障越好，即45分钟公交能力占比越高代表公交服务能力越强。甲城市45分钟公交能力占比为32%，低于乙城市\n（39%）、丙城市（50%）、丁城市（57%），占比不是最高，即公共交通服务能力不是最强，错误。\n-29-\nB选项，读数比较，定位图2，甲城市45分钟公交能力占比为32%，低于乙城市（39%）、丙城市（50%）、丁城\n市（57%），占比最低，即公共交通服务能力最弱；甲城市轨道覆盖比重为27%，低于乙城市（33%）、丙城市（37%）、\n丁城市（30%），占比最低，即轨道覆盖通勤最差，正确。\nC选项，读数比较，定位图2，乙城市45分钟公交能力占比为39%，低于丙城市（50%）、丁城市（57%），占比\n不是最高，即公共交通服务能力不是最强，错误。\nD选项，读数比较，定位图2，丁城市45分钟公交能力占比为57%，高于甲城市（32%）、乙城市（39%）、丙城\n市（50%），占比最高，即公共交通服务能力最强；丁城市轨道覆盖比重为30%，低于乙城市（33%）、丙城市（37%），\n占比不是最高，即轨道覆盖通勤不是最好，错误。\n因此，选择B选项。\n拓展\n在路程耗时方面，某政府《报告》指出，45分钟通勤时间是合理通勤的基本保障，也反映了公共交通系统与职\n住空间的契合程度。45分钟公交服务能力比重越高，说明公共交通系统对城市通勤的保障越好。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第115题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比较，2 月份职工人数变动幅度最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：87%，易错项：B。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位表格材料“职工人数”所在列。\n第三步，根据 ，可得甲、乙、丙、丁车间职工人数增长率分别为\n、 、 、 ，\n变动幅度最大，即变化率最大，只需要看增长率绝对值的大小即可，显然变化率（变动幅度）最大的是甲车间。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第116题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上个月相比较，2 月份月平均工资增长速度最快的车间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：84%，易错项：B。\n解析\n第一步，本题考查增长率计算比较问题。\n第二步，定位表格材料“月平均工资”所在列。\n第三步，根据 ，丁车间月平均工资2月＜1月，增长率为负，排除D选项；\n甲车间2月份平均工资环比增长率为： ，乙车间： ，\n丙车间： ，则丙车间最大。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第117题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "对集团公司 1、2 月份的产值贡献率最大的车间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：81%，易错项：A。\n解析\n第一步，本题考查现期比值比较问题。\n第二步，定位柱状图材料。\n第三步，产值贡献率=某车间产值/四大车间总产值，对集团公司1、2月份的产值贡献率最大的车间，即所占比\n重最大的，整体量一致，只需比较部分量（1月＋2月）大小即可，观察柱状图，乙车间1月（600万元）和2\n月（880万元）的产值均高于其他车间，则乙车间这两个月的总产值最高，贡献率最大。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第118题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比较，集团公司 2 月份的总产值增长额为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "520 万元"
+      },
+      {
+        "label": "B",
+        "content": "650 万元"
+      },
+      {
+        "label": "C",
+        "content": "680 万元"
+      },
+      {
+        "label": "D",
+        "content": "710 万元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：87%，易错项：B。\n解析\n第一步，本题考查增长量计算中的已知现期量与基期量。\n第二步，定位柱状图材料。\n第三步，根据增长量=现期量－基期量，代入数据可得集团公司2月份的总产值比上月的增长额为（850－500）\n＋（880－600）＋（280－250）＋（320－300）=350+280+30+20=680（万元）。\n-30-\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第119题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-ziliao-2020-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 月份人均产值最大的是乙车间"
+      },
+      {
+        "label": "B",
+        "content": "2 月份各车间的月工资总额都有所上升"
+      },
+      {
+        "label": "C",
+        "content": "2 月份丁车间的人均产值低于整个集团公司的人均产值"
+      },
+      {
+        "label": "D",
+        "content": "集团公司 2 月份的月工资增长率低于月产值增长率 - 16 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：60%，易错项：C。\n解析\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A选项，平均数比较。定位表格材料及图形材料，人均产值=产值／人数，则1月份甲车间人均产值= =1，\n乙车间人均产值= =1，丙车间人均产值= =0.83，丁车间= =1.5，因此，丁车间人均产值最大，错误。\nB选项，其他比较。定位表格材料，月工资总额=职工人数×月平均工资，丁车间2月工资总额（200×7950）＜\n1月工资总额（200×8000），没有上升，错误。\nC选项，现期平均数比较。定位表格和图形材料，根据平均数=后/前，丁车间的平均产值为 ，\n整个集团公司的人均产值 ，则丁车间的平均产值高于整个集团\n公司的人均产值，错误。\nD选项，增长率比较。定位表格材料及图形材料，整个集团2月工资为550×5200+580×4600+320×6500+200×\n7950=9198000，1月工资为500×5000+600×4500+300×6000+200×8000=8600000，增长率为\n；2月产值为850+880+280+320=2330，1月产值为500+600+250+300=1650，增长率为\n，后者分子大分母小，分数值大，即整个集团公司的工资增长率低于产值增长率，正确。\n因此，选择D选项。\n-31-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考fujian行测第120题",
+    "region": "fujian"
+  }
+]

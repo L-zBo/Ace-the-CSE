@@ -1,0 +1,353 @@
+[
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲、乙、丙3台收割机每小时均能收割2亩小麦，三台机器上午先后开始收割工作，12：00时甲收割的面积是乙 公众号上岸小局灯祝您上岸 的1.5倍，且比丙多收割6亩，16：00时3台收割机共收割了50亩，问乙是何时开始工作的？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6：00"
+      },
+      {
+        "label": "B",
+        "content": "7：00"
+      },
+      {
+        "label": "C",
+        "content": "8：00"
+      },
+      {
+        "label": "D",
+        "content": "9：00"
+      }
+    ],
+    "answer": "C",
+    "explanation": "12：00 至 16：00，3 台收割机均工作 4 小时，共收割\n\n亩小麦，则 12：00 之前 3 台收\n\n割机收割 50-24=26 亩小麦。设 12：00 之前乙收割机工作了 x 小时，收割面积为 2x 亩，根据题意可列等\n\n式：\n\n，解得 x=4，即乙收割机在 12：00 之前工作了 4 小\n\n时，则乙是在 8：00 开始工作的。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第66题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "甲、乙、丙、丁四个部门共有210名员工，且甲部门员工数比丁部门多10人。现乙部门调动20名员工到丙部门 且其剩余员工并入丁部门后，甲、丙、丁三个部门的员工数之比为3：3：4。问原乙部门有多少名员工？",
+    "options": [
+      {
+        "label": "A",
+        "content": "41"
+      },
+      {
+        "label": "B",
+        "content": "46"
+      },
+      {
+        "label": "C",
+        "content": "51"
+      },
+      {
+        "label": "D",
+        "content": "56"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：调动后，甲、丙、丁三个部门的员工数分别为\n\n名、63 名、210-63- 2025  国考《行测》（行政执法卷）解析 \n\n63=84 名。则调动前，甲、丙、丁三个部门的员工数分别为 63 名、63-20=43 名、63-10=53 名，原乙部\n门有 210-63-43-53=51 名员工。 \n\n方 法 二 ： 调 动 后 ， 甲 、 丁 两 个 部 门 的 员 工 数 分 别 为\n\n名 、\n\n名。则调动前，甲、丁两个部门的员工数分别为 63 名、63-10=53 名，可知\n\n乙部门并入丁部门的员工数为 84-53=31 名，原乙部门有 20+31=51 名员工。 \n故正确答案为 C。 \n\n根据题意可列方程组：\n\n+\n\n= 28 × 4\n\n，解得：王=27，张=29，李=31，赵=25。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第67题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "张、王、李、赵4人的平均年龄为28岁，张、王的年龄之和比李大25岁，李、赵的年龄之和比张大27岁。已知 张比王大2岁，问他们4人中年龄最大的比最小的大几岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "张\n\n王\n\n李\n\n+\n\n张\n\n李\n\n+\n\n王\n\n赵\n\n⎧\n⎪\n\n赵\n\n李\n\n张\n\n=\n王\n=\n因此 4 人中年龄最大的李（31 岁）比最小的赵（25 岁）大 31-25=6 岁。 \n=\n故正确答案为 B。 \n\n+\n张\n+\n\n+ 27\n\n+ 25\n\n⎨\n⎪\n⎩\n\n+ 2",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第68题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "将甲、乙两种设备各5件全部分配给A、B、C三个车间，要求每个车间分配两种设备至少各1件，A车间分配的 设备总数比其他任一车间都多，B车间分配的甲设备多于乙设备，问有多少种不同的分配方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "24"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，符合要求的情况列表如下： \n\n综上，共有 3 种不同的分配方式。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第69题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "张某8：00开车从A地出发，在A、B两地之间往返行驶。8：30第一次到达A、B之间的C点时加速30%继续行 驶，并于9：00第二次到达C点。问AC距离是BC距离的多少倍？ B. C. D.",
+    "options": [
+      {
+        "label": "A",
+        "content": "10/13"
+      },
+      {
+        "label": "B",
+        "content": "13/10"
+      },
+      {
+        "label": "C",
+        "content": "20/13"
+      },
+      {
+        "label": "D",
+        "content": "13/5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设张某出发时的速度为 v，8：00 从 A 地出发，8：30 到达 C 点，则 AC 间的路程共用时 30 分钟。根据公\n式：路程=速度×时间，则 AC 距离为 30v。8：30 到达 C 点后，加速 30%继续行驶，并于 9：00 第二次到\n达 C 点。则可知张某在 BC 间往返共用时 30 分钟，即单程用时 15 分钟，速度变为 1.3v，则 BC 距离为 2025  国考《行测》（行政执法卷）解析 \n\n。故 AC 距离是 BC 距离的\n\n倍。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第70题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "小张每周一到周四夜跑，周五到周日休息，已知某年2月他夜跑17次，3月夜跑19次，问4月他夜跑多少次？",
+    "options": [
+      {
+        "label": "A",
+        "content": "16"
+      },
+      {
+        "label": "B",
+        "content": "17"
+      },
+      {
+        "label": "C",
+        "content": "18"
+      },
+      {
+        "label": "D",
+        "content": "19"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题意可知，小张每周夜跑 4 次，则任意连续的 28 天共夜跑\n\n次。2 月前 28 天（2 月 1\n\n日-2 月 28 日）夜跑 16 次，不足 17 次，故该年 2 月应为 29 天，最后 1 天（2 月 29 日）再夜跑 1 次。3\n月有 31 天，后 28 天（3 月 4 号-3 月 31 日）共夜跑 16 次，前 3 天（3 月 1 日-3 月 3 日）夜跑 19-16=3\n次，即 2 月 29 日-3 月 3 日连续 4 天夜跑 4 次，则这 4 天只能是周一至周四。4 月有 30 天，前 28 天夜\n跑 16 次，后 2 天分别为周五、周六，不夜跑，因此小张 4 月夜跑 16 次。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第71题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某种商品在定价基础上打八折销售，打折之前每天卖40件，开始打折第一天起，每天都比前一天多卖10件。打 折销售15天的利润总额与打折之前销售20天的利润总额相同，问这种商品的成本是定价的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "60%"
+      },
+      {
+        "label": "B",
+        "content": "64%"
+      },
+      {
+        "label": "C",
+        "content": "70%"
+      },
+      {
+        "label": "D",
+        "content": "75%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设该商品的成本为 x，且赋值该商品的定价为 10，则打折前该商品每件的利润为 10-x；打折后该商品每\n\n件的售价为 10×0.8=8，利润为 8-x。根据等差数列通项公式\n\n可知，打折销售第 15\n\n天 卖 出 该 商 品\n\n件 ； 根 据 等 差 数 列 求 和 公 式\n\n可 知 ， 该 商 品 打 折 销 售 15 天 共 计 销 售\n\n件。根据题意可列方程：（8-x）×1800=（10-x）×20×40，\n\n解得 x=6.4。故这种商品的成本是定价的\n\n。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第72题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某厂区如图所示，其中ABCD为矩形，ABEF为直角梯形，AB与DE相交于G点，其中阴影区域ADGF为涉密区 域。已知AD、AF、AB长度分别为240米、150米、100米，问涉密区域的面积为多少万平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.2"
+      },
+      {
+        "label": "B",
+        "content": "1.3"
+      },
+      {
+        "label": "C",
+        "content": "1.4"
+      },
+      {
+        "label": "D",
+        "content": "1.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：如下图所示，连接 AE，根据“ABEF 为直角梯形”，可知\n\n，\n\n和\n\n均以 AG 为底、EB 为高，即两个三角形同底等高，则\n\n。由于 ABCD 为矩形且 AD、AB\n\n长度分别为 240 米、100 米，则所求涉密区域面积\n\n平方米=1.2 万平方米。 2025  国考《行测》（行政执法卷）解析 \n\n方法二：设 AG、BE 的长度分别为 x 米、y 米，则 BG 的长度为（100-x）米。根据“ABCD 为矩形，ABEF 为\n\n直角梯形”，则\n\n，\n\n，因此\n\n，\n\n则有\n\n，即\n\n，整理可得\n\n，故所求涉密区域面\n\n积\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第73题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2025_xingzhengzhifa/q073.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "某单位65名职工中，拥有甲、乙、丙三项认证中至少一项的职工正好占80%，没有甲认证的职工与有乙认证的 职工人数一样多，仅有丙认证的职工有3人，三项认证都有的职工有6人，问有多少人仅拥有甲、乙两项认证？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "13"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "19"
+      }
+    ],
+    "answer": "A",
+    "explanation": "平方米=1.2 万平方米。 \n\n根据题意，该单位没有甲、乙、丙三项认证中任何一项的职工人数为 65×（1-80%）=13 人。如图所示，\n设仅有甲、乙两项认证的人数为 x 人，仅有乙、丙两项认证的人数为 y 人，仅有乙认证的人数为 z 人。\n则没有甲认证的职工人数为（z+y+3+13）人，有乙认证的职工人数为（z+y+x+6）人，根据题意可得：\nz+y+3+13=z+y+x+6，解得 x=10，即仅有甲、乙两项认证的人数为 10 人。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第74题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2025-xingzhengzhifa-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2025,
+    "content": "公众号上岸小局灯祝您上岸 一个长方体零件最大面的面积是最小面的3倍，次大面的面积是最大、最小面面积平均值的 。问该零件最小 面的长是其宽的多少倍？ A. B. C.",
+    "options": [
+      {
+        "label": "A",
+        "content": "7/3"
+      },
+      {
+        "label": "B",
+        "content": "7/6"
+      },
+      {
+        "label": "C",
+        "content": "8/3"
+      },
+      {
+        "label": "D",
+        "content": "4/3"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设该长方体零件的三条不同长度的棱长从长到短依次为 a、b、c，则最大面的面积为 ab、次大面的面积 2025  国考《行测》（行政执法卷）解析 \n\n为 ac、最小面的面积为 bc，根据题意则有\n\n，根据①可得 a=3c，\n\n代入②可得\n\n。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年国考行测（行政执法）第75题",
+    "level": "xingzhengzhifa"
+  }
+]

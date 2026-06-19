@@ -1,0 +1,176 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2020-c-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "小张每周一、周三、周五和周日各写 1 篇日记，其余时间不写日记，从不间断。某年第三季度，他写的日 记数量与第四季度相同。问当年劳动节是周几？",
+    "options": [
+      {
+        "label": "A",
+        "content": "周一"
+      },
+      {
+        "label": "C",
+        "content": "周三"
+      },
+      {
+        "label": "B",
+        "content": "周二"
+      },
+      {
+        "label": "D",
+        "content": "周四"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n第三部分 数量分析 \n\n【解析】第三季度与第四季度均为 92 天，即 13 周余 1 天，根据两个季度写的日记数量相同，可知三季度、\n\n四季度各余 1 天分别为周日和周一，即三季度第一天 7 月 1 日为周日。从 5 月 1 日至 7 月 2 日共 63 天，即\n\n9 周，7 月 2 日为周一，可知 5 月 1 日为周二。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-c-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "A、B、C 三地之间彼此有唯一道路相连，且任两地之间的道路长度均为 x 千米。已知从 B 地出发，往 A 地     和 C 地都是下坡路，C 地到 A 地是平路。甲、乙两车同时从 A 地出发，甲往 B 地方向、乙往 C 地方向，在 三地之间不停循环行驶。已知甲车全程保持匀速，乙车在上坡、平路和下坡时，速度分别为甲车的 0.5、1 和 2 倍。两车第一次和第二次相遇的位置最短相隔 y 千米（按道路长度计算），问 y 的值在以下哪个范围 内？ A．y < x",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "1.15x ≤ y＜1.3x"
+      },
+      {
+        "label": "B",
+        "content": "x ≤ y ≤ 1.15x"
+      },
+      {
+        "label": "D",
+        "content": "y ≥ 1.3x"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据甲、乙的速度的关系，赋值甲的速度为 1，乙上坡速度为 0.5、平路速度 1、下坡速度 2。第\n\n一次相遇点为 D，甲从 A 点到 B 点速度为 1，乙从 A 点到 C 点是平路速度为 1，甲和乙同时分别到达 B、C，\n\n甲由 B 到 C 点速度为 1，乙有 C 到 B 点速度为 0.5，根据时间相同时路程之比等于速度之比，可知BD = 2CD，\n\n即BD =",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第47题",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    }
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-c-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "一个圆形人工湖的半径为 150 米，小张从距离湖边 150 米的 A 处出发向湖边正对面湖岸位置的 B 处行进， 并在到达后返回 A 处。如他全程不得进入湖内行走，则他最少得要走：（π ≈ 3.14，√3 ≈ 1.73）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1000 米"
+      },
+      {
+        "label": "B",
+        "content": "1000～1200 米之间"
+      },
+      {
+        "label": "C",
+        "content": "1200～1400 为之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 1400 米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】由题意可知，最短距离为AC + BC。AC 为 OC 的切线，AO = 300米，OC = 150米，则∠OAC = 30°，\n\n利用勾股定理可得：AC = √AO2 − OC2 = 150√3，BC 的长度就是求弧长，BC 为三分之一圆，弧长为 100π。\n\n由此可得：AC + BC = 150√3 + 100π ≈ 259.5 + 314 = 573.5（米），往返需要573.5 × 2 = 1147（米），\n\n介于 1000～1200 米之间。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第48题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-c-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "6 月某中学 6 名教师评上高级职称后，拥有高级职称的教师占教师总人数比例较之前提高 2.5 个百分点。7 月学校有 5 名拥有高级职称的教师退休，并新招聘 15 名尚未评定职称的应届毕业生，这样未拥有高级职称 的教师正好是拥有高级职称的教师数量的 1.5 倍。问该中学 6 月之前，未拥有高级职称的教师比拥有高级 职称的教师多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 40 人"
+      },
+      {
+        "label": "C",
+        "content": "51～60 人之间"
+      },
+      {
+        "label": "B",
+        "content": "40～50 人之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 60 人"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】6 月份 6 名教师评上高级职称，高级职称老师占比提高 2.5 个百分点，则 6 月份教师总人数为6 ÷",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第49题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2020-c-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "一个圆锥体零件的底面半径为 8 厘米，高为 6 厘米。现一刀将该零件切成为 2 个完全相同的部分，问每个 部分的表面积在以下哪个范围内？ （圆锥侧面积公式：S 侧 = πRL，L 为圆锥母线，π ≈ 3.14）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 250 平方厘米"
+      },
+      {
+        "label": "B",
+        "content": "250～300 平方厘米之间 B.D．超过 350 平方厘米"
+      },
+      {
+        "label": "C",
+        "content": "300～350 平方厘米之间"
+      },
+      {
+        "label": "D",
+        "content": "第四部分 资料分析 根据题目要求，在四个选项中选出一个最恰当的答案。 材料一     2019 年前三季度，我国软件业完成软件业务收入 51896 亿元，同比增长 15.2%，增速同比提高 0.2 个百分 点。分季度看，一"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】将圆锥切割成两个完全相等的部分，即从圆锥的顶点延高线进行切割，切成的两部分的表面积分\n\n别为圆锥表面积的一半与切面三角形的面积之和。 \n\n第三步，由圆锥的半径和高分别为 8 厘米、6 厘米，则母线长为 10 厘米，则圆锥的表面积为πRL + πR² =\n\nπ × 8 × 10 + π × 8² = 144π，切面三角形的面积为6 × 8 × 2 ÷ 2 = 48（平方厘米），所以题目所求表面\n\n积为72π + 48 ≈ 274.08（平方厘米），介于 250～300 平方厘米间。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第50题"
+  }
+]

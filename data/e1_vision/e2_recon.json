@@ -1,0 +1,181 @@
+[
+  {
+    "pk": "provincial_guangdong_2020",
+    "qn": "083",
+    "mod": "changshi",
+    "kws": [
+      "结合公式进行分析",
+      "方向上的位移大小",
+      "因为前后两次的",
+      "为两个仓库之间的距离"
+    ],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "provincial_henan_2023",
+    "qn": "115",
+    "mod": "changshi",
+    "kws": [
+      "根据文字材料第一段可知",
+      "个分类指数的权数",
+      "原材料库存指数均为",
+      "供应商配送时间指数为"
+    ],
+    "page": 32,
+    "kw_hits": 1,
+    "total_kws": 4
+  },
+  {
+    "pk": "provincial_shandong_2025",
+    "qn": "020",
+    "mod": "changshi",
+    "kws": [
+      "言语理解与表达"
+    ],
+    "page": 8,
+    "kw_hits": 1,
+    "total_kws": 1
+  },
+  {
+    "pk": "institution_2020_c",
+    "qn": "163",
+    "mod": "panduan",
+    "kws": [
+      "用箭头标记黑白色面",
+      "题干面中直线垂直于与黑色三角形",
+      "选项与题干不一致",
+      "选项面中直线垂直于与黑色三角形"
+    ],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "institution_2020_c",
+    "qn": "164",
+    "mod": "panduan",
+    "kws": [
+      "该面位置均一致",
+      "区别就是右面的特征关系",
+      "根据题干面特征关",
+      "项该面与右面的特征关系正确"
+    ],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "provincial_shanghai_2020",
+    "qn": "089",
+    "mod": "panduan",
+    "kws": [
+      "中外合作企业",
+      "中外合资企业和",
+      "外商独资企业按",
+      "年全年进出口贸易总额同比"
+    ],
+    "page": 13,
+    "kw_hits": 4,
+    "total_kws": 4
+  },
+  {
+    "pk": "provincial_shanghai_2021",
+    "qn": "061",
+    "mod": "panduan",
+    "kws": [
+      "分子是公差为",
+      "分母是公比为"
+    ],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "provincial_shanghai_2021",
+    "qn": "089",
+    "mod": "panduan",
+    "kws": [
+      "中的柱状图能准确反映",
+      "年间粤港澳大湾区年末常住人口同",
+      "比增量的变化趋势",
+      "定位表格材料"
+    ],
+    "page": 13,
+    "kw_hits": 3,
+    "total_kws": 4
+  },
+  {
+    "pk": "provincial_chongqing_2020",
+    "qn": "064",
+    "mod": "shuliang",
+    "kws": [
+      "南部某战区一个",
+      "人小分队里有",
+      "某次突击任务需派出",
+      "种兵可成功完成突击任务"
+    ],
+    "page": 8,
+    "kw_hits": 4,
+    "total_kws": 4
+  },
+  {
+    "pk": "provincial_jiangxi_2020",
+    "qn": "063",
+    "mod": "shuliang",
+    "kws": [
+      "南部某战区一个",
+      "人小分队里有",
+      "某次突击任务需派出",
+      "种兵可成功完成突击任务"
+    ],
+    "page": 7,
+    "kw_hits": 4,
+    "total_kws": 4
+  },
+  {
+    "pk": "provincial_xinjiang_2021",
+    "qn": "006",
+    "mod": "shuliang",
+    "kws": [
+      "不满八周岁的未成年人为无民事行",
+      "由其法定代理人代理实施民事",
+      "下列顺财产不得抵押",
+      "体所有土地的使用权"
+    ],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "provincial_hunan_2020",
+    "qn": "016",
+    "mod": "yanyu",
+    "kws": [],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "provincial_jiangsu_2020",
+    "qn": "006",
+    "mod": "ziliao",
+    "kws": [
+      "人民群众是推动历史发展的绝大多",
+      "数社会成员的总和",
+      "历史唯物主义的一个重要范畴",
+      "民群众是指一切对社会历史发展起"
+    ],
+    "page": null,
+    "reason": "PDF 无任何关键词"
+  },
+  {
+    "pk": "provincial_zhejiang_2021",
+    "qn": "058",
+    "mod": "ziliao",
+    "kws": [
+      "小李有一张银行卡",
+      "他忘记了密码的后",
+      "个数全是奇数且有",
+      "问他尝试不超过两次"
+    ],
+    "page": 7,
+    "kw_hits": 4,
+    "total_kws": 4
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "module": "changshi",
+    "paperKey": "provincial_guangdong_2020",
+    "qn": "083",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "changshi",
+    "paperKey": "provincial_guangdong_2023",
+    "qn": "089",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "changshi",
+    "paperKey": "provincial_neimenggu_2023",
+    "qn": "018",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "changshi",
+    "paperKey": "provincial_shandong_2025",
+    "qn": "020",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "changshi",
+    "paperKey": "provincial_yunnan_2023",
+    "qn": "055",
+    "page": 14,
+    "keyword": "题目正在全力以赴征集",
+    "snippet": "的科目类别构成而言，共有几种选拔方式？ A.6 B.7 C.8 D.9 55. 题目正在全力以赴征集，将会在征集到后第一时间上传（该题选择A 项默认得分） A.缺失 B.缺失 C.缺失 D.缺失 判断",
+    "match": "STRICT"
+  },
+  {
+    "module": "panduan",
+    "paperKey": "provincial_shanghai_2021",
+    "qn": "061",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "shuliang",
+    "paperKey": "provincial_guangdong_2024",
+    "qn": "031",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "shuliang",
+    "paperKey": "provincial_xinjiang_2021",
+    "qn": "006",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "yanyu",
+    "paperKey": "provincial_hunan_2020",
+    "qn": "016",
+    "page": null,
+    "keyword": null,
+    "snippet": "no_hit_in_PDF_text_layer",
+    "match": "MISS"
+  },
+  {
+    "module": "yanyu",
+    "paperKey": "provincial_hunan_2024",
+    "qn": "040",
+    "page": 8,
+    "keyword": "题目正在全力以赴征集",
+    "snippet": "应趋向多元化 B.发掘材质本身之美 C.材料之美源于适用 D.治物基于艺术表现 题目正在全力以赴征集，将会第一时间上传（正确答案默认设置为A项） 40. A.暂缺 B.暂缺 C.暂缺 D.暂缺 竹秆质",
+    "match": "LOOSE"
+  },
+  {
+    "module": "ziliao",
+    "paperKey": "provincial_hainan_2024",
+    "qn": "110",
+    "page": 20,
+    "keyword": "题目正在全力以赴征集",
+    "snippet": "单价同比增长率最大的月份是： 109. A.1月 B.2月 C.4月 D.5月 题目正在全力以赴征集，将会第一时间上传。（正确答案默认设置为A项。） 110. A.暂缺 B.暂缺 C.暂缺 D.暂缺 ",
+    "match": "LOOSE"
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "id": "institution-xingce-ziliao-2021-c-051",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1 月，全国实用新型专利申请总授权数约为万件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.1"
+      },
+      {
+        "label": "C",
+        "content": "14.5"
+      },
+      {
+        "label": "B",
+        "content": "12.6"
+      },
+      {
+        "label": "D",
+        "content": "17.6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】定位表格可知 2020 年第一季度（1 月+2 月+3 月）东部地区快递业务量= 29.51 + 21.76 + 46.78 =",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第51题",
+    "questionImage": "/img/questions/institution_2021_c/q051.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-052",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2020 年 2 月—2021 年 1 月，全国实用新型专利申请授权中，职务专利的环比增长量超过非职务专利的月 份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】定位表格，可知 2020 年 1-12 月各月全国快递业务量。环比增量为负，即当月数值小于上月数值，\n\n2020 年 2-12 月中，满足此要求的月份有 3 个：分别为 2 月、7 月、12 月。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第52题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-053",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2020 年全国实用新型专利申请授权中，下半年的非职务专利申请授权数是上半年的几倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.3"
+      },
+      {
+        "label": "C",
+        "content": "1.7"
+      },
+      {
+        "label": "B",
+        "content": "1.5"
+      },
+      {
+        "label": "D",
+        "content": "1.9"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】定位表格可知，2020 年第四季度各月（10-12 月）中部地区快递业务量分别为 10.39 亿件、12.58\n\n亿件、12.17 亿件；定位注释可知，中部地区共有 6 个省。则 2020 年第四季度，中部地区平均每个省的快\n\n递业务量为10.39+12.58+12.17",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第53题",
+    "questionImage": "/img/questions/institution_2021_c/q053.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-054",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "若 2021 年 1—2 月全国实用新型专利申请总授权数是去年同期的 2 倍，则 2021 年 2 月全国实用新型专利 申请总授权数同比增速为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于 50%"
+      },
+      {
+        "label": "B",
+        "content": "在 50%～100%之间"
+      },
+      {
+        "label": "C",
+        "content": "在 100%～150%之间"
+      },
+      {
+        "label": "D",
+        "content": "高于 150%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】定位表格可知：西部地区快递业务量 2021 年 1 月为 6.58 亿件，2020 年 1 月为 3.08 亿件，2 月为",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第54题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-055",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下折线图中，最能准确反映 2020 第三季度各月全国实用新型专利申请总授权数中，非职务专利申请授 权数占比变化趋势的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B.D．"
+      },
+      {
+        "label": "B",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "C",
+        "content": "B．"
+      },
+      {
+        "label": "D",
+        "content": "（二） 2019 年 1-8 月，我国规模以上互联网和相关服务企业（简称互联网企业）完成业务收入 7522 亿元，同比"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】定位图形材料，可知2020 第三季度各月的职务与非职务专利申请授权数。根据比重=\n部分\n整体，可得\n2020 第三季度各月全国实用新型专利申请总授权数中，非职务专利申请授权数占比分别为：7 月\n3.3\n3.3+22.0 =\n3.3\n25.3 ≈13%；8 月，\n3.2\n3.2+19.4 =\n3.2\n22.6 ≈14.2%；9 月，\n3.3\n3.3+19.6 =\n3.3\n22.9 ≈14.4%。比较可知，2020 年第三季度非\n职务专利申请授权数占比最低的是7 月，最高的是9 月，符合此变化趋势的为B 项折线图。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第55题",
+    "questionImage": "/img/questions/institution_2021_c/q055.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-056",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1-8 月，互联网企业月均业务收入比 2018 年同期提高了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 200 亿元"
+      },
+      {
+        "label": "C",
+        "content": "400—600 亿元"
+      },
+      {
+        "label": "B",
+        "content": "200—400 亿元"
+      },
+      {
+        "label": "D",
+        "content": "600 亿元以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据题干“2019 年1-8 月……比2018 年同期提高了”，结合选项“亿元”，可判定本题为增长\n量计算问题。定位材料第一段“2019 年1-8 月，我国规模以上互联网和相关服务企业（简称互联网企业）\n完成业务收入7522 亿元，同比增长20.9%”。根据增长量=\n现期量\n1+增长率× 增长率，代入数据，则2019 年1-8 月\n互联网企业月均业务收入同比增长\n7522÷8\n1+20.9% × 20.9% ≈\n940\n1+1\n5\n×\n1\n5 =\n940\n6 < 200亿元。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第56题",
+    "questionImage": "/img/questions/institution_2021_c/q056.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-057",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "设 2017 年 1-8 月、2018 年 1-8 月、2019 年 1-8 月互联网企业营业利润与业务收入的比值分别为 x、y 和 z，则有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "x＜y，y＜z"
+      },
+      {
+        "label": "C",
+        "content": "x＜y，y＞z"
+      },
+      {
+        "label": "B",
+        "content": "x＞y，y＞z"
+      },
+      {
+        "label": "D",
+        "content": "x＞y，y＜z"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据题干“设2017 年1-8 月、2018 年1-8 月、2019 年1-8 月，……营业利润与业务收入的比值\n分别为x、y 和z”，结合选项为x、y、z 的大小比较，可判定本题为两期比重的比较问题。定位材料第一、\n二段可知，2019 年1-8 月，互联网企业完成业务收入同比增长20.9%（b），增速同比提高0.2 个百分点；\n互联网企业营业利润同比增长32.7%（a），增速同比提高19.7 个百分点。则2018 年1-8 月业务收入同比\n增速= 20.9% −0.2% = 20.7%，营业利润同比增速= 32.7% −19.7% = 13%。结合两期比重比较结论\n“部分速（a）>整体增速（b），则比重上升；反之，比重下降”，13% < 20.7%，则2018 年1-8 月利润\n与收入的比值同比下降，即x > y；32.7% > 20.9%，则2019 年1-8 月利润与收入的比值同比上升，即y <\nz。 \n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第57题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-058",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "假设 2018 年互联网企业研发投入额为 491.95 亿元，则当年 9-12 月互联网企业研发月均投入额：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 30 亿元"
+      },
+      {
+        "label": "B",
+        "content": "在 30—40 亿元之间"
+      },
+      {
+        "label": "C",
+        "content": "在 40—50 亿元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 50 亿元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】定位文字材料第三段可知，2019 年各类企业研究与试验发展（R&D）经费支出 156.7 亿元，比上年\n\n增长 7.9%；政府属研究机构经费支出 16.5 亿元，下降 6.3%；高等学校经费支出 16.0 亿元，增长 32.0%。\n\n政府属研究机构经费支出下降，即增长率为负值，故其增长量也为负值，排除 A、B 选项；观察 C、D 可知，\n\n只需比较政府属研究机构支出经费的减少量与高等学校的增长量的大小即可。根据增长量 =\n\n现期\n\n1+增长率\n\n×\n\n增长率，代入数据可知，2019 年政府属研究机构支出经费的增长量为 16.5\n1−6.3%\n\n× (−6.3%)，即减少量为",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第58题",
+    "questionImage": "/img/questions/institution_2021_c/q058.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-059",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1-7 月，互联网企业信息服务收入规模同比增速比平台型企业实现业务收入同比增速高多少个百 分点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.1"
+      },
+      {
+        "label": "C",
+        "content": "7.5"
+      },
+      {
+        "label": "B",
+        "content": "6.7"
+      },
+      {
+        "label": "D",
+        "content": "13.1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】定位文字资料第五段“2019 年，全省财政科学技术支出 84.25 亿元，占当年全省财政公共预算支出\n\n的比重为 1.79%……省本级财政科学技术支出 20.76 亿元，其中科学技术科目下的科技支出 17.75 亿元”。\n\n根据公式：比重 =\n\n部分\n\n整体\n\n，可知：2019 年，全省财政公共预算支出=",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第59题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-c-060",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年 8 月，互联网企业完成业务收入同比增速低于 20.9%"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 1—7 月，互联网企业实现营业利润同比增速超过 20% B.D．2018 年 1—8 月，互联网企业完成互联网数据服务收入占完成业务收入的 1%以上"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 1—8 月，互联网企业信息服务收入规模占业务收入的 60%以上"
+      },
+      {
+        "label": "D",
+        "content": "第五部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】A 项：定位文字资料第五段“2019 年，全省财政科学技术支出 84.25 亿元……省本级财政科学技\n\n术支出 20.76 亿元。”根据公式：比重 =\n\n支出的比重20.76",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（c）第60题",
+    "questionImage": "/img/questions/institution_2021_c/q060.png"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "national-xingce-ziliao-2015-dishi-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "与2011 年同期相比，2014 年1 季度农村居民人均现金收入约增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "25.9%"
+      },
+      {
+        "label": "B",
+        "content": "36.8%"
+      },
+      {
+        "label": "C",
+        "content": "47.4%"
+      },
+      {
+        "label": "D",
+        "content": "52.5%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "增长率计算，\n\n。看图可知，2011 年 1 季度农村居民现金收入为 2187 元，2014 年 1 季\n\n，与 C 项最接近。\n\n度为 3224 元，则 2014 年比 2011 年增长了\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第111题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年城镇居民人均可支配收入同比增加了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 千多元"
+      },
+      {
+        "label": "B",
+        "content": "2 千多元"
+      },
+      {
+        "label": "C",
+        "content": "3 千多元"
+      },
+      {
+        "label": "D",
+        "content": "4 千多元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "增长量计算，增长量＝现期量－基期量。2013 年城镇居民人均可支配收入同比增长量＝2013 年城镇居民收\n入－2012 年城镇居民收入。2013 年城镇居民人均可支配收入＝7427＋6222＋6520＋6786≈7400＋6200＋6500＋\n6800＝26900 元；2012 年城镇居民人均可支配收入＝6796＋5712＋5918＋6138≈6800＋5700＋5900＋6100≈\n24500 元。故 2013 年城镇居民人均可支配收入同比增加了约 26900－24500＝2400 元，B 项正确。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第112题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "综合2011-2013 年的数据，农村居民人均现金收入和城镇居民人均可支配收入最高的季度分别是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 季度和1 季度"
+      },
+      {
+        "label": "B",
+        "content": "1 季度和4 季度"
+      },
+      {
+        "label": "C",
+        "content": "4 季度和4 季度"
+      },
+      {
+        "label": "D",
+        "content": "4 季度和1 季度"
+      }
+    ],
+    "answer": "D",
+    "explanation": "观察图可发现，农村居民人均现金收入每一年中第四季度最高，城镇居民人均可支配收入每一年中第一季\n度最高。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第113题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2011—2013 年，农村居民年人均现金收入超过1 万元的年份有几个：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "2011 年农村居民年人均现金收入约为：2200＋1500＋2400＋2800＝8900＜2500×4＝10000 元；\n2012 年农村居民年人均现金收入约为：2600＋1700＋2500＋3000＝9800＜10000 元；\n2013 年农村居民年人均现金收入约为：2900＋1900＋2800＋3400＝11000＞10000 元。\n农村居民年人均现金收入超过 1 万元的年份只有 1 个。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第114题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2013 年各季度农村居民人均现金收入均同比增加"
+      },
+      {
+        "label": "B",
+        "content": "2013 年4 季度城镇人均可支配收入同比增速低于环比增速"
+      },
+      {
+        "label": "C",
+        "content": "2013 年1 季度城镇居民人均可支配收入环比增长了三成多"
+      },
+      {
+        "label": "D",
+        "content": "2013 年下半年农村居民人均现金收入比上半年多约2000 元 （二）根据以下资料，回答116-120 题。 2013 年，某省工业企业全年实现主营业务收入37864 亿元，税金1680 亿元，利润2080 亿元，分别增长19.1%，"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项：直接读图可以发现，2013 年各季度农村居民人均现金收入均比 2012 年高，正确；\n\nB 项：2013 年 4 季度城镇人均可支配收入同比增速＝\n季度城镇人均可支配收入同比增速大于环比增速，错误；\nC 项：2013 年 1 季度城镇收入为 7427 元，2012 年 4 季度城镇收入为 6138 元，2013 年 1 季度环比增长\n\n－1；环比增速=\n\n－1，分母越大，分数越小，故 4\n\n=\n\n≈20%，故环比增长了三成多，错误；\n\nD 项：2013 年下半年农村居民人均现金收入比上半年约多：（3356＋2810）－（1947＋2871）≈3400＋2800－1900\n－2900＝1400 元，远小于 2000 元，错误。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第115题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年全国工业企业主营业务收入约为多少万亿元：",
+    "options": [
+      {
+        "label": "A",
+        "content": "84"
+      },
+      {
+        "label": "B",
+        "content": "90"
+      },
+      {
+        "label": "C",
+        "content": "97"
+      },
+      {
+        "label": "D",
+        "content": "102"
+      }
+    ],
+    "answer": "D",
+    "explanation": "总量计算，总量=\n\n。根据材料“2013 年某省工业企业全年实现主营业务收入 37864 亿元，占全国\n\n，直除首数可以商 1，只有 D 项满足。\n\n工业的 3.7％”可得，2013 年全国工业企业主营业务收入＝\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第116题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年全国工业企业的税金增速比利润增速：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低1.2 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "低5.8 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "高7.0 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "高8.4 个百分点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由材料“2013 年，某省工业企业全年实现主营业务收入 37864 亿元、税金 1680 亿元，利润 2080 亿元，分\n别增长 19.1％、19.4％、26.4％，分别高出全国 7.9、8.4、14.2 个百分点”可知，2013 年全国工业企业的税金\n增速为 19.4%－8.4%＝11%，全国工业企业的利润增速为 26.4%－14.2%＝12.2%，故全国工业企业税金增速比利润\n增速低 12.2%－11%＝1.2%，即低 1.2 个百分点。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第117题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年该省以下行业利润增速从高到低排序正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "石化行业，建材行业，机械行业"
+      },
+      {
+        "label": "B",
+        "content": "建材行业，石化行业，机械行业"
+      },
+      {
+        "label": "C",
+        "content": "汽车行业，食品(含烟草)行业，钢铁行业"
+      },
+      {
+        "label": "D",
+        "content": "食品(含烟草)行业，钢铁行业，汽车行业"
+      }
+    ],
+    "answer": "B",
+    "explanation": "查找材料，2013 年汽车行业利润增速：19.9%；食品行业：34.5%；钢铁行业：18.8%；石化行业：38.1%；\n建材行业：51.6%；机械行业：23.8%，满足正确排序的只有 B 项。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第118题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年该省工业企业的哪项信息，能够从上述资料中直接推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "工业企业利润占全国工业企业利润总额的比重"
+      },
+      {
+        "label": "B",
+        "content": "船舶行业主营业务收入占机械行业的比重"
+      },
+      {
+        "label": "C",
+        "content": "橡胶塑料行业工业企业实现利润额"
+      },
+      {
+        "label": "D",
+        "content": "百户重点企业的总体销售利润率"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项无法求出，材料中没有提及全国工业企业利润总额的具体数值；B 项无法求出，材料中只提供了船舶行\n业的利润数据，缺少主营业务的收入数据；C 项无法求出，材料中仅提供橡胶塑料行业利润增长的数据，缺少具\n体基数值；D 项可以求出，百户重点企业利润＝全省实现利润 2080 亿×百户重点企业利润所占比重 27.6%；百户\n重点企业主营业务收入＝全省主营业务收入 37864 亿×百户重点企业主营业务收入所占比重 29.5%，故可求出百\n\n户重点企业的总体销售利润率＝\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第119题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2012 年该省食品(含烟草)行业主营业务收入同比增速为11.6%"
+      },
+      {
+        "label": "B",
+        "content": "2012 年该省工业企业税金总额中，汽车行业所占比重超过15%"
+      },
+      {
+        "label": "C",
+        "content": "2013 年该省建材行业的销售利润率高于2012 年水平"
+      },
+      {
+        "label": "D",
+        "content": "2012 年该省石油加工业净亏损13.4 亿元 （三）根据以下资料，回答121—125 题。 2014 年1—5 月，我国软件和信息技术服务业实现软件业务收入13254 亿元，同比增长20.9%，比去年同期 回落3.3 个百分点。其中，软件产品完成收入4141 亿元，信息系统集成服务完成收入2649.3 亿元，信息技术咨"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：由材料“食品（含烟草）实现主营业务收入 6359 亿元，增长 20.8％，增速同比放缓 9.2 个百分点”\n可知，2012 年该省食品（含烟草）行业主营业务收入同比增速＝20.8%＋9.2%＝30%，错误。\n\n。\n\n- 13 -\n\n\fB 项：由材料“2013 年，某省工业企业全年实现主营业务收入 37864 亿元、税金 1680 亿元”“2013 年，汽车行\n业实现主营业务收入 4538 亿元，增长 23.1%；税金 225.3 亿元，增长 50%”可知，2012 年该省工业企业税金总\n\n额中，汽车行业所占比重为\nC 项：根据材料可知，2013 年建材行业的利润增长 51.6%，主营业务收入增长 27.1%，利润增长速度高于营业收\n入增长速度，故行业利润率上升，正确。\nD 项：由材料“2013 年石油加工业净亏损 0.2 亿元，同比减亏 13.6 亿元”可知，2012 年净亏损为 0.2＋13.6＝",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第120题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2014 年前5 个月完成收入排名前三的软件业务，同期完成收入占我国软件业务总收入的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "61.8%"
+      },
+      {
+        "label": "B",
+        "content": "69.6%"
+      },
+      {
+        "label": "C",
+        "content": "81.2%"
+      },
+      {
+        "label": "D",
+        "content": "86.5%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "比重计算，\n亿元，信息系统集成服务 2649.3 亿元，数据处理和运营服务 2429.5 亿元，软件业务总收入为 13254 亿元。则所\n\n，与 B 项最为接近。\n\n求比重＝\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第121题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2014 年1～5 月，表中四项软件业务收入之和最高的东北地区副省级城市是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "大连"
+      },
+      {
+        "label": "B",
+        "content": "长春"
+      },
+      {
+        "label": "C",
+        "content": "沈阳"
+      },
+      {
+        "label": "D",
+        "content": "哈尔滨"
+      }
+    ],
+    "answer": "A",
+    "explanation": "结合选项，各地区四项软件业务收入之和分别为：大连：130.51＋133.48＋52.20＋2.37≈320；长春：0.89\n＋2.7＋10.15＋0.03，明显比大连要低；沈阳：73.03＋83.73＋84.42＋10.20≈251；哈尔滨：3.02＋2.09＋3.36\n＋0.19，依旧明显要小于大连。通过计算可知，大连的四项软件业务收入之和最高。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第122题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2014 年1－5 月，副省级城市哪项软件业务完成收入之和低于该业务全国总收入的一半。",
+    "options": [
+      {
+        "label": "A",
+        "content": "数据处理和运营服务"
+      },
+      {
+        "label": "B",
+        "content": "信息技术咨询服务"
+      },
+      {
+        "label": "C",
+        "content": "设计"
+      },
+      {
+        "label": "D",
+        "content": "I"
+      }
+    ],
+    "answer": "D",
+    "explanation": "在四项软件业务中，各项业务全国总收入的一半分别为：\n\n信息技术咨询服务：1399.2× ≈700 亿元；\n\n数据处理和运营服务：2429.5× ≈1215 亿元；\n\n嵌入式系统软件：2230.3× ≈1115 亿元；\n\nIC 设计：405.1× ≈202 亿元。\n对比表格，副省级城市各项软件收入之和，只有 IC 设计的收入之和低于该业务全国总收入的一半。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第123题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2014 年1～5 月，信息技术咨询服务收入同比增速最快的副省级城市，该项收入约是增速最慢的副省级城 市的多少倍：",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "201"
+      },
+      {
+        "label": "D",
+        "content": "70"
+      }
+    ],
+    "answer": "A",
+    "explanation": "倍数计算。查看表格，信息咨询服务收入同比最快的是青岛，增长率为 39.5%，收入为 63.26 亿元；最慢\n\n的是哈尔滨，增长率为 10.1%，收入为 3.02 亿元。故青岛该项收入约为哈尔滨的\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第124题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "关于2014 年1～5 月副省级城市软件业务收入，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "广州市的四项业务收入在副省级城市中均排名前三"
+      },
+      {
+        "label": "B",
+        "content": "武汉市的四项业务收入增速均高于副省级城市平均水平"
+      },
+      {
+        "label": "C",
+        "content": "设计业务收入超过副省级城市该项业务收入的平均水平"
+      },
+      {
+        "label": "D",
+        "content": "数据处理和运营服务收入与嵌入式系统软件收入最高的副省级城市是同一个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项：在嵌入式系统软件收入中，排名前三的分别为深圳 472.19 亿元，青岛 166.03 亿元，杭州 164.78 亿\n元，广州市并未在各项收入中均排前三，错误；\nB 项：对比表格发现，武汉市四项业务收入增速均高于副省级城市平均水平，正确；\n\n≈21 倍。\n\nC 项：查看表格可得，深圳市 IC 设计业务收入为 6.95 亿元，而副省级平均水平为\n设计业务低于平均水平，错误；\nD 项：数据处理和运营服务收入最高的城市是杭州，而嵌入式系统软件收入最高的城市是深圳，并非同一城市，\n错误。\n故正确答案为 B。\n\n亿元，故深圳市 IC",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第125题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年末全国群众文化机构数量同比约增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8%"
+      },
+      {
+        "label": "B",
+        "content": "3%"
+      },
+      {
+        "label": "C",
+        "content": "0.9%"
+      },
+      {
+        "label": "D",
+        "content": "0.4%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "增长率计算，\n\n。故 2013 年群众文化机构数量同比增长率\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第126题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年每个馆办文艺团体平均每月演出约多少场：",
+    "options": [
+      {
+        "label": "A",
+        "content": "25"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "D",
+    "explanation": "平均量计算。年末群众文化机构共有馆办文艺团体 6022 个，演出 15.13 万场，故 2013 年每个馆办文艺团\n\n，与 C 项最为接近。\n\n体平均每月演出：\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第127题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2013 年群众文化机构开展的活动中，平均每次活动参加人数最多的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "展览"
+      },
+      {
+        "label": "B",
+        "content": "文艺活动"
+      },
+      {
+        "label": "C",
+        "content": "公益性讲座"
+      },
+      {
+        "label": "D",
+        "content": "训练班"
+      }
+    ],
+    "answer": "A",
+    "explanation": "依据选项，各项活动平均每次参加的人数为：\n\n场。\n\n；文艺活动：\n\n；公益性讲座：\n\n；训练班：\n\n，故每次参加人\n\n展览：\n数最多的为展览。\n\n- 14 -\n\n\f故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第128题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "2007－2013 年间，平均每万人群众文化设施建筑面积同比增速高于10%的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "B",
+    "explanation": "同比增速高于 10%，即查看（基期值＋10%基期量）是否低于现期值，低于即高出了 10%。对比发现，有 2008\n年、2009 年、2010 年和 2011 年四年满足要求。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第129题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2015-dishi-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2015,
+    "content": "能够给从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2013 年文艺活动的参加人数约是公益性讲座的50 倍"
+      },
+      {
+        "label": "B",
+        "content": "2012 年末全国群众文化机构共有从业人员16 万多人"
+      },
+      {
+        "label": "C",
+        "content": "2013 年全国人均群众文化设施建筑面积比2006 年翻了一番"
+      },
+      {
+        "label": "D",
+        "content": "2013 年乡镇文化站占群众文化机构总数的比重高于上年水平 - 15 -"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：2013 年文艺活动人数为 31379 万人次，公益性讲座人数为 441 万人次。\n错误；\nB 项：2013 年末群众文化机构从业人员 164355 人，比上年末增加 8127 人，故 2012 年末的从业人员数量＝164355\n－8127＝156228＜160000 人，错误；\nC 项：2013 年人均面积为 249.1 平方米，2006 年人均面积为 123.5 平方米。123.5×2＝247＜249.1 平方米，正\n确；\n\n，即 70 多倍，\n\nD 项：2013 年乡镇文化站占群众文化机构总数的比重为\n可通过差分法比较大小，但因 C 项正确，故 D 项可直接略过。\n故正确答案为 C。\n\n；2012 年为\n\n。二者之间计算差距非常小，\n\n- 15 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2015年国考行测（地市级）第130题",
+    "level": "dishi"
+  }
+]

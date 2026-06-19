@@ -1,0 +1,598 @@
+{
+  "targets": 29,
+  "hits": 17,
+  "results": [
+    {
+      "key": "provincial_beijing_2023",
+      "cn": "北京",
+      "aid": 30,
+      "year": 2023,
+      "qcount": 12,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/30/year/2023.html",
+      "len": 20082,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023北京行测真题.pdf?time=1694187133"
+      ],
+      "paper_ids": [
+        "1694"
+      ],
+      "titles": [],
+      "hit": true
+    },
+    {
+      "key": "provincial_gansu_2024",
+      "cn": "甘肃",
+      "aid": 18,
+      "year": 2024,
+      "qcount": 8,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/18/year/2024.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_guangdong_2020",
+      "cn": "广东",
+      "aid": 27,
+      "year": 2020,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/27/year/2020.html",
+      "len": 20626,
+      "empty": false,
+      "pdf_count": 2,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2020年广东行测真题（县级）.pdf?time=1684423952",
+        "http://pdf.xiaomaijiaoyu.com/2020年广东行测真题（乡镇）.pdf?time=1684423946"
+      ],
+      "paper_ids": [
+        "999",
+        "998"
+      ],
+      "titles": [
+        "2020年广东行测真题（县级）.pdf?time=1684423952",
+        "2020年广东行测真题（乡镇）",
+        "2020年广东行测真题（县级）",
+        "2020年广东行测真题（乡镇）.pdf?time=1684423946"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_guangdong_2023",
+      "cn": "广东",
+      "aid": 27,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/27/year/2023.html",
+      "len": 20627,
+      "empty": false,
+      "pdf_count": 2,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年广东行测真题（县级）.pdf?time=1698334208",
+        "http://pdf.xiaomaijiaoyu.com/2023年广东行测真题（乡镇）.pdf?time=1688484710"
+      ],
+      "paper_ids": [
+        "1695",
+        "1692"
+      ],
+      "titles": [
+        "2023年广东行测真题（乡镇）.pdf?time=1688484710",
+        "2023年广东行测真题（乡镇）",
+        "2023年广东行测真题（县级）",
+        "2023年广东行测真题（县级）.pdf?time=1698334208"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_henan_2023",
+      "cn": "河南",
+      "aid": 3,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/3/year/2023.html",
+      "len": 20068,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年河南行测真题.pdf?time=1692718294"
+      ],
+      "paper_ids": [
+        "1675"
+      ],
+      "titles": [
+        "2023年河南行测真题",
+        "2023年河南行测真题.pdf?time=1692718294"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_hunan_2023",
+      "cn": "湖南",
+      "aid": 11,
+      "year": 2023,
+      "qcount": 3,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/11/year/2023.html",
+      "len": 20085,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年湖南行测真题.pdf?time=1694187150"
+      ],
+      "paper_ids": [
+        "1678"
+      ],
+      "titles": [
+        "2023年湖南行测真题.pdf?time=1694187150",
+        "2023年湖南行测真题"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_jilin_2024",
+      "cn": "吉林",
+      "aid": 4,
+      "year": 2024,
+      "qcount": 13,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/4/year/2024.html",
+      "len": 19680,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_neimenggu_2023",
+      "cn": "内蒙古",
+      "aid": 24,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/24/year/2023.html",
+      "len": 20086,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年内蒙古行测真题.pdf?time=1696779116"
+      ],
+      "paper_ids": [
+        "1689"
+      ],
+      "titles": [
+        "2023年内蒙古行测真题",
+        "2023年内蒙古行测真题.pdf?time=1696779116"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_shandong_2022",
+      "cn": "山东",
+      "aid": 8,
+      "year": 2022,
+      "qcount": 2,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/8/year/2022.html",
+      "len": 19680,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_shandong_2025",
+      "cn": "山东",
+      "aid": 8,
+      "year": 2025,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/8/year/2025.html",
+      "len": 19674,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_shanxi_2023",
+      "cn": "山西",
+      "aid": 7,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/7/year/2023.html",
+      "len": 20068,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年山西行测真题.pdf?time=1694446212"
+      ],
+      "paper_ids": [
+        "1674"
+      ],
+      "titles": [
+        "2023年山西行测真题",
+        "2023年山西行测真题.pdf?time=1694446212"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_xinjiang_2023",
+      "cn": "新疆",
+      "aid": 20,
+      "year": 2023,
+      "qcount": 19,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/20/year/2023.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_yunnan_2023",
+      "cn": "云南",
+      "aid": 9,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/9/year/2023.html",
+      "len": 20068,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年云南行测真题.pdf?time=1690212738"
+      ],
+      "paper_ids": [
+        "1690"
+      ],
+      "titles": [
+        "2023年云南行测真题",
+        "2023年云南行测真题.pdf?time=1690212738"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_hebei_2022",
+      "cn": "河北",
+      "aid": 13,
+      "year": 2022,
+      "qcount": 2,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/13/year/2022.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_qinghai_2024",
+      "cn": "青海",
+      "aid": 23,
+      "year": 2024,
+      "qcount": 3,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/23/year/2024.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_shanghai_2020",
+      "cn": "上海",
+      "aid": 29,
+      "year": 2020,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/29/year/2020.html",
+      "len": 20624,
+      "empty": false,
+      "pdf_count": 2,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2020年上海行测真题（A卷）.pdf?time=1685374651",
+        "http://pdf.xiaomaijiaoyu.com/2020年上海行测真题（B卷）.pdf?time=1685374696"
+      ],
+      "paper_ids": [
+        "785",
+        "786"
+      ],
+      "titles": [
+        "2020年上海行测真题（B卷）",
+        "2020年上海行测真题（A卷）",
+        "2020年上海行测真题（A卷）.pdf?time=1685374651",
+        "2020年上海行测真题（B卷）.pdf?time=1685374696"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_shanghai_2021",
+      "cn": "上海",
+      "aid": 29,
+      "year": 2021,
+      "qcount": 2,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/29/year/2021.html",
+      "len": 20624,
+      "empty": false,
+      "pdf_count": 2,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2021年上海行测真题（A卷）.pdf?time=1687188611",
+        "http://pdf.xiaomaijiaoyu.com/2021年上海行测真题（B卷）.pdf?time=1687361713"
+      ],
+      "paper_ids": [
+        "1063",
+        "1559"
+      ],
+      "titles": [
+        "2021年上海行测真题（A卷）",
+        "2021年上海行测真题（B卷）.pdf?time=1687361713",
+        "2021年上海行测真题（B卷）",
+        "2021年上海行测真题（A卷）.pdf?time=1687188611"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_chongqing_2020",
+      "cn": "重庆",
+      "aid": 32,
+      "year": 2020,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/32/year/2020.html",
+      "len": 20085,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2020年重庆行测真题.pdf?time=1686756697"
+      ],
+      "paper_ids": [
+        "1011"
+      ],
+      "titles": [
+        "2020年重庆行测真题",
+        "2020年重庆行测真题.pdf?time=1686756697"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_guangdong_2024",
+      "cn": "广东",
+      "aid": 27,
+      "year": 2024,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/27/year/2024.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_jiangxi_2020",
+      "cn": "江西",
+      "aid": 15,
+      "year": 2020,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/15/year/2020.html",
+      "len": 21161,
+      "empty": false,
+      "pdf_count": 3,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2020年江西行测真题（省级）.pdf?time=1686756682",
+        "http://pdf.xiaomaijiaoyu.com/2020年江西行测真题（县级）.pdf?time=1686756676",
+        "http://pdf.xiaomaijiaoyu.com/2020年江西行测真题（乡镇）.pdf?time=1677598288"
+      ],
+      "paper_ids": [
+        "1008",
+        "1006",
+        "1004"
+      ],
+      "titles": [
+        "2020年江西行测真题（省级）",
+        "2020年江西行测真题（县级）.pdf?time=1686756676",
+        "2020年江西行测真题（省级）.pdf?time=1686756682",
+        "2020年江西行测真题（乡镇）",
+        "2020年江西行测真题（乡镇）.pdf?time=1677598288",
+        "2020年江西行测真题（县级）"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_xinjiang_2021",
+      "cn": "新疆",
+      "aid": 20,
+      "year": 2021,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/20/year/2021.html",
+      "len": 21160,
+      "empty": false,
+      "pdf_count": 3,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2021年新疆行测真题.pdf?time=1691767914",
+        "http://pdf.xiaomaijiaoyu.com/2021年新疆兵团行测真题.pdf?time=1683559921",
+        "http://pdf.xiaomaijiaoyu.com/2021年新疆兵团（行政执法卷）行测真题.pdf?time=1695915005"
+      ],
+      "paper_ids": [
+        "1500",
+        "1116",
+        "1499"
+      ],
+      "titles": [
+        "2021年新疆兵团行测真题\t",
+        "2021年新疆兵团（行政执法卷）行测真题",
+        "2021年新疆行测真题",
+        "2021年新疆兵团行测真题.pdf?time=1683559921",
+        "2021年新疆兵团（行政执法卷）行测真题.pdf?time=1695915005",
+        "2021年新疆行测真题.pdf?time=1691767914"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_hunan_2020",
+      "cn": "湖南",
+      "aid": 11,
+      "year": 2020,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/11/year/2020.html",
+      "len": 20084,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2020年湖南行测真题.pdf?time=1677080190"
+      ],
+      "paper_ids": [
+        "994"
+      ],
+      "titles": [
+        "2020年湖南行测真题.pdf?time=1677080190",
+        "2020年湖南行测真题"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_hunan_2024",
+      "cn": "湖南",
+      "aid": 11,
+      "year": 2024,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/11/year/2024.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_ningxia_2024",
+      "cn": "宁夏",
+      "aid": 22,
+      "year": 2024,
+      "qcount": 4,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/22/year/2024.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_shenzhen_2023",
+      "cn": "深圳",
+      "aid": 33,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/33/year/2023.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_tianjin_2023",
+      "cn": "天津",
+      "aid": 26,
+      "year": 2023,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/26/year/2023.html",
+      "len": 20085,
+      "empty": false,
+      "pdf_count": 1,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2023年天津行测真题.pdf?time=1694446226"
+      ],
+      "paper_ids": [
+        "1683"
+      ],
+      "titles": [
+        "2023年天津行测真题",
+        "2023年天津行测真题.pdf?time=1694446226"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_hainan_2024",
+      "cn": "海南",
+      "aid": 16,
+      "year": 2024,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/16/year/2024.html",
+      "len": 19697,
+      "empty": true,
+      "pdf_count": 0,
+      "pdfs": [],
+      "paper_ids": [],
+      "titles": [],
+      "hit": false
+    },
+    {
+      "key": "provincial_jiangsu_2020",
+      "cn": "江苏",
+      "aid": 28,
+      "year": 2020,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/28/year/2020.html",
+      "len": 21159,
+      "empty": false,
+      "pdf_count": 3,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2020年江苏行测真题（A卷）.pdf?time=1687361629",
+        "http://pdf.xiaomaijiaoyu.com/2020年江苏行测真题（B卷）.pdf?time=1687361671",
+        "http://pdf.xiaomaijiaoyu.com/2020年江苏行测真题（C类）.pdf?time=1687361638"
+      ],
+      "paper_ids": [
+        "782",
+        "783",
+        "784"
+      ],
+      "titles": [
+        "2020年江苏行测真题（A卷）",
+        "2020年江苏行测真题（B卷）",
+        "2020年江苏行测真题（A卷）.pdf?time=1687361629",
+        "2020年江苏行测真题（C类）",
+        "2020年江苏行测真题（B卷）.pdf?time=1687361671",
+        "2020年江苏行测真题（C类）.pdf?time=1687361638"
+      ],
+      "hit": true
+    },
+    {
+      "key": "provincial_zhejiang_2021",
+      "cn": "浙江",
+      "aid": 6,
+      "year": 2021,
+      "qcount": 1,
+      "url": "http://www.xiaomaigongkao.com/QuestionNew/paperList/area/6/year/2021.html",
+      "len": 21139,
+      "empty": false,
+      "pdf_count": 3,
+      "pdfs": [
+        "http://pdf.xiaomaijiaoyu.com/2021浙江行测真题（A卷）.pdf?time=1682609542",
+        "http://pdf.xiaomaijiaoyu.com/2021浙江行测真题（B卷）.pdf?time=1682609546",
+        "http://pdf.xiaomaijiaoyu.com/2021浙江行测真题（C卷）.pdf?time=1682609550"
+      ],
+      "paper_ids": [
+        "1066",
+        "1067",
+        "1068"
+      ],
+      "titles": [],
+      "hit": true
+    }
+  ]
+}

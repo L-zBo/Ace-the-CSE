@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 归纳概括 guina — 四向箭头汇聚到中心圆（收拢 = 归纳） -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="归纳概括">
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 10 14 L 26 28" />
+    <path d="M 54 14 L 38 28" />
+    <path d="M 10 50 L 26 36" />
+    <path d="M 54 50 L 38 36" />
+    <path d="M 26 28 L 22 26 M 26 28 L 24 32" stroke-width="1.5" />
+    <path d="M 38 28 L 42 26 M 38 28 L 40 32" stroke-width="1.5" />
+    <path d="M 26 36 L 22 38 M 26 36 L 24 32" stroke-width="1.5" />
+    <path d="M 38 36 L 42 38 M 38 36 L 40 32" stroke-width="1.5" />
+    <circle cx="32" cy="32" r="6" stroke-width="2.5" />
+  </g>
+  <text x="32" y="35" font-family="'LXGW WenKai','PingFang SC',serif" font-size="8" font-weight="bold" fill="currentColor" text-anchor="middle">归</text>
+</svg>

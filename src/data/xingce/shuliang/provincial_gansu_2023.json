@@ -1,0 +1,529 @@
+[
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "在某应急救援作业中，假设每台机器工作效率相同，如果两台机器配合作业，效率分别提高25%，而三台机器 同时合作，每台效率各自提高50%。甲、乙、丙三台机器依次投入救援，直到救援完成。已知甲救援时间为60 分钟，乙救援时间为甲的 ，而丙救援时间为乙的 ，问仅有一台机器完成该救援作业需要多少分钟？",
+    "options": [
+      {
+        "label": "A",
+        "content": "120"
+      },
+      {
+        "label": "B",
+        "content": "125"
+      },
+      {
+        "label": "C",
+        "content": "130"
+      },
+      {
+        "label": "D",
+        "content": "150"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值甲、乙、丙三台机器单独作业时每分钟的工作效率均为 4，则两台机器配合作业时每分钟的工作效率之\n\n和 为\n\n， 三 台 机 器 同 时 合 作 时 每 分 钟 的 工 作 效 率 之 和 为\n\n。根据题意，甲救援时间为 60 分钟，乙救援时间为\n\n \n \n \n \n\f分钟，丙救援时间为\n\n分钟，则甲单独作业的时间为 60-30=30 分钟，甲、乙两台机器配合作\n\n业的时间为 30-10=20 分钟，甲、乙、丙三台机器同时合作作业的时间为 10 分钟，则该救援作业的工作总量\n为 4×30+10×20+18×10=500，故仅有一台机器完成该救援作业需要的时间为 500÷4=125 分钟。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年省考gansu行测第56题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学院有新生两百多人，将学生从1开始依次编号，选取编号为3的倍数的学生，正好构成新生运动会开幕式方 队，选取编号为m（3＜m＜10，且m为整数）的倍数的学生，恰好构成闭幕式方队，问该学院新生人数有多少 人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "242"
+      },
+      {
+        "label": "B",
+        "content": "243"
+      },
+      {
+        "label": "C",
+        "content": "245"
+      },
+      {
+        "label": "D",
+        "content": "246"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，选取编号为3的倍数的新生正好构成开幕式方队，方队的人数应为平方数。代入选项，B、C两项除以3的商均为81，即编号为3的倍数的新生有81人，81是平方数，符合题意；A、D两项除以3的商分别为80、82，均不是平方数，排除。\n选取编号为m的倍数的新生，恰好构成闭幕式方队，即新生人数除以m的商仍为平方数。3<m<10，且m为整数，则当m=4时，代入B、C两项，除以4的商分别为60、61，均不为平方数，不符合题意；当m=5时，代入B、C两项，除以5的商分别是48、49，48不是平方数，49为平方数，故C项符合题意。\n故正确答案为C。\n\n[来源 baijing1.top paperId=359 sort=57 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考gansu行测第57题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某高校学生会选拔乡村支教志愿者，初试合格者中，语文类5名，数学类6名，文体类4名，从中选取9名志愿\n者，但每类至少要选2名。问就9名志愿者的科目类别构成而言，共有几种选拔方式？\n59.",
+    "options": [
+      {
+        "label": "B",
+        "content": "243"
+      },
+      {
+        "label": "C",
+        "content": "245"
+      },
+      {
+        "label": "D",
+        "content": "246 甲、乙两个商场营业日每天是否打折的概率均为 。某周，甲商场营业7天，而乙商场营业6天，休业1天。问在 这一周，甲商场打折天数比乙商场多的概率为："
+      },
+      {
+        "label": "A",
+        "content": "B. C. D."
+      }
+    ],
+    "answer": "C",
+    "explanation": "乙商场休业 1 天，这一天甲商场是营业的，其打折概率为 ，不打折概率也为 。甲、乙共同营业的 6\n天可能会出现的情况共三种：打折天数甲>乙、打折天数甲=乙、打折天数甲<乙，三种情况的概率之和为 1。 \n在共同营业的 6 天中，甲、乙打折天数可能为 0、1、2、3、4、5、6 中的任一个，甲大于乙的情况数可能是\n甲为 6 乙为 0-5 中任一个、甲为 5 乙为 0-4 中任一个，以此类推；乙大于甲的情况数对等，可能是乙为 6 甲\n为 0-5 中任一个、乙为 5 甲为 0-4 中任一个，以此类推。由此可知，在共同营业的 6 天中，打折天数甲>乙\n与乙>甲的情况数相同，其对应概率也相同，均设为 x；打折天数甲=乙的概率设为 y。 \n符合题意的情况有两种： \n①甲单独营业的 1 天打折，共同营业的 6 天中打折天数甲>乙或甲=乙，则甲商场打折天数比乙商场多的概\n\n率为\n\n； \n\n②甲单独营业的 1 天不打折，共同营业的 6 天中打折天数甲>乙，则甲商场打折天数比乙商场多的概率为\n\n。 \n\n因此，所求概率为\n\n故正确答案为 C。 \n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考gansu行测第58题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某高校学生会选拔乡村支教志愿者，初试合格者中，语文类5名，数学类6名，文体类4名，从中选取9名志愿 者，但每类至少要选2名。问就9名志愿者的科目类别构成而言，共有几种选拔方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "9 第 9 页，共 24 页"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“就 9 名志愿者的科目类别构成而言”，可知本题需按照科目选人，即只考虑每个科目的志愿者\n人数。结合条件“每类至少要选 2 名”，则每类先选 2 名志愿者，共 6 名；还需要再选 3 名志愿者，采用\n枚举法： \n\n \n \n \n\f因此，共有 9 种选拔方式。 \n方法二：将 9 名志愿者的构成情况分类讨论如下： \n①按照(2、2、5)的构成方式：从三类里随机选择一类，选 5 名志愿者, 另外两类各 2 名。由于文体类只有\n\n4 名，故只能从语文类和数学类选择，则情况数有\n\n种； \n\n②按照(2、3、4)的构成方式：从三类里分别选 2 名、3 名和 4 名志愿者，全排列即可，则情况数有\n\n种； \n③按照(3、3、3)的构成方式：每类均选 3 名，情况数只有 1 种。 \n综上，符合题意的选拔方式共有 2+6+1=9 种。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考gansu行测第59题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "边长为10厘米的正方形ABCD如下图所示，E为正方形中的某一点，已知AE长8厘米，BE长6厘米，问三角形 ADE的面积为多少平方厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "32"
+      },
+      {
+        "label": "C",
+        "content": "44"
+      },
+      {
+        "label": "D",
+        "content": "48"
+      }
+    ],
+    "answer": "B",
+    "explanation": "作 E 点关于 AD 和 AB 的垂线，分别交于 F 点和 G 点，易得 AG=FE，如下图所示： \n\n \n \n \n\f方 法 1 ： 根 据 BE=6cm 、 AE=8cm 、 AB=10cm ， 可 得\n\n为 以 E 为 直角 顶 点 的 直 角 三 角 形 。由于\n\n且有公共顶角\n\n，故\n\n，即\n\n，代\n\n入 数 据 可 得\n\n， 解 得 AG=FE=6.4cm ，\n\n。 \n\n方 法 2 ： 观 察 图 像 可 得 ，\n\n、 AG ＜ AE=8cm ， 故 5cm ＜ FE ＜ 8cm ， 代 入\n\n中可得\n\n，仅 B 项满足。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第60题",
+    "region": "gansu",
+    "questionImage": "/img/questions/provincial_gansu_2023/q060.png"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "一家三口年龄各不相同，今年爸爸与妈妈年龄之和是孩子年龄的8倍，而10年后，爸爸与妈妈年龄之和为孩子 年龄的5倍。今年爸爸、妈妈的年龄在各种可能组合中乘积最大，问今年妈妈的年龄可能是多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "39"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "51"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设今年爸爸与妈妈年龄之和为 x 岁，孩子年龄为 y 岁，则\n\n，解得 y=10，所以今年\n\n爸爸与妈妈年龄之和为 80 岁。 \n方法一：根据结论“当两数和为定值时，两数越接近其乘积越大”，又已知“一家三口年龄各不相同”，故\n爸爸为 41 岁，妈妈为 39 岁时，其年龄在各种组合中乘积最大。 \n方法二：今年爸爸与妈妈年龄之和为 80 岁。 \n代入 A 项，妈妈今年 39 岁，爸爸今年 41 岁，其年龄乘积为 1599； \n代入 B 项，妈妈今年 40 岁，爸爸今年也为 40 岁，与题干条件矛盾，排除； \n代入 C 项，妈妈今年 50 岁，爸爸今年 30 岁，其年龄乘积为 1500＜1599，排除； \n代入 D 项，妈妈今年 51 岁，爸爸今年 29 岁，其年龄乘积为 1479＜1599，排除。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考gansu行测第61题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某商场一楼到二楼有一部自动扶梯匀速上行，甲、乙二人共同乘梯上楼。甲在乘扶梯同时匀速登梯，乙在恰好 半程后，也开始匀速登梯，但登梯速度是甲的 。甲乙二人分别登了36级、12级到达二楼，问这部扶梯静止时 一楼到二楼的级数是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "60"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "72"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，甲乙二人均是从一楼沿扶梯上二楼，故路程相等，即总级数相等，扶梯的总级数=人行走的级数\n\n+ 扶 梯 运 行 的 级 数 。 设 甲 的 速 度 为 2v ， 乙 的 速 度 为 v ， 扶 梯 的 速 度 为\n\n， 即\n\n，整理可得：\n\n，解得\n\n，\n\n故扶梯的总级数\n\n故正确答案为 D。 \n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考gansu行测第62题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某地突发森林火灾，现有甲、乙两支消防队离火灾发生地距离相同，但路况不同，假设两支队伍接到命令后同 时出发，并且按照一定速度匀速赶往火灾现场参与救援。已知当甲消防队走了 路程时，乙消防队走了9公里， 当乙消防队走了 路程时，甲消防队走了16公里，问甲消防队到达目的地时，乙消防队距离目的地还有多少公 里？",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "27"
+      },
+      {
+        "label": "D",
+        "content": "36"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设甲、乙两队离火灾发生地的距离均为 S 公里，当时间一定时，路程和速度成正比，根据题意可得\n\n，解得 S=36。根据“当甲消防队走了 路程时，乙消防队走了 9 公里”可得，甲消\n\n防队到达目的地时，乙消防队走了 3×9=27 公里，距离目的地还有 36-27=9 公里。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考gansu行测第63题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某围棋队的两位选手小李与小张决定进行1次围棋比赛，两人轮流先手开局，第一局小李先手开局。甲、乙两 人分别记录了全程比赛，均显示共比赛18局，结果为10∶8。甲的记录显示为：小李胜10局，小张胜8局，且先 手者共胜8局，但乙的记录显示为：先手者共胜6局。问甲、乙两人的记录结果是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲错乙对"
+      },
+      {
+        "label": "B",
+        "content": "甲错乙错"
+      },
+      {
+        "label": "C",
+        "content": "甲对乙错"
+      },
+      {
+        "label": "D",
+        "content": "甲对乙对"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，小李与小张共比赛 18 局，两人均先手 9 局，且小张共胜 8 局。设小李先手时共胜 x 局，小\n张先手时共胜 y 局，则小李先手时小张共胜 8-y 局。根据题意可列方程：x+8-y=9，整理得：x-y=1。根据奇\n偶特性，x 与 y 的差值为奇数，则 x 与 y 的和也为奇数，即先手者胜的比赛局数（x+y）为奇数，故甲、乙\n两人的记录结果均错误。 \n故正确答案为 B。 \n注：本题并未明确指出 10：8 为小李比小张，但两人不论是谁获胜 10 局均不影响做题结果。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第64题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某地计划在连接甲镇和乙镇的长度为60公里的公路上安装限速标志和测速仪器。具体方案是：从距离甲镇3公 里处开始安装限速标志，然后每隔4公里再设置一个限速标志；从8公里处开始安装测速仪器，然后每隔9公里 再设置一个测速仪器。假设单独安装一个限速标志费用为500元，单独安装一个测速仪器费用为800元，如果限 速标志和测速仪刚好在同一个地点安装，则可以节约安装费用，此时安装两种设备总共只需要1000元。问最终 安装总费用是多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10600"
+      },
+      {
+        "label": "B",
+        "content": "11200"
+      },
+      {
+        "label": "C",
+        "content": "12000"
+      },
+      {
+        "label": "D",
+        "content": "12300"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可知，第 a 个（\n\n）限速标志安装的位置可表示为距离甲镇 3+4（a-1）=（4a-1）米处，第 b\n\n个（\n\n）测速仪器安装的位置可表示为距离甲镇 8+9（b-1）=（9b-1）米处。根据同余定理，第 n 个\n\n（\n\n）同一地点安装限速标志和测速仪器的位置距离甲镇（36n-1）米处（36 为 4、9 的最小公倍数）。\n\n根据“连接甲镇和乙镇的长度为 60 公里的公路”，可列式\n\n，解得\n\n，则限速\n\n标志可安装 15 个；\n\n，解得\n\n，则测速仪器可安装 6 个；\n\n，解得\n\n，则只有 1 个地点可同时安装限速标志和测速仪器（距离甲镇 35 米处）。故最终安装总费用为（15-\n\n1）×500+（6-1）×800+1×1000=12000 元。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第65题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某医院因工作出现特殊情况需要从外科抽调医护人员支援呼吸科，如果少去4名护士，那么参与支援的护士与 参与支援的医生人数一样多，如果少去2名医生，那么参与支援的护士人数是参与支援的医生人数的3倍，则外 科参与支援呼吸科的医护人员总数是： 第 10 页，共 24 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设外科参与支援呼吸科的护士有 x 人，则参与支援呼吸科的医生有（x-4）人。根据题意可列方程：x=3[（x-\n4）-2]，解得 x=9，则所求=x+（x-4）=2x-4=2×9-4=14 人。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第66题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "一辆出租车的计价器出现故障，显示屏上保留了一个两位数，无法清除，但还能按行驶路程准确地将应付的车 费累加上去。小王乘坐该车匀速行驶了2小时，当行驶1小时的时候，计价器上的两个数字刚好交换了位置，在 2小时的时候，计价器上的两个数字又交换了位置，但他们中间多了一个0。如车费按里程计，问小王应付多少 元车费？",
+    "options": [
+      {
+        "label": "A",
+        "content": "82"
+      },
+      {
+        "label": "B",
+        "content": "86"
+      },
+      {
+        "label": "C",
+        "content": "90"
+      },
+      {
+        "label": "D",
+        "content": "95"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，设显示屏最开始保留的两位数为 xy，其数值大小为 10x+y； \n方法一：由于车辆匀速行驶，相同时间内行驶的路程一致且车费金额相等。那么 1 小时后计价器显示 yx，\n其数值为 10y+x；再过 1 小时后计价器显示 x0y，其数值为 100x+y。根据金额相等可得 10y+x-（10x+y）\n=100x+y-（10y+x），解得 y=6x，由于 x、y 取值为 1~9，则 x=1，y=6。所以车费金额为 106-16=90 元。 \n\n \n \n \n \n \n \n\f方法二：由于最终显示器上显示的数值为 100x+y，则需要支付的车费为 100x+y-（10x+y）=90x，即车费金\n额为 90 的整数倍，只有 C 项符合。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考gansu行测第67题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "10名志愿者准备将村民们刚采摘的一堆西瓜平均装上甲、乙两辆运输车，西瓜总数正巧满足每个村民采摘的西 瓜个数都等于该村村民数。志愿者们先每人抱一个西瓜放到甲车上，然后每人抱一个西瓜放到乙车上，依次轮 流进行，直到所剩西瓜少到容易清点时再平分。当最后1次把10个西瓜放到甲车后，发现所剩西瓜不足10个， 于是，不得不从甲车抱出几个与所剩西瓜一起放到乙车上，此时刚好两车所装西瓜一样多。问最后从甲车拿出 几个西瓜？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干信息：西瓜总数正巧满足每个村民采摘的西瓜个数都等于该村村民数，可知西瓜总数为平方数；根\n据题干信息：最后甲、乙两车所装西瓜一样多，可知西瓜总数为偶数；且由题意可知西瓜总数大于 10。所\n以可从符合条件的数据由小到大依次代入： \n\n当西瓜总数为 16 时，最后甲、乙两车各装西瓜的数量\n\n个，则需从甲车拿出 2 个西瓜放到乙车。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第68题",
+    "region": "gansu"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "如下图所示，某地计划修建一个长50米，宽40米的长方形观光园。现在需要在观光园中修建几条鹅卵石小道供 游客行走，其中一条是长为50米，宽为2米的水平直线型小路，另外两条修成斜线型，并且要求这两条斜线型 小路任何地方的水平方向宽度都是1米，问修完小路后观光园剩下部分的面积是多少平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1862"
+      },
+      {
+        "label": "B",
+        "content": "1880"
+      },
+      {
+        "label": "C",
+        "content": "1950"
+      },
+      {
+        "label": "D",
+        "content": "1960"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干，观光园如图所示： \n\n题\n\n目\n\n所\n\n求\n\n剩\n\n余\n\n面\n\n积\n\n等\n\n平\n\n方\n\n米\n\n于\n\n。\n\n。\n\n平方米。由于两个平行四边形底边相同，则\n\n平方米。则题目\n\n所求剩余面积=2000-100-38=1862 平方米。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第69题",
+    "region": "gansu",
+    "questionImage": "/img/questions/provincial_gansu_2023/q069.png"
+  },
+  {
+    "id": "provincial-gansu-xingce-shuliang-2023-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "为了保护生态环境，某单位需要购买一批污水处理设备，总的预算不超过120万元。现有甲、乙两种类型设备 可供选择，如果购买2台甲型设备和3台乙型设备，将超出预算10万元；若购买3台甲型设备和2台乙型设备，将 结余10万元。若该单位最终购买5台污水处理设备，问共有几种购买方案？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2 B.D.4"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "②；联立①②解得 x=14，y=34。 \n\n①，3x+2y=120-10\n\n设甲型设备单价为 x 万元，乙型设备单价为 y 万元。 \n根据题意可得方程：2x+3y=120+10\n最终购买 5 台设备，总费用不超过总预算 120 万元， \n第一种购买方案：5 台甲设备，14×5=70<120，符合题意； \n第二种购买方案：4 台甲设备，1 台乙设备，14×4+34=90<120，符合题意； \n第三种购买方案：3 台甲设备，2 台乙设备，14×3+34×2=110<120，符合题意； \n第四种购买方案：2 台甲设备，3 台乙设备，14×2+34×3=130>120，不符合题意； \n第五种购买方案：1 台甲设备，4 台乙设备，14+34×4=150>120，不符合题意； \n第六种购买方案：5 台乙设备，34×5=170>120，不符合题意。 \n因此，共有 3 种购买方案。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考gansu行测第70题",
+    "region": "gansu"
+  }
+]

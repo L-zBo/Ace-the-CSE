@@ -1,0 +1,544 @@
+[
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-001",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "滑雪和滑冰是冬奥会的两大项赛事，其中高山滑雪、自由式滑雪、单板滑雪、跳台滑雪、越野滑雪和北欧两项 是滑雪大项中的6个分项，短道速滑、速度滑冰和花样滑冰是滑冰大项中的3个分项。小林打算去现场观看比 赛，共选择6个项目，并且每个大项不少于1个，若所有项目比赛时间均不交叉，则不同的观赛方式有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "83种"
+      },
+      {
+        "label": "B",
+        "content": "84种"
+      },
+      {
+        "label": "C",
+        "content": "92种"
+      },
+      {
+        "label": "D",
+        "content": "102种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案是：A\n解析\n方法一：根据题意，要求每个大项不少于1个，即分为三类情况讨论如下：\n第一类：滑冰大项中选择1个分项，滑雪大项中选择5个分项，情况数为C×Cg=3x6=18种情\n况；\n第二类：滑冰大项中选择2个分项，滑雪大项中选择4个分项，情况数为C×C=3×15=45种情\n况；\n况；\n分类相加，即符合条件的总情况数为18+45+20=83种。\n方法二：根据题意，要求每个大项不少于1个，正面情况数较多，故从反面考虑。反面为选择的\n6个项目均为滑雪分项（滑冰分项仪有3个，故不可能全为滑冰项目），则反面情况为从6个滑\n雪分项中选择6个项目，有C=1种情况。总的情况数为从9个分项中选择6个项目，有\n9×8×7\n3×2×1\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年省考anhui行测第1题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-002",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某单位四个党史宣讲小组各有若干组员，现增加2人并重新分配，使得四个小组人数相等。此时与原先相比， 第一小组人数增加10人，第二小组人数减少1人，第三小组人数增加一倍，第四小组人数减半。则原先人数最 多的小组与人数最少的小组之间相差：",
+    "options": [
+      {
+        "label": "A",
+        "content": "15人"
+      },
+      {
+        "label": "B",
+        "content": "21人"
+      },
+      {
+        "label": "C",
+        "content": "24人"
+      },
+      {
+        "label": "D",
+        "content": "32人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案是：C\n解析\n设重新分配后平均每组×人，则根据题意可知：\n第一小组\n第二小组\n第三小组\n第四小组\n总人数\n现在\nX\nX\nX\nX\n4x\n原先\nX-10\nx+1\nX\n2x\n4x-2",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第2题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某方舱医院配有1000张床位，现已接收新冠确诊患者200名，并按床护比（护士数与床位数的比值）0.6：1配齐 了护士人员。因疫情发展迅速，该医院又收治了700名患者，此时床护比下调为0.2：1，那么还需增加护士：",
+    "options": [
+      {
+        "label": "A",
+        "content": "80名"
+      },
+      {
+        "label": "B",
+        "content": "60名"
+      },
+      {
+        "label": "C",
+        "content": "40名"
+      },
+      {
+        "label": "D",
+        "content": "20名"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案是：B。\n解析\n根据最初床护比为0.6：1，可求出最初200名患者配备的护士人数为200×0.6=120名：文收治\n700名患者后，患者总数变为200+700=900名，按照下调后床护比为0.2：1计算，共需护士900\n×0.2=180名，所以需增加护士人数=180-120=60名。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第3题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-004",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某助农志愿小分队采摘到甲、乙、丙三筐枸杞共144斤。第一次从甲筐中取出与乙筐一样重的枸杞放入乙筐， 第二次再从现有乙筐中取出与丙筐一样重的枸杞放入丙筐，第三次从现有丙筐中取出与现有甲筐一样重的枸杞 放入甲筐，此时三筐枸杞一样重。那么原来甲筐中有枸杞：",
+    "options": [
+      {
+        "label": "A",
+        "content": "36斤"
+      },
+      {
+        "label": "B",
+        "content": "48斤"
+      },
+      {
+        "label": "C",
+        "content": "56斤"
+      },
+      {
+        "label": "D",
+        "content": "66斤"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案是：D。\n解析\n方法一：甲、乙、丙三筐共144斤，最终三筐枸杞一样重，筐144÷3=48斤，根据题意反推如\n下表:\n甲\nZ\n丙\n第三次",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第4题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某地采用传统销售模式，销售一批鸡蛋需要20天，销售一批桃子需要25天。为推动销售，当地开启县领导直播 带货模式，直播带货期间，鸡蛋的销售效率提高为原来的2倍，桃子销售效率为原来的3倍；其余销售时间依然 按照传统模式进行，结果两种产品同时销售完成。那么销售期间直播带货的天数为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案是：B。\n解析\n除了销售时间相同，销售鸡蛋和销售桃子没有其它关系，所以二者是相互独立的，因此可赋值传\n统销售模式下的鸡蛋和桃子的销售效率均为1，则直播带货期间，鸡蛋销售效率为2，桃子销售\n效率为3。根据题意可得，该批鸡蛋总量为20×1=20，该批桃子总量为 25×1=25。设销售期间\n直播带货的天数为×，则非直播带货的鸡蛋销售时间为\n1\n25-3x\n时间为1\n货的时间也相同，即20-2x=25-3x，解得x=5，因此销售期间直播带货的天数为5。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考anhui行测第5题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "为了加强环境治理和生态修复，某市派出4位专家（甲、乙、丙、丁）前往某山区3个勘探点进行环境检测，要 求每个勘探点至少安排一名专家。那么甲、乙两名专家去了不同勘探点的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3/4"
+      },
+      {
+        "label": "B",
+        "content": "1/6"
+      },
+      {
+        "label": "C",
+        "content": "5/6"
+      },
+      {
+        "label": "D",
+        "content": "1/4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版，复用同题) 第 4 题，题干匹配度 100%]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考anhui行测第6题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-007",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "北京冬奥会期间，冬奥会吉祥物“冰墩墩”纪念品十分畅销。销售期间某商家发现，进价为每个40元的“冰墩 墩”，当售价定为44元时，每天可售出300个，售价每上涨1元，每天销量减少10个。现商家决定提价销售，若 要使销售利润达到最大，则售价应为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "51元"
+      },
+      {
+        "label": "B",
+        "content": "52元"
+      },
+      {
+        "label": "C",
+        "content": "54元"
+      },
+      {
+        "label": "D",
+        "content": "57元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案是：D。\n解析\n设“冰墩墩”纪念品售价共上涨×元，销售利润为y元。根据题意，可列方程：\n-4 +30\n：13时，总利润最大，此时售价为44+13=57元。\n2\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第7题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-008",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某商场为庆祝开业三周年，制作了一个长方形大蛋糕，并切成四块，如图所示。假设这个蛋糕可供350人享 用，左下角那块蛋糕平均可供50人享用，右上角那块蛋糕平均可供70人，则中间最大块蛋糕平均可供多少人享 用？ 1 A.150 B.155 C.175 D.180",
+    "options": [
+      {
+        "label": "A",
+        "content": "150"
+      },
+      {
+        "label": "B",
+        "content": "155"
+      },
+      {
+        "label": "C",
+        "content": "175"
+      },
+      {
+        "label": "D",
+        "content": "180"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案是：B。\n解析\n假设平均每人享用蛋糕lcm²，则蛋糕面积为350cm²，赋值蛋糕的长为 35cm，宽为10cm。如下图所\n示：\nA\n35cm\nB\n10cm\nF\nC\nE\n根据“左下角那块蛋糕平均可供50人享用，右上角那块蛋糕平均可供70人\"可知S△ACE= 50cm²,\n底×高\n50 × 2\n70 × 2\nS△ABF=70cm²，根据三角形面积公式：\n.S△=\n2，可得：\nCE",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第8题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2022/q008.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-009",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某市举行庆典活动，将依次升空105架无人机，升空方式如下：每架无人机间距均相等，第一次升空n架，第二 次升空n-1架，以此类推，最终在夜空中组成一个近似等边三角形背景的灯光秀，那么第10次升空的无人机数 量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3架"
+      },
+      {
+        "label": "B",
+        "content": "5架"
+      },
+      {
+        "label": "C",
+        "content": "8架"
+      },
+      {
+        "label": "D",
+        "content": "10架"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案是：B。\n解析\n根据题意可知，每次升空的无人机数量组成等差数列。又因为“组成一个近似等边三角形”，则\n第一次升空n架（）为底边，最后一次升空的无人机在三角形的顶点上，数量为1架（），\nα+α\nn+1\n且公差d=-1。根据等差数列求和公式：\nSn=\n2\n据等差数列通项公式：αn=a1+(n－1)d，则α1=14+(10-1)×(-1)=5，故第10次升空的无人机数\n量是5 架。\n故正确答案为B。\n10、正确答案是：C\n解析\n根据题意“在正三角形数字展厅内部布置5台投影设备”，假设其中3台投影设备放在正三角形\n数字展厅的三个顶点，即蓝色圆点处，如下图所示。此时若想使剩余2台设备的距离尽量大，连\n接正三角形各边上的中点，可得到小正三角形，从红色圆点处任选2个放置剩余2台投影设备即\n可得到最大间距，则任意两台设备之间的最小距离不超过2\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第9题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-010",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某城市规划馆有一个边长为40米的正三角形数字展厅，展厅中布置有5台投影设备，用于展示城市的过去、现 在以及畅想城市的未来。每台投影设备的尺寸忽略不计，则任意两台设备之间的最小距离：",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于10米"
+      },
+      {
+        "label": "B",
+        "content": "不超过16米"
+      },
+      {
+        "label": "C",
+        "content": "不超过20米"
+      },
+      {
+        "label": "D",
+        "content": "在23～28米之间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C。解析：要让5台设备两两之间的最小距离尽量大，可把正三角形按边中点连线划分成4个边长20米的小正三角形。5个点放入这4个区域时，至少有两个点落在同一个边长20米的小三角形内，因此任意两台设备之间的最小距离不可能超过20米；把3台设备放在大三角形三个顶点，另外2台放在两个边中点处，可以使最近距离达到20米。故任意两台设备之间的最小距离不超过20米，选C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第10题",
+    "region": "anhui",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 10,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationDeferTo": "D18b-vision-ocr",
+      "dataRescuedAt": "2026-06-01",
+      "dataRescuedBy": "codex-targeted-short-explanation-rescue",
+      "dataRescueScope": "explanation"
+    }
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-011",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某镇卫生院50多名医生被平均分配到13个基层诊所参与工作，其中男医生比女医生多4人。工作结束后，25％ 的男医生和一部分女医生继续到邻镇4个医疗点支援工作，这批人员中任意6人必有男医生，且保证必有一个医 疗点的女医生多于1人。那么该卫生院到邻镇支援工作的医生共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "12人"
+      },
+      {
+        "label": "B",
+        "content": "14人"
+      },
+      {
+        "label": "C",
+        "content": "16人"
+      },
+      {
+        "label": "D",
+        "content": "18人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案是：A\n解析\n根据题意，某镇卫生院50多名医生被平均分配到13个基层诊所参与工作，医生总数为13的倍",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第11题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-012",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "用一个长为20厘米、宽为2厘米、高为1.5厘米的长方体木料，制作一串半径最大的木珠子，不考虑制作过程中 的损耗，则这串珠子的数量最多为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10个"
+      },
+      {
+        "label": "B",
+        "content": "13个"
+      },
+      {
+        "label": "C",
+        "content": "14个"
+      },
+      {
+        "label": "D",
+        "content": "20个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "=x-10+x+1+\n+2x=4x-2\n由上表可得，原先四个小组总人数\n2\n，解得x=14。可得原先四个\n小组人数分别为:第一小组=x-10=4人,第二小组=x+1=15人,第三小组2\n人,第四小组=2x=28\n人。则原先人数最多的小组与人数最少的小组之间相差28-4=24人。\n故正确答案为C。\n3、正确答案是：B。\n解析\n根据最初床护比为0.6：1，可求出最初200名患者配备的护士人数为200×0.6=120名：文收治\n700名患者后，患者总数变为200+700=900名，按照下调后床护比为0.2：1计算，共需护士900\n×0.2=180名，所以需增加护士人数=180-120=60名。\n故正确答案为B。\n4、正确答案是：D。\n解析\n方法一：甲、乙、丙三筐共144斤，最终三筐枸杞一样重，筐144÷3=48斤，根据题意反推如\n下表:\n甲\nZ\n丙\n第三次",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第12题",
+    "region": "anhui"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-013",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "三星堆一号祭祀坑出土一枚金杖（如下图所示），全长1.42米，直径2.3厘米，采用的是金皮包卷在圆柱形木头 上，出土时，金皮重约500克，已知60克黄金的体积是3.1088立方厘米，则金皮的厚度大约是：（保留小数点后 两位） 2 A.0.25mm B.0.51mm C.0.87mm D.1.02mm",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.25mm"
+      },
+      {
+        "label": "B",
+        "content": "0.51mm"
+      },
+      {
+        "label": "C",
+        "content": "0.87mm"
+      },
+      {
+        "label": "D",
+        "content": "1.02mm"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案是：A\n解析\n根据题意，金皮展开后为长方体，展开图如下图所示。设金皮的厚度为×厘米，根据长方体体积\n500_V金皮\n500×3.1088\n则可列式：60=3.1088，则\n60×142×2.3π，π取3.14，解得z≈0.025厘米，即0.25mm。\n2.3  cm\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第13题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2022/q013.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-014",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "商家门口摆放了一把正四棱锥形（底面为正方形，侧面为四个全等的等腰三角形）的遮阳伞，第一次伞撑开到 图1所示的位置，伞柄与伞骨成角 为 ，继续撑开到如图2所示的位置，伞柄与伞骨成角 变为 ，那么第二次伞撑开后形成的正方形 是第一次撑开后正方形ABCD面积的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "倍"
+      },
+      {
+        "label": "B",
+        "content": "倍"
+      },
+      {
+        "label": "C",
+        "content": "2倍"
+      },
+      {
+        "label": "D",
+        "content": "3倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案是：D。\n解析\n连接CQ，如图1所示，因PQ 与正四棱锥的底面垂直，故三角形CPQ 为直角三角形，在直角三角\n形CPQ中，LCPQ=30°，故\nV3\nZC\"PQ'=60°，故\nC'Q'\nCP\n2\nS正方形A'B'CD=(CQ')2\n2 (C'P)2\n3\nCP=C'P，可得\nS正方形ABCD\n(CQ)2\n(CP)2\nA'B'C'D'是第一次撑开后正方形ABCD i面积的3倍。\n图1\n图2\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第14题",
+    "region": "anhui",
+    "questionImage": "/img/questions/provincial_anhui_2022/q014.png"
+  },
+  {
+    "id": "provincial-anhui-xingce-shuliang-2022-015",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "A、B两个乡镇分布于山谷两侧，山谷间有一条宽为2km的河道（如下图所示）。当地政府决定在两个乡镇间修\n建一条跨河公路促进旅游发展。由于架桥费用高昂，所以要求跨河公路中的桥梁路段长度最短。那么根据图中\n数据，从A镇前往B镇的最短距离为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B两个乡镇分布于山谷两侧，山谷间有一条宽为2km的河道（如下图所示）。当地政府决定在两个乡镇间修 建一条跨河公路促进旅游发展。由于架桥费用高昂，所以要求跨河公路中的桥梁路段长度最短。那么根据图中 数据，从A镇前往B镇的最短距离为： 3 A.17km"
+      },
+      {
+        "label": "B",
+        "content": "15km B.D.20km"
+      },
+      {
+        "label": "C",
+        "content": "19km"
+      },
+      {
+        "label": "D",
+        "content": "二. 言语理解与表达：本部分包括表达与理解两方面的内容。请根据题目要求，在四个选项中选出一个最恰当 的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案是：B。\n解析\n根据题目要求桥长2km，最短距离=AB 最短距离+桥长，如下图所示，将河流看成一条直线，两点\n4km\n建桥处2km\n5km\n1km\nB\n12km\n从A镇前往B镇的最短距离=13+2=15km。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考anhui行测第15题",
+    "region": "anhui",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    },
+    "questionImage": "/img/questions/provincial_anhui_2022/q015.png"
+  }
+]

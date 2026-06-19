@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="gbk">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <title>云南 - 考考公务员</title>
+    <meta name="keywords" content="云南省,事业单位,题库,真题试卷">
+    <meta name="description" content="云南省事业单位考试题库栏目是一个专门提供云南省事业单位考试相关题目的资源栏目。该栏目致力于为考生提供丰富的题目库，帮助他们进行针对性的练习和备考。">
+    <link rel="canonical" href="[!--class.url--]">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="云南 - 考考公务员">
+    <meta property="og:description" content="云南省事业单位考试题库栏目是一个专门提供云南省事业单位考试相关题目的资源栏目。该栏目致力于为考生提供丰富的题目库，帮助他们进行针对性的练习和备考。">
+    <meta property="og:url" content="[!--class.url--]">
+    <meta property="og:site_name" content="考考公务员">
+    <script type="text/javascript" src="/e/data/js/ajax.js"></script>
+    <link rel="stylesheet" href="/skin/css/tailwind-build.css">
+    <link rel="stylesheet" href="/skin/fontawesome/css/all.min.css" media="print" onload="this.media='all'">
+</head>
+
+<body class="bg-white text-gray-900 font-sans antialiased flex flex-col min-h-screen pb-[calc(4rem+env(safe-area-inset-bottom))] md:pb-0 text-sm md:text-base">
+
+<header id="main-header" class="sticky top-0 z-50 transition-all duration-300 bg-white text-base sm:text-lg border-b border-gray-100 shadow-sm">
+    <style>
+        @keyframes premiumTextShine {
+            0% { background-position: 0% center; }
+            100% { background-position: -200% center; }
+        }
+        .text-shimmer-effect {
+            background: linear-gradient(
+                120deg,
+                #dc2626 30%,
+                #fca5a5 45%,
+                #ffffff 50%,
+                #fca5a5 55%,
+                #dc2626 70%
+            );
+            background-size: 200% auto;
+            color: transparent;
+            -webkit-background-clip: text;
+            background-clip: text;
+            animation: premiumTextShine 3s linear infinite;
+            display: inline-block;
+        }
+    </style>
+
+    <div class="container mx-auto px-2 sm:px-4">
+        <div class="flex items-center justify-between py-2 sm:py-3 h-14 sm:h-auto">
+            
+            <div class="flex items-center flex-shrink-0">
+                <a href="/" title="返回考考公务员首页" class="flex items-center focus:outline-none focus:ring-0 hover:opacity-90 transition-opacity">
+                    <img src="/skin/logo.png" alt="考考公务员Logo" class="h-7 w-7 sm:h-10 sm:w-10 mr-1 sm:mr-2 object-contain" />
+                    <span class="text-base sm:text-2xl font-bold text-red-600 leading-none whitespace-nowrap block">考考公务员</span>
+                </a>
+                
+                <div class="flex items-center ml-1 sm:ml-4 group relative" id="region-selector-container">
+                    <button id="region-btn" class="hidden md:flex items-center px-3 py-1.5 bg-red-50 text-red-700 rounded-md text-sm font-medium transition-all duration-300 hover:bg-red-100 hover:shadow-sm focus:outline-none focus:ring-0 whitespace-nowrap" aria-haspopup="true" aria-expanded="false" aria-label="选择考试地区">
+                        <span id="current-region-text">全国</span>
+                        <i class="fa-solid fa-chevron-down ml-1 text-xs transition-transform duration-300" id="region-icon"></i>
+                    </button>
+
+                    <button id="mobile-region-btn" class="md:hidden flex items-center px-2 py-1 bg-red-50 text-red-700 rounded-sm text-xs font-medium hover:bg-red-100 focus:outline-none whitespace-nowrap" aria-label="选择地区">
+                        <span id="mobile-region-text">全国</span>
+                        <i class="fa-solid fa-chevron-down ml-0.5 text-[8px]"></i>
+                    </button>
+
+                    <div id="region-dropdown" class="hidden absolute top-full left-1/2 transform -translate-x-1/2 mt-2 w-[50rem] max-w-[95vw] bg-white rounded-xl shadow-xl border border-gray-100 z-50 transition-all duration-300 overflow-hidden">
+                        <div id="pc-region-content" class="px-4 py-3 md:px-6 md:py-4 animate-in fade-in duration-200">
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+            <nav class="hidden lg:flex items-center ml-4 xl:ml-8 flex-shrink-0" aria-label="主导航">
+                <a href="/zk/" title="招考公告" class="relative group px-2 xl:px-4 py-1.5 text-sm xl:text-base font-medium text-gray-700 hover:text-red-600 transition-colors">
+                    招考
+                    <span class="absolute bottom-0 left-1/2 w-0 h-[2px] bg-red-600 group-hover:w-[60%] transition-all duration-300 -translate-x-1/2 rounded-full"></span>
+                </a>
+                <a href="/zl/" title="公考题库" class="relative group px-2 xl:px-4 py-1.5 text-sm xl:text-base font-medium text-gray-700 hover:text-red-600 transition-colors">
+                    题库
+                    <span class="absolute bottom-0 left-1/2 w-0 h-[2px] bg-red-600 group-hover:w-[60%] transition-all duration-300 -translate-x-1/2 rounded-full"></span>
+                </a>
+                <a href="/bktk/" title="必考考点" class="relative group px-2 xl:px-4 py-1.5 text-sm xl:text-base font-medium text-gray-700 hover:text-red-600 transition-colors">
+                    必考
+                    <span class="absolute bottom-0 left-1/2 w-0 h-[2px] bg-red-600 group-hover:w-[60%] transition-all duration-300 -translate-x-1/2 rounded-full"></span>
+                </a>
+                <a href="/sszztk.html" title="时政题库" class="relative group px-2 xl:px-4 py-1.5 text-sm xl:text-base font-medium text-gray-700 hover:text-red-600 transition-colors">
+                    时政
+                    <span class="absolute bottom-0 left-1/2 w-0 h-[2px] bg-red-600 group-hover:w-[60%] transition-all duration-300 -translate-x-1/2 rounded-full"></span>
+                </a>
+                <a href="/ask/" title="公考问答" class="relative group px-2 xl:px-4 py-1.5 text-sm xl:text-base font-medium text-gray-700 hover:text-red-600 transition-colors">
+                    问答
+                    <span class="absolute bottom-0 left-1/2 w-0 h-[2px] bg-red-600 group-hover:w-[60%] transition-all duration-300 -translate-x-1/2 rounded-full"></span>
+                </a>
+                
+                <a href="/e/extend/exam/" title="在线考试" class="relative group px-2 xl:px-4 py-1.5 flex items-center transition-all duration-300">
+                    <span class="text-sm xl:text-base font-bold text-shimmer-effect">
+                        在线考试
+                    </span>
+                    <span class="absolute bottom-0 left-1/2 w-0 h-[2px] bg-red-600 group-hover:w-[60%] transition-all duration-300 -translate-x-1/2 rounded-full"></span>
+                </a>
+            </nav>
+            
+            <div class="flex items-center ml-1 sm:ml-auto flex-grow justify-end min-w-0">
+                
+                <div class="hidden md:block relative flex-grow max-w-[120px] min-[375px]:max-w-[150px] sm:max-w-[220px] lg:max-w-[540px] mr-1 sm:mr-3 min-w-[70px]">
+<form action="/e/search/index.php" method="post" name="searchform" aria-label="" class="relative w-full block">
+    <input type="hidden" name="show" value="title">
+    <input type="hidden" name="tempid" value="1">
+    <input type="hidden" name="tbname" value="download">
+    <input type="text" name="keyboard" placeholder="" aria-label="搜索关键字" class="w-full pl-2 sm:pl-3 pr-7 sm:pr-8 py-1.5 text-[12px] sm:text-sm bg-gray-100 border border-gray-200 rounded-md focus:outline-none focus:ring-1 focus:ring-red-600 outline-none" />
+    <button type="submit" aria-label="提交搜索" class="absolute inset-y-0 right-0 flex items-center justify-center px-2 sm:px-3 text-gray-500 hover:text-red-600 bg-transparent">
+        <i class="fa-solid fa-search text-[11px] sm:text-sm"></i>
+    </button>
+</form>
+                </div>
+
+                <a href="/search/" class="md:hidden p-1 sm:p-2 text-gray-700 hover:text-red-600 flex-shrink-0 transition-colors mr-1 sm:mr-2" aria-label="全站搜索">
+                    <i class="fa-solid fa-search text-lg sm:text-xl"></i>
+                </a>
+                
+                <div class="hidden lg:flex flex-shrink-0 origin-right whitespace-nowrap scale-[0.75] min-[375px]:scale-[0.85] sm:scale-100 items-center">
+    <script src="/e/member/login/custom_loginjs.php"></script>
+</div>
+
+                <button id="mobile-menu-btn" class="lg:hidden p-1 sm:p-2 text-gray-700 hover:text-red-600 flex-shrink-0 transition-colors" aria-label="展开菜单">
+                    <i class="fa-solid fa-bars text-lg sm:text-xl" id="menu-icon"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-gray-100 shadow-md transition-all duration-300 absolute w-full z-40">
+        <div class="container mx-auto px-4 py-3 space-y-1">
+            <div class="block py-2 px-4 mb-3 bg-gray-50 rounded-md border border-gray-100 text-sm text-center">
+                <script src="/e/member/login/myloginjs_mobile.php"></script>
+            </div>
+            <a href="/zk/" class="block py-2.5 px-4 rounded-md transition-colors hover:bg-gray-50 text-gray-800"><i class="fa-solid fa-bullhorn w-5 text-gray-400 mr-2"></i>招考公告</a>
+            <a href="/zl/" class="block py-2.5 px-4 rounded-md transition-colors hover:bg-gray-50 text-gray-800"><i class="fa-solid fa-layer-group w-5 text-gray-400 mr-2"></i>公考题库</a>
+            <a href="/bktk/" class="block py-2.5 px-4 rounded-md transition-colors hover:bg-gray-50 text-gray-800"><i class="fa-solid fa-star w-5 text-gray-400 mr-2"></i>必考考点</a>
+            <a href="/sszztk.html" class="block py-2.5 px-4 rounded-md transition-colors hover:bg-gray-50 text-gray-800"><i class="fa-regular fa-newspaper w-5 text-gray-400 mr-2"></i>时政热点</a>
+            <a href="/ask/" class="block py-2.5 px-4 rounded-md transition-colors hover:bg-gray-50 text-gray-800"><i class="fa-regular fa-comments w-5 text-gray-400 mr-2"></i>公考问答</a>
+            
+            <a href="/e/extend/exam/" class="block py-2.5 px-4 mt-1 transition-all rounded-md hover:bg-gray-50 text-gray-800">
+                <i class="fa-solid fa-pen-to-square w-5 text-red-500 mr-2"></i>
+                <span class="font-bold text-shimmer-effect">在线考试</span>
+            </a>
+        </div>
+    </div>
+
+    <div id="mobile-region-modal" class="hidden md:hidden fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4">
+        <div class="bg-white rounded-lg w-full max-w-md max-h-[80vh] overflow-y-auto animate-in fade-in slide-in-from-top-5 duration-300">
+            <div class="bg-white px-4 py-3 border-b border-gray-200 flex justify-between items-center sticky top-0 z-10">
+                <h3 class="text-lg font-medium text-gray-900">选择地区</h3>
+                <button id="close-mobile-region" class="text-gray-500 hover:text-gray-700" aria-label="关闭">
+                    <i class="fa-solid fa-times text-xl"></i>
+                </button>
+            </div>
+            <div id="mobile-region-content" class="px-4 py-3 md:px-6 md:py-4">
+            </div>
+        </div>
+    </div>
+</header>
+
+    <main class="flex-grow">
+        
+        <nav class="bg-gray-50 py-3 text-sm text-gray-600 border-b border-gray-100">
+            <div class="container mx-auto px-4">
+                <div class="flex flex-wrap items-center gap-y-1">
+                 <a href="/">首页</a>&nbsp;>&nbsp;<a href="/stk/">考试题库</a>&nbsp;>&nbsp;<a href="/stk/yn/">云南</a>
+                </div>
+            </div>
+        </nav>
+
+        <section class="py-4 md:py-10">
+            <div class="container mx-auto px-4">
+                <div class="flex flex-col lg:flex-row gap-6 lg:gap-8 items-start">
+                    
+                    <div class="w-full lg:w-3/4 space-y-6 md:space-y-8">
+                        
+                        <div class="bg-white rounded-lg shadow-sm p-4 border border-gray-200">
+                            <div class="flex items-center justify-between mb-4">
+                                <h2 class="font-bold text-gray-800 text-lg">云南</h2>
+                            </div>
+                            <div class="flex flex-wrap gap-2">
+                                <a href="[!--class.url--]" class="px-4 py-1.5 md:py-2 rounded-md text-sm font-medium transition-all duration-200 bg-red-600 text-white shadow-md">
+                                    全部
+                                </a>
+                                
+                                                            </div>
+                            </div>
+
+                        <div class="bg-white rounded-lg shadow-sm overflow-hidden border border-gray-200">
+                            
+                            <div class="bg-white px-4 md:px-6 py-3 flex items-center justify-between border-b border-gray-100">
+                                <h2 class="font-bold text-gray-800 flex items-center text-lg">
+                                    <i class="fa-solid fa-book-open w-5 h-5 mr-2 text-red-600 mt-1"></i>
+                                    云南列表
+                                </h2>
+                            </div>
+
+                            <div class="p-4 md:p-6">
+                                <div class="space-y-4">
+                                    
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14936.html" title="云南省公务员考试《行测》+《申论》真题汇总【答案+解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                云南省公务员考试《行测》+《申论》真题汇总【答案+解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            19点积分
+        </div>
+        
+        <a href="/stk/yn/14936.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 258 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/2309.html" title="2018年云南省事业单位考试《公共基础知识》1000题【必考题库】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2018年云南省事业单位考试《公共基础知识》1000题【必考题库】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/2309.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 946 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/2292.html" title="2018年云南省教师招聘考试《教育基础知识》真题库及答案" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2018年云南省教师招聘考试《教育基础知识》真题库及答案
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/2292.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 266 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/733.html" title="2017年云南省事业单位考试《公共基础知识》1000题【必考题库】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2017年云南省事业单位考试《公共基础知识》1000题【必考题库】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/733.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 731 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/16371.html" title="《2026年云南省政府工作报告》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《2026年云南省政府工作报告》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            5点积分
+        </div>
+        
+        <a href="/stk/yn/16371.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 252 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/16282.html" title="《云南十五五规划建议》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《云南十五五规划建议》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            9点积分
+        </div>
+        
+        <a href="/stk/yn/16282.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 215 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/16227.html" title="《2025年云南省政府工作报告》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《2025年云南省政府工作报告》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            5点积分
+        </div>
+        
+        <a href="/stk/yn/16227.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 220 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/16226.html" title="《云南省昭通市情》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《云南省昭通市情》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            3点积分
+        </div>
+        
+        <a href="/stk/yn/16226.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 173 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/16071.html" title="2025年公务员多省联考《申论》（云南县乡卷）真题试卷及答案【含解析】 " class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2025年公务员多省联考《申论》（云南县乡卷）真题试卷及答案【含解析】 
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            1点积分
+        </div>
+        
+        <a href="/stk/yn/16071.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 170 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/16044.html" title="2025年云南省公务员录用考试《行测》真题试卷及答案【含解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2025年云南省公务员录用考试《行测》真题试卷及答案【含解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            2点积分
+        </div>
+        
+        <a href="/stk/yn/16044.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 205 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/15358.html" title="2025年云南省时事政治试题汇总" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2025年云南省时事政治试题汇总
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            12点积分
+        </div>
+        
+        <a href="/stk/yn/15358.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 248 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/15357.html" title="2024年云南省时事政治试题汇总" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2024年云南省时事政治试题汇总
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            9点积分
+        </div>
+        
+        <a href="/stk/yn/15357.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 227 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/15251.html" title="《云南省2025年政府工作报告》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《云南省2025年政府工作报告》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            2点积分
+        </div>
+        
+        <a href="/stk/yn/15251.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 176 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/15228.html" title="《云南省情》题库(答案+解析)（800题）【2025版】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《云南省情》题库(答案+解析)（800题）【2025版】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            29点积分
+        </div>
+        
+        <a href="/stk/yn/15228.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 290 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/15177.html" title="《云南省农村信用社基础知识》题库（答案及解析）" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                《云南省农村信用社基础知识》题库（答案及解析）
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/15177.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 246 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/15049.html" title="云南省卫生健康委员会招聘考试题库（答案+解析）" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                云南省卫生健康委员会招聘考试题库（答案+解析）
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/15049.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 248 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14882.html" title="2023年公务员多省联考《申论》（云南县乡卷）真题试卷及答案【含解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2023年公务员多省联考《申论》（云南县乡卷）真题试卷及答案【含解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            1点积分
+        </div>
+        
+        <a href="/stk/yn/14882.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 229 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14881.html" title="2024年公务员多省联考《申论》（云南省州市卷）真题试卷及答案【含解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2024年公务员多省联考《申论》（云南省州市卷）真题试卷及答案【含解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            1点积分
+        </div>
+        
+        <a href="/stk/yn/14881.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 204 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14880.html" title="2022年云南公务员录用考试《行测》真题试卷及答案【含解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2022年云南公务员录用考试《行测》真题试卷及答案【含解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            2点积分
+        </div>
+        
+        <a href="/stk/yn/14880.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 167 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14879.html" title="2023年云南公务员录用考试《行测》真题试卷及答案【含解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2023年云南公务员录用考试《行测》真题试卷及答案【含解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            2点积分
+        </div>
+        
+        <a href="/stk/yn/14879.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 288 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14646.html" title="2024年3.16公务员联考笔试《行测》（云南卷）真题试卷及答案【含解析】" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                2024年3.16公务员联考笔试《行测》（云南卷）真题试卷及答案【含解析】
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            2点积分
+        </div>
+        
+        <a href="/stk/yn/14646.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 234 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14546.html" title="云南省事业单位统一招聘考试《综合能力测试》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                云南省事业单位统一招聘考试《综合能力测试》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            19点积分
+        </div>
+        
+        <a href="/stk/yn/14546.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 203 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14545.html" title="云南省事业单位统一招聘考试《职业能力倾向测验》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                云南省事业单位统一招聘考试《职业能力倾向测验》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/14545.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 278 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14533.html" title="云南省交通运输厅事业单位招聘考试《综合应用能力》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                云南省交通运输厅事业单位招聘考试《综合应用能力》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/14533.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 257 次
+        </a>
+    </div>
+    
+</div>
+
+<div class="flex flex-col sm:flex-row sm:items-center p-3 md:p-4 bg-white rounded-lg border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300 mb-4">
+    
+    <div class="flex-grow mb-3 sm:mb-0 pr-0 sm:pr-4">
+        <a href="/stk/yn/14532.html" title="云南省交通运输厅事业单位招聘考试《职业能力倾向测验》题库(答案+解析)" class="block group" target="_blank">
+            <h3 class="font-medium md:font-normal text-gray-800 text-base line-clamp-1 group-hover:text-red-600 transition-colors leading-relaxed">
+                云南省交通运输厅事业单位招聘考试《职业能力倾向测验》题库(答案+解析)
+            </h3>
+        </a>
+    </div>
+    
+    <div class="flex items-center justify-between sm:justify-end gap-2 sm:space-x-2 shrink-0 border-t sm:border-t-0 border-gray-50 pt-3 sm:pt-0">
+        <div class="px-2 md:px-3 py-1 bg-gray-50 text-gray-700 rounded-md hover:bg-gray-100 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap cursor-default border border-gray-100">
+            <i class="fa-solid fa-coins mr-1 text-yellow-500"></i>
+            39点积分
+        </div>
+        
+        <a href="/stk/yn/14532.html" target="_blank" class="px-3 md:px-4 py-1.5 bg-red-600 text-white rounded-md hover:bg-red-700 transition-colors flex items-center text-xs md:text-sm whitespace-nowrap shadow-sm hover:shadow">
+            <i class="fa-solid fa-download mr-1.5"></i>
+            下载 287 次
+        </a>
+    </div>
+    
+</div>
+
+                                </div>
+                            </div>
+                            
+                            <div class="flex justify-center items-center py-6 px-4 border-t border-gray-100 overflow-x-auto">
+                                <nav class="inline-flex gap-1 text-sm empire-pagination [&>a]:flex [&>a]:items-center [&>a]:justify-center [&>a]:px-3 [&>a]:py-1.5 [&>a]:border [&>a]:border-gray-200 [&>a]:bg-white [&>a]:text-gray-600 [&>a]:rounded-md hover:[&>a]:bg-gray-50 [&>b]:flex [&>b]:items-center [&>b]:justify-center [&>b]:px-3 [&>b]:py-1.5 [&>b]:bg-red-600 [&>b]:text-white [&>b]:font-medium [&>b]:rounded-md [font-size:0] [&>a]:text-sm [&>b]:text-sm">
+                                    <div class="flex justify-center items-center py-6 sm:py-8 mt-4 border-t border-gray-100"><nav class="inline-flex rounded shadow-sm border border-gray-300 divide-x divide-gray-300 overflow-hidden"><span class="px-2.5 sm:px-3.5 py-1.5 sm:py-2 bg-gray-50 text-gray-300 cursor-not-allowed flex items-center justify-center text-[12px] sm:text-sm"><i class="fa-solid fa-angle-left"></i></span><span class="px-3 sm:px-4 py-1.5 sm:py-2 bg-red-50 text-red-600 text-[12px] sm:text-sm font-bold flex items-center justify-center">1</span><a href="/stk/yn/index_2.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">2</a><a href="/stk/yn/index_3.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">3</a><a href="/stk/yn/index_4.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">4</a><a href="/stk/yn/index_5.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">5</a><a href="/stk/yn/index_6.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">6</a><a href="/stk/yn/index_7.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">7</a><a href="/stk/yn/index_8.html" class="px-3 sm:px-4 py-1.5 sm:py-2 bg-white text-gray-700 hover:bg-gray-50 text-[12px] sm:text-sm font-medium transition-colors flex items-center justify-center">8</a><a href="/stk/yn/index_2.html" class="px-2.5 sm:px-3.5 py-1.5 sm:py-2 bg-white text-gray-500 hover:bg-gray-50 hover:text-gray-700 transition-colors flex items-center justify-center text-[12px] sm:text-sm"><i class="fa-solid fa-angle-right"></i></a></nav></div>
+                                </nav>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="w-full lg:w-1/4 shrink-0">
+                        <aside class="block sticky top-6 space-y-6 h-fit w-full">
+                            <aside class="block sticky top-6 space-y-6 h-fit w-full">
+                        
+    <div class="bg-gradient-to-r from-red-50 to-orange-50 rounded-lg shadow-sm border-red-100 border overflow-hidden hover:shadow-md transition-all duration-300">
+        <div class="flex justify-between items-start p-4">
+            <h3 class="font-bold text-gray-700 flex items-center">
+                <i class="fa-solid fa-landmark mr-2"></i>公共基础知识专用题库
+            </h3>
+            <span class="text-xs px-2 py-0.5 rounded-full border border-red-200 text-red-500 bg-white">推荐</span>
+        </div>
+        <p class="px-4 pb-2 text-sm text-gray-700">涵盖事业单位考试公基核心考点，海量历年真题与高质量模拟题，助您夯实基础，稳步提分！</p>
+        <a class="block w-full p-3 text-center text-sm font-medium text-white bg-red-600 hover:bg-red-700 transition-colors" href="https://www.kkgwy.com/sydwksggtk.html" target="_blank">
+            立即练习
+        </a>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm p-4 md:p-6 border border-gray-200">
+        <h3 class="font-bold mb-4 text-gray-800 flex items-center text-lg">
+            <i class="fa-solid fa-arrow-trend-up w-5 h-5 mr-2 text-red-600"></i>
+            热门下载
+        </h3>
+        <ul class="space-y-4">
+                        <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-red-600 text-white">
+                    1                </span>
+                <div class="flex-grow">
+                    <a href="/stk/yn/2309.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="2018年云南省事业单位考试《公共基础知识》1000题【必考题库】">
+                        2018年云南省事业单位考试《公共基础知识》1000题【必考题库】                    </a>
+                </div>
+            </li>
+                        <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-red-600 text-white">
+                    2                </span>
+                <div class="flex-grow">
+                    <a href="/stk/yn/733.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="2017年云南省事业单位考试《公共基础知识》1000题【必考题库】">
+                        2017年云南省事业单位考试《公共基础知识》1000题【必考题库】                    </a>
+                </div>
+            </li>
+                        <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-red-600 text-white">
+                    3                </span>
+                <div class="flex-grow">
+                    <a href="/stk/yn/2292.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="2018年云南省教师招聘考试《教育基础知识》真题库及答案">
+                        2018年云南省教师招聘考试《教育基础知识》真题库及答案                    </a>
+                </div>
+            </li>
+                        <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-gray-100 text-gray-700 font-normal">
+                    4                </span>
+                <div class="flex-grow">
+                    <a href="/stk/yn/14936.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="云南省公务员考试《行测》+《申论》真题汇总【答案+解析】">
+                        云南省公务员考试《行测》+《申论》真题汇总【答案+解析】                    </a>
+                </div>
+            </li>
+                        <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-gray-100 text-gray-700 font-normal">
+                    5                </span>
+                <div class="flex-grow">
+                    <a href="/stk/yn/1392.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="2006-2016年云南省昆明市西山区事业单位考试《公共基础知识》真题试卷及答案【11套】">
+                        2006-2016年云南省昆明市西山区事业单位考试《公共基础知识》真题试卷及答案【11套】                    </a>
+                </div>
+            </li>
+                    </ul>
+    </div>
+
+    <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg shadow-sm border-blue-100 border overflow-hidden hover:shadow-md transition-all duration-300">
+        <div class="flex justify-between items-start p-4">
+            <h3 class="font-bold text-gray-700 flex items-center">
+                <i class="fa-solid fa-newspaper mr-2"></i>时事政治题库
+            </h3>
+            <span class="text-xs px-2 py-0.5 rounded-full border border-blue-200 text-blue-500 bg-white">必刷</span>
+        </div>
+        <p class="px-4 pb-2 text-sm text-gray-700">每日更新最新时政热点，汇总全年重要会议、政策文件精华，紧跟考试风向，精准押题！</p>
+        <a class="block w-full p-3 text-center text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 transition-colors" href="https://www.kkgwy.com/sszztk.html" target="_blank">
+            立即刷题
+        </a>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm p-4 md:p-6 border border-gray-200">
+        <h3 class="font-bold mb-4 text-gray-800 flex items-center text-lg">
+            <i class="fa-solid fa-thumbs-up w-5 h-5 mr-2 text-red-600"></i>
+            推荐题库
+        </h3>
+        <ul class="space-y-4">
+            <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-red-600 text-white">1</span>
+                <div class="flex-grow">
+                    <a href="/huatuks.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="《公共基础知识》题库（答案+解析）">
+                        《公共基础知识》题库（答案+解析）
+                    </a>
+                </div>
+            </li>
+            <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-red-600 text-white">2</span>
+                <div class="flex-grow">
+                    <a href="/sszztk.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title=" 《时事政治热点题库》｜时政考点+预测题">
+                         《时事政治热点题库》｜时政考点+预测题
+                    </a>
+                </div>
+            </li>
+            <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-red-600 text-white">3</span>
+                <div class="flex-grow">
+                    <a href="/zyjh.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="习总书记重要讲话题库">
+                        习总书记重要讲话题库
+                    </a>
+                </div>
+            </li>
+            <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-gray-100 text-gray-700 font-normal">4</span>
+                <div class="flex-grow">
+                    <a href="/dwgzjczz.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title="《党务工作基础知识》 考点+试题">
+                        《党务工作基础知识》 考点+试题
+                    </a>
+                </div>
+            </li>
+            <li class="flex items-start">
+                <span class="flex-shrink-0 w-6 h-6 rounded-md flex items-center justify-center text-xs font-bold mr-3 bg-gray-100 text-gray-700 font-normal">5</span>
+                <div class="flex-grow">
+                    <a href="/jylsszztk.html" class="block text-sm font-medium text-gray-800 hover:text-red-600 transition-colors line-clamp-2" title=" 《教育类时事政治》题库（答案+解析）">
+                         《教育类时事政治》题库（答案+解析）
+                    </a>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+    <div class="bg-gradient-to-r from-green-50 to-emerald-50 rounded-lg shadow-sm border-green-100 border overflow-hidden hover:shadow-md transition-all duration-300">
+        <div class="flex justify-between items-start p-4">
+            <h3 class="font-bold text-gray-700 flex items-center">
+                <i class="fa-solid fa-desktop mr-2"></i>在线考试题库
+            </h3>
+            <span class="text-xs px-2 py-0.5 rounded-full border border-green-200 text-green-500 bg-white">实战</span>
+        </div>
+        <p class="px-4 pb-2 text-sm text-gray-700">还原真实机考环境，支持专项练习与全真模拟考试，智能评分解析，查漏补缺更高效！</p>
+        <a class="block w-full p-3 text-center text-sm font-medium text-white bg-green-600 hover:bg-green-700 transition-colors" href="https://www.kkgwy.com/e/extend/exam/" target="_blank">
+            开始考试
+        </a>
+    </div>
+
+    <div class="bg-white rounded-lg shadow-sm p-4 md:p-6 border border-gray-200">
+        <h3 class="font-bold mb-4 text-gray-800 flex items-center text-lg">
+            <i class="fa-solid fa-tags w-5 h-5 mr-2 text-red-600"></i>
+            热门标签
+        </h3>
+        <div class="flex flex-wrap gap-2">
+                        <a href="/e/tags/?tagname=%CC%E2%BF%E2" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                题库            </a>
+                        <a href="/e/tags/?tagname=%D5%E6%CC%E2%CA%D4%BE%ED" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                真题试卷            </a>
+                        <a href="/e/tags/?tagname=%CA%C2%D2%B5%B5%A5%CE%BB" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                事业单位            </a>
+                        <a href="/e/tags/?tagname=%B9%AB%CE%F1%D4%B1" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                公务员            </a>
+                        <a href="/e/tags/?tagname=2024%C4%EA" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                2024年            </a>
+                        <a href="/e/tags/?tagname=2023%C4%EA" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                2023年            </a>
+                        <a href="/e/tags/?tagname=2025%C4%EA" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                2025年            </a>
+                        <a href="/e/tags/?tagname=%A1%B6%D0%D0%B2%E2%A1%B7" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                《行测》            </a>
+                        <a href="/e/tags/?tagname=%C1%AA%BF%BC" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                联考            </a>
+                        <a href="/e/tags/?tagname=%A1%B6%C9%EA%C2%DB%A1%B7" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                《申论》            </a>
+                        <a href="/e/tags/?tagname=%D5%D0%BF%BC" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                招考            </a>
+                        <a href="/e/tags/?tagname=%D0%C5%CF%A2" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                信息            </a>
+                        <a href="/e/tags/?tagname=%D7%EE%D0%C2" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                最新            </a>
+                        <a href="/e/tags/?tagname=%B4%F0%B0%B8" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                答案            </a>
+                        <a href="/e/tags/?tagname=%BB%E3%D7%DC" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                汇总            </a>
+                        <a href="/e/tags/?tagname=%B9%AB%B9%B2%BB%F9%B4%A1%D6%AA%CA%B6" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                公共基础知识            </a>
+                        <a href="/e/tags/?tagname=%BA%D3%C4%CF%CA%A1" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                河南省            </a>
+                        <a href="/e/tags/?tagname=2022%C4%EA" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                2022年            </a>
+                        <a href="/e/tags/?tagname=%CA%B1%CA%C2%D5%FE%D6%CE" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                时事政治            </a>
+                        <a href="/e/tags/?tagname=%BF%BC%CA%D4" 
+               target="_blank" 
+               class="px-3 py-1.5 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-red-50 hover:text-red-600 transition-colors flex items-center">
+                考试            </a>
+                    </div>
+    </div>
+
+</aside>
+                        </aside>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+    </main>
+
+<footer class="bg-white border-t border-gray-200">
+        <div class="container mx-auto px-4 py-6 md:py-10">
+            <div class="hidden md:grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div class="col-span-1">
+                    <a href="/" title="考考公务员主页" class="flex items-center space-x-2 mb-4 hover:opacity-80 transition-opacity w-max">
+                        <i class="fa-solid fa-book-open w-6 h-6 text-red-600"></i>
+                        <span class="text-lg font-bold text-red-600">考考公务员</span>
+                    </a>
+                    <p class="text-gray-600 mb-4 text-sm sm:text-base">公务员考试一站式备考平台，提供最新资讯、优质课程和丰富学习资料。</p>
+                    <div class="flex space-x-4">
+        
+    <a href="/a/winxin.html" title="微信关注" style="color: #07C160 !important;" class="hover:opacity-80 transition-opacity">
+        <span class="fa-brands fa-weixin text-xl"></span>
+    </a>
+    
+    <a href="/a/weibo.html" title="官方微博" style="color: #E6162D !important;" class="hover:opacity-80 transition-opacity">
+        <span class="fa-brands fa-weibo text-xl"></span>
+    </a>
+    
+    <a href="/a/qq.html" title="QQ交流" style="color: #12B7F5 !important;" class="hover:opacity-80 transition-opacity">
+        <span class="fa-brands fa-qq text-xl"></span>
+    </a>
+                    </div>
+                </div>
+                
+                <div class="col-span-1 md:col-span-3 grid grid-cols-2 md:grid-cols-3 gap-6">
+                    <div>
+                        <h3 class="text-base md:text-lg font-bold mb-3 md:mb-4 text-gray-800">学习资源</h3>
+                        <ul class="space-y-2 text-sm sm:text-base">
+                            <li><a href="/gwykszthz.html" title="公考题库" class="text-gray-600 hover:text-red-600 transition-colors">公考题库</a></li>
+                            <li><a href="/xc/" title="行测考点" class="text-gray-600 hover:text-red-600 transition-colors">行测考点</a></li>
+                            <li><a href="/sl/" title="申论范文" class="text-gray-600 hover:text-red-600 transition-colors">申论范文</a></li>
+                            <li><a href="/ms/" title="面试真题" class="text-gray-600 hover:text-red-600 transition-colors">面试真题</a></li>
+                            <li><a href="/zh/" title="综合知识" class="text-gray-600 hover:text-red-600 transition-colors">综合知识</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div>
+                        <h3 class="text-base md:text-lg font-bold mb-3 md:mb-4 text-gray-800">考公神器</h3>
+                        <ul class="space-y-2 text-sm sm:text-base">
+                            <li><a href="/tool/sz.php" title="每日时政" class="text-gray-600 hover:text-red-600 transition-colors">每日时政</a></li>
+                            <li><a href="/tool/ms.php" title="面试模拟" class="text-gray-600 hover:text-red-600 transition-colors">面试模拟</a></li>
+                            <li><a href="/tool/sl.php" title="申论金句" class="text-gray-600 hover:text-red-600 transition-colors">申论金句</a></li>
+                            <li><a href="/tool/cx.php" title="职位匹配" class="text-gray-600 hover:text-red-600 transition-colors">职位匹配</a></li>
+                            <li><a href="/tool/zp.php" title="照片处理" class="text-gray-600 hover:text-red-600 transition-colors">照片处理</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="col-span-2 md:col-span-1">
+                        <h3 class="text-base md:text-lg font-bold mb-3 md:mb-4 text-gray-800">帮助中心</h3>
+                        <ul class="space-y-2 text-sm sm:text-base">
+                            <li><a href="/a/aboutus.html" title="关于我们" class="text-gray-600 hover:text-red-600 transition-colors">关于我们</a></li>
+                            <li><a href="/a/disclaimer.html" title="免责声明" class="text-gray-600 hover:text-red-600 transition-colors">免责声明</a></li>
+                            <li><a href="/a/buy.html" title="支付方式" class="text-gray-600 hover:text-red-600 transition-colors">支付方式</a></li>
+                            <li><a href="/a/pay.html" title="充值说明" class="text-gray-600 hover:text-red-600 transition-colors">充值说明</a></li>
+                            <li><a href="/a/studentcases.html" title="学员案例" class="text-gray-600 hover:text-red-600 transition-colors">学员案例</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="md:mt-8 md:pt-4 md:border-t border-gray-300 flex justify-between items-center flex-col md:flex-row pb-[env(safe-area-inset-bottom)] md:pb-0">
+                <div class="text-gray-500 text-sm sm:text-base mb-3 md:mb-0">&copy; <span id="current-year"></span> 考考公务员 版权所有</div>
+                <div class="flex flex-col sm:flex-row items-center justify-center gap-2 text-green-600 text-sm sm:text-base w-full md:w-auto">
+                    <div class="flex items-center justify-center">
+                        <i class="fa-solid fa-shield-alt mr-1"></i>
+                        <span class="font-medium">SSL 安全连接</span>
+                    </div>
+                    <span class="hidden sm:inline-block mx-1 text-gray-300">|</span>
+                    <div class="flex items-center justify-center mt-1 sm:mt-0">
+                        <span class="text-red-600 whitespace-nowrap" id="uptime-display">
+                            已稳健运行: 0天 0时 0分 0秒
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <nav class="md:hidden fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 z-50 flex justify-around items-center pt-2 pb-[calc(0.5rem+env(safe-area-inset-bottom))] shadow-[0_-2px_10px_rgba(0,0,0,0.05)]">
+        <a href="/" class="flex flex-col items-center text-gray-600 hover:text-red-600 p-1 w-1/5 transition-colors">
+            <i class="fa-solid fa-house text-[22px] mb-1"></i>
+            <span class="text-[10px] font-medium">首页</span>
+        </a>
+        <a href="/search" class="flex flex-col items-center text-gray-600 hover:text-red-600 p-1 w-1/5 transition-colors">
+            <i class="fa-solid fa-magnifying-glass text-[22px] mb-1"></i>
+            <span class="text-[10px]">搜索</span>
+        </a>
+        <a href="/e/extend/exam/" class="flex flex-col items-center text-gray-600 hover:text-red-600 p-1 w-1/5 transition-colors">
+            <div class="relative">
+                <i class="fa-regular fa-file-lines text-[22px] mb-1"></i>
+                <span class="absolute -top-0.5 -right-1.5 w-2 h-2 bg-red-500 rounded-full border border-white"></span>
+            </div>
+            <span class="text-[10px]">考试</span>
+        </a>
+        <a href="/e/payapi/" class="flex flex-col items-center text-gray-600 hover:text-red-600 p-1 w-1/5 transition-colors">
+            <i class="fa-regular fa-credit-card text-[22px] mb-1"></i>
+            <span class="text-[10px]">充值</span>
+        </a>
+        <a href="/e/member/cp/" class="flex flex-col items-center text-gray-600 hover:text-red-600 p-1 w-1/5 transition-colors">
+            <i class="fa-regular fa-user text-[22px] mb-1"></i>
+            <span class="text-[10px]">我的</span>
+        </a>
+    </nav>
+<script src="/skin/js/main.js"></script>
+</body>  
+</html>

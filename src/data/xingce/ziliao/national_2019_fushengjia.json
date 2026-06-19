@@ -1,0 +1,704 @@
+[
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年第三季度，全国平均每吨进口药品单价约为多少万美元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "96"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2017 年第三季度······平均每吨进口药品单价”，可判定本题为现期平均数问题。第三\n季度为 7—9 月。定位图形材料 1 可得：2017 年 7—9 月进口药品数量分别为 1.1 万吨、1.2 万吨、1.1 万吨；定\n位图形材料 2 可得：2017 年 7—9 月进口药品金额分别为 19.6 亿美元、23.8 亿美元、21.9 亿美元。由\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第116题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2016 年 5 月，全国进口药品金额环比增速：",
+    "options": [
+      {
+        "label": "A",
+        "content": "超过100%"
+      },
+      {
+        "label": "B",
+        "content": "在40%~100%之间"
+      },
+      {
+        "label": "C",
+        "content": "在0%~40%之间"
+      },
+      {
+        "label": "D",
+        "content": "低于0%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2016 年 5 月······环比增速”，结合材料给出的 2017 年 4、5 月的数据，可判定本题为\n一般增长率问题，其中现期是 2016 年 5 月，基期是 2016 年 4 月。定位图形材料 2 可得：2017 年 5 月进口药品\n\n金额为 27.8 亿美元，同比增速为\n\n；2017 年 4 月进口药品金额为 18.8 亿美元，同比增速为\n\n。由\n\n，与 B 项最接近。\n\n，可得：2016 年 5 月进口药品金额\n\n亿美元，2016 年 4 月进口药品金\n\n额\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第117题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年下半年，全国进口药品数量同比增速低于上月水平的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2017 年下半年······同比增速低于上月水平······”结合材料给出了每个月的增\n长率，可判定本题为直接找数问题。2017 年下半年为 7—12 月，定位图形材料 1 可得：2017 年 6—12 月增长率\n\n，其范围符合 C 选项。\n\n亿美元；由\n\n- 26 -\n\n\f、\n\n、\n\n、\n\n分别为\n、\n水平，即有 4 个月。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第118题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "以下折线图中，能准确反映 2017 年第四季度各月全国进口药品金额环比增长率的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2017 年第四季度各月······环比增长率”，可判定本题为一般增长率问题。定位图形材\n料 2 可得：2017 年 9 月-12 月全国进口药品金额分别为 21.9 亿美元、18.4 亿美元、24.0 亿美元、27.8 亿美元。\n\n。比较可知：7 月、9 月、10 月、12 月增速低于上月\n\n、\n\n、\n\n根据公式：\n\n，2017 年第四季度各月的环比增长率分别为：10 月：\n\n；11 月：\n\n；12 月：\n\n。\n\n即 10 月最小，11 月最大。结合图像，D 选项符合。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第119题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2019_fushengjia/q119.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016 年下半年，全国进口药品数量低于 1 万吨的月份仅有 2 个"
+      },
+      {
+        "label": "B",
+        "content": "2017 年 11 月，全国平均每吨进口药品单价低于上年同期水平"
+      },
+      {
+        "label": "C",
+        "content": "2017 年第二季度，全国进口药品金额超过 75 亿美元"
+      },
+      {
+        "label": "D",
+        "content": "2017 年 1 月，全国进口药品金额超过 20 亿美元 （二） 2017 年全国二手车累计交易量为 1240 万辆，同比增长 19.3%；二手车交易额为 8092.7 亿元，同比增长 34%。2017 年 12 月，全国二手车市场交易量为 123 万辆，交易量环比上升 7.4%，上年同期交易量为 108 万辆。 - 14 - B、4 D、7 C、5 C、0.38 B、0.50 D、0.42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "A 项：定位图形材料 1，2017 年 7-12 月全国进口药品数量分别为 1.1 万吨、1.2 万吨、1.1 万吨、1.0 万吨、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第120题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2011～2017 年，全国二手车交易量同比增量低于 80 万辆的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······同比增量低于 80 万辆的年份有几个”，可判定本题为增长量的计算问题。定位图\n\n1 可知 2011~2017 年每年的二手车交易量，以及 2011 年增长率为\n\n，根据公式：\n\n可得 2011 年二手车增长量=\n可得：\n\n。根据公式：\n\n，\n\n，\n\n所以，2011~2017 年，全国二手车交易量同比增量低于 80 万辆的年份有 2011 年、2013 年、2014 年、2015 年这\n4 年。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第121题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "“十二五”（2011～2015 年）期间，全国二手车总计交易约多少亿辆？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.46"
+      },
+      {
+        "label": "B",
+        "content": "0.50"
+      },
+      {
+        "label": "C",
+        "content": "0.38"
+      },
+      {
+        "label": "D",
+        "content": "0.42"
+      }
+    ],
+    "answer": "D",
+    "explanation": "定位图 1 可知 2011~2015 年全国二手车每年的交易量，所以“十二五”（2011~2015 年）期间，全国二手\n\n车总计交易为\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第122题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年 1～10 月，平均每月全国二手车交易量约为多少万辆？",
+    "options": [
+      {
+        "label": "A",
+        "content": "100"
+      },
+      {
+        "label": "B",
+        "content": "105"
+      },
+      {
+        "label": "C",
+        "content": "90"
+      },
+      {
+        "label": "D",
+        "content": "95"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2017 年 1~10 月，平均每月······万辆”，结合材料时间为 2017 年，可判定本题为现期\n平均数问题。定位文字材料“2017 年全国二手车累计交易量为 1240 万辆······2017 年 12 月，全国二手\n\n，与 D 项最为接近。\n\n车交易量为 123 万辆，交易量环比上升\n\n”，可得 2017 年 1~10 月，平均每月全国二手车交易量约为\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第123题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2015 年全国二手车交易总金额比 2014 年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了不到100 亿元"
+      },
+      {
+        "label": "B",
+        "content": "减少了100 亿元以上"
+      },
+      {
+        "label": "C",
+        "content": "增长了100 亿元以上"
+      },
+      {
+        "label": "D",
+        "content": "增长了不到100 亿元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据选项“增长/减少······”，结合选项带具体单位，可判定本题为增长量计算问题。定位图 1 和\n图 2，可知 2015 和 2014 年二手车交易量和平均交易价格，\n\n，与 A 项最为接近。\n\n- 27 -\n\n\f,\n\n2014 年减少了不到 100 亿元。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第124题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016～2017 年，全国二手车平均交易价格在 6.1～6.15 万元之间"
+      },
+      {
+        "label": "B",
+        "content": "2011～2017 年，全国二手车交易量同比增速第 4 高的年份，当年二手车平均交易价格高于 6 万元"
+      },
+      {
+        "label": "C",
+        "content": "2011～2017 年，全国二手车交易量同比增长量最高的年份其增长量是最低年份的 9 倍多 B、减少了 100 亿元以上 C、增长了 100 亿元以上 B、105"
+      },
+      {
+        "label": "D",
+        "content": "95 C、90 D、增长了不到 100 亿元 D、2011～2017 年，全国二手车交易量同比增速低于 的年份有 4 个 （三） B、在 5000～6000 个之间 D、超过 7000 个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位图 1 和图 2，可知 2016 和 2017 年二手车交易量分别为 1039 万辆和 1240 万辆，平均交易价格分\n别为 5.8 万元/辆和 6.5 万元/辆，故 2016~2017 年全国二手车平均交易价格应在 5.8~6.5 万元/辆之间。由于\n\n。\n\n，故 2015 年二手车交易总金额比\n\n，故 2016~2017 年，全国二手车平均交易价\n\n格应更偏向于 2017 年的平均交易价格，即应大于\n不在 6.1~6.15 万元之间，错误；\nB 项：定位图 1，可知全国二手车交易量同比增速第 4 高的是 2016 年，对应图 2 平均交易价格为 5.8 万元，低于\n6 万元，错误；\n\n，即在 6.15~6.5 万元/辆之间，\n\nC 项：定位图 1，全国二手车交易量同比增长量最高的年份为 2017 年，其增长量为\n\n，同比\n\n增长量最低的年份为 2015 年，其增长量为\n\n，则\n\n，正确；\n\nD 项：定位图 1，全国二手车交易量同比增速低于 的年份有 2013 年(\n共 3 个年份符合，错误。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第125题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2018 年第一季度全国处理钓鱼网站总数：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到5000 个"
+      },
+      {
+        "label": "B",
+        "content": "在5000～6000 个之间"
+      },
+      {
+        "label": "C",
+        "content": "在6001～7000 个之间"
+      },
+      {
+        "label": "D",
+        "content": "超过7000 个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题干求 2018 年一季度全国处理钓鱼网站总数，根据表格可知 2018 年 1 月-2018 年 3 月每月处理钓鱼网站\n的数量，可判定此题为简单加减计算问题。2018 年第一季度（1-3 月）全国处理钓鱼网站总数\n\n）、2015 年（\n\n)、2014 年（\n\n），\n\n故正确答案为 C。\n\n，在 C 项范围内。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第126题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年下半年，金融证券类和支付交易类钓鱼网站占当月处理钓鱼网站总数比重最低的月份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8 月"
+      },
+      {
+        "label": "B",
+        "content": "9 月"
+      },
+      {
+        "label": "C",
+        "content": "10 月"
+      },
+      {
+        "label": "D",
+        "content": "11 月"
+      }
+    ],
+    "answer": "D",
+    "explanation": "题干求金融证券类和支付交易类钓鱼网站占当月处理钓鱼网站总数比重最低的月份，根据表格可知 2017 年\n1 月-2018 年 4 月每月金融证券类和支付交易类钓鱼网站占当月处理钓鱼网站总数比重，可判定此题为简单加减\n\n计算问题。根据选项及表格可得，8 月：\n\n，11 月：\n\n，9 月：\n\n。11 月最低。\n\n，10 月：\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第127题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年，全国处理的支付交易类钓鱼网站数量超过金融证券类钓鱼网站 2 倍的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2017 年···超过···2 倍···”，可判定本题为现期倍数问题。定位表格最后两列，给\n出的数据为每个月支付交易类钓鱼网站和金融证券类钓鱼网站的处理数量占当月总数的比重，每个月总数一定，\n故只需比较比重即可。则支付交易类钓鱼网站数量超过金融证券类钓鱼网站 2 倍的月份有：\n\n2017 年 3 月份\n\n2017 年 8 月份\n\n2017 年 9 月份\n\n2017 年 10 月份\n\n2017 年 11 月份\n\n，\n\n，\n\n，\n\n，\n\n，\n\n2017 年 12 月份\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第128题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "下列折线图中，能准确反映 2018 年第一季度 CN 域名钓鱼网站处理数量同比增速变化趋势的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "、C、D。"
+      },
+      {
+        "label": "B",
+        "content": "、\n\n、\n\n。1 月"
+      },
+      {
+        "label": "C",
+        "content": "N 域名钓鱼网站处理数量分别为 204 个、58 个、254 个。根据\n\n，可得 2018 年第一季度\n\n即 1 月、2 月、3 月的同比增速分别为\n同比增长率最大，结合选项，排除 A、C、D。"
+      },
+      {
+        "label": "D",
+        "content": "故正确答案为 B。\n\n、\n\n、\n\n。1 月"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2018 年第一季度···同比增速变化趋势”，可判定本题为一般增长率比较问题。定位表格材\n料可得：2017 年 1 月、2 月、3 月 CN 域名钓鱼网站处理数量分别为 42 个、91 个、76 个，2018 年 1 月、2 月、3\n\n，共有 6 个月份。\n\n月 CN 域名钓鱼网站处理数量分别为 204 个、58 个、254 个。根据\n\n，可得 2018 年第一季度\n\n即 1 月、2 月、3 月的同比增速分别为\n同比增长率最大，结合选项，排除 A、C、D。\n故正确答案为 B。\n\n、\n\n、\n\n。1 月",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第129题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2019_fushengjia/q129.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年 3 月全国支付交易类钓鱼网站处理数量超过 2500 个"
+      },
+      {
+        "label": "B",
+        "content": "2017 年第一季度全国 CN 域名钓鱼网站处理数量占同期钓鱼网站处理总数的一成以上"
+      },
+      {
+        "label": "C",
+        "content": "2018 年 2 月全国支付交易类钓鱼网站处理数量环比下降了不到 50%"
+      },
+      {
+        "label": "D",
+        "content": "2017 年全国处理的 CN 域名钓鱼网站中，超过了一半的网站是在 12 月处理的"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项：定位表格，2018 年 3 月全国共处理钓鱼网站数量为\n\n个，支付交易类占比为\n\n，\n\n则 2018 年 3 月全国支付交易类钓鱼网站处理数量为\n\n，正确；\n\nB 项：定位表格，2017 年第一季度 CN 域名处理数量为\n\n个，全国钓鱼网站处理总数为\n\n个，则 2017 年第一季度 CN 域名处理数量占总数的比重为\n\n，不到一成，错误；\n\nC 项：定位表格，2018 年 2 月全国处理钓鱼网站数量为\n\n个，支付交易类占比为\n\n，则 2018 年\n\n- 28 -\n\n\f2 月支付交易类处理数量为\n\n个；2018 年 1 月全国处理钓鱼网站数量为\n\n个，支付交易类占比为\n\n，则 2018 年 1 月支付交易类处理数量为\n\n个。那么 2018 年 2 月支付交易类钓鱼网站处理数量\n\nD 项：定位表格，2017 年全国共处理 CN 域名钓鱼网站总数为\n\n，环比下降\n\n，错误；\n\n个，其中 12 月份处理数量为 302 个，则 12 月份\n\n，不到一半，错误。\n\n占全年的比重为\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第130题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年 A 省邮电业务总量同比增速在以下哪个范围之内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于25%"
+      },
+      {
+        "label": "B",
+        "content": "25%~50%之间"
+      },
+      {
+        "label": "C",
+        "content": "50%~75%之间"
+      },
+      {
+        "label": "D",
+        "content": "超过75%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据“2017 年 A 省邮电业务总量同比增速在以下哪个范围”，且材料已知电信业务和邮政业务的增长率，\n可判断此题为混合增长率问题。定位文字材料第一段，“2017 年，A 省完成邮电业务总量 6065.71 亿元。其中，\n\n电信业务总量 3575.86 亿元，同比增长\n\n；邮政业务总量 2489.85 亿元，增长\n\n”，根据混合增长率的口\n\n诀：混合居中但不中，偏向基期大的部分。由此可得 A 省邮电业务总量的增长率应介于\n\n和\n\n之间，结合\n\n选项可排除 A。\n\n和\n\n的中间值为\n\n，又电信业务总量基期为\n\n亿元，邮政业务总量基期为\n\n亿元，电信业务总量略大于邮政业务总量，所以混合增长率\n\n略大于中间值\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第131题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年 A 省快递业务中，业务量占总业务量比重高于上年水平的分类是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅国际和港澳台地区快递"
+      },
+      {
+        "label": "B",
+        "content": "异地快递、国际和港澳台地区快递"
+      },
+      {
+        "label": "C",
+        "content": "仅同城快递"
+      },
+      {
+        "label": "D",
+        "content": "同城快递、异地快递"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据“2017 年 A 省快递业务中，······占······比重高于上年水平的分类是···”，可判\n\n，对应 C 项。\n\n断此题为两期比重问题。定位文字材料第三段，“2017 年，全省全年完成快递业务量 100.51 亿件，同比增长\n\n。\n\n其中，同城快递业务量增长\n\n，异地快递业务量增长\n\n，国际和港澳台地区快递业务量增长\n\n”，可\n\n知总业务量增长率（b）为\n\n。若业务量占总业务量比重高于上年水平，需满足\n\n，即大于\n\n。所以满足题意的有异地快递业务量，国\n\n际和港澳台地区快递业务量，对应选项 B。\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第132题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2017 年前三季度，A 省平均每人次客运旅客运输距离（旅客周转量÷客运总量）同比（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了不到2%"
+      },
+      {
+        "label": "B",
+        "content": "下降了2%以上"
+      },
+      {
+        "label": "C",
+        "content": "上升了不到2%"
+      },
+      {
+        "label": "D",
+        "content": "上升了2%以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据“2017 年前三季度，A 省平均每人次客运旅客运输距离（\n\n）同比…”，结合选\n\n项上升/下降 ，可判断此题为平均数的增长率问题。定位文字材料第四段，“2017 年，A 省完成客运总量···，\n\n同比增长\n\n，增幅比前三季度提高 0.2 个百分点···；完成旅客周转总量···，增长\n\n，增幅比前三\n\n季度提高 0.7 个百分点···”，可知 2017 年前三季度，客运总量增长率（b）为\n\n，旅客周\n\n转量增长率（a）为\n0 ，结合选项，C 满足题意。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第133题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "2016 年，A 省高铁客运量约是普铁（除高铁外的铁路）客运量的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "1.7"
+      },
+      {
+        "label": "C",
+        "content": "0.8"
+      },
+      {
+        "label": "D",
+        "content": "1.1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2016 年···约是···的多少倍”，结合材料时间为 2017 年，可判定本题为基期倍数问题。\n\n。代入平均数的增长率公式：\n\n，且大于\n\n定位材料文字第五段可得：2017 年 A 省高铁客运量占铁路旅客运输总量的\n\n，比重比上年提高 4.3 个百分点。\n\n可知 2016 年 A 省高铁客运量占整体比重为\n\n，则 2016 年 A 省普铁（除高铁外的铁路）占整\n\n体比重为\n故正确答案为 A。\n\n。故所求倍数\n\n倍",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第134题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-ziliao-2019-fushengjia-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2019,
+    "content": "在以下 4 条关于 A 省的信息中，能够直接从资料中推出的有几条？ ①2017 年非 4G 移动电话用户全年增量 ②2017 年移动互联网用户日均增量 ③2015 年客运总量 ④2017 年铁路旅客运输总量占客运总量比重",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "下降了 2%以上"
+      },
+      {
+        "label": "C",
+        "content": "上升了不到 2%"
+      },
+      {
+        "label": "D",
+        "content": "上升了 2%以上 C、0.8 D、1.1 B、1.7 C、3 D、4 B、2 - 16 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "①定位文字材料第二段可得：“2017 年，A 省移动电话期末用户 1.48 亿户，比上年末增长\n\n。其中，4G\n\n期末用户达 1.18 亿户，比上年末增长\n\n”，可推知 2017 年 A 省移动电话用户全年增长量\n\n亿户，4G 用户\n\n亿户，故\n\n，可求；\n\n②定位文字材料第二段可得：“2017 年，移动互联网期末用户 1.31 亿户，比上年末增长\n\n”，可推知 2017\n\n年移动互联网用户全年增长量\n\n亿户，2017 年共 365 天，故\n\n，可求；\n\n③定位文字材料第四段可得：“2017 年，A 省完成客运总量 148339 万人次，同比增长\n\n···，比上年提高",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2019年国考行测（副省级）第135题",
+    "level": "fushengjia"
+  }
+]

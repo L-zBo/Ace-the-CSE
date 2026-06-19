@@ -1,0 +1,538 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-031",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "数字数阵题：九宫格三行数字如下：第一行4、9、5；第二行6、（？）、8；第三行2、5、3。问？处应填入的数字是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "13"
+      },
+      {
+        "label": "B",
+        "content": "14"
+      },
+      {
+        "label": "C",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "16"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题干出现图形，判定为图形数阵。观察图形发现，第一行4+5=9，第三行2+3=5，即规律为每行第一个数字+第三个数字=第二个数字。则第二行6+8=？，故？=14。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第31题",
+    "region": "guangdong",
+    "meta": {
+      "rescuedBy": "E3-vision-PNG-D17f",
+      "rescuedAt": "2026-06-03",
+      "rescueScope": "content+options+explanation",
+      "rescueEvidence": "data/e1_vision/png_e3/guangdong_2024_q031__p004.png; data/e1_vision/png_e3/guangdong_2024_q031__p005.png"
+    }
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-032",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "1，11，23，33，45，55，67，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "66"
+      },
+      {
+        "label": "B",
+        "content": "70"
+      },
+      {
+        "label": "C",
+        "content": "73"
+      },
+      {
+        "label": "D",
+        "content": "77"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：数列项数较多，优先考虑多重数列。先交叉看，奇数项：1，23，45，67，是公差为22的等差数列；偶数项：11，33，55，也是公差为22的等差数列，故所求项为55+22=77。\n方法二：将数列两两分组为：（1，11），（23，33），（45，55），（67，？），观察发现，每组内后项-前项=10，故所求项为67+10=77。\n方法三：数列除第一项外，其余各项均为两位数，考虑机械划分。将首项1看作01，观察发现，各项十位数字分别为0、1、2、3、4、5、6，为自然数列，则下一项十位数字为7；各项个位数字分别为1、1、3、3、5、5、7，为各数字重复1次的奇数数列，则下一项个位数字为7，故所求项为77。\n故正确答案为D。\n备注：由于本题奇数项与偶数项均为等差数列，故本题两两分组后，组内作和也可成规律。\n\n[来源 baijing1.top paperId=134 sort=32 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第32题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-033",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "[数列/数学推理题，参见图片]",
+    "options": [
+      {
+        "label": "B",
+        "content": "70 ， ， ， ，（ ），"
+      },
+      {
+        "label": "C",
+        "content": "15 C.73"
+      },
+      {
+        "label": "D",
+        "content": "16 D.77"
+      },
+      {
+        "label": "A",
+        "content": "B. C. D."
+      }
+    ],
+    "answer": "C",
+    "explanation": "数列均为分数，考虑分数数列。原数列可转化为： ， ， ， ，（ ），\n\n。分子部分：\n\n，1，3，9，（ ），81，可转化为：\n\n， ， ， ，（ ）， ，即分子部分是底数为 3、指\n\n数为连续自然数的幂次数列，则所求项的分子为\n\n；分母部分： ， ，10，40，（ ），640，\n\n是公比为 4 的等比数列，则所求项的分母为 40×4=160，故所求项\n\n。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第33题",
+    "region": "guangdong",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    },
+    "questionImage": "/img/questions/provincial_guangdong_2024/q033.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-034",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "21.98，18.77，17.49，14.55，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "12.26"
+      },
+      {
+        "label": "B",
+        "content": "13.66"
+      },
+      {
+        "label": "C",
+        "content": "14.26"
+      },
+      {
+        "label": "D",
+        "content": "15.66"
+      }
+    ],
+    "answer": "A",
+    "explanation": "数列各项均为小数，优先考虑机械划分。观察发现，21-（9+8）=4，18-（7+7）=4，17-（4+9）=4，14-（5+5）=4，即整数部分-小数部分各位数字之和=4。代入选项，只有A项12-（2+6）=4满足。\n故正确答案为A。\n\n[来源 baijing1.top paperId=134 sort=34 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第34题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-035",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "5，-7，16，-50，202，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1012"
+      },
+      {
+        "label": "B",
+        "content": "-1012 B.C.1122"
+      },
+      {
+        "label": "C",
+        "content": "14.26"
+      },
+      {
+        "label": "D",
+        "content": "D.15.66 D.-1122"
+      }
+    ],
+    "answer": "B",
+    "explanation": "数列无明显特征，作差作和均无规律，考虑递推数列。数列符号正负交替，所求项应为负数，排除\nA、C 两项。数列取绝对值得到新数列：5，7，16，50，202，（ ），观察发现：5×1+2=7，7×2+2=16，\n16×3+2=50，50×4+2=202，规律为：前一项×n+2=后一项，n 为 1，2，3，4······是首项为\n1、公差为 1 的等差数列，故下一项为 5，则新数列下一项为 202×5+2=1012，故所求项为-1012。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第35题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "档案室需要整理300份档案，要求每天整理的档案数量相同，且规定了完成的期限。如果要提前一天完成，那 么每天需要多整理10份档案。则规定的期限为（ ）天。",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：代入 A 项，若规定的期限为 6 天，则原计划每天整理\n\n份档案，提前一天需每天\n\n整理\n\n份档案，较原计划每天多整理 10 份档案，符合全部条件，无需验证其它选项。 \n\n \n \n \n \n \n\f方法二：设规定的期限为 x 天，根据题意可得\n\n，化简得 x（x-1）\n\n=30，解得 x=6。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第36题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某家政公司承诺以低于市场价20％的价格为小区业主提供服务。如果有业主向该公司支付了服务费4000元，则 与市场价相比优惠了（ ）元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "400"
+      },
+      {
+        "label": "B",
+        "content": "600"
+      },
+      {
+        "label": "C",
+        "content": "800"
+      },
+      {
+        "label": "D",
+        "content": "1000"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设市场价为 x 元，根据题意可列式：（1-20%）x=4000，解得 x=5000。故实际支付比市场价优惠 5000-\n4000=1000 元。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第37题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙、丙三艘船在海上航行。某一时刻，甲观测到乙位于它的北偏西 方向，甲、乙相距6千米；甲观测到 丙位于它的正西方向，甲、丙相距6千米，则乙与丙之间的距离为（ ）千米。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "D",
+    "explanation": "甲、乙、丙位置如图所示，根据题意可知，\n\n，又因 AB=AC=6 千米，则\n\n为等边三角形，故乙与丙之间的距离 BC 也为 6 千米。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第38题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某企业在展销会上销售甲、乙两种产品。已知甲产品的库存比乙产品多100件，展销会结束后，甲产品全部售 完，乙产品售出库存的60%，两种产品共售出1260件，则甲、乙两种产品原有总库存（ ）件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1450"
+      },
+      {
+        "label": "B",
+        "content": "1500"
+      },
+      {
+        "label": "C",
+        "content": "1550"
+      },
+      {
+        "label": "D",
+        "content": "1600"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设乙产品库存为 x 件，则甲产品库存为（100+x）件。根据题意可得，100+x+60%x=1260，解得 x=725，\n故甲、乙两种产品的库存分别为 825 件、725 件，原有总库存为 825+725=1550 件。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第39题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "只有在星期六，小王才会去图书馆。如果某年3月小王一共有5天去过图书馆，则当年4月1日可能是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "星期二"
+      },
+      {
+        "label": "B",
+        "content": "星期三"
+      },
+      {
+        "label": "C",
+        "content": "星期五"
+      },
+      {
+        "label": "D",
+        "content": "星期六"
+      }
+    ],
+    "answer": "A",
+    "explanation": "每连续 7 天会出现 1 次星期六，则连续 28 天会出现 4 次星期六，3 月共 31 天，根据“小王一共有 5\n天去过图书馆”，则 3 月剩下的 3 天还会出现 1 次星期六。若 3 月 29 日为星期六，4 月 1 日为星期\n二；若 3 月 30 日为星期六，4 月 1 日为星期一；若 3 月 31 日为星期六，4 月 1 日为星期日。只有 A\n项符合。 \n\n \n \n \n \n \n \n\f故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第40题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某高校中文系计划从3名男生和3名女生中选派4名学生参加暑期支教活动。如果选派的女生不少于2名，则选派 方案共有（ ）种。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "16"
+      }
+    ],
+    "answer": "C",
+    "explanation": "要求选派的 4 名学生中女生不少于 2 名，则女生有 2 名或 3 名，对应的男生分别为 2 名和 1 名，共\n\n有\n\n种选派方案。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第41题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙、丙3人参加专业测试，考试包含10道题，答对每题得10分，不答或答错不得分。已知每道题3人中至少 有2人答对，没有人得100分且任意2人总分都不相同。则最多有（ ）道题3人都答对。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，要求 3 人都答对的题目数多，则 3 人都尽量多答对题目，根据“没有人得 100 分”，\n则 3 人中最高得分为 90 分即答对 9 题。由于任意 2 人总分都不相同，且使其答对题量最多，则 3 人\n分别答对 9 题、8 题、7 题，出错题量分别为 1 题、2 题、3 题，共 6 题出错。由于每道题 3 人中至\n少有 2 人答对，即每道题只有 1 人出错或无人出错，共出错 6 题无交叉，则最多有 4 道题 3 人都答\n对。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第42题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某个障碍跑项目需要在100米长的跑道上布置障碍（起点和终点均不布置）。如果从起点开始，每隔4米布置一 个甲障碍，每隔6米布置一个乙障碍，甲、乙障碍的重合点则不布置甲障碍。则跑道上总共布置（ ）个甲障 碍。 第 5 页，共 18 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "16"
+      },
+      {
+        "label": "B",
+        "content": "17"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "A",
+    "explanation": "布置甲障碍，由于起点和终点均不布置，甲障碍布置数量\n\n个。 \n\n乙障碍每隔 6 米布置一个，甲、乙障碍重合点每 12 米一个（4 和 6 的最小公倍数）。 \n\n，\n\n由于存在余数每段的右侧均可以布置障碍，甲、乙重合障碍取 8 个。 \n跑道上甲障碍布置数量=甲障碍布置数量-甲、乙障碍布置重合点数量=24-8=16 个。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第43题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小李从山脚开始登顶，匀速走了1小时后到达一个凉亭，并在凉亭休息了半小时。继续走500米后，恰好完成登 顶路程的一半。从山顶沿原路匀速返回时，他走了1小时又到了这个凉亭，继续走半小时回到了山脚。则登顶 路程为（ ）米。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2000"
+      },
+      {
+        "label": "B",
+        "content": "3000"
+      },
+      {
+        "label": "C",
+        "content": "3600"
+      },
+      {
+        "label": "D",
+        "content": "4000"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，从山脚到凉亭上山需要 1 个小时，从凉亭到山脚下山需要半小时，上、下山需要的时间\n之比为 1：0.5=2：1，而路程一定，速度与时间成反比，可得上、下山的速度之比为 1：2。设上山\n的速度为 v，则下山的速度为 2v。可列式为：（v+500）×2=2v×1.5，解得 v=1000 米/小时，则登顶\n的路程为 2×1000×1.5=3000 米。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第44题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2024-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某社区计划组织志愿者为社区内的独居老人提供服务。按已有志愿者的数量，如果每位志愿者服务10位老人， 则有5位老人无人提供服务；如果增加2位志愿者，则每位志愿者最多服务8位老人就能为所有老人提供服务。 那么该社区最多有（ ）位独居老人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "50"
+      },
+      {
+        "label": "B",
+        "content": "55 B.D.65"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、类比推理与逻辑判断三种类型的试题，在四个选项中选出一个最恰当的 答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题为余数问题，优先用代入排除法。题干所求为最多多少人，故从最大项依次代入。 \nD 项：当独居老人为 65 人时，志愿者人数为（65-5）÷10=6 人，按照题意增加 2 人后变为 6+2=8 人，\n8×8=64＜65，服务人员数＜独居老人数，排除； \nC 项：当独居老人为 60 人时，志愿者人数为（60-5）÷10=5.5 人，求得人数为非整数，排除； \nB 项：当独居老人为 55 人时，志愿者人数为（55-5）÷10=5 人，按照题意增加 2 人后变为 5+2=7 人，\n7×8=56＞55，满足题干所有条件，当选。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考guangdong行测第45题",
+    "region": "guangdong"
+  }
+]

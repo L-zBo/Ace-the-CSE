@@ -1,0 +1,353 @@
+[
+  {
+    "id": "national-xingce-shuliang-2016-dishi-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某电器工作功耗为370 瓦，待机状态下功耗为37 瓦，该电器周一从9:30 到17:00 处于工作状态，其余时间 断电。周二从9:00 到24:00 处于待机状态，其余时间断电。问其周―的耗电量是周二的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "周一耗电量：从 9:30 到 17:00 时长是 7.5 小时，总功耗=时间×单位耗能=7.5×370 瓦；\n周二耗电量：从 9:00 到 24:00 时长是 15 小时，总功耗=15×37 瓦；\n\n=5 倍。\n\n则周一的耗电量是周二的=\n故正确答案是 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第61题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某单位组建兴趣小组，每人选择―项参加。羽毛球组人数是乒乓球组人数的2 倍，足球组人数是篮球组人数 的3 倍，乒乓球组人数的4 倍与其他3 个组人数的和相等。则羽毛球组人数等于：",
+    "options": [
+      {
+        "label": "A",
+        "content": "足球组人数与篮球组人数之和"
+      },
+      {
+        "label": "B",
+        "content": "乒乓球组人数与足球组人数之和"
+      },
+      {
+        "label": "C",
+        "content": "足球组人数的1.5 倍"
+      },
+      {
+        "label": "D",
+        "content": "篮球组人数的3 倍"
+      }
+    ],
+    "answer": "A",
+    "explanation": "题干给出三个等量条件，羽=乒×2 ①；足=篮×3 ②；乒×4=羽+足+篮 ③。要求出羽毛球组的人数，可先\n从有羽毛球的①式和③式着手考虑：\n由①×2=③可得：羽×2=羽＋足＋篮，化简后得：羽=足＋篮。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第62题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某政府机关内甲、乙两部门通过门户网站定期向社会发布消息，甲部门每隔两天、乙部门每隔3 天有―个发 布日，节假日无休。问甲、乙两部门在一个自然月内最多有几天同时为发布日？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "甲部门每隔 2 天相当于每 3 天发布一次，乙部门每隔 3 天相当于每 4 天发布一次，3 和 4 的最小公倍数是 12，\n则甲、乙每 3×4=12 天就会同时发布一次。一个自然月最多有 31 天，假设甲、乙两部门 1 号同时发布一次，该\n自然月最多还有 30 天，30÷12=2...6，还可以共同发布两次。那么一个自然月最多共有 3 天是同时发布的。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第63题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某新建小区计划在小区主干道两侧种植银杏树和梧桐树绿化环境，一侧每隔3 棵银杏树种一棵梧桐树，另一 侧每隔4 棵梧桐树种1 棵银杏树，最终两侧各种植了35 棵树，问最多栽种了多少棵银杏树？",
+    "options": [
+      {
+        "label": "A",
+        "content": "33"
+      },
+      {
+        "label": "B",
+        "content": "34"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "37"
+      }
+    ],
+    "answer": "B",
+    "explanation": "在满足两侧栽种要求的情况下，要使银杏树载种的最多，第一棵一定是种植银杏树，这一侧按照“银、银、\n银、梧……”循环，35÷4=8……3，共有 8×3+3=27 棵银杏树。另一侧按照“梧、梧、梧、梧、银……”循环，\n35÷5=7，共有 7 棵银杏树。因此两侧共栽种了 27+7=34 棵银杏树。\n故正确答案选 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第64题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某集团三个分公司共同举行技能大赛，其中成绩靠前的X 人获奖。如获奖人数最多的分公司获奖的人数为Y， 问以下哪个图形能反映Y 的上、下限分别与X 的关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "获奖人数最多的分公司获奖人数 Y 的上、下限即 Y 的最大值、最小值。\n三个分公司获奖总人数为 X 人，如果 Y 取最大值，其他两个公司获奖人数都为 0，此时 Y=X，排除 A 选项；如果\n\nY 取最小值，考虑极端情况三个分公司获奖人数均相等，此时 Y 最小，Y 应= X。由此可得，当 1 X 3 时,\n\n=1，\n\n4 X 6 时，\n\n=2……..观察发现 C 项图形最符合 Y 与 X 的变化趋势。\n\n- 8 -\n\n\f故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第65题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2016_dishi/q065.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "李主任在早上8 点30 分上班之后参加了一个会议，会议开始时发现其手表的时针和分针呈120 度角，而上 午会议结束时发现手表的时针和分针呈180 度角。问在该会议举行的过程中，李主任的手表时针与分针呈90 度 角的情况最多可能出现几次？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题意可得，此次开会时间是在 8:30 到 12:00 之间（八点半上班且会议时间为上午）。要使得呈 90°的次\n数尽可能多，则会议时间应尽可能长。会议开始时，时针和分针成 120°，最早时间应为 9 点 5 分左右（9 点过\n\n分）；而会议结束时成 180°，最晚时间则为 11 点 27 分左右（11 点过\n\n分）。则这\n期间时针和分针成 90°的次数为：9 点 5 分至 10 点期间 1 次，10 点至 11 点期间为 2 次，11 点至 11 点 27 分为\n1 次，总次数共为 4 次。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第66题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "为加强机关文化建设，某市直属机关在系统内举办演讲比赛，3 个部门分别派出3 2 4 名选手参加比 赛，要求每个部门的参赛选手比赛顺序必须相连，问不同参赛顺序的种数在以下哪个范围之内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于1000"
+      },
+      {
+        "label": "B",
+        "content": "1000～5000"
+      },
+      {
+        "label": "C",
+        "content": "5001～20000"
+      },
+      {
+        "label": "D",
+        "content": "大于20000"
+      }
+    ],
+    "answer": "B",
+    "explanation": "3 个部门分别派出 3、2、4 名选手参加比赛，要求每个部门的参赛选手比赛顺序必须相连。可先对每个部门\n内部的选手进行全排列，然后将 3 个部门的顺序进行全排列。则总共的排列顺序一共有：\n\n=\n\n=1728，属于 1000-5000 的范围。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第67题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "A 地到B 地的道路是下坡路。小周早上6:00 从A 地出发匀速骑车前往B 地，7:00 时到达两地正中间的C 地。 到达B 地后，小周立即匀速骑车返回，在10:00 时又途经C 地。此后小周的速度在此前速度的基础上增加1 米／ 秒。最后在11：30 回到A 地。问A、B 两地间的距离在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40～50 公里"
+      },
+      {
+        "label": "B",
+        "content": "大于50 公里"
+      },
+      {
+        "label": "C",
+        "content": "小于30 公里"
+      },
+      {
+        "label": "D",
+        "content": "30～40 公里"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设小周下坡速度为 ，上坡速度为 。根据条件分析可列下表：\n\n在上坡阶段 B→C=C→A，可得\n\n，解得 =3m/s，根据 1m/s＝3600m/h，因此\n\n。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第68题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某集团有A 和B 两个公司，A 公司全年的销售任务是B 公司的1.2 倍。前三季度B 公司的销售业绩是A 公司 的1.2 倍，如果照前三季度的平均销售业绩，B 公司到年底正好能完成销售任务。问如果A 公司希望完成全年的 销售任务，第四季度的销售业绩需要达到前三季度平均销售业绩的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.44"
+      },
+      {
+        "label": "B",
+        "content": "2.4"
+      },
+      {
+        "label": "C",
+        "content": "2.76"
+      },
+      {
+        "label": "D",
+        "content": "3.88"
+      }
+    ],
+    "answer": "C",
+    "explanation": "观察题干，仅给出 A、B 两公司销售量的比例关系，故可对两公司前三季销售任务赋值。假设 A 公司前三季\n度业务量均为 1，B 公司前三季度业务量均为 1.2，则 B 公司第四季度业务量也为 1.2，B 公司全年业务量=1.2×\n4=4.8，A 公司全年业务量=4.8×1.2=5.76，则 A 公司第四季度业务量为 5.76-1×3=2.76，则题目所求=2. =2.76\n倍。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第69题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2016-dishi-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "某单位原有几十名职员，其中有14 名女性。当两名女职员调出该单位后,女职员比重下降了3 个百分点。现 在该单位需要随机选派两名职员参加培训，问选派的两人都是女职员的概率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于1%"
+      },
+      {
+        "label": "B",
+        "content": "1%～4%"
+      },
+      {
+        "label": "C",
+        "content": "4%～7%"
+      },
+      {
+        "label": "D",
+        "content": "7%～10% 四、判断推理，共40 题，参考时限35 分钟，本部分包括图形推理、定义判断、类比推理、逻辑判断。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "假设单位原有 x 人，则根据题目条件得到\n\n，去分母可得\n\n，根据十\n\n字相乘法，化简得\n\n，因此\n\n或\n\n，则\n\n或 。 只能为整数，所以\n\n，\n\n题目所求\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第70题",
+    "level": "dishi"
+  }
+]

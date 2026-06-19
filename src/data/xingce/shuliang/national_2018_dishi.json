@@ -1,0 +1,353 @@
+[
+  {
+    "id": "national-xingce-shuliang-2018-dishi-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "甲商店购入 400 件同款夏装。7 月以进价的 1.6 倍出售，共售出 200 件；8 月以进价的 1.3 倍出售，共售出 100 件；9 月以进价的 0.7 倍将剩余的 100 件全部售出，总共获利 15000 元。问这批夏装的单件进价为多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "125"
+      },
+      {
+        "label": "B",
+        "content": "144"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "120"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设同款夏装的单件进价为 元，则 7 月利润\n\n元、8 月利润\n\n利润\n\n元，\n\n。\n故正确答案为 A。\n\n元、9 月\n\n，解得",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第61题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某单位的会议室有 5 排共 40 个座位，每排座位数相同。小张和小李随机入座，则他们坐在同一排的概率：",
+    "options": [
+      {
+        "label": "B",
+        "content": "引入人工智能的无人机技术潜在风险更大"
+      },
+      {
+        "label": "D",
+        "content": "发展人工智能需要更多地考虑其安全隐患 D、120"
+      },
+      {
+        "label": "C",
+        "content": "100 B、144 C、正好为 B、高于 但低于"
+      },
+      {
+        "label": "A",
+        "content": "不高于"
+      }
+    ],
+    "answer": "B",
+    "explanation": "从 40 个座位中选 2 个座位，由小张和小李随机入座，总的情况数为\n\n。\n\n要让他们恰好坐在同一排，应先从 5 排中选一排，再从这一排中选 2 个座位，符合条件的情况为\n\n。\n\n满足情况的概率\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第62题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "企业某次培训的员工中有 369 名来自 A 部门，412 名来自 B 部门。现分批对所有人进行培训，要求每批人数 相同且批次尽可能少。如果有且仅有一批培训对象同时包含来自 A 和 B 部门的员工，那么该批中有多少人来自 B 部门？",
+    "options": [
+      {
+        "label": "A",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "32"
+      },
+      {
+        "label": "C",
+        "content": "57"
+      },
+      {
+        "label": "D",
+        "content": "65"
+      }
+    ],
+    "answer": "C",
+    "explanation": "两部门总人数\n\n，在 到 之间。\n\n人。要使每批人数相同且批次尽可能少，则可以对总人数因式分解为\n\n，要让批次最少，则将所有人分为 11 批，每批人数 71 人。\n\n根据题意“有且仅有一批培训对象同时包含来自 A 和 B 部门的员工”，故只有这一批的 71 人由两个部门组合而成，\n其余的每一批 71 人均来自同一个部门。\n\n考虑 B 部门\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第63题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "将一块长 24 厘米、宽 16 厘米的木板分割成一个正方形和两个相同的圆形，其余部分弃去不用。在弃去不用 的部分面积最小的情况下，圆的半径为多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3√2"
+      },
+      {
+        "label": "B",
+        "content": "2√2"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "若要求弃去不用的面积最小，则分割出的面积应尽可能大。\n\n，则 B 部门可以分为完整的 5 批再加 57 人，故所求的这一批人中有 57 人来自 B 部门。\n\n如图所示，分割出的正方形面积应尽可能大，可分割出一个\n\n厘米的正方形，还剩一个\n\n厘米的小长方\n\n形。小长方形可以分割出两个\n不用的面积最小。\n\n厘米的小正方形，再从每个小正方形内部分割出一个完整的内切圆，此时弃去\n\n依此可得，\n\n厘米。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第64题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2018_dishi/q064.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "企业花费 600 万元升级生产线，升级后能耗费用降低了 10%，人工成本降低了 30%。如每天的产量不变，预计 在 400 个工作日后收回成本。如果升级前人工成本为能耗费用的 3 倍，问升级后每天的人工成本比能耗费用高多 少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.2"
+      },
+      {
+        "label": "B",
+        "content": "1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.8"
+      },
+      {
+        "label": "D",
+        "content": "2.4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据条件“升级前人工成本为能耗费用的 3 倍”，设能耗费用为 ，则人工成本为 。在升级生产线后，能\n\n耗费用降低了 ，则降低了 ；人工成本降低了 ，则降低了\n\n。\n\n在 400 个工作日后收回成本，此时减少的成本达到升级生产线所花的钱数，即\n\n万，解得\n\n万。\n\n则升级后每天的\n\n故正确答案为 C。\n\n，每天的\n\n。前者比后者高\n\n万元。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第65题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "工程队接到一项工程，投入 80 台挖掘机。如连续施工 30 天，每天工作 10 小时，正好按期完成。但施工过程 中遭遇大暴雨，有 10 天时间无法施工。工期还剩 8 天时，工程队增派 70 台挖掘机并加班施工。问工程队若想按 期完成，平均每天需多工作多少个小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.5"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "2.5"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值每台挖掘机每小时的效率为 1，因遭遇暴雨，10 天时间无法施工，则只能施工\n\n天，在还剩 8\n\n天时，已施工 12 天，此时\n\n。在增派 70 台挖掘机后，若想在规定时\n\n间完工，设每天需工作 小时，则可得：\n小时。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第66题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "枣园每年产枣 2500 公斤，每公斤固定盈利 18 元。为了提高土地利用率，现决定明年在枣树下种植紫薯（产 量最大为 10000 公斤），每公斤固定盈利 3 元。当紫薯产量大于 400 公斤时，其产量每增加 n 公斤将导致枣的产 量下降 0.2n 公斤。问该枣园明年最多可能盈利多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "46176"
+      },
+      {
+        "label": "B",
+        "content": "46200"
+      },
+      {
+        "label": "C",
+        "content": "46260"
+      },
+      {
+        "label": "D",
+        "content": "46380"
+      }
+    ],
+    "answer": "B",
+    "explanation": "当紫薯产量大于 400 公斤时，每增加 n 公斤将导致枣的产量下降 0.2n 公斤。\n\n，解得\n\n。即平均每天需多工作\n\n- 12 -\n\n\f假设紫薯的产量为\n\n公斤，则此时枣的产量为\n\n公斤。\n\n则总盈利为\n元。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第67题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某企业国庆放假期间，甲、乙和丙三人被安排在 10 月 1 号到 6 号值班。要求每天安排且仅安排 1 人值班，每 人值班 2 天，且同一人不连续值班 2 天。问有多少种不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "24"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "36"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：\n情况较复杂，考虑枚举法，设 10 月 1 日安排甲值班，10 月 2 日安排乙值班，将安排情况梳理如下：\n\n，要让总盈利最大，则 n 取 0，此时总盈利为 46200\n\n此时符合条件的情况有 5 种，又因为 10 月 1 日和 2 日可以从甲、乙、丙三人中任选两人值班，所以共有\n种不同的安排方式。\n方法二：\n\n种排法；2 号，从另外两人中选一人，有\n1 号，甲乙丙三人选一人，有\n①如果为甲，则剩下的 4 号丙、5 号乙、6 号丙，有 1 种情况；②如果为丙，则 4 号可排甲乙，2 种情况，5 号有\n\n种排法；在 3 号有两种可能性：\n\n2 种情况，一共有\n故正确答案为 C。\n\n种情况。因此总的情况数为\n\n种不同的安排方式。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第68题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某新能源汽车企业计划在 A D 四个城市建设 72 个充电站，其中在 B 市建设的充电站数量占总",
+    "options": [
+      {
+        "label": "D",
+        "content": "36 B"
+      },
+      {
+        "label": "B",
+        "content": "46200 D、46380"
+      },
+      {
+        "label": "C",
+        "content": "46260 C、2.5 C、30 B、24 B、2 D、3 C D、21 B、18 C、22 数的 ，在 C 市建设的充电站数量比 A 市多 6 个，在 D 市建设的充电站数量少于其他任一城市。问至少要在 C 市 建设多少个充电站？"
+      },
+      {
+        "label": "A",
+        "content": "20"
+      }
+    ],
+    "answer": "D",
+    "explanation": "因为 B 市建设充电站的数量占总数的 ，C 市又比 A 市多 6 个，D 市最少，所以四个城市充电站个数关系为：\nB、C 两市建设充电站的数量较多，A 市第三多，D 市最少。要使 C 市建设的充电站尽量少，就要让其他市建设的\n\n充电站尽量多，其中\n\n，\n\n，D 尽量多且比 A 少，所以 D 最多为\n\n。此时充电\n\n站总个数\n充电站。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第69题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2018-dishi-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2018,
+    "content": "某公司按 1:3:4 的比例订购了一批红色、蓝色、黑色的签字笔，实际使用时发现三种颜色的笔消耗比例为 1:4:5。 当某种颜色的签字笔用完时，发现另两种颜色的签字笔共剩下 100 盒。此时又购进三种颜色签字笔总共 900 盒， 从而使三种颜色的签字笔可以同时用完。问新购进黑色签字笔多少盒？",
+    "options": [
+      {
+        "label": "A",
+        "content": "450"
+      },
+      {
+        "label": "B",
+        "content": "425"
+      },
+      {
+        "label": "C",
+        "content": "500"
+      },
+      {
+        "label": "D",
+        "content": "475 四、判断推理，本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，红色、蓝色、黑色签字笔订购量的比例为 1:3:4，消耗的比例为 1:4:5（可以理解为消耗速度），\n\n，问至少，应向上取整，所以 C 至少建设 21 个\n\n，解得\n\n故消耗的时间分别为 、 、 ，由此可看出蓝色笔的消耗时间（ ）最短，最先被消耗完。设公司订购蓝色签字\n\n笔 盒，则红色签字笔 盒、黑色签字笔 盒。实际使用时，蓝色签字笔消耗 盒，则红色签字笔消耗 盒、\n\n黑色签字笔 盒，此时剩下红色、黑色签字笔各 盒，即\n之后又购进三种颜色签字笔 900 盒，此时共有签字笔 1000 盒，因为三种颜色的签字笔可以同时用完，所以按照\n\n，解得\n\n。\n\n1:4:5 的消耗比例分配，这 1000 盒中黑色签字笔有\n\n盒，而之前还剩余\n\n盒，所以新购\n\n盒。\n\n进黑色签字笔\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2018年国考行测（地市级）第70题",
+    "level": "dishi"
+  }
+]

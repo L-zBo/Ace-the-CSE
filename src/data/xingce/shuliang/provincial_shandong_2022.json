@@ -1,0 +1,353 @@
+[
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "将一个立方体的表面涂黑，用刀片平行于立方体各面，将其切割成若干个棱长为1的小立方体，如果只有一个 面涂黑的小立方体的个数与没有一个面涂黑的小立方体的个数相等。那么原立方体的棱长为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设原立方体的棱长为 n，结合下图，只有一个面涂黑的小立方体应为原大立方体每个面上除去棱上\n的 部 分 （ 如 图 中 蓝 色 的 立 方 体 ）。 因 立 方 体 有 6 个 面 ， 则 只 有 一 个 面 涂 黑 的 小 立 方 体 个 数\n\n立 方 体 的 部 分 （ 即 从 外 表 面 看 不 到 的 部 分 ）， 则 没 有 一 个 面 涂 黑 的 小 立 方 体 个 数\n\n；没有一个面涂黑的小立方体为大立方体除去 6 个面上\n\n。根据“只有一个面涂黑的小立方体的个数与没有\n\n一个面涂黑的小立方体的个数相等”可得： \n\n，解得 n=8。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第36题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某企业甲、乙两个分公司总计有党员96名。某次党史知识测验中，甲分公司党员平均分比乙分公司高1.2分，且 比两分公司党员的平均分高0.5分，则甲分公司党员人数比乙分公司：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少不到10人"
+      },
+      {
+        "label": "B",
+        "content": "多不到10人"
+      },
+      {
+        "label": "C",
+        "content": "多10人以上"
+      },
+      {
+        "label": "D",
+        "content": "少10人以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：根据题意，设甲分公司党员人数为 x，则乙分公司党员人数为 96-x；设乙分公司党员平均\n分为 y，则甲分公司党员平均分为 y+1.2，两分公司党员的平均分为（y+1.2）-0.5=y+0.7。根据：\n两分公司党员总分数=甲分公司党员分数+乙分公司党员分数，可得：x（y+1.2）+（96-x）y=96（y+0.7），\n化简得：1.2x=96×0.7，解得 x=56。即甲分公司党员有 56 人，乙分公司党员有 96-56=40 人，甲分 公司党员人数比乙分公司多 56-40=16 人，对应 C 项。 \n方法二：设乙分公司党员平均分为 x，则甲分公司党员平均分为 x+1.2，两分公司党员的平均分为\n（x+1.2）-0.5=x+0.7。根据线段法“距离与量成反比”，可得甲、乙两个分公司的党员人数之比\n\n，则甲分公司党员人数比乙分公司多：\n\n人，对应\n\nC 项。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第37题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某公司用大、小两种卡车运输货物。已知大卡车载重8吨，每辆每次运费1200元；小卡车载重3吨，每辆每次运 费600元。已知该公司运输预算为1.5万元，问：最多能运输多少吨货物？",
+    "options": [
+      {
+        "label": "A",
+        "content": "96"
+      },
+      {
+        "label": "B",
+        "content": "97"
+      },
+      {
+        "label": "C",
+        "content": "99"
+      },
+      {
+        "label": "D",
+        "content": "101"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得，大卡车平均每运输 1 吨需运费 1200÷8=150 元，小卡车平均每运输 1 吨需运费\n600÷3=200 元，大卡车平均每运输 1 吨所需运费低于小卡车。总预算为定值，要想运输的货物多，\n则尽量让大卡车多运输且费用无剩余。15000÷1200=12 次······600 元，剩余 600 元刚好够\n小卡车运输一次。总预算恰好可使得大卡车运输 12 次，小卡车运输 1 次，最多能运输 12×8+1×3=99\n吨。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第38题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某部门欲评选一名年度优秀工作者，候选人为甲、乙、丙。该部门全体职工参与投票，每人只能投一票，得票 最多的人当选。经统计，有效票为89张，在已公布结果的58张票中，甲得34票，乙得9票，丙得15票。甲若想 确保当选，则剩余的选票中至少需再得：",
+    "options": [
+      {
+        "label": "A",
+        "content": "16票"
+      },
+      {
+        "label": "B",
+        "content": "11票"
+      },
+      {
+        "label": "C",
+        "content": "9票"
+      },
+      {
+        "label": "D",
+        "content": "7票"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：根据题干，剩余选票有 89-58=31 张，题目问最少，可考虑从小到大代入验证： \nD 项：若剩余的 31 张选票中甲再得 7 票，甲共得 34+7=41 票。剩余 31-7=24 票，即使都给丙，15+24=39\n票，依然小于甲的得票数，甲当选。D 项满足题干条件，其他选项无需验证。 \n方法二：甲要当选，则必须得票数最多。在剩余的 89-58=31 张选票中，设甲再得 x 票，则其余（31-\nx）票分给乙和丙。由于丙现有的得票数多于乙，最极端情况为其余票数都归丙，此时 x 取值最小。\n因此保证甲当选，则有 34+x>15+（31-x），解不等式得 x>6，即甲至少需要再得 7 票。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第39题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某图书网店规定，一次性购买图书定价之和超过100元、500元、1000元，分别优惠总额的2%、5%、10%，优 惠不叠加，且每笔订单客户需额外支付邮费6元。已知一次性购买10本某种教材的开销比分10次购买单本这种 教材低174元。问：单次购买1本这种教材的开销是多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "123.6"
+      },
+      {
+        "label": "B",
+        "content": "153"
+      },
+      {
+        "label": "C",
+        "content": "183.6"
+      },
+      {
+        "label": "D",
+        "content": "202"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题目条件，结合选项代入： \n\nA 项：若单次购买的开销为 123.6 元，则一本教材的原价为\n元。一次性购买 10\n本的开销为 120×10×（1-10%）+6=1086 元，分 10 次购买的开销为 123.6×10=1236 元，此时一次\n性购买 10 本比分 10 次购买低 1236-1086=150 元，不符合题干条件，排除； \n\n元。一次性购买 10 本的\nB 项：若单次购买的开销为 153 元，则一本教材的原价为\n开销为 150×10×（1-10%）+6=1356 元，分 10 次购买的开销为 153×10=1530 元，则一次性购买 10\n本比分 10 次购买低 1530-1356=174 元，符合题干条件，当选。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第40题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某种产品的生产需要甲、乙、丙三种液体原料，且每生产3件产品需要用5瓶甲，每生产4件产品需要用3瓶乙， 每生产5件产品需要用7瓶丙。某工厂采购三种原料共x瓶用于生产这种产品，且所有原料正好用完。已知 ，问：采购了多少瓶丙原料？ B.350 C.210 D.630",
+    "options": [
+      {
+        "label": "A",
+        "content": "420"
+      },
+      {
+        "label": "B",
+        "content": "350"
+      },
+      {
+        "label": "C",
+        "content": "210"
+      },
+      {
+        "label": "D",
+        "content": "630"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，每生产 60 件产品需要用甲\n\n瓶，需要用乙\n\n瓶，需要用 丙\n\n瓶 。 故 每 生 产 60 件 产 品 共 需 要 用 三 种 原 料 100+45+84=229 瓶 ， 根 据\n\n，而产品数量又要为整数，229 的整数倍中只有 229×5=1145 满足条件，故采\n\n购了 84×5=420 瓶丙原料。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第41题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "甲、乙、丙三个工程队承担A、B两项工程。已知甲队的效率比乙队高20%，乙队的效率比丙队高25%。工程A 的工作量是工程B的1.5倍。甲队在工程A施工，乙队在工程B施工，丙队先在工程A施工若干天后再转到工程B施 工。若A、B两工程同时开工，且180天同时完成。问丙队在工程B施工多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "75"
+      },
+      {
+        "label": "C",
+        "content": "105"
+      },
+      {
+        "label": "D",
+        "content": "135"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据“甲队的效率比乙队高 20%，乙队的效率比丙队高 25%”，可得甲、乙、丙的效率之比为 6:5:4。\n赋值甲、乙、丙的效率分别为 6、5、4，根据“A、B 两工程同时开工，且 180 天同时完成”，可得\n工程 A 和工程 B 的工作总量=（6+5+4）×180=2700。根据“工程 A 的工作量是工程 B 的 1.5 倍”，\n\n可得工程 B 的工作量\n和丙队共同完成，可列方程：5×180+4x=1080，解得 x=45，则丙在工程 B 施工 45 天。 \n故正确答案为 A。 \n\n。设丙队在工程 B 施工 x 天，根据工程 B 由乙队",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第42题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某网球俱乐部用一笔经费购买甲、乙、丙三种品牌的网球，其中甲品牌每盒25元，丙品牌每盒60元。已知现有 经费全部用于购买甲品牌、乙品牌和丙品牌，分别可以购买（x+8）盒、x盒和（x-6）盒且无预算剩余。问：如 乙品牌降价5元/盒，则需增加多少元经费才能购买40盒？",
+    "options": [
+      {
+        "label": "A",
+        "content": "600元"
+      },
+      {
+        "label": "B",
+        "content": "660元"
+      },
+      {
+        "label": "C",
+        "content": "700元"
+      },
+      {
+        "label": "D",
+        "content": "840元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可知，25×（x+8）=60×（x-6），解得 x=16，则原来全部经费为 25×（16+8）=600 元，乙\n\n品牌网球的单价为\n×40=1300 元，则需要增加经费 1300-600=700 元。 \n故正确答案为 C。 \n\n元/盒，降价 5 元/盒后购买 40 盒乙品牌网球需要经费（37.5-5）",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第43题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "已知10个外观完全一样的产品中有1个是次品。如果从中随机选择3个，选中次品的概率为x%；每次随即选择1 个后放回，选择4次后至少有1次选中次品的概率为y%。问x-y的值z在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，分别计算x和y：\n第一种情况：选中次品的情况为从9个正品中选2个，1个次品必选，则，则x=30；\n第二种情况：正面情况较多，考虑反面情况：4次均未选中次品即全都选中正品，概率，则y%=1-65.61%=34.39%，则y=34.39。\n故z=x-y=30-34.39=-4.39，在-5到0之间。\n故正确答案为B。\n\n[来源 baijing1.top paperId=269 sort=44 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考shandong行测第44题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2022/q044.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2022-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "一种电子表在10点5分8秒时，显示的时间为10：05：08。问：10：00：00到10：30：00之间，电子表上显示时 间的6个数字彼此都不相同的情形共有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "90 B.D.210"
+      },
+      {
+        "label": "C",
+        "content": "120"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：第四部分 判断推理。 本部分包含图形推理、定义判断、类比推理和逻辑判断四个部分，根据题 目的表述选择最佳选项。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题意可知，第 1 位是 1，第 2 位是 0，第 3 位应小于 3 且不能是 0 和 1，那么第 3 位只能为 2。再\n分情况考虑第 4 位可能的数字： \n①第 4 位是 3、4、5：表示时间的第 5 位应小于 6，0-5 有 6 个数字，前 4 个数字都属于 0-5 的区间，\n则第 5 位的取值有 6-4=2 种；0-9 有 10 个数字，则第 6 位的取值有 10-5=5 种；共有 3×2×5=30 种\n情形； \n②第 4 位是 6、7、8、9：表示时间的第 5 位应小于 6，0-5 有 6 个数字，前 3 个数字都属于 0-5 的\n区间，则第 5 位的取值有 6-3=3 种；0-9 有 10 个数字，则第 6 位的取值有 10-5=5 种；共有 4×3×5=60\n种情形。 故电子表上显示时间的 6 个数字彼此都不相同的情形共有 30+60=90 种。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考shandong行测第45题",
+    "region": "shandong"
+  }
+]

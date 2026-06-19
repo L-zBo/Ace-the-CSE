@@ -1,0 +1,417 @@
+[
+  {
+    "name": "neimenggu_q18_neighbors",
+    "engine": "bing",
+    "query": "?????? ??????????? ?????? ??? 2023 ??",
+    "file": "neimenggu_q18_neighbors_bing.html",
+    "status": "error",
+    "error": "TimeoutError('The read operation timed out')"
+  },
+  {
+    "name": "neimenggu_q18_neighbors",
+    "engine": "duckduckgo",
+    "query": "?????? ??????????? ?????? ??? 2023 ??",
+    "file": "neimenggu_q18_neighbors_duckduckgo.html",
+    "status": "ok",
+    "chars": 31749,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " ?????? ??????????? ?????? ??? 2023 ?? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year 2023 - Wikipedia en.wikipedia.org/wiki/2023 2023 (MMXXIII) was a common year starting on Sunday of the Gregorian calendar, the 2023rd year of the Common Era (CE) and Anno Domini (AD) designations, the 23rd year of the 3rd millennium and the 21st century, and "
+  },
+  {
+    "name": "neimenggu_q18_exact_gap",
+    "engine": "bing",
+    "query": "??? 2023 ?? ?18? ?? ????",
+    "file": "neimenggu_q18_exact_gap_bing.html",
+    "status": "ok",
+    "chars": 69446,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "????",
+      "???",
+      "????",
+      "????"
+    ],
+    "sample": " // ??? 2023 ?? ?18? ?? ???? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='0E0AB71158DA69A71DCCA06C593968D3';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } .b_searchboxFo"
+  },
+  {
+    "name": "neimenggu_q18_exact_gap",
+    "engine": "duckduckgo",
+    "query": "??? 2023 ?? ?18? ?? ????",
+    "file": "neimenggu_q18_exact_gap_duckduckgo.html",
+    "status": "ok",
+    "chars": 33497,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "????",
+      "???",
+      "????",
+      "????"
+    ],
+    "sample": " ??? 2023 ?? ?18? ?? ???? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year PDF N-2023-18 - Internal Revenue Service www.irs.gov/pub/irs-drop/n-23-18.pdf Initial Guidance Establishing Qualifying Advanced Energy Project Credit Allocation Program Under Section 48C(e) Notice 2023 - 18 SECTION 1. PURPOSE .01 This notice establishes the program under "
+  },
+  {
+    "name": "beijing_gap_neighbors",
+    "engine": "bing",
+    "query": "???? ????? ???? ?? ?? ?? ?? 2023 ??",
+    "file": "beijing_gap_neighbors_bing.html",
+    "status": "ok",
+    "chars": 70302,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????"
+    ],
+    "sample": " // ???? ????? ???? ?? ?? ?? ?? 2023 ?? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='12AECD934E1A6A9C3EC1DAEE4F2F6B68';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } .b_"
+  },
+  {
+    "name": "beijing_gap_neighbors",
+    "engine": "duckduckgo",
+    "query": "???? ????? ???? ?? ?? ?? ?? 2023 ??",
+    "file": "beijing_gap_neighbors_duckduckgo.html",
+    "status": "ok",
+    "chars": 41692,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????"
+    ],
+    "sample": " ???? ????? ???? ?? ?? ?? ?? 2023 ?? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Samsung Galaxy S23 Deals - Samsung Galaxy S23 Ad Viewing ads is privacy protected by DuckDuckGo. Ad clicks are managed by Microsoft's ad network ( more info ). --> carphonewarehouse.com Carphone Warehouse® Is Your One Stop Shop For Samsung Galaxy S23 Contracts."
+  },
+  {
+    "name": "beijing_gap_missing",
+    "engine": "bing",
+    "query": "?? 2023 ?? 17 27 ?? ????",
+    "file": "beijing_gap_missing_bing.html",
+    "status": "ok",
+    "chars": 69057,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "????",
+      "???",
+      "????",
+      "????"
+    ],
+    "sample": " // ?? 2023 ?? 17 27 ?? ???? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='29EAD24BB5246D4B2EB6C536B4BB6C12';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } // -])/g,\"\\\\$1"
+  },
+  {
+    "name": "beijing_gap_missing",
+    "engine": "duckduckgo",
+    "query": "?? 2023 ?? 17 27 ?? ????",
+    "file": "beijing_gap_missing_duckduckgo.html",
+    "status": "ok",
+    "chars": 31810,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "????",
+      "???",
+      "????",
+      "????"
+    ],
+    "sample": " ?? 2023 ?? 17 27 ?? ???? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year 2023 Calendar www.calendar-365.com/2023-calendar.html 2023 Calendar. User-friendly calendar of 2023 , the dates are listed by month including week numbers. View the online 2023 calendar. Year 2023 Calendar - United States - timeanddate.com www.timeanddate.com/calendar/?ye"
+  },
+  {
+    "name": "xinjiang_gap_neighbors",
+    "engine": "bing",
+    "query": "??????? ?????? ???? ?? 2023 ??",
+    "file": "xinjiang_gap_neighbors_bing.html",
+    "status": "ok",
+    "chars": 70460,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " // ??????? ?????? ???? ?? 2023 ?? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='0C375CEDD07267BF3EE64B90D11E6646';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } .b_searc"
+  },
+  {
+    "name": "xinjiang_gap_neighbors",
+    "engine": "duckduckgo",
+    "query": "??????? ?????? ???? ?? 2023 ??",
+    "file": "xinjiang_gap_neighbors_duckduckgo.html",
+    "status": "ok",
+    "chars": 31728,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " ??????? ?????? ???? ?? 2023 ?? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year 2023 - Wikipedia en.wikipedia.org/wiki/2023 2023 (MMXXIII) was a common year starting on Sunday of the Gregorian calendar, the 2023rd year of the Common Era (CE) and Anno Domini (AD) designations, the 23rd year of the 3rd millennium and the 21st century, and the 4th"
+  },
+  {
+    "name": "xinjiang_gap_missing",
+    "engine": "bing",
+    "query": "?? 2023 ?? 14 25 ?? 60 65 ??",
+    "file": "xinjiang_gap_missing_bing.html",
+    "status": "ok",
+    "chars": 70138,
+    "hits": [
+      "??",
+      "??"
+    ],
+    "sample": " // ?? 2023 ?? 14 25 ?? 60 65 ?? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='375B65E2D61261072314729FD73C6057';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } // -])/g,\""
+  },
+  {
+    "name": "xinjiang_gap_missing",
+    "engine": "duckduckgo",
+    "query": "?? 2023 ?? 14 25 ?? 60 65 ??",
+    "file": "xinjiang_gap_missing_duckduckgo.html",
+    "status": "ok",
+    "chars": 40982,
+    "hits": [
+      "??",
+      "??"
+    ],
+    "sample": " ?? 2023 ?? 14 25 ?? 60 65 ?? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Look up any phone number - Look Up Phone Number Owner Ad Viewing ads is privacy protected by DuckDuckGo. Ad clicks are managed by Microsoft's ad network ( more info ). --> claritycheck.com Reverse Phone Lookup for names, addresses, and social profiles in seconds. Easi"
+  },
+  {
+    "name": "jilin_gap_neighbors",
+    "engine": "bing",
+    "query": "???? ???????? ????????? ?? 2024 ??",
+    "file": "jilin_gap_neighbors_bing.html",
+    "status": "ok",
+    "chars": 69971,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " // ???? ???????? ????????? ?? 2024 ?? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='0ECF67395D066D2E083B70445C1C6C0B';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } .b_s"
+  },
+  {
+    "name": "jilin_gap_neighbors",
+    "engine": "duckduckgo",
+    "query": "???? ???????? ????????? ?? 2024 ??",
+    "file": "jilin_gap_neighbors_duckduckgo.html",
+    "status": "ok",
+    "chars": 32313,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " ???? ???????? ????????? ?? 2024 ?? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year 2024 - Wikipedia en.wikipedia.org/wiki/2024 2024 (MMXXIV) was a leap year starting on Monday of the Gregorian calendar, the 2024th year of the Common Era (CE) and Anno Domini (AD) designations, the 24th year of the 3rd millennium and the 21st century, and the 5t"
+  },
+  {
+    "name": "jilin_gap_missing",
+    "engine": "bing",
+    "query": "?? 2024 ?? 17-20 42-45 65-68 77 ??",
+    "file": "jilin_gap_missing_bing.html",
+    "status": "ok",
+    "chars": 68887,
+    "hits": [
+      "??",
+      "??"
+    ],
+    "sample": " // ?? 2024 ?? 17-20 42-45 65-68 77 ?? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='05032F82724F67FD3F8038FF731D667E';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { --sboxw: 571px; width: var(--sboxw); } .hasmic .b_searchbox { width: calc(var(--sboxw) - 36px); } .hassbi .b_searchbox { width: calc(var(--sboxw) - 36px); } .hasmic.hassbi .b_searchbox { width: calc(var(--sboxw) - 72px); } @media (min-width: 1408px) { .b_searchboxForm:not(.as_rsform) .b_searchbox { --sboxw: 771px; } }#b_header .as_rsform .b_searchbox { --sboxw: 897px; } // -])/g,\"\\\\$1\")},sendLog=function(n,t,i){var u=(new Date).getTime(),f='\"T"
+  },
+  {
+    "name": "jilin_gap_missing",
+    "engine": "duckduckgo",
+    "query": "?? 2024 ?? 17-20 42-45 65-68 77 ??",
+    "file": "jilin_gap_missing_duckduckgo.html",
+    "status": "error",
+    "error": "TimeoutError('The read operation timed out')"
+  },
+  {
+    "name": "gansu_gap_neighbors",
+    "engine": "bing",
+    "query": "???????????? ?????40? ?? 2024 ?? 69",
+    "file": "gansu_gap_neighbors_bing.html",
+    "status": "ok",
+    "chars": 69891,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " // ???????????? ?????40? ?? 2024 ?? 69 - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='04AD3825D5556DCD21B82F58D4396C63';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } .b_"
+  },
+  {
+    "name": "gansu_gap_neighbors",
+    "engine": "duckduckgo",
+    "query": "???????????? ?????40? ?? 2024 ?? 69",
+    "file": "gansu_gap_neighbors_duckduckgo.html",
+    "status": "ok",
+    "chars": 33267,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " ???????????? ?????40? ?? 2024 ?? 69 at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Google www.google.com Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exactly what you&#x27;re looking for. Science Bulletin | Vol 69, Issue 1, Pages 1-140 (15 January 2024 ... "
+  },
+  {
+    "name": "gansu_gap_missing",
+    "engine": "bing",
+    "query": "?? 2024 ?? 69 70 78 87 ??",
+    "file": "gansu_gap_missing_bing.html",
+    "status": "ok",
+    "chars": 69500,
+    "hits": [
+      "??",
+      "??"
+    ],
+    "sample": " // ?? 2024 ?? 69 70 78 87 ?? - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='3EADEBA07439625C109DFCDD757F6347';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { --sboxw: 571px; width: var(--sboxw); } .hasmic .b_searchbox { width: calc(var(--sboxw) - 36px); } .hassbi .b_searchbox { width: calc(var(--sboxw) - 36px); } .hasmic.hassbi .b_searchbox { width: calc(var(--sboxw) - 72px); } @media (min-width: 1408px) { .b_searchboxForm:not(.as_rsform) .b_searchbox { --sboxw: 771px; } }#b_header .as_rsform .b_searchbox { --sboxw: 897px; } // -])/g,\"\\\\$1\")},sendLog=function(n,t,i){var u=(new Date).getTime(),f='\"T\":\"CI.'+t"
+  },
+  {
+    "name": "gansu_gap_missing",
+    "engine": "duckduckgo",
+    "query": "?? 2024 ?? 69 70 78 87 ??",
+    "file": "gansu_gap_missing_duckduckgo.html",
+    "status": "ok",
+    "chars": 32561,
+    "hits": [
+      "??",
+      "??"
+    ],
+    "sample": " ?? 2024 ?? 69 70 78 87 ?? at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Sum Calculator www.calculatorsoup.com/calculators/statistics/sum-calculator.php &nbsp; &nbsp; 2025-11-04T00:00:00.0000000 Calculate the sum of a set of numbers. Calculator performs addition or summation to compute the total amount of entered numbers. Enter up to 10,000 n"
+  },
+  {
+    "name": "institution_c_q50_neighbors",
+    "engine": "bing",
+    "query": "????????????? 2020?????????? ???? C 050",
+    "file": "institution_c_q50_neighbors_bing.html",
+    "status": "ok",
+    "chars": 70153,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????"
+    ],
+    "sample": " // ????????????? 2020?????????? ???? C 050 - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='0E9BAF1173A26F9B0933B86C72B16E7B';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; }"
+  },
+  {
+    "name": "institution_c_q50_neighbors",
+    "engine": "duckduckgo",
+    "query": "????????????? 2020?????????? ???? C 050",
+    "file": "institution_c_q50_neighbors_duckduckgo.html",
+    "status": "error",
+    "error": "TimeoutError('The read operation timed out')"
+  },
+  {
+    "name": "institution_c_q50_fragment",
+    "engine": "bing",
+    "query": "188 227 257 672 ?? 56 ?????? ???? C",
+    "file": "institution_c_q50_fragment_bing.html",
+    "status": "ok",
+    "chars": 71484,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????",
+      "188",
+      "227",
+      "257"
+    ],
+    "sample": " // 188 227 257 672 ?? 56 ?????? ???? C - 搜索 // 2&&a.substring(0,3)===\"IG=\")){ig='IG='+_G.IG;}if(document.images){_G.GPImg=new Image;_G.GPImg.src=_G.gpUrl+ig+'&CID='+_G.CID+'&'+a;}return true;}_G.BAT=\"0\";_G.NTT=\"600000\";_G.RTO=\"86400000\";_G.CTT=\"3000\";_G.BNFN=\"Default\";_G.LG=\"160\";_G.CBRSHT=\"400\";_G.CBRSHTAM=\"400\";_G.multiCBRSType=\"3\";_G.maxMultiCBRS=\"4\";;_G.SID='111CA501D4656A9F2713B27CD51D6BF7';_G.InpOpt=true;;_G.EnableRMSINPOpt=true;;_G.AJAX_NAV_START_CHANGE=true;;_G.ClearTimersOpt=true;;_G.AJAX_SERP_PLT_OPTIMIZATION=true;; //]]> .b_searchbox { width: 571px; } .hasmic .b_searchbox { width: 535px; } .hassbi .b_searchbox { width: 535px; } .hasmic.hassbi .b_searchbox { width: 499px; } #b_header .b_searchboxForm .b_searchbox.b_softkey { width: 533px; } #b_header .hasmic .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 497px; } #b_header .hasmic.hassbi .b_searchboxForm .b_searchbox.b_softkey { width: 461px; } .b_"
+  },
+  {
+    "name": "institution_c_q50_fragment",
+    "engine": "duckduckgo",
+    "query": "188 227 257 672 ?? 56 ?????? ???? C",
+    "file": "institution_c_q50_fragment_duckduckgo.html",
+    "status": "ok",
+    "chars": 46550,
+    "hits": [
+      "??",
+      "??",
+      "????",
+      "??????",
+      "????",
+      "???",
+      "????",
+      "????",
+      "?????",
+      "??????",
+      "188",
+      "227",
+      "257"
+    ],
+    "sample": " 188 227 257 672 ?? 56 ?????? ???? C at DuckDuckGo All Regions Argentina Australia Austria Belgium (fr) Belgium (nl) Brazil Bulgaria Canada (en) Canada (fr) Catalonia Chile China Colombia Croatia Czech Republic Denmark Estonia Finland France Germany Greece Hong Kong Hungary Iceland India (en) Indonesia (en) Ireland Israel (en) Italy Japan Korea Latvia Lithuania Malaysia (en) Mexico Netherlands New Zealand Norway Pakistan (en) Peru Philippines (en) Poland Portugal Romania Russia Saudi Arabia Singapore Slovakia Slovenia South Africa Spain (ca) Spain (es) Sweden Switzerland (de) Switzerland (fr) Taiwan Thailand (en) Turkey US (English) US (Spanish) Ukraine United Kingdom Vietnam (en) Any Time Past Day Past Week Past Month Past Year Check Phone Number Owner - See Who Owns This Phone Number Ad Viewing ads is privacy protected by DuckDuckGo. Ad clicks are managed by Microsoft's ad network ( more info ). --> claritycheck.com Reverse Phone Lookup for names, addresses, and social profiles in se"
+  }
+]

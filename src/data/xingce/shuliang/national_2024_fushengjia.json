@@ -1,0 +1,529 @@
+[
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "甲、乙、丙三人的年龄之比为3：4：5。8年之后，甲、乙的年龄之和是丙的1.5倍，且这一年甲、乙、丙、丁四 人的平均年龄为43岁。问再过15年，甲、乙、丙、丁中有几人将超过60岁?",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "1"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设甲、乙、丙三人现在的年龄分别为 3x 岁、4x 岁、5x 岁。根据“8 年之后，甲、乙的年龄之和是丙的\n\n1.5 倍”，可列式：\n\n，解得 x=8，则甲、乙、丙现在的年龄分别为 3×8=24 岁、\n\n4×8=32 岁、5×8=40 岁。如下表，则 8 年之后、再过 15 年，甲、乙、丙年龄分别为： 2024 国考《行测》（副省级）解析 \n\n根据“8 年之后，甲、乙、丙、丁的平均年龄为 43 岁”，则 8 年之后，四人年龄之和为 43×4=172 岁，\n此时丁年龄为 172-32-40-48=52 岁，则再过 15 年，丁年龄为 52+15=67 岁。故再过 15 年，年龄超过 60\n岁的有丙和丁 2 人。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第61题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "甲、乙、丙和丁四个汽车租赁公司可用汽车数量比为5：4：3：2，现甲公司调度4辆汽车到丙公司，丁公司调 度1辆汽车到乙公司后，丁公司可用汽车数量正好是丙公司的60%。问此时甲公司的可用汽车数量比乙公司：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少22辆"
+      },
+      {
+        "label": "B",
+        "content": "多22辆"
+      },
+      {
+        "label": "C",
+        "content": "少12辆"
+      },
+      {
+        "label": "D",
+        "content": "多12辆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设开始时甲公司有可用汽车 5x 辆，则乙、丙、丁公司分别有可用汽车 4x、3x、2x 辆。根据题意“甲公\n司调度 4 辆汽车到丙公司，丁公司调度 1 辆汽车到乙公司后，丁公司可用汽车数量正好是丙公司的 60%”，\n\n则可列式：\n\n，解得 x=17。那么，此时甲公司的可用汽车数量为 5×17-4=81 辆，乙公\n\n司为 4×17+1=69 辆，81-69=12 辆，即甲公司的可用汽车数量比乙公司多 12 辆。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第62题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "市政部门采购了一批灯带用于美化夜景，有30灯珠/条的M型和60灯珠/条的N型两种规格，单价分别是20元/条和 30元/条。已知所采购M型灯带的总灯珠数量是N型的2倍，M型灯带的总价比N型多3万元，问共采购灯带多少 条？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2400"
+      },
+      {
+        "label": "B",
+        "content": "2700"
+      },
+      {
+        "label": "C",
+        "content": "3000"
+      },
+      {
+        "label": "D",
+        "content": "3300"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设市政部门采购了 M 型灯带 x 条，N 型灯带 y 条。根据“所采购 M 型灯带的总灯珠数量是 N 型的 2 倍”，\n\n可 得\n\n； 根 据 “M 型 灯 带 的 总 价 比 N 型 多 3 万 元 ” ， 可 得\n\n，联立①②，解得 x=2400，y=600，故共采购灯带 2400+600=3000 条。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第63题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "某企业去年全年收入1200万元，支出960万元。今年上半年和下半年，企业支出比去年同期分别减少20%和 15%，且全年收入与去年相同，总体盈余（收入-支出）比去年增加172万元。问今年上半年支出比下半年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少160万元"
+      },
+      {
+        "label": "B",
+        "content": "多160万元"
+      },
+      {
+        "label": "C",
+        "content": "少108万元"
+      },
+      {
+        "label": "D",
+        "content": "多108万元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设该企业去年上半年和下半年支出分别为 x 万元与 y 万元，可得 x+y=960······①，因今年上半\n年和下半年企业支出比去年同期分别减少 20%和 15%，且全年收入与去年相同，总体盈余（收入-支出）\n比去年增加 172 万元，则今年支出比去年少 172 万元，可得 20%x+15%y=172 万元······②，联立\n\n①②，解得 x=560，y=400。今年上半年支出-下半年支出\n\n万元，即今年上半年支出比下半年多 108 万元。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第64题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "甲乙两条生产线同一天开始生产某种产品，甲每天比前一天多生产m件，乙每天比前一天少生产2m件，第5天两 条生产线的当日产量相同，且前5天乙的累计产量是甲的2倍。问第一天乙的产量是甲的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可知，甲生产线每天产量是公差为 m 的等差数列，乙生产线每天产量是公差为-2m 的等差数列。 2024 国考《行测》（副省级）解析 \n\n设第 5 天两条生产线的当日产量均为 x 件，根据等差数列通项公式：\n\n，则第 1 天甲生产线产量为\n\n，即\n\n件，乙生产\n\n线 产 量 为\n\n件 。 根 据 等 差 数 列 求 和 公 式 ：\n\n，可列等式：\n\n，解得 x=8m，\n\n则第 1 天甲生产线产量为 x-4m=8m-4m=4m 件，乙生产线产量为 x+8m=8m+8m=16m 件，故所求为\n\n倍。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第65题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "甲和乙两辆车同时从A地出发匀速开往B地，甲车出发时的速度比乙车快20%，但乙车行驶1个小时后速度加快 30千米/小时继续匀速行驶，又用了3小时与甲车同时抵达，问A、B两地相距多少千米（ ）：",
+    "options": [
+      {
+        "label": "A",
+        "content": "540"
+      },
+      {
+        "label": "B",
+        "content": "510"
+      },
+      {
+        "label": "C",
+        "content": "600"
+      },
+      {
+        "label": "D",
+        "content": "570"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，设乙车出发时的速度为 v，则甲车速度为 v×(1+20%)=1.2v，乙车 1 个小时后速度变为 v+30。\n\n则 A 、 B 两 地 的 距 离 为\n\n，则 0.8v=90，即\n\n， 整 理 可 得\n\n千米。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第66题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "甲、乙、丙三种农产品价格分别为30元/包、24元/包和20元/包。某日销售三种农产品共240包，总销售额为6000 元，已知甲的销售量是乙的2倍，问丙销售了多少包？",
+    "options": [
+      {
+        "label": "A",
+        "content": "90"
+      },
+      {
+        "label": "B",
+        "content": "75"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设乙的销售量为 x 包，则甲的销售量为 2x 包，丙的销售量为 240-x-2x=（240-3x）包。根据题意，可列\n\n等式：\n\n3×50=90 包。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第67题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "公司有六个编号依次为1—6的研发团队，现安排这6个团队参与甲、乙两个科研课题，要求每个团队参与一个 课题。每个课题最少安排2个团队，每个课题安排一个团队负责，且负责团队不能是该课题所有参与团队中编 号最小的团队。问有多少种不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "300"
+      },
+      {
+        "label": "B",
+        "content": "340"
+      },
+      {
+        "label": "C",
+        "content": "150"
+      },
+      {
+        "label": "D",
+        "content": "170"
+      }
+    ],
+    "answer": "D",
+    "explanation": "，解得 x=50。因此，丙的销售量为 240-\n\n因每个课题最少安排 2 个团队，可分成三大类情况： \n\n第一大类：甲课题由 2 个团队参与，有\n\n种情况，其中编号较大的团队负责该课题，有 1 种情况；\n\n乙课题由剩余的 4 个团队参与，负责团队可为编号较大的 3 个团队之一，有\n\n种情况。故共有\n\n15×1×3=45 种安排方式。 \n\n第二大类：乙课题由 2 个团队参与，有\n\n种情况，其中编号较大的团队负责该课题，有 1 种情况；\n\n甲课题由剩余的 4 个团队参与，负责团队可为编号较大的 3 个团队之一，有\n\n种情况。故共有\n\n15×1×3=45 种安排方式。 \n\n第三大类：甲课题由 3 个团队参与，有\n\n种情况，负责团队可为编号较大的 2 个团队之一，有 2024 国考《行测》（副省级）解析 \n\n种情况；乙课题由剩余的 3 个团队参与，负责团队为编号较大的 2 个团队之一，有\n\n种情\n\n况。故共有 20×2×2=80 种安排方式。 \n分类用加法，满足条件的共有 45+45+80=170 种不同的安排方式。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第68题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "某次考试有20道选择题和20道判断题，每题答对得3分，答错得0分，不答得1分。考生小王成绩为82分，且他 选择题的答错数比答对数多，问他判断题至少答对了多少道？",
+    "options": [
+      {
+        "label": "A",
+        "content": "17"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "16"
+      }
+    ],
+    "answer": "A",
+    "explanation": "要让判断题答对的尽量少，则判断题的得分应尽量少，成绩 82 分一定，选择题的得分应尽量多，由于\n“选择题的答错数比答对数多”，则选择题最多答对 9 道，答错 10 道，不答 1 道，此时选择题得分最多\n为 9×3+1=28 分，判断题得分至少为 82-28=54 分。设判断题答对 x 道，答错 y 道，不答 z 道，可列方程\n\n组：\n\n。①-②可得：\n\n，要想 x 尽量小，则 y 尽量小，\n\ny 最小为 0，此时 x=17，因此小王判断题至少答对了 17 道。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第69题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "某公园内的道路如下图所示，其中AB、BC分别为正南北向和正东西向道路，AB、AC分别长100米和200米。且 BCD为正三角形，如要用直线道路连接AD，则该道路的长度为多少米？ A. B. C.",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "连接 AD（如下图）： \n\n由 于 “AB 、 BC 分 别 为 正 南 北 向 和 正 东 西 向 道 路 ” ， 故\n\n， 根 据 勾 股 定 理 可 得 ：\n\n米\n\n，\n\n由\n\n，故三角形 ABC 为一个锐角为 的直角三角形，\n\n于\n\n。\n\n由 于 BCD 为 正 三 角 形 ， 故\n\n米 ，\n\n， 故\n\n，则三角形 ACD 为直角三角形，根据勾股定 2024 国考《行测》（副省级）解析 \n\n理可得：\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第70题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2024_fushengjia/q070.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "设计师将一个正方形的大厅分给如下图所示的几个区域，已知所有的三角形都是等腰直角三角形，梯形都是等 腰梯形，且所有三角形和梯形面积均相等。在三角形的区域铺设地砖，在中间的正方形区域铺设木地板。问地 砖和木地板的面积比是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2：3"
+      },
+      {
+        "label": "B",
+        "content": "4：3"
+      },
+      {
+        "label": "C",
+        "content": "8：9"
+      },
+      {
+        "label": "D",
+        "content": "16：9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "米。 \n\n如图所示，从 E 点作 EG 垂直于 AC；从 C、D 两点分别作 CF、DH 垂直于 EM。根据题意可知，三角形都是\n等腰直角三角形，梯形都是等腰梯形，BE 与 EC 均为梯形的腰，则 BE=EC，可知 E 为 BC 的中点，那么 EG\n\n为等腰直角三角形 ABC 的中位线。赋值 EG=1，则 EG=CF=DH=1，又\n\n，则 EG=GC=EF=HM=1，\n\nAB=2EG=2\n\n。\n\n，\n\n，根据三角形和梯形面积相\n\n等，\n\n，可得 CD=1，则中间正方形区域的边 EM=EF＋FH＋HM=3。三角\n\n形的区域铺设地砖，则铺设地砖的面积\n\n；中间的正方形区域铺设木地\n\n板，则铺设木地板的面积=3×3=9，地砖和木地板的面积比是 8：9。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第71题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2024_fushengjia/q071.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "某工程队接到一项任务，甲、乙合作6天后完成总任务量的25%，乙、丙合作15天后又完成剩余任务量的 ，剩 下全部任务由乙单独工作11天完成。已知乙与他人合作时效率比其单独工作时高10%，问甲、乙、丙合作完成 这项任务需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "16"
+      },
+      {
+        "label": "B",
+        "content": "20"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "28"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由于“乙与他人合作时效率比其单独工作时高 10%”，即乙与他人合作时效率为（1+10%）乙=1.1 乙，根\n\n据 题 意 则 有 ：\n\n······① ； 2024 国考《行测》（副省级）解析 \n\n······②\n\n；\n\n赋 值 甲 的 效 率 为 11 ， 乙 的 效 率 为 15 ， 则 工 作 总 量 =11×15×4=660 ， 则\n\n······③。联立①③可得 15 甲=11 乙，\n\n，所求时间\n\n天。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第72题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "某高校外国语学院中，会俄语的学生都会英语，其中一半还会法语；会英语的学生中有一半会法语；这三种语 言都会的学生有50人，只会其中两种语言的有100人，只会其中一种语言的有150人。问会法语的学生有多少 人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "100"
+      },
+      {
+        "label": "B",
+        "content": "200"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "150"
+      }
+    ],
+    "answer": "B",
+    "explanation": "因为“会俄语的学生都会英语”，所以会俄语的学生包含于会英语的学生，因此作图如下： \n\n又因为“会俄语的学生都会英语，其中一半还会法语”，即会俄语的学生的一半三种语言都会，又因为\n“三种语言都会的学生有 50 人”，所以会俄语的学生的一半是 50 人，另一半只会俄语和英语的有 50\n人。又因为“只会其中两种语言的有 100 人”，所以只会英语和法语的学生有 100-50=50 人，会英语的\n学生中有 50+50=100 人会法语，结合“会英语的学生中有一半会法语”，可得会英语的学生共有\n100×2=200 人，其中只会英语的学生有 200-50-100=50 人。根据“只会其中一种语言的有 150 人”，可\n得只会法语的学生有 150-50=100 人，则会法语的学生有 100+50+50=200 人。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第73题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "甲、乙等36人分为6个小组参加某项活动，要求任意2组人数不同，每个组都不少于3人，且任何一组人数不得 超过另一组的3倍。问甲和乙至少有1人分到人数第二多的小组的概率为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "35%"
+      },
+      {
+        "label": "B",
+        "content": "40%"
+      },
+      {
+        "label": "C",
+        "content": "25%"
+      },
+      {
+        "label": "D",
+        "content": "30%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“6 个小组任意 2 组人数不同，每个组不少于 3 人”，可先给 6 个小组分别分 3 人、4 人、5 人、\n6 人、7 人、8 人，共 3+4+5+6+7+8=33 人，还剩余 36-33=3 人。根据题干“任何一组人数不得超过另一\n组的 3 倍”，则人数最多的组不能超过 9 人，故剩余的 3 人只能分到人数最多的三个小组且每个小组分\n\n1 人，此时人数第二多的小组有 7+1=8 人。总情况数为从 36 人中选 8 人分到人数第二多的小组，有\n\n种情况。 \n方法一：满足题意要求的情况较复杂，优先考虑反面情况。反面情况为甲和乙两人均未分到人数第二多\n\n的 小 组 ， 即 从 剩 余 34 人 中 选 8 人 分 到 该 小 组 ， 有\n\n种 情 况 ， 则 所 求 概 率 2024 国考《行测》（副省级）解析 \n\n方法二：将满足题意要求的情况分类讨论如下： \n\n。 \n\n①甲、乙其中 1 人分到人数第二多的小组，再从剩余 34 人中选 7 人分到该小组，有\n\n种情况； \n\n②甲和乙都分到人数第二多的小组，再从剩余 34 人中选 6 人分到该小组，有\n\n种情况。 \n\n分类用加法，则所求概率\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第74题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2024-fushengjia-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2024,
+    "content": "小张每周二、周五和周日固定参加骑行社团活动。某年9月和10月，小张分别参加了13次和14次活动。问当年 他最后一次参加活动是在哪一天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12月31日"
+      },
+      {
+        "label": "B",
+        "content": "12月30日"
+      },
+      {
+        "label": "C",
+        "content": "12月29日"
+      },
+      {
+        "label": "D",
+        "content": "12月28日 四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "。 \n\n由题意可知，小张连续 7 天参加 3 次社团活动，9 月有 30 天，前 28 天参加 ×3=12 次社团活动，则\n后 2 天需参加 13-12=1 次；同理，10 月有 31 天，后 28 天也参加 12 次社团活动，则前 3 天需满足参加\n14-2=2 次，即 9 月 29 日-10 月 3 日连续 5 天内需满足参加 3 次社团活动。 \n若 9 月 29 日为周一，连续 5 天内只有 2 天参加社团活动，不满足题意； \n若 9 月 29 日为周二，连续 5 天内只有 2 天参加社团活动，不满足题意； \n若 9 月 29 日为周三，连续 5 天内只有 2 天参加社团活动，不满足题意； \n若 9 月 29 日为周四，连续 5 天内只有 2 天参加社团活动，不满足题意； \n若 9 月 29 日为周五，连续 5 天内有 3 天参加社团活动，满足题意； \n若 9 月 29 日为周六，连续 5 天内只有 2 天参加社团活动，不满足题意； \n若 9 月 30 日为周日，连续 5 天内只有 2 天参加社团活动，不满足题意。 \n\n综上可知，9 月 29 日只能是周五，则 9 月 30 日为周六，10-12 月共 31+30+31=92 天，\n\n天，则 12 月 31 日为周日，恰好为当年小张最后一次参加社团活动。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年国考行测（副省级）第75题",
+    "level": "fushengjia"
+  }
+]

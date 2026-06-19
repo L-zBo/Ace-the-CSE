@@ -1,0 +1,352 @@
+[
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某医疗器械公司为完成一批口罩订单生产任务，先期投产了 A 和 B 两条生产线，A 和 B 的工作效率之比是 2: 3，计划 8 天可完成订单生产任务。两天后公司又投产了生产线 C，A 和 C 的工作效率之比为 2: 1。问该批口罩 订单任务将提前几天完成?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：54%，易错项：B。\n解析\n第一步，本题考查工程问题，属于效率类。\n第二步，根据A和B的效率比为2∶3，赋值A和B的效率为2和3，工程总量为（2＋3）×8=40，A和C的效率\n比为2∶1，故C的效率为1，A和B生产两天后又投产了C，前两天完成的工程总量为5×2=10，剩余的工程总\n量为30，还需要的时间为30÷（2＋3＋1）=5（天）。一共需要的时间为5+2=7（天），8－7＝1（天），则可\n以提前一天完成。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考fujian行测第61题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "红星中学高二年级在本次期末考试中竞争激烈，年级前 7 名的三科（语文、数学、英语）平均成绩构成公差 为 1 的等差数列；第 7、8、9 名的平均成绩既构成等差数列，又构成等比数列。张龙位列第 10，与第 9 名相差 1 分；张龙的英语成绩为 121 分，但老师登记为 112 分。问张龙本应排在第几名?",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：45%，易错项：C。\n解析\n第一步，本题考查数列问题。\n第二步，平均分既是等差数列又是等比数列，考虑公差为0、公比为1，即第7、8、9名分数相同，设第7名的\n平均分为x，那么第6名平均分为x＋1，第五名为x＋2，第10名张龙的平均分为x－1，张龙英语成绩实际为\n-16-\n121分，若按112算相当于少算了9分，那么平均分少算了3分，则张龙的实际平均分应该为x－1＋3＝x＋2，\n可以排到并列第五名。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第62题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某水果经销商到一山区水果基地采购猕猴桃和苹果。猕猴桃和苹果的采购价分别为 10 元/斤和 4 元/斤，销 售价分别为 25 元/斤和 12 元/斤。已知该经销商在本次经销中获利 40000 元，每种水果采购都超过 500 斤且为整 数。问该经销商的最佳投入资金是多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20000"
+      },
+      {
+        "label": "B",
+        "content": "21260"
+      },
+      {
+        "label": "C",
+        "content": "21300"
+      },
+      {
+        "label": "D",
+        "content": "21280"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设猕猴桃、苹果分别购买的重量为x斤、y斤，由题意可得：（25-10）x＋（12-4）y=40000，化简为\n15x+8y=40000。根据数字特性可知，x为8的倍数；又因x要最少（投入最少）且大于500，则x=504，y=4055。\n则最佳投入为504×10+4055×4=21260（元）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第63题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙、丙三人沿着长为 500 米、宽为 250 米的长方形场地跑步，三人以 2:1:3 的速度之比匀速顺时针跑步。 当甲进入场地时乙已跑完 1/3 圈，丙到场地时已落后甲 100 米。问当乙跑完 2 圈时，甲与丙的位置关系如何?",
+    "options": [
+      {
+        "label": "A",
+        "content": "丙领先甲 3000 米"
+      },
+      {
+        "label": "B",
+        "content": "丙领先甲 2900 米"
+      },
+      {
+        "label": "C",
+        "content": "丙领先甲 2450 米"
+      },
+      {
+        "label": "D",
+        "content": "丙领先甲 2350 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：22%，易错项：C。\n解析\n第一步，本题考查行程问题，属于基础行程问题，用赋值法解题。\n第二步，由三人的速度之比为2∶1∶3，甲进入场地时乙已跑完 圈，赋值甲、乙、丙速度分别是200、100、\n300，乙跑完2圈所用时为3000÷100＝30，乙跑500米所用时间为500÷100＝5，故当乙跑完2圈时甲跑的时间\n为30－5＝25，甲所走的距离为25×200＝5000（米）。\n第三步，同理丙到场地时落后甲100米，甲跑100米所用时间为100÷200＝0.5，故丙在乙跑完2圈时所用时间\n为25－0.5＝24.5，丙所跑的距离为24.5×300＝7350（米）。丙比甲多行驶的距离为7350-5000＝2350（米）。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考fujian行测第64题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "学校有 300 个学生选择参加地理兴趣小组，生物兴趣小组或者两个小组同时参加。如果 80%学生只参加地理 兴趣小组，50%学生只参加生物兴趣小组。问同时参加地理和生物兴趣小组的学生人数是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "240"
+      },
+      {
+        "label": "B",
+        "content": "150"
+      },
+      {
+        "label": "C",
+        "content": "90"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：64%，易错项：B。\n解析\n第一步，本题考查容斥问题，属于二集合容斥类，用公式法解题。\n第二步，共两个兴趣小组，其中80%的学生参加地理兴趣小组、30%的学生参加生物兴趣小组，则有\n的学生同时参加两个兴趣小组共 （人）。\n因此，选择C选项。\n拓展\n题干中的“只”字应去掉，否则无正确答案。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第65题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从某物流园区开出 6 辆货车，这 6 辆货车的平均装货量为 62 吨，已知每辆货车载重量各不相同且均为整数， 最重的装载了 71 吨，最轻的装载了 54 吨。问这 6 辆货车中装货第三重的卡车至少装载了多少吨?",
+    "options": [
+      {
+        "label": "A",
+        "content": "59"
+      },
+      {
+        "label": "B",
+        "content": "60"
+      },
+      {
+        "label": "C",
+        "content": "61"
+      },
+      {
+        "label": "D",
+        "content": "62"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：44%，易错项：C。\n解析\n第一步，本题考查最值问题，属于数列构造。\n第二步，总和一定，求某项最值，使用数列构造的方法。首先，根据题意将6辆货车的的载重量从大到小排序则\n第一重的为71吨，最轻的为54吨，求第三重的卡车至少载重多少，则其余货车载重尽量多，所以构造排名第二\n至第五的载重依次为：70，x，x－1，x－2。求和有：71＋70＋x＋（x－1）＋（x－2）＋54＝62×6，解得x＝\n60。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第66题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "春节期间，省图书馆邀请多位书法老师免费为读者书写春联。现场书写的春联中有 188 幅不是 A 老师书写的， 有 219 幅不是 B 老师书写的，A、B 两位老师今年一共书写了 311 幅春联。 问 B 老师今年一共书写了多少幅春 联?",
+    "options": [
+      {
+        "label": "A",
+        "content": "208"
+      },
+      {
+        "label": "B",
+        "content": "171"
+      },
+      {
+        "label": "C",
+        "content": "140"
+      },
+      {
+        "label": "D",
+        "content": "126"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：49%，易错项：B。\n解析\n解法一：\n第一步，本题考查基础应用题，用方程法求解。\n第二步，由题干“现场书写的春联中有188幅不是A老师书写的，有219幅不是B老师书写的”，可知A老师比\nB老师多书写了219-188=31（幅）。设B老师书写了x幅春联，则A老师书写了x+31幅春联，由题意有x+（x+31）\n=311，解得x=140。\n因此，选择C选项。\n解法二：\n第一步，本题考查基础应用题，用代入排除法求解。\n第二步，根据就简代入原则，优先代入C选项140验证。则今年总共书写了140+219=359（幅）春联，A老师书\n写了359-188=171（幅）春联，A，B两位老师今年一共书写了140+171=311（幅）春联，完全符合题意。\n因此，选择C选项。\n-17-",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第67题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "统计学专业学生正在学习《博弈论》，老师给每个学生发了一张卡片，要求每个学生在卡片上随机地从 1 到 100 中写下一个数，谁写下的数离他们的平均数的二分之一最近就胜出。已知该专业共 50 人，问写下哪个数最 可能胜出？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "25"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：7%，易错项：B。\n解析\n第一步，本题考查其他杂题。\n第二步，本题考查的是博弈论中的优势策略问题。\n优势策略是指无论其他参与者选择什么策略，对一个参与者都为最优的策略。本题通过步骤迭代可以得到的优势\n策略如下：\n①1—100随机写个数字，假设所有人都选100（严格劣势策略），那么平均数应该是50.5。由于不可能所有人\n都执行最严格劣势策略，因此对于一般人，第一步劣势策略是选择51-100之间的数字，优势策略是选择1-50之\n间的数字。\n②重复迭代，假设一般人都选50（劣势策略），那么平均数应该是25.5。本题情境是博弈论课堂，因此不可能\n所有学生都执行劣势策略，因此第二步的劣势策略是选择26-50之间的数字，优势策略是选择1-25之间的数字。\n③如果继续迭代，最理性的策略将迭代到1。但现实生活中不可能迭代到最后一步，因此考虑在第二步就结束。\n假定学生们选择的都是1-25之间的数字，则最优策略应该取1-25的平均数，此平均数最接近于12。\n因此，选择A选项。\n拓展\n统计学学生正在学习《博弈论》，在《博弈论》课程上必须得考虑博弈的内容，故不能当做纯粹的数学题去做，\n因此选择A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第68题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一条直线将一个平面分成 2 个部分，两条直线最多将一个平面分成 4 个部分，……则 6 条直线最多将一个平 面分成的部分为:",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "21"
+      },
+      {
+        "label": "C",
+        "content": "22"
+      },
+      {
+        "label": "D",
+        "content": "23"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：55%，易错项：B。\n解析\n第一步，本题考查平面几何问题中的几何计数，用枚举归纳法求解。\n第二步，第1条直线将平面分成2块，第2条直线将平面分成4块，画图可得第3条直线将平面分成7块，枚举\n发现第4条直线将平面分成11块。平面数依次为：2，4，7，11……，相邻两项做差得2，3，4……是公差为1\n的等差数列。那么以此类推，第5条直线将平面分成11＋5＝16（块），第6条直线将平面分成16＋6＝22（块）。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第69题",
+    "region": "fujian"
+  },
+  {
+    "id": "provincial-fujian-xingce-shuliang-2020-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某景区圆形摩天轮，最高点距离地面 120 米，旋转半径 50 米。摩天轮开启后按逆时针方向旋转，旋转一周 大约需 30 分钟，甲在最低点的位置坐上摩天轮，则第 45 分钟时甲距离地面大约多少米?",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "70"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "120 第四部分 判断推理"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：40%，易错项：B。\n解析\n第一步，本题考查几何问题，属于平面几何类。\n第二步，由旋转一周大约需30分钟，则45分钟时旋转一周半。甲在最低点位置坐上，旋转一周半到摩天轮最高\n点，摩天轮最高点距离地面120米，甲距离地面120米。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考fujian行测第70题",
+    "region": "fujian"
+  }
+]

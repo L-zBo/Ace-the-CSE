@@ -1,0 +1,358 @@
+[
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "山东手造精品众多，某展览会有叶雕、皮影、风筝、麦秸画、柳编、葫芦画、锡雕、鲁班枕8个展厅。因时间 原因，一名参观者决定从8个展厅中随机选取3个进行参观。问叶雕和皮影展厅至少一个被选中的概率是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：从8个展厅中选取3个进行参观，有种情况。叶雕和皮影展厅至少一个被选中，包括两种情况：①叶雕或皮影展厅只选中1个，从其他6个展厅中选取2个，有种情况；②叶雕和皮影展厅都被选中，从其他6个展厅中选取1个，有种情况，共有30+6=36种情况。根据公式：概率，叶雕和皮影展厅至少一个被选中的概率为。\n方法二：正面情况更多可以从反面考虑，叶雕和皮影展厅至少一个被选中的反面为叶雕和皮影两个展厅都没有被选中，从其他6个展厅中选取3个，有种情况，总情况数为种，所求概率为。\n故正确答案为C。\n\n[来源 baijing1.top paperId=263 sort=51 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考shandong行测第51题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2024/q051.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某医院积极响应国家号召，组建医疗小分队赴西部地区开展对口支援工作。该医院现有6名男医生和3名女医生 报名，现从9人中抽取一组男女医生都有的3人小分队。问有多少种不同的组队方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "63"
+      },
+      {
+        "label": "B",
+        "content": "70"
+      },
+      {
+        "label": "C",
+        "content": "73"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题意可知，该 3 人小分队中需要男女医生都有，则可能的情况有 2 种：①2 男 1 女\n\n种情况；②2 女 1 男\n\n故正确答案为 A。 \n\n种情况。分类用加法，则共有 45+18=63 种不同的组队方式。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第52题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某科技创新项目有6人投资，共筹资110万元。投资额度有10万元、20万元和30万元三种。已知投资10万元的比 投资20万元的多2人，问投资30万元的有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设投资 20 万元的有 x 人，投资 30 万元的有 y 人，则投资 10 万元的有（x+2）人。根据题意，可列\n\n方程组为（x+2）+x+y=6······①；\n\n······②。解\n\n得 x=1，y=2。则投资 30 万元的有 2 人。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第53题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙、丙三个工程队共同承担一项市政工程。甲队独立完成需要30天，乙队效率比甲队高20%。丙队仅提供 技术支持，即能够为其他队伍提高效率，其与甲队或乙队合作时效率可提高120%，三个队伍合作时效率可提高 200%。甲、乙两队合作3天后，丙队加入，最后两天乙队休息。问该工程耗时约多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值甲队效率为 5，则乙队效率为 5×（1+20%）=6，工程总量为 5×30=150。设甲、乙、丙三队合作\n\n了 x 天，可列方程：\n\n，\n\n解得：\n\n，取 3 天才可保证完成该工程，因此该工程耗时约 3+3+2=8 天。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考shandong行测第54题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "若干职员参加某次强国知识竞赛，每人的得分均不相同且为整数，分数排名相邻的2人分差均为5分。已知有3 人成绩低于70分，且超过70分的职员平均分为82分。问所有职员中竞赛成绩超过70分的人数占比在下列哪个范 围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于50%"
+      },
+      {
+        "label": "B",
+        "content": "50%-60%之间"
+      },
+      {
+        "label": "C",
+        "content": "60%-70%之间"
+      },
+      {
+        "label": "D",
+        "content": "高于70%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "由题意可知，成绩构成公差为5的等差数列。设成绩超过70分的人数为n，若n为偶数时，平均分82分等于排名居中的两位职员得分平均数，公差为5时，这两位职员的得分均为小数，与“得分均为整数”矛盾。若n为奇数时，82分是数列的中间项，超过70分的得分分别为72、77、82、87、92，共5人。故所有职员中竞赛成绩超过70分的人数占比，在C项范围内。\n故正确答案为C。\n\n[来源 baijing1.top paperId=263 sort=55 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第55题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小王和小李同时从山脚A点出发匀速登山，小王距山顶还有路程时小李刚走完上山路程的，小王到达山顶后\n立即原路返回，10分钟后遇到上山途中的小李。已知两人下山的速度为各自上山速度的1.5倍，问小李比小王晚\n多少分钟到达山脚A点？",
+    "options": [
+      {
+        "label": "B",
+        "content": "50%-60%之间"
+      },
+      {
+        "label": "C",
+        "content": "60%-70%之间"
+      },
+      {
+        "label": "D",
+        "content": "高于70% 小王和小李同时从山脚A点出发匀速登山，小王距山顶还有 路程时小李刚走完上山路程的 ，小王到达山顶后 立即原路返回，10分钟后遇到上山途中的小李。已知两人下山的速度为各自上山速度的1.5倍，问小李比小王晚 多少分钟到达山脚A点？"
+      },
+      {
+        "label": "A",
+        "content": "30 B.40 C.50 D.60"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设小王上山的速度为\n\n，小李上山的速度为\n\n。当时间相同时，速度比=路程比，则\n\n，赋值\n\n，\n\n，则小王下山的速度为 8×1.5=12，小李下山的速\n\n度为 6×1.5=9。设总路程为 24S，当小王到达山顶时，小李距离山顶\n\n。根\n\n据相遇公式：\n\n，可知：6S=（6+12）×10，解得 S=30，则总路程=24×30=720。则\n\n小 王 往 返 一 次 的 时 间 为\n\n分 钟 ； 小 李 往 返 一 次 的 时 间 为\n\n故正确答案为 C。 \n\n分钟。故小李比小王晚 200-150=50 分钟到达山脚 A 点。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第56题",
+    "region": "shandong",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    }
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某市举办高校足球比赛，每所高校都要与其余所有参赛高校各进行一场比赛。积分规则为：胜一场积3分，平 一场积1分，负一场积0分。已知此次比赛的冠军积分为14分，其中取胜场次比平局场次多2场，平局场次是告 负场次的2倍。问参加这次足球比赛的高校有多少所？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设此次比赛的冠军告负 x 场，则平局 2x 场，取胜（2x+2）场。根据“积分规则”及“此次比赛的冠\n军积分为 14 分”，可得（2x+2）×3+2x=14，解得 x=1，即此次比赛的冠军告负 1 场、平局 2 场、取\n胜 4 场，共比赛 1+2+4=7 场。根据“每所高校都要与其余所有参赛高校各进行一场比赛”，可得参\n加这次足球比赛的高校有 7+1=8 所。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第57题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某线上店铺将进货单价为8元的商品按每件10元出售，每天可销售100件。该店铺计划提高售价增加利润，若每 件商品售价每提高1元，每天销售量就要减少10件，为保证每天至少获利350元，问该商品售价应为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到13元"
+      },
+      {
+        "label": "B",
+        "content": "13~15元之间"
+      },
+      {
+        "label": "C",
+        "content": "15~17元之间"
+      },
+      {
+        "label": "D",
+        "content": "17元以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方法一：选项范围各不相同，可分别选取各选项范围内的特定数字代入验证。代入 A 项：假设售价\n为 12 元，即售价提高 12-10=2 元，则每天获利为（12-8）×（100-10×2）=320 元<350 元，排除；\n代入 B 项，假设售价为 14 元，即售价提高 14-10=4 元，则每天获利为（14-8）×（100-10×4）=360\n元>350 元，满足条件，B 项当选，无需再验证 C、D 两项。 \n方法二：根据题意，每天获利最高时一定满足大于等于 350 元的情况，又因为选项范围各不相同，\n因此可验证每天获利最高时的售价。设该商品售价提高了 x 元，每天获利为 y 元。根据题意，可列\n\n方程：\n\n，即\n\n，令 y=0，解得\n\n， 公众号橘里局气祝您上岸 \n \n \n \n\f，当\n\n时，y 最大为（2+4）×（100-10×4）=360 元>350，满足条件，\n\n此时商品售价为 10+4=14 元，在 B 项范围内。 \n\n方法三：设该商品售价提高了 x 元，根据题意，可列方程：\n\n，\n\n化简可得\n\n，则当\n\n时满足题干要求，即该商品售价应在 10+3=13 元和\n\n10+5=15 元之间。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第58题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某单位给车加油，可以用两种方式：第一种不考虑油价的升降，每次加200元的油；第二种也不考虑油价的升 降，每次加20升油。若该单位加油两次，采用第一种方式加油的平均价格为x元/升，第二种方式加油的平均价 格为y元/升，下列选项正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：根据题意，两次加油的油价可以相等也可以不相等，且没有给出具体的油价，因此可对两次的油价赋值。若两次加油价格不相等：赋值第一次加油的平均价格为10元/升，第二次加油的平均价格为5元/升。根据平均价格，若采用第一种方式加油，可知，若采用第二种方式加油，可知，则x<y；若两次加油价格相等：赋值两次加油的平均价格均为10元/升。根据平均价格，若采用第一种方式加油，可知，若采用第二种方式加油，可知，则x=y；综上可知，。\n方法一：设第一次加油的平均价格为a元/升，第二次加油的平均价格为b元/升。根据平均价格，若采用第一种方式加油，可知，若采用第二种方式加油，可知。则，由于，且2（a+b）>0，可知，即。\n故正确答案为D。\n\n[来源 baijing1.top paperId=263 sort=59 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考shandong行测第59题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2024/q059.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某巡逻艇在海域A点发现正南方30千米处的B点有一艘可疑船只正匀速向正西方行驶，巡逻艇以比该可疑船只快 的速度沿某一方向直线追击，两船恰好在C点相遇。问B、C两点之间的距离约为多少千米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "26"
+      },
+      {
+        "label": "B",
+        "content": "28 B.D.34"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：第四部分 判断推理。 本部分包含图形推理、定义判断、类比推理和逻辑判断四个部分，根据题 目的表述选择最佳选项。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由题意可知，可疑船只和巡逻艇的行驶路线为下图所示，可疑船只在 C 点被追上。 公众号橘里局气祝您上岸 \n \n \n\f根据时间相同，路程与速度成正比，可知\n\n，设 AC=4x 千\n\n米、BC=3x 千米，根据勾股定理可列式：\n\n，即\n\n，解得\n\n，则\n\n故正确答案为 D。 \n\n，结合选项只有 D 项符合。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考shandong行测第60题",
+    "region": "shandong"
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某智慧公共停车场的收费标准如下：停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小时计，收费 5 元；超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）。若李 先生支付停车费 17 元，则他停车的时长可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 小时"
+      },
+      {
+        "label": "B",
+        "content": "2 小时 15 分钟"
+      },
+      {
+        "label": "C",
+        "content": "2 小时 45 分钟"
+      },
+      {
+        "label": "D",
+        "content": "3 小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“停车不超过 15 分钟，不收费；超过 15 分钟但不超过 60 分钟，按 1 小时计，收费 5 元”，李\n先生支付停车费 17 元，则停车时长一定超过 1 小时。扣除前 1 小时的收费 5 元，超出 1 小时部分付款为 17-5=12\n元。根据题干“超过 1 小时后，超过的部分按每 30 分钟 4 元收费（不足 30 分钟，按 30 分钟计）”，12 元最\n多可支付 12÷4=3 个 30 分钟=1.5 小时，则 2 小时＜李先生的停车时长\n\n小时。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第61题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公司自主研发生产的 A、B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的 10%（按 一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种型号的产 量之和还多 400 块。预计该公司今年的轿车总产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的 10%（按 一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种型号的产 量之和还多 400 块。预计该公司今年的轿车总产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是： A、3500 块"
+      },
+      {
+        "label": "B",
+        "content": "7000 块"
+      },
+      {
+        "label": "C",
+        "content": "14000 块"
+      },
+      {
+        "label": "D",
+        "content": "21400 块"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，该公司今年自主研发生产的 A、B、C 三种型号氢燃料电池的产量和为 42.4×10000×10%=42400\n\n块。已知 C 型号的产量比 A、B 两种型号的产量之和还多 400 块，则 A、B 两种型号的产量之和为\n\n块，A 型号氢燃料电池的产量是 B 型号的 2 倍，则 B 型号氢燃料电池的产量为\n\n块。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第62题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学习平台收到的征文，将通过两轮评审决定能否采用。先由两位编辑进行初审，若两位编辑评审都通过， 则予以采用；若两位编辑都未予通过，则不予采用；若仅有一位编辑初审通过，则再由主编进行复审，若复审 通过，则予以采用，否则不予采用。设稿件能通过各初审编辑评审的概率均为 0.4，复审的稿件能通过的概率 为 0.2，各编辑独立评审，则每篇征文被采用的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.32"
+      },
+      {
+        "label": "B",
+        "content": "0.256"
+      },
+      {
+        "label": "C",
+        "content": "0.24"
+      },
+      {
+        "label": "D",
+        "content": "0.208"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，每篇征文被采用的情况为：①初审两位编辑均通过，概率为：0.4×0.4=0.16；②初审两位编\n\n辑仅有一位通过，且主编复审通过，概率为：\n\n，分类用加法，故每篇征文被\n\n采用的概率为 0.16+0.096=0.256。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第63题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某空军基地举行飞行训练，有 8 架歼击机、3 架预警直升机、2 架反潜直升机参与训练，每架飞机编号不 同。训练时，需派出 3 架歼击机、2 架预警直升机、1 架反潜直升机进行起降飞行。若每次只能起飞 1 架飞机， 其中 3 架歼击机必须相邻起飞，2 架预警直升机不能相邻起飞，那么不同的起飞方式有多少种？",
+    "options": [
+      {
+        "label": "A",
+        "content": "504"
+      },
+      {
+        "label": "B",
+        "content": "4032"
+      },
+      {
+        "label": "C",
+        "content": "8064"
+      },
+      {
+        "label": "D",
+        "content": "24192"
+      }
+    ],
+    "answer": "D",
+    "explanation": "先从 8 架歼击机中选出 3 架、3 架预警直升机中选出 2 架、2 架反潜直升机中选出 1 架，共有\n\n种方法；再根据要求安排起飞顺序，3 架歼击机必须相邻起飞可用捆绑法、2 架预警直升机不能相邻起飞可用\n\n插空法，即先将 3 架歼击机捆绑后与 1 架反潜直升机进行排列有\n\n种方法，再将 2 架预警直升机插空有 种\n\n方法。故满足要求的不同的起飞方式有\n\n种。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第64题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "浮雕银杯是我国古代常见的一种盛酒容器，有大银杯和小银杯之分。已知 5 个大银杯加 1 个小银杯，可以 盛酒 3 斛（斛，是古代的一种容量单位），5 个小银杯加 1 个大银杯，可以盛酒 2 斛，则 1 斛酒至多可以倒满 小银杯的数量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 个"
+      },
+      {
+        "label": "B",
+        "content": "3 个"
+      },
+      {
+        "label": "C",
+        "content": "4 个 14"
+      },
+      {
+        "label": "D",
+        "content": "5 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设大银杯容量为 x，小银杯容量为 y，赋值 1 斛酒的量为 1；根据题意可列方程：5x+y=3······①，\n\n5y+x=2······②，联立①②解得\n\n，\n\n。则 1 斛酒可倒满的小银杯数量\n\n，故至\n\n多可以倒满小银杯的数量为 3 个。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第65题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某小区物业准备了 230 盒口罩免费派发给 10 栋楼，要求任意两栋楼派发的口罩数量都不相同，但最多相 差不超过 1 倍。假设口罩不拆盒发放，那么派发口罩数量最少的那栋楼最少可派发口罩：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18 盒"
+      },
+      {
+        "label": "B",
+        "content": "15 盒"
+      },
+      {
+        "label": "C",
+        "content": "14 盒"
+      },
+      {
+        "label": "D",
+        "content": "12 盒"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设派发口罩数量最少的那栋楼最少派发口罩 x 盒。要让派发口罩数量最少的楼栋派发口罩最少，则其他楼\n栋口罩派发尽量多，且派发口罩最多的楼栋不超过最少的 1 倍，即派发口罩最多的楼栋最多派发口罩 2x 盒。\n由于任意两栋楼派发口罩数量都不相同，则可列表如下：\n\n根据口罩一共有 230 盒可列式：2x+2x-1+2x-2+2x-3+2x-4+2x-5+2x-6+2x-7+2x-8+x=230，化简可得：\n\n19x-36=230，解得 x=14。那么派发口罩数量最少的那栋楼最少可派发口罩 14 盒。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第66题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "A、B 两村在一条笔直公路的同侧，到公路的垂直距离分别是3 公里和7 公里，两村相距8.5 公里，现需在\n公路边建一个物资集散中心，为节约物资配送成本，集散中心到两个村的直线路程之和应尽可能小，若货车的\n速度约为60 公里/小时，那么货车从集散中心出发，到两村送货后返回中心，路途所花费的最少时间为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两村在一条笔直公路的同侧，到公路的垂直距离分别是 3 公里和 7 公里，两村相距 8.5 公里，现需在 公路边建一个物资集散中心，为节约物资配送成本，集散中心到两个村的直线路程之和应尽可能小，若货车的 速度约为 60 公里/小时，那么货车从集散中心出发，到两村送货后返回中心，路途所花费的最少时间为： A、18 分钟"
+      },
+      {
+        "label": "B",
+        "content": "21 分钟"
+      },
+      {
+        "label": "C",
+        "content": "24 分钟"
+      },
+      {
+        "label": "D",
+        "content": "27 分钟"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如图所示：过公路作 A 点的对称点为 ，交公路于点 M；过 B 点作公路的垂线，垂点为 N；过 的垂线，\n，交 MN 于点 O，\n\n垂点为 ；过 A 点作 BN 的垂线，垂点为 D，则四边形 ADNM 和\n根据两点之间线段最短，可知将物资集散中心修建在 O 点时，到两村的直线路程之和最小。\n\n为矩形。连接",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第67题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某大型商场的地下停车场入口处横截面如下图所示，入口处斜坡的坡角为 30 度，下坡起点至入口顶部水 平距离为 6 米，楼板厚为 0.6 米。商场管理处需在入口处张贴限高标志，以便告知车辆能否安全驶入。若停车 场内部的高度均高于入口处汽车可通过的最低高度，则下列限高最为合理的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.8 米"
+      },
+      {
+        "label": "B",
+        "content": "2.3 米"
+      },
+      {
+        "label": "C",
+        "content": "2.6 米"
+      },
+      {
+        "label": "D",
+        "content": "3.2 米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如图所示，CE 为可通过入口的汽车的最大高度。在直角\n\n中，AB=6 米，\n\n，则\n\n米，则\n\n米。在直角\n\n中，\n\n，则\n\n限高设置\n\n米即可，在这个范围内越接近 2.48 米越合理，结合选项可知 B 项最为合理。\n\n米。因此停车场入口处汽车可通过的最低高度是 2.48 米，汽车\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第68题",
+    "region": "chongqing",
+    "questionImage": "/img/questions/provincial_chongqing_2023/q068.png"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "15 某品牌圆形扫地机器人升级设计方案，是在原有扫地机器人的前端伸出 8cm 可转动的边刷进行清扫（如下 图所示），目的是将无法触及的边边角角都彻底清扫干净，那么，为保证这一效果，该型号扫地机器人圆形机 身的最大直径是：（答案取整数位）",
+    "options": [
+      {
+        "label": "A",
+        "content": "30cm"
+      },
+      {
+        "label": "B",
+        "content": "36cm"
+      },
+      {
+        "label": "C",
+        "content": "38cm"
+      },
+      {
+        "label": "D",
+        "content": "40cm"
+      }
+    ],
+    "answer": "C",
+    "explanation": "18\n\n\f根据题意，扫地机器人的前端边刷需要清扫到地面边角，如下图所示，设该型号扫地机器人圆形机身的最\n，向下取整，即最大半径为 19cm，\n\n，解得\n\n大半径为 rcm，根据三角形勾股定理可得：\n则该型号扫地机器人圆形机身的最大直径为 19×2=38cm。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第69题",
+    "region": "chongqing",
+    "questionImage": "/img/questions/provincial_chongqing_2023/q069.png"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2023-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下图所示是一种帐篷屋顶的示意图，底面是一个长 4 米宽 3 米的长方形，屋顶高 1 米，上棱长 2 米且平行 于底面，那么该帐篷屋顶的体积是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5 立方米"
+      },
+      {
+        "label": "B",
+        "content": "11 立方米"
+      },
+      {
+        "label": "C",
+        "content": "12 立方米"
+      },
+      {
+        "label": "D",
+        "content": "24 立方米 四、判断推理。第四部分 判断推理。 本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的 试题，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "如图所示，过上棱两个端点 M、N 分别向底面做垂直截面，交底面 ABCD 于点 E、F、G、H，则该帐篷屋顶可\n\n拆分为左、右两个四棱锥（M-AEFD 和 N-BCHG）和中间一个三棱柱（EFM-GHN）。根据公式：\n\n；\n\n，则\n\n立方米；\n\n立方米。则该帐篷屋顶的体积\n\n立方米。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考chongqing行测第70题",
+    "region": "chongqing",
+    "questionImage": "/img/questions/provincial_chongqing_2023/q070.png"
+  }
+]

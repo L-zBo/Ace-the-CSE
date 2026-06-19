@@ -1,0 +1,1555 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-047",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：60%，易错项：B。\n解析\n第一步，观察特征。\n每幅图构成元素都相同，只有位置发生变化，优先考虑动态位置。\n第二步，一组式，从左到右找规律。\n梯形沿逆时针方向每次旋转90°，可以排除B选项和C选项；三角形每次沿着顺时针方向旋转90°，排除D选\n项，答案选A选项。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第47题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q047.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-048",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：72%，易错项：B。\n解析\n第一步，观察特征。\n每幅图都是由黑白点组成，优先观察黑白点的位置和数量。\n第二步，一组式，从左到右找规律。\n从左到右，黑点的数量分别为2，3，2，3，所以问号处应该为2个黑点，排除C选项和D选项；再观察黑点的\n位置，上面的黑点每次向右循环移动一格，下面的黑点每次向左移动一格，中间的黑点为无，有，无，有，问号\n处为无，只有A选项符合。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第48题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q048.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-049",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：25%，易错项：C。\n解析\n第一步，观察特征。\n每幅图都由小正方形组成，观察小正方形的样式特征。\n第二步，一组式，从左到右找规律。\n从左到右，前一幅图的右侧可以和后一幅图的左侧进行拼合，只有D选项符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第49题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q049.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-050",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。 - 7 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：78%，易错项：B。\n解析\n第一步，观察特征。\n每幅图都有黑点，考虑功能点。\n第二步，一组式，从左到右找规律。\n从左到右，每幅图的黑点都标定了图形所有点，只有C选项符合。\n因此，选择C选项。\n-12-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第50题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q050.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-051",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示的物体至少由（ ）个小正方体堆积而成。",
+    "options": [
+      {
+        "label": "A",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "17"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：70%，易错项：B。\n解析\n第一步，明确设问方式。\n物体至少由几个小正方体堆积而成。\n第二步，观察图形。\n直观观察所示物体，能数出14个小正方体，但题干问“堆积”而成，说明小正方体不能悬空存在，所以底层隐\n藏了2个看不见的小正方体。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第51题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-052",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中，不能在裁剪或覆盖后折成如图所示立方体的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "伐木场∶家具"
+      },
+      {
+        "label": "B",
+        "content": "商场∶服装"
+      },
+      {
+        "label": "C",
+        "content": "农田∶稻谷"
+      },
+      {
+        "label": "D",
+        "content": "水库∶水"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：25%，易错项：C。\n解析\n第一步，明确设问。\n问不能在裁剪或覆盖后折成如图所示立方体的是。\n第二步，分析选项。\n要想折成题干六面体，平面展开图需要有三组相对面。\nA项：存在三组相对面。\nB项：存在三组相对面。\nC项：存在三组相对面。\nD项：不存在三组相对面。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第52题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-053",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中，能与所给图形组合成立方体的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：59%，易错项：B。\n解析\n第一步，明确设问。\n问能与所给图形组合成立方体的是。\n第二步，辨析选项。\n具体拼合如下图所示：\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第53题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q053.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-054",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "使用所给的四个图形能够组合成（ ）。 - 8 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：60%，易错项：A。\n解析\n第一步，明确设问。\n问使用所给四个图形能够组合成的是。\n第二步，进行拼合。\n具体拼合如下图所示：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第54题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q054.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-055",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列 4 张纸条，沿折痕能够折出如图所示图形的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：59%，易错项：B。\n- 13 -\n解析\n第一步，明确设问。\n下列4张纸条中，沿折痕能够折出如图所示图形的是。\n第二步，找规律。\n如图所以，题干的5条折痕彼此之间均构成梯形的关系，排除A项和B项，且由折痕构成的2个大梯形应相邻，\n排除D项。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第55题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q055.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-056",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "精准∶扶贫（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "保护∶环境"
+      },
+      {
+        "label": "B",
+        "content": "热心∶助人"
+      },
+      {
+        "label": "C",
+        "content": "进退∶自如"
+      },
+      {
+        "label": "D",
+        "content": "粗犷∶生产"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：51%，易错项：D。\n解析\n第一步，确定题干逻辑关系。\n“精准”地“扶贫”，二者属于语法关系中的偏正关系，且“扶贫”本身为动宾结构词语。\n第二步，辨析选项。\nB项：“热心”地“助人”，二者属于语法关系中的偏正关系，且“助人”本身为动宾结构词语，与题干逻辑关\n系一致，符合；\nC项：“自如”地“进退”，二者属于语法关系中的偏正关系，但词语的前后顺序与题干不一致，排除；\nD项：“粗扩”地“生产”，二者属于语法关系中的偏正关系，但“生产”本身是动词而非动宾结构词语，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第56题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-057",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "端午∶中秋（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "红色∶绿色"
+      },
+      {
+        "label": "B",
+        "content": "生存∶死亡"
+      },
+      {
+        "label": "C",
+        "content": "物质∶精神"
+      },
+      {
+        "label": "D",
+        "content": "线路∶电路"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：85%，易错项：D。\n解析\n第一步，确定题干逻辑关系。\n第二步，辨析选项。\nA项：“红色”与“绿色”都是颜色，二者属于并列关系中的反对关系，与题干的逻辑关系一致，符合；\nD项：“电路”是一种“线路”，二者属于种属关系，排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第57题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-058",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "海螺∶号角（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "树枝∶剪刀"
+      },
+      {
+        "label": "B",
+        "content": "羽毛∶衣服"
+      },
+      {
+        "label": "C",
+        "content": "葫芦∶水瓢"
+      },
+      {
+        "label": "D",
+        "content": "孔雀∶折扇"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：81%，易错项：D。\n解析\n第一步，确定题干逻辑关系。\n“海螺”经过钻孔来制作“号角”，二者属于原材料对应关系，且“海螺”与“号角”外形相似。\n第二步，辨析选项。\n，《，，《生，\n服”的外形不相似，排除；\nC项：“葫芦”经过切割来制作“水瓢”，二者属于原材料对应关系，且“葫芦”与“水瓢”外形相似，与题\n干的逻辑关系一致，符合；\nD项：“孔雀”的羽毛可以用来制作“折扇”，但“孔雀”本身与“折扇”无关系，排除。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第58题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-059",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "耳朵∶助听器（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "眼睛∶望远镜"
+      },
+      {
+        "label": "B",
+        "content": "手指∶手套"
+      },
+      {
+        "label": "C",
+        "content": "嘴唇∶口罩"
+      },
+      {
+        "label": "D",
+        "content": "腿脚∶拐杖"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：67%，易错项：A。\n解析\n第一步，确定题干逻辑关系。\n-14-\n“耳朵”听不清才需要“助听器”辅助听清，二者属于工具对应关系，且“助听器”是恢复性的辅助工具。\n第二步，辨析选项。\nA项：无论“眼睛”好坏，“望远镜”都可以帮助看得更远，二者属于工具对应关系，但“望远镜”是延伸性的\n辅助工具，排除；\nB项：“手套”可以用来保护“手指”，二者属于工具对应关系，但“手套”是防护性的工具，排除；\nC项：“口罩”与“嘴唇”无逻辑关系，排除；\nD项：“腿脚”不好才需要“拐杖”辅助行走，二者属于工具对应关系，且“拐杖”是恢复性的辅助工具，与题\n干的逻辑关系一致，符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第59题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-060",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "瓜熟蒂落∶水到渠成 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "朝三暮四∶朝秦暮楚"
+      },
+      {
+        "label": "B",
+        "content": "翻云覆雨∶翻天覆地"
+      },
+      {
+        "label": "C",
+        "content": "耳濡目染∶耳熟能详"
+      },
+      {
+        "label": "D",
+        "content": "大功告成∶功败垂成"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：53%，易错项：C。\n解析\n第一步，确定题干逻辑关系。\n“瓜熟蒂落”比喻客观条件具备后行事，成功的机会就大，“水到渠成”比喻有条件之后，事情自然会成功，即\n功到自然成，二者属于语义关系中的近义关系。\n第二步，辨析选项。\nA项：“朝三暮四”比喻常常变卦，反复无常，“朝秦暮楚”用以比喻人没有原则，反复无常，二者属于语义关\n系中的近义关系，与题干的逻辑关系一致，符合；\nB项：“翻云覆雨”比喻反复无常或玩弄手段，“翻天覆地”形容变化巨大而彻底，二者语义无关系，排除；\nC项：“耳濡目染”指经常听到看到，不知不觉地受到影响，“耳熟能详”指听的次数多了，熟悉得能详尽地说\n出来，二者语义无关系，排除；\nD项：“大功告成”指大的工程、事业或重要任务宣告完成，“功败垂成”事情在快要成功的时候遭到失败，二\n者属于语义关系中的反义关系，排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第60题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-061",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某工作组计划开展实地调研，初步确定只选择粤东、粤西或粤北中的一个地区。对此，工作组中的甲、乙、 丙三人提出了以下意见： 甲：在此次调研中粤东更具有代表性，应该前往粤东地区。 乙：上一轮调研已经去过粤北了，这一次应该选择其他地区。 丙：我认为选择粤西或粤北地区开展实地调研更合适。 最终工作组只采纳了其中一个人的意见，则下列陈述一定正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "工作组前往了粤东地区"
+      },
+      {
+        "label": "B",
+        "content": "工作组前往了粤西地区"
+      },
+      {
+        "label": "C",
+        "content": "工作组采纳了乙的意见"
+      },
+      {
+        "label": "D",
+        "content": "工作组采纳了丙的意见 - 9 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：54%，易错项：C。\n解析\n第一步，确定题型。\n题干有若干论断和真假限定，确定为真假推理。\n第二步，找关系。\n甲说：去粤东，即不去粤西也不去粤北；\n乙说：不去粤北；\n丙说：粤西或粤北。\n其中，甲和丙为矛盾关系。\n第三步，进行推理。\n矛盾关系必有一真，必有一假，结合“只有一个人的意见”被采纳，故其余的乙为假话；\n根据乙为假话，可知去粤北，排除A项、B项；\n根据“去粤北”，可知不去粤东，排除C项。\n因此，选择D选项。\n拓展\n假设甲的话为真，那么根据“肯前必肯后”可知，乙也为真，这与“只采纳一个人的意见”矛盾，故甲的话不能\n为真，甲的话为假，则：不去粤东；\n不去粤东，则意味看“去粤西或粤北”，那么丙的话为真。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第61题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-062",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "有人认为，十二生肖起源于动物崇拜。这是因为在原始社会中，人类的生产カ水平很低，猪、牛、羊等牲 畜与农事活动关系密切，动物崇拜也就随之而生。除此之外，虎、蛇等动物可能威胁到人类的自身安全，往往 被视为强大的象征，人们也会因为感到恐惧而形成动物崇拜。 以下选项如果为真，最能反驳上述判断的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "十二生肖中只有龙不是现实中存在的动物"
+      },
+      {
+        "label": "B",
+        "content": "“过街老鼠人人喊打”，但它是十二生肖之首"
+      },
+      {
+        "label": "C",
+        "content": "鸡、鸭、鹅与农事活动关系密切，但只有鸡属于十二生肖"
+      },
+      {
+        "label": "D",
+        "content": "牛和猪都与农事相关，但他们在十二生肖中的位置相距很远"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：61%，易错项：C。\n解析\n第一步，确定题型。\n根据提问方式中的“反驳”，确定为削弱论证。\n第二步，找论点和论据。\n论点：十二生肖来自于动物崇拜。\n论据：这是因为在原始社会中，人类的生产力水平很低，猪、牛、羊等牲畜与农事活动关系密切，动物崇拜也就\n随之而生。除此之外，虎、蛇等动物可能威胁到人类的自身安全，往往被视为强大的象征，人们也会因为感到恐\n惧而形成动物崇拜。。\n- 15 -\n第三步，辨析选项。\n二生肖”是“现实动物”还是“虚拟动物”。且非现实动物不等价于没有动物崇拜的产生。严格来说，论题不一\n致，排除。\nB项：增加反向论据。老鼠人人喊打，但是属十二生肖首位说明，十二生肖的起源并非来自动物崇拜，因为老鼠\n不仅不属于农事活动相关动物，也不属于让人感到威胁的动物，具有削弱作用。\nC项：不明确项。与农事活动相关的并非都入选“十二生肖”，不等于十二生肖动物的选取与农事活动无关，不\n具有削弱作用。\nD项：无关选项。该选项说的是十二生肖的排序，而非来源，论题不一致，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第62题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-063",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某扶贫产业基地计划种植紫薯、红薯、南瓜以及玉米四种农作物。四种农作物的种植面积大小不一，且需 要满足以下条件： ①要么紫薯种植面积最大，要么南瓜种植面积最大； ②如果紫薯的种植面积最大，红薯的种植面积便最小； 如果红薯的种植面积大于玉米，可以推出的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "南瓜种植面积大于玉米种植面积"
+      },
+      {
+        "label": "B",
+        "content": "紫薯种植面积大于玉米种植面积"
+      },
+      {
+        "label": "C",
+        "content": "紫薯种植面积小于红薯种植面积"
+      },
+      {
+        "label": "D",
+        "content": "玉米种植面积大于南瓜种植面积"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：71%，易错项：B。\n解析\n第一步，确定题型。\n根据关联词“如果……….那么……”，确定为翻译推理。\n第二步，翻译题干。\n①要么紫薯种植面积最大，要么南瓜种植面积最大\n②紫薯的种植面积最大→红薯种植面积最小\n第三步，进行推理。\n题干条件是“红薯的种植面积大于玉米”，说明“红薯的种植面积不是最小的”，是对②的“否后”，根据“否\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第63题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-064",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "国内有研究发现，在小学阶段，春季出生的孩子比冬季出生的孩子学习成绩更好，在学业上获得成功的概 率也更高。有人据此推测，这是由于春季出生的孩子年纪更大一些，而年纪大的孩于往往更成熟，更容易获得 老师的关注。 以下选项如果为真，最能反驳上述判断的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "得到老师更多关注并不意味着一定有更多在学业上取得成就的机会"
+      },
+      {
+        "label": "B",
+        "content": "教育部门规定，小学生必须在当年 9 月 1 日前年满 6 周岁才能入学"
+      },
+      {
+        "label": "C",
+        "content": "老师也会倾向于关注成绩不理想的学生"
+      },
+      {
+        "label": "D",
+        "content": "其他研究发现，成绩好的孩子普遍善于独立思考"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：27%，易错项：A。\n解析\n第一步，确定题型。\n根据提问方式中的“反驳”，确定为削弱论证。\n第二步，找论点和论据。\n论点：这是由于春季出生的孩子年纪更大一些，而年纪大的孩子往往更成熟，更容易获得老师的关注。\n论据：无。\n第三步，辨析选项。\nA项：不明确项。该项指出得到老师的关注不意味着在学业上一定有更多取得成就的机会，但是也不等于就一定\n没有，而题目的现象本身即是讨论“在学业上获得成功的概率”，不具有削弱作用。\nB项：否定论点。该项指出了小学生入手的年龄规定，可知，春季出生的孩子年纪要比冬季出生的孩子年纪小，\n否定了观点，具有削弱作用。\nC项：无关选项。该项讨论的是老师也关注成绩不理想的学生，与题干讨论的“为什么春季出生的孩子学习成绩\n好”无关，论题不一致，排除。\n了多大程度的作用，不具有削弱作用。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第64题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-065",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某市实现高质量发展的关键在于，通过推动当地制造业的发展，建立健全现代化产业体系。该市产业园区 的建设发展对建立健全现代化产业体系至关重要，因此也是推动实现高质量发展的关键。 下列选项中，与上述推论过程结构最为类似的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "打好三大攻坚战是全面建成小康社会的前提条件，也是实现高质量发展的必备基础。所以，打好三大攻坚战 才能实现经济社会的全面发展"
+      },
+      {
+        "label": "B",
+        "content": "所有战略性新兴领域的产品均为高尖端产品。某公司的产品广泛应用于新型材料等战略性新兴领域。因此， 该公司是一家高尖端制造企业"
+      },
+      {
+        "label": "C",
+        "content": "公路网络不发达会导致交通落后，而交通落后已经成为制约乡镇加快发展的最大瓶颈。因此，乡镇要加快发 展，必须加强路网建设"
+      },
+      {
+        "label": "D",
+        "content": "与传统育苗方式相比，组织育苗是一种更为高效的组织快繁方式。因此，引进组织育苗技术很有意义"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：30%，易错项：C。\n解析\n第一步，确定题型。\n根据提问方式中的“结构最为类似”，确定为平行结构。\n第二步，分析结构。\n题干翻译为：实现高质量发展的一推动制造业发展，建立健全现代化体系\n推理过程为：根据关联词“关键”，将其翻译为“推动高质量发展→该市产业园区的建设发展”，推理过程为“肯\n前推肯后”。\n第三步，辨析选项。\nA项：该项翻译为：全面建设小康社会，高质量发展一打好三大攻坚战，推理过程为：“实现经济社会的全面发\n展→打好三大攻坚战”，其中“实现经济社会的全面发展”属于“肯前”，“打好三大攻坚战”属于“肯后”，\n与题干推理结构一致；\nB项：该项翻译为：战略性新兴领域的产品一高尖端产品，推理过程为：“某公司的产品广泛应用于新型材料领\n-16 -\n域”，并非“肯前”，与题干不一致，排除；\nC项：该项“导致”说明是因果关系，不属于条件关系，排除；\nD项：该项推理过程为因为“组织育苗”更高效，所以引进组织育苗技术有意义，但是该项不存在条件关系推理，\n排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第65题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-066",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "农技站为了贮存种子，拟采用以下做法，其中最可行的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "将种子浸泡在含水的容器中"
+      },
+      {
+        "label": "B",
+        "content": "将种子置放在含氧量低于 1%的干燥地窖中 - 10 -"
+      },
+      {
+        "label": "C",
+        "content": "将种子置于 15 摄氏度左右的低温环境中"
+      },
+      {
+        "label": "D",
+        "content": "将种子封闭在完全避光的黑暗环境中"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：47%，易错项：C。\n解析\n第一步，确定题型。\n本题考查生物学中种子的储存方法。\n第二步，分析选项。\nA项：种子浸泡在水中，容易发霉发芽，A项错误；\nB项：含氧量低能够降低种子的呼吸作用，干燥能够避免发霉，B项符合；\nC项：种子适合的储存温度为5-20度，C项错误；\nD项：黑暗环境中种子仍然能进行呼吸作用导致温度升高，不利于储存，D项错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第66题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-067",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "援藏干部小吴发现，夏天在藏区的高山上能看到一条横在半山腰的线，这条线之上冰雪璀璨闪耀，线下则 只有裸露岩坡或草丛树林。当地人告诉他，这就是“雪线”。如果气候稳定，雪线每年大致在同一个高度上， 如果气候或降雪量发生变化，雪线就会发生变化。则小吴最不可能观察到的现象是",
+    "options": [
+      {
+        "label": "A",
+        "content": "气候变暖，降雪量增加，雪线上移"
+      },
+      {
+        "label": "B",
+        "content": "气候变暖，降雪量减少，雪线上移"
+      },
+      {
+        "label": "C",
+        "content": "气候变冷，降雪量减少，雪线下移"
+      },
+      {
+        "label": "D",
+        "content": "气候变冷，降雪量增加，雪线上移"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：30%，易错项：B。\n解析\n第一步，确定题型。\n本题考查地理知识。\n第二步，分析选项。\nA项：气温变暖，降雪量增加，但是藏区处于低纬度，地表温度较高，所以雪线可能上移，A选项有可能；\nB项：气温变暖，降雪量减少，积雪减少，雪线可能上移，B选项有可能；\nC项：气候变冷，降雪量减少，雪线可能下移，C选项有可能；\nD项：气候变冷，降雪量增加，积雪一定增加，所以雪线不可能上移，D项不可能。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第67题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-068",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一般来说，海水会从密度大的地方向密度小的地方流动，而海水的密度主要受到温度和盐度的影响。则以 下判断正确的是（）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "越热越咸的海水，密度越大"
+      },
+      {
+        "label": "B",
+        "content": "越冷越咸的海水，密度越大"
+      },
+      {
+        "label": "C",
+        "content": "越冷越淡的海水，密度越大"
+      },
+      {
+        "label": "D",
+        "content": "越热越淡的海水，密度越大"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：37%，易错项：A。\n解析\n第一步，确定题型。\n本题考查物理密度。\n第二步，分析选项。\n温度越高，分子运动越快，密度越小，反之密度越大；越咸，盐的含量越高，密度越大，反之密度越小。所以答\n案选B，越冷越咸的地方，密度越大。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第68题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-069",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在生活中，我们可以用紫色的蝴蝶兰花溶液作为酸碱指示剂，其遇酸性溶液显红色，遇碱性溶液则显黄色。 下列说法正确的是（）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "在盐水中滴入蝴蝶兰花溶液，溶液呈红色"
+      },
+      {
+        "label": "B",
+        "content": "在纯净水中滴入蝴蝶兰花溶液，溶液呈无色"
+      },
+      {
+        "label": "C",
+        "content": "在苏打水中滴入蝴蝶兰花溶液，溶液呈黄色"
+      },
+      {
+        "label": "D",
+        "content": "在酸或碱性溶液滴入蝴蝶兰花溶液后，变色的过程属于物理变化"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：69%，易错项：B。\n解析\n第一步，确定题型。\n本题考查化学检验方法。\n第二步，分析选项。\nA项：盐水是NaCl，为中性的，为紫色，A选项排除；\nB项：纯净水为弱酸性，为红色，B选项排除；\nC项：苏打水碳酸氢钠的水溶液，为碱性，所以为黄色，正确；\nD项：变色过程为化学变化，D选项排除。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第69题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-070",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列物质与其用途搭配正确的是（ ）。 ①臭氧——用作氧化剂 ②二氧化碳——用作干燥剂 ③氦气——用作燃料 ④液氮——用作制冷剂",
+    "options": [
+      {
+        "label": "A",
+        "content": "①④"
+      },
+      {
+        "label": "C",
+        "content": "①②"
+      },
+      {
+        "label": "B",
+        "content": "②③"
+      },
+      {
+        "label": "D",
+        "content": "③④"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：40%，易错项：D。\n解析\n第一步，确定题型。\n本题考查化学中化学物质的性质。\n第二步，分析选项。\n臭氧具有强氧化性，可以做氧化剂；二氧化碳吸水形成碳酸，不能做干燥剂；氮气也被称为情性气体，化学性质\n不活泼，不能做助燃剂；液氮因为沸点极低，所以能够在常温下急速蒸发创造低温环境光，所以可以做制冷剂。\n因此，选择A选项。\n- 17 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第70题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-071",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两人在森林中走散了。为了找到对方，两人都打开了定位器。甲所看到的定位信息显示，乙目前在 甲位置的东偏北 37 度方向。如果定位信息无误，则乙看到甲的位置信息应是甲在乙位置的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "西偏南 37 度"
+      },
+      {
+        "label": "C",
+        "content": "西偏北 37 度"
+      },
+      {
+        "label": "B",
+        "content": "西偏南 53 度"
+      },
+      {
+        "label": "D",
+        "content": "西偏北 53 度"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：37%，易错项：B。\n解析\n第一步，确定题型。\n本题考查地理学。\n第二步，分析选项。\n通过题干可以知道：乙在甲的右前侧，东偏北37度，则X轴逆时针偏转37度，根据“乙在甲的右前侧”，可以\n推出“甲在乙左后侧”，因此甲在乙位置的“西偏南37度”。\n北\n北\n个\n西\n-→东\n南\n西\n37\n东\n甲\n南\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第71题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-072",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "有甲、乙、丙三个轻质小球，已知甲与乙相互吸引，甲与丙相互排斥，则以下说法正确的是（）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "若乙带正电，丙可能带正电"
+      },
+      {
+        "label": "B",
+        "content": "若乙带正电，丙可能不带电"
+      },
+      {
+        "label": "C",
+        "content": "若丙带负电，乙可能带负电"
+      },
+      {
+        "label": "D",
+        "content": "若丙带负电，乙可能不带电"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：44%，易错项：B。\n解析\n第一步，确定题型。\n本题考查物理学中的电磁学。\n第二步，分析选项。\nA项：若乙带正电，则甲带负电或不带电，甲与丙排斥，说明两者必然带电，所以丙带负电，A选项错误；\nB项：若乙带正电，则甲带负电或不带电，甲与丙排斥，说明两者必然带电，所以丙带负电，B选项错误；\nC项：若丙带负电，甲与丙排斥，说明甲带负电，甲与乙吸引，则乙带正电或不带电，C选项错误；\nD项：若丙带负电，甲与丙排斥，说明甲带负电，甲与乙吸引，则乙带正电或不带电，D选项正确。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第72题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-073",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示，肖大伯家有两口水缸摆在一起（①和③、②和④是同一口水缸）。在同一天内，①②表示水缸 在日光直射下，③④表示水缸在月光直射下。如果忽略其他因素影响，则下列说法不正确的是（ ）。 - 11 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "③④水分蒸发的速度相同"
+      },
+      {
+        "label": "B",
+        "content": "①③水分蒸发的速度不同"
+      },
+      {
+        "label": "C",
+        "content": "②水分蒸发的速度最快"
+      },
+      {
+        "label": "D",
+        "content": "③水分蒸发的速度最慢"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：60%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学的光学。\n第二步，分析选项。\nA项：③④两口水缸都在月光照射下，由于接触面积不同，故水分蒸发速度不同，A选项错误；\nB项：①③两口水缸接触面积相同，前者是日光直射，后者是月光直射，故水分蒸发的速度不同，B选项正确；\nC项：②受日光直射，且接触面积是最大的，故水分蒸发的速度最快，C选项正确；\nD项：③受月光直射，且接触面积是最小的，故水分蒸发的速度最慢，D选项正确。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第73题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-074",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列关于生活现象的说法，正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "不锈钢容器比铁容器更持久耐用是因为所用合金材料永远不会生锈"
+      },
+      {
+        "label": "B",
+        "content": "氮气常用作食品防腐剂是因为其不与食品反应，无毒且容易获得"
+      },
+      {
+        "label": "C",
+        "content": "小苏打可使面团蓬松多孔是因为其在面团发酵过程中会汽化"
+      },
+      {
+        "label": "D",
+        "content": "洗洁精能除去油污是因为洗洁精与油污发生了化学反应，使油粒分解"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：42%，易错项：D。\n解析\n第一步，确定题型。\n本题考查化学常识。\n第二步，分析选项。\nA项：不锈钢的耐腐蚀能力主要取决于其中铬元素的含量。当不锈钢中铬的含量达到12%时，在大气环境或氧化\n环境中，铬可以自发形成一层薄薄的钝化膜，阻止进一步的氧化与腐蚀，因此日常使用时一般不会生锈。但是，\n在遇到酸、碱、盐等物质或者钝化膜被破坏的时候，腐蚀的情况还是可能发生，A选项错误；\n-18 -\nB项：氮气常用作食品防腐剂，主要是因为它无毒，无味，化学性质稳定，且抑制需氧菌的活动，B选项正确；\nC项：小苏打使面团蓬松多孔，主要是因为在面团发酵过程中会产生二氧化碳，C选项错误；\nD项：洗洁精去油污是利用乳化作用，把大的油滴分解成小的油滴，并没有新物质生成，属于物理变化，D选项\n错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第74题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-075",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一般而言，在北半球地转偏向力会使风向右偏离其原始的路线。图中显示的是位于北半球的甲地的等压线 分布情况，则甲地的风向最可能是（ ）。 - 12 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：23%，易错项：B。\n解析\n第一步，确定题型。\n本题考查地理学。\n第二步，分析选项。\n风向是高气压流向低气压，在地转偏向力作用下，北半球向右偏，南半球向左偏。从图中的等高线可以看出风总\n体是从北向南吹，由于风会向右偏，所以风向要左斜一点，总体而言就是风从东北方向吹过来的，所以是东北风。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第75题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q075.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "夏季，从冰箱内拿出一个装有冰块的杯子，则在杯内物体变为常温的过程中，杯壁温度随着时间变化的图 像最有可能接近（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "在盐水中滴入蝴蝶兰花溶液，溶液呈红色 - 9 -"
+      },
+      {
+        "label": "B",
+        "content": "在纯净水中滴入蝴蝶兰花溶液，溶液呈无色"
+      },
+      {
+        "label": "C",
+        "content": "在苏打水中滴入蝴蝶兰花溶液，溶液呈黄色"
+      },
+      {
+        "label": "D",
+        "content": "在酸或碱性溶液滴入蝴蝶兰花溶液后，变色的过程属于物理变化"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：10%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的液相变化。\n第二步，分析原理。\n开始杯子和冰温度都升高，当冰融化时吸热使杯子温度降低，杯子外壁会有水汽凝结。全部隔融化后温度再上升。\n因此，选择D选项。\n拓展\n本题的选项平面直角坐标系中，温度为横坐标，时间为纵坐标，但是按照个坐标，时间停止，是不可能的，所以，\n正确的坐标应该为，时间为横坐标，温度为纵坐标。我们的解析也是按照正确的坐标系来解释的。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第76题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "实验员小张计划配制浓度为 8%的氯化钠溶液，在配制过程中，他使用托盘天平称量氯化钠的质量，使用量 筒称量水的体积。但由于操作失误，最终配制的溶液浓度偏小，则以下可能导致这一结果的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "称量前未调平衡，天平指针偏右"
+      },
+      {
+        "label": "B",
+        "content": "称量时，使用了已生锈的砝码"
+      },
+      {
+        "label": "C",
+        "content": "用量筒取水时，仰视读数"
+      },
+      {
+        "label": "D",
+        "content": "将水倒入烧杯时，一部分洒在外面"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：40%，易错项：A。\n解析\n第一步，确定题型。\n本题考查化学中的溶液的配制。\n第二步，辨析选项。\nA项：天平指针偏右，说明右侧重，那么左侧加的药品（氯化钠）固体就会多，溶液浓度会增大，排除；\nB项：用生锈的砝码，说明右侧重，那么左侧加的药品（氯化钠）固体就会多，溶液浓度会增大，排除；\nC项：仰视读数，真实装的液体，要比想要的液体（水）多，溶液浓度就会变小，符合；\nD项：一部分液体（水）酒在外面，液体变小，溶液浓度就会变大，排除。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第77题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如果将等量的氧气和氮气混合，注入一个密闭容器，则静置较长一段时间后，容器内氧元素（用 O 代表） 和氮元素（用 N 代表）的分布最可能接近（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "右移 5 格"
+      },
+      {
+        "label": "B",
+        "content": "右移 4 格"
+      },
+      {
+        "label": "C",
+        "content": "右移 1 格"
+      },
+      {
+        "label": "D",
+        "content": "左移 1 格"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：20%，易错项：D。\n解析\n第一步，确定题型。\n本题考查化学中的分子的混合。\n第二步，分析原理。\n这种均匀混合的背后是熵增加原理。熵反映了一个系统的混乱程度，一个系统越混乱熵就越大。\n气体自发混合，混乱度增大，熵增大。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第78题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示是某仓库报警器的电路示意图，热传感器 R1 安装在仓库内部，监控机 A 和报警电铃安装在监控室 内。热传感器 R1 的阻值会随着温度的升高而减小，当仓库发生火情时，下列说正确的是（ ） - 13 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "监控机 A 两端的电流增大"
+      },
+      {
+        "label": "B",
+        "content": "报警电铃两端的电压减小"
+      },
+      {
+        "label": "C",
+        "content": "电阻器 R2 两端的电压不变"
+      },
+      {
+        "label": "D",
+        "content": "电源的电压降低"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：44%，易错项：A。\n解析\n第一步，确定题型。\n本题考查物理学中的电学。\n第二步，分析原理。\n当发生火灾时，温度增加，R1的电阻变小，总电阻变小，总电流增大。\nA项：A和R2串联，在电路两端，所以A两端的电流不变，排除；\nB项：总电压不变，R1电阻减小，电铃和R1支路上的电流增大，由U=IR，电铃的电阻不变，所以电铃的电压增\n大，排除；\n- 19 -\nC项：电源电压不变，A和R2连接在电源两端，且他们阻值均不变，总电流不变，每个电阻的电压不变，正确；\nD项：电源电压保持不变，排除；\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第79题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小张乘坐的小船在平静的湖面上匀速行驶，他在甲板上竖直跳起后下落，则下落点（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "在起跳点"
+      },
+      {
+        "label": "C",
+        "content": "在起跳点后"
+      },
+      {
+        "label": "B",
+        "content": "在起跳点前"
+      },
+      {
+        "label": "D",
+        "content": "位置不确定"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：36%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的运动学。\n第二步，分析原理。\n小张起跳前，小船和小张以相同速度匀速前进。\n小张起跳后，身上没有受到其他外力，因此以原速度保持匀速前进。（由于物体具有惯性，在无外力情况下，原\n本匀速前进的物体会一直保持匀速前进）\n小船也以原速度匀速前进，所以，落在原地。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第80题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-081",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示，乙、丙两个正方体漂浮在装有溶液的容器内保持静止状态，且上表面与液面持平，正方体甲下 表面与乙物体的上表面密切接触，球体丁与丙之间用细绳牵连，则下列说法正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "液体对物体甲有浮力作用"
+      },
+      {
+        "label": "B",
+        "content": "丙受到的浮力大于丁受到的浮力"
+      },
+      {
+        "label": "C",
+        "content": "乙受到的浮力大于甲乙两物体的重力之和"
+      },
+      {
+        "label": "D",
+        "content": "细绳的牵引力等于丙受到的浮力减去丁的重力"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：40%，易错项：D。\n解析\n第一步，确定题型。\n本题考查物理学中的浮力问题。\n第二步，分析选项。\nA项：甲只受到向下的重力和乙对它向上的支持力的作用，排除；\nB项：丙受到的浮力大小等于丙和丁的重力之和，所以丙受到的浮力大于丁的重力，又因为丁的重力大于丁受到\n的浮力，所以丙受到的浮力大于丁受到的浮力，正确；\nc项：乙受到的浮力与甲乙两物体的重力之和相等，排除；\nD项：对丁进行受力分析，细绳受到的拉力等于丁的重力减去丁受到的浮力，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第81题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-082",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某可燃物的着火点为 t，如图所示，则该物质燃烧火势从大到小的点依次是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②③"
+      },
+      {
+        "label": "C",
+        "content": "③④⑤"
+      },
+      {
+        "label": "B",
+        "content": "②④⑤"
+      },
+      {
+        "label": "D",
+        "content": "⑤④②"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：48%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的燃烧条件。\n第二步，结合性质进行分析。\n燃烧的条件为可燃物、氧气和温度。可燃物固定的情况下，温度越高、氧气浓度越大，则物质的燃烧火势越大。\n所以由于5比④的温度高，氧气浓度大，所以火势更大，④和②的温度相同，但④的氧气浓度更大，所以顺序为\n③、④、②。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第82题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-083",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示，仓库工人计划用小车运送三箱货物，第一次先用大小为 F 的力将一箱货物从 A 仓库推到 B 仓库， 第二次用同样大小的力将两箱货物从 A 仓库拉到 B 仓库。则在货物的移动过程中，关于两次做功的情况下列说 法正确的是（ ）。 - 14 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "工人第一次做的功比第二次多"
+      },
+      {
+        "label": "B",
+        "content": "工人第一次做的功比第二次少"
+      },
+      {
+        "label": "C",
+        "content": "工人第一次做的功与第二次一样多"
+      },
+      {
+        "label": "D",
+        "content": "无法确定"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：61%，易错项：B。\n解析\n第一步，确定题型。\n本题考查物理学中的做功问题。\n第二步，结合公式进行分析。\n考查力F的做功，由W=FS，即需要明确F的大小和在F方向上的位移大小。因为前后两次的F相等，且距离均\n为两个仓库之间的距离，所以w也相等。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第83题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-084",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如图所示，小球用橡皮筋固定在天花板上。如果让小球从 A 点落下，B 点是橡皮筋的自然长度，C 点是小球 达到的最低点。则下列说法正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "在 B 点时，小球的重力等于橡皮筋的张力"
+      },
+      {
+        "label": "B",
+        "content": "小球在 C 点受到 2 个力的作用"
+      },
+      {
+        "label": "C",
+        "content": "小球在 C 点受力平衡"
+      },
+      {
+        "label": "D",
+        "content": "小球在 A 点的重力势能等于动能"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：47%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的受力分析。\n第二步，结合不同运动状态分析选项。\nA项：在B点时，小球处于自然长度状态，此时橡皮筋没有张力，排除；\nB项：C点是小球能运动到的最低点，所以此时小球只受到向下的重力和向上的张力，正确；\nC项：小球在C点时，所受的张力大于自身重力，所以不是平衡状态，错误；\nD项：重力势能和动能在整个过程中是相互转化的，二者之间无法进行比较，错误。\n因此，选择B选项。\n-20-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第84题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-085",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "李先生驾车外出，用导航计算得知出发地到目的地的直线距离是 20km，路途中经过测速点时，他看到车内 记速表显示为 60km/h，半小时后到达目的地，导航显示路程是 33km。由此可以判断（ ）。 ①李先生驾车的位移是 20km ②李先生驾车的位移是 33km ③整个路途中，李先生驾车的平均速度为 60km/h ④经过测速点时的瞬时速度是 60km/h",
+    "options": [
+      {
+        "label": "A",
+        "content": "①③"
+      },
+      {
+        "label": "C",
+        "content": "②④ (材料 1)"
+      },
+      {
+        "label": "B",
+        "content": "②③"
+      },
+      {
+        "label": "D",
+        "content": "①④ 第五部分 资料分析 近年来，我国大力推动农村互联网建设，目前已初步建成融合、泛在、安全、绿色的宽带网络环境，基本 实现“城市光纤到楼到户，农村宽带进乡入村”。2019 年，我国已建成全球最大规模光纤和移动通信网络，行 政村通光纤和 4G 比例均超过 98%。调查显示，截至 2020 年 3 月，我国网民规模为 9.04 亿人，其中农村网民规 模为 2.55 亿人，较 2018 年 12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：36%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的运动。\n第二步，分析命题。\n位移表示的是两点之间的直线距离，所以汽车的位移是20km，①正确、②错误。\n李先生驾驶的平均速度为路程/时间，即33/0.5=66km/h，③错误。\n车内记速表记录的是瞬时速度，④正确。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第85题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-042",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：39%，易错项：C。\n解析\n第一步，本题考查基础计算问题。\n第二步，三个书架共60本书，当三个书架书一样多时，各为20本，从第一个书架取出10本放入第二个书架，\n再从第二个书架取出5本放入第三个书架，第二个书架增加了10-5=5本书，此时有20本书，那么第二个书架最\n初存放了20-5=15本书。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第42题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q042.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-043",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中，能与所给图形组合成立方体的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：36%，易错项：C。\n解析\n第一步，本题考查基础应用题，用代入排除法解题。\n360\n360\n+20=\nc-3\n依次代入选项验证：A选项，当x=3时，x-3=0，分母为0，排除；B选项，当x=4时，90+20≠360，排除；C选\n项，当x=6时，60+20≠120，排除；D选项，当x=9时，40+20=60，符合题意。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第43题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q043.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-044",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "使用所给的四个图形能够组合成（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查不定方程问题，用代入排除法解题。\n第二步，设需要大、小文件袋各x、y个，列方程24x+15y=153，化简得8x+5y=51，依次代入选项验证：A选项，\n当x=2时，y=7，符合题意。（B、C、D选项均无法使y取到整数解，排除）\n-11-\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第44题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q044.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-045",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列 4 张纸条，沿折痕能够折出如图所示图形的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：49%，易错项：B。\n解析\n第一步，本题考查行程问题，属于流水行船类，用方程法解题。\n第二步，设甲船在静水中时速为V甲、乙船在静水中时速为V乙、水速为V水，根据甲从A顺流而下5小时后到\n达B列方程：5×（v甲+V水）=300，解得v甲+V水=60；根据甲船停留1小时后又过了6小时追上乙船列方程：\n6×（v甲-V水）=12×（v乙-V水），化简得2V乙=V甲+V水=60，则乙船在静水中的时速为30公里。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第45题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q045.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2020-046",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中最符合所给图形规律的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：69%，易错项：A。\n解析\n第一步，观察特征。\n九宫格每一组元素构成相同，只有元素位置不一样，考虑静态位置类。\n第二步，九宫格，优先横着找规律。\n第一行，三角形和点的位置都在第一行，位置分别为相邻，包含，间隔；第二行三角形和正方形都在第二行，位\n置分别为相邻，间隔，包含；第三行点和正方形都在第三行，有间隔，相邻，问号处填第三行包含位置，只有B\n选项符合。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考guangdong行测第46题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q046.png"
+  }
+]

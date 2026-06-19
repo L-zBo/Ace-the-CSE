@@ -1,0 +1,529 @@
+[
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "扶贫干部某日需要走访村内 6 个贫困户甲、乙、丙、丁、戊和己。已知甲和乙的走访次序要相邻，丙要在丁 之前走访，戊要在丙之前走访，己只能在第一个或最后一个走访。问走访顺序有多少种不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "16"
+      },
+      {
+        "label": "C",
+        "content": "48"
+      },
+      {
+        "label": "D",
+        "content": "32"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题干“甲和乙的走访次序要相邻”，即将甲、乙捆绑，甲、乙排序有\n种情况。根据“丙要在丁之\n前走访，戊要在丙之前走访”，即此三人只能按照戊、丙、丁顺序排列，故考虑将捆绑后的甲、乙和己插入到\n戊、丙、丁形成的 a、b、c、d 四个空位当中。如图：\n\n将捆绑后的甲、乙随机放入剩余的 4 个空位当中，即 4 种可能；最后再将己放入第一个或最后一个位置，即 2\n\n种可能。所以总情况数为\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第61题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "高架桥 12：00～14：00 每分钟车流量比 9：00～11：00 少 20%，9：00～11：00、12：00～14：00、17：00～ 19：00 三个时间段的平均每分钟车流量比 9：00～11：00 多 10%。问 17：00～19：00 每分钟的车流量比 9：00～ 11：00 多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "40%"
+      },
+      {
+        "label": "B",
+        "content": "50%"
+      },
+      {
+        "label": "C",
+        "content": "20%"
+      },
+      {
+        "label": "D",
+        "content": "30%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，假设 9：00～11：00 每分钟车流量为 10，则 12：00～14：00 每分钟车流量为\n\n种情况。\n\n，9：00～11：00、12：00～14：00、17：00～19：00 三个时间段的平均每分钟车流量为\n\n，则 17：00～19：00 每分钟车流量为\n\n，\n\n，则 17：00～\n\n19：00 每分钟的车流量比 9：00～11：00 多 。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第62题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "某种糖果的进价为 12 元/千克，现购进这种糖果若干千克，每天销售 10 千克，且从第二天起每天都比前一 天降价 2 元/千克。已知以 6 元/千克的价格销售的那天正好卖完最后 10 千克，且总销售额是总进货成本的 2 倍。 问总共进了多少千克这种糖果？",
+    "options": [
+      {
+        "label": "A",
+        "content": "180"
+      },
+      {
+        "label": "B",
+        "content": "190"
+      },
+      {
+        "label": "C",
+        "content": "160"
+      },
+      {
+        "label": "D",
+        "content": "170"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题干“总销售额是总进货成本的 2 倍”，即平均每千克糖果售价为\n\n元。因为从第二天起每天都\n\n比前一天降价 2 元/千克，即判定糖果价格为公差为 的等差数列，故平均价格\n\n“\n\n”，代入\n\n，解得\n\n天。因为每天卖 10 千克，故总量\n\n，即\n\n，解得第一天售价为 42 元。根据等差数列第 n 项公式\n\n千克。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第63题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "环保局某科室需要对四种水样进行检测，四种水样依次有 5、3、2、4 份。检测设备完成四种水样每一份的 检测时间依次为 8 分钟、4 分钟、6 分钟、7 分钟。已知该科室本日最多可使用检测设备 38 分钟，如今天之内要 完成尽可能多数量样本的检测，问有多少种不同的检测组合方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "20"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题干“今天之内要完成尽可能多数量样本的检测”，即先从每一份花费时间少的水样开始检测，这样可\n以保证在 38 分钟内完成的数量最多。如下表所示：\n\n故按照第二种、第三种、第四种、第一种顺序检测，凑够 38 分钟。\n\n- 12 -\n\n\f检测第二种水需\n\n分钟，检测第三种水需\n\n分钟，再从第四种水的四份中随机选 2 份，所需时间\n\n为\n即考虑组合情况数（不需考虑顺序），故第二种、第三种水全选，均为 1 种情况；第四种水 4 份中随机选 2 份\n\n分钟，刚好凑够 38 分钟，且保证了检测数量最多。因题干问“问有多少种不同的检测组合方式”，\n\n种组合方式，所以总组合数\n\n有\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第64题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "一条圆形跑道长 500 米，甲、乙两人从不同起点同时出发，均沿顺时针方向匀速跑步。已知甲跑了 600 米后 第一次追上乙，此后甲加速 20%继续前进，又跑了 1200 米后第二次追上乙。问甲出发后多少米第一次到达乙的 出发点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "180"
+      },
+      {
+        "label": "B",
+        "content": "150"
+      },
+      {
+        "label": "C",
+        "content": "120"
+      },
+      {
+        "label": "D",
+        "content": "100"
+      }
+    ],
+    "answer": "A",
+    "explanation": "条件和问题均只给出了距离，未给出速度和时间的具体值，考虑赋值。赋值甲速度为 100 米/分，第一次追\n\n种。\n\n及，甲跑了 600 米，用时为 6 分；第二次追及，甲加速 ，速度为 120 米/分，又跑了 1200 米，用时为 10\n分。\n\n根据行程问题追及公式\n\n，从第一次追及开始，到第二次追及时，两人的路程差为 1 圈，即\n\n，解得乙速度\n\n米/分。\n\n再分析第一次追及过程，甲比乙多走的距离即为甲出发点到乙出发点距离，\n米。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第65题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "将一个圆盘形零件匀速向下浸入水中。问以下哪个坐标图能准确反映浸入深度 AO 及圆盘与水面的接触部位 长度 CD 之间的关系？",
+    "options": [
+      {
+        "label": "A",
+        "content": "O 并非线性关系，排除"
+      },
+      {
+        "label": "B",
+        "content": "OD 中，\n\n，\n\n，\n\n，\n\n，\n\n，\n\n，可知 CD 与 AO 并非线性关系，排除"
+      },
+      {
+        "label": "C",
+        "content": "D 与 AO 并非线性关系，排除"
+      },
+      {
+        "label": "D",
+        "content": "中，\n\n，\n\n，\n\n，\n\n，\n\n，\n\n，可知 CD 与 AO 并非线性关系，排除"
+      }
+    ],
+    "answer": "A",
+    "explanation": "如下图所示，假设圆盘形零件的圆心为 B，半径为 10，浸水速度为 1。在开始浸入到浸入半个圆盘过程中，\n\n假设浸入时间为 ，\n\n，则浸入深度\n\n，\n\n，在直角三角形 BOD 中，\n\n，\n\n，\n\n，\n\n，\n\n，\n\n，可知 CD 与 AO 并非线性关系，排除 C 项与 D 项。\n\n当\n\n当\n\n时，\n\n时，\n\n；当\n\n时，\n\n；当\n\n时，\n\n；\n\n；当\n\n时，\n\n······\n\n观察可得随着 越来越大， 的数值越来越小，根号下数值越来越小，且下降速度逐渐变缓。即随着 AO 长度变\n大，CD 长度变大的速度逐渐变缓，排除 B 项。\n\n时，CD 取得最大值为\n\n当\n部分对称。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第66题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "丙地为甲、乙两地之间高速公路上的一个测速点，其与甲地之间的距离是与乙地之间距离的一半。A 两车分别从甲地和乙地同时出发匀速相向而行，第一次迎面相遇的位置距离丙地 500 米。两车到达对方出发地后 立刻原路返回，第二次两车相遇也为迎面相遇，问第二次相遇的位置一定：",
+    "options": [
+      {
+        "label": "A",
+        "content": "距离甲地1500 米"
+      },
+      {
+        "label": "B",
+        "content": "距离乙地1500 米"
+      },
+      {
+        "label": "C",
+        "content": "距离丙地1500 米"
+      },
+      {
+        "label": "D",
+        "content": "距离乙、丙中点1500 米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一次相遇地点距离丙地 500 米分为两种情况，分别为相遇点在甲丙之间和在乙丙之间。如果相遇点在甲\n丙之间，说明此时 B 车路程超过 A 车的 2 倍，也就意味着速度超过 2 倍，此时第二次相遇应为追上相遇，与题\n目中第二次两车相遇也为迎面相遇矛盾，所以第一次相遇点一定在乙丙之间。\n\n，为圆盘的直径。当 大于 10 时，CD 长度逐渐变小，图形与前半\n\n设甲丙为 米，则乙丙为 米、甲乙为 米，第一次相遇时 A 车路程为\n\n米。从出发到第一次相遇，两车\n\n路程和为 米；从出发到第二次相遇，两车路程和为 米。速度和不变，两个过程的路程和之比为\n\n，可知\n\n两个过程的时间之比也为\n\n。对 A 车而言，速度不变，时间之比为\n\n，可推出两个过程中 A 车的路程之比\n\n，即第二次相遇时 A 车路程为\n\n也为\n了 1500 米，因此，第二次相遇的位置距离乙地 1500 米。\n故正确答案为 B。\n\n米。综上可知，A 车从甲地到达乙地之后返回又走\n\n- 13 -",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第67题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "某个项目由甲、乙两人共同投资，约定总利润 10 万元以内的部分甲得 80%，10 万元～20 万元的部分甲得 60%， 20 万元以上的部分乙得 60%。最终乙分得的利润是甲的 1.2 倍。问如果总利润减半，甲分得的利润比乙：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少1 万元"
+      },
+      {
+        "label": "B",
+        "content": "多1 万元"
+      },
+      {
+        "label": "C",
+        "content": "少2 万元"
+      },
+      {
+        "label": "D",
+        "content": "多2 万元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设总利润为（\n\n）万元，则甲获得利润为（\n\n）万元，乙获得利润为\n\n（\n\n）万元，根据题意，（\n\n，解得\n\n。\n\n）\n\n如果总利润减半，则总利润变为\n\n万元，此时甲获得利润\n\n万元，乙获得利润\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第68题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "甲、乙两条生产线生产 A 和 B 两种产品。其中甲生产线生产 A B 产品的效率分别是乙生产线的 2 倍和 3 倍。现有 2 种产品各 X 件的生产任务，企业安排甲和乙生产线合作尽快完成任务，最终甲总共生产了 1.5X 件产 品。问乙在单位时间内生产 A 的件数是生产 B 件数的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3/4"
+      },
+      {
+        "label": "B",
+        "content": "3/5"
+      },
+      {
+        "label": "C",
+        "content": "4/3"
+      },
+      {
+        "label": "D",
+        "content": "5/3"
+      }
+    ],
+    "answer": "A",
+    "explanation": "如下表所示，假设乙生产线生产 A 产品的效率为 y，生产 B 产品的效率为 1，则甲生产线生产 A 产品的效率\n为 2y，生产 B 产品的效率为 3。设两种零件的任务总量 X 为 30 件。\n\n万元,甲分得的利润比乙多 1 万元。\n\n由于甲生产线生产 B 产品效率相对较大，要想二者合作时间短，则让甲生产线生产 B 产品，乙生产线生产 A 产\n品。\n\n甲生产线完成 B 产品用时为\n\n，此时乙生产线完成了 A 产品 件。剩余的\n\n件由甲、乙生产线\n\n合作完成，需用时\n\n。甲生产线完成 A 产品\n\n件，解得\n\n，\n\n，即乙在单位时间内生产 A 的件数是生产 B 件数的 倍。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第69题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "销售员小刘为客户准备了 A、B、C 三个方案。已知客户接受方案 A 的概率为 40%。如果接受方案 A，则接受 方案 B 的概率为 60%，反之为 30%。客户如果 A 或 B 方案都不接受，则接受 C 方案的概率为 90%，反之为 10%。问 将 3 个方案按照客户接受概率从高到低排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "A＞B＞C"
+      },
+      {
+        "label": "B",
+        "content": "A＞C＞B"
+      },
+      {
+        "label": "C",
+        "content": "B＞C＞A"
+      },
+      {
+        "label": "D",
+        "content": "C＞B＞A"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 方案接受概率为 。\nB 方案接受概率分为两种：\n\nC 方案的接受概率分为两种：\n\n，则接受 B 方案的概率为\n\n；\n\n。所以三者从高到低排列为：\n\n。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第70题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "某种产品每箱 48 个。小李制作这种产品，第 1 天制作了 1 个，以后每天都比前一天多制作 1 个。X 天后总",
+    "options": [
+      {
+        "label": "D",
+        "content": "多 2 万元"
+      },
+      {
+        "label": "C",
+        "content": "少 2 万元 D、C＞B＞A"
+      },
+      {
+        "label": "B",
+        "content": "A＞C＞B C、B＞C＞A C、4/3 D、5/3 B、3/5 - 8 - B、5 C、不到 20 D、在 20～40 之间 共制作了整数箱产品。问 X 的最小值在以下哪个范围内？"
+      },
+      {
+        "label": "A",
+        "content": "在 41～60 之间 B、超过 60"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第 1 天制作了 1 个，以后每天都比前一天多制作 1 个，所以每天制作的产品数量为公差为 1 的等差数列，\n\n，则 C 方案的接受概率为\n\n产品总数为\n\n。设总共制作了 N 箱，则\n\n，化简得\n\n。\n\n分析该式可知，\n\n能被 96 整除且\n\n和 必然一奇一偶，而 96 的大于 1 的奇数因子只有 3，故将 96 因\n\n式分解为\n\n，故\n\n和 其中必有一个能被 32 整除、另一个能被 3 整除。（详见备注）\n\n要让 最小，不妨令\n\n，此时\n\n，两个倍数均满足，代入\n\n解得\n\n，不违反题\n\n意，故\n故正确答案为 D。\n\n。\n\n备注：①如果将 因式分解为\n\n，\n\n之类的情况，会造成 和\n\n都是偶数，违反题意。故 只\n\n能因式分解为\n数，会造成 X 的最小值等于 63，比解析中讨论的 32 更大，违反题意。\n\n，即一个能被 32 整除，另一个能被 3 整除。②若令\n\n的倍数，则\n\n需要是 32 的倍",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第71题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "某单位从理工大学、政法大学和财经大学总计招聘应届毕业生三百多人。其中从理工大学招聘人数是政法大 学和财经大学之和的 80%，从政法大学招聘的人数比财经大学多 60%。问该单位至少再多招聘多少人，就能将从 这三所大学招聘的应届生平均分配到 7 个部门？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据条件“理工大学招聘人数是政法大学和财经大学之和的 ”，则\n\n；“政法\n\n大学招聘的人数比财经大学多 ”，则\n\n。设政法与财经大学的总招聘人数为 ，则三所大\n\n学的总招聘人数为\n\n。根据“总计招聘应届毕业生三百多人”，则 只能取值为 3，此时总计\n\n招聘了\n若想将招聘的应届生平均分配到 7 个部门，大于 351 且能够被 7 整除的数最小为 357，则还需要至少招聘\n\n人。\n\n人。\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第72题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "从一个装有水的水池中向外排水，规定每周二、四、六每天排出剩余水量的 1/3，其余日期每天排出剩余水 量的 1/2。如此连续操作 6 天后，水池中剩余相当于总容量 1/72 的水。问最开始时水池中的水量最多相当于总 容量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/4"
+      },
+      {
+        "label": "B",
+        "content": "3/8"
+      },
+      {
+        "label": "C",
+        "content": "1/2"
+      },
+      {
+        "label": "D",
+        "content": "5/8"
+      }
+    ],
+    "answer": "C",
+    "explanation": "若想开始时的水量占比尽可能大，则最开始时的水量应尽可能多，由于最后剩余水量的占比一定，则每天\n\n- 14 -\n\n\f排出的水要尽可能多。\n\n根据题意，每周二、四、六排水后剩余水量为前一天的\n\n；其余日期（周日、周一、周三、周五）每\n\n天剩余水量为前一天的\n\n。若要每日排出的水尽量多，则其余日期应尽量多。假设从周日开始计算，\n\n连续六天后，剩余水量为开始水量的：\n\n。则最开始水池中的数量相当于总容量的\n\n故正确答案为 C。\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第73题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "部队前哨站的雷达监测范围为 100 千米。某日前哨站侦测到正东偏北 30°100 千米处，一架可疑无人机正匀 速向正西方向飞行。前哨站通知正南方向 150 千米处的部队立即向正北方向发射无人机拦截，匀速飞行一段时间 后，正好在某点与可疑无人机相遇。问我方无人机速度是可疑无人机的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得我方无人机与可疑无人机运动轨迹如上图所示，二者最终在 C 点相遇，\n\n。\n\n已知\n\n千米，\n\n，则在直角三角形\n\n中，\n\n，\n\n千米，\n\n千米，则\n相同时间，我方无人机从 B 点飞行到 C 点，可疑无人机从 A 点飞行到 C 点，速度之比等于路程之比，\n\n千米，又已知\n\n千米。\n\n故正确答案为 C。\n\n，则我方无人机速度是可疑无人机的\n\n倍。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第74题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2020_fushengjia/q074.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2020-fushengjia-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2020,
+    "content": "一个无盖长方体饮料盒如下图所示，其底面为正方形，高为 23 厘米。若插入一根足够细的不可弯折的吸管 与底部接触，已知插入饮料盒内的吸管长度最大为 27 厘米，问饮料盒底面边长为多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设底面边长为 。要使插入的吸管最长，则需吸管沿着长方体对角线按如下图所示插入。\n\n和\n\n均为直角三角形，且\n\n和\n\n分别是直角，则有\n\n,\n\n，联立\n\n两个式子得：\n\n，解得\n\n。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年国考行测（副省级）第75题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2020_fushengjia/q075.png"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "national-xingce-shuliang-2017-dishi-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "为维护办公环境，某办公室四人在工作日每天轮流打扫卫生，每周一打扫卫生的人给植物浇水。7 月 5 日周 五轮到小玲打扫卫生，下一次小玲给植物浇水是哪天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7 月15 日"
+      },
+      {
+        "label": "B",
+        "content": "7 月22 日"
+      },
+      {
+        "label": "C",
+        "content": "7 月29 日"
+      },
+      {
+        "label": "D",
+        "content": "8 月5 日"
+      }
+    ],
+    "answer": "C",
+    "explanation": "下一次小玲给植物浇水即为周一打扫卫生。办公室四人在工作日每天轮流打扫卫生，7 月 5 日周五小玲打扫\n卫生，列表可得（打√号表示为小玲打扫卫生）：\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第61题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "某人出生于 20 世纪 70 年代，某年他发现从当年起连续 10 年自己的年龄均与当年年份数字之和相等（出生 当年算 0 岁）。问他在以下哪一年时，年龄为 9 的整数倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2006 年"
+      },
+      {
+        "label": "B",
+        "content": "2007 年"
+      },
+      {
+        "label": "C",
+        "content": "2008 年"
+      },
+      {
+        "label": "D",
+        "content": "2009 年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方法一：设出生年份为\n\n年。若当年为\n\n年，根据连续 10 年自己的年龄均与当年年份数字之\n\n和相等，可得：\n\n可得：\n2007 年为 36 岁，是 9 的整数倍。\n\n，解得\n\n，不满足条件；若当年为\n\n年，\n\n，解得\n\n，即出生于 1971 年，代入 2006 年为 35 岁，\n\n方法二：1990 年，数字之和为\n\n岁，若满足年龄等于当年年份数字之和，则出生年份\n\n，满足出生于 20 世纪 70 年代，且从 1990 年开始连续十年都满足要求。所以出生年份为 1971\n\n年，代入 2006 年为 35 岁，2007 年为 36 岁，是 9 的整数倍。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第62题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "某人租下一店面准备卖服装，房租每月 1 万元，重新装修花费 10 万元。从租下店面到开始营业花费 3 个月 时间。开始营业后第一个月，扣除所有费用后的纯利润为 3 万元。如每月纯利润都比上月增加 2000 元而成本不 变，问该店在租下店面后第几个月内收回投资？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "将“全球变暖”视为一个历史问题显然是不妥的"
+      },
+      {
+        "label": "D",
+        "content": "积累丰富准确的地质材料形成证据链很难实现 B、制度建设是保证专业评估合理性的基础 D、就业率不是评价专业好坏的唯一标准 B、金融服务对青年创业者支持力度不足 D、青年创业的领域集中在某些固定行业 B、7 月 22 日"
+      },
+      {
+        "label": "C",
+        "content": "7 月 29 日 D、8 月 5 日 C、2008 年 D、2009 年 B、2007 年 D、10 B、8 C、9 。 - 6 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由题意可得租下店面前 3 个月成本\n\n万元，租下店面第 4 个月开始营业，每个月获得纯利润\n\n情况构成首项为 3 万元，公差为 0.2 万元的等差数列：3、3.2、3.4、3.6，可得\n\n即收回投资，此时共\n故正确答案为 A。\n\n个月。\n\n，\n\n- 9 -",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第63题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "某次知识竞赛试卷包括 3 道每题 10 分的甲类题，2 道每题 20 分的乙类题以及 1 道 30 分的丙类题。参赛者 赵某随机选择其中的部分试题作答并全部答对，其最终得分为 70 分。问赵某未选择丙类题的概率为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "最终得分为 70 分，有以下三类情况：\n\n由上表可知，总情况数是：\n故正确答案为 D。\n\n种，未选择丙类题的情况数是 1 种，故赵某未选择丙类题的概率为 。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第64题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2017_dishi/q064.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "某抗洪指挥部的所有人员中，有 2/3 的人在前线指挥抢险。由于汛情紧急，又增派 6 人前往，此时在前线指 挥抢险的人数占总人数的 75%。如该抗洪指挥部需要保留至少 10%的人员在应急指挥中心，那么最多还能再增派 多少人去前线？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "9"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "11"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设总人数为 人，则最初前线人员 人，增派 6 人去前线后，可得\n\n，解得\n\n人，总人数\n\n人，前线人数为\n\n人。至少保留 的人在应急指挥中心，则需保留人数\n\n人，\n\n即 人，则还能再增派\n故正确答案为 C。\n\n人。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第65题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "小张需要在 5 个长度分别为 15 秒、53 秒、22 秒、47 秒和 23 秒的视频片段中选取若干个，合成为一个长度 在 80～90 秒之间的宣传视频。如果每个片段均需完整使用且最多使用一次，并且片段间没有空闲时段，问他按 照要求可能做出多少个不同的视频？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "18"
+      }
+    ],
+    "answer": "A",
+    "explanation": "需拼成时间为 80-90 秒之间的视频，则总时间\n取一、二、四、五个视频时，均不满足时间要求；\n\n。分类讨论可知：\n\n只取三个视频时，47 秒、23 秒、15 秒可以拼出 85 秒的视频，情况数\n\n；\n\n47 秒、22 秒、15 秒可以拼出 84 秒的视频，情况数\n故正确答案为 A。\n易错点：我们说 A 和 B 之间，一般是不包含 A、B 本身的。故 53 秒、22 秒、15 秒拼成的总时间为 90 秒，不满足\n80-90 秒之间的要求。\n\n。合计有\n\n种。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第66题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "一块种植花卉的矩形土地如图所示，AD 边长是 AB 的 2 倍，E 是 CD 的中点，甲、乙、丙、丁、戊区域分别种 植白花、红花、黄花、紫花、白花。问种植白花的面积占矩形土地面积的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设\n\n，\n\n。由题意可得，三角形戊的面积\n\n；由 AB 和 DE 平行得三角形甲和丙为相\n\n似三角形，已知\n\n，所以三角形甲丙的高之比也为 ，已知\n\n，故三角形甲的高为\n\n，\n\n三角形甲的面积\n\n；因为甲和戊种植白花，所以白花面积共\n\n，占矩形区域总面积的\n\n。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第67题",
+    "level": "dishi",
+    "questionImage": "/img/questions/national_2017_dishi/q067.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "某商铺甲乙两组员工利用包装礼品的边角料制作一批花朵装饰门店。甲组单独制作需要 10 小时，乙组单独 制作需要 15 小时，现两组一起做，期间乙组休息了 1 小时 40 分，完成时甲组比乙组多做 300 朵。问这批花有多 少朵？",
+    "options": [
+      {
+        "label": "A",
+        "content": "600"
+      },
+      {
+        "label": "B",
+        "content": "900"
+      },
+      {
+        "label": "C",
+        "content": "1350"
+      },
+      {
+        "label": "D",
+        "content": "1500"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值花的总量为 份，则甲的效率为 份，乙的效率为 份。乙组休息 1 小时 40 分钟 小时，相当于甲先\n\n单独干了 1 小时 40 分钟 小时，完成的工程量为\n\n，剩余工程量甲乙合作需要\n\n乙多做\n故正确答案为 B。\n\n小时，则甲总共完成的工程量为\n\n份，乙完成的工程量为 10 份，甲实际比\n\n，\n\n，则这批花总共有\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第68题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "一正三角形小路如右图所示，甲乙两人从 A 点同时出发，朝不同方向沿小路散步，已知甲的速度是乙的 2 倍。 问以下哪个坐标图能准确描述两人之间的直线距离与时间的关系（横轴为时间，纵轴为直线距离）？",
+    "options": [
+      {
+        "label": "A",
+        "content": "500"
+      },
+      {
+        "label": "B",
+        "content": "600"
+      },
+      {
+        "label": "C",
+        "content": "300"
+      },
+      {
+        "label": "D",
+        "content": "400"
+      }
+    ],
+    "answer": "D",
+    "explanation": "如图所示，当甲在 AB 段运动时，甲行驶的路程是乙的两倍，又因题目中三角形小路是正三角形，则\n\n度，恰好满足甲、乙所在位置与 A 点构成直角三角形，因\n\n，甲乙之间距离为\n\n。\n\n为定值，不随时间而变化，故甲乙之间距离与时间呈现线性关系，则当甲在 AB 段\n分析距离的算式可知：\n行驶时，甲乙距离线性增加，直至最远；同理，当甲在 BC 段行驶时，甲乙距离线性减少，直至为 0。因此，图\n\n- 10 -\n\n\f形应从 0 开始直线上升，再直线下降至 0。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第69题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-shuliang-2017-dishi-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2017,
+    "content": "某次军事演习中，一架无人机停在空中对三个地面目标点进行侦察。已知三个目标点在地面上的连线为直角 三角形，两个点之间的最远距离为 600 米。问无人机与三个点同时保持 500 米距离时，其飞行高度为多少米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "500"
+      },
+      {
+        "label": "B",
+        "content": "600"
+      },
+      {
+        "label": "C",
+        "content": "300"
+      },
+      {
+        "label": "D",
+        "content": "400 四、判断推理，共 40 题，本部分包括图形推理、定义判断、类比推理、逻辑判断。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "因飞机到三个目标点构成的平面的距离为定值，又因飞机与三个点保持的距离相同，则飞机在该平面的投影点与\n三个目标点的距离相等，如图所示，飞机在该平面的投影为 O 点，A、B、C 分别表示三个目标点，则以 O 点为圆\n\n心，AB（即相距最远的点）为直径画圆，其中 C 点在圆弧上。因为\n\n，所以\n\n，而飞机到 B 点的\n\n米。\n\n距离为 500，故根据勾股定理，飞机与地面相距的距离为\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2017年国考行测（地市级）第70题",
+    "level": "dishi"
+  }
+]

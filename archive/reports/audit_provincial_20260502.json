@@ -1,0 +1,4636 @@
+{
+  "generatedAt": "2026-05-02T05:48:31.256705Z",
+  "source": "provincial",
+  "filters": {
+    "year": null
+  },
+  "summary": {
+    "examCount": 6,
+    "issueCount": 18,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "provincial_2020_unknown",
+      "source": "provincial",
+      "year": "2020",
+      "level": "unknown",
+      "actualTotal": 4055,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 747,
+        "panduan": 1179,
+        "shuliang": 456,
+        "yanyu": 1099,
+        "ziliao": 574
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：provincial/2020/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            268
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "provincial-anhui-xingce-changshi-2020-049",
+              "number": 49,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-changshi-2020-077",
+              "number": 77,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-guangdong-xingce-changshi-2020-083",
+              "number": 83,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-guizhou-xingce-changshi-2020-014",
+              "number": 14,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-changshi-2020-091",
+              "number": 91,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-changshi-2020-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2020-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2020-088",
+              "number": 88,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2020-093",
+              "number": 93,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2020-066",
+              "number": 66,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2020-090",
+              "number": 90,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2020-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangxi-xingce-panduan-2020-060",
+              "number": 60,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guizhou-xingce-panduan-2020-070",
+              "number": 70,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2020-080",
+              "number": 80,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2020-082",
+              "number": 82,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2020-104",
+              "number": 104,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hubei-xingce-panduan-2020-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hubei-xingce-panduan-2020-085",
+              "number": 85,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-panduan-2020-085",
+              "number": 85,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-panduan-2020-086",
+              "number": 86,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jiangsu-xingce-panduan-2020-087",
+              "number": 87,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2020-070",
+              "number": 70,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-liaoning-xingce-panduan-2020-072",
+              "number": 72,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-liaoning-xingce-panduan-2020-076",
+              "number": 76,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-liaoning-xingce-panduan-2020-085",
+              "number": 85,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2020-079",
+              "number": 79,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2020-089",
+              "number": 89,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-045",
+              "number": 45,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-046",
+              "number": 46,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-047",
+              "number": 47,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-048",
+              "number": 48,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-049",
+              "number": 49,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-050",
+              "number": 50,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-023",
+              "number": 23,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-024",
+              "number": 24,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2020-025",
+              "number": 25,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-panduan-2020-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-panduan-2020-056",
+              "number": 56,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2020-101",
+              "number": 101,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-yunnan-xingce-panduan-2020-073",
+              "number": 73,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2020-032",
+              "number": 32,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-anhui-xingce-shuliang-2020-005",
+              "number": 5,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-shuliang-2020-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-shuliang-2020-064",
+              "number": 64,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-shuliang-2020-059",
+              "number": 59,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-shuliang-2020-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-shuliang-2020-041",
+              "number": 41,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-guangdong-xingce-shuliang-2020-026",
+              "number": 26,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-guangxi-xingce-shuliang-2020-047",
+              "number": 47,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangxi-xingce-shuliang-2020-053",
+              "number": 53,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-shuliang-2020-057",
+              "number": 57,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-shuliang-2020-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hainan-xingce-shuliang-2020-044",
+              "number": 44,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-shuliang-2020-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2020-065",
+              "number": 65,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2020-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2020-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2020-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-shuliang-2020-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-shuliang-2020-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2020-047",
+              "number": 47,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jiangxi-xingce-shuliang-2020-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jilin-xingce-shuliang-2020-055",
+              "number": 55,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-shuliang-2020-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-shuliang-2020-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-shuliang-2020-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-shuliang-2020-066",
+              "number": 66,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2020-043",
+              "number": 43,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanxi-xingce-shuliang-2020-048",
+              "number": 48,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanxi-xingce-shuliang-2020-051",
+              "number": 51,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2020-004",
+              "number": 4,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2020-008",
+              "number": 8,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2020-009",
+              "number": 9,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2020-045",
+              "number": 45,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2020-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2020-070",
+              "number": 70,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-yunnan-xingce-shuliang-2020-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-yunnan-xingce-shuliang-2020-066",
+              "number": 66,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2020-032",
+              "number": 32,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2020-041",
+              "number": 41,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2020-056",
+              "number": 56,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2020-268",
+              "number": 268,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2020-102",
+              "number": 102,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-beijing-xingce-ziliao-2020-002",
+              "number": 2,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-beijing-xingce-ziliao-2020-032",
+              "number": 32,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2020-107",
+              "number": 107,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-ziliao-2020-002",
+              "number": 2,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2020-093",
+              "number": 93,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guizhou-xingce-ziliao-2020-107",
+              "number": 107,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hebei-xingce-ziliao-2020-268",
+              "number": 268,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hebei-xingce-ziliao-2020-116",
+              "number": 116,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2020-116",
+              "number": 116,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2020-123",
+              "number": 123,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2020-124",
+              "number": 124,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2020-117",
+              "number": 117,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2020-268",
+              "number": 268,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2020-006",
+              "number": 6,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2020-023",
+              "number": 23,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2020-000",
+              "number": 0,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2020-009",
+              "number": 9,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2020-112",
+              "number": 112,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-neimenggu-xingce-ziliao-2020-106",
+              "number": 106,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-ziliao-2020-107",
+              "number": 107,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2020-115",
+              "number": 115,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-qinghai-xingce-ziliao-2020-112",
+              "number": 112,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2020-077",
+              "number": 77,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2020-037",
+              "number": 37,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2020-084",
+              "number": 84,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2020-228",
+              "number": 228,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2020-007",
+              "number": 7,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-ziliao-2020-009",
+              "number": 9,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2020-003",
+              "number": 3,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2020-011",
+              "number": 11,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-yunnan-xingce-ziliao-2020-110",
+              "number": 110,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2020-089",
+              "number": 89,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2020-094",
+              "number": 94,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "provincial_2021_unknown",
+      "source": "provincial",
+      "year": "2021",
+      "level": "unknown",
+      "actualTotal": 2037,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 387,
+        "panduan": 593,
+        "shuliang": 194,
+        "yanyu": 500,
+        "ziliao": 363
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：provincial/2021/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2021-006",
+              "number": 6,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2021-012",
+              "number": 12,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2021-019",
+              "number": 19,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-005",
+              "number": 5,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-014",
+              "number": 14,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-026",
+              "number": 26,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-035",
+              "number": 35,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-036",
+              "number": 36,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-077",
+              "number": 77,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-080",
+              "number": 80,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-083",
+              "number": 83,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2021-087",
+              "number": 87,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2021-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2021-007",
+              "number": 7,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2021-010",
+              "number": 10,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2021-012",
+              "number": 12,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2021-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2021-077",
+              "number": 77,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2021-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2021-051",
+              "number": 51,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2021-053",
+              "number": 53,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2021-074",
+              "number": 74,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2021-082",
+              "number": 82,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2021-084",
+              "number": 84,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2021-074",
+              "number": 74,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2021-082",
+              "number": 82,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2021-017",
+              "number": 17,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2021-020",
+              "number": 20,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-panduan-2021-108",
+              "number": 108,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hunan-xingce-panduan-2021-090",
+              "number": 90,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hunan-xingce-panduan-2021-092",
+              "number": 92,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-panduan-2021-057",
+              "number": 57,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-029",
+              "number": 29,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-034",
+              "number": 34,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-053",
+              "number": 53,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-055",
+              "number": 55,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-056",
+              "number": 56,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-057",
+              "number": 57,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-058",
+              "number": 58,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-059",
+              "number": 59,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-panduan-2021-089",
+              "number": 89,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2021-077",
+              "number": 77,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2021-087",
+              "number": 87,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2021-095",
+              "number": 95,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2021-096",
+              "number": 96,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2021-097",
+              "number": 97,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2021-098",
+              "number": 98,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2021-100",
+              "number": 100,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hainan-xingce-shuliang-2021-056",
+              "number": 56,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2021-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-shuliang-2021-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2021-038",
+              "number": 38,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2021-039",
+              "number": 39,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2021-040",
+              "number": 40,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2021-041",
+              "number": 41,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2021-049",
+              "number": 49,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2021-053",
+              "number": 53,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2021-051",
+              "number": 51,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2021-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2021-004",
+              "number": 4,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2021-005",
+              "number": 5,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2021-010",
+              "number": 10,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2021-056",
+              "number": 56,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2021-060",
+              "number": 60,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-yanyu-2021-026",
+              "number": 26,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2021-001",
+              "number": 1,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2021-116",
+              "number": 116,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2021-114",
+              "number": 114,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2021-002",
+              "number": 2,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2021-013",
+              "number": 13,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2021-104",
+              "number": 104,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2021-001",
+              "number": 1,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2021-031",
+              "number": 31,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hunan-xingce-ziliao-2021-002",
+              "number": 2,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hunan-xingce-ziliao-2021-013",
+              "number": 13,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2021-114",
+              "number": 114,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2021-010",
+              "number": 10,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-ziliao-2021-090",
+              "number": 90,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-ziliao-2021-095",
+              "number": 95,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2021-101",
+              "number": 101,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2021-058",
+              "number": 58,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "provincial_2022_unknown",
+      "source": "provincial",
+      "year": "2022",
+      "level": "unknown",
+      "actualTotal": 1469,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 343,
+        "panduan": 395,
+        "shuliang": 179,
+        "yanyu": 351,
+        "ziliao": 201
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：provincial/2022/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "provincial-fujian-xingce-changshi-2022-049",
+              "number": 49,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-fujian-xingce-changshi-2022-053",
+              "number": 53,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-fujian-xingce-changshi-2022-057",
+              "number": 57,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-gansu-xingce-changshi-2022-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-changshi-2022-013",
+              "number": 13,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2022-005",
+              "number": 5,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2022-006",
+              "number": 6,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-neimenggu-xingce-changshi-2022-009",
+              "number": 9,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-neimenggu-xingce-changshi-2022-015",
+              "number": 15,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2022-008",
+              "number": 8,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2022-009",
+              "number": 9,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-001",
+              "number": 1,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-002",
+              "number": 2,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-003",
+              "number": 3,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-004",
+              "number": 4,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-005",
+              "number": 5,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-006",
+              "number": 6,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-007",
+              "number": 7,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-008",
+              "number": 8,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-009",
+              "number": 9,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-010",
+              "number": 10,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-011",
+              "number": 11,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-012",
+              "number": 12,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-013",
+              "number": 13,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-014",
+              "number": 14,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2022-015",
+              "number": 15,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2022-014",
+              "number": 14,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2022-018",
+              "number": 18,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2022-019",
+              "number": 19,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2022-029",
+              "number": 29,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2022-074",
+              "number": 74,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2022-082",
+              "number": 82,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2022-093",
+              "number": 93,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2022-049",
+              "number": 49,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2022-043",
+              "number": 43,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hebei-xingce-panduan-2022-110",
+              "number": 110,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-panduan-2022-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-panduan-2022-086",
+              "number": 86,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jiangsu-xingce-panduan-2022-110",
+              "number": 110,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2022-017",
+              "number": 17,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2022-080",
+              "number": 80,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-panduan-2022-060",
+              "number": 60,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-panduan-2022-075",
+              "number": 75,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-panduan-2022-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-shuliang-2022-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-beijing-xingce-shuliang-2022-080",
+              "number": 80,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hebei-xingce-shuliang-2022-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2022-056",
+              "number": 56,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2022-050",
+              "number": 50,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2022-052",
+              "number": 52,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2022-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-shuliang-2022-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-shuliang-2022-069",
+              "number": 69,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2022-044",
+              "number": 44,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-041",
+              "number": 41,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-042",
+              "number": 42,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-043",
+              "number": 43,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-045",
+              "number": 45,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-046",
+              "number": 46,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-048",
+              "number": 48,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-049",
+              "number": 49,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-050",
+              "number": 50,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-051",
+              "number": 51,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-052",
+              "number": 52,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-053",
+              "number": 53,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-054",
+              "number": 54,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2022-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-052",
+              "number": 52,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-053",
+              "number": 53,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-057",
+              "number": 57,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-059",
+              "number": 59,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-002",
+              "number": 2,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-010",
+              "number": 10,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2022-015",
+              "number": 15,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-yanyu-2022-037",
+              "number": 37,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-yanyu-2022-045",
+              "number": 45,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-yanyu-2022-009",
+              "number": 9,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-yanyu-2022-042",
+              "number": 42,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-yanyu-2022-006",
+              "number": 6,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-yanyu-2022-035",
+              "number": 35,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-yanyu-2022-052",
+              "number": 52,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-neimenggu-xingce-yanyu-2022-013",
+              "number": 13,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-yanyu-2022-006",
+              "number": 6,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-yanyu-2022-041",
+              "number": 41,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-yanyu-2022-042",
+              "number": 42,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-yanyu-2022-043",
+              "number": 43,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-yanyu-2022-044",
+              "number": 44,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-yanyu-2022-045",
+              "number": 45,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2022-100",
+              "number": 100,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2022-108",
+              "number": 108,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2022-109",
+              "number": 109,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-beijing-xingce-ziliao-2022-117",
+              "number": 117,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-beijing-xingce-ziliao-2022-000",
+              "number": 0,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-beijing-xingce-ziliao-2022-058",
+              "number": 58,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangdong-xingce-ziliao-2022-094",
+              "number": 94,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hebei-xingce-ziliao-2022-115",
+              "number": 115,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-hebei-xingce-ziliao-2022-120",
+              "number": 120,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2022-108",
+              "number": 108,
+              "optionCount": 10
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2022-116",
+              "number": 116,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2022-120",
+              "number": 120,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2022-111",
+              "number": 111,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2022-112",
+              "number": 112,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2022-114",
+              "number": 114,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2022-118",
+              "number": 118,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2022-123",
+              "number": 123,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2022-126",
+              "number": 126,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-ziliao-2022-024",
+              "number": 24,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-080",
+              "number": 80,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-081",
+              "number": 81,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-082",
+              "number": 82,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-083",
+              "number": 83,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-084",
+              "number": 84,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-085",
+              "number": 85,
+              "optionCount": 9
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2022-087",
+              "number": 87,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-ziliao-2022-086",
+              "number": 86,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-ziliao-2022-089",
+              "number": 89,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-ziliao-2022-031",
+              "number": 31,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-sichuan-xingce-ziliao-2022-012",
+              "number": 12,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2022-115",
+              "number": 115,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2022-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2022-073",
+              "number": 73,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2022-080",
+              "number": 80,
+              "optionCount": 5
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "provincial_2023_unknown",
+      "source": "provincial",
+      "year": "2023",
+      "level": "unknown",
+      "actualTotal": 3759,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 2100,
+        "panduan": 597,
+        "shuliang": 230,
+        "yanyu": 558,
+        "ziliao": 274
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：provincial/2023/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "provincial-anhui-xingce-changshi-2023-009",
+              "number": 9,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-beijing-xingce-changshi-2023-001",
+              "number": 1,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-beijing-xingce-changshi-2023-018",
+              "number": 18,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-beijing-xingce-changshi-2023-029",
+              "number": 29,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-guangxi-xingce-changshi-2023-055",
+              "number": 55,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangxi-xingce-changshi-2023-102",
+              "number": 102,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-changshi-2023-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-changshi-2023-086",
+              "number": 86,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guizhou-xingce-changshi-2023-107",
+              "number": 107,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hainan-xingce-changshi-2023-097",
+              "number": 97,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-changshi-2023-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-changshi-2023-000",
+              "number": 0,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-hebei-xingce-changshi-2023-119",
+              "number": 119,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2023-005",
+              "number": 5,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-changshi-2023-010",
+              "number": 10,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-henan-xingce-changshi-2023-117",
+              "number": 117,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-changshi-2023-062",
+              "number": 62,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-hunan-xingce-changshi-2023-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hunan-xingce-changshi-2023-112",
+              "number": 112,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangxi-xingce-changshi-2023-007",
+              "number": 7,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-changshi-2023-013",
+              "number": 13,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jilin-xingce-changshi-2023-016",
+              "number": 16,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-liaoning-xingce-changshi-2023-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-changshi-2023-106",
+              "number": 106,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-changshi-2023-119",
+              "number": 119,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-changshi-2023-011",
+              "number": 11,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-changshi-2023-017",
+              "number": 17,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-ningxia-xingce-changshi-2023-005",
+              "number": 5,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-qinghai-xingce-changshi-2023-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-changshi-2023-117",
+              "number": 117,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shaanxi-xingce-changshi-2023-096",
+              "number": 96,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2023-010",
+              "number": 10,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2023-010",
+              "number": 10,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2023-039",
+              "number": 39,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2023-049",
+              "number": 49,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2023-050",
+              "number": 50,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanghai-xingce-changshi-2023-061",
+              "number": 61,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shanxi-xingce-changshi-2023-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-changshi-2023-006",
+              "number": 6,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2023-089",
+              "number": 89,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-changshi-2023-092",
+              "number": 92,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-changshi-2023-049",
+              "number": 49,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-changshi-2023-054",
+              "number": 54,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-yunnan-xingce-changshi-2023-052",
+              "number": 52,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-yunnan-xingce-changshi-2023-097",
+              "number": 97,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2023-103",
+              "number": 103,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2023-024",
+              "number": 24,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2023-114",
+              "number": 114,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2023-062",
+              "number": 62,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2023-014",
+              "number": 14,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2023-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2023-079",
+              "number": 79,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2023-017",
+              "number": 17,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2023-022",
+              "number": 22,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-beijing-xingce-panduan-2023-093",
+              "number": 93,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2023-082",
+              "number": 82,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2023-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2023-098",
+              "number": 98,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2023-075",
+              "number": 75,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2023-078",
+              "number": 78,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2023-082",
+              "number": 82,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2023-100",
+              "number": 100,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2023-104",
+              "number": 104,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2023-079",
+              "number": 79,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2023-019",
+              "number": 19,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2023-101",
+              "number": 101,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2023-066",
+              "number": 66,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2023-070",
+              "number": 70,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2023-017",
+              "number": 17,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2023-075",
+              "number": 75,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2023-019",
+              "number": 19,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2023-085",
+              "number": 85,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2023-068",
+              "number": 68,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2023-020",
+              "number": 20,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2023-088",
+              "number": 88,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2023-092",
+              "number": 92,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-panduan-2023-097",
+              "number": 97,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-panduan-2023-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-panduan-2023-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2023-033",
+              "number": 33,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2023-007",
+              "number": 7,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2023-038",
+              "number": 38,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2023-042",
+              "number": 42,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2023-018",
+              "number": 18,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2023-022",
+              "number": 22,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2023-057",
+              "number": 57,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2023-068",
+              "number": 68,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2023-016",
+              "number": 16,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-panduan-2023-115",
+              "number": 115,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-fujian-xingce-shuliang-2023-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-fujian-xingce-shuliang-2023-068",
+              "number": 68,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-gansu-xingce-shuliang-2023-057",
+              "number": 57,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2023-064",
+              "number": 64,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2023-065",
+              "number": 65,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2023-067",
+              "number": 67,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jiangxi-xingce-shuliang-2023-080",
+              "number": 80,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jilin-xingce-shuliang-2023-054",
+              "number": 54,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jilin-xingce-shuliang-2023-059",
+              "number": 59,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-shuliang-2023-059",
+              "number": 59,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-shuliang-2023-061",
+              "number": 61,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2023-039",
+              "number": 39,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2023-046",
+              "number": 46,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2023-053",
+              "number": 53,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2023-058",
+              "number": 58,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-tianjin-xingce-shuliang-2023-009",
+              "number": 9,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2023-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2023-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2023-060",
+              "number": 60,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2023-065",
+              "number": 65,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2023-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2023-034",
+              "number": 34,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2023-011",
+              "number": 11,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-yanyu-2023-026",
+              "number": 26,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-yanyu-2023-005",
+              "number": 5,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-yanyu-2023-006",
+              "number": 6,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-yanyu-2023-048",
+              "number": 48,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-yanyu-2023-010",
+              "number": 10,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-chongqing-xingce-yanyu-2023-060",
+              "number": 60,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-yanyu-2023-008",
+              "number": 8,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2023-027",
+              "number": 27,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2023-009",
+              "number": 9,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-yanyu-2023-049",
+              "number": 49,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-yanyu-2023-041",
+              "number": 41,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-yanyu-2023-011",
+              "number": 11,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-yanyu-2023-009",
+              "number": 9,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-yanyu-2023-035",
+              "number": 35,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2023-063",
+              "number": 63,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2023-067",
+              "number": 67,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2023-071",
+              "number": 71,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2023-015",
+              "number": 15,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2023-076",
+              "number": 76,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2023-083",
+              "number": 83,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-tianjin-xingce-yanyu-2023-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-yanyu-2023-038",
+              "number": 38,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-026",
+              "number": 26,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-031",
+              "number": 31,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-010",
+              "number": 10,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-018",
+              "number": 18,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-065",
+              "number": 65,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-069",
+              "number": 69,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-073",
+              "number": 73,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-zhejiang-xingce-yanyu-2023-077",
+              "number": 77,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2023-102",
+              "number": 102,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2023-106",
+              "number": 106,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2023-025",
+              "number": 25,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-ziliao-2023-117",
+              "number": 117,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2023-110",
+              "number": 110,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2023-115",
+              "number": 115,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2023-117",
+              "number": 117,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2023-120",
+              "number": 120,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2023-125",
+              "number": 125,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2023-130",
+              "number": 130,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-120",
+              "number": 120,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-124",
+              "number": 124,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-125",
+              "number": 125,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-129",
+              "number": 129,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-130",
+              "number": 130,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-133",
+              "number": 133,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-134",
+              "number": 134,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2023-135",
+              "number": 135,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-jilin-xingce-ziliao-2023-093",
+              "number": 93,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jilin-xingce-ziliao-2023-094",
+              "number": 94,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-jilin-xingce-ziliao-2023-099",
+              "number": 99,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jilin-xingce-ziliao-2023-025",
+              "number": 25,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-neimenggu-xingce-ziliao-2023-025",
+              "number": 25,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-neimenggu-xingce-ziliao-2023-112",
+              "number": 112,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2023-116",
+              "number": 116,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2023-120",
+              "number": 120,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2023-085",
+              "number": 85,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-shenzhen-xingce-ziliao-2023-086",
+              "number": 86,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2023-115",
+              "number": 115,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2023-115",
+              "number": 115,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "provincial_2024_unknown",
+      "source": "provincial",
+      "year": "2024",
+      "level": "unknown",
+      "actualTotal": 3282,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 555,
+        "panduan": 965,
+        "shuliang": 353,
+        "yanyu": 927,
+        "ziliao": 482
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：provincial/2024/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "provincial-gansu-xingce-changshi-2024-018",
+              "number": 18,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-changshi-2024-019",
+              "number": 19,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangdong-xingce-changshi-2024-002",
+              "number": 2,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-changshi-2024-003",
+              "number": 3,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-changshi-2024-004",
+              "number": 4,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-changshi-2024-005",
+              "number": 5,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jilin-xingce-changshi-2024-001",
+              "number": 1,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-changshi-2024-014",
+              "number": 14,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-changshi-2024-015",
+              "number": 15,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-qinghai-xingce-changshi-2024-017",
+              "number": 17,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2024-016",
+              "number": 16,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanxi-xingce-changshi-2024-020",
+              "number": 20,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-changshi-2024-020",
+              "number": 20,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2024-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2024-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-panduan-2024-089",
+              "number": 89,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2024-090",
+              "number": 90,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2024-091",
+              "number": 91,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-panduan-2024-099",
+              "number": 99,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2024-090",
+              "number": 90,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-fujian-xingce-panduan-2024-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-panduan-2024-091",
+              "number": 91,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-panduan-2024-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangxi-xingce-panduan-2024-082",
+              "number": 82,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangxi-xingce-panduan-2024-083",
+              "number": 83,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-panduan-2024-079",
+              "number": 79,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hainan-xingce-panduan-2024-070",
+              "number": 70,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-panduan-2024-071",
+              "number": 71,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-panduan-2024-084",
+              "number": 84,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-panduan-2024-097",
+              "number": 97,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-panduan-2024-110",
+              "number": 110,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2024-089",
+              "number": 89,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2024-090",
+              "number": 90,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-panduan-2024-091",
+              "number": 91,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-panduan-2024-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-panduan-2024-092",
+              "number": 92,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-panduan-2024-097",
+              "number": 97,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hunan-xingce-panduan-2024-092",
+              "number": 92,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hunan-xingce-panduan-2024-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangxi-xingce-panduan-2024-102",
+              "number": 102,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangxi-xingce-panduan-2024-107",
+              "number": 107,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-panduan-2024-115",
+              "number": 115,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jilin-xingce-panduan-2024-089",
+              "number": 89,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-liaoning-xingce-panduan-2024-085",
+              "number": 85,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-panduan-2024-089",
+              "number": 89,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-panduan-2024-091",
+              "number": 91,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-panduan-2024-077",
+              "number": 77,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-panduan-2024-078",
+              "number": 78,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-panduan-2024-091",
+              "number": 91,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-panduan-2024-092",
+              "number": 92,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-panduan-2024-099",
+              "number": 99,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shaanxi-xingce-panduan-2024-085",
+              "number": 85,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-panduan-2024-080",
+              "number": 80,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanxi-xingce-panduan-2024-095",
+              "number": 95,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanxi-xingce-panduan-2024-096",
+              "number": 96,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2024-031",
+              "number": 31,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2024-032",
+              "number": 32,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-panduan-2024-034",
+              "number": 34,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-panduan-2024-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-sichuan-xingce-panduan-2024-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-panduan-2024-095",
+              "number": 95,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2024-088",
+              "number": 88,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2024-090",
+              "number": 90,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-xinjiang-xingce-panduan-2024-096",
+              "number": 96,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-yunnan-xingce-panduan-2024-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-shuliang-2024-024",
+              "number": 24,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-shuliang-2024-033",
+              "number": 33,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-chongqing-xingce-shuliang-2024-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-fujian-xingce-shuliang-2024-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-shuliang-2024-068",
+              "number": 68,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-shuliang-2024-069",
+              "number": 69,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangdong-xingce-shuliang-2024-031",
+              "number": 31,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-shuliang-2024-032",
+              "number": 32,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-guangdong-xingce-shuliang-2024-034",
+              "number": 34,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangxi-xingce-shuliang-2024-050",
+              "number": 50,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-guangxi-xingce-shuliang-2024-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-shuliang-2024-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hebei-xingce-shuliang-2024-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2024-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2024-063",
+              "number": 63,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2024-068",
+              "number": 68,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-shuliang-2024-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-shuliang-2024-037",
+              "number": 37,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-hubei-xingce-shuliang-2024-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-shuliang-2024-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2024-046",
+              "number": 46,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2024-047",
+              "number": 47,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2024-049",
+              "number": 49,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2024-050",
+              "number": 50,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-shuliang-2024-065",
+              "number": 65,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangxi-xingce-shuliang-2024-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangxi-xingce-shuliang-2024-080",
+              "number": 80,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jilin-xingce-shuliang-2024-051",
+              "number": 51,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-shuliang-2024-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-shuliang-2024-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-shuliang-2024-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-shuliang-2024-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shaanxi-xingce-shuliang-2024-097",
+              "number": 97,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2024-051",
+              "number": 51,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2024-055",
+              "number": 55,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2024-059",
+              "number": 59,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanxi-xingce-shuliang-2024-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shanxi-xingce-shuliang-2024-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2024-046",
+              "number": 46,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shenzhen-xingce-shuliang-2024-054",
+              "number": 54,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-sichuan-xingce-shuliang-2024-055",
+              "number": 55,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2024-052",
+              "number": 52,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2024-056",
+              "number": 56,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-xinjiang-xingce-shuliang-2024-060",
+              "number": 60,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2024-051",
+              "number": 51,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2024-052",
+              "number": 52,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2024-053",
+              "number": 53,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2024-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2024-056",
+              "number": 56,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-zhejiang-xingce-shuliang-2024-068",
+              "number": 68,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-yanyu-2024-052",
+              "number": 52,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-yanyu-2024-053",
+              "number": 53,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-yanyu-2024-054",
+              "number": 54,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-qinghai-xingce-yanyu-2024-041",
+              "number": 41,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-qinghai-xingce-yanyu-2024-042",
+              "number": 42,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-yanyu-2024-043",
+              "number": 43,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-yanyu-2024-051",
+              "number": 51,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-yanyu-2024-031",
+              "number": 31,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shenzhen-xingce-yanyu-2024-070",
+              "number": 70,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-tianjin-xingce-yanyu-2024-006",
+              "number": 6,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-yanyu-2024-007",
+              "number": 7,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2024-100",
+              "number": 100,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2024-102",
+              "number": 102,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2024-104",
+              "number": 104,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-anhui-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2024-106",
+              "number": 106,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2024-107",
+              "number": 107,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2024-111",
+              "number": 111,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-chongqing-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-fujian-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2024-112",
+              "number": 112,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-gansu-xingce-ziliao-2024-114",
+              "number": 114,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangdong-xingce-ziliao-2024-075",
+              "number": 75,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-guangdong-xingce-ziliao-2024-080",
+              "number": 80,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangdong-xingce-ziliao-2024-084",
+              "number": 84,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guangdong-xingce-ziliao-2024-085",
+              "number": 85,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2024-100",
+              "number": 100,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2024-108",
+              "number": 108,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guangxi-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guizhou-xingce-ziliao-2024-094",
+              "number": 94,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-ziliao-2024-099",
+              "number": 99,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-guizhou-xingce-ziliao-2024-102",
+              "number": 102,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guizhou-xingce-ziliao-2024-103",
+              "number": 103,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-guizhou-xingce-ziliao-2024-104",
+              "number": 104,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2024-100",
+              "number": 100,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2024-106",
+              "number": 106,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2024-107",
+              "number": 107,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2024-108",
+              "number": 108,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hainan-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hebei-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-hebei-xingce-ziliao-2024-123",
+              "number": 123,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-heilongjiang-xingce-ziliao-2024-115",
+              "number": 115,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-108",
+              "number": 108,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-115",
+              "number": 115,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-116",
+              "number": 116,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-117",
+              "number": 117,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-118",
+              "number": 118,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-henan-xingce-ziliao-2024-119",
+              "number": 119,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-111",
+              "number": 111,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-112",
+              "number": 112,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-121",
+              "number": 121,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-hubei-xingce-ziliao-2024-123",
+              "number": 123,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-hunan-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hunan-xingce-ziliao-2024-114",
+              "number": 114,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-hunan-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2024-125",
+              "number": 125,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2024-130",
+              "number": 130,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2024-114",
+              "number": 114,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jiangsu-xingce-ziliao-2024-115",
+              "number": 115,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2024-116",
+              "number": 116,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2024-117",
+              "number": 117,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2024-125",
+              "number": 125,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-jiangxi-xingce-ziliao-2024-128",
+              "number": 128,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-jilin-xingce-ziliao-2024-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-jilin-xingce-ziliao-2024-098",
+              "number": 98,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-liaoning-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 6
+            },
+            {
+              "id": "provincial-liaoning-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-101",
+              "number": 101,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-102",
+              "number": 102,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-103",
+              "number": 103,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-104",
+              "number": 104,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-106",
+              "number": 106,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-ningxia-xingce-ziliao-2024-115",
+              "number": 115,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-qinghai-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-shaanxi-xingce-ziliao-2024-101",
+              "number": 101,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shaanxi-xingce-ziliao-2024-102",
+              "number": 102,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shaanxi-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-shaanxi-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-shaanxi-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2024-104",
+              "number": 104,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2024-115",
+              "number": 115,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2024-119",
+              "number": 119,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shanxi-xingce-ziliao-2024-118",
+              "number": 118,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-shenzhen-xingce-ziliao-2024-003",
+              "number": 3,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shenzhen-xingce-ziliao-2024-086",
+              "number": 86,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-shenzhen-xingce-ziliao-2024-099",
+              "number": 99,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-tianjin-xingce-ziliao-2024-109",
+              "number": 109,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-tianjin-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 7
+            },
+            {
+              "id": "provincial-tianjin-xingce-ziliao-2024-111",
+              "number": 111,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-tianjin-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-tianjin-xingce-ziliao-2024-120",
+              "number": 120,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2024-111",
+              "number": 111,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-xinjiang-xingce-ziliao-2024-113",
+              "number": 113,
+              "optionCount": 1
+            },
+            {
+              "id": "provincial-yunnan-xingce-ziliao-2024-092",
+              "number": 92,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-yunnan-xingce-ziliao-2024-097",
+              "number": 97,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2024-121",
+              "number": 121,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2024-110",
+              "number": 110,
+              "optionCount": 5
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2024-104",
+              "number": 104,
+              "optionCount": 3
+            },
+            {
+              "id": "provincial-zhejiang-xingce-ziliao-2024-105",
+              "number": 105,
+              "optionCount": 5
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "provincial_2025_unknown",
+      "source": "provincial",
+      "year": "2025",
+      "level": "unknown",
+      "actualTotal": 64,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 28,
+        "panduan": 12,
+        "shuliang": 11,
+        "yanyu": 13
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：provincial/2025/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-001",
+              "number": 1,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-002",
+              "number": 2,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-003",
+              "number": 3,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-004",
+              "number": 4,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-005",
+              "number": 5,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-006",
+              "number": 6,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-007",
+              "number": 7,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-008",
+              "number": 8,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-changshi-2025-020",
+              "number": 20,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-shuliang-2025-054",
+              "number": 54,
+              "optionCount": 0
+            },
+            {
+              "id": "provincial-shandong-xingce-yanyu-2025-038",
+              "number": 38,
+              "optionCount": 2
+            },
+            {
+              "id": "provincial-shandong-xingce-yanyu-2025-040",
+              "number": 40,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    }
+  ]
+}

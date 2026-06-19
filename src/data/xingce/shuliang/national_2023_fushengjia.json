@@ -1,0 +1,530 @@
+[
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "商店销售某种商品，打八折销售时卖 2 件的利润与按定价销售时卖 1 件的利润相同，相当于降价 120 元/ 件销售时卖 3 件的利润。问该商品的定价为多少元/件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "360"
+      },
+      {
+        "label": "B",
+        "content": "450"
+      },
+      {
+        "label": "C",
+        "content": "540"
+      },
+      {
+        "label": "D",
+        "content": "720"
+      }
+    ],
+    "answer": "B",
+    "explanation": "18\n\n\f设该商品每件定价为 x 元，成本为 y 元，根据题意可得：x-y=（80%x-y）×2······①，x-y=（x-120-y）\n\n×3······②，联立①②，解得 x=450，即该商品的定价为 450 元/件。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第61题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "一项工作甲独立完成需要 3 小时，乙独立完成的用时比其与甲合作完成多 4 小时，且乙和丙合作完成需要 4 小时。问丙独立完成需要多少小时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值工作总量为 12，则甲的效率为\n\n，乙、丙合作的效率为\n\n。设乙的效率为 x，根据“乙独立\n\n完成的用时比其与甲合作完成多 4 小时”，可得：\n\n，解得：x=2，即乙的效率为 2，则丙的效率为\n\n3-2=1。因此，丙独立完成需要\n\n小时。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第62题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "14 工厂生产甲、乙两种设备，需要用到 A、B、C 三种零件。其中生产 1 台甲设备需要 5 个 A 零件和 11 个 B 零件，生产 1 台乙设备需要 4 个 B 零件和 9 个 C 零件。工厂某日生产的一批设备共用 A、B、C 三种零件不超过 200 个，其中 C 零件的用量超过 100 个。问最多可能生产了多少台甲设备？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "要让甲设备数量最多，则需要让乙设备数量最少。因为只有乙设备用到了 C 零件，根据“生产 1 台乙设备\n\n需要 4 个 B 零件和 9 个 C 零件······其中 C 零件的用量超过 100 个”，则乙设备数量最少为 101÷9=11······2，\n结合题意可知每个 C 零件均已被用于生产，则乙设备数量最少为 11+1=12 个，最少用了 12×（4+9）=156 个零\n件。结合“设备共用 A、B、C 三种零件不超过 200 个”，则生产甲设备可用的零件数量最多为 200-156=44 个，\n44÷（5+11）=2······12，即最多可能生产了 2 台甲设备。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第63题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "一个三角形公园 ABC 内的道路如下图中实线所示。已知 AE=EF=FB，AD=DC，且黑色部分为人工湖。问公园 总面积是人工湖面积的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "18"
+      }
+    ],
+    "answer": "D",
+    "explanation": "如图所示，由 AE=EF，AD=DC，则 ED 为\n\n的中位线，则\n\n，且\n\nFC=1：2，可推出\n之比等于相似比的平方，可知\n为 2，则\n\n面积\n\n，且 EO：OC=DO：FO=1：2。赋值黑色部分人工湖\n\n面积为 4。\n\n与\n\n，高相同，底边 DO：FO=1：2，则\n\n。由 AE=EF=FB，C 点向 AB 的高相同，可知\n\n，则 AE：AF=ED：\n面积为 1，根据面积\n面积\n面\n\n积\n\n，则三角形公园 ABC 面积为 3×6=18。故所求为\n\n倍。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第64题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2023_fushengjia/q064.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "某单位有甲和乙 2 个办公室，分别有职工 5 人和 4 人。每周从这 9 名职工中随机抽取 1 人下沉社区担任志 愿者（同一人有可能被连续、重复选中）。问 7 月前 2 周的志愿者均来自甲办公室的概率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 25%"
+      },
+      {
+        "label": "B",
+        "content": "25%~35%之间"
+      },
+      {
+        "label": "C",
+        "content": "35%~45%之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 45%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，7 月前 2 周的志愿者总情况数为\n\n种，7 月前 2 周的志愿者均来自甲办公室的情\n\n况数为\n\n种。因此所求概率\n\n，在 25%~35%之间。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第65题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲和乙两个实验室共同承接 10000 份样本的检验工作。甲实验室每小时可检验 200 份样本，每检验一份样 本的费用为 100 元；乙实验室每小时可检验 500 份样本，每检验一份样本的费用为 200 元。问如要求 15 小时 内检验完毕，最低总检验费用比要求 18 小时内检验完毕时高多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据甲每检验一份样本的费用比乙低，则在一定时间内要想总检验费用最低，甲尽可能多干。若要求 15\n小时内检验完毕且总检验费用最低，则甲检验 200×15=3000 份，乙检验 10000-3000=7000 份，总检验费用为\n3000×100+7000×200=300000+1400000=1700000 元=170 万元；若要求 18 小时内检验完毕且总检验费用最低，\n则甲检验 200×18=3600 份，乙检验 10000-3600=6400 份，总检验费用为 3600×100+6400×\n200=360000+1280000=1640000 元=164 万元，故题干所求为 170-164=6 万元。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第66题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "在一块正方形土地中，画一条经过某个顶点的规划线，将其分割为三角形和梯形两块土地，且梯形土地的 面积正好是三角形土地的 2 倍。问三角形和梯形土地的周长之比是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "19\n\n\f赋值正方形土地的边长为 3，根据题意，梯形土地的面积正好是三角形土地的 2 倍，则正方形土地的面积\n\n是三角形土地的 3 倍，设三角形土地 BE 边长为 x，则\n\n，代入数据得\n\n，\n\n解得 x=2，则 ED=BD-BE=3-2=1。根据勾股定理，\n\n，则三角形土地的周长\n\n，梯形土地的周长\n\n，故\n\n三角形和梯形土地的周长之比为\n\n。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第67题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2023_fushengjia/q067.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "将 5 个相邻的铺位出租给 2 家餐厅和 2 家水果店。要求租完不能有空余铺位，每家餐厅可以租用 1 个铺位， 也可以租用并打通 2 个相邻的铺位作为其营业场所，每家水果店只能租用 1 个铺位，且相同类型的两个租户之 间至少要间隔 1 个铺位。问有多少种不同的安排方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "48"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "16"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，5 个铺位出租给 2 家餐厅和 2 家水果店，且每家水果店只能租用 1 个铺位，则有 1 家餐厅租用\n2 个相邻的铺位，其余的 1 家餐厅和 2 家水果店各租用 1 个铺位。在 2 家餐厅中选 1 家租用 2 个相邻的铺位，\n\n有 种情况；因为相同类型的两个租户之间至少要间隔 1 个铺位，即相同类型的两个租户不相邻，则只能按照\n\n（水果店、餐厅、水果店、餐厅）或（餐厅、水果店、餐厅、水果店）的方式排列，有\n\n种情况，则\n\n共有\n\n种不同的安排方式。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第68题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "社区计划采购 10 份年货礼包发放给 10 户独居老人，每户发放 1 份。年货礼包有 100 元/份和 150 元/份的 两种供选择，总预算不能超过 1250 元。如采购了 150 元/份的年货礼包，则需要优先在 3 户孤寡老人中选择发 放对象。问共有多少种不同的发放方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "28"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "55"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设购买 150 元/份的年货礼包 x 份，则购买 100 元/份的年货礼包（10-x）份，故可列式：\n\n，解得：\n\n。因此年货礼包采购数量情况可分为以下 6 类：\n\n（1）150 元的 0 份，100 元的 10 份，有\n\n种发放方式；\n\n（2）150 元的 1 份，100 元的 9 份，有\n\n种不同的发放方式；\n\n（3）150 元的 2 份，100 元的 8 份，有\n\n种不同的发放方式；\n\n（4）150 元的 3 份，100 元的 7 份，有\n\n种发放方式；\n\n（5）150 元的 4 份，100 元的 6 份，有\n\n种不同的发放方式；\n\n（6）150 元的 5 份，100 元的 5 份，有\n\n种不同的发放方式。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第69题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "农科院在某村 287 名淡水鱼养殖人员中开展防病培训和育种培训。已知参加防病培训的养殖人员中，参加 育种培训的人数比未参加的多 21%；参加育种培训的养殖人员中，参加防病培训的人数比未参加的多 76 人。问 共有多少人未参加任何一项培训？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "23"
+      },
+      {
+        "label": "C",
+        "content": "25"
+      },
+      {
+        "label": "D",
+        "content": "27"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据“参加防病培训的养殖人员中，参加育种培训的人数比未参加的多 21%”，可知只参加防病培训的人\n数是 100 的倍数。由于总人数为 287 人，当只参加防病培训的人数是 200 人时，参加防病培训的共有 200×（1+21%）\n+200＞287 人，排除。则只参加防病培训的人数为 100 人，此时既参加防病培训又参加育种培训的有 100×（1+21%）\n=121 人，只参加育种培训的有 121-76=45 人。未参加培训的人数=总数-只参加防病培训的人数-只参加育种培\n训的人数-两者都参加的人数=287-100-45-121=21 人，即共有 21 人未参加任何一项培训。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第70题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "某次招标活动中，甲、乙、丙、丁、戊和己 6 家投标企业依次对自己的设计进行讲解。已知甲和乙均不能 安排在第一个或最后一个，丙只能安排在第三个或第四个，如在满足以上条件的次序中随机选择一个，则丁和 戊的讲解次序相邻的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "丙只能安排在第三个或第四个，则丙的次序安排有 种情况；甲和乙均不能安排在第一个或最后一个，则\n\n甲、乙应在第二个到第五个剩余的 3 个中安排，其次序有 种情况；剩余三人全排列，有 种情况。故总情况\n\n数为\n\n种。\n\n现要丁、戊的次序相邻，可根据丙的次序分两类讨论：\n第一类：丙安排在第三个时：\n\n当甲、乙在（二、四）时，丁、戊只能在（五、六）才能相邻，有\n\n种情况；\n\n当甲、乙在（二、五）时，丁、戊无法相邻，不符合题意；\n\n当甲、乙在（四、五）时，丁、戊只能在（一、二）才能相邻，有\n\n种情况。故共有 4+4=8 种情\n\n况。\n\n第二类：丙安排在第四个时，与安排在第三个时的情况类似，同理，也有 8 种情况。\n\n因此，满足条件的情况数共有 8+8=16 种，则所求概率\n\n。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第71题",
+    "level": "fushengjia",
+    "questionImage": "/img/questions/national_2023_fushengjia/q071.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲和乙两人 8：00 同时从 A 地出发前往 B 地，其中乙全程匀速，甲出发时的速度是乙的一半，但全程均匀 加速。已知 10：00 甲追上乙，11：00 甲到达 B 地。问乙什么时间到达 B 地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11：30"
+      },
+      {
+        "label": "B",
+        "content": "11：45"
+      },
+      {
+        "label": "C",
+        "content": "12：00"
+      },
+      {
+        "label": "D",
+        "content": "12：15"
+      }
+    ],
+    "answer": "B",
+    "explanation": "赋值出发时甲的速度为 1，乙的速度为 2。从 8：00 至 10：00，甲和乙的路程相同，即该时段甲的平均速\n\n度=乙的速度=2。根据匀加速运动的平均速度\n\n，则 10：00 时甲的速度为 2×2-1=3。因此，\n\n甲的速度每小时增加\n\n，故甲 11：00 时的速度为 3+1=4。根据甲可计算，从 A 地到 B 地的路程为\n\n，\n\n则乙全程所需时间为\n\n小时\n\n小时=3 小时 45 分钟，即乙在 11：45 到达 B 地。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第72题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "16 甲、乙二人合伙成立公司，约定每年利润的 60%留作公司发展用途，40%按二人投资比例分配。已知公司成 立第三年的利润比第二年高 300 万元，是第一年利润的 3 倍；甲第二年分配的金额是第三年的一半，且比第一 年多 20 万元。问乙的投资额占比为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40%"
+      },
+      {
+        "label": "B",
+        "content": "50%"
+      },
+      {
+        "label": "C",
+        "content": "60%"
+      },
+      {
+        "label": "D",
+        "content": "75%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设该公司第一年的利润为 x 万元，根据题意可得，第三年的利润为 3x 万元，第二年的利润为（3x-300）\n万元。已知每年二人将利润的 40%按投资比例分配，且甲第二年分配的金额是第三年的一半，设甲的投资额占\n\n比为 y，可列方程：\n\n，解得 x=200。则第一年的利润为 200 万元，第二年的\n\n利润为 3×200-300=300 万元。又因甲第二年分配的金额比第一年多 20 万元，可列方程：300×40%×y=200×\n40%×y+20，解得 y=50%，故甲的投资额占比为 50%，则乙的投资额占比为 1-50%=50%。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第73题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "甲、乙、丙三家科技企业 2021 年的收入之和比 2020 年提升了 20%。其中甲企业的收入上升了 400 万元， 乙企业的收入下降了 100 万元且是甲企业收入的一半，丙企业的收入上升了 30%且其 2020 年的收入与甲、乙两 企业同年收入之和相同。问 2020 年甲企业的收入比乙企业高多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "900"
+      },
+      {
+        "label": "B",
+        "content": "1100"
+      },
+      {
+        "label": "C",
+        "content": "400"
+      },
+      {
+        "label": "D",
+        "content": "600"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设 2021 年乙企业的收入为 x 万元，则根据题干条件甲、乙、丙三家企业的收入如下表所示：\n\n2021 年甲、乙、丙三家企业的收入之和为 2x+x+3.9x-390=6.9x-390，2020 年甲、乙、丙三家企业的收入\n\n之和为\n\n。因甲、乙、丙三家企业 2021 年的收入之和比 2020 年提升了 20%，即\n\n，解得 x=1100，则 2020 年甲企业的收入比乙企业高（2x-400）-（x+100）\n\n=x-500=600 万元。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第74题",
+    "level": "fushengjia"
+  },
+  {
+    "id": "national-xingce-shuliang-2023-fushengjia-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2023,
+    "content": "将一个高度为 x 的实心圆锥体零件尖部朝下放入密度为 1 的液体 A 中，浮出液面的高度为 0.1x。如将其尖 部朝上放入密度为 1.5 的液体 B 中，浮出液面的高度将在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "超过 0.8x"
+      },
+      {
+        "label": "B",
+        "content": "0.7x~0.8x 之间"
+      },
+      {
+        "label": "C",
+        "content": "0.6x~0.7x 之间"
+      },
+      {
+        "label": "D",
+        "content": "不到 0.6x 四、判断推理。本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由于实心圆锥体零件的质量不变且放入液体 A、B 中均为漂浮状态，则两种放置方式所受浮力相等。根据\n\n物理学中浮力公式：\n\n，令尖部朝下放入时排出的液体体积为 ，尖部\n\n朝上放入时排出的液体体积为 ，则\n\n，化简得\n\n。由于尖部朝下时浮\n\n出液面的高度为 0.1x，则液体中零件的高度为 x-0.1x=0.9x，此时液面下方零件为实心圆锥\n\n体，\n\n故\n\n。根据相似图形结论：当图形相似比为 1：k 时，其体积之比为\n\n，\n\n，赋值零件总体积为 1000，则液面下方零件的体积\n\n，则\n\n。当实心圆锥体零件尖部朝上放入液体中，液面上方零件为实心圆锥体（其与实心圆锥零件整体\n\n相似），则体积为 1000-486=514。则此时\n\n，则\n\n，\n\n则浮出液体的高度\n\n。（\n\n，则\n\n）\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年国考行测（副省级）第75题",
+    "level": "fushengjia"
+  }
+]

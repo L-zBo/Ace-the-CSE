@@ -1,0 +1,360 @@
+[
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-021",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "不超过 100 名的小朋友站成一列。如果从第一人开始依次按 1，2，3，...，9 的顺序循环报数，最后一名小 朋友报的是 7；如果按 1，2，3，...，11 的顺序循环报数，最后一名小朋友报的是 9，那么一共有多少名小朋友？",
+    "options": [
+      {
+        "label": "A",
+        "content": "98"
+      },
+      {
+        "label": "B",
+        "content": "97"
+      },
+      {
+        "label": "C",
+        "content": "96"
+      },
+      {
+        "label": "D",
+        "content": "95"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：60%，易错项：C。（\n解析\n第一步，本题考查余数问题，用代入排除法解题。\n第二步，根据如果从第一人开始依次按1，2，3，.：，9的顺序循环报数，最后一名小朋友报的是7，则所求答\n案一7为9的倍数；根据如果按1，2，3，.·，11的顺序循环报数，最后一名小朋友报的是9，则所求答案一9\n为11的倍数。\n第三步，A项，98-7=91不能被9整除，不符合题意。B项，97-7=90，90÷9=10，能够被整除，97-9=88，88\n÷11=8，能够被整除，符合题意。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第21题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-022",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "送奶工人给 11 楼住户送牛奶，由于小区停电导致电梯无法使用。如果他走楼梯从第 1 层到第 2 层需要 5 秒， 以后每多走一层需多花 2 秒，其中走到 5 层以后每多走一层需多休息 5 秒，那么他走到 11 层需要多少秒？",
+    "options": [
+      {
+        "label": "A",
+        "content": "210"
+      },
+      {
+        "label": "B",
+        "content": "215"
+      },
+      {
+        "label": "C",
+        "content": "220"
+      },
+      {
+        "label": "D",
+        "content": "235"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：40%，易错项：C。\n解析\n第一步，本题考查基础应用题，用枚举法解题。\n第二步，每个楼层具体耗费时间如下表：\n楼层\n上楼耗时（秒）休息时间（秒）\n1→2\n5\n0\n2→3\n7\n0\n3→4\n9\n0\n4→5\n11\n0",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第22题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-023",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "A、B、C 三个社区需要建设若干个 5G 基站，三个社区可供选择的建设基站地点分别有 2 个、4 个、5 个，现 从 A、B、C 三个社区分别选取 1、2、3 个地点随机分配给甲、乙、丙三个施工队进行建设，要求每个施工队只能 承接一个社区，则承建方式有： A、720 种",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "480 种"
+      },
+      {
+        "label": "C",
+        "content": "360 种"
+      },
+      {
+        "label": "D",
+        "content": "120 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "×\n-7-\n=140+75=215（秒）。\n因此，选择B选项。\n23、正确答案：A，全站正确率：16%，易错项：C。\n解析\n第一步，本题考查排列组合问题，属于基础排列组合类。\n区分别选择的基站分给甲、乙、丙三个施工队来施工，每个施工队都可以选择不同的社区去施工，有43=6种。\n则总的方法为120×6=720种。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第23题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-024",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "随着人们生活水平的提高，汽车拥有量迅速增长，汽车牌照号码需要扩容。某地级市交通管理部门出台了一 种小型汽车牌照组成办法，每个汽车牌照后五位的要求必须是：前三位为阿拉伯数字，后两位为两个不重复的英 文字母（除 O、I 外），那么这种方法可以给该地区汽车上牌照的数量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "397440 辆"
+      },
+      {
+        "label": "B",
+        "content": "402400 辆"
+      },
+      {
+        "label": "C",
+        "content": "552000 辆"
+      },
+      {
+        "label": "D",
+        "content": "576000 辆"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：56%，易错项：B。\n解析\n第一步，本题考查排列组合问题。\n第二步，先排列前三位阿拉伯数字，数字可以重复，共有10种情况。\n第三步，再排列后两位英文字母，除0、1后，字母还不能重复，则共有24×23=552种，分步完成用乘法，所以\n共有10×552=552000种（可用尾数法，选2000结尾的答案，只有C选项。）\n因此，选择C选项。\n25、正确答案：B，全站正确率：40%，易错项：C。\n解析\n第一步，本题考查几何问题。\n，则占\nV3\n0.75 × 1.73\n≈41%\n比\nT\n3.14\nT\n3.14\n≈60.5%\n5.19",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第24题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-025",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某商场为了促销，进行掷飞镖游戏。每位参与人员投掷一次，假设掷出的飞镖均扎在飞镖板上且位置完全随 机，扎中中间阴影部分区域（含边线）即为中奖。该商场预设中奖概率约为 60%，仅考虑中奖概率的前提下，以 - 3 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。 下四幅图形（图中的正三角形和正方形均与圆外切或内接）最适合作为飞镖板的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查几何概率，中奖概率等于阴影面积与整个飞镖板面积之比。\n\nA项，圆内接正三角形为阴影，设圆半径为R，则正三角形面积为3√3R²/4，圆面积为πR²，概率约为3√3/(4π)≈41.4%，偏低。\nB项，圆内切于正三角形且圆为阴影，设内切圆半径为r，则正三角形面积为3√3r²，圆面积为πr²，概率为π/(3√3)≈60.5%，最接近预设的60%。\nC项，圆内接正方形为阴影，概率为2/π≈63.7%，与60%仍有差距。\nD项，圆内切于正方形且圆为阴影，概率为π/4≈78.5%，偏高。\n\n因此，最适合作为飞镖板的是B项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第25题",
+    "region": "chongqing",
+    "questionImage": "/img/questions/provincial_chongqing_2021/q025.png",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 5,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationRescuedBy": "D18b-local-pdf-geometry",
+      "shortExplanationRescuedAt": "2026-06-02"
+    }
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-026",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某公司职员小王要乘坐公司班车上班，班车到站点的时间为上午 7 点到 8 点之间，班车接人后立刻开走；小 王到站点的时间为上午 6 点半至 7 点半之间。假设班车和小王到站的概率是相等（均匀分布）的，那么小王能够 坐上班车的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/8"
+      },
+      {
+        "label": "B",
+        "content": "3/4"
+      },
+      {
+        "label": "C",
+        "content": "1/2"
+      },
+      {
+        "label": "D",
+        "content": "7/8"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：9%，易错项：C。\n解析\n第一步，本题考查概率问题，属于几何概率。\n第二步，小王可以等班车，班车不能等小王，那么符合要求的概率为小王到达的时间要早于班车，总概率为按照\n各自的时间到达。由于是连续时间，可以在直角坐标系中绘制面积，如下所示，横轴为班车到达时间，纵轴为小\n王到达时间。\n7:30\n7:00\n6:30\n7:00\n7:30\n8:00\n-8-\n其中，正方形是按照各自的时间到达的总面积；阴影部分为总面积内符合要求的面积（y<x，即小王到达时间早\n1.1、1_1\n7\n于班车）。白色不符合要求的占比为2\n22\n2～2一8，那么阴影部分满足要求的面积是总面积的8。所求几何\n7\n概率P=满足要求的面积÷总面积=8。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第26题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-027",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某装修公司订购了一条长为 2.5m 的条形不锈钢管，要剪裁成 60cm 和 43cm 长的两种规格长度不锈钢管若干 根，所裁钢管的横截面与原来一样，不考虑剪裁时材料的损耗，要使剩下的钢管尽量少，此时材料的利用率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.824"
+      },
+      {
+        "label": "B",
+        "content": "0.928"
+      },
+      {
+        "label": "C",
+        "content": "0.996"
+      },
+      {
+        "label": "D",
+        "content": "0.998"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：55%，易错项：B。\n解析\n第一步，本题考查不定方程问题。\n第二步，要使材料利用率高，先代入D选项：250×0.998=249.5cm，由于不锈钢管长度都为正整数，则D不满足\n题目条件；代入C选项：250×0.996=249cm，设60cm和43cm的不锈钢管各x根和y根，则有方程60x+43y=249，\n解得x=2，y=3，满足题目条件。\n因此，选择c选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第27题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-028",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一辆垃圾转运车和一辆小汽车在一段狭窄的道路上相遇，必须其中一车倒车让道才能通过，已知小汽车倒车 的距离是转运车的 9 倍，小汽车的正常行驶速度是转运车的 3 倍，如果小汽车倒车速度是其正常速度的六分之一， 垃圾转运车倒车速度是正常速度的五分之一，问应该由哪辆车倒车才能够使两车尽快都通过？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小汽车"
+      },
+      {
+        "label": "B",
+        "content": "垃圾转运车"
+      },
+      {
+        "label": "C",
+        "content": "两车均可"
+      },
+      {
+        "label": "D",
+        "content": "无法计算"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：47%，易错项：C。\n解析\n第一步，本题考查行程问题。\n（小汽车需要前进距离）为30。赋值小汽车的正常速度为30，则小汽车倒车速度为5，转运车正常速度为10，\n转运车倒车速度为2。\n第三步，若小汽车倒车，在小汽车倒车的过程中，转运车可继续前进，当小汽车倒车结束时，转运车已完成前进\n任务，需要时间为270÷5+300÷30=64；若转运车倒车，在转运车倒车的过程中，小汽车可继续前进，当转运\n车倒车结束时，小汽车已完成前进任务，需要时间为30÷2+300÷10=45。故转运车倒车更省时，能使两车都\n尽快通过。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第28题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-029",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "我国一支工兵部队在非洲某国执行维和任务，负责道路抢修工作。某天，该部队负责的道路被炮弹炸出一个 球面形状的大坑。经测量，弹坑直径 16m，深 4m。现需用车辆运送混凝土填充弹坑，铺平道路，假设每车次可运 输 10m³的混凝土，问抢修道路至少需要出动运输车多少车次？（球缺体积计算公式为 ，其中 r 为 球体半径，h 为球缺高，V 为球缺体积）",
+    "options": [
+      {
+        "label": "A",
+        "content": "65"
+      },
+      {
+        "label": "B",
+        "content": "66"
+      },
+      {
+        "label": "C",
+        "content": "67"
+      },
+      {
+        "label": "D",
+        "content": "68"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：48%，易错项：B。\n解析\n第一步，本题考查几何问题。\n第二步，题目中给出球缺体积公式，只需要计算出球体半径即可求解。根据勾股定理可得OB二OP²+PB”。设球\n的半径为r，那么0B=r，0P=r-4，PB=8，可列方程：r²=（r-4）²+8²，解得r=10。代入题目中给出的\n球缺体积公式，可得V=3.14×4×（3×10²+4²）÷6661.5（立方米）。\nO-\nB\nA\n第三步，每辆车能运送混凝土10m”，则需要661.5÷10=66.15（次），即至少需要出动67车次。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第29题",
+    "region": "chongqing"
+  },
+  {
+    "id": "provincial-chongqing-xingce-shuliang-2021-030",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一个不计厚度的圆柱型无盖透明塑料桶，桶高 2.5 分米，底面周长为 24 分米，AB 为底面直径。在塑料桶内 壁桶底的 B 处有一只蚊子，此时，一只壁虎正好在塑料桶外壁的 A 处，则壁虎从外壁 A 处爬到内壁 B 处吃到蚊子 所爬过的最短路径长约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10.00 分米"
+      },
+      {
+        "label": "B",
+        "content": "12.25 分米"
+      },
+      {
+        "label": "C",
+        "content": "12.64 分米"
+      },
+      {
+        "label": "D",
+        "content": "13.00 分米 第二部分 言语理解与表达"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：44%，易错项：B。\n解析\n第一步，本题考查几何问题，属于几何构造类。\n第二步，因需要从外壁最终走到内壁，最短情况有两种情况，最终择优选择。\n（1）情况一，圆柱侧面不展开，根据两点之间线段最短，壁虎可以先竖直走上去，然后竖直走下去，再走直径\n（桶是中空的），此时，走过的距离为2.5+2.5+直径（d），根据πd=24，取π≈3.14，解得d7.64，此时走\n过的最短距离为2.5+2.5+7.64=12.64（分米）。\n（2）情况二，圆柱侧面展开为矩形，两点之间线段最短，我们需要将A、B两点放在同一个平面上连线即可。根\n据直线同侧两点到直线上同一点距离之和最短用对称点法，画图如下：\n- 9-\nC\nA\nB\n在直角三角形APB中，根据勾股定理，AP²=AB²+PB²，AB=12，PB=2.5×2=5，那么AP=13，即爬过的最短距\n离为13分米。\n综合两种最短情况，择优选择情况一（1）。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考chongqing行测第30题",
+    "region": "chongqing"
+  }
+]

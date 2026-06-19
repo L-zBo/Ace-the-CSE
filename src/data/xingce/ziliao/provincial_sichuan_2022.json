@@ -1,0 +1,599 @@
+[
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年 3 月，订销报纸数量约是订销杂志数量的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "22"
+      },
+      {
+        "label": "C",
+        "content": "23"
+      },
+      {
+        "label": "D",
+        "content": "24"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019年3月······是······多少倍”，可判定本题为现期倍数问题。定位统计表可得：2019年3月，订销报纸数量为148145.5万份，订销杂志数量为6980.0万份。则2019年3月，订销报纸数量是订销杂志数量的倍。\n故正确答案为A。\n\n[来源 baijing1.top paperId=294 sort=86 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第86题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2018 年 1~2 月，我国邮政寄递服务的收入约为多少亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "44"
+      },
+      {
+        "label": "B",
+        "content": "B.65"
+      },
+      {
+        "label": "C",
+        "content": "82"
+      },
+      {
+        "label": "D",
+        "content": "D.24 D.103"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题\n解析\n根据题干“2018年1~2月······收入约为多少亿元”，结合材料时间为2019年一季\n度和2019年3月，可判定本题为基期和差问题。定位统计表可得：2019年一季度，我国邮\n政寄递服务110.4亿元，同比增速为7.4%；2019年3月，我国邮政寄递服务37.1亿元，同\n比增速为-1.6%。根据公式：基期量 ，可得2018年1~2月我国邮政寄递服务的收\n入 亿元，与B项最接近。\n故正确答案为B。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第87题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年 1~2 月，我国包裏寄递量比去年同期：",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了不到 10%"
+      },
+      {
+        "label": "C",
+        "content": "上升了不到 10%"
+      },
+      {
+        "label": "B",
+        "content": "下降了 10%以上"
+      },
+      {
+        "label": "D",
+        "content": "上升了 10%以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题\n解析\n根据题干“2019年1~2月······比去年同期”，选项为“上升/下降+%”，结合材料\n给出2019年一季度和2019年3月我国包裏寄递量及其同比增速，可判定本题为混合增长率\n问题。定位统计表可得：2019年一季度，我国包裏寄递量为588.1万件，同比增速为-12.3%；\n2019年3月，我国包裏寄递量为188.9万件，同比增速为-10.8%。根据混合增长率口诀“混\n合后居中”，可知 ，在B项范围内。\n故正确答案为B。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第88题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "在①同城快递、②异地快递和③国际/港澳台快递中，2019 年 3 月业务量占一季度比重 高于 2018 年 3 月业务量占一季度比重的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅①"
+      },
+      {
+        "label": "B",
+        "content": "仅③"
+      },
+      {
+        "label": "C",
+        "content": "仅①和②"
+      },
+      {
+        "label": "D",
+        "content": "仅②和③"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······2019年3月······占一季度比重高于2018年3月······占一季度比重的是”，可判定本题为两期比重比较问题。定位统计表可得同城快递、异地快递和国际/港澳台快递2019年3月业务量的同比增速（a）和一季度业务量的同比增速（b）。根据两期比重比较结论：若部分增长率（a）＞整体增长率（b），则比重上升，因①同城快递1.2%＞-0.2%，②异地快递30.6%＞30.3%，③国际/港澳台快递7.5%＜8.9%，则仅①和②满足要求。\n故正确答案为C。\n\n[来源 baijing1.top paperId=294 sort=89 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第89题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "关于我国邮政行业发展状况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年 3 月，快递业务收入高于 500 亿元"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 3 月，快递业务量高于同年 1~2 月平均水平 B.（二）"
+      },
+      {
+        "label": "C",
+        "content": "2019 年一季度，平均每件邮政寄递服务产生的收入高于 2 元"
+      },
+      {
+        "label": "D",
+        "content": "2019 年一季度，函件、包裹和汇兑的业务量之和占邮政寄递服务业务量的 20%以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题\n解析\nA项：定位统计表可得：2019年3月，快递业务收入为596.0亿元，同比增速为23.0%。根\n据公式：基期量 ，可得2018年3月快递业务收入为 亿\n元，错误；\nB项：定位统计表可得：2019年一季度，快递业务量为1214633.0万件；2019年3月，快\n递业务量为486392.8万件。则2019年1~2月，快递业务量平均水平为\n万件<486392.8万件，故2019年3月，\n快递业务量高于同年1~2月平均水平，正确；\nC项：定位统计表可得：2019年一季度，邮政寄递服务收入为110.4亿元，邮政寄递服务业\n务量为601950.3万件。平均每件邮政寄递服务产生的收入\n元/件，错误；\nD项：定位统计表可得2019年一季度，函件、包裹和汇兑的业务量以及邮政寄递服务业务\n量。根据公式：比重 ，可得\n，故2019年一季度，函件、\n包裹和汇兑的业务量之和不到邮政寄递服务业务量的20%，错误。\n故正确答案为B。\n（备注：表格中邮政寄递服务量单位为万件/万份/万笔，C项所求为平均每件邮政寄递\n服务产生的收入，此处应为出题人统一用每件指代各类不同单位总数）\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第90题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-031",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2%，农村为 34.9%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[D-12 标记 - D-9 关键词指纹注入伪解析已清除（D-11 #2/#3 模板复用）]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第31题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2022/q031.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-091",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年，A 市居民人均可支配收入同比增量约是同期人均消费支出同比增量的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.1"
+      },
+      {
+        "label": "B",
+        "content": "1.4"
+      },
+      {
+        "label": "C",
+        "content": "1.7"
+      },
+      {
+        "label": "D",
+        "content": "2.2"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题\n解析\n根据“2019年······是······的多少倍”，可判定本题为现期倍数问题。定\n位文字材料可得：2019年，A市居民人均可支配收入28920元，比上年增长9.6%。全市居\n民人均消费支出20774元，比上年增长7.9%。根据公式：增长量 ，则2019年\nA市居民人均可支配收入同比增量 ，同期人\n均消费支出同比增量 。所求倍数\n，与C项最接近。\n故正确答案为C。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第91题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-092",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年，A 市城镇常住居民工资性收入占可支配收入的比重比农村常住居民的这一比重：",
+    "options": [
+      {
+        "label": "A",
+        "content": "低不到 10 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "高不到 10 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "低 10 个百分点以上"
+      },
+      {
+        "label": "D",
+        "content": "高 10 个百分点以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "题\n解析\n根据题干“2019年······的比重······”，可判定本题为现期比重问题。定\n位文字材料可得：2019年，A市按常住地分，城镇居民人均可支配收入37939元；农村居\n民人均可支配收入15133元。定位表1可得：2019年，A市城镇居民人均工资性收入22119\n元；农村居民人均工资性收入5316元。根据公式：现期比重 ，则2019年A市城\n镇常住居民工资性收入占可支配收入的比重\n，同理，农村常住居民工资性收入所占比重\n。故2019年A市城镇常住居民工资性收入占可支配收入的比重比\n农村常住居民高约58%-35%=23%，即高10个百分点以上。\n故正确答案为D。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第92题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-093",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2019 年，A 市城镇企业职工基本养老保险及城乡居民社会养老保险总参保人数比 2018 年多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 50 万人"
+      },
+      {
+        "label": "C",
+        "content": "100~150 万人之间"
+      },
+      {
+        "label": "B",
+        "content": "50~100 万人之间"
+      },
+      {
+        "label": "D",
+        "content": "150 万人以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题\n解析\n根据题干“2019年······比2018年多”，结合选项单位为“人”，可判定本题为增\n长量计算问题。定位表2可得：A市城镇企业职工基本养老保险，2018年参保人数为1050.33\n万人，2019年参保人数为1127.72万人；A市城乡居民社会养老保险，2018年参保人数为\n1120.12万人，2019年参保人数为1162.68万人。根据公式：增长量=现期量-基期量，则2019\n年A市城镇企业职工基本养老保险及城乡居民社会养老保险总参保人数比2018年多\n万人，在C\n项范围内。\n故正确答案为C。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第93题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-094",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "将 2019 年 A 市①工伤保险、②生育保险和③失业保险按参保人数同比增速从高到低的 顺序排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②③"
+      },
+      {
+        "label": "B",
+        "content": "①③②"
+      },
+      {
+        "label": "C",
+        "content": "②③①"
+      },
+      {
+        "label": "D",
+        "content": "②①③"
+      }
+    ],
+    "answer": "A",
+    "explanation": "题\n解析\n根据题干“2019年······同比增速从高到低······”，可判定本题为一般增\n长率比较问题。定位表2可得：2018-2019年，A市工伤保险参保人数分别为576.87万人、\n661.67万人；生育保险参保人数分别为439.69万人、466.95万人；失业保险参保人数分别\n为489.96万人、514.95万人。根据公式：增长率 ，则2019年，工伤保\n险参保人数同比增速为 ；生育保险参保人数同比增速为\n；失业保险参保人数同比增速为\n。则三者按参保人数同比增速从高到低的顺序排列为：①\n＞②＞③。\n故正确答案为A。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第94题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-095",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下饼图中，最能准确反映 2019 年 A 市全市居民工资性收入(白色)、经营净收入(灰色)、 财产净收入(黑色)和转移净收入(斜线)占可支配收入比重关系的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B."
+      },
+      {
+        "label": "B",
+        "content": "（三）"
+      },
+      {
+        "label": "C",
+        "content": "D."
+      },
+      {
+        "label": "D",
+        "content": "2020 年末，全国共有艺术表演团体 17581 个，比上年末减少 214 个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "题\n解析\n根据题干“······2019年······占······比重关系”，可判定本题为\n现期比重问题。定位表1可得：2019年，A市全市居民工资性收入为15475元，经营净收\n入为4697元，财产净收入为1792元，转移净收入为6956元。财产净收入最小，则黑色扇\n形面积最小，排除A、B两项。 ，则白色扇形面积应为斜线扇形\n面积的2倍多，排除C项。\n故正确答案为D。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第95题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2022/q095.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-012",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2%；全国图书总藏量 117929.99 万册，增长 6.1%；阅览室坐席数 126.47 万个，增长 6.2%； 计算机 226234 台，增加 419 台；其中供读者使用的电子阅览终端 143714 台，减少 2022 台。 2020 年末，全国共有群众文化机构 43687 个，比上年末减少 386 个。其中乡镇综合文 化站 32825 个，减少 705 个。年末全国群众文化机构从业人员 185076 人，比上年末减少 4992 人。其中具有高级职称的人员 7075 人，具有中级职称人员 17969 人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "D",
+        "content": "[选项暂缺]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "题\n解析\n第一空，根据“古人对于文学创作中的形式要素愈加重视”及“人们更加重视汉语的音\n节结构”可知，横线处应体现反切和“四声”受到人们重视和认可之意。B项“蔚然成风”\n形容一种事物逐渐发展、盛行，形成一种良好风气，D项“深入人心”指已经被多数人深深\n地理解、信仰和拥护，均符合文意，保留。A项“融会贯通”指各方面的知识或道理融合贯\n穿起来，从而得到系统透彻的理解，文段强调受人重视，而非“二者融合”，与文意不符，\n排除；C项“此消彼长”指这个下降，那个上升，与文意不符，排除。\n第二空，根据横线前“更是”可知，横线处应比“研究诗歌韵律问题渐成风气，唐宋以\n后更加普遍”程度更重，体现到明清时期非常流行之意。D项“盛极一时”形容一时特别兴\n盛或流行，符合文意，当选。B项“独树一帜”比喻与众不同，自成一家，文段强调流行，\n而非“与其他不同”，与文意不符，排除。\n故正确答案为D。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第12题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年末，平均每个各级文化和旅游部门所属艺术表演团体的从业人数约是全国所有艺 术表演团体的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5"
+      },
+      {
+        "label": "B",
+        "content": "0.8"
+      },
+      {
+        "label": "C",
+        "content": "1.3"
+      },
+      {
+        "label": "D",
+        "content": "2.1"
+      }
+    ],
+    "answer": "D",
+    "explanation": "题\n解析\n根据题干“2020年末，平均每个······约是······的多少倍”，可判定本题\n为现期倍数问题。定位文字材料第一段可得：2020年末，全国共有艺术表演团体17581个，\n从业人员43.69万人；其中各级文化和旅游部门所属艺术表演团体2060个，从业人员10.75\n万人。根据平均每个······团体的从业人数 ，则2020年末，平均每个各\n级文化和旅游部门所属艺术表演团体的从业人数约是全国所有艺术表演团体的\n倍。\n故正确答案为D。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第96题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国艺术表演团体平均每场演出创造收入比上年：",
+    "options": [
+      {
+        "label": "B",
+        "content": "减少了 1000 元以上"
+      },
+      {
+        "label": "D",
+        "content": "增加了 1000 元以上"
+      },
+      {
+        "label": "A",
+        "content": "减少了不到 1000 元"
+      },
+      {
+        "label": "C",
+        "content": "增加了不到 1000 元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "题\n解析\n根据题干“2020年······平均每场演出创造收入比上年”，结合选项为“增加/减少\n+元”，可判定本题为平均数的增长量问题。定位文字材料第二段可得：2020年，全国艺术\n表演团体共演出225.61万场（B），比上年下降24.0%（b）；演出收入86.63亿元（A），\n下降31.7%（a）。根据公式：平均数的增长量 ，故2020年，全国艺术表演团\n体平均每场演出创造收入的同比增长量\n元/场，即比上年减少了\n不到1000元。\n故正确答案为A。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第97题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国群众文化机构从业人员中，中高级职称从业人员占比约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8%"
+      },
+      {
+        "label": "B",
+        "content": "14%"
+      },
+      {
+        "label": "C",
+        "content": "27%"
+      },
+      {
+        "label": "D",
+        "content": "38%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题\n解析\n根据题干“2020年······中······占比约为”，可判定本题为现期比重问题。\n定位文字材料最后一段可得：2020年末，全国群众文化机构从业人员185076人，其中具有\n高级职称的人员7075人，具有中级职称人员17969人。根据公式：比重 ，所求比重\n为 ，与B项最接近。\n故正确答案为B。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第98题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国供读者使用的电子阅览终端数量同比增速约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.4%"
+      },
+      {
+        "label": "B",
+        "content": "2.7%"
+      },
+      {
+        "label": "C",
+        "content": "-1.4%"
+      },
+      {
+        "label": "D",
+        "content": "-2.8%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题\n解析\n根据题干“2020年······同比增速约为”，可判定本题为一般增长率问题。定位文\n字材料第四段可得：2020年末，全国供读者使用的电子阅览终端143714台，减少2022台。\n根据公式：增长率 ，则2020年，全国供读者使用的电子阅览终端数量同\n比增速为 。\n故正确答案为C。\n第",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第99题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-ziliao-2022-100",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下信息中，能够从上述资料中推出的有几条？ ①2019 年末全国各级文化和旅游部门所属艺术表演团体数 ②2019 年全国平均每场政府采购公益演出的观众数量 ③2019 年全国艺术表演团体平均每场演出收入 ④2019 年末全国群众文化机构个数",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题\n解析\n①：定位文字材料第一段“2020年末，各级文化和旅游部门所属艺术表演团体2060个，\n占11.7%”。材料并未给出2019年末各级文化和旅游部门所属艺术表演团体的相关数据，\n无法推出；\n②：定位文字材料第三段“2020年，全国文化和旅游部门所属艺术表演团体共组织政府采\n购公益演出13.38万场（B），比上年下降14.9%（b），观众0.86亿人次（A），下降27.9%\n（a）”。根据基期平均数 可得，2019年全国平均每场政府采购公益演出的观\n众数量为 人次，可以推出；\n③：定位文字材料第二段“2020年，全国艺术表演团体共演出225.61万场（B），比上年\n下降24.0%（b）；演出收入86.63亿元（A），下降31.7%（a）”。根据基期平均数\n可得，2019年全国艺术表演团体平均每场演出收入为 元，可以推出；\n④：定位文字材料最后一段“2020年末，全国共有群众文化机构43687个，比上年末\n减少386个”。根据基期量=现期量-增长量可得，2019年末全国群众文化机构个数为43687-\n（-386）个，可以推出。\n综上可知，可以推出的有②③④，共3条。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考sichuan行测第100题",
+    "region": "sichuan"
+  }
+]

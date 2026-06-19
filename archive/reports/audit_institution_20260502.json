@@ -1,0 +1,1567 @@
+{
+  "generatedAt": "2026-05-02T05:48:31.836293Z",
+  "source": "institution",
+  "filters": {
+    "year": null
+  },
+  "summary": {
+    "examCount": 5,
+    "issueCount": 15,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "institution_2020_unknown",
+      "source": "institution",
+      "year": "2020",
+      "level": "unknown",
+      "actualTotal": 408,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 79,
+        "panduan": 158,
+        "shuliang": 47,
+        "yanyu": 103,
+        "ziliao": 21
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：institution/2020/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "institution-xingce-changshi-2020-c-005",
+              "number": 5,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-057",
+              "number": 57,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-065",
+              "number": 65,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-085",
+              "number": 85,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-panduan-2020-a-089",
+              "number": 89,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-061",
+              "number": 61,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-063",
+              "number": 63,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-064",
+              "number": 64,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-070",
+              "number": 70,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-078",
+              "number": 78,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-079",
+              "number": 79,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-060",
+              "number": 60,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-061",
+              "number": 61,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-062",
+              "number": 62,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-064",
+              "number": 64,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-c-002",
+              "number": 2,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-panduan-2020-e-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-e-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-e-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-e-079",
+              "number": 79,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2020-e-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2020-a-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-shuliang-2020-a-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2020-a-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2020-a-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2020-a-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-yanyu-2020-c-036",
+              "number": 36,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2020-c-054",
+              "number": 54,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2020-e-055",
+              "number": 55,
+              "optionCount": 1
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "institution_2021_unknown",
+      "source": "institution",
+      "year": "2021",
+      "level": "unknown",
+      "actualTotal": 438,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 133,
+        "panduan": 147,
+        "shuliang": 92,
+        "yanyu": 35,
+        "ziliao": 31
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：institution/2021/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "institution-xingce-changshi-2021-a-045",
+              "number": 45,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2021-c-014",
+              "number": 14,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-a-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-a-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-a-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-a-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-a-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-078",
+              "number": 78,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-091",
+              "number": 91,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-b-096",
+              "number": 96,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-065",
+              "number": 65,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-078",
+              "number": 78,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-c-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-e-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-e-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-e-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-e-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-e-078",
+              "number": 78,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2021-e-079",
+              "number": 79,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-a-003",
+              "number": 3,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-b-054",
+              "number": 54,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-b-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-b-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-b-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-b-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-c-058",
+              "number": 58,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-c-059",
+              "number": 59,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-e-049",
+              "number": 49,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2021-e-060",
+              "number": 60,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-ziliao-2021-a-094",
+              "number": 94,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-ziliao-2021-b-054",
+              "number": 54,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2021-c-055",
+              "number": 55,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "institution_2022_unknown",
+      "source": "institution",
+      "year": "2022",
+      "level": "unknown",
+      "actualTotal": 432,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 97,
+        "panduan": 123,
+        "shuliang": 71,
+        "yanyu": 116,
+        "ziliao": 25
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：institution/2022/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            99
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "institution-xingce-changshi-2022-b-032",
+              "number": 32,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-changshi-2022-b-033",
+              "number": 33,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2022-b-034",
+              "number": 34,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2022-b-036",
+              "number": 36,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-changshi-2022-c-019",
+              "number": 19,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2022-e-005",
+              "number": 5,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-changshi-2022-e-016",
+              "number": 16,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2022-e-017",
+              "number": 17,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2022-e-019",
+              "number": 19,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-056",
+              "number": 56,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-065",
+              "number": 65,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-a-081",
+              "number": 81,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-b-061",
+              "number": 61,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-b-070",
+              "number": 70,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-b-072",
+              "number": 72,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-b-079",
+              "number": 79,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-b-081",
+              "number": 81,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-c-063",
+              "number": 63,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-c-068",
+              "number": 68,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-c-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-c-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-c-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-e-069",
+              "number": 69,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2022-e-097",
+              "number": 97,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-e-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2022-e-077",
+              "number": 77,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-a-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-c-049",
+              "number": 49,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-c-060",
+              "number": 60,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-c-050",
+              "number": 50,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-shuliang-2022-e-060",
+              "number": 60,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-yanyu-2022-e-039",
+              "number": 39,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-ziliao-2022-a-094",
+              "number": 94,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2022-a-100",
+              "number": 100,
+              "optionCount": 0
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "institution_2023_unknown",
+      "source": "institution",
+      "year": "2023",
+      "level": "unknown",
+      "actualTotal": 427,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 118,
+        "panduan": 150,
+        "shuliang": 32,
+        "yanyu": 107,
+        "ziliao": 20
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：institution/2023/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "institution-xingce-changshi-2023-a-013",
+              "number": 13,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-changshi-2023-b-006",
+              "number": 6,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-changshi-2023-c-013",
+              "number": 13,
+              "optionCount": 1
+            },
+            {
+              "id": "institution-xingce-changshi-2023-c-042",
+              "number": 42,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2023-a-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2023-a-092",
+              "number": 92,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-panduan-2023-a-003",
+              "number": 3,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-b-077",
+              "number": 77,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-093",
+              "number": 93,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2023-c-096",
+              "number": 96,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-e-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-e-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-e-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-e-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-e-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2023-e-068",
+              "number": 68,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-yanyu-2023-b-043",
+              "number": 43,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-yanyu-2023-b-044",
+              "number": 44,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-yanyu-2023-b-055",
+              "number": 55,
+              "optionCount": 3
+            },
+            {
+              "id": "institution-xingce-yanyu-2023-c-042",
+              "number": 42,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2023-c-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2023-e-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-ziliao-2023-e-060",
+              "number": 60,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    },
+    {
+      "key": "institution_2024_unknown",
+      "source": "institution",
+      "year": "2024",
+      "level": "unknown",
+      "actualTotal": 302,
+      "expectedTotal": null,
+      "actualModules": {
+        "changshi": 156,
+        "panduan": 117,
+        "yanyu": 29
+      },
+      "expectedModules": {},
+      "issues": [
+        {
+          "type": "missing_spec",
+          "message": "缺少规则：institution/2024/unknown"
+        },
+        {
+          "type": "duplicate_questions",
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            98,
+            99
+          ]
+        },
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "institution-xingce-changshi-2024-a-019",
+              "number": 19,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-changshi-2024-c-044",
+              "number": 44,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2024-a-055",
+              "number": 55,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2024-a-065",
+              "number": 65,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-a-066",
+              "number": 66,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-b-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-b-076",
+              "number": 76,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-b-077",
+              "number": 77,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-b-078",
+              "number": 78,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-064",
+              "number": 64,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-065",
+              "number": 65,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-071",
+              "number": 71,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-072",
+              "number": 72,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-073",
+              "number": 73,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-074",
+              "number": 74,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-c-092",
+              "number": 92,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-panduan-2024-e-068",
+              "number": 68,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-panduan-2024-e-075",
+              "number": 75,
+              "optionCount": 2
+            },
+            {
+              "id": "institution-xingce-yanyu-2024-e-022",
+              "number": 22,
+              "optionCount": 0
+            },
+            {
+              "id": "institution-xingce-yanyu-2024-e-059",
+              "number": 59,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 3,
+      "ready": false
+    }
+  ]
+}

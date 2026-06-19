@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="博 字篆体印章">
+  <defs>
+    <!-- 自然腐蚀边：turbulence + displacement 模拟印泥微缺 -->
+    <filter id="seal-erosion" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="4"/>
+    </filter>
+    <!-- 印泥不均：subtle 杂色 -->
+    <filter id="seal-ink-texture">
+      <feTurbulence type="fractalNoise" baseFrequency="2.5" numOctaves="3" seed="7"/>
+      <feColorMatrix values="0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0 0.05  0 0 0 0.15 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+
+  <!-- 主印章：圆形红底 + 腐蚀边 -->
+  <g filter="url(#seal-erosion)">
+    <circle cx="100" cy="100" r="88" fill="#c1272d"/>
+    <circle cx="100" cy="100" r="80" fill="none" stroke="#fbfaf5" stroke-width="3"/>
+  </g>
+
+  <!-- 「博」字：依赖前端加载的霞鹜文楷，回退到 serif -->
+  <text
+    x="100" y="100"
+    font-family="'LXGW WenKai', 'Source Han Serif SC', 'Noto Serif SC', serif"
+    font-size="120"
+    font-weight="700"
+    fill="#fbfaf5"
+    text-anchor="middle"
+    dominant-baseline="central"
+    filter="url(#seal-erosion)">博</text>
+
+  <!-- 印泥纹理叠加（轻微杂色） -->
+  <circle cx="100" cy="100" r="88" filter="url(#seal-ink-texture)" opacity="0.4"/>
+</svg>

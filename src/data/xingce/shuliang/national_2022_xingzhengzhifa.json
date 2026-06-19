@@ -1,0 +1,355 @@
+[
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某单位办事大厅有 3 个相同的办事窗口，2 天最多可以办理 600 笔业务，每个窗口办理单笔业 务的用时均相同。现对该办事大厅进行流程优化，增设 2 个与以前相同的办事窗口，且每个办事窗口办 理每笔业务的用时缩短到以前的 2/3。问优化后的办事大厅办理 6000 笔业务最少需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查基础计算问题。\n\n第二步，3 个窗口，2 天可办理 600 笔业务，每个窗口每天可办理 600÷2÷3=100 笔业务。每个窗口时间缩短到\n\n以前的 ，每天可办理 100÷ =150 笔业务，增设 2 个窗口，共 5 个窗口，每天可办理 150×5=750 笔业务。\n\n优化后的办事大厅办理 6000 笔业务最少需要 6000÷750=8 天。\n\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第61题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）张和李 2 名社区工作者上门统计某小区内住户的新冠疫苗接种情况，两人各负责 1 栋住宅 楼，每访问 1 户居民均需要 5 分钟。李因处理公文比张晚出发一段时间。已知 14:00 时两人共访问 63 户，15:00 时张访问的户数是李的 2 倍。问李访问完 50 户居民是在什么时候？",
+    "options": [
+      {
+        "label": "A",
+        "content": "16:30"
+      },
+      {
+        "label": "D",
+        "content": "17:15"
+      },
+      {
+        "label": "C",
+        "content": "17:00"
+      },
+      {
+        "label": "B",
+        "content": "16:45"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查基础应用题，使用方程法求解。\n\n第二步，14:00—15:00 共 1 个小时，张和李两人每访问 1 户需要 5 分钟，那么这 1 个小时之内两人都访问了 12\n\n户。设 14:00 时李访问了 x 户，则张访问了（63-x）户，根据 15:00 时张访问的户数是李的 2 倍，有方程 63-\n\nx+12=2（x+12），解得 x=17 户，那么 15:00 时李共访问了 29 户，距离 50 户还差 21 户，需要再用时\n\n5×21=105 分钟=1 小时 45 分钟，到时时间为 16:45。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第62题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）李某骑车从甲地出发前往乙地，出发时的速度为 15 千米/小时，此后均匀加速，骑行 25%的 路程后速度达到 21 千米/小时。剩余路段保持此速度骑行，总路程前半段比后半段多用时 3 分钟。问甲、 乙两地之间的距离在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 23 千米"
+      },
+      {
+        "label": "B",
+        "content": "在 23—24 千米之间"
+      },
+      {
+        "label": "C",
+        "content": "在 24—25 千米之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 25 千米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查行程问题。\n\n第二步，总路程前半段比后半段多用时 3 分钟，根据后 的路程为匀速运动，可知总路程的前 ，比最后 多用\n\n时 3 分钟。根据前 路程为匀加速运动可知平均速度为\n\n=18 千米/小时，设前 路程用时为 t 小时，则\n\n最后 路程用时为 t－ 小时，列方程 18t=21（t－ ），解得 t= ，则前 路程为 18×\n\n=6.3 千米，全\n\n程为 6.3×4=25.2 千米。\n\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第63题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某水果种植特色镇创办水果加工厂，从去年年初开始通过电商平台销售桃汁、橙汁两种产 品。从去年 2 月开始，每个月桃汁的销量都比上个月多 5000 盒，橙汁的销量都比上个月多 2000 盒。已知 去年第一季度桃汁的总销量比橙汁少 4.5 万盒，则去年桃汁的销量比橙汁：",
+    "options": [
+      {
+        "label": "A",
+        "content": "多不到 5 万盒"
+      },
+      {
+        "label": "B",
+        "content": "少不到 5 万盒"
+      },
+      {
+        "label": "D",
+        "content": "少 5 万盒以上"
+      },
+      {
+        "label": "C",
+        "content": "多 5 万盒以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查数列问题。\n\n第二步，设去年第一个月的桃汁销量为 x 万瓶，橙汁销量为 y 万瓶。桃汁、橙汁的每月销量都成等差数列，则第\n\n一个季度桃汁的销量为（x+0.5）×3，橙汁的销量为（y+0.2）×3，由题意（y+0.2）×3－（x+0.5）×3=4.5，\n\n有 y－x=1.8。根据等差数列求和公式，全年桃汁总销量为[x+（x+0.5×11）]×12÷2=6（2x+5.5）；橙汁总销量\n\n为[x+（x+0.2×11）]×12÷2=6（2y+2.2），两者之差为 12（x－y）+33－13.2=－1.8（万盒）。桃汁比橙汁\n\n少不到 5 万盒。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第64题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）一个圆柱体零件的高为 1，其圆形底面上的内接正方形边长正好也为 1。现将该圆柱体零件 切割 4 次，得到棱长为 1 的正方体，则切去部分的总面积为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第 42 页 共 64 页\n\n\f第一步，本题考查几何问题，属于立体几何类。\n\n第二步，如图所示，底面圆的内接正方形的面积为 1，则边长为 1，对角线长为 ，可知底面圆的半径为\n切割下去的四个部分总表面积相当于（一个圆柱的表面积－上下表面两个正方形）＋立方体的侧面积，代入数据\n\n。\n\n为\n\n=\n\n。\n\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第65题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2022_xingzhengzhifa/q065.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）为降低碳排放，企业对生产设备进行改造，改造后日产量下降了 10%，但每件产品的能耗 成本下降了 50%，其他成本和出厂价不变的情况下每天的利润提高 10%。已知单件利润=出厂价-能耗成本 -其他成本，且改造前产品的出厂价是单件利润的 3 倍，则改造前能耗成本为其他成本的：",
+    "options": [
+      {
+        "label": "D",
+        "content": "超过 1/2"
+      },
+      {
+        "label": "A",
+        "content": "不到 1/4"
+      },
+      {
+        "label": "C",
+        "content": "1/3~1/2 之间"
+      },
+      {
+        "label": "B",
+        "content": "1/4~1/3 之间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查经济利润问题。\n\n第二步，根据题干中的百分数进行赋值，赋值改造前的日产量、能耗成本分别为 10 和 2，则改造后的日产量和能\n\n耗成本则为 9 和 1。假设其他成本为 x，单件利润为 y，则出厂价为 3y，改造前，y=3y-2-x，改造后利润提高了\n\n10%，即 9（3y-1-x）=1.1×10×y=1.1×10×（3y-2-x），解方程可得 x=7，y=4.5。改造前能耗成本与其他成\n\n本的比值为 ≈28.6%，在 B 选项的范围内。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第66题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）甲地在丙地正西 17 千米，乙地在丙地正北 8 千米。张从甲地、李从乙地同时出发，分别向正 东和正南方向匀速行走。两人速度均为整数千米/小时，且 1 小时后两人的直线距离为 13 千米，又经过 3 小时后两人均经过了丙地且直线距离为 5 千米。已知李的速度是张的 60%，则张经过丙地的时间比李：",
+    "options": [
+      {
+        "label": "A",
+        "content": "早不到 10 分钟"
+      },
+      {
+        "label": "D",
+        "content": "晚 10 分钟以上"
+      },
+      {
+        "label": "C",
+        "content": "晚不到 10 分钟"
+      },
+      {
+        "label": "B",
+        "content": "早 10 分钟以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查基本行程类。\n\n第二步，已知李的速度是张的 60%，可设张的速度为 5v 千米/小时，李的速度为 3v 千米/小时，两人 1 个小时的\n\n路程分别为 5v 千米、3v 千米，进而可得 A 点到丙地的距离为（8-3v）千米，B 点到丙地的距离为（17-5v）千\n\n米，又已知 AB=13 千米，根据常用勾股数（5,12,13）不难判断 8-3v=5，17-5v=12，可得 v=1 千米/小时，那\n\n么张和李的速度分别为 5 千米/小时和 3 千米/小时，张从出发到丙地共用时 17÷5=3.4 小时=3 小时 24 分钟，李\n\n从出发到丙地共用时 8÷3=160 分钟=2 小时 40 分钟，张经过丙地的时间比李要晚 44 分钟。\n\n第 43 页 共 64 页\n\n\f因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第67题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某企业将 5 台不同的笔记本电脑和 5 台不同的平板电脑捐赠给甲、乙两所小学,每所学校分配 5 台电脑。如在所有可能的分配方式中随机选取一种，两所学校分得的平板电脑数量均不超过 3 台的概率 为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查概率问题，属于分类分步型。\n\n第二步，根据概率=满足条件情况数/总数，总数为 10 台电脑分配给两个不同学校，有\n\n种情况；满足\n\n条件的情况为两所学校分得的平板电脑数量都不超过 3 台，有两种情况：①甲学校分得 2 台平板电脑、乙学校分\n\n得 3 台平板电脑；②甲学校分得 3 台平板电脑，乙学校分得 2 台平板电脑，两种情况的情况数都为\n\n=100 种，则满足的情况数共 200 种。\n\n第三步，两所学校分得的平板电脑数量都不超过 3 台的概率为\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第68题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2022_xingzhengzhifa/q068.png"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）某件商品的定价为成本的 1.5 倍，如果在降价 30 元/件的基础上再打八折，则销售 5 件这件商 品的利润比原价销售 1 件时多 130 元。问用以下哪种折扣销售时，1.5 万元能买到的件数正好比原价销售 时多 4 件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "先降价 50 元/件再打八折"
+      },
+      {
+        "label": "C",
+        "content": "降价 150 元/件"
+      },
+      {
+        "label": "B",
+        "content": "先打九折再降价 50 元/件"
+      },
+      {
+        "label": "D",
+        "content": "打八五折"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n。\n\n第一步，本题考查经济利润问题，属于基础公式类。\n\n第二步，设该商品成本为 2x 元，定价为 3x 元，降价 30 元/件的基础上打八折的售价为（3x-30）\n\n×0.8=2.4x－24，那么单利为 0.4x－24。根据销售 5 件的利润比 1 件多 130 元，有 5（0.4x－24）－x=130，解\n\n得 x=250。则该商品成本为 500 元，定价为 750 元，1.5 万元可以买 15000÷750=20（件），多买 4 件则售价\n\n实际为 15000÷（20+4）=625（元）。四个选项的售价分别为 560 元、625 元、600 元、637.5 元，仅有 B 符\n\n合。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第69题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-shuliang-2022-xingzhengzhifa-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）甲、乙等 16 人参加乒乓球淘汰赛,每轮对所有未被淘汰选手进行抽签分组两两比赛，胜者进 入下一轮。已知除甲以外，其余任意两人比赛时双方胜率均为 50%。甲对乙的胜率为 0%，对其他 14 人的 胜率均为 100%。则甲夺冠的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n解法一：第一步，本题考查概率问题。\n\n第二步，比赛分为四轮，分别为 16 进 8，8 进 4，4 进 2，2 进 1。甲要想获胜，只要不遇见乙即可。在四次选择\n\n对手的随机过程中，每次遇见乙的几率都是 ，因此遇见乙的概率为\n\n，那么未遇见乙即甲获胜的\n\n概率为\n\n。\n\n第 44 页 共 64 页\n\n\f因此，选择 B 选项。\n\n解法二：第一步，本题考查概率问题。\n\n第二步，比赛分为四轮，分别为 16 进 8，8 进 4，4 进 2，2 进 1，甲要想获胜，只要不遇见乙即可，那么需要在\n\n前三轮中把乙淘汰。乙淘汰的情况有三种：\n\n①在第一轮淘汰的概率为\n\n；\n\n②在第二轮淘汰的概率为\n\n；\n\n③在第三轮淘汰的概率为\n\n。\n\n三种情况的概率加和为 。\n因此，选择 B 选项。\n\n解法三：第一步，本题考查概率问题。\n\n第二步，使用逆向思维，计算甲在这四轮中分别被淘汰的概率。\n\n如果甲在第一轮被淘汰，共 16 人参加，甲从剩下的 15 人中挑选对手，挑到乙的概率是 ，所以第一轮被淘汰\n\n的概率是 ；\n\n如果甲在第二轮被淘汰，第一轮甲的 15 个潜在对手中，除乙外还有 14 人，胜出的概率是 ，乙第一轮胜出\n\n的概率为 ，第二轮中，甲从剩下的 7 人中挑选对手，挑到乙的概率是 ，所以第二轮被淘汰的概率是 × × = ；\n\n如果甲在第三轮被淘汰，那么第一轮胜出，概率为 × ，第二轮胜出，概率为 × ，第三轮还剩下 4\n\n个人，挑到乙的概率是 ，所以第三轮被淘汰的概率是 × × × × = ；\n\n如果甲在第四轮被淘汰，那么前三轮胜出， × × × × ，所以第四轮被淘汰的概率为 × × × × × ×1= 。\n\n所以甲夺冠的概率=1-4× = 。\n\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第70题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2022_xingzhengzhifa/q070.png"
+  }
+]

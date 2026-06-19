@@ -1,0 +1,652 @@
+[
+  {
+    "id": "national-xingce-ziliao-2016-dishi-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年全国棉花单位面积产量比上年约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "提高了5.1%"
+      },
+      {
+        "label": "B",
+        "content": "提高了0.7%"
+      },
+      {
+        "label": "C",
+        "content": "降低了5.1%"
+      },
+      {
+        "label": "D",
+        "content": "降低了0.7%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、单位面积产量=总产量÷播种面积，故总产量为分子A、播种面积为分母B。定位材料文字部分可得A 的增\n速a=－2.2%，B 的增速b=－2.9%。代入平均数增长率公式：\n。\n故正确答案为B。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年棉花总产量最高的省（区）播种面积占全国棉花播种面积的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "52%"
+      },
+      {
+        "label": "B",
+        "content": "60%"
+      },
+      {
+        "label": "C",
+        "content": "40%"
+      },
+      {
+        "label": "D",
+        "content": "46%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、定位材料表格部分可得，2014 年棉花总产量最高的省份为新疆省，其播种面积为1953.3 千公顷，占全国\n播种面积的比重=\n。\n故正确答案为D。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "表中有几个省（区）2014 年棉花单位面积产量不低于全国平均水平的80%?",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "定位材料表格部分可得，2014 年全国棉花单位面积产量的 80%=1460.3×0.8≈1168 公斤/公顷，表中十个\n省份中：1882.5、1210.2、1442.3、1667.6 共 4 个省份不低于 1168 公斤/公顷。\n故正确答案为 C。\n\n。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第113题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "如果2014 年安徽省的棉花单位面积产量能够达到全国平均水平，那么其棉花总产量将达到约多少万吨？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "39"
+      },
+      {
+        "label": "D",
+        "content": "35"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：定位材料表格部分可得 2014 年安徽省棉花播种面积为 265.5 千公顷，按照全国平均单位面积产量\n1460.3 公斤/公顷计算，总产量=265.5×1460.3≈260×1500=39 万吨。\n\n- 16 -\n\n\f方法二：2014 年全国平均单位面积产量 1460.3 公斤/公顷，安徽的单位面积产量 992.8 公斤/公顷，全国约是安\n徽的 1.5 倍，因此，如果 2014 年安徽省的棉花单位面积产量达到全国平均水平，则其棉花总量应该是原来的 1.5\n倍即 26.3 万吨×1.5=39 万吨。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第114题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "关于2014 年棉花生产情况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项： 根据表格数据，14 年山东棉花总产量 66.5 万吨，第二；山东棉花单位面积产量 1121.6 公斤/公顷，\n小于新疆、江苏等，非第二，错误；\nB 项：14 年棉花播种面积：河南（153.3 千公顷）>湖南（130.1 千公顷）；14 年单位面积产量河南（958.0 公斤\n/公顷）<湖南（991.5 公斤/公顷），错误；\nC 项： 14 年全国棉花播种播种面积增长为－2.9%，故 14 年棉花播种面积应小于 13 年，错误；\n\nD 项：14 年新疆棉花总产量占全国的比重=\n故正确答案为 D。\n\n，正确。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第115题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年，全国平均每个公共图书馆月均流通人次约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 万多"
+      },
+      {
+        "label": "B",
+        "content": "不到1 万"
+      },
+      {
+        "label": "C",
+        "content": "2 万多"
+      },
+      {
+        "label": "D",
+        "content": "3 万多"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、2014 年平均每个公共图书馆月均流通人次=流通总人次÷图书馆数量÷月份\n12 17 万12 1.4 万\n人次。\n故正确答案为A。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年，公共图书馆电子图书藏量增长册数约是图书总藏量增长册数的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、增长量=\nr。\n2014 年公共图书电子图书藏量增长册数=\n；\n图书总藏量增长册数\n；\n则电子图书量增长册数是总藏量增长册数的\n倍。\n故正确答案为A。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2012～2014 年，平均每流通人次约产生多少册次的书刊文献外借？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.0"
+      },
+      {
+        "label": "B",
+        "content": "0.8"
+      },
+      {
+        "label": "C",
+        "content": "0.6"
+      },
+      {
+        "label": "D",
+        "content": "0.4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、2012-2014 年平均每流通人次产生的书刊文献外借册次=\n=\n0.8。\n故正确答案为B。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2008～2014 年，人均公共图书藏量同比增速快于上年的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、2007 年，人均公共图书藏量增速=\n=\n；\n2008 年，人均公共图书藏量增速=\n=\n；\n2009 年，人均公共图书藏量增速=\n=\n；\n2010 年，人均公共图书藏量增速=\n=\n；\n2011 年，人均公共图书藏量增速=\n=\n；\n2012 年，人均公共图书藏量增速=\n=\n；\n2013 年，人均公共图书藏量增速=\n=\n；\n2014 年，人均公共图书藏量增速=\n=\n；\n经两两比较，2008 年〉2007 年，2009 年〉2008 年，2012 年〉2011 年，共3 年。\n故正确答案为C。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "“十一五”期间全国公共图书馆总流通人次超过15 亿"
+      },
+      {
+        "label": "B",
+        "content": "2014 年平均每个公共图书馆拥有二十多个阅览室座席"
+      },
+      {
+        "label": "C",
+        "content": "2008～2014 年间，每年平均每万人公共图书馆建筑面积同比增速均低于12%"
+      },
+      {
+        "label": "D",
+        "content": "2008 年人均公共图书馆建筑面积增量和人均公共图书藏量增量均低于2011 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：“十一五”期间，即 2006 年-2010 年，全国公共图书馆总流通人次=2.51+2.61+2.81+3.22+3.28=14.44<15\n亿。A 项错误。\n\n= ；\n\nB 项：2014 年平均每个公共图书馆拥有阅览室坐席=\nC 项：2008 年—2014 年平均每万人公共图书馆建筑面积同比增速分别为：\n\n个，故 B 项错误。\n\n2008 年:\n\n2011 年：\n\n；2009 年:\n\n；2012 年：\n\n；2010 年：\n\n；2013 年：\n\n；\n\n；\n\n2014 年：\nD 项：2008 年人均公共图书馆建筑面积增量=58.7-56.1=2.6 平方米，2011 年人均公共图书馆建筑面积增量\n=73.8-67.1=6.7 平方米，2008 年低于 2011 年。\n2008 年人均公共图书藏量增量=0.41-0.39=0.02 册，2011 年人均公共图书藏量增量=0.47-0.46=0.01 册，2008\n\n。C 项表述正确。\n\n- 17 -\n\n\f年高于 2011 年。D 项错误。\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第120题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "截至2012 年12 月底，全国实有各类市场主体户数最接近以下哪个数字？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6100 万"
+      },
+      {
+        "label": "B",
+        "content": "5500 万"
+      },
+      {
+        "label": "C",
+        "content": "5100 万"
+      },
+      {
+        "label": "D",
+        "content": "4500 万"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由材料 “截止 2014 年 12 月底，全国实有各类市场主体 6932.22 万户，比上年末增长 14.35%，增速较上\n年同期增加 4.02 个百分点”得，2013 年增速=14.35%—4.02%=10.33%。根据隔年增长率计算公式，2014 年比 2012\n年的增长率=14.35%+10.33%+14.35%×10.33%≈26.16%。则 2012 年全国实有各类市场主体\n\n=\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第121题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "2014 年,全国新登记注册市场主体中个体工商户所占比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "75%"
+      },
+      {
+        "label": "B",
+        "content": "69%"
+      },
+      {
+        "label": "C",
+        "content": "85%"
+      },
+      {
+        "label": "D",
+        "content": "81%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由材料可知“2014 年，全国新登记注册市场主体 1292.5 万户”，其中，“个体工商户 896.45 万户”。则\n\n万，与 B 项最接近。\n\n2014 年，全国新登记注册市场主体中个体工商户所占比重为\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第122题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "2014 年，以下哪个现代服务业新登记注册企业的户数同比增速最快？",
+    "options": [
+      {
+        "label": "A",
+        "content": "科学研究和技术服务业"
+      },
+      {
+        "label": "B",
+        "content": "教育业"
+      },
+      {
+        "label": "C",
+        "content": "文化、体育和娱乐业"
+      },
+      {
+        "label": "D",
+        "content": "信息传输、软件和信息技术服务业"
+      }
+    ],
+    "answer": "D",
+    "explanation": "由材料可知，现代服务业新登记注册企业的户数中，科学研究和技术服务业同比增长 70.32%，教育业同比\n增长 86.17%，文化、体育和娱乐业同比增长 83.51%，信息传输、软件和信息技术服务业同比增长 97.87%，因此，\n同比增速最快的是信息传输、软件和信息技术服务业。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第123题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "2014 年，新登记注册外商投资企业户均注册资本约比上年同期增长：",
+    "options": [
+      {
+        "label": "A",
+        "content": "17%"
+      },
+      {
+        "label": "B",
+        "content": "12%"
+      },
+      {
+        "label": "C",
+        "content": "8%"
+      },
+      {
+        "label": "D",
+        "content": "4%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由材料可知“2014 年，新登记注册外商投资企业 3.84 万户，同比增长 5.76%”，“注册资本 1796.39 亿美\n元，同比增长 23.87%”。记 2014 年新登记注册外商投资企业注册资本为 A，增速为 a，外商投资企业户数为 B，\n\n。与选项 B 最接近。\n\n增速为 b。代入平均数增长率公式=\n最接近。\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第124题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "75"
+      },
+      {
+        "label": "B",
+        "content": "86"
+      },
+      {
+        "label": "C",
+        "content": "93"
+      },
+      {
+        "label": "D",
+        "content": "102"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：2014 年，新登记注册现代服务业企业 114.10 万户，教育业 0.68 万户，显然教育不占主要地位，故\nA 项错误。\nB 项：2014 年 12 月底，农民专业合作社 128.88 万户，新登记注册农民专业合作社 30.95 万户，则成立不满一年\n\n，结果略小于 18%，与 A 项\n\n的农民专业合作社比例=\nC 项：2014 年 12 月底，全国实有各类市场主体注册资本（金）129.23 万亿元，比上年末增长 27.70%，则 2013\n\n，故 B 项错误。\n\n年全国实有各类市场主体注册资本（金）=\n\n万亿元，故 C 项错误。\n\nD 项：2014 年科学研究和技术服务业 26.26 万户，同比增长 70.32%，则 2013 年科学研究和技术服务业=\n万户，首位只能商 1，因此不到 20 万户，故 D 项正确。\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第125题",
+    "level": "dishi"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年每实现100 万元的社会物流额，其运输费用平均约为多少万元？  - 16 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "5.6"
+      },
+      {
+        "label": "B",
+        "content": "10.6"
+      },
+      {
+        "label": "C",
+        "content": "2.6"
+      },
+      {
+        "label": "D",
+        "content": "5.0"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、定位文字材料第一段可得2014 年全国社会物流总额为213.5 万亿元，定位文字材料第二段可得物流总费用\n中运输费用为5.6 万亿元，则平均每万元社会物流额的运输费=\n≈0.026 万元，故每实现100 万元的社会物\n流额，其运输费用为2.6 万元。\n故正确答案为C。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年占全国社会物流总额比重均高于上一年水平的分类包括：",
+    "options": [
+      {
+        "label": "A",
+        "content": "再生资源物流、单位与居民物品物流、农产品物流"
+      },
+      {
+        "label": "B",
+        "content": "工业品物流、再生资源物流、单位与居民物品物流"
+      },
+      {
+        "label": "C",
+        "content": "进口货物物流、农产品物流、单位与居民物品物流"
+      },
+      {
+        "label": "D",
+        "content": "工业品物流、进口货物物流、农产品物流"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、根据两期比重比较公式：\n，可得增速a＞增速b，比重高于上一年。定位材料图形部分可得2014\n年全国社会物流总额增长率为7.9%，2013 年为9.5%，定位表格部分可得2014 年社会物流总额增速：工业品物\n流8.3%、再生资源物流14.1%、单位与居民物品物流32.9%，均大于7.9%；2013 年增速工业品物流9.7%、再生\n资源物流20.3%、单位与居民物品物流30.4%，均大于9.5%。\n故正确答案为B。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2014 年全国社会物流总额最高的季度是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第一季度"
+      },
+      {
+        "label": "B",
+        "content": "第二季度"
+      },
+      {
+        "label": "C",
+        "content": "第三季度"
+      },
+      {
+        "label": "D",
+        "content": "第四季度"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、定位材料图形部分：2014 年第一季度全国社会物流总额47.8 万亿元；第二季度=101.5－47.8=53.7 万亿元；\n第三季度=158.1－101.5=56.6 万亿元；第四季度=213.5－158.1=55.4 万亿元，可得第三季度最高。\n故正确答案为C。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "level": "dishi",
+    "year": 2016,
+    "content": "2012 年上半年全国社会物流总额约为多少万亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "75"
+      },
+      {
+        "label": "B",
+        "content": "86"
+      },
+      {
+        "label": "C",
+        "content": "93"
+      },
+      {
+        "label": "D",
+        "content": "102"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、定位材料图形部分可得2014 年上半年（第二季度累计）全国物流总额为101.5 万亿元、2014 年增长率为\n8.7%、2013 年上半年增长率为9.1%，则由间隔增长率公式可得\n。则2012 年上\n半年全国物流总额为\n万亿元，与B 项最接近。\n故正确答案为B。"
+  },
+  {
+    "id": "national-xingce-ziliao-2016-dishi-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2016,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2013 年第三季度社会物流总额同比增速高于第四季度"
+      },
+      {
+        "label": "B",
+        "content": "2014 年每万元社会物流总额的平均管理费用低于上年水平"
+      },
+      {
+        "label": "C",
+        "content": "2014 年农产品物流额在社会物流总额中的比重高于一成"
+      },
+      {
+        "label": "D",
+        "content": "2014 年单位与居民物品物流额超过2012 年的两倍 - 16 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项：观察图形，根据混合增长率居中的原则，2013 年前三季度增长率为 9.5%，前二季度为 9.1%，故第三\n季度增长率大于 9.5%；前四季度增长率为 9.5%，前三季度为 9.5%，故第四季度增长率为 9.5%；所以第三季度增\n长率高于第四季度增长率，表述正确。\n\n万亿元，与 B 项最接近。\n\nB 项：计算每万元社会物流总额的平均管理费用=\n\n，定位材料文字部分可得：2014 年管理费用（分\n\n- 18 -\n\n\f子）和社会物流总额（分母）增长率都为 7.9%，根据两期平均数比较定性分析，a=b，两期平均数不变，可得 2014\n年应等于 2013 年，错误。\n\nC 项：定位材料表格部分可得 2014 年农产品物流额占社会物流额比重=\nD 项：定位材料表格部分，根据间隔增长率公式可得 2014 年单位与居民物流对 2012 年增长率为\n\n=一成，错误。\n\n，故单位与居民物品物流 e2014 年小于 2012 年的 2 倍，错误。\n\n故正确答案为 A。\n\n- 19 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2016年国考行测（地市级）第130题",
+    "level": "dishi"
+  }
+]

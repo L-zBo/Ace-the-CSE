@@ -1,0 +1,88 @@
+{
+  "total_q": 20089,
+  "total_unanswerable": 50,
+  "bypaper": {
+    "changshi/provincial_beijing_2023": [
+      "017",
+      "018",
+      "019",
+      "020",
+      "021",
+      "022",
+      "023",
+      "024",
+      "025",
+      "026",
+      "027"
+    ],
+    "changshi/provincial_jilin_2024": [
+      "017",
+      "018",
+      "019",
+      "020"
+    ],
+    "changshi/provincial_neimenggu_2023": [
+      "018"
+    ],
+    "changshi/provincial_xinjiang_2023": [
+      "014",
+      "015",
+      "016",
+      "017",
+      "018",
+      "019",
+      "020",
+      "021",
+      "022",
+      "023",
+      "024",
+      "025"
+    ],
+    "panduan/provincial_beijing_2023": [
+      "111"
+    ],
+    "panduan/provincial_gansu_2024": [
+      "078",
+      "087"
+    ],
+    "panduan/provincial_jilin_2024": [
+      "065",
+      "066",
+      "067",
+      "068",
+      "077"
+    ],
+    "shuliang/institution_2022_c": [
+      "050"
+    ],
+    "shuliang/provincial_gansu_2024": [
+      "069",
+      "070"
+    ],
+    "shuliang/provincial_xinjiang_2023": [
+      "060",
+      "061",
+      "062",
+      "063",
+      "064",
+      "065"
+    ],
+    "yanyu/provincial_jilin_2024": [
+      "042",
+      "043",
+      "044",
+      "045"
+    ],
+    "yanyu/provincial_xinjiang_2023": [
+      "050"
+    ]
+  },
+  "byprovyear": {
+    "provincial_beijing_2023": 12,
+    "provincial_jilin_2024": 13,
+    "provincial_neimenggu_2023": 1,
+    "provincial_xinjiang_2023": 19,
+    "provincial_gansu_2024": 4,
+    "institution_2022_c": 1
+  }
+}

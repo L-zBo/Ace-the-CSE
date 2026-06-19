@@ -1,0 +1,702 @@
+[
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-101",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年全国房地产开发投资比上年增长：",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.0%"
+      },
+      {
+        "label": "B",
+        "content": "8.6%"
+      },
+      {
+        "label": "C",
+        "content": "9.5%"
+      },
+      {
+        "label": "D",
+        "content": "10.2%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：90%，易错项：B。\n\n解析\n\n第一步，本题考查简单计算中的和差类。\n第二步，定位文字材料可知，“2019 年 1—12 月，全国房地产开发投资 132194 亿元，比上年增长 9.9%，增速比\n上年加快 0.4 个百分点”。\n第三步，2018 年同比增速为 9.9%－0.4%=9.5%。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第101题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-102",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国房地产开发投资增长最快的地区：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东部地区"
+      },
+      {
+        "label": "B",
+        "content": "中部地区"
+      },
+      {
+        "label": "C",
+        "content": "西部地区"
+      },
+      {
+        "label": "D",
+        "content": "东北地区"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：89%，易错项：A。\n\n解析\n\n第一步，本题考查增长率读数比较。\n第二步，定位表 1。\n第三步，2019 年房地产开发投资增长最快的地区是“西部地区”（16.1%）。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第102题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-103",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国住宅投资在房地产开发投资中的比重约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "60%"
+      },
+      {
+        "label": "B",
+        "content": "67%"
+      },
+      {
+        "label": "C",
+        "content": "73%"
+      },
+      {
+        "label": "D",
+        "content": "83%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：89%，易错项：B。\n\n解析\n\n第一步，本题考查现期比重计算中的求比重。\n第二步，定位文字材料可知，“2019 年 1—12 月，全国房地产开发投资 132194 亿元……住宅投资 97071 亿元”。\n第三步，根据比重=部分量/整体量，选项出现首位相同第二位不同的情况，将分母从左向右截取前三位，代入数\n\n据可得：\n因此，选择 C 选项。\n\n，直除首位商 7。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第103题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-104",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国商品房销售面积同比下降幅度最大的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东部地区"
+      },
+      {
+        "label": "B",
+        "content": "中部地区"
+      },
+      {
+        "label": "C",
+        "content": "西部地区"
+      },
+      {
+        "label": "D",
+        "content": "东北地区"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：83%，易错项：A。\n\n解析\n\n第一步，本题考查增长率读数比较。\n第二步，定位表 2。\n第三步，“降幅”是指“减少率”，排除 C 选项（西部地区未下降），“降幅”的比较看绝对值， 2019 年商\n品房销售面积降幅最大的地区是“东北地区”（|－5.3%|）。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第104题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-105",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上述材料可以推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年全国住宅投资和住宅销售面积实现增长"
+      },
+      {
+        "label": "B",
+        "content": "2019 年全国商品房销售面积和销售额同时下降"
+      },
+      {
+        "label": "C",
+        "content": "2019 年东北地区商品房销售面积和销售额同时下降 - 14 -"
+      },
+      {
+        "label": "D",
+        "content": "2019 年全国住宅销售额和办公楼销售额同时下降 (材料 2)"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：80%，易错项：B。\n\n解析\n\n- 27 -\n\n\f获取试卷更新，请关注\n第一步，本题考查综合分析，且需选出正确的一项。\n第二步，A 选项，直接读数。定位文字材料可知，“2019 年 1—12 月，住宅投资增长 13.9%……住宅销售面积增\n长 1.5%”，同比增长率均大于 0 ，投资额与投资面积均实现增长，正确。\nB 选项，直接读数。定位文字材料可知， “2019 年 1—12 月，全国商品房销售面积比上年下降 0.1%……商品\n房销售额增长 6.5%”，销售 e 未下降，错误。\nC 选项，直接读数。定位表 2，2019 年东北地区商品房销售额同比增长 2.8%，销售额未下降，错误。\nD 选项，直接读数。定位文字材料可知，“2019 年 1—12 月，住宅销售额增长 10.3%，办公楼销售额下降 15.1%”，\n办公楼销售额未实现增长，错误。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第105题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比较，2 月份职工人数变动幅度最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：89%，易错项：C。\n\n解析\n\n第一步，本题考查增长率计算比较。\n第二步，定位表格材料第二列和第三列。\n第三步，根据增长率=（现期量－基期量）/基期量 ，可得甲、乙、丙、丁车间职工人数增长率分别为\n\n、\n\n、\n\n、\n\n，变动幅度最大，即变化率最大的，只需要看增长率绝\n\n对值的大小即可，显然变化率最大的是甲车间。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第106题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "月平均工资增长速度最快的车间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：89%，易错项：B。\n\n解析\n\n第一步，本题考查增长率计算比较问题。\n第二步，定位表格后两列。\n第三步，根据增长率=（现期量－基期量）/基期量，月平均工资增长速度最快，即增长率最大的，材料只给出了\n1 月和 2 月的数据，为环比增长率。丁车间月平均工资 2 月＜1 月，增长率为负，排除；甲车\n\n间：\n\n，乙车间：\n\n，丙车\n\n间：\n因此，选择 C 选项。\n\n，三者之间分母相差倍数不大，丙车间分子明显较大，则分数值较大。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第107题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "对集团公司 1、2 月份的产量贡献率最大的车间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：86%，易错项：A。\n\n解析\n\n第一步，本题考查现期比值比较问题。\n第二步，定位图 1。\n第三步，贡献率=各车间产值/总产值，对集团公司 1、2 月份的产值贡献率最大的车间，即所占比重最大的，整\n体量一致，只需比较部分量（1 月＋2 月）大小即可，观察柱状图，乙车间 1 月（600 万元）和 2 月（880 万元）\n的产值均高于其他车间，则产值最高，贡献率最大。\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第108题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比较，集团公司 2 月份的总产值增长额为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "520 万元"
+      },
+      {
+        "label": "B",
+        "content": "650 万元"
+      },
+      {
+        "label": "C",
+        "content": "680 万元"
+      },
+      {
+        "label": "D",
+        "content": "710 万元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：92%，易错项：B。\n\n解析\n\n第一步，本题考查增长量计算中的已知现期量与基期量。\n第二步，定位图 1。\n第三步，根据增长量=现期量－基期量，代入数据可得集团公司 2 月份的总产值增长额为（850+880+280+320）－\n（500+600+250+300）=（850－500）＋（880－600）＋（280－250）＋（320－300）=350+280+30+20=680（万元）。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第109题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 月份人均产值最大的是乙车间"
+      },
+      {
+        "label": "B",
+        "content": "2 月份各车间的人均产值都有所上升"
+      },
+      {
+        "label": "C",
+        "content": "2 月份丁车间的人均产值低于整个集团公司的人均产值"
+      },
+      {
+        "label": "D",
+        "content": "与上个月相比较，整个集团公司的工资增长率低于产值增长率 (材料 3)杨柳（微信：gwy288）注：此题根据中公题库整理，粉笔和华图此题均暂缺 - 15 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：30%，易错项：B。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n\n- 28 -\n\n\f获取试卷更新，请关注\n第二步，A 选项，平均数比较。定位表格材料及图形材料，人均产值=产值／人数，则 1 月份甲车间人均产值\n= =1，乙车间人均产值= =1，丙车间人均产值= =0.83，丁车间= =1.5，因此，丁车\n间人均产值最大，错误。\nB 选项，两期平均数比较。题干描述不清，并未给出 2 月份和哪个时间相比较，无法推出，错误。\nC 选项，混合平均数。由口诀可知，混合平均数介于部分平均数之间，通过 B 选项可知，丁车间 2 月份人均产值\n为四个车间中最高，所以高于整个集团公司的人均产值，错误。\nD 选项，增长率比较。定位表格材料及图形材料，整个集团 2 月工资为 550×5200+580×4600+320×6500+200×\n7950=9198000，1 月工资为 500×5000+600×4500+300×6000+200×8000=8600000，增长率\n\n为\n\n；2 月产值为 850+880+280+320=2330，1 月差值为 500+600+250+300=1650，增长率为\n\n，后者分子大分母小，分数值大，即整个集团公司的工资增长率低于产值增长率，正确。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第110题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在 4 个城市中，就业地和居住地最不匹配的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲"
+      },
+      {
+        "label": "B",
+        "content": "乙"
+      },
+      {
+        "label": "C",
+        "content": "丙"
+      },
+      {
+        "label": "D",
+        "content": "丁"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：45%，易错项：D。\n\n解析\n\n第一步，本题考查简单读数比较。\n第二步，定位图 1。\n第三步，就业地和居住地最不匹配，即为平均通勤距离和通勤空间半径数值最大，读数可知，甲城市平均通勤距\n离 11.1 公里和通勤空间半径 40 公里均为为最大。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第111题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "平均通勤距离超过了 4 个城市平均值的有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 个城市"
+      },
+      {
+        "label": "B",
+        "content": "2 个城市"
+      },
+      {
+        "label": "C",
+        "content": "3 个城市"
+      },
+      {
+        "label": "D",
+        "content": "4 个城市"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：63%，易错项：C。\n\n解析\n\n第一步，本题考查现期平均数比较。\n第二步，定位图 1，“甲城市平均通勤距离 11.1 公里，乙城市平均通勤距离 9.1 公里，丙城市平均通勤距离 8.7\n公里，丁城市平均通勤距离 8.1 公里”。\n\n第三步，根据平均数=总数/总个数=后/前，可知，4 个城市的平均值为\n则超过了平均值的城市有甲城市（11.1 公里），共 1 个。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第112题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "如果 5 公里内可采用步行或自行车等绿色出行方式上班，超过半数的通勤人口可以绿色出行方式上班的城 市有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市和乙市"
+      },
+      {
+        "label": "B",
+        "content": "甲市和丙市"
+      },
+      {
+        "label": "C",
+        "content": "乙市和丁市"
+      },
+      {
+        "label": "D",
+        "content": "丙市和丁市"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：82%，易错项：C。\n\n解析\n\n=9.25（公里）。\n\n第一步，本题考查简单比较中的读数比较问题。\n第二步，定位图 2，“甲城市 5 公里通勤比重 38%，乙城市 5 公里通勤比重 48%，丙城市 5 公里通勤比重 51%，丁\n城市 5 公里通勤比重 57%”。\n第三步，题干中“如果 5 公里内可以采用步行或自行车等绿色出行方式上班，超过半数的通勤人口可以绿色出行\n方式上班的城市”可理解为：超过半数的通勤人口在 5 公里以内的城市，即 5 公里通勤比重大于一半（50%）的\n城市。读数可知，超过半数（50%）的有丙城市（51%）和丁城市（57%）。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第113题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "通勤人口被轨道交通覆盖的比重最大的城市是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市"
+      },
+      {
+        "label": "B",
+        "content": "乙市"
+      },
+      {
+        "label": "C",
+        "content": "丙市"
+      },
+      {
+        "label": "D",
+        "content": "丁市"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：71%，易错项：D。\n\n解析\n\n第一步，本题考查简单比较中的读数比较问题。\n第二步，定位图 2，“甲城市轨道覆盖比重 27%，乙城市轨道覆盖比重 33%，丙城市轨道覆盖比重 37%，丁城市轨\n道覆盖比重 30%”。\n第三步，通勤人口被轨道交通覆盖的比重最高的是丙城市（37%）。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第114题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "关于 4 个城市通勤的公共交通情况，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲市公共交通服务能力最强但是轨道覆盖通勤最差"
+      },
+      {
+        "label": "B",
+        "content": "甲市公共交通服务能力最弱并且轨道覆盖通勤最差"
+      },
+      {
+        "label": "C",
+        "content": "乙市公共交通服务能力最强但是轨道覆盖通勤一般"
+      },
+      {
+        "label": "D",
+        "content": "丁市公共交通服务能力最强并且轨道覆盖通勤最好 (材料 4) - 16 -"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：74%，易错项：C。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，读数比较，定位图 2，根据政府《报告》可知，45 分钟通勤时间是合理通勤的基本保障，也反\n\n- 29 -\n\n\f获取试卷更新，请关注\n映了公共交通系统与职住空间的契合程度。45 分钟公交服务能力比重越高，说明公共交通系统对城市通勤的保\n障越好，即 45 分钟公交能力占比越高代表公交服务能力越强。甲城市 45 分钟公交能力占比为 32%，低于乙城市\n（39%）、丙城市（50%）、丁城市（57%），占比不是最高，即公共交通服务能力不是最强，错误。\nB 选项，读数比较，定位图 2，甲城市 45 分钟公交能力占比为 32%，低于乙城市（39%）、丙城市（50%）、丁城\n市（57%），占比最低，即公共交通服务能力最弱；甲城市轨道覆盖比重为 27%，低于乙城市（33%）、丙城市（37%）、\n丁城市（30%），占比最低，即轨道覆盖通勤最差，正确。\nC 选项，读数比较，定位图 2，乙城市 45 分钟公交能力占比为 39%，低于丙城市（50%）、丁城市（57%），占比\n不是最高，即公共交通服务能力不是最强，错误。\nD 选项，读数比较，定位图 2，丁城市 45 分钟公交能力占比为 57%，高于甲城市（32%）、乙城市（39%）、丙城\n市（50%），占比最高，即公共交通服务能力最强；丁城市轨道覆盖比重为 30%，低于乙城市（33%）、丙城市（37%），\n占比不是最高，即轨道覆盖通勤不是最好，错误。\n因此，选择 B 选项。\n\n拓展\n\n在路程耗时方面，某政府《报告》指出，45 分钟通勤时间是合理通勤的基本保障，也反映了公共交通系统与职\n住空间的契合程度。45 分钟公交服务能力比重越高，说明公共交通系统对城市通勤的保障越好。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第115题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "妇幼出院人数占 4 所三甲医院妇科和儿科出院总数比重最小的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲医院"
+      },
+      {
+        "label": "B",
+        "content": "乙医院"
+      },
+      {
+        "label": "C",
+        "content": "丙医院"
+      },
+      {
+        "label": "D",
+        "content": "丁医院"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：59%，易错项：D。\n\n解析\n\n第一步，本题考查比重比较。\n第二步，定位表格材料。\n第三步，根据比重=部分量/整体量，整体量一致，均为 4 所医院妇科和儿科出院人数之和，比较比重大小，可转\n为比较部分量大小。4 所医院妇科和儿科出院人数之和分别为：甲，320+130=450（人）；乙，840+580=1420（人）；\n丙，450+350=800（人）；丁，280+240=520（人）。甲医院部分量最小，即占比最小。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第116题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "该市三甲医院外科的治愈率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30%—50%"
+      },
+      {
+        "label": "B",
+        "content": "50%—70%"
+      },
+      {
+        "label": "C",
+        "content": "70%—90%"
+      },
+      {
+        "label": "D",
+        "content": "90%以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：62%，易错项：A。\n\n解析\n\n第一步，本题考查现期比值计算。\n第二步，定位表格材料。\n第三步，解法一：根据治愈率=治愈人数/出院人数，选项为范围，数据本身比较简单，不处理数据直接计算，外\n\n科治愈率\n因此，选择 D 选项。\n解法二：每个医院外科的治愈率均高于 90%，则整体治愈率必然高于 90%。\n因此，选择 D 选项。\n\n≈94%，即 90%以上。\n\n=",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第117题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "外科治愈率最高的医院是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲医院"
+      },
+      {
+        "label": "B",
+        "content": "乙医院"
+      },
+      {
+        "label": "C",
+        "content": "丙医院"
+      },
+      {
+        "label": "D",
+        "content": "丁医院"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：63%，易错项：D。\n\n解析\n\n第一步，本题考查现期比值比较。\n第二步，定位表格材料。\n第三步，根据治愈率=治愈人数/出院人数，比较大小，数据本身比较简单，不处理数据直接计算，4 所医院外科\n\n治愈率分别为：甲，\n科治愈率最高。\n因此，选择 C 选项。\n\n；乙，\n\n；丙，\n\n；丁，\n\n，直除首两位分别商 91、90、95、94，则丙医院外",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第118题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "治愈率最低的科室是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "内科"
+      },
+      {
+        "label": "B",
+        "content": "外科"
+      },
+      {
+        "label": "C",
+        "content": "妇科"
+      },
+      {
+        "label": "D",
+        "content": "儿科"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：77%，易错项：D。\n\n解析\n\n第一步，本题考查现期比值比较。\n第二步，定位表格材料。\n第三步，解法一：根据治愈率=治愈人数/出院人数，比较大小，数据本身比较简单，不处理数据直接计算，则 4\n\n个科室治愈率分别为：内科，\n\n；外科，\n\n- 30 -\n\n\f获取试卷更新，请关注\n；妇科，\n\n；儿科，\n\n，则内科治愈率最低。\n\n因此，选择 A 选项。\n解法二：通过观察表格中数据可以发现，4 所医院内科的治愈人数和出院人数相差较大，其他几个科室数据均较\n为接近，则 4 所医院的内科治愈率均明显低于其他科室，故整体来看，治愈率最低的科室是内科。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第119题",
+    "region": "shaanxi"
+  },
+  {
+    "id": "provincial-shaanxi-xingce-ziliao-2020-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲医院的总体治愈率最低，说明甲医院的治疗水平低于其它三所医院"
+      },
+      {
+        "label": "B",
+        "content": "乙医院的总体治愈率高于其他三所医院的原因是该医院妇科和儿科的出院人数最多"
+      },
+      {
+        "label": "C",
+        "content": "丙医院的内科治愈率低于本院的其它科室，说明内科治疗水平低于本院其它科室"
+      },
+      {
+        "label": "D",
+        "content": "丁医院儿科的治疗水平高于其他三所医院 - 17 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：24%，易错项：B。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，现期比值比较，定位表格材料，根据治愈率=治愈人数/出院人数，则 4 所医院的治愈率分别为：\n\n≈81.4%；丙，\n\n≈58.6%；乙，\n\n甲，\n疗水平低于其他医院，正确。\nB 选项，现期比值比较，定位表格材料，根据 A 选项可知，乙医院治愈率最高，且直接读数可知，乙医院妇科和\n儿科出院人数最多，但治愈率应与治愈人数和出院人数都有关系，不能仅通过出院人数判定，错误。\nC 选项，现期比值比较，定位表格材料，根据治愈率=治愈人数/出院人数，丙医院内科、外科、妇科、儿科的治\n\n≈65.8%，甲医院治愈率最低，则治\n\n≈67.6%；丁，\n\n愈率分别为\n其他医院也均为内科治愈率最低，不同科室的治愈率并不能代表不同科室的治疗水平，错误。\n\n＞50%，内科治愈率低于其他科室，观察数据可以看出\n\n＞50%、\n\n＞50%、\n\n＜50%、\n\nD 选项，现期比值比较，定位表格材料，根据治愈率=治愈人数/出院人数，丁医院儿科的治愈率为\n\n＜\n\n＝\n\n80%，丙医院儿科的治愈率\n错误。\n因此，选择 A 选项。\n\n＞80%，故丁医院儿科的治愈率低于丙医院，丁医院的儿科治疗水平不是最高的，\n\n- 31 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shaanxi行测第120题",
+    "region": "shaanxi"
+  }
+]

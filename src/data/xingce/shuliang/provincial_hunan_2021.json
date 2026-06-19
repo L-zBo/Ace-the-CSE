@@ -1,0 +1,388 @@
+[
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一次 2 小时的在线会议，会议结束前半小时才有人开始退出且每分钟退出会议人数满足 4+（-1）ⁿ ,（n=1， 2，3，...，30）。若会议开始后加入会议人数是退出人数的 1.5 倍，且会议结束时还有 100 人在线，问会议开 始时可能有多少人在线？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "70"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：11%，易错项：C。\n解析\n第一步，本题考查基础计算问题。\n第二步，退出人数4+（-1），（n=1，2，3，……，30），当n为奇数时，会有3个人退出，当n为偶数时，会\n有5个人退出，n=30，奇偶各一半，共（3+5）×15=120人。\n第三步，会议开始后加入会议人数是退出人数的1.5倍，则加入120×1.5=180人，设会议开始时可能有X人在\n线，则180+X-120=100，X=40。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第56题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "张三与李四骑马观光，从东方村开始，途经幸福村到胜利村。从东方村骑行 1 小时后，张三:“已经走了多 远？”李四:“刚好是到幸福村的一半。”两人又骑行 20 公里后，张三:“到胜利村还有多远？”李四:“刚巧是 离幸福村的一半那样远。”则东方村到胜利村的距离是多少公里？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "35"
+      },
+      {
+        "label": "C",
+        "content": "40"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：49%，易错项：B。\n解析\n第一步，本题考查行程问题。\n第二步，本题中“刚巧是离幸福村的一半那样远”表述不明，故有两种解法：\n①骑行1小时，走了东方村和幸福村之间路程的一半。又骑20公里，剩余的距离是胜利村到幸福村的一半。如\n图所示，可知第一次问是等分前半段路，第二次问是等分后半段路，则20公里是全程的一半，那么全程为2×\n20=40（公里）。\n20公里\n东方村\n第一次问\n幸福村\n第二次问\n胜利村\n②骑行1小时，走了东方村和幸福村之间路程的一半。又骑20公里，所站位置到胜利村是所站位置到幸福村的\n一半。如图所示。\n- 15 -\n2s\n东方村\n第一次问\n幸福村\n第二次问\n胜利村\n20公里\n由于s小于幸福村到胜利村的一半（1.5s），可知全程小于20×2，排除选项中的40、45；代入30，有（20-2s）\n+s+20=30，得到s=10，那么第一次问到幸福村距离是20-2s=0，不符合题意。路程在30一40之间，只有B符合\n题意。\n结合两种解法，命题人应更倾向于考查第一种。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第57题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某直播平台为 3 种特色农产品直播带货 3 小时，第 1 小时 B 产品销售额比 A 产品多 50 万元，C 产品只有 B 产品的 60%；第 2 小时与第 1 小时相比：A 翻倍，B 增加幅度比 A 少 20%，而 C 增加两倍；最后 1 小时共带货 3090 万元，且 A 产品带货额比第 1 小时大幅增加 300%，B、C 均比第 2 小时增加 50%，问第 2 小时直播带货额是多少 万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1580"
+      },
+      {
+        "label": "B",
+        "content": "1600"
+      },
+      {
+        "label": "C",
+        "content": "1860"
+      },
+      {
+        "label": "D",
+        "content": "2000"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：50%，易错项：B。\n解析\n第一步，本题考查基础应用题。\n第二步，设第一小时A产品销售额为x，根据第1小时B产品销售额比A产品多50万元，C产品只有B产品的\n加幅度比A少20%，而c增加两倍。则第二小时A产品销售额为2x，B产品销售额为（1+0.8）×（x+50），C\n产品销售额为3×0.6×（x+50）；根据A产品带货额比第1小时大幅增加300%，B、C均比第2小时增加50%，\n09+×）×8×9309+×）×8×98x.\n由最后1小时共带货3090万元，可得4x+1.5×1.8×（x+50）+1.5×1.8×（x+50）=3090，求得x=300。最\n098=（09+×）×8+（09+×）×8+×2二\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第58题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "边长为整数且成等差数列的三个正方形，面积之和不大于 5000，其中有两个正方形的面积之和等于第 3 个 正方形的面积，这样的正方形存在多少组？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：10%，易错项：C。\n解析\n第一步，本题考查几何问题。\n第二步，设三个正方形边长分别为a-n、a、a+n（a、n都是正整数），那么由题意有：（a-n）²+a²=（a+n）²，\n化简为a²=4an，由于a为正整数可知a=4n。可知三个正方形边长分别为3n、4n、5n，面积之和为（3n）²+（4n）\n²+（5n）^=50n²≤5000，n²≤100，n可以取1到10，共10组解。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第59题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "小张和小李负责生产 1200 个零件，小张每天均生产 20 个。小李第一天生产 10 个，往后除最后一天外，每 一天的产量都比前一天多 1 个。问整个任务中小张生产的个数比小李：",
+    "options": [
+      {
+        "label": "A",
+        "content": "多 40 个"
+      },
+      {
+        "label": "B",
+        "content": "多 80 个"
+      },
+      {
+        "label": "C",
+        "content": "少 40 个"
+      },
+      {
+        "label": "D",
+        "content": "少 80 个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：11%，易错项：C。\n解析\n第一步，本题考查数列问题。\n第二步，根据题意，小张和小李每天完成的零件数之和是首项为30，公差为1的等差数列，设除最后一天外，\n前面两人加工了n天，则有不等式[30+（30+n-1）]×n÷2≤1200，解得n最大为27，即两人一共干了28天，\n小张完成28×20=560个，小李完成1200-560=640个，640-560=80个，则小张比小李少生产80个。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第60题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一车救灾物资从早上 8 点起开始运往 1900 公里外的某地，白天平均车速 80 公里/小时，夜间 60 公里/小时 （假定 8:00 到 18:00 为白天，其他时段为夜间），司机每驾驶 2 小时必须休息 20 分钟，且每名司机每天驾驶时 间不能超过 8 小时（00:00 后即为新的一天）。问车上至少应配备几名司机且至少要用多长时间才能抵达该地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 名；27 小时 15 分"
+      },
+      {
+        "label": "B",
+        "content": "3 名；27 小时 25 分"
+      },
+      {
+        "label": "C",
+        "content": "4 名；33 小时 30 分"
+      },
+      {
+        "label": "D",
+        "content": "4 名；33 小时 40 分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：9%，易错项：B。\n解析\n第一步，本题考查统筹优化问题。\n第二步，一天24小时，每名司机每天驾驶时间不超过8小时，故配备3名司机即可，3名司机课互相接替轮流\n驾驶，这样可以连续驾驶。8点一18点共10小时，可行驶80×10=800（公里）；18点一第二天早上8点共14\n小时，可行驶60×14=840（公里），第二天8点时还差1900一800-840=260（公里），需要260÷80=3.25\n（小时）即3小时15分钟，那么共需要24小时+3小时15分钟=27小时15分钟。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第61题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "工匠师傅甲擅长制作工艺品 A、师傅乙擅长制作工艺品 B，当有制作 A 任务时甲只制作 A，有制作 B 任务时， 乙只制作 B。两人 8 周可以制作一车工艺品 A，如由乙单独完成则需 40 周。两人 60 天可制作一车工艺品 B，如 由甲单独完成则需 30 周。现需要制作 A、B 各占一半的一车工艺品，问两位师傅共同完成需要多少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "师傅乙擅长制作工艺品 B，当有制作 A 任务时甲只制作 A，有制作 B 任务时， 乙只制作 B。两人 8 周可以制作一车工艺品 A，如由乙单独完成则需 40 周。两人 60 天可制作一车工艺品 B，如 由甲单独完成则需 30 周。现需要制作 A、B 各占一半的一车工艺品，问两位师傅共同完成需要多少天？ A、40"
+      },
+      {
+        "label": "B",
+        "content": "45"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "55"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：8%，易错项：B。\n解析\n第一步，本题考查工程问题。\n第二步，1周=7天，统一时间单位，将周均转化成天。赋值一车工艺品A的量为280（56和280的公倍数），\n-16 -\n那么乙的效率为1，两人的效率和为5，则甲的效率为4。赋值一车工艺品B的量为420（60和210的公倍数），\n那么甲的效率为2，两人的效率和为7，则乙的效率为5。\n第三步，A、B各占一半的一车工艺品，工艺品A的量为140，工艺品B的量为210，甲做工艺品A需要140÷4\n=35（天），而与此同时乙已做工艺品B的量为5×35=175，那么工艺品B还剩210-175=35，甲乙合作需要\n35÷（5+2）=5（天），共计需要35+5=40（天）。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考hunan行测第62题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "一个工程的实施有甲、乙、丙和丁四个工程队供选择。已知甲、乙、丙的效率比为 5:4:3，如果由丁单独实 施，比由甲单独实施用时长 4 天，比由乙单独实施用时短 5 天。问四个队共同实施，多少天可以完成（不足 1 天 的部分算 1 天）？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "13"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查工程问题。\n第二步，赋值甲乙丙的效率分别为5、4、3，由于天数有具体数值，令工程总量为5、4、3的公倍数60x，那么\n甲乙的天数分别为12x、15x。由丁比甲多4天，比乙少5天，可知15x-12x=5+4，解得x=3。\n第三步，总量为180，丁的时间为12x+4=40天，效率为180÷40=4.5。四队合干需要180÷（5+4+3+4.5）≈10.9，\n取整为11天。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考hunan行测第63题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲单位职工人数是乙单位的 2 倍，两个单位所有职工中正好有一半是党员。其中甲单位职工中党员占比比乙 单位高 15 个百分点，且甲单位的职工中群众人数比乙单位多 18 人。问甲单位职工中，党员比群众多多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：12%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设乙单位总人数为x，群众为y。已知“甲单位职工人数是乙单位的2倍”，所以甲单位的总人数为2x。\n中，+由中电，\n员”，所以群众也是一半，根据这个建立等量关系，2（y+y+18）=x+2x①。“已知甲单位职工中党员占比比乙单\ny + 18\n+15%=\n位高15个百分点\"哪么甲单位的群众占比比乙单位低15个百分点，根据这个建立等量关系，2c\n②。\n第三步，解这两个方程，x=60，y=36，所以甲单位的总人数2x=120，群众为y+18=36+18=54，所以党员为120-54=66.\n所以党员比群众多66-54=12。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第64题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2020 年老张的年龄是小王年龄的 4 倍，2021 年老李的年龄是小王年龄的 3 倍，已知老张比老李大 12 岁，问 - 8 - 哪一年三人的年龄之和第一次超过 140 岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020"
+      },
+      {
+        "label": "B",
+        "content": "2023"
+      },
+      {
+        "label": "C",
+        "content": "2026"
+      },
+      {
+        "label": "D",
+        "content": "2029"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：18%，易错项：C。\n解析\n第一步，本题考查年龄问题。\n第二步，设2020年小王年龄为x岁，则老张年龄为4x岁，2021年小王年龄为x+1岁，老李年龄为3（x+1）岁。\n根据题意列方程4x-[3（x+1）-1]=12，解得x=14岁，即2020年小王14岁，老张56岁，老李44岁，三人年龄\n和为14+56+44=114岁。（140-114）÷38.6，即过9年三人年龄和超过140岁。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考hunan行测第65题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2021-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： 第四部分 判断推理",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：68%，易错项：A。\n解析\n第一步，观察特征。\n图形组成均为圆点，优先考虑数量类元素个数。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行圆点个数为6、1、8整体相加为15；第二行圆点个数为7、5、3整体相加为15；第三行后两幅图形圆点\n个数为9、4，根据前两行元素整体相加为15，所以“？”应为2个圆点，只有B选项符合。\n九宫格也可看整体，圆点数量1一9遍历分布，所以“？”缺2个圆点，并且奇数个圆点都为白色，偶数个圆点都\n为黑色，B项符合。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考hunan行测第66题",
+    "region": "hunan",
+    "questionImage": "/img/questions/provincial_hunan_2021/q066.png"
+  }
+]

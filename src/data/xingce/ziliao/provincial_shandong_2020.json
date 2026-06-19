@@ -1,0 +1,679 @@
+[
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-022",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "0%，增速放缓，占国产工业机器人销售总量的 56.6%，比上年有所回落；焊接和钎焊机器人销售 0.51 万台， 同比增长 36.3%；装配与拆卸机器人销售 0.37 万台，同比增长 129%。此外涂层与胶封机器人的销售也实现了 32.9% 的增长，特别是其中的喷漆上釉机器人销量增长了 138%，而洁净室机器人和加工机器人的销售量均出现了同比 下降。 从应用行业看，3C 行业和电气设备行业销量均超过 5000 台，分列第一第二位，特别是电气设备行业，同比 大幅增长 3 倍有余。汽车行业销量同比增长 45.4%；非金属矿物制品业销量同比增长 125%。此外，在家具、服装、 烟草等消费品制造行业的机器人消费量均翻番。",
+    "options": [
+      {
+        "label": "A",
+        "content": "“正确”指符合事实、规律、道理或某种公认的标准。不符合语境，排除 A 项。"
+      },
+      {
+        "label": "B",
+        "content": "“独到”意思是与众不同，独特造诣。符合语境。"
+      },
+      {
+        "label": "C",
+        "content": "“完美”指完备美好；没有缺陷。不符合语境，排除"
+      },
+      {
+        "label": "D",
+        "content": "“高明”指见解独到不同凡人，或技艺高超。符合语境。\n第二步，分析第二空。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：79%，易错项：A。\n解析\n第一步，突破口在第二空。根据“但惯用套路无非是……”可知，前面填入的词语与“惯用套路”语义相反，表\n示新奇，独特的意思。A项“正确”指符合事实、规律、道理或某种公认的标准。不符合语境，排除A项。B项\n“独到”意思是与众不同，独特造诣。符合语境。C项“完美”指完备美好；没有缺陷。不符合语境，排除C项。\nD项“高明”指见解独到不同凡人，或技艺高超。符合语境。\n第二步，分析第二空。B项“姿态”指容貌神态，样子，风格，气度等。D项“模样”指人的长相或装束打扮的\n样子。根据语境可知，“公知”和“大V”群体指点江山的样子有意见领袖的风格，而不是长得像意见领袖，因\n此排除D项。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第22题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-076",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年国产工业机器人累计销售量较上年约增加了多少万台？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.20"
+      },
+      {
+        "label": "B",
+        "content": "0.31"
+      },
+      {
+        "label": "C",
+        "content": "0.42"
+      },
+      {
+        "label": "D",
+        "content": "0.53"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：82%，易错项：B。\n解析\n第一步，本题考查增长量计算中的已知现期量与增长率。\n第二步，定位第一段可知，“2016年国产工业机器人全年累计销售29144台，较上年增长16.8%”。\n第三步，16.8%≈ ，根据增长量计算n+1原则，则2016年国产工业机器人累计销售量较上年约增加 （台），\n直除首位商4。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第76题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-077",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "以下饼图中，最能准确反映 2015 年不同机械结构的国产工业机器人销量分布状况的是（白色：多关节机器 人、斜线：坐标机器人、黑色：其他机器人）：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据材料时间为2016年及题干“最能准确反映2015年······分布状况的是”，可判定本题为基期比重问题。定位文字材料第二段，“2016年国产多关节机器人······占国产工业机器人总销量的，比上年提高12.9个百分点。坐标机器人······占销售总量的比重为，比上年回落3.5个百分点”。可得，2015年国产多关节机器人（白色部分）占国产工业机器人总销量的比重为，坐标机器人（斜线部分）所占比重为，其他机器人（黑色部分）占比为，只有B项满足黑色部分占比为。\n故正确答案为B。\n\n[来源 baijing1.top paperId=273 sort=77 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第77题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2020/q077.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-078",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年装配与拆卸机器人销量占国产工业机器人总销量比重比上年约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了 2 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "下降了 6 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "提升了 2 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "提升了 6 个百分点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：45%，易错项：C。\n解析\n第一步，本题考查两期比重计算。\n第二步，定位文字材料第一、三段可知，“2016年国产工业机器人全年累计销售29144台，较上年增长16.8%……\n装配与拆卸机器人销售0.37万台，同比增长129%”。\n第三步，根据两期比重比较口诀“部分增长率a高于整体增长率b，比重上升；反之，比重下降”，a（129%） b\n（16.8%），比重上升，排除A、B选项；根据“两期比重差值 |a－b|”，故答案应 |129%－16.8%|=112.2%，\n无法排除选项，根据两期比重差值计算公式 ，29144台≈2.91万台，则有\n，即提升了6.25个百分点，与D选项最接近。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第78题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-079",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列指标中，2015、2016 连续两年均实现增长的是： ①国产多关节机器人销量 ②搬运与上下料机器人销量 - 10 - ③圆柱坐标机器人销量 ④并联机器人销量占总销量的比例",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②"
+      },
+      {
+        "label": "B",
+        "content": "①③"
+      },
+      {
+        "label": "C",
+        "content": "②④"
+      },
+      {
+        "label": "D",
+        "content": "③④"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：83%，易错项：B。\n解析\n第一步，本题考查简单比较中的读数比较。\n第二步，①定位第二段可知“2016年国产多关节机器人销量增速已连续两年超过70%”，增速为正，故其2015、\n2016连续两年销量均实现增长，符合；②定位第三段可知“2016年搬运与上下料同比增长22%，增速放缓”，\n可知其2016年销量增加（增速为22%），2015年销量也一定是增加（2015年增速应高于22%），符合；③定位\n-21-\n第二段可知“2016年圆柱坐标机器人销售则出现超过30%的下降”，2016年销量下降，不符合；④定位第一、\n二段可知“2016年国产工业机器人全年累计销售29144台，较上年增长16.8%……并联机器人销售增长8%”，\n根据两期比重比较口诀“部分增长率a高于整体增长率b，比重上升；反之，比重下降”，a（8%） b（16.8%），\n比重下降，2016年比例下降，不符合。\n第三步，综上所述，③、④均不符合题意，仅①、②符合题意。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第79题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-080",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "关于 2016 年国产工业机器人销售状况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "工厂用 AGV 机器人销量较上年增加了 500 多台"
+      },
+      {
+        "label": "B",
+        "content": "焊接和钎焊机器人销量占总销量的 2 成以上"
+      },
+      {
+        "label": "C",
+        "content": "3C、汽车行业销量占总销量比重均同比上升"
+      },
+      {
+        "label": "D",
+        "content": "电气设备行业销售增量超过 3000 台"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查综合分析，且需选出正确的一项。\n第二步，A选项，增长量计算。定位第二段可知，“2016年，工厂用AGV机器人销量超过2100台，同比增长23.9%”，",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第80题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-037",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "9%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：22%，易错项：C。\n解析\n第一步，本题考查基础应用题，用比例法解题。\n第二步，1立方米的可燃冰可产生0.8立方米的水，即每立方米少0.2立方米。现在少了22立方米，可知原来\n的可燃冰有22÷0.2=110（立方米），可产生天然气110×164=18040（立方米），多于1.8万立方米。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第37题",
+    "region": "shandong",
+    "meta": {
+      "invalid": true,
+      "reason": "empty_content_or_garbage"
+    },
+    "questionImage": "/img/questions/provincial_shandong_2020/q037.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-081",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2011～2017 年间，我国生物质发电年末装机容量同比增速最快的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2011 年"
+      },
+      {
+        "label": "B",
+        "content": "2013 年"
+      },
+      {
+        "label": "C",
+        "content": "2014 年"
+      },
+      {
+        "label": "D",
+        "content": "2017 年"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：66%，易错项：D。\n解析\n第一步，本题考查增长率计算比较。\n第二步，定位柱状图。\n第三步，根据增长率=（现期量－基期量）/基期量，选项无具体数据，分母从左向右截取前三位，分子为减法，\n考虑截位舍相同，可得选项中各个年份的增长率分别为： ， ，\n， ，直除首两位分别商27、16、18、20，最大的为2011年。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第81题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-082",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "“十二五”（2011～2015 年）期间，我国生物质发电总量在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于 1700 亿千瓦时"
+      },
+      {
+        "label": "B",
+        "content": "1700～2000 亿千瓦时"
+      },
+      {
+        "label": "C",
+        "content": "2000～2300 亿千瓦时"
+      },
+      {
+        "label": "D",
+        "content": "大于 2300 亿千瓦时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：74%，易错项：C。\n解析\n第一步，本题考查简单计算中的和差类。\n第二步，定位折线图。\n第三步，选项为范围类数据，数据不做处理，可得“十二五”（2011～2015年）期间，我国生物质发电总量\n=315+315+383+417+519=1949（亿千瓦时），在1700～2000亿千瓦时范围内。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第82题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-083",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年平均每个农林生物质发电项目的年发电量约是沼气发电项目的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "17"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：75%，易错项：D。\n解析\n第一步，本题考查平均数与倍数杂糅。\n第二步，定位第一段文字材料，“（截至2017年底，我国）农林生物质发电项目271个，年发电量397.3亿千\n瓦时……沼气发电项目137个，年发电量22.0亿千瓦时”。\n-22-\n第三步，根据平均数=后/前，即年发电量/发电项目，数据本身较为简单，做取整处理，可得2017年平均每个农\n林生物质发电项目的年发电量约是沼气发电项目的倍数约为\n。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第83题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-084",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "以下饼图中，能准确反映 2017 年末我国农林生物质发电项目（斜线）、生活垃圾焚烧发电项目（白色）和 沼气发电项目（黑色）装机容量占全国生物质发电装机容量比重的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“以下饼图中，能准确反映2017年······占······比重的是”，结合材料中时间为2017年，可判定本题为现期比重问题。定位文字材料第一段，截至2017年底，我国共有30个省（区、市）投产了747个生物质发电项目，并网装机容量1476.2万千瓦（不含自备电厂）。其中农林生物质发电项目271个，累计并网装机700.9万千瓦；生活垃圾焚烧发电项目339个，累计并网装机725.3万千瓦；沼气发电项目137个，累计并网装机50.0万千瓦。因此，农林生物质发电项目装机容量比重为，观察图形，可排除B、D两项，同时生活垃圾焚烧发电项目装机容量大于农林生物质发电项目，故其占比也大于农林生物质发电项目，观察图形，可排除C项。\n故正确答案为A。\n\n[来源 baijing1.top paperId=273 sort=84 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第84题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2020/q084.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-085",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "关于全国生物质发电状况，能够从上述资料中推出的是： - 11 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017 年全国垃圾清运量超过 3 亿吨"
+      },
+      {
+        "label": "B",
+        "content": "如用化石能源发电，每吨标煤会产生 3 吨以上的二氧化碳排放"
+      },
+      {
+        "label": "C",
+        "content": "2017 年末我国生物质发电每万千瓦并网装机容量全年发电量在 5000 到 10000 千瓦时之间"
+      },
+      {
+        "label": "D",
+        "content": "如保持 2017 年同比增量不变，“十三五”（2016～2020 年）生物质发电总量将超过 4500 亿千瓦时"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：39%，易错项：C。\n解析\n第一步，本题考查综合分析，且需选出正确的一项。\n第二步，A选项，现期比重中求整体。定位最后一段文字材料，“（2017年，全国）垃圾焚烧发电共计处理城镇\n生活垃圾约10600万吨，约占全国垃圾清运量的37.9%”。根据整体量=部分量/比重，又10600万吨=1.06亿吨，\n可得2017年全国垃圾清运量为 （亿吨）＜3（亿吨），错误。\nB选项，现期平均数计算。定位最后一段文字材料，“（2017年，全国）生物质发电代替化石能源约2500万吨\n标煤，减排二氧化碳约6500万吨”。根据平均数=后/前，即二氧化碳排放量/标煤量，又根据材料可得，全国生\n物质发电代替化石能源约2500万吨标煤，减排二氧化碳约6500万吨，即全国生物质发电代替化石能源发电，每\n吨标煤约减排 （吨），因无全国生物质发电产生的二氧化碳的数据，则只能确定化石能源发电的二\n氧化碳排放量≥2.6（吨），无法判定是否超过3吨，错误。\nC选项，现期平均数计算。定位第一段文字材料，“截至2017年底，我国共有30个省（区、市）投产了747个\n生物质发电项目，并网装机容量1476.2万千瓦（不含自备电厂），年发电量794.5亿千瓦时”。根据平均数=\n后/前，即年发电量/并网装机容量，又794.5亿千瓦时=794.5×10000万千瓦时，可得2017年末我国生物质发\n电量每万千瓦并网装机容量全年发电量= 万千瓦时，不在5000—10000千瓦时之间，错误。\nD选项，现期量计算。定位折线图。根据增长量=现期量－基期量，可得2017年的同比增量=795－634=161。又\n根据现期量=基期量+增长量，可得2018年=795+161=956、2019年=2018年+161=956+161=1117、2020年=2019年\n+161=1117+161=1278，则“十三五”（2016～2020年）生物质发电总量=634+795+956+1117+1278=4780（亿千瓦\n时）＞4500（亿千瓦时），正确。\n因此，选择D选项。\n拓展\n注意C选项单位",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第85题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-228",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "5%；手持订单量为 3662.3 万载重吨，同比下降 6.4%，分别占全国份额的 33.1%、41.3%和 42.0%。 2017 年，J 省沿海三市接待国内游客 10558.01 万人次，同比增长 12.6%；接待入境过夜旅游者 27.65 万人 次，同比增长 8.1%。 2017 年，J 省实现海水养殖产量 93.1 万吨，同比增长 3%；海洋捕捞产量 53 万吨，同比下降 3.4%；远洋渔 业产量 2.9 万吨，同比增长 43.3%。 2017 年，J 省海工装备产值同比增长 6.9%。全省沿海地区风电装机容量达到 589.7 万千瓦，同比增长 16.6%； 海上风电装机容量达到 162.5 万千瓦，同比增长 46.3%。2017 年，全省完成海水淡化产量 1.31 万吨，同比增长",
+    "options": [
+      {
+        "label": "A",
+        "content": "66 亿元"
+      },
+      {
+        "label": "B",
+        "content": "72 亿元"
+      },
+      {
+        "label": "C",
+        "content": "726 亿元"
+      },
+      {
+        "label": "D",
+        "content": "776 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "，全站正确率：73%，易错项：D。\n解析\n第一步，本题考查基期倍数计算问题。\n第二步，定位文字材料第五段，“2017\n年，J\n省实现海水养殖产量93.1\n万吨，同比增长3%；海洋捕捞产量53\n万吨，同比下降3.4%”。\n第三步，根据基期倍数公式：\n，代入相应数据为\n，直除前一半\n略小于1.8，\n而后一半\n略小于1，结合选项，为1.6\n倍。\n因此，选择C\n选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第228题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-007",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "4%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：39%，易错项：D。\n解析\n第一步，本题考查物理常识。\n第二步，机械能是动能与势能的总和，势能分为重力势能和弹性势能。当跳伞运动员匀速下降时，因为速度不变，\n所以动能不变。因为重力做功导致重力势能减小，所以机械能逐渐减小。\n因此，选择B选项。\n拓展\nA项：物体从高空下落是做自由落体运动，自由落体的计算公式是:v=gt，g为重力加速度，是一个定值，一般取\n值为10m/s²。t为从一下落开始计时的时间。因此速度与时间成正比，所以，高处落下的物体，随着时间的延长，\n速度会越来越快。并不是因为惯性的作用，而是因为重力的作用。\nC项：当物体受到非平衡力的作用时，物体的运动速度必然发生改变。但当物体受到平衡力时，合力为0，效果\n相当于没有受力，物体的运动速度不发生改变。因此C的说法不正确。\nD项：物体在空中飞行时所受到的空气阻力，可以用公式F=（ ）CρSV^2 计算。式中：C为空气阻力系数；\nρ为空气密度；S物体迎风面积；V为物体与空气的相对运动速度。由上式可知，正常情况下空气阻力的大小与\n空气阻力系数及迎风面积成正比，与速度平方成正比。因此，当足球在空中飞行时速度逐渐减小的，所以，阻力\n也是变小的。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第7题",
+    "region": "shandong",
+    "meta": {
+      "invalid": true,
+      "reason": "empty_content_or_garbage"
+    },
+    "questionImage": "/img/questions/provincial_shandong_2020/q007.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 J 省海洋生产总值同比每增长 1 个百分点，当年其海洋生产总值约增加：",
+    "options": [
+      {
+        "label": "A",
+        "content": "66 亿元"
+      },
+      {
+        "label": "B",
+        "content": "72 亿元"
+      },
+      {
+        "label": "C",
+        "content": "726 亿元"
+      },
+      {
+        "label": "D",
+        "content": "776 亿元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：44%，易错项：B。\n解析\n第一步，本题考查增长量计算问题中的已知现期量与增长率。\n第二步，定位第二段文字材料，“2017年，J省海洋生产总值为7217亿元，比上年增长9.2%”。\n第三步，根据基期量=现期量/（1+增长率），增长量=基期量×增长率，则2017年J省海洋生产总值同比每增长\n1个百分点，当年其海洋生产总值约增加 （亿元），结合选项只有A成立。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第86题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 J 省海洋生产总值占全国的比重比上年：",
+    "options": [
+      {
+        "label": "A",
+        "content": "上升了约 0.2 个百分点 点"
+      },
+      {
+        "label": "B",
+        "content": "上升了约 2 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "下降了约 0.2 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "下降了约 2 个百分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：69%，易错项：B。\n\n解析\n\n第一步，本题考查两期比重计算问题。\n\n（亿元），结合选项只有 A 成立。\n\n- 23 -\n\n\f第二步，定位文字材料第一、二段，“2017 年全国海洋生产总值 77611 亿元，比上年增长 6.9%，J 省海洋生产\n总值为 7217 亿元，比上年增长 9.2%”。\n第三步，解法一：根据部分增长率 9.2%＞整体增长率 6.9%，比重上升，排除 C、D 选项，根据两期比重差＜\n|9.2%-6.9%|=2.3%，A、B 选项均成立，但是部分量远小于整体量，则两期比重差远小于 2.3%，答案为 A 选项。\n\n解法二：代入两期比重差公式：\n百分点。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第87题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2017 年 J 省海洋经济中，以下产业增速由高到低排序正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "沿海沿江港口完成货物吞吐量、造船业新承订单量、海上风电装机容量"
+      },
+      {
+        "label": "B",
+        "content": "海上风电装机容量、沿海沿江港口完成货物吞吐量、沿海三市接待国内游客数量"
+      },
+      {
+        "label": "C",
+        "content": "海水养殖产量、海上风电装机容量、远洋渔业产量"
+      },
+      {
+        "label": "D",
+        "content": "海上风电装机容量、远洋渔业产量、沿海沿江港口完成货物吞吐量"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：71%，易错项：C。\n解析\n第一步，本题考查增长率读数比较。\n第二步，定位文字材料，A选项中沿海沿江港口完成货物吞吐量同比增长8.3%、造船业新承订单量同比增长",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第88题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2016 年 J 省海水养殖产量约为海洋捕捞产量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.6 倍"
+      },
+      {
+        "label": "B",
+        "content": "0.8 倍"
+      },
+      {
+        "label": "C",
+        "content": "1.6 倍"
+      },
+      {
+        "label": "D",
+        "content": "1.8 倍"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：73%，易错项：D。\n解析\n第一步，本题考查基期倍数计算问题。\n第二步，定位文字材料第五段，“2017年，J省实现海水养殖产量93.1万吨，同比增长3%；海洋捕捞产量53\n万吨，同比下降3.4%”。\n第三步，根据基期倍数公式： ，代入相应数据为 ，直除前一半 略小于1.8，\n而后一半 略小于1，结合选项，为1.6倍。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第89题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-ziliao-2020-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列选项中，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2016 年，J 省造船工业新承订单量高于其造船完工量"
+      },
+      {
+        "label": "B",
+        "content": "2017 年，J 省海上风电装机容量占沿海地区风电装机容量的比重高于上年水平"
+      },
+      {
+        "label": "C",
+        "content": "2017 年，J 省沿海三市平均每天接待入境过夜旅游者近 0.8 万人次"
+      },
+      {
+        "label": "D",
+        "content": "2017 年，J 省沿海沿江港口完成集装箱吞吐量较上年增长了 100 多万标箱 - 12 -"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：62%，易错项：C。\n解析\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A选项，基期量比较，定位文字材料第三段，根据2017年，J省造船完工量为1412.4万载重吨，同比\n下降5.4%；新承订单量为1393.4万载重吨，同比增长228.5%，基期量=现期量/（1+增长率），根据分数性质，\n造船完工量分子大分母小，故新承订单量低于其造船完工量，错误。\nB选项，两期比重比较，定位文字材料最后一段，根据部分增长率46.3%＞整体增长率16.6%，比重上升，正确。\nC选项，现期平均数计算，定位文字材料第四段，2017年，J省沿海三市接待国内游客10558.01万人次，同比\n增长12.6%；接待入境过夜旅游者27.65万人次，同比增长8.1%，根据平均数=总数/个数，代入数据\n（万人次），近0.08万人次而非0.8万人次，错误。\nD选项，增长量计算，定位文字材料第二段， ，利用增长量计算n＋1原则，所求增长量为\n（万标箱），并非100多万标箱，错误。\n因此，选择B选项。\n-24-",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考shandong行测第90题",
+    "region": "shandong"
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-05-01T12:08:25.758024Z",
+  "source": "national",
+  "filters": {
+    "year": "2020"
+  },
+  "summary": {
+    "examCount": 2,
+    "issueCount": 2,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2020_dishi",
+      "source": "national",
+      "year": "2020",
+      "level": "dishi",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2020-dishi-070",
+              "number": 70,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2020_fushengjia",
+      "source": "national",
+      "year": "2020",
+      "level": "fushengjia",
+      "actualTotal": 135,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 15,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2020-fushengjia-074",
+              "number": 74,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2020-fushengjia-075",
+              "number": 75,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比较，2 月份职工人数变动幅度最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：86%，易错项：B。\n\n解析\n\n第一步，本题考查增长率计算比较。\n第二步，定位表格材料第二列和第三列。\n第三步，根据增长率=（现期量－基期量）/基期量，可得甲、乙、丙、丁车间职工人数增长率分别为\n\n、\n\n、\n\n、\n\n，变动幅度最大，即变化率最大的，只需要看增长率绝对值的大小即可，显然变化率\n\n最大的是甲车间。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第106题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比较，2 月工资总额变动率最大的车间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：68%，易错项：A。\n\n解析\n\n第一步，本题考查增长率计算比较。\n\n- 27 -\n\n\f第二步，定位表格材料。\n第三步，工资总额=职工人数×月平均工资，工资总额的增长率=（2 月职工人数×2 月平均工资）/（1 月职工人\n数×1 月平均工资）－1，根据增长率=现期量/基期量－1，则甲、乙、丙、丁四个车间的工资总额的增长率分别\n\n为\n\n、\n\n、\n\n、\n\n，变化率比较只看绝对值，根据分数性质可\n\n排除乙、丁；甲和丙车间直除首两位分别商 14 和 15，丙车间变化率最大。\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第107题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2 月工资总额与产值比率最大的车间：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲车间"
+      },
+      {
+        "label": "B",
+        "content": "乙车间"
+      },
+      {
+        "label": "C",
+        "content": "丙车间"
+      },
+      {
+        "label": "D",
+        "content": "丁车间"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：59%，易错项：D。\n\n解析\n\n第一步，本题考查现期倍数计算。\n第二步，定位图形材料和表格材料。\n\n第三步，根据 ，甲、乙、丙、丁各车间的工资总额与产值比率分别为\n\n、\n\n、\n\n，根据分数性质（分子大且分母小则分数大）得\n\n、\n\n及\n\n，排除 B、D 选项，\n\n、\n\n直除首位分别商 3 和 7，则丙车间工资总额与产值比率最大。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年省考hunan行测第108题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与上月相比，2 月份工厂的总产值增长了百分之几？",
+    "options": [
+      {
+        "label": "A",
+        "content": "28%"
+      },
+      {
+        "label": "B",
+        "content": "32%"
+      },
+      {
+        "label": "C",
+        "content": "41%"
+      },
+      {
+        "label": "D",
+        "content": "48%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：79%，易错项：B。\n\n解析\n\n第一步，本题考查增长率计算。\n第二步，定位图 1。\n第三步，2 月份工厂总产值为 850+880+280+320=2330（万元），1 月份工厂总产值为 500+600+250+300=1650（万\n\n元），根据增长率=（现期量－基期量）/基期量，代入数据可得\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第109题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 月份人均产值最大的是乙车间"
+      },
+      {
+        "label": "B",
+        "content": "除丙车间外，2 月份各车间的人均产值都有所上升"
+      },
+      {
+        "label": "C",
+        "content": "2 月份丁车间的人均产值低于整个集团公司的人均产值"
+      },
+      {
+        "label": "D",
+        "content": "与上个月相比较，整个集团公司的工资增长率低于产值增长率 (材料 2) - 15 -"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：52%，易错项：C。\n\n解析\n\n，直除首两位商 41。\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，平均数比较。定位表格材料及图形材料，人均产值=产值／人数，则 1 月份甲车间人均产值\n= =1，乙车间人均产值= =1，丙车间人均产值= =0.83，丁车间= =1.5，因此，丁车\n间人均产值最大，A 选项错误。\nB 选项，两期平均数比较。题干描述不清，并未给出 2 月份和哪个时间相比较，无法推出，且即使 2 月和 1 月相\n比，丙车间人均产值也是有所上升，错误。\nC 选项，混合平均数。由口诀可知，混合平均数介于部分平均数之间，通过 B 选项可知，丁车间 2 月份人均产值\n为四个车间中最高，所以高于整个集团公司的人均产值，C 选项错误。\nD 选项，增长率比较。定位表格材料及图形材料，整个集团 2 月工资为 550×5200+580×4600+320×6500+200×\n7950=9198000，1 月工资为 500×5000+600×4500+300×6000+200×8000=8600000，增长率为 ；2 月产值为\n850+880+280+320=2330，1 月差值为 500+600+250+300=1650，增长率为 ，后者分子大分母小，分数值大，即整\n个集团公司的工资增长率低于产值增长率，正确。\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第110题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "妇科和儿科出院人数占 4 所三甲医院此两科室出院总数比重最小的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲医院"
+      },
+      {
+        "label": "B",
+        "content": "乙医院"
+      },
+      {
+        "label": "C",
+        "content": "丙医院"
+      },
+      {
+        "label": "D",
+        "content": "丁医院"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：58%，易错项：D。\n\n解析\n\n第一步，本题考查比重比较。\n第二步，定位表格材料。\n第三步，根据比重=部分量/整体量，整体量一致，均为 4 所医院妇科和儿科出院人数之和，比较比重大小，可转\n为比较部分量大小。4 所医院妇科和儿科出院人数之和分别为：甲，320+130=450（人）；乙，840+580=1420（人）；\n\n- 28 -\n\n\f丙，450+350=800（人）；丁，280+240=520（人）。甲医院部分量最小，即占比最小。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第111题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "治愈率是指治愈人数与出院人数之比，外科的治愈率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30%~50%"
+      },
+      {
+        "label": "B",
+        "content": "50%~70%"
+      },
+      {
+        "label": "C",
+        "content": "70%~90%"
+      },
+      {
+        "label": "D",
+        "content": "90%以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：76%，易错项：C。\n\n解析\n\n第一步，本题考查现期比值计算。\n第二步，定位表格材料。\n第三步，解法一：根据治愈率=治愈人数/出院人数，选项为范围，数据本身比较简单，不处理数据直接计算，外\n\n科治愈率=\n因此，选择 D 选项。\n解法二：每个医院外科的治愈率均高于 90%，则整体治愈率必然高于 90%。\n因此，选择 D 选项。\n\n≈94%，即 90%以上。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第112题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "儿科治愈率高于外科治愈率的医院是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲医院"
+      },
+      {
+        "label": "B",
+        "content": "乙医院"
+      },
+      {
+        "label": "C",
+        "content": "丙医院"
+      },
+      {
+        "label": "D",
+        "content": "丁医院"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：57%，易错项：C。\n\n解析\n\n第一步，本题考查现期比值比较。\n第二步，定位表格材料。\n第三步，根据治愈率=治愈人数/出院人数，比较大小，数据本身比较简单，不处理数据直接计算，4 所医院儿科\n\n和外科的治愈率分别为：甲，儿科\n\n＜外科\n\n；乙，儿科\n\n＞外科\n\n；丙，儿科\n\n＜外科\n\n；丁，儿科\n\n＜外科\n\n。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第113题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "4 所三甲医院中治愈率最低的科室是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "内科"
+      },
+      {
+        "label": "B",
+        "content": "外科"
+      },
+      {
+        "label": "C",
+        "content": "妇科"
+      },
+      {
+        "label": "D",
+        "content": "儿科"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：79%，易错项：C。\n\n解析\n\n第一步，本题考查现期比值比较。\n第二步，定位表格材料。\n第三步，解法一：根据治愈率=治愈人数/出院人数，比较大小，数据本身比较简单，不处理数据直接计算，则 4\n\n个科室治愈率分别为：内科，\n\n；外科，\n\n；妇科，\n\n；儿科，\n\n，则内科治愈率最低。\n\n因此，选择 A 选项。\n解法二：通过观察表格中数据可以发现，4 所医院内科的治愈人数和出院人数相差较大，其他几个科室数据均较\n为接近，则 4 所医院的内科治愈率均明显低于其他科室，故整体来看，治愈率最低的科室是内科。\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第114题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "与其他医院相比，甲医院的总体治愈率最低"
+      },
+      {
+        "label": "B",
+        "content": "乙医院的总体治愈率最高，原因是该医院妇科和儿科的出院人数最多"
+      },
+      {
+        "label": "C",
+        "content": "与其他医院相比，内科治愈率最高的是丙医院"
+      },
+      {
+        "label": "D",
+        "content": "丁医院的儿科治疗水平高于其他医院"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：43%，易错项：C。\n\n解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，现期比值比较，定位表格材料，根据治愈率=治愈人数/出院人数，则 4 所医院的治愈率分别为：\n\n≈58.6%；乙，\n\n甲，\nB 选项，现期比值比较，定位表格材料，根据 A 选项可知，乙医院治愈率最高，且直接读数可知，乙医院妇科和\n儿科出院人数最多，但治愈率应与治愈人数和出院人数都有关系，不能仅通过出院人数判定，错误。\nC 选项，现期比值比较，定位表格材料，根据治愈率=治愈人数/出院人数，则 4 所医院的治愈率分别为：甲，\n\n≈65.8%，甲医院治愈率最低，正确。\n\n≈67.6%；丁，\n\n≈81.4%；丙，\n\n；乙，\n\n；丙，\n\n；丁，\n\n，最低的为乙医院，错误。\n\n- 29 -\n\n\fD 选项，现期比值比较，定位表格材料，根据治愈率=治愈人数/出院人数，丁医院儿科的治愈率为\n\n＝\n\n80%，丙医院儿科的治愈率\n错误。\n因此，选择 A 选项。\n\n＞80%，故丁医院儿科的治愈率低于丙医院，丁医院的儿科治疗水平不是最高的，",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第115题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年全国房地产开发投资比上年增长：",
+    "options": [
+      {
+        "label": "A",
+        "content": "48114 亿元"
+      },
+      {
+        "label": "B",
+        "content": "11427 亿元"
+      },
+      {
+        "label": "C",
+        "content": "10436 亿元"
+      },
+      {
+        "label": "D",
+        "content": "10278 亿元 - 16 -"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：43%，易错项：B。\n\n解析\n\n第一步，本题考查增长量计算问题。\n第二步，定位文字材料，“2019 年 1—12 月份，全国房地产开发投资 132194 亿元，比上年增长 9.9%，增速比上\n年加快 0.4 个百分点”。\n\n≈120286 亿元，\n第三步，根据基期量=现期量/（1+增长率），可得 2018 年全年房地产开发投资额为\n2018 年全年的增长率为 9.9%－0.4%=9.5%。因选项之间数据比较接近，需精确计算，即增长量=现期量－现期量/\n\n（1+增长率），可得 2018 年全国房地产开发投资额增长量为 120286－\n因此，选择 C 选项。\n\n≈10436（亿元）。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第116题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "与 2018 年相比，2019 年全国商品房销售均价约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增长 580 元"
+      },
+      {
+        "label": "B",
+        "content": "增长 710 元"
+      },
+      {
+        "label": "C",
+        "content": "下降 580 元"
+      },
+      {
+        "label": "D",
+        "content": "下降 710 元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：48%，易错项：B。\n\n解析\n\n第一步，本题考查平均数增长量的计算。\n第二步，定位表 2。“全国商品房销售面积为 171558 万平方米，增长率为-0.1%；商品房销售额为 159725 亿元，\n增长率为 6.5%”。\n\n第三步，根据平均数增长量公式\n\n，根据 a＞b，可得平均数增长量＞0，排除 CD 选项。选项首位不同，\n\n截两位处理数据，可知 2019 年全国商品房销售均价增长量为\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第117题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2019 年全国住宅投资占房地产开发投资比重排名第二的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "东部地区"
+      },
+      {
+        "label": "B",
+        "content": "中部地区"
+      },
+      {
+        "label": "C",
+        "content": "西部地区"
+      },
+      {
+        "label": "D",
+        "content": "东北地区"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：27%，易错项：C。\n\n解析\n\n，直除首位商 5。\n\n第一步，本题考查现期比值的比较问题。\n第二步，定位表 1，“东部地区、中部地区、西部地区、东北地区的住宅投资分别为 49899、21439、21946、3847；\n东部地区、中部地区、西部地区、东北地区的房地产开发投资分别为 69313、27588、30186、5107”。\n第三步，根据比重=部分量/整体量，选项无数据，截取前三位，可得四个地区住宅投资占房地产开发投资的比重\n\n分别为\n因此，选择 D 选项。\n\n、\n\n、\n\n、\n\n，直除首两位分别商 72、77、72、75 ，故比重排名第二的是东北地区。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第118题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2018 年房地产投资额最多的地区约为排名第二地区的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.0 倍"
+      },
+      {
+        "label": "B",
+        "content": "2.5 倍"
+      },
+      {
+        "label": "C",
+        "content": "3.0 倍"
+      },
+      {
+        "label": "D",
+        "content": "3.5 倍"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：69%，易错项：C。\n\n解析\n\n第一步，本题考查基期倍数计算。\n第二步，定位表 1，“2019 年东部地区、中部地区、西部地区、东北地区的房地产开发投资分别为 69313、27588、\n30186、5107，增长率分别为 7.7%、9.6%、16.1%、8.2%”。\n第三步，基期量＝现期量÷（1＋增长率），四个地区 2018 年数据最大的是东部地区（现期量最大，增长率最小）\n\n具体值为\n\n≈64357，其次是西部地区\n\n≈26000，故 2018 年房地产投资额最多的地区是排名\n\n第二的倍数为\n因此，选择 B 选项。\n\n≈2.5。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第119题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-ziliao-2020-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "根据上述材料可以推出：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年商品房销售均价东北地区高于中部地区"
+      },
+      {
+        "label": "B",
+        "content": "2018 年东部地区商品房销售面积比西部地区约多 3000 万平方米"
+      },
+      {
+        "label": "C",
+        "content": "2018 年住宅投资占房地产开发投资比重最低的地区是东部地区"
+      },
+      {
+        "label": "D",
+        "content": "如果 2017 年全国商品房销售均价要与 2018 年持平，其销售面积应达到 163055 万平方米 - 17 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：32%，易错项：C。\n\n- 30 -\n\n\f解析\n\n第一步，本题考查综合分析问题，且需选出正确的一项。\n第二步，A 选项，现期平均数比较，定位表 2，根据平均数=后/前，则商品房销售均价=商品房销售额/商品房销\n\n售面积，分数比较，截取前三位，可得 2019 年东北地区商品房销售均价=\n直除首两位分别商 78、71，则 2019 年商品房销售均价东北地区高于中部地区，正确。\nB 选项，基期量差值计算，定位表 2，根据基期量=现期量/（1+增长率），可得 2018 年东部地区商品房销售面积\n\n，中部地区商品房销售均价=\n\n，\n\n比西部地区多\n=22282（万平方米）≠3000（万平方米），错误。\n\n≈66607×（1+1.5%）－47410×（1－4.4%）≈66607+999－（47410－2086）\n\nC 选项，基期比重比较，定位表 1，根据基期比重=\n\n，可得 2018 年东部、中部、西部、东北地区住宅\n\n投资占房地产开发投资比重分别为：\n\n，\n\n，\n\n，\n\n，比较类问题，每个式子均×（1+9.9%），则只需要比较剩余部分即\n\n，\n\n可，即比较\n年住宅投资占房地产开发投资比重最低的是西部地区，错误。\nD 选项，其他计算，定位文字材料，可得，2018 年全国商品房销售额同比增速=6.5%+5.7%=12.2%。根据平均数=\n后/前，则商品房销售均价=商品房销售额/商品房销售面积，又根据基期量=现期量/（1+增长率），可得 2018 年\n\n，直除首两位分别商 66、70、62、69，则 2018\n\n，\n\n，\n\n商品房销售均价=\n\n=\n\n÷2017 年商品房销售面积=2017 年商品房\n\n销售均价，化简可得 2017 年商品房销售面积=\n方米），错误。\n因此，选择 A 选项。\n\n≈153057（万平米）≠163055（万平\n\n拓展\n\nB 选项，\n\n＞66607－47410=19197（万平方米）≠3000（万平方米）\n\n- 31 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2020年省考hunan行测第120题",
+    "region": "hunan"
+  }
+]

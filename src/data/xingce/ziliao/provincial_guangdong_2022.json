@@ -1,0 +1,527 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-086",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国基层群众性自治组织较上年减少（ ）万个。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "2.8"
+      },
+      {
+        "label": "C",
+        "content": "4.2"
+      },
+      {
+        "label": "D",
+        "content": "5.6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n根据题干“2020 年······较上年减少（     ）万个”，可判定本题为增长量计算问题。定位统计图可知：\n\n2020 年村委会有 50.2 万个，居委会有 11.3 万个，2019 年村委会有 53.3 万个，居委会有 11 万个。\n\n根据公式：增长量=现期量-基期量，则 2020 年全国基层群众性自治组织较上年的增长量\n\n=（50.2+11.3）-（53.3+11）=61.5-64.3=-2.8 万个，即减少 2.8 万个。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第86题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-087",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "相较 2019 年，2020 年村委会占基层群众性自治组织的比重：",
+    "options": [
+      {
+        "label": "A",
+        "content": "降低了约 1.26 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "提高了约 1.26 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "降低了约 12.6 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "提高了约 12.6 个百分点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n根据题干“相较 2019 年，2020 年······占·······的比重”，结合选项为降低/提高+百分点，可判定本题为\n\n两期比重问题。定位文字材料第二段可得：截止 2020 年底，村委会占基层群众性自治组织的 81.63%；\n\n定位统计图可得：2019 年村委会 53.3 万个，居委会 11.0 万个。则 2019 年村委会占基层群众性自\n\n治组织的比重\n\n。所求比重差=81.63%-83.0%=-1.37%，即降低了约 1.37 个\n\n百分点，与 A 项最接近。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第87题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-088",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下年份中，我国村(居)委会完成选举数同比增幅最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2017 年"
+      },
+      {
+        "label": "B",
+        "content": "2018 年"
+      },
+      {
+        "label": "C",
+        "content": "2019 年"
+      },
+      {
+        "label": "D",
+        "content": "2020 年"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第  40  页  共  45  页\n\n\f根据题干“以下年份中，······同比增幅最大的是”，可判定本题为一般增长率问题。定位文字材料第二\n\n段可知，2016-2020 年，我国村(居)委会完成选举数分别为 9.7 万个、18.2 万个、27.6 万个、8.8 万\n\n个、6.1 万个。2019 年和 2020 年我国村(居)委会完成选举数较上年均同比减少，即增长率均小于\n\n0，2017 年同比增幅\n\n，2018 年同比增幅\n\n，则 2017 年同比增幅最大。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第88题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-089",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，平均每个村委会下辖的村民小组约（ ）个。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.5"
+      },
+      {
+        "label": "B",
+        "content": "5.5"
+      },
+      {
+        "label": "C",
+        "content": "7.5"
+      },
+      {
+        "label": "D",
+        "content": "9.5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n根据题干“2020 年，平均每个······约······”，可判定本题为现期平均数问题。定位文字材料第二段可得：\n\n截止 2020 年底，全国村委会 50.2 万个；村民小组 376.1 万个。则 2020 年平均每个村委会下辖的村\n\n民小组数量\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第89题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-090",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "根据所给材料，下列说法最准确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020 年，村民小组数量是居民小组数量的 5 倍"
+      },
+      {
+        "label": "B",
+        "content": "2020 年，平均每个村委会的成员数量超过 4 人 B.D．2015-2020 年，村委会数量与居委会数量的变化趋势一致"
+      },
+      {
+        "label": "C",
+        "content": "2020 年，超过 60%的登记选民参与了投票"
+      },
+      {
+        "label": "D",
+        "content": "增加森林面积、提高森林质量、提升生态系统碳汇增量，将为我国实现碳达峰、碳中和目标、维护全球生态 安全做出巨大贡献。1973 年，我国开展了第一次森林资源清查。目前已完成第 9 次森林资源清查，我国森林面积 和森林蓄积量连续 30 年保持“双增长”。“十三五”时期，我国累计造林 5.45 亿亩"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n个。\n\nA 项：定位文字材料可知：截止 2020 年底，共有村民小组 376.1 万个，居民小组 123.6 万个。则村\n\n民小组数量是居民小组数量的\n\n倍，错误；\n\nB 项：定位文字材料可知：截止 2020 年底，共有村委会 50.2 万个，村委会成员 207.3 万人。根据\n\n公式：平均数\n\n，可得 2020 年，平均每个村委会的成员数量为：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第90题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-091",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "“十三五”期间，我国平均每公顷森林蓄积量达到（ ）立方米。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5.3"
+      },
+      {
+        "label": "B",
+        "content": "32.2"
+      },
+      {
+        "label": "C",
+        "content": "79.8"
+      },
+      {
+        "label": "D",
+        "content": "98.6"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第  41  页  共  45  页\n\n\f根据题干“‘十三五’期间······平均每公顷森林蓄积量······立方米”，可判定本题为现期平均数问题。定位\n\n文字材料可得：“十三五”时期······森林蓄积量为 175.6 亿立方米，森林面积达到 2.2 亿公顷（1 公顷\n\n为 15 亩）。所求平均数\n\n立方米/公顷。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第91题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-092",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "相比第 1 次森林资源清查，第 9 次森林资源清查时，我国森林覆盖率提高了约（ ）个百分点。（本材 料中森林覆盖率为森林面积占国土面积的百分比）",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n根据题干“······我国森林覆盖率提高了约······”，结合森林覆盖率\n\n，可判定本题为现期比重问\n\n题。定位文字材料和图 1 可得，“十三五”时期我国森林覆盖率达到 23.04%，森林面积达到 2.2 亿公\n\n顷（1 公顷为 15 亩）；第 1 次森林资源清查时，我国森林面积为 18.28 亿亩，第 9 次森林资源清查\n\n时，我国森林面积为 33.07 亿亩。\n\n方法一：根据森林覆盖率\n\n，则\n\n，国土面积\n\n 亿公顷\n\n亿亩。根据公式：比重\n\n，则所求\n\n，即\n\n提高了约 10 个百分点。\n\n方法二：根据材料可知“十三五“时期即是第 9 次森林资源清查时期，故第 9 次资源清查时森林覆盖\n\n率为 23.04%；根据森林覆盖率\n\n，则\n\n，国土面积\n\n亿亩；根据公式：\n\n比重\n\n，则第 1 次森林资源清查时，我国森林覆盖率\n\n，故所求\n\n，即提高了约 10 个百分点。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第92题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-093",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2016-2018 年，我国国际重要湿地面积的年均增长率约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "25%"
+      },
+      {
+        "label": "B",
+        "content": "30%"
+      },
+      {
+        "label": "C",
+        "content": "35%"
+      },
+      {
+        "label": "D",
+        "content": "40%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n根据题干“2016-2018 年······年均增长率约为”，可判定本题为年均增长率问题。定位图 2 可得：2016\n\n年与 2018 年我国国际重要湿地面积分别为 61.68 万亩、104.24 万亩。根据年均增长率公式：\n\n（n 为年份差），则\n\n，解得\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第93题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-094",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "以下选项中，最准确地反映了 2017-2020 年我国国际重要湿地面积、数量同步增速变化情况的是： 第 18 页 共 21 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "我国森林蓄积量较前一次森林资源清查增幅最大的是第6 次森林资源清查"
+      },
+      {
+        "label": "B",
+        "content": "第5 次至第9 次森林资源清查，我国森林面积和森林蓄积量的变化趋势一致"
+      },
+      {
+        "label": "C",
+        "content": "2016-2020 年，我国平均每年增加国际重要湿地超过3 个"
+      },
+      {
+        "label": "D",
+        "content": "2017-2020 年，我国平均每个国际重要湿地面积同比增幅最大的年份是2020 年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n根据题干“2017-2020 年······同比增速变化情况的是”，可判定本题为一般增长率问题。定位图 2 可得\n\n2016-2020 年我国国际重要湿地面积和湿地数量。2017 我国国际重要湿地面积与 2016 年相同，即\n第  42  页  共  45  页\n\n\f同比增速为 0，排除 B、C 两项；根据公式：增长率\n\n，则 2018 年我国国际重要湿地\n\n面积同比增速\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第94题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-095",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "根据以上资料，下列说法不准确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "我国森林蓄积量较前一次森林资源清查增幅最大的是第 6 次森林资源清查"
+      },
+      {
+        "label": "B",
+        "content": "第 5 次至第 9 次森林资源清查，我国森林面积和森林蓄积量的变化趋势一致 B.D．2017-2020 年，我国平均每个国际重要湿地面积同比增幅最大的年份是 2020 年"
+      },
+      {
+        "label": "C",
+        "content": "2016-2020 年，我国平均每年增加国际重要湿地超过 3 个"
+      },
+      {
+        "label": "D",
+        "content": "第 19 页 共 21 页 近年来，全国基层卫生服务能力稳步提升，居民健康水平进一步提高。2020 年，我国农村乡镇卫生院卫生人 员数达 148.1 万人，比上年增加 3.6 万人，社区卫生人员数达 52.1 万人，比上年增加 3.3 万人。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n，排除 A 项。\n\nA 项：定位统计图 1，可知我国第 1 次至第 9 次森林资源清查中的森林蓄积量，根据公式：增长率=\n\n，第 6 次森林资源清查中我国森林蓄积量增幅\n\n；第 2\n\n次：\n\n；第 3 次：\n\n；第 4 次：\n\n；第 5 次：\n\n；第 7 次：\n\n；第 8 次：\n\n；第 9 次：\n\n，故我国森林蓄积量较前一次森\n\n林资源清查增幅最大的是第 6 次森林资源清查，正确；\n\nB 项：定位统计图 1，观察发现第 5 次至第 9 次森林资源清查，我国森林面积和森林蓄积量均保持\n\n增长，变化趋势一致，正确；\n\nC 项：定位统计图 2，可知 2016 年和 2020 年我国国际重要湿地数量分别为 49 个和 64 个。根据公\n\n式：年均增长量\n\n，则 2016-2020 年我国平均每年增加国际重要湿地数量\n\n个 个，正确；\n\nD 项：定位统计图 2，可知 2016-2020 年我国国际重要湿地面积分别为 61.68 万亩、61.68 万亩、",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第95题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-096",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国农村乡镇卫生院中，卫生人员数同比增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4%"
+      },
+      {
+        "label": "B",
+        "content": "2.5%"
+      },
+      {
+        "label": "C",
+        "content": "3.6%"
+      },
+      {
+        "label": "D",
+        "content": "4.7%"
+      }
+    ],
+    "answer": "B",
+    "explanation": ".解析\n\n第 44 页 共 45 页\n根据题干“2020 年······同比增长约”，结合选项为百分数，可判定本题为一般增长率计算问题。定位文\n字材料可得：2020 年全国农村乡镇卫生院卫生人员数比上年增加3.6 万人；定位表1 可得：2019\n年全国农村乡镇卫生院卫生人员数为144.5 万人。根据公式：增长率\n，可得所求增长率\n。\n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第96题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-097",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国社区卫生服务中心平均每名医师全年担负诊疗人次比全国农村乡镇卫生院的约多（ ）人 次。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1576"
+      },
+      {
+        "label": "B",
+        "content": "1976"
+      },
+      {
+        "label": "C",
+        "content": "2376"
+      },
+      {
+        "label": "D",
+        "content": "2776"
+      }
+    ],
+    "answer": "B",
+    "explanation": ".解析\n定位统计表1、2 可知：2020 年全国农村乡镇卫生院平均每名医师日均担负诊疗人次为8.5，全国社\n区卫生服务中心平均每名医师日均担负诊疗人次为13.9。2020 年为闰年，所以全年为366 天。\n2020 年，全国社区卫生服务中心平均每名医师全年担负诊疗人次比全国农村乡镇卫生院的约多\n人次。\n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第97题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-098",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，平均每个乡镇床位数约为每个街道床位数的（ ）倍。 第 20 页 共 21 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": ".解析\n根据题干“2020 年······约为······的（    ）倍”，可判定本题为现期倍数问题。定位表1 可得：2020 年乡\n镇床位数为139.0 万张，乡镇数为3.00 万个；定位表2 可得：2020 年街道床位数为22.6 万张，街\n道数为8773 个。则2020 年，平均每个乡镇床位数为每个街道床位数的\n倍，与B 项最接近。\n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第98题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-099",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "2020 年，全国农村乡镇卫生院卫生人员中，执业（助理）医师占比约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "25%"
+      },
+      {
+        "label": "B",
+        "content": "30%"
+      },
+      {
+        "label": "C",
+        "content": "35%"
+      },
+      {
+        "label": "D",
+        "content": "40%"
+      }
+    ],
+    "answer": "C",
+    "explanation": ".解析\n根据题干“2020 年······中······占比约为”，结合材料给出的2020 年数据，可以判定本题为现期比重问题。\n定位表1 可得，2020 年，全国农村乡镇卫生院卫生人员数为148.1 万人，其中执业（助理）医师人\n员数为52.0 万人。根据比重\n，故所求比重为\n，与C 项最接近。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第99题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-ziliao-2022-100",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "根据所给材料，下列说法最不准确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "与 2019 年相比，2020 年全国乡镇卫生院卫生技术人员和社区卫生服务中心卫生技术人员均有所增加"
+      },
+      {
+        "label": "B",
+        "content": "2020 年，平均每个街道社区卫生服务中心数与 2019 年基本持平"
+      },
+      {
+        "label": "C",
+        "content": "2019-2020 年，全国乡镇卫生院年平均入院人数是全国社区服务中心的十倍以上"
+      },
+      {
+        "label": "D",
+        "content": "2019 年，全国农村人口约为 8 亿 第 21 页 共 21 页"
+      }
+    ],
+    "answer": "D",
+    "explanation": ".解析\n\n第 45 页 共 45 页\nA 项：定位表1 可得，2019 年、2020 年全国农村乡镇卫生院卫生技术人员分别为123.2、126.7 万\n人；定位表2 可得，2019 年、2020 年全国社区卫生服务中心卫生技术人员分别为41.5、44.4 万人，\n2020 年两者均比2019 年有所增加，正确；\nB 项：定位表2 可得，2019 年、2020 年街道数分别为8515、8773 个，社区卫生服务中心数分别\n为9561、9826 个，则2019 年平均每个街道社区卫生服务中心数\n个，2020 年平均每个\n街道社区卫生服务中心数\n个，两者基本持平，正确；\nC 项：定位表1 可得，2019 年、2020 年全国农村乡镇卫生院入院人数分别为3909、3383 万人；定\n位表2 可得，2019 年、2020 年全国社区服务中心入院人数分别为339.5、292.7 万人，则2019-\n2020 年，全国乡镇卫生院年平均入院人数\n万人，全国社区服务中心年平均入院\n人数\n万人，前者是后者的\n倍，正确；\nD 项：定位表1 可得，2019 年全国农村乡镇卫生院床位数为137.0 万张，每千农村人口乡镇卫生院\n床位为1.48 张，则2019 年农村人口数\n 千人\n亿人，错误。\n本题为选非题，故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第100题",
+    "region": "guangdong"
+  }
+]

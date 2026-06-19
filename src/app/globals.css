@@ -1,0 +1,643 @@
+/* 霞鹜文楷由 layout.tsx 用 <link rel="stylesheet"> 加载到 <head>，
+ * 不在此处 @import — Tailwind v4 的 @import "tailwindcss" 经过 PostCSS
+ * 处理后会把其他 @import 推到所有规则之后，触发解析错误。 */
+@import "tailwindcss";
+
+:root {
+  --background: transparent;
+
+  /* 文字层级（4 阶）*/
+  --foreground: #f1f5f9;
+  --foreground-secondary: #cbd5e1;
+  --foreground-muted: #94a3b8;
+  --foreground-faint: #64748b;
+  --muted: #94a3b8;
+
+  /* 主品牌色：墨蓝（卷面墨水蓝，替代 AI slop 的 Tailwind indigo）*/
+  --brand: #1e3a5f;
+  --brand-soft: #2c5282;
+  --brand-deep: #0f2942;
+  --primary: #1e3a5f;
+  --primary-light: #2c5282;
+  --primary-dark: #0f2942;
+
+  /* 墨蓝 11 阶色阶（D-18a P2c-1，由 color-palette skill 公式生成）
+     输入 #1e3a5f ≈ hsl(214, 51%, 25%)，按 shade-generation 表插值 L 值
+     提供给 Tailwind `text-brand-{50..950}` / `bg-brand-{50..950}` 用 */
+  --brand-50: #eef3f9;   /* 97% L — 极浅，paper hover/标签底 */
+  --brand-100: #dde7f1;  /* 94% L — 浅，subtle bg */
+  --brand-200: #bcceea;  /* 87% L — 描边 / 浅强调 */
+  --brand-300: #8eadd1;  /* 75% L — placeholder / muted text on light */
+  --brand-400: #5985b9;  /* 62% L — secondary text on light / icon */
+  --brand-500: #2c5282;  /* 48% L — 中性主色（≈ 原 brand-soft）*/
+  --brand-600: #1e3a5f;  /* 40% L — 主 CTA / 默认 brand（≈ 原 brand）*/
+  --brand-700: #172f4d;  /* 33% L — hover / 加深 CTA */
+  --brand-800: #11253c;  /* 27% L — 深背景 */
+  --brand-900: #0c1d30;  /* 20% L — 极深（≈ 原 brand-deep）*/
+  --brand-950: #060e18;  /* 10% L — 几乎纯黑，极端深色背景 */
+
+  /* 语义色（功能性配色，非装饰）*/
+  --success: #10b981;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --info: #06b6d4;
+  --accent: #f59e0b;
+
+  /* 表面层（卡片底色 + hover）*/
+  --surface-1: rgba(15, 23, 42, 0.5);
+  --surface-2: rgba(30, 41, 59, 0.62);
+  --card: rgba(15, 23, 42, 0.5);
+  --card-hover: rgba(30, 41, 59, 0.5);
+
+  /* 描边层级 */
+  --border: rgba(255, 255, 255, 0.1);
+  --border-strong: rgba(255, 255, 255, 0.2);
+
+  /* 印章红 — 公考卷面气质 accent，与墨蓝构成主辅双色 */
+  --seal-red: #c1272d;
+  --seal-red-soft: #e85d5d;
+  --seal-red-deep: #7c1d1d;
+
+  /* 印章红 11 阶色阶（D-18a P2c-2，由 color-palette skill 公式生成）
+     输入 #c1272d ≈ hsl(358, 65%, 46%)，按 shade-generation 表插值 L 值
+     提供给 Tailwind `text-seal-{50..950}` / `bg-seal-{50..950}` 用 */
+  --seal-50: #fdeded;
+  --seal-100: #fbd4d4;
+  --seal-200: #f6a0a0;
+  --seal-300: #ef6f70;
+  --seal-400: #e44848;
+  --seal-500: #c1272d;  /* ≈ 原 seal-red */
+  --seal-600: #a52126;
+  --seal-700: #871b1f;
+  --seal-800: #6b1518;
+  --seal-900: #4f0f12;
+  --seal-950: #2d080a;
+
+  /* 墨纸黑（深暗模式底） */
+  --ink: #1a1612;
+
+  /* WIRED 借鉴 — ink-link：深得发紫的蓝，纯链接色专用（D-18a P2c-3）
+     注：与 --brand-900 区分，ink-link 是"被点"的链接色，不参与品牌 CTA */
+  --ink-link: #0b2545;
+
+  /* Notion 借鉴 — paper：暖奶米色，亮模式底色（D-18a P2c-3）
+     paper-soft 是 paper 的二级（卡片、subtle 区分）*/
+  --paper: #fbfaf5;
+  --paper-soft: #f5f2e8;
+
+  /* 中文 display 字体 - 霞鹜文楷（卷面气质）*/
+  --font-display-zh: 'LXGW WenKai', 'LXGW WenKai Screen', 'Source Han Serif SC',
+    'PingFang SC', system-ui, serif;
+
+  /* 英文/数字 display 字体 - Libre Bodoni（magazine/editorial 气质，D-18a P2b-1）
+     用 next/font 注入的 --font-libre-bodoni 作首选，叠加中文兜底 + serif */
+  --font-display-en: var(--font-libre-bodoni), 'LXGW WenKai', 'Times New Roman', serif;
+
+  /* 英文 body 字体 - Public Sans（搭配 Libre Bodoni 的现代 sans，D-18a P2b-1）*/
+  --font-body-en: var(--font-public-sans), system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+/* ============================================================
+ * Paper（亮模式）token 映射 — D-18a P2c-4
+ *
+ * 默认仍走 dark（:root 上面那段）。用户切换到 `data-theme="light"`
+ * 时启用本块。后续在 Navbar 加 ThemeToggle 接 dom attr 切换即可。
+ *
+ * WCAG AA/AAA 对比度自查（color-palette skill 公式核算）：
+ * - brand-900 #0c1d30 on paper #fbfaf5  →  14.0:1  AAA ✅
+ * - brand-700 #172f4d on paper           →  11.6:1  AAA ✅
+ * - brand-600 #1e3a5f on paper           →  10.3:1  AAA ✅
+ * - brand-500 #2c5282 on paper           →  7.4:1   AAA ✅
+ * - seal-500  #c1272d on paper           →  5.5:1   AA  ✅ （正常文本下限 4.5）
+ * - seal-700  #871b1f on paper           →  9.2:1   AAA ✅
+ * - paper-soft #f5f2e8 on paper          →  仅作 subtle 区分，非文字底
+ * ============================================================ */
+:root[data-theme="light"] {
+  --background: var(--paper);
+  --foreground: var(--brand-900);
+  --foreground-secondary: var(--brand-700);
+  --foreground-muted: var(--brand-500);
+  --foreground-faint: var(--brand-400);
+  --muted: var(--brand-500);
+
+  --primary: var(--brand-600);
+  --primary-light: var(--brand-500);
+  --primary-dark: var(--brand-800);
+  --brand: var(--brand-600);
+  --brand-soft: var(--brand-500);
+  --brand-deep: var(--brand-900);
+
+  --card: rgba(255, 255, 255, 0.95);
+  --card-hover: #ffffff;
+  --surface-1: var(--paper-soft);
+  --surface-2: #ffffff;
+
+  --border: rgba(11, 37, 69, 0.12);
+  --border-strong: rgba(11, 37, 69, 0.22);
+}
+
+[data-theme="light"] body {
+  background: var(--paper);
+  color: var(--foreground);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-foreground-secondary: var(--foreground-secondary);
+  --color-foreground-muted: var(--foreground-muted);
+  --color-foreground-faint: var(--foreground-faint);
+  --color-brand: var(--brand);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-deep: var(--brand-deep);
+  /* 墨蓝 11 阶 Tailwind 接入（P2c-1）*/
+  --color-brand-50: var(--brand-50);
+  --color-brand-100: var(--brand-100);
+  --color-brand-200: var(--brand-200);
+  --color-brand-300: var(--brand-300);
+  --color-brand-400: var(--brand-400);
+  --color-brand-500: var(--brand-500);
+  --color-brand-600: var(--brand-600);
+  --color-brand-700: var(--brand-700);
+  --color-brand-800: var(--brand-800);
+  --color-brand-900: var(--brand-900);
+  --color-brand-950: var(--brand-950);
+  --color-primary: var(--primary);
+  --color-primary-light: var(--primary-light);
+  --color-primary-dark: var(--primary-dark);
+  --color-accent: var(--accent);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-info: var(--info);
+  --color-muted: var(--muted);
+  --color-card: var(--card);
+  --color-card-hover: var(--card-hover);
+  --color-surface-1: var(--surface-1);
+  --color-surface-2: var(--surface-2);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-seal-red: var(--seal-red);
+  --color-seal-red-soft: var(--seal-red-soft);
+  --color-seal-red-deep: var(--seal-red-deep);
+  /* 印章红 11 阶 Tailwind 接入（P2c-2）*/
+  --color-seal-50: var(--seal-50);
+  --color-seal-100: var(--seal-100);
+  --color-seal-200: var(--seal-200);
+  --color-seal-300: var(--seal-300);
+  --color-seal-400: var(--seal-400);
+  --color-seal-500: var(--seal-500);
+  --color-seal-600: var(--seal-600);
+  --color-seal-700: var(--seal-700);
+  --color-seal-800: var(--seal-800);
+  --color-seal-900: var(--seal-900);
+  --color-seal-950: var(--seal-950);
+  --color-ink: var(--ink);
+  --color-ink-link: var(--ink-link);
+  --color-paper: var(--paper);
+  --color-paper-soft: var(--paper-soft);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-display-zh: var(--font-display-zh);
+  --font-display-en: var(--font-display-en);
+  --font-body-en: var(--font-body-en);
+}
+
+/* WCAG 2.4.7 - 键盘焦点可见 */
+*:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+button:focus-visible,
+a:focus-visible {
+  outline-offset: 3px;
+}
+
+/* Tailwind v4 移除了 v3 的 button {cursor:pointer} preflight 默认。
+   全站显式补回，保证按钮 hover 鼠标手型反馈（WCAG 2.4.11 focus appearance
+   + UX 直觉）。disabled 时由组件自定 cursor-not-allowed 覆盖。 */
+button:not(:disabled),
+[role="button"]:not([aria-disabled="true"]) {
+  cursor: pointer;
+}
+
+/* WCAG 2.3.3 - 尊重用户的 reduced motion 偏好（前庭/动眩症友好）*/
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+body {
+  background: transparent;
+  color: var(--foreground);
+  /* 中文 body 与 hero 同根：霞鹜文楷家族 → 思源宋体 → 系统字体兜底
+     替代原 PingFang，避免全站气质沦为通用 SaaS */
+  font-family: 'LXGW WenKai', 'LXGW WenKai Screen', 'Source Han Serif SC',
+    'Noto Serif SC', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei',
+    system-ui, serif;
+}
+
+/* display-zh 工具类 - 用于 hero 标题 / 大字号场景 */
+.font-display-zh {
+  font-family: var(--font-display-zh);
+  letter-spacing: 0.05em;
+}
+
+/* display-en 工具类（D-18a P2b-1）- Libre Bodoni magazine/editorial 气质
+   用于：hero 数字、大字号英文标题、页码、drop cap、tabular hero */
+.font-display-en {
+  font-family: var(--font-display-en);
+  letter-spacing: -0.02em;
+  font-feature-settings: 'lnum', 'tnum';
+}
+
+/* body-en 工具类（D-18a P2b-1）- Public Sans 英文正文
+   用于：英文正文段、UI label、metric label，搭配 Libre Bodoni display */
+.font-body-en {
+  font-family: var(--font-body-en);
+}
+
+/* ========== 公考卷面气质 — 渐变 utility（替代 Tailwind indigo 默认色）========== */
+.gradient-mo-blue {
+  background: linear-gradient(135deg, #0f2942 0%, #1e3a5f 55%, #2c5282 100%);
+}
+.gradient-mo-seal {
+  /* Bo logo 用：墨蓝底 + 右下角印章红一笔（公考考场感）*/
+  background: linear-gradient(135deg, #0f2942 0%, #1e3a5f 60%, #c1272d 130%);
+}
+.gradient-emerald-deep {
+  background: linear-gradient(135deg, #064e3b 0%, #047857 55%, #10b981 100%);
+}
+.gradient-cinnabar {
+  /* 朱砂 + 赭石（事业编暖色系）*/
+  background: linear-gradient(135deg, #7c1d1d 0%, #b91c1c 55%, #ea580c 100%);
+}
+.shadow-mo-blue {
+  box-shadow: 0 10px 30px -8px rgba(30, 58, 95, 0.45);
+}
+.shadow-seal-red {
+  box-shadow: 0 10px 30px -8px rgba(193, 39, 45, 0.3);
+}
+.shadow-emerald-deep {
+  box-shadow: 0 10px 30px -8px rgba(6, 78, 59, 0.45);
+}
+.shadow-cinnabar {
+  box-shadow: 0 10px 30px -8px rgba(124, 29, 29, 0.45);
+}
+
+/* 滚动条美化 */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--muted);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}
+
+/* Markdown 内容样式 */
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+.markdown-content p {
+  margin-bottom: 0.75em;
+  line-height: 1.8;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  padding-left: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid var(--border);
+  padding: 0.5em 0.75em;
+  text-align: left;
+}
+
+.markdown-content th {
+  background: var(--card-hover);
+  font-weight: 600;
+}
+
+/* ========== 题干渲染装饰（D-18a P2a-fix-1）========== */
+
+/* 填空横线：识别题干里 ≥3 个连续下划线，渲染成卷面"待填"框
+   印章红虚线下划 + 浅金底（dark 友好，浅色模式做 P2c 时再覆盖） */
+.fill-blank {
+  display: inline-block;
+  min-width: 4ch;
+  padding: 0 0.4em;
+  margin: 0 0.15em;
+  background: rgba(251, 191, 36, 0.12);
+  border-bottom: 2px dashed var(--seal-red-soft);
+  border-radius: 0.2em;
+  color: var(--seal-red-soft);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.2em;
+  user-select: none;
+}
+
+/* markdown `__重点字__` → <strong> 自定渲染：印章红实下划线，卷面"重点"标注感 */
+.markdown-content strong {
+  font-weight: 700;
+  color: var(--foreground);
+  text-decoration: underline;
+  text-decoration-color: var(--seal-red);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-skip-ink: none;
+}
+
+/* 提问句独立段：左侧印章红 3px 竖条 + 浅红底 + 加粗 — 卷面"问"字锚条
+   命中由 lib/questionDisplay.ts splitStemAndPrompt() 在题干末尾拆出 */
+.question-prompt {
+  margin-top: 1.25rem;
+  padding: 0.75rem 1rem 0.75rem 1rem;
+  border-left: 3px solid var(--seal-red);
+  background: rgba(193, 39, 45, 0.05);
+  border-radius: 0 0.5rem 0.5rem 0;
+}
+.question-prompt p {
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--foreground);
+}
+
+/* 解析卡总结句 blockquote 印章红高亮（D-18a P2d-3 联动）
+   formatExplanation 会把"故正确答案为 X" 等总结句转成 blockquote */
+.explanation-body blockquote {
+  margin: 1rem 0;
+  padding: 0.6rem 1rem;
+  border-left: 3px solid var(--seal-red);
+  background: rgba(193, 39, 45, 0.08);
+  border-radius: 0 0.5rem 0.5rem 0;
+  color: var(--foreground);
+}
+.explanation-body blockquote p {
+  margin: 0;
+}
+
+/* 解析卡选项跳转按钮（D-18a P2d-2 联动）
+   ExplanationPanel 识别 "A 项 / B 项 ..." 强调段后渲染为 button，
+   点击 scroll 到 OptionList 对应选项卡 */
+.explanation-option-jump {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 700;
+  color: var(--foreground);
+  text-decoration: underline;
+  text-decoration-color: var(--seal-red);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-skip-ink: none;
+  background: transparent;
+  border: none;
+  padding: 0 0.15em;
+  cursor: pointer;
+  transition: color 0.15s, background-color 0.15s;
+  border-radius: 4px;
+}
+.explanation-option-jump:hover {
+  background: rgba(193, 39, 45, 0.12);
+  color: var(--seal-red-soft);
+}
+.explanation-option-jump:focus-visible {
+  outline: 2px solid var(--seal-red);
+  outline-offset: 2px;
+}
+
+/* ========== 申论参考答案 / 范文增强渲染 ========== */
+.shenlun-body {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--foreground);
+  /* 衬线字体强调"答案文章"质感，与刷题正文区分 */
+  font-family: 'Source Han Serif SC', 'Noto Serif SC', '宋体', 'PingFang SC', system-ui, serif;
+}
+
+.shenlun-body .shenlun-line {
+  margin-bottom: 0.55em;
+  text-indent: 2em;
+}
+
+.shenlun-body .shenlun-numbered-row {
+  text-indent: 0;
+  display: flex;
+  gap: 0.35em;
+  margin-bottom: 0.4em;
+}
+
+.shenlun-body .shenlun-section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  margin: 1em 0 0.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--primary);
+  font-weight: 600;
+}
+
+.shenlun-section-title {
+  color: var(--primary);
+  font-size: 1.05em;
+  letter-spacing: 0.04em;
+}
+
+/* 数字编号 chip：紫蓝 */
+/* 数字编号 chip：墨蓝（替代原 indigo） */
+.shenlun-numbered {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.6em;
+  height: 1.6em;
+  padding: 0 0.5em;
+  border-radius: 0.4em;
+  background: rgba(44, 82, 130, 0.18);
+  color: rgb(44, 82, 130);
+  font-weight: 700;
+  font-size: 0.85em;
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+}
+
+/* 框架词：一是/二是/首先/其次... — 墨蓝加粗带左竖线 */
+.shenlun-frame {
+  color: rgb(44, 82, 130);
+  font-weight: 700;
+  padding: 0 0.15em;
+  border-left: 3px solid rgb(30, 58, 95);
+  margin-left: 0.1em;
+  padding-left: 0.4em;
+  background: rgba(30, 58, 95, 0.08);
+}
+
+/* 政策术语：高质量发展 / 乡村振兴... — 玫红加粗（功能性配色，与墨蓝/朱砂构成三色对比） */
+.shenlun-policy {
+  color: rgb(190, 24, 93);
+  font-weight: 700;
+  background: rgba(236, 72, 153, 0.08);
+  padding: 0 0.2em;
+  border-radius: 0.25em;
+  border-bottom: 2px dashed rgba(190, 24, 93, 0.4);
+}
+
+/* 转折/总结：因此/综上... — 绿色加粗（走 --success token） */
+.shenlun-transition {
+  color: rgb(16, 185, 129);
+  font-weight: 700;
+  padding: 0 0.15em;
+}
+
+/* 关键词（动态从 keyPoints 提取）：黄色高亮背景 + 印章红虚线下划（D-18a P2e-5）
+   配合 EnhancedShenlunBody 给 .shenlun-keyword span 加 title="命中要点：XX" tooltip */
+.shenlun-keyword {
+  background: linear-gradient(transparent 60%, rgba(251, 191, 36, 0.4) 60%);
+  font-weight: 600;
+  padding: 0 0.1em;
+  border-bottom: 1px dashed rgba(193, 39, 45, 0.55);
+  cursor: help;
+}
+
+/* 数字+单位：青色加粗（走 --info token） */
+.shenlun-num {
+  color: rgb(6, 182, 212);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum';
+  font-family: ui-monospace, 'JetBrains Mono', 'Fira Code', monospace, system-ui;
+  background: rgba(6, 182, 212, 0.07);
+  padding: 0 0.2em;
+  border-radius: 0.2em;
+}
+
+/* 暗色模式微调：颜色亮化以适配深底（墨蓝走亮版避免泥糊） */
+@media (prefers-color-scheme: dark) {
+  .shenlun-frame {
+    color: rgb(124, 152, 209);
+    background: rgba(44, 82, 130, 0.2);
+    border-left-color: rgb(96, 152, 209);
+  }
+  .shenlun-policy {
+    color: rgb(244, 114, 182);
+    background: rgba(236, 72, 153, 0.15);
+    border-bottom-color: rgba(244, 114, 182, 0.5);
+  }
+  .shenlun-transition {
+    color: rgb(52, 211, 153);
+  }
+  .shenlun-keyword {
+    background: linear-gradient(transparent 60%, rgba(251, 191, 36, 0.32) 60%);
+  }
+  .shenlun-num {
+    color: rgb(103, 232, 249);
+    background: rgba(6, 182, 212, 0.12);
+  }
+  .shenlun-numbered {
+    color: rgb(124, 152, 209);
+    background: rgba(44, 82, 130, 0.22);
+  }
+}
+
+/* ========== 天气动效 Keyframes ========== */
+@keyframes rainfall {
+  0% { transform: translateY(-10vh); }
+  100% { transform: translateY(110vh); }
+}
+
+@keyframes snowfall {
+  0% { transform: translateY(-5vh) translateX(0) rotate(0deg); opacity: 1; }
+  25% { transform: translateY(25vh) translateX(calc(var(--drift, 15px) * 0.4)) rotate(90deg); opacity: 0.9; }
+  50% { transform: translateY(55vh) translateX(calc(var(--drift, 15px) * -0.3)) rotate(180deg); opacity: 1; }
+  75% { transform: translateY(80vh) translateX(calc(var(--drift, 15px) * 0.6)) rotate(270deg); opacity: 0.8; }
+  100% { transform: translateY(110vh) translateX(var(--drift, -5px)) rotate(360deg); opacity: 0; }
+}
+
+@keyframes starTwinkle {
+  0%, 100% { opacity: 0.2; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+@keyframes sunPulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.15); opacity: 1; }
+}
+
+@keyframes lightning {
+  0%, 92%, 100% { background: rgba(255,255,255,0); }
+  93% { background: rgba(255,255,255,0.35); }
+  94% { background: rgba(255,255,255,0.05); }
+  96% { background: rgba(255,255,255,0.25); }
+  97% { background: rgba(255,255,255,0); }
+}
+
+@keyframes duskPulse {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; }
+}
+
+@keyframes morningGlow {
+  0%, 100% { opacity: 0.7; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.05); }
+}
+
+/* Tailwind utility classes for animations */
+.animate-rainfall { animation: rainfall linear infinite; }
+.animate-snowfall { animation: snowfall linear infinite; }
+.animate-starTwinkle { animation: starTwinkle ease-in-out infinite; }
+.animate-sunPulse { animation: sunPulse ease-in-out infinite 5s; }
+.animate-lightning { animation: lightning ease-in-out infinite 8s; animation-delay: 3s; }
+.animate-duskPulse { animation: duskPulse ease-in-out infinite 6s; }
+.animate-morningGlow { animation: morningGlow ease-in-out infinite 8s; }
+
+/* ========== UI Kit 动效（D-18a Phase 1）========== */
+@keyframes shiny-text {
+  0% { background-position: 200% 50%; }
+  100% { background-position: -100% 50%; }
+}
+.animate-shiny-text {
+  animation: shiny-text linear infinite;
+  background-size: 200% 100%;
+}
+
+/* GradientText 渐变流动（D-18a P2b-3）
+   背景位移 0% ⇄ 100% 循环，配 bg-[length:200%_auto] 让色阶横向滚动 */
+@keyframes gradient-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+.animate-gradient-shift {
+  animation: gradient-shift 6s ease infinite;
+}

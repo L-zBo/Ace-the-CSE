@@ -1,0 +1,598 @@
+[
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "1，1， ， ， ，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "数列大部分为分数，反约分后无规律，考虑递推。圈三数，找规律，1+1=2，，，观察发现该数列规律为：。则，故所求项。\n故正确答案为D。\n\n[来源 baijing1.top paperId=177 sort=46 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第46题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2023/q046.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2，13，25，39，56，（",
+    "options": [
+      {
+        "label": "A",
+        "content": "66"
+      },
+      {
+        "label": "B",
+        "content": "77"
+      },
+      {
+        "label": "C",
+        "content": "78"
+      },
+      {
+        "label": "D",
+        "content": "89"
+      }
+    ],
+    "answer": "B",
+    "explanation": "数列无明显特征，优先考虑多级数列。后项减前项得到新数列：11，12，14，17，\n），无\n明显特征，再次作差，后项减前项得到数列：1，2，3，（\n），是公差为1的等差数列，下一项为\n3+1=4，则新数列下一项为17+4=21。故所求项=56+21=77。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第47题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "5，6，9，13，15，18，19，（",
+    "options": [
+      {
+        "label": "A",
+        "content": "27"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "25"
+      },
+      {
+        "label": "D",
+        "content": "24"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题干数列项数较多，优先考虑多重数列。交叉后无规律，考虑分组。原数列两两分组后为：（5，6)\n（9，13）（15，18）（19，？），组内加和后的数列为：11，22，33，是公差为11的等差数列，下一项\n应为33+11=44，故所求项为44-19=25。\n12\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第48题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "110，121，275，297，（",
+    "options": [
+      {
+        "label": "A",
+        "content": "321"
+      },
+      {
+        "label": "B",
+        "content": "375"
+      },
+      {
+        "label": "C",
+        "content": "423"
+      },
+      {
+        "label": "D",
+        "content": "462"
+      }
+    ],
+    "answer": "D",
+    "explanation": "题干数列各项均为三位数，考虑机械划分。将原数列中的每一项拆成三个数字去看，观察发现中间的\n数字均为前后两个数字之和，1+0=1，1+1=2，2+5=7，2+7=9，故所求项也应满足此条件。观察选项，只有D\n项满足，4+2=6。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第49题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "24，14，26，33，46，（",
+    "options": [
+      {
+        "label": "A",
+        "content": "56"
+      },
+      {
+        "label": "B",
+        "content": "62.5"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "71.5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "24\n14\n数列无明显特征，且作差作和后均无规律，考虑递推数列。观察发现，\n+14=26，\n+26=33，\n2\n2\n26\n第一项\n33\n+33=46，即\n+46=62.5。\n2\n2\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第50题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "有一个圆柱体花瓶，装有 5cm 深的水，花瓶的内底面直径为 12cm，现在往花瓶中放入一个玻璃球，当 ） ） 球掉入水底时，水面恰好与玻璃球相切，则玻璃球的半径为（ ）cm。",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由水面恰好与玻璃球相切可知，玻璃球放入花瓶后完全浸入水中。设玻璃球的半径为r，浸入水中后水\n面的高度为2r，根据原来花瓶中水的体积+玻璃球体积=现在花瓶中水的体积与玻璃球的总体积，可列式：\n5×πX\n122\n×π×²=2r×π×\n，化简为r²=(2r-5)×27，解得r=3cm。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第51题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "小孟有 58 枚硬币，其中 1 枚为假，目前已知道真币重量相同，假币重量偏轻。如果小孟手中只有一个 天平，则至少称（ ）次一定能找出假币。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据天平问题结论：使用n次天平最多可以判定3\"枚硬币，即使用2次天平可以判定最多9枚硬币，\n使用3次天平可以判定最多27枚硬币，使用4次天平可以判定最多81枚硬币。本题共58枚硬币，则至少\n要称4次一定能找出假币。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第52题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "黑脸琵鹭飞行速度较快，为 55 公里/小时，白琵鹭飞行速度为 45 公里/小时，黑、白两群琵鹭从距离 深圳湾湿地 3120 公里的黑龙江出发南飞越冬，若不考虑途中停歇，白琵鹭先到达湿地需比黑脸琵鹭早起飞 （ ）小时。",
+    "options": [
+      {
+        "label": "A",
+        "content": "11"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "13"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据公式：时间=\n路程\n可得黑脸琵鹭到达湿地的时间\n3120\n 56.7小时，白琵鹭到达湿地时间\n速度’",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第53题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-011",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下列成语中的动物不属于变温动物的是（\n）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "11"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "13"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查科技常识。\n3\nA、C、D三项正确，变温动物又称“冷血动物”，是指体温随环境温度的改变而变化的动物，如爬行类、\n两栖类和鱼类等动物，故鱼属于变温动物。蛇属于爬行类动物，青蛙属于两栖类动物，故蛇和蛙属于变温\n动物。\nB项错误，恒温动物是指鸟类和哺乳类动物，因为体温调节机制比较完善，能在环境温度变化的情况下\n保持体温的相对稳定。鹜是野鸭，是水鸟的典型代表，属于鸟类，故鹜不属于变温动物。\n本题为选非题，故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第11题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某书的页码是从 1 开始的连续自然数，1，2，3，4，······莎莎将该书页码全部相加时，不小 心将其中某页码多加了 1 次，结果和为 2003，则被多加的页码为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "56"
+      },
+      {
+        "label": "D",
+        "content": "62"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，全部页码数之和+某页页码数=2003，则全部页码数之和小于2003。设该书共有n页，\n(1 +62) × 62\n根据等差数列求和公式：Sn=\n=1953，最接近且\n2\n2\n小于2003，此时多加1次的页码数=2003-1953=50。\n故正确答案为B。\n55\n总成本\n60 × α+80 × b\n方法一：根据公式：每公斤成本=\n元，产量变\nq+D\n60 × (1+15%)× a+80 × (1-15%)× b\n489+069\n化后拼配豆每公斤的成本：\n元。根据“该拼配咖啡豆的\nα+b\na+b\n60 × α+80 × b\n489+D69\n成本上调了5%”可列式：\n×(1+5%)=\n，解得a:b=8:3。\nα+b\nα+b\n13\n方法二：由于甲咖啡豆单价上涨15%，乙咖啡豆单价下降15%，拼配咖啡豆成本上调5%，根据线段法：\n量和距离成反比，可知甲咖啡豆总成本：乙咖啡豆总成本=[5%-（-15%)］：（15%-5%)=2：1。根据重量\n总成本\n2.1\n每公斤成本；可得α：b=\n08.09\n=8:3。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第54题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "有甲、乙两种咖啡豆，按照质量比 a：b 相混合制成一种拼配豆，已知甲咖啡豆每公斤 60 元，乙咖啡 豆每公斤 80 元，现因产量变化，甲咖啡豆单价上涨 15%，乙咖啡豆单价下降 15%，以致该拼配咖啡豆的成 本上调了 5%，则 a：b 为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1：1"
+      },
+      {
+        "label": "B",
+        "content": "5：3"
+      },
+      {
+        "label": "C",
+        "content": "8：3"
+      },
+      {
+        "label": "D",
+        "content": "2：1"
+      }
+    ],
+    "answer": "C",
+    "explanation": "3120\n≈ 69.3小时，则白琵鹭先到达湿地需比黑脸琵鹭早起飞69.3-56.7=12.6小时，求最少，应向上取\n45\n整，为13小时。\n故正确答案为C。\n54\n根据题意可知，全部页码数之和+某页页码数=2003，则全部页码数之和小于2003。设该书共有n页，\n(1 +62) × 62\n根据等差数列求和公式：Sn=\n=1953，最接近且\n2\n2\n小于2003，此时多加1次的页码数=2003-1953=50。\n故正确答案为B。\n55\n总成本\n60 × α+80 × b\n方法一：根据公式：每公斤成本=\n元，产量变\nq+D\n60 × (1+15%)× a+80 × (1-15%)× b\n489+069\n化后拼配豆每公斤的成本：\n元。根据“该拼配咖啡豆的\nα+b\na+b\n60 × α+80 × b\n489+D69\n成本上调了5%”可列式：\n×(1+5%)=\n，解得a:b=8:3。\nα+b\nα+b\n13\n方法二：由于甲咖啡豆单价上涨15%，乙咖啡豆单价下降15%，拼配咖啡豆成本上调5%，根据线段法：\n量和距离成反比，可知甲咖啡豆总成本：乙咖啡豆总成本=[5%-（-15%)］：（15%-5%)=2：1。根据重量\n总成本\n2.1\n每公斤成本；可得α：b=\n08.09\n=8:3。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第55题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "在一个即时战略电子游戏中，电子士兵以每分钟一米的速度沿一条固定路线行军，任意两名士兵相遇 后，都会掉头行进；行至路线的起点或终点时，便停止前进并对此地的基地进行无差别攻击。玩家阿坤的 基地距离魔王城堡基地 9 米。游戏开始，他立即派出一名士兵，此后每隔 1 分钟派出 1 名士兵，共计 7 名。 一名士兵出发半分钟后，魔王也从城堡基地每隔 1 分钟派出 1 名士兵，共计 8 名。若之后双方均未继续派 兵，则游戏开始多少分钟后，所有士兵均已开始攻击？",
+    "options": [
+      {
+        "label": "A",
+        "content": "16.5"
+      },
+      {
+        "label": "B",
+        "content": "17"
+      },
+      {
+        "label": "C",
+        "content": "17.5"
+      },
+      {
+        "label": "D",
+        "content": "18"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干中电子士兵的行军规则，任意两名电子士兵相遇时会掉头行进，下图为甲、乙两名士兵的行\n进路线：\n但由于每个电子士兵的速度一致，可等价认为这两名士兵在相遇时，只互换身份，仍旧继续向前行进，\n如下图：\n以每名士兵来看，从起点出发，每次与其他人相遇，无需掉头，而是代替对方继续向前直至行进至终\n点，每名士兵行进整个全程所用时间为\n9分钟。由于魔王晚半分钟派兵且比阿坤多一名士兵，所以魔王\n最后一名士兵在起点等待0.5+7=7.5分钟，最终到达终点的时间为7.5+9=16.5分钟。所以游戏开始16.5\n分钟后，所有士兵均已开始攻击。\n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第56题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "小明对甲、乙、丙三种手机软件的安装情况进行街头调查。随机选取的一批调查对象中，手机安装了 甲、乙、丙三种软件的人数分别是 40，36，35，只安装了其中一种软件的人数分别占其中的 25%、25%、20%， 同时安装了甲、乙两种软件而未安装丙软件的有 4 人，同时安装了甲、丙两种软件而未安装乙软件的人数 比同时安装乙、丙两种软件而未安装甲软件的人数多 3 人，有（ ）人同时安装了甲、乙、丙三种 软件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "21"
+      },
+      {
+        "label": "C",
+        "content": "27"
+      },
+      {
+        "label": "D",
+        "content": "33"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如图所示，根据题意，只安装甲软件的人数为40×25%=10人，只安装乙软件的人数为36×25%=9人，\n只安装丙软件的人数为35×20%=7人。设有×人同时安装了甲、乙、丙三种软件，则同时安装了甲、丙两\n种软件而未安装乙软件的人数为40-10-4-x=（26-x）人，同时安装乙、丙两种软件而未安装甲软件的人数\n为26-x-3=（23-x）人。安装丙软件的人数为（26-x）+x+（23-x）+7=35，解得：x=21，即有21人同时安\n装了甲、乙、丙三种软件。\n14\n甲40\n乙36\n4\n10\n9\nX\n26-x\n23-x\n7\n丙35\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第57题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "作曲人阿伟不久前创作了一首歌，甲、乙两个音乐平台均获得其使用权，甲平台根据该歌曲播放数乘 以 0.01 元给予收益；乙平台除给予 10 万元基础收益外，另计每次播放收益 0.006 元，现从甲平台获得的 收益比乙平台多 10000 元，且此时该歌曲在甲平台的播放量比在乙平台高 500 万次，那么该歌曲在甲平台 的播放量为（ ）万次。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1800"
+      },
+      {
+        "label": "B",
+        "content": "2000"
+      },
+      {
+        "label": "C",
+        "content": "2200"
+      },
+      {
+        "label": "D",
+        "content": "2400"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设该歌曲在甲平台的播放量为x万次，在乙平台的播放量为（x-500）万次。根据“从甲平台获得的收\n益比乙平台多10000元”，可得0.01×=10+0.006×（z-500)+1，解得x=2000。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第58题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-012",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2023 年是毛泽东等老一辈革命家为雷锋同志题词60 周年。60 年来，学雷锋活动在全国持续开展，雷\n锋的名字家喻户晓，雷锋的事迹深入人心，雷锋精神滋养着一代代中华儿女的心灵。实践证明，无论时代\n如何变迁，雷锋精神永不过时。下列语录体现“雷锋精神”的有（\n）个。\n①我愿永远做一颗永不生锈的螺丝钉；\n②我要把有限的生命，投入到无限的“为人民服务”之中去；\n③身体有病并不可怕，可以吃药，可以治疗，可怕的是思想上有了病。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1800"
+      },
+      {
+        "label": "B",
+        "content": "2000"
+      },
+      {
+        "label": "C",
+        "content": "2200"
+      },
+      {
+        "label": "D",
+        "content": "2400"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查人文常识。\n一“，“\n岗位、默默奉献的雷锋精神。\n②正确，“人的生命是有限的，可是，为人民服务是无限的，我要把有限的生命，投入到无限的‘为\n人民服务’之中去”出自雷锋日记，体现了全心全意为人民服务的雷锋精神。\n③错误，“不要紧，身体有病不可怕，可以吃药，可以治疗；可怕的是思想上有了病，思想上有病，\n就是健康的身体也会垮下去的”出自焦裕禄，体现的是焦裕禄精神。\n综上所述，体现“雷锋精神”的有①②，共2个。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第12题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "博物馆员工周二至周六上班，周日、周一休息。某月有 31 天，员工小王工作了 22 天，则该月的 4 号 是周几？",
+    "options": [
+      {
+        "label": "A",
+        "content": "周一"
+      },
+      {
+        "label": "B",
+        "content": "周二"
+      },
+      {
+        "label": "C",
+        "content": "周一或周四"
+      },
+      {
+        "label": "D",
+        "content": "周四或周日"
+      }
+    ],
+    "answer": "C",
+    "explanation": "该月共有31天，小王工作了22天，则休息了31-22=9天。31天可看成前3天+后28天。后28天为4\n个整周期，共休息4×2=8天。则前3天休息1天，说明该月的第一天（1号）是周一或者第三天（3号)\n是周日，若1号是周一，则4号是周四；若3号是周日，则4号是周一。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第59题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2023-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "老杨、老朱和小张三人开展社区巡防工作，巡防路线固定，三人同时同向出发，老杨开车，老朱骑自 ）分 行车，小张走路。已知老杨每 20 分钟追上小张一次，每 40 分钟追上老朱一次，则老朱每（ 钟追上小张一次。",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "60 四、言语理解与表达。本部分包括表达与理解两方面的内容。请根据题目要求，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "起点相同的环形追击，同时同向出发，每次追上的两人路程差即为整个巡防路线周长。根据环形追及\n(a-a=n-a‘x(半a-a)=x(a-）=s‘4x=s\nS巡防路线\nS巡防路线=40分钟。\n故老朱每次追及小张的时间=\nU朱一张\n杨朱\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考shenzhen行测第60题",
+    "region": "shenzhen"
+  }
+]

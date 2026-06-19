@@ -1,0 +1,354 @@
+[
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两人在一条 400 米的环形跑道上从相距 200 米的位置出发，同向匀速跑步。当甲第三次追上乙的时候， 乙跑了 2000 米。问甲的速度是乙的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.2"
+      },
+      {
+        "label": "B",
+        "content": "1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.6"
+      },
+      {
+        "label": "D",
+        "content": "2.0"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：52%，易错项：C。\n解析\n第一步，本题考查行程问题，属于相遇追及类。\n第二步，环形同点同向出发每追上一次，甲比乙多跑一圈。第一次由于是不同起点，甲比乙多跑原来的差距200\n米；之后两次追上都多跑400米，甲一共比乙多跑200+400×2=1000（米）。乙跑了2000米，甲跑了3000米，\n时间相同，则速度比与路程比也相同，可知甲的速度是乙的3000÷2000=1.5倍。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第36题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "已知 1 立方米可燃冰可转化为 164 立方米的天然气和 0.8 立方米的水。现完成一定量的可燃冰转化后，产生 的水比可燃冰体积减小了 22 立方米。问转化过程总共产生多少立方米天然气？",
+    "options": [
+      {
+        "label": "A",
+        "content": "少于 1.6 万"
+      },
+      {
+        "label": "B",
+        "content": "1.6 万～1.7 万之间"
+      },
+      {
+        "label": "C",
+        "content": "1.7 万～1.8 万之间"
+      },
+      {
+        "label": "D",
+        "content": "多于 1.8 万"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：22%，易错项：C。\n解析\n第一步，本题考查基础应用题，用比例法解题。\n第二步，1立方米的可燃冰可产生0.8立方米的水，即每立方米少0.2立方米。现在少了22立方米，可知原来\n的可燃冰有22÷0.2=110（立方米），可产生天然气110×164=18040（立方米），多于1.8万立方米。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第37题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某集团旗下有量贩式超市和便民小超市两种门店，集团统一采购的 A 商品在量贩式超市和便民小超市的单件 售价分别为 12 元和 13.5 元。4 月 A 商品在两种门店分别售出了 600 件和 400 件，共获利 5000 元，问该商品进 价为多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7.2"
+      },
+      {
+        "label": "B",
+        "content": "7.6"
+      },
+      {
+        "label": "C",
+        "content": "8.0"
+      },
+      {
+        "label": "D",
+        "content": "8.4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：65%，易错项：C。\n解析\n第一步，本题考查经济利润问题，属于基础公式类。\n第二步，设量贩式超市的单件利润为x元，那么便民小超市的单件利润为（x＋1.5）元。可列方程：600x＋400\n×（x＋1.5）＝5000，解得x＝4.4，那么该商品的进价为12－4.4＝7.6（元）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shandong行测第38题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "马拉松组委会在赛道中设置 18 个水站，将赛道平均分为 19 段。送水车下午 14：00 从起点出发匀速行驶， 每到一个站点停 1 分钟时间卸下瓶装水，到达终点之后原速返回起点且不再停站。已知 14：27，送水车卸完第 9 个站的瓶装水，问如果其到达终点后立刻返回，什么时间能重新回到起点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "15：30"
+      },
+      {
+        "label": "B",
+        "content": "15：32"
+      },
+      {
+        "label": "C",
+        "content": "15：34"
+      },
+      {
+        "label": "D",
+        "content": "15：36"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：48%，易错项：B。\n解析\n第一步，本题考查植树问题。\n第二步，卸完第9个站的瓶装水，说明已经走了9段，卸了9次水，共用时14:27－14:00＝27（分钟），其中\n卸水用了9分钟，那么走了9段用时18分钟，则每段用时2分钟。\n第三步，全程往返共19×2=38段，用时38×2=76（分钟），卸水18次，用18分钟，共需76+18=94（分钟），\n14:00从起点出发，则回到起点的时间为14:00＋94分钟＝15:34。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shandong行测第39题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "由于改良了种植技术，农场 2017 年种植的 A 和 B 两种作物，产量分别增加了 10%和 25%。已知 2017 年两种 作物总产量增加了 18%，问 2017 年 A 和 B 两种作物的产量比为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7∶8"
+      },
+      {
+        "label": "B",
+        "content": "8∶7"
+      },
+      {
+        "label": "C",
+        "content": "176∶175"
+      },
+      {
+        "label": "D",
+        "content": "77∶100"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：12%，易错项：A。\n解析\n解法一：\n第一步，本题考查基础应用题，用方程法求解。\n第二步，设2016年两种作物产量为A、B，那么由题意10%A+25%B=18%（A+B），解得A∶B=7∶8。题目所求为2017\n-10-\n年，则1.1A∶1.25B=7.7∶10=77∶100。\n因此，选择D选项。\n解法二：\n第一步，本题考查基础应用题，用十字交叉法求解。\n第二步，设2016年两种作物产量为A、B，那么对混合增长率进行十字交叉有：\n所得比例7%∶8%=7∶8即A、B之比。题目所求为2017年，则1.1A∶1.25B=7.7∶10=77∶100。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shandong行测第40题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一个半圆形拱门的宽和高分别为 8 米和 4 米，一辆货车拉着宽 4.8 米、每层高 20 厘米的泡沫板通过该拱门。 如果车斗底部与地面的垂直距离为 1.1 米，问要通过拱门，每次最多可以装载几层泡沫板?",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "11"
+      },
+      {
+        "label": "D",
+        "content": "12 - 5 -"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：40%，易错项：C。\n解析\n第一步，本题考查几何问题，属于平面几何类。\n第二步，如图所示，在直角三角形OBC中，OC＝OA＝4米，OB＝ ＝2.4米，根据勾股定理，\nBC= =3.2米，如果车斗底部与地面的垂直距离为1.1米，泡沫板每层高20厘\n米， ，即每次最多可以装载10层泡沫板。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shandong行测第41题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某公司 2017 年每个月的销售额都比上个月高 x 万元。其 9 月的销售额是 1 月的 2 倍，11 月的销售额为 900 万元。问该公司 2017 年全年的销售额是多少万元?",
+    "options": [
+      {
+        "label": "A",
+        "content": "7200"
+      },
+      {
+        "label": "B",
+        "content": "7650"
+      },
+      {
+        "label": "C",
+        "content": "8100"
+      },
+      {
+        "label": "D",
+        "content": "8550"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：58%，易错项：B。\n解析\n第一步，本题考查数列问题。\n第二步，设1月销售额为a，9月销售额是1月的2倍，则9月为2a，根据每个月销售额都比上个月高x万元，\n9月为a+8x，有2a=a+8x，解得a=8x，11月的销售额为900万元，则a+10x=900，解得x=50、a=400。\n第三步，12月销售额为a+11x=950，该公司2017年全年的销售额是 （万\n元）。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shandong行测第42题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在 ATM 机上输入银行卡密码时，若连续三次输入错误则会吞卡，老李忘了银行卡密码的末两位数，只记得是 两个不相同的奇数，若他在末两位上随意输入两个不同奇数，能在吞卡前猜中正确密码的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "奇数为1、3、5、7、9，共五个，总情况数为从5个奇数中选择两个不同奇数，共种。三次尝试有一次猜中即可。分类讨论：第一次猜中的概率为；第一次猜错第二次猜中的概率为；前两次均错第三次猜中的概率为。则能在吞卡前猜中的概率为。\n故正确答案为A。\n\n[来源 baijing1.top paperId=273 sort=43 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第43题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2020/q043.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "有 2 张 1×1 的正方形红纸，3 张 1×1 的正方形黄纸，2 张 1×2 的长方形绿纸，所有的纸均颜色均匀。现在 将这些纸全部不重叠地贴到一张 3×3 的正方形白纸上，要求最后的图案为轴对称图形。问总共能贴出多少种满 足要求的图案（旋转后重合的图案视为同一种）?",
+    "options": [
+      {
+        "label": "A",
+        "content": "11"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：39%，易错项：C。\n解析\n第一步，本题考查其他杂题。\n-11-\n第二步，轴对称图形按照绿色长方形位置的不同可分为以下3类：\n①两个长方形关于正方形横轴或竖轴对称：\n②两个长方形关于正方形对角线对称但不相邻：\n③两个长方形关于正方形对角线对称且相邻：\n一共10种情况。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shandong行测第44题",
+    "region": "shandong",
+    "questionImage": "/img/questions/provincial_shandong_2020/q044.png"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2020-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两个工程队共同完成某项工程需要 12 天，其中甲单独完成需要 20 天。现 8 月 15 日开始施工，由甲 工程队先单独做 5 天，然后甲、乙两个工程队合作 3 天，剩下的由乙工程队单独完成，问工程完成的日期是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9 月 5 日"
+      },
+      {
+        "label": "B",
+        "content": "9 月 6 日"
+      },
+      {
+        "label": "C",
+        "content": "9 月 7 日"
+      },
+      {
+        "label": "D",
+        "content": "9 月 8 日 第四部分 判断推理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：35%，易错项：C。\n解析\n第一步，本题考查工程问题，属于效率类。\n第一步，根据12（甲+乙）=20甲，解得甲∶乙=3∶2，赋值甲的效率为3、乙的效率为2，工作总量为60。甲队\n先干5天，完成的工作量为15；甲、乙合作3天，完成的工作量为15；剩余工作量为60-15-15=30，乙队单独\n完成还需要30÷2=15天，工程完成共需要5+3+15=23天。\n第三步，8月15日开始施工，即8月共工作17天，9月还需工作23-17=6天，则工程完成的日期是9月6日。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考shandong行测第45题",
+    "region": "shandong"
+  }
+]

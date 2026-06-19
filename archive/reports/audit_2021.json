@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-05-01T12:02:03.170555Z",
+  "source": "national",
+  "filters": {
+    "year": "2021"
+  },
+  "summary": {
+    "examCount": 2,
+    "issueCount": 2,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2021_dishi",
+      "source": "national",
+      "year": "2021",
+      "level": "dishi",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-panduan-2021-dishi-093",
+              "number": 93,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2021-dishi-069",
+              "number": 69,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-ziliao-2021-dishi-114",
+              "number": 114,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2021_fushengjia",
+      "source": "national",
+      "year": "2021",
+      "level": "fushengjia",
+      "actualTotal": 135,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 15,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-panduan-2021-fushengjia-098",
+              "number": 98,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2021-fushengjia-070",
+              "number": 70,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-yanyu-2021-fushengjia-058",
+              "number": 58,
+              "optionCount": 2
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    }
+  ]
+}

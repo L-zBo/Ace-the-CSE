@@ -1,0 +1,107 @@
+[
+  {
+    "id": "provincial-beijing-xingce-shuliang-2023-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "张、王、李三人总共有120本书，张、王的书分别是李的2倍和5 倍，则王有多少本书？",
+    "options": [
+      {
+        "label": "A",
+        "content": "65"
+      },
+      {
+        "label": "B",
+        "content": "70"
+      },
+      {
+        "label": "C",
+        "content": "75"
+      },
+      {
+        "label": "D",
+        "content": "80"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】本题为方程问题（基础数学运算）。\n设李有 x 本书，则张有 2x 本，王有 5x 本。\n由总数 x + 2x + 5x = 120，得 8x = 120，解得 x = 15。\n故王有 5x = 75 本，对应 C 项。\n（验算：李 15 + 张 30 + 王 75 = 120，与题干一致。）\n故正确答案为 C。\n[Source: xiaomaigongkao.com/Article/article_details/id/1000045704.html × zhuanlan.zhihu.com/p/1904598830198026783 双源校验]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考beijing行测第61题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2023-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "一件商品售价 100 元/件时，卖出 4 件的利润与售价 80 元/件时卖 6 件的利润相同。则这种商品的成本是多少元/件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】本题考查利润问题（成本求解）。\n设成本为 x 元/件。\n售价 100 元/件时单件利润 = 100 − x，卖 4 件总利润 = 4(100 − x)。\n售价 80 元/件时单件利润 = 80 − x，卖 6 件总利润 = 6(80 − x)。\n由两种情形总利润相同：4(100 − x) = 6(80 − x)\n→ 400 − 4x = 480 − 6x\n→ 2x = 80\n→ x = 40。\n故商品成本为 40 元/件，正确答案为 B。\n[Source: doc.quark.cn 2023 北京行测 61-70 题 × exam2.32xueyuan.com 北京 2023 行测真题 PDF 双源校验]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考beijing行测第62题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2023-080",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "[数列/数学推理题，参见图片]",
+    "options": [
+      {
+        "label": "A",
+        "content": "74"
+      },
+      {
+        "label": "C",
+        "content": "54 现有6根钢筋，长度分别为4尺、7尺、8尺、9尺、10尺和12尺。现每次抽取3根首尾相连组成一个三角 形，则一共能组成多少个不同的三角形？"
+      },
+      {
+        "label": "D",
+        "content": "46"
+      },
+      {
+        "label": "B",
+        "content": "63 A、20 B、19 C、18 D、17 一个半径为120米的圆形人工湖正中有一个半径为60米的圆形人工岛。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意可知，会计、法律和技术三项培训的报名人数分别为6、5、4的倍数，故设三者分别为6x、\n5x、4x，同时参加会计和技术培训的人数为10y，则同时参加会计和法律培训的人数为7y，同时参加法\n律和技术培训的人数为8y\n17/28\n。由三集合容斥原理标准型公式：\n，可得6x+5x+4x-7y-10y-8y+0=80-0，整理可得3x-5y=16。因总人\n数为80人，则\n，解得\n，故y可取1、2、3。代入如下：\n①当y=1时，解得x=7，只参加技术培训的=4x-10y-8y=10人；\n②当y=2或3时，x均不为整数，不符合题意。\n故正确答案为D。\n81\n82",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考beijing行测第80题",
+    "region": "beijing"
+  }
+]

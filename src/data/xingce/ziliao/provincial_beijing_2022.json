@@ -1,0 +1,739 @@
+[
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2020 年该行业销售费用约是管理、财务费用之和的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.5"
+      },
+      {
+        "label": "B",
+        "content": "2.9"
+      },
+      {
+        "label": "C",
+        "content": "3.4"
+      },
+      {
+        "label": "D",
+        "content": "4.0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查现期倍数计算。\n第二步，定位表格材料最后一行，2020年全年三项费用分别为4635.6亿元、1575.1亿元、250.2亿元。\n第三步，选项数据首位相同第二位不同，且分母出现加减法，从左向右截取前三位舍相同，分子取整，则所求倍数\n约为 ，直除首两位商25，与A选项最接近。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第116题",
+    "region": "beijing",
+    "questionImage": "/img/questions/provincial_beijing_2022/q116.png"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 以下饼图中，最能准确反映 2020 年 7 月该行业销售（用白色表示）、 管理（用灰色表示）和财务（用黑色表示）费用占比关系的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······2020年7月······占比关系······”，结合材料时间为2020年，可判定本题为现期比重问题。定位表格材料可知，2020年1-6月与1-7月销售、管理和财务费用累计值。2020年7月值＝2020年1-7月累计值2020年1-6月累计值，则2020年7月销售费用为2429.5-2064.5=365亿元，管理费用为809.3-687.6=121.7亿元，财务费用为123.7-102.0=21.7亿元。管理费用远大于财务费用，排除C、D两项；销售费用占比，排除B项。\n故正确答案为A。\n\n[来源 baijing1.top paperId=61 sort=117 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第117题",
+    "region": "beijing",
+    "questionImage": "/img/questions/provincial_beijing_2022/q117.png"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 在该行业销售费用、管理费用和财务费用三项费用中，2020 年前 7 个 月费用额不到全年总额一半的有几项？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查现期比重计算中的求比重。\n第二步，定位表格材料1—7月与1—12月数据。\n第三步，本题估算每项费用1—7月占全年比重是否超过 。销售费用2429.5亿元超过全年4635.6亿元的一半\n（2317.8亿元），管理费用809.3亿元超过全年1575.1亿元的一半（787.55亿元），只有财务费用123.7亿元未\n超过250.2亿元的一半（125.1亿元），不到全年总额一半的为1项。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第118题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2020 年下半年该行业财务费用最高的月份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9 月"
+      },
+      {
+        "label": "B",
+        "content": "10 月"
+      },
+      {
+        "label": "C",
+        "content": "11 月"
+      },
+      {
+        "label": "D",
+        "content": "12 月"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查和差比较。\n第二步，定位表格材料“财务费用”一列。\n第三步，9月该行业财务费用＝1—9月财务费用－1—8月财务费用＝174.5－148.5＝26亿元，10月该行业财务费\n用＝1—10月财务费用－1—9月财务费用＝198.2－174.5＝23.7亿元，11月该行业财务费用＝1—11月财务费用－\n1—10月财务费用＝225.3－198.2＝27.1亿元，12月该行业财务费用＝1—12月财务费用－1—11月财务费用＝",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第119题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 关于 2020 年该行业销售、管理和财务费用，能够用上述资料中推出的 是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "二季度销售费用低于一季度水平"
+      },
+      {
+        "label": "B",
+        "content": "四季度每个月的销售费用都超过 400 亿元"
+      },
+      {
+        "label": "C",
+        "content": "管理费用累计超过 1000 亿元是在第四季度"
+      },
+      {
+        "label": "D",
+        "content": "二季度各月，财务费用逐月递减 材料 2020 年末 S 省就业人口 4750.9 万人，占常住人口总数的 59.01%，与 2019 年末相比， 就业人口占常住人口总数的比重下降 0.24 个百分点。 2020 年末 S 省第一产业、第二产业和第三产业的就业人口数量分别为 764.89 万人、 2033.39 万人、1952.62 万人，与 2019 年末相比，第一、第二产业就业人口比重分别下降"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查综合分析问题，且需找出能推出的一项。\n第二步，A选项，和差比较。定位表格材料“销售费用”一列，一季度销售费用为973.2亿元，1—6月销售费用等\n于一季度加二季度销售费用，为2064.5亿元，大于一季度销售费用的2倍，即二季度销售费用高于一季度销售费\n用，不能推出。\nB选项，和差比较。定位表格材料“销售费用”一列，10月销售费用＝3674.3－3297.9＜400亿元，不能推出。\nC选项，读数比较。定位表格材料“管理费用”一列，1—9月累计费用首次超过1000亿元，不属于第四季度，不\n能推出。\nD选项，和差比较。定位表格材料“财务费用”一列，4月财务费用＝70.6－49.6＝21亿元，5月财务费用＝88.2\n－70.6＝17.6亿元，6月财务费用＝102.0－88.2＝13.8亿元，逐月递减，能推出。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第120题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2019 年末 S 省常住人口总数约为多少万人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "7910"
+      },
+      {
+        "label": "B",
+        "content": "8030"
+      },
+      {
+        "label": "C",
+        "content": "8096"
+      },
+      {
+        "label": "D",
+        "content": "8199"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第121题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2020 年末 S 省第二产业就业人口在就业人口中的占比比第三产业约高：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "1.7 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "3.5 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "5.1 个百分点"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第122题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2020 年末 S 省第一产业就业人口同比：",
+    "options": [
+      {
+        "label": "A",
+        "content": "减少了不到 50 万人"
+      },
+      {
+        "label": "B",
+        "content": "减少了 50 万人以上"
+      },
+      {
+        "label": "C",
+        "content": "增加了不到 50 万人"
+      },
+      {
+        "label": "D",
+        "content": "増加了 50 万人以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第123题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2020 年末 S 省未就业常住人口数量约为第三产业就业人口的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.4"
+      },
+      {
+        "label": "B",
+        "content": "1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.7"
+      },
+      {
+        "label": "D",
+        "content": "1.9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第124题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 能够从上述资料中推出的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "2020 年末 S 省第一产业就业人口占就业人口的 15%以下"
+      },
+      {
+        "label": "B",
+        "content": "2018 年末 S 省就业人口同比增量低于上年同期数值"
+      },
+      {
+        "label": "C",
+        "content": "2019 年末 S 省就业人口数量较上年增长 0.1%以上"
+      },
+      {
+        "label": "D",
+        "content": "2020 年末 S 省第二产业就业人口比上年减少 0.1%以上 材料 2019 年 A 市专利密集型产业实现增加值 6918.8 亿元，比上年增长 9.6%，分别高于战略 性新兴产业、高技术产业增加值增速 2.3 个和 1.7 个百分点；专利密集型产业增加值占 GDP"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第125题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-058",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "4%。 在专利密集型产业中，2019 年信息通信技术服务业实现营业收入 10198.5 亿元，增速 达 41.3%；实现利润 197.6 元，比上年增长 1 倍；单位企业实现营业收入 12 亿元，是专利 密集型产业平均水平的 3.3 倍。 在专利密集型产业中，2019 年医药医疗产业营业收入、利润分别增长 13.7%和 5%；收 入利润率达到 17%，高于专利密集型产业平均水平 4.1 个百分点；单位企业营业收入、利 润分别为 4.5 亿元和 0.76 亿元。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "D",
+        "content": "[选项暂缺]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，阅读给定语句。根据“玻璃幕墙给飞鸟造成了不小的困扰”可知，这句话的下文应该围绕“玻璃幕墙”带\n给鸟类的“困扰”进行详细描述。\n第二步，分析文段。①上文提出问题“人类建筑为什么成为鸟类杀手”，①后文描述鸟类有自己的导航系统。①的\n上下文衔接紧密，且与给定句子话题不接，排除A项。②上文提及鸟类凭借自身强大的“导航系统”不会迷失方向。\n②下文通过转折强调再强大的定位系统也会有“信号盲区”。②的上下文衔接紧密，且与给定句子话题不接，排除\nB项。③上文谈到再强大的定位系统也有会“信号盲区”，③下文谈到玻璃幕墙让鸟类产生错觉，造成视觉障碍，\n透明的玻璃幕墙让鸟类觉得没有障碍，夜晚的灯光也会对鸟儿造成误导。③的下文即是对“玻璃幕墙”带给鸟类的\n“困扰”的详细描述，与给定句子话题一致，衔接恰当。④上文为“玻璃幕墙”带给鸟类的“困扰”的详细描述，\n与给定句子衔接不当，排除D项。\n因此，选择C选项。\n拓展\n文章出处：《玻璃幕墙为何成“鸟类杀手”？》",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第58题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2019 年 A 市专利密集型产业实现增加值比上年约增长多少亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "413"
+      },
+      {
+        "label": "B",
+        "content": "502"
+      },
+      {
+        "label": "C",
+        "content": "606"
+      },
+      {
+        "label": "D",
+        "content": "698"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查增长量计算。\n第二步，定位材料第一段，“2019年A市专利密集型产业实现增加值6918.8亿元，比上年增长9.6%”\n第三步，根据增长量计算n+1原则，及 ，可得2019年A市专利密集型产业实现增加值比上年增长\n（亿元），与C项最接近。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第126题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 现已知 2019 年 A 市①专利密集型产业专利申请总量、②专利密集型产 业 R&D 经费占专利密集型产业实现增加值的比重。如果想得到当年 A 市专利密集型产业发 明专利申请量的数值，下列说法正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "补充①可以得到，补充②不可以得到"
+      },
+      {
+        "label": "B",
+        "content": "补充①不可以得到，补充②可以得到"
+      },
+      {
+        "label": "C",
+        "content": "补充①和②中任一条可以得到"
+      },
+      {
+        "label": "D",
+        "content": "①和②两条相加才可以得到"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查比重和平均数计算。\n第二步，定位材料第一、二段，“2019年A市专利密集型产业实现增加值6918.8亿元；2019年专利密集型产业发\n明专利申请量占专利申请总量的比重为66%；专利密集型产业每亿元R&D经费产生的发明专利申请量为73.1件”\n第三步，想得到2019年A市专利密集型产业发明专利申请量的数值，既可以通过比重求解，也可以通过平均数求\n解。材料第二段给出，2019年专利密集型产业发明专利申请量占专利申请总量的比重为66%，如果再已知①专利密\n集型产业专利申请总量，可根据部分量＝整体量×比重，来得到A市专利密集型产业发明专利申请量的数值；如果\n已知②专利密集型产业R&D经费占专利密集型产业实现增加值的比重，可根据部分量＝整体量×比重，求得专利密\n集型产业R&D经费，材料中又已知专利密集型产业每亿元R&D经费产生的发明专利申请量，利用平均数＝总数/总\n个数，可求出A市专利密集型产业发明专利申请量的数值。故补充①和②中的任一条可以得到。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第127题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2019 年 A 市专利密集型产业企业户均拥有已被成功实施的发明专利约 多少件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "11"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查平均数计算。\n第二步，定位材料第二段，“2019年企业户均拥有有效发明专利15.6件，……，已被成功实施的发明专利数为5.2\n万件，占有效发明专利数的58.4%”\n第三步，根据 ，可知有效发明专利＝户均拥有有效发明专利×企业户数，而户均拥有已被成功\n实施的发明专利数= ＝15.6×58.4%＜16×60%＝\n第 34 页 共 36 页",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第128题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 在专利密集型产业中，2019 年 A 市信息通信技术服务业单位企业实现 利润额约为多少亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.18"
+      },
+      {
+        "label": "B",
+        "content": "0.23"
+      },
+      {
+        "label": "C",
+        "content": "0.35"
+      },
+      {
+        "label": "D",
+        "content": "0.59"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查现期平均数计算。\n第二步，定位文字材料第三段，“在专利密集型产业中，2019年信息通信技术服务业实现营业收入10198.5亿元，\n增速达41.3%；实现利润197.6亿元，比上年增长1倍；单位企业实现营业收入12亿元”。\n第三步，根据 ，2019年A市信息通信技术服务业企业数=\n（个）；则单位企业实现利润额= （亿元）。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第129题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 关于 A 市专利密集型产业发展状况，能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年增加值占全市 GDP 比重为 19.9%"
+      },
+      {
+        "label": "B",
+        "content": "2019 年发明专利申请量比非发明专利申请量高一倍以上"
+      },
+      {
+        "label": "C",
+        "content": "2018 年信息通信技术服务业实现利润超过 100 亿元"
+      },
+      {
+        "label": "D",
+        "content": "2019 年医药医疗产业利润占营业收入的比重低于上年水平 材料 耐磨材料可分为金属耐磨材料、陶瓷耐磨材料和树脂耐磨材料，2014—2020 年各类耐 磨材料的消费量如下表所示："
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查综合分析，且需选出说法正确的一项。\n第二步，A选项，基期比重计算。定位文字材料第一段，“（2019年A市）专利密集型产业增加值占GDP的比重为",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第130题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2020 年中国耐磨材料的产量比消费量：",
+    "options": [
+      {
+        "label": "A",
+        "content": "高不到 20 万吨"
+      },
+      {
+        "label": "B",
+        "content": "高 20 万吨以上"
+      },
+      {
+        "label": "C",
+        "content": "低不到 20 万吨"
+      },
+      {
+        "label": "D",
+        "content": "低 20 万吨以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查简单计算和差类。\n第二步，定位柱状图与表格2020年数据。\n第三步，通过柱状图可知2020年中国耐磨材料的产量为506.5万吨，通过表格可知2020年中国耐磨材料的消费量\n为416+24+48=488万吨，有506.5-488=18.5万吨，即产量比消费量高不到20万吨。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第131题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2018—2020 年中国耐磨材料市场规模总计比 2014—2016 年高约多少亿 元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "256"
+      },
+      {
+        "label": "B",
+        "content": "286"
+      },
+      {
+        "label": "C",
+        "content": "316"
+      },
+      {
+        "label": "D",
+        "content": "346"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查增长量计算，且已知现期量与基期量。\n第二步，定位柱状图。\n第三步，2018—2020年中国耐磨材料市场规模为（484.9+540+552.3）亿元，2014—2016年中国耐磨材料市场规模\n为（429.9+426.9+434）亿元，选项数据首位相同第二位不同，加减法截三位舍相同处理数据，可得（485+540+552）\n-（430+427+434）=286亿元。\n因此，选择B选项。\n拓展\n第 35 页 共 36 页\n多个数之和－多个数之和，可先分项消除，再做和计算。（485+540+552）-（430+427+434）=（485－430）+（540\n－427）+（552－434）=55+113+118=286",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第132题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 2015—2020 年中国金属、陶瓷、树脂耐磨材料消费量均高于上年水平 的年份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查读数比较。\n第二步，定位表格材料。\n第三步，读数发现，2015年陶瓷与树脂耐磨材料消费量低于上年水平，不符；2016年陶瓷耐磨材料消费量低于上\n年水平，不符；2017年金属、陶瓷与树脂耐磨材料消费量均高于上年水平，符合；2018年树脂耐磨材料消费量低\n于上年水平，不符；2019年陶瓷与树脂耐磨材料消费量低于上年水平，不符；2020年陶瓷耐磨材料消费量低于上\n年水平，不符。2015—2020年间只有1个年份满足题意。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第133题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 将①金属耐磨材料、②陶瓷耐磨材料和③树脂耐磨材料按 2014—2020 年消费量年均增速（以 2014 年为基础）从高到低排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "①②③"
+      },
+      {
+        "label": "B",
+        "content": "③②①"
+      },
+      {
+        "label": "C",
+        "content": "②③①"
+      },
+      {
+        "label": "D",
+        "content": "①③②"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查年均增长率比较。\n第二步，定位表格材料。\n第三步，根据 ，2014—2020年的间隔年份相同，因此只需比较各类耐磨材料消\n费量的 。①金属耐磨材料消费量： ＞1，②陶瓷耐磨材料消费量： ，③树脂耐磨材料消费量：\n，得到①＞③＞②。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第134题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2022-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 能够从上述材料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2014—2020 年中国耐磨材料产量逐年递增"
+      },
+      {
+        "label": "B",
+        "content": "2020 年中国耐磨材料市场规模同比增速快于产量同比增速"
+      },
+      {
+        "label": "C",
+        "content": "2019 年中国金属耐磨材料消费量占耐磨材料总消费量的比重同比上升"
+      },
+      {
+        "label": "D",
+        "content": "2015 年中国耐磨材料总消费量高于上年水平"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查综合分析问题，且需选出可推出的一项。\n第二步，A选项，直接读数。定位图形材料，2014年我国耐磨材料产量449.9＞2015年的443.3，则2014—2020\n年中国耐磨材料产量并非逐年递增，错误。\nB选项，增长率计算比较。定位图形材料，根据增长率= ，比较类问题，数据取整处理，可得2020\n年中国耐磨材料市场规模和产量的同比增速分别为 和 ，根据分数性质可知，\n，即2020年中国耐磨材料市场规模同比增速慢于产量，错误。\nC选项，两期比重比较。定位表格材料， 2019年金属耐磨材料401＞386，则a＞0。2019年陶瓷耐磨材料25＜26，\n树脂耐磨材料47＜49，即这两部分的增长率均＜0。根据混合增长率口诀，整体增长率介于部分增长率之间。整体\n分为三个部分，其中两个部分增长率为负，一个部分的增长率为正，则可得整体增长率b＜金属耐磨材料增长率a\n（增长率为正）。又根据两期比重比较口诀，分子增速a大于分母增速b，比重上升；反之，比重下降。根据前面\n分析，可知金属耐磨材料增长率a＞耐磨材料总消费量增长率b，则同比上升，正确。\nD选项，和差比较。定位表格材料，2014年中国耐磨材料总消费量为359+30+50=439＞2015年363+25+46=434，则\n2015年中国耐磨材料总消费量低于上年水平，错误。\n因此，选择C选项。\n拓展\nD选项，亦可分项进行比较。\n第 36 页 共 36 页",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年省考beijing行测第135题",
+    "region": "beijing"
+  }
+]

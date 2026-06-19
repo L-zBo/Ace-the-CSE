@@ -1,0 +1,703 @@
+[
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "11，27，51，87，141，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "222"
+      },
+      {
+        "label": "B",
+        "content": "231"
+      },
+      {
+        "label": "C",
+        "content": "259"
+      },
+      {
+        "label": "D",
+        "content": "286"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：29%，易错项：B。\n解析\n第一步，本题考查多级数列。\n第二步，相邻两项做差（后－前），得差数列为16，24，36，54……，差数列是一个公比为1.5的等比数列，\n那么差数列的下一项为54×1.5＝81，则（ ）为141＋81＝222。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第46题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "-1.6，-4，-6，-3，1.5，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "-2.25"
+      },
+      {
+        "label": "B",
+        "content": "-1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.5"
+      },
+      {
+        "label": "D",
+        "content": "3.75"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：26%，易错项：C。\n解析\n第一步，本题考查多级数列。\n第二步，相邻两项做商（后÷前），得商数列为2.5，1.5，0.5，－0.5……，商数列是一个公差为﹣1的等差数\n列，那么商数列的下一项为﹣0.5－1＝﹣1.5，则（ ）为1.5×（﹣1.5）＝﹣2.25。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第47题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2，3，4，3√3，√46，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "4√5"
+      },
+      {
+        "label": "C",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "2√21"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：67%，易错项：B。\n解析\n第一步，本题考查非整数数列。\n第二步，原数列可化为√4，√9，√16，√27，√46，（ ），根式下的数字4，9，16，27，46……，\n相邻两项做差（后－前），得一级差数列为5，7，11，19……，一级差数列再做一次差得二级差数列为2，4，8……\n是一个公比为2的等比数列，那么二级差数列的下一项为16，一级差数列的下一项为19＋16＝35，那么（ ）\n的根式下数字为46＋35＝81，则（ ）为9。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第48题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "3.2，5.5，11.9，19.21，43.37，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "73.89"
+      },
+      {
+        "label": "B",
+        "content": "75.85"
+      },
+      {
+        "label": "C",
+        "content": "85.73"
+      },
+      {
+        "label": "D",
+        "content": "89.75"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：51%，易错项：C。\n解析\n第一步，本题考查非整数数列。\n第二步，每一项内部求和（整数部分＋小数部分），依次为5，10，20，40，80……，是一个公比为2的等比数\n列，那么和数列的下一项为160，代入选项验证，只有B选项中75＋85＝160，那么（ ）为75.85。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第49题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "1，1/3，5/18，10/27，55/81，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "35/54"
+      },
+      {
+        "label": "B",
+        "content": "385/243"
+      },
+      {
+        "label": "C",
+        "content": "455/486"
+      },
+      {
+        "label": "D",
+        "content": "745/729"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：48%，易错项：C。\n解析\n第一步，本题考查非整数数列。\n第二步，原数列可变成 ， ，2. ， ， ，（ ）。分数数列优先尝试分组找规律，分子\n一组，相邻两项分子做商（后÷前），商数列为1，2.5，4，5.5……是一个公差为1.5的等差数列，那么商数\n列的下一项为5.5＋1.5＝7，则（ ）的分子为55×7＝385；分母一组，分母是一个公比为3的等比数列，\n那么（ ）的分母为81×3＝243，则（ ）为 。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第50题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某农场有 A、B、C 三个粮仓，原先粮食储量之比为 5:9:10，今年丰收后每个粮仓新增加的粮食储量相同，A、 B 两个粮仓的储量之比变为 3:5，则今年丰收后三个粮仓的储存总量比原先增加：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C 三个粮仓，原先粮食储量之比为 5:9:10，今年丰收后每个粮仓新增加的粮食储量相同，A、 B 两个粮仓的储量之比变为 3:5，则今年丰收后三个粮仓的储存总量比原先增加： A、12.5%"
+      },
+      {
+        "label": "B",
+        "content": "15%"
+      },
+      {
+        "label": "C",
+        "content": "17.5%"
+      },
+      {
+        "label": "D",
+        "content": "20%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：36%，易错项：C。\n解析\n第一步，本题考查基础应用题。\n第二步，由A、B、C储量比例为5∶9∶10，设A、B、C储量分别为5x、9x、10x，共24x。设各仓新增y。根据\nA、B储量比变为3∶5，可列方程（5x＋y）∶（9x＋y）＝3∶5，解得x＝y。则丰收后三仓储量新增3y，即3x，\n增加3x÷24x＝12.5%。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第51题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某科技公司向银行申请甲、乙两种一年期的贷款总计 5000 万元，两种贷款的年利率分别为 5.6%和 6.2%。若 该公司向银行支付的总贷款利息为 295.6 万元，则甲种贷款的金额是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "2250 万元"
+      },
+      {
+        "label": "B",
+        "content": "2400 万元"
+      },
+      {
+        "label": "C",
+        "content": "2650 万元"
+      },
+      {
+        "label": "D",
+        "content": "2800 万元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：59%，易错项：C。\n解析\n第一步，本题考查基础应用题。\n第二步，设甲贷款x万元，乙贷款y万元。根据共计5000万元可列方程：x+y=5000 ①；另外根据甲乙贷款利\n率5.6%和6.2%共295.6万元，可列方程：5.6%x+6.2%y=295.6 ②。联立解得x=2400，y=2600，即甲种贷款的\n-12-\n金额为2400万元。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第52题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某机关甲、乙、丙三个部门参加植树造林活动，各部门植树的数量相同。甲部门花 10 天完成任务后，支援 乙、丙两个部门各 2 天，最终乙部门植树 12 天完成，丙部门 15 天完成。若丙部门每天植树的数量比乙部门少 4 棵，则甲部门每天植树的数量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30 棵"
+      },
+      {
+        "label": "B",
+        "content": "40 棵"
+      },
+      {
+        "label": "C",
+        "content": "50 棵"
+      },
+      {
+        "label": "D",
+        "content": "60 棵"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：17%，易错项：C。\n解析\n第一步，本题考基础应用题，用方程法解题。\n第二步，根据甲乙丙各部门植树的数量相同，丙＝乙－4，10×甲=12×乙+2×甲=15×丙+2×甲，联立得12乙＝\n15（乙－4），解得乙＝20，那么丙=16，甲=30。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第53题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "甲、乙两人从湖边某处同时出发，沿两条环湖路各自匀速行走。甲恰好用 2 小时回到出发点，比乙晚到 20 分钟，多走了 2800 米。若甲每分钟比乙多走 10 米，则甲行走的速度是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "4.2 千米／小时"
+      },
+      {
+        "label": "B",
+        "content": "4.5 千米／小时"
+      },
+      {
+        "label": "C",
+        "content": "4.8 千米／小时"
+      },
+      {
+        "label": "D",
+        "content": "5.4 千米／小时"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：11%，易错项：C。\n解析\n第一步，本题考查行程问题。\n第二步，设乙的速度为x米/分钟，那么甲的速度为x+10米/分钟。由题意甲走的时间为120分钟，距离为（x+10）\n×120；乙走的时间为120-20=100分钟，距离为100x。根据多走了2800米可列方程（x+10）×120-100x=2800，\n解得x=80，那么甲的速度为90米/分钟=5400米每小时，即5.4千米／小时。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第54题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某产品的生产须经历 A、B、C、D 四道工序，由甲、乙、丙、丁每人负责其中一道工序，四人单独完成每道 工序所需的时间（单位：分钟）如下表所示，则他们完成四道工序所需的总时间最少的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四道工序，由甲、乙、丙、丁每人负责其中一道工序，四人单独完成每道 工序所需的时间（单位：分钟）如下表所示，则他们完成四道工序所需的总时间最少的是（ ）。 A、18 分钟"
+      },
+      {
+        "label": "B",
+        "content": "22 分钟"
+      },
+      {
+        "label": "C",
+        "content": "24 分钟"
+      },
+      {
+        "label": "D",
+        "content": "26 分钟"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：48%，易错项：B。\n解析\n第一步，本题考查统筹推断问题。\n第二步，如果每道工序都选择最少时间的人员，那么ABC的人员选择应该是甲、乙、丁，D只能选丙，共用\n3+3+11+9=26分钟；但观察发现丙干A只需要5分钟，甲干D需要5分钟，比3+9=12分钟节省2分钟，可知最\n节省的方式是令甲干D，乙干B，丙干A，丁干C，共需要5+3+5+11=24分钟。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第55题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某次圆桌会议共设 8 个座位，有 4 个部门参加，每个部门 2 人，排座位时，要求同一部门的两人相邻，若小 李和小王代表不同部门参加会议，则他们座位相邻的概率是： - 7 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "1/48"
+      },
+      {
+        "label": "B",
+        "content": "1/24"
+      },
+      {
+        "label": "C",
+        "content": "1/12"
+      },
+      {
+        "label": "D",
+        "content": "1/6"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：10%，易错项：C。\n解析\n解法一：第一步，本题考查概率问题。\n第二步，概率=满足的情况数÷总情况数。总情况数使用捆绑法，4个部门看成4个整体进行环形排列，每个部\n门内部排序，根据环形排列公式，n个人环形排列的方式有 种，共有 种方式。满足要求的情况\n为小李和小王所在部门挨着且相邻的是这两人，这两个部门的排列只有小李同事+小李+小王+小王同事，或者小\n王同事+小王+小李+小李同事两种情况，再与其他两个部门一起环形排列，有2× 种方式。则所求概\n率为两者相除，约分为 。\n因此，选择D选项。\n解法二：第一步，本题考查概率问题。\n第二步，使用分步概率，先让小李和小王中的一个人随机选择座位，概率是1；这个人选择完之后他的部门同事\n也跟着占去他左边或者右边的一个座位，那么还剩下6个座位，只有1个座位能跟第一个人挨着，第二个人选择\n的概率是 ，分步用乘法，小李小王相邻的概率为 。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第56题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某企业有甲、乙两个口罩生产车间，每天工作 8 小时，共生产口罩 3 万只，若每天甲乙两个车间分别加班两 小时和三小时，则可多生产口罩一万只，若每天甲乙两个车间分别加班三小时和两小时，则两个车间生产 62 万 只口罩，所需的时间为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "14 天"
+      },
+      {
+        "label": "B",
+        "content": "15 天"
+      },
+      {
+        "label": "C",
+        "content": "16 天"
+      },
+      {
+        "label": "D",
+        "content": "17 天"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：53%，易错项：B。\n解析\n第一步，本题考查工程问题，利用方程组求解。\n第二步，设每天甲、乙车间分别生产口罩x、y只，可列方程组，8x+8y=30000，2x+3y=10000，解得x=1250，y=2500，\n若每天甲乙两个车间分别加班三小时和两小时，则两个车间每日共生产口罩11x+10y=3.875万只。则生产62万\n只口罩，所需的时间为62÷3.875=16天。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第57题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某单位开设 abcdef 等六门培训课程，员工自愿报名参加。经统计，员工选择的课程组合，共有四种，a+f， d+f，a+c+e，b+c+f，所有培训结束后，统一安排考试，为不影响工作要求，在 1 月 4 日至 10 日中的连续六天考 完，每天只考一门，且每位员工都不会连续两天参加考试，则安排这六门课程考试日期的不同方法共有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2 种"
+      },
+      {
+        "label": "B",
+        "content": "4 种"
+      },
+      {
+        "label": "C",
+        "content": "8 种"
+      },
+      {
+        "label": "D",
+        "content": "12 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：37%，易错项：C。\n解析\n-13-\n第一步，本题考查排列组合问题。\n第二步，根据题意，要在1月4日至10日中连续6天考完，则有两大类情况，一种是4-9日，一种是5-10日。\n每一大类进行枚举，由于每位员工不连续2天参加考试，所以可以结合员工的选择，则有：f、e、b、a、d、c；\nc、d、a、b、e、f两种。总的种类数为2×2=4种。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第58题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "为促进旅游业复苏，今年 8 月 1 日起至年底，某景区门票价格在原定价的基础上，工作日执行两折票价，双 休日及法定节假日执行五折票价。预计门票打折后，每天的游客人数均比原来翻一番，已知打折前该景区双休日 平均每天的游客人数是工作日的 5 倍，则打折后，该景区一周（该周无法定节假日）的门票收入是打折前的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5 倍"
+      },
+      {
+        "label": "B",
+        "content": "0.6 倍"
+      },
+      {
+        "label": "C",
+        "content": "0.7 倍"
+      },
+      {
+        "label": "D",
+        "content": "0.8 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：14%，易错项：C。\n解析\n第一步，本题考查基础应用题，用赋值法解题。\n第二步，赋值打折前门票价格原定价为10，景区工作日每天游客人数为1，则打折后工作日门票价格为10×0.2=2，\n双休日门票价格为10×0.5=5，根据题意可列表如下：\n第三步，该景区一周（该周无法定节假日）的门票收入是打折前的 倍。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第59题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "师徒二人在非遗展馆现场为游客剪纸，有 6 名游客各自挑选了心仪的花样。已知徒弟制作这 6 种剪纸的时间 分别为 2、6、10、12、15、25 （单位：分钟）， 师傅的工作效率是徒弟的 1. 5 倍，则这 6 名游客中最后 一个拿到剪纸的游客，需要等待的时间至少是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "25 分钟"
+      },
+      {
+        "label": "B",
+        "content": "27 分钟"
+      },
+      {
+        "label": "C",
+        "content": "28 分钟"
+      },
+      {
+        "label": "D",
+        "content": "30 分钟"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：49%，易错项：B。\n解析\n第一步，本题考查统筹推断。\n第二步，师傅的效率是徒弟的1.5倍，则同一种剪纸师傅所需时间是徒弟的 ，要使最后一个拿到剪纸的游客等\n待的时间尽可能少，应尽可能使师徒同时完成：\n师傅完成2、15、25三种，需要（2＋15＋25）× ＝28分钟；\n徒弟完成6、10、12三种，需要6＋10＋12＝28分钟。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第60题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某省选派若干名本科生和研究生去乡村支教，其中男生和女生的比例是 7∶3, 研究生和本科生的比例是 1∶4。若男本科生的人数恰好为女研究生人数的 4 倍，则女本科生至少比男研究生多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 人"
+      },
+      {
+        "label": "B",
+        "content": "6 人"
+      },
+      {
+        "label": "C",
+        "content": "9 人"
+      },
+      {
+        "label": "D",
+        "content": "12 人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：8%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设共有10x人，根据男生和女生的比例是 7∶3，可知男生7x，女生3x，根据研究生和本科生的比例\n是1∶4，可知研究生2x，本科生8x，设女研究生为y人，则男本科生的人数为4y，女本科生为（8x－4y），男\n研究生为（2x－y），由题意可知（2x－y）＋4y＝7x，解得3y＝5x，故x至少为3，y至少为5，女本科生至少\n比男研究生多（8x－4y）－（2x－y）＝4－1＝3（人）。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第61题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "小王去超市购买便携包和小哑铃作为知识竞赛活动的奖品。这两种商品超市正在进行促销，便携包单价 18 元，买 2 送 1; 小哑铃单价 12 元，买 3 送 1。小王按计划购买了便携包和小哑铃合计 56 个，共使用活动经费 606 元，则他购买小哑铃的数量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24 个"
+      },
+      {
+        "label": "B",
+        "content": "25 个"
+      },
+      {
+        "label": "C",
+        "content": "26 个"
+      },
+      {
+        "label": "D",
+        "content": "27 个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：39%，易错项：C。\n解析\n第一步，本题考查基础应用题，用代入排除法解题。\n第二步，由便携包单价18元，买2送1，相当于36元买3个一组；小哑铃单价12元，买3送1，相当于36元\n买4个一组。合计56个，606元，代入A选项，哑铃24个，则便携包32个，便携包分为32÷3=10组……2个，\n哑铃分为24÷4=6组，则总价为10×36+2×18+6×36=612，不符，排除。代入B选项，哑铃25个，则便携包31\n个，便携包分为31÷3=10组……1个，哑铃分为25÷4=6组……1个，则总价为10×36+1×18+6×36+1×12=606，\n符合。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第62题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某公司需要将 A、B 两地的同一产品运往甲、乙两个工厂。已知 A、B 两地分别有该产品 500 吨和 700 吨，甲、 乙两个工厂对该产品的需求量均为 600 吨，若从 A 地出发运往甲、乙两个工厂的运价分别为 150 元／吨和 130 元 ／吨，从 B 地出发的运价分别为 160 元／吨和 145 元／吨，则完成此项运输任务的运费最少是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两地的同一产品运往甲、乙两个工厂。已知 A、B 两地分别有该产品 500 吨和 700 吨，甲、 乙两个工厂对该产品的需求量均为 600 吨，若从 A 地出发运往甲、乙两个工厂的运价分别为 150 元／吨和 130 元 ／吨，从 B 地出发的运价分别为 160 元／吨和 145 元／吨，则完成此项运输任务的运费最少是： A、174000 元"
+      },
+      {
+        "label": "B",
+        "content": "174500 元"
+      },
+      {
+        "label": "C",
+        "content": "175000 元"
+      },
+      {
+        "label": "D",
+        "content": "175500 元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：7%，易错项：B。\n解析\n-14-\n第一步，本题考查统筹推断。\n第二步，B地运往甲乙两个工厂的运费差15元，A地运往甲乙两个工厂的运费差20元，可知A地运往乙工厂最\n划算。让A地的500吨都运到乙工厂，花费130×500＝65000（元），乙工厂差的100吨由B地运送需花费145\n×100＝14500（元）。甲工厂所需600吨全部由B地运送，需花费600×160＝96000（元）。一共需花费65000\n＋14500＋96000＝175500（元）。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第63题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某公司举办迎新晚会，参加者每人都领取一个按入场顺序编号的号牌，晚会结束时宣布：从 1 号开始向后每 隔 6 个号的号码可获得纪念品 A, 从最后一个号码开始向前每隔 8 个号的号码可获得纪念品 B。最后发现没有人 同时获得纪念品 A 和 B, 则参加迎新晚会的人数最多有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "46 人"
+      },
+      {
+        "label": "B",
+        "content": "48 人"
+      },
+      {
+        "label": "C",
+        "content": "52 人"
+      },
+      {
+        "label": "D",
+        "content": "54 人"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：38%，易错项：C。\n解析\n第一步，本题考查循环周期问题，用枚举法解题。\n第二步，获得纪念品A的编号分别为：1、8、15、22、29、36、43、50……，问题所求为人数最多，从最大的选\n项开始依次代入：\nD选项，获得纪念品B的编号分别为：54、45、36，36号同时获得纪念品A和B，排除；\nC选项，获得纪念品B的编号分别为：52、43，43号同时获得纪念品A和B，排除；\nB选项，获得纪念品B的编号分别为：48、39，30，21，12，3，,没有人同时获得纪念品A和B，符合题意。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第64题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2021-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，当某航天器飞过地球北极正上方 S 处时，恰好能够观测到北纬 45 度，北极圈内的区域。假定地 球是半径为 R 的球体，则点 S 到地球北极点的距离是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "△DEF 的面积小于 3"
+      },
+      {
+        "label": "B",
+        "content": "△CDE 的面积大于 6"
+      },
+      {
+        "label": "C",
+        "content": "△BAF 的面积等于△BDE 的面积"
+      },
+      {
+        "label": "D",
+        "content": "△ABF 的面积等于△ACE 的面积 第四部分 判断推理"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：47%，易错项：B。\n解析\n第一步，本题考查几何问题。\n第二步，如下图：\nSC与地球相切，即∠SCO＝90°，由BC为北纬45°，即∠SOC＝45°,△SOC为等腰直角三角形，OC＝R，OS＝√\n2R，SA＝√2R－R＝（√2－1）R。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年省考jiangsu行测第65题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2021/q065.png"
+  }
+]

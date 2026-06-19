@@ -1,0 +1,1269 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-049",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中最符合所给图形规律的是： - 5 - 50、下列选项中最符合所给图形规律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：62%，易错项：D。\n解析\n第一步，观察特征。\n图形组成不同，黑块数量变化明显，优先考虑数黑块。\n第二步，一条式，从左向右观察。\n题干所给图形黑块数依次为2、3、4、5，呈等差规律，问号处应该选择黑块数为6的，继续观察发现，相邻黑\n块位置之间存在规律，图一到图二黑块位置没有相同，图二到图三黑块有一个位置相同，图三到图四黑块有两个\n位置相同，依此规律，图四到问号处黑块应该有三个位置相同，只有C项符合。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第49题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q049.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-051",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示是一个圆台，则下列选项不可能属于该圆台视图的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：73%，易错项：D。\n解析\n本题为选非题，考查视图。A项，是圆台的俯视图，排除；B项，看不到两个大小不同的椭圆面，当选；C项，\n是圆台的主视图，排除；D项，是圆台的仰视图，排除。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第51题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q051.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-052",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "不经过旋转，下列选项能组成所给梯形的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "②③④"
+      },
+      {
+        "label": "B",
+        "content": "①③④"
+      },
+      {
+        "label": "C",
+        "content": "①②④"
+      },
+      {
+        "label": "D",
+        "content": "①②③"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：73%，易错项：C。\n解析\n本题考查平面组合。要想组成图示所给梯形，必须含有图①；根据平行等长原则，②③组合再与①进行拼接，可\n组成图示所给梯形。因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第52题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-053",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，能够折成如图所示立方体的是（ ）。 - 6 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：68%，易错项：B。\n解析\n本题考查立体重构。\n题干中上面由两个直角三角形面组成，下列展开图中主要验证两个直角三角形斜边是否可重合即可。\nA、B项，很明显两个斜边不可能重合，排除；\nC项，移面后如图：\n可观察到两个斜边可重合，当选；\nD项，移面后如图：\n，两个斜边不可能重合，排除。\n，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第53题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q053.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-054",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列选项中，与所给的立体图形不可能是同一图形的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：41%，易错项：C。\n解析\n-12 -\n第一步，观察特征。\n题干所给立体图形包括四个长方体，分别是一个最长的，一个次长的，以及两个最短的，可以根据四个长方体之\n间的位置关系判定是否属于同一个图形。\n第二步，找规律，分析选项。\n题干中最长的长方体与其中一个最短的长方体在同一排，且另一个最短的长方体位于其左侧，而A选项另一个最\n短的长方体位于其右侧，所以A选项与所给立体图形不是同一图形，B、C、D选项都是题干图形进行旋转得到的，\n只有A选项是发生翻转得到的。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第54题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q054.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-055",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下方分别是一个由长方体堆积而成的立体图形和该立体图形的左视图、后视图，那么该立体图形的俯视图是 （ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[见图]"
+      },
+      {
+        "label": "B",
+        "content": "[见图]"
+      },
+      {
+        "label": "C",
+        "content": "[见图]"
+      },
+      {
+        "label": "D",
+        "content": "[见图]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：77%，易错项：B。\n解析\n本题考查三视图。\n由左视图可知，左侧看第二列中共有两个长方体，且小的长方体在前；从后视图可知共有三列长方体。结合左视\n图可确定主视图方向左侧第一列第一排有一个长方体，中间列有三个长方体高度分别为中、低、高位于第一、二、\n三排，最右侧一列长方体位于第二排。从而可以确定俯视图只有C项符合。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第55题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q055.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-056",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "开∶关",
+    "options": [
+      {
+        "label": "A",
+        "content": "听∶闻"
+      },
+      {
+        "label": "B",
+        "content": "念∶想"
+      },
+      {
+        "label": "C",
+        "content": "推∶拉"
+      },
+      {
+        "label": "D",
+        "content": "聚∶合"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：89%，易错项：D。\n解析\n第一步，确定题干逻辑关系。\n“开”与“关”属于反义关系。\n第二步，辨析选项。\nA项：“听”与“闻”属于近义关系，排除；\nB项：“念”与“想”属于近义关系，排除；\nC项：“推”与“拉”属于反义关系，与题干逻辑关系一致，符合。\nD项：“聚”与“合”属于近义关系，排除。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第56题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-057",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "学习∶进步",
+    "options": [
+      {
+        "label": "A",
+        "content": "改革∶发展"
+      },
+      {
+        "label": "B",
+        "content": "开花∶收获"
+      },
+      {
+        "label": "C",
+        "content": "心平∶气和"
+      },
+      {
+        "label": "D",
+        "content": "跑步∶健身"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：73%，易错项：D。\n解析\n第一步，确定题干逻辑关系。\n“学习”的目的是“进步”，二者属于目的对应关系。\n第二步，辨析选项。\nA项：“改革”的目的是“发展”，二者属于目的对应关系，与题干逻辑关系一致，符合；\nB项：“开花”的结果是结果，“收获”并不是其本身的目的，排除；\nC项：“心平”与“气和”都是有关心情状态的描述，二者属于并列关系，排除；\nD项：“跑步”是一种“健身”的方式，二者属于方式对应关系，对应方式与题干不一致，排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第57题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-058",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "恳求∶要求",
+    "options": [
+      {
+        "label": "A",
+        "content": "复杂∶嘈杂"
+      },
+      {
+        "label": "B",
+        "content": "恪守∶遵守"
+      },
+      {
+        "label": "C",
+        "content": "动机∶动力"
+      },
+      {
+        "label": "D",
+        "content": "妥协∶协调"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：26%，易错项：B。\n解析\n第一步，确定题干逻辑关系。\n“恳求”指恳切地请求，与“要求”属于近义关系，但前者表达的恳切的感情色彩，后者相对较为强硬。\n第二步，辨析选项。\nB项：“恪守”指严格“遵守”，二者属于近义关系，但二者无明显感情色彩区分，排除；\n，“，\n逻辑关系，排除；\nD项：“妥协”指用让步的方法避免冲突或争执，与“协调”属于近义关系，且“妥协”是一种无奈之举，“协\n调”是一种主动的行为，与题干逻辑关系一致，符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第58题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-059",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "东奔∶西走",
+    "options": [
+      {
+        "label": "A",
+        "content": "跋山∶涉水"
+      },
+      {
+        "label": "B",
+        "content": "完整∶无缺"
+      },
+      {
+        "label": "C",
+        "content": "顾此∶失彼"
+      },
+      {
+        "label": "D",
+        "content": "大街∶小巷"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：64%，易错项：A。\n解析\n第一步，确定题干逻辑关系。\n“东奔西走”形容四处奔忙或为某个目的而四下活动，“东奔”与“西走”属于并列关系，且二者均属于偏正结\n- 13 -\n构的词语。\n第二步，辨析选项。\nA项：“跋山涉水”指翻山越岭，水过河，“跋山”与“涉水”属于并列关系，但二者均属于动宾结构的词语，\n排除；\nB项：“完整”与“无缺”属于并列关系，但二者均不是偏正结构的词语，排除；\nC项：“顾此失彼”指顾了这个，丢了那个，“顾此”与“失彼”属于并列关系，但二者均属于动宾关系的词语，\n排除；\nD项：“大街”与“小巷”属于并列关系，且二者均属于偏正结构的词语，与题干逻辑关系一致，符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第59题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-060",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "老师∶学生∶知识 - 7 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "父母∶子女∶家庭"
+      },
+      {
+        "label": "B",
+        "content": "青蛙∶害虫∶庄稼"
+      },
+      {
+        "label": "C",
+        "content": "园丁∶农田∶花朵"
+      },
+      {
+        "label": "D",
+        "content": "医生∶病人∶疾病"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：84%，易错项：C。\n解析\n第一步，确定题干逻辑关系。\n关王士《，与，“关王士，与《，“《，，《虾，\n第二步，辨析选项。\nA项：“父母”和“子女”共同组建了“家庭”，前两词与第三词属于包容关系中的组成关系，排除；\n币量，晋，“关王士置币量，与《种皇，‘量，中《，种星，：日\n场所，排除；\n划“关的田，与《，“关第王士是二“《，影《，\nD项：“医生”治疗“疾病”，二者属于主宾关系，“医生”帮助“病人”，二者属于主宾关系，与题干逻辑关\n系一致，符合。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第60题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-061",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "调查研究显示，相较传统的农业生产方式，有机农业生产出的农作物产量会有一定程度的下降。但现在仍然 有越来越多的农民从传统农业转向有机农业，甚至花费资金，添置用于有机农业耕作的农用设备。 以下选项如果为真，最能解释上述现象的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "有机农业耕作方式更有助于保护生态环境"
+      },
+      {
+        "label": "B",
+        "content": "许多科技节目都在推广有机农业耕作方式"
+      },
+      {
+        "label": "C",
+        "content": "有机农业生产出的农作物市场售价远高于传统农业"
+      },
+      {
+        "label": "D",
+        "content": "对于少部分农作物而言，有机农业耕作并不会降低其产量"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：89%，易错项：D。\n解析\n第一步，确定题型。\n根据提问方式中的“解释”，确定为原因解释。\n第二步，分析题干。\n向有机农业，甚至花费资金，添置用于有机农业耕作的农用设备”之间的矛盾。\n第三步，辨析选项。\nA项：题干并未涉及“生态环境问题”，无法解释；\nB项：题干并未涉及“科技节目”问题，无法解释；\nC项：售价高，能够说明农民为什么选自，可以解释；\nD项：“少部分”不能说明问题，无法解释。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第61题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-062",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "今年持续暴雨，各地花椒严重减产。由此可以预见，今年的花椒价格将会显著上涨。 要使上述推理成立，需要补充的前提条件是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "花椒价格仅受到产量的影响"
+      },
+      {
+        "label": "B",
+        "content": "全国花椒需求量与往年持平"
+      },
+      {
+        "label": "C",
+        "content": "花椒的价格不会影响群众的购买意愿"
+      },
+      {
+        "label": "D",
+        "content": "历年花椒价格的波动都与其产量密切相关"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：50%，易错项：D。\n解析\n第一步，确定题型。\n根据提问方式中的“前提”，确定为加强论证。\n第二步，找论点论据。\n论点：今年的花椒价格将会显著上涨。\n论据：今年持续暴雨，各地花椒严重减产。\n第三步，辨析选项。\nA项：建立联系。该项建立了论据“产量”和论点“花椒价格”之间的联系，可以加强。\nB项：无关选项。往年的价格与论点“今年的价格”无关，不具有加强作用。\nC项：无关选项。群众购买意愿题与论点“今年的价格”无关，不具有加强作用。\nD项：增加论据。历年的价格均与产量有关，举例加强，具有加强作用。\n第四步，强调比较。\n建立联系力度大于增加论据。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第62题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-063",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某镇计划安排小蒋、小陈、小刘 3 名干部到甲、乙、丙 3 个村子驻点，每 村只安排 1 人。3 人中有一人是农学专业，一人是法学专业，一人是工学专业。已知：小陈没有前往甲村，农学 专业的没有前往甲村，工学专业的去了丙村，小陈不是农学专业。 根据以上表述，以下推论必然正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "小刘去了甲村"
+      },
+      {
+        "label": "B",
+        "content": "小蒋去了乙村"
+      },
+      {
+        "label": "C",
+        "content": "小刘是工学专业的"
+      },
+      {
+        "label": "D",
+        "content": "小陈是工学专业的"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：59%，易错项：C。\n解析\n-14-\n第一步，确定题型。\n根据根据匹配信息，确定为分析推理。\n第二步，分析条件进行推理。\n根据条件“农学专业的没有前往甲村”“工学专业的去了丙村”，可知：法学专业者去了甲村，进而：农学专业\n者去了乙村；\n根据“小陈没有前往甲村”“小陈不是农学专业”，可知：小陈去了丙村，即小陈是工学专业。\n因此，选择D选项",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第63题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-064",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "农科院在一档农业电视节目中介绍了一种经济价值高的养殖动物——肉兔，强调肉兔有易于养殖、繁殖速度 快等优点，节目播出后受到了大家的关注。但是，某村在养殖肉兔之后，发现肉兔在当地市场销路并不理想。 以下选项如果为真，最能解释这一现象的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "电视节目播出后,当地许多大型养殖企业都开始养殖肉兔"
+      },
+      {
+        "label": "B",
+        "content": "该村的其他养殖企业同期推出了市场价格更高的黑毛乌骨鸡"
+      },
+      {
+        "label": "C",
+        "content": "虽然当地有食用兔肉的习俗,但在全国范围内兔肉并不被广泛接受"
+      },
+      {
+        "label": "D",
+        "content": "由于养殖技术成熟,肉兔养殖已成为最具经济效益的养殖产业之一"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：63%，易错项：C。\n解析\n第一步，确定题型。\n根据提问方式中的“最能解释”，确定为原因解释。\n第二步，分析题干。\n第三步，辨析选项。\nA项：电视节目播出后，当地许多大型养殖企业都开始养殖肉兔，会使得当地市场肉兔供过于需，从而导致销路\n不好，可解释；\nB项：该村的其他养殖企业同期推出了市场价格更高的黑毛乌骨鸡，乌骨鸡与肉兔不是同类，无法对肉兔销售构\n成竞争，排除；\nC项：虽然当地有食用兔肉的习俗，但在全国范围内兔肉并不被广泛接受，与题干肉兔在当地市场销路不理想并\n无直接关系，排除；\nD项：由于养殖技术成熟，肉兔养殖已成为最具经济效益的养殖产业之一，与肉兔销路如何没有关系，排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第64题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-065",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "希望过上好日子的村民都愿意接受就业辅导。村民小王愿意接受就业辅导，因此，他希望过上好日子。 以下选项存在与题干最为相似的逻辑错误的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "该店所有出售的水果都通过了农药残留检测，苹果通过了农药残留检测，因此该店正在出售苹果"
+      },
+      {
+        "label": "B",
+        "content": "张家苗圃在使用了这批肥料后花木长势很好，李家苗圃长势不好，因此李家苗圃没有使用这批肥料"
+      },
+      {
+        "label": "C",
+        "content": "许多坚持运动的儿童身体都比较健康，许多成年人也会坚持运动，因此坚持运动的成年人身体都比较健康"
+      },
+      {
+        "label": "D",
+        "content": "只有经过Ⅲ期临床试验的新药才可能被批准上市，该新药没有经过Ⅲ期临床试验，所以它没有被批准上市"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：62%，易错项：C。\n解析\n第一步，确定题型。\n根据提问方式中的“最为相似”，确定为平行结构。\n第二步，分析题干推理形式。\n题干为“A都B，C是B，所L，C是A”。\n第三步，辨析选项。\nA项：可以标记为，A都B。C是B，所以，C是A，与题干推理形式相同。\nB项：可以标记为，A是B，C不是B，与题干推理形式不同，排除。\nC项：可以标记为，A是B，C是A，与题干推理形式不同，排除。\nD项：可以标记为，B→A，C不是A，与题干推理形式不同，排除。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第65题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-066",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列词语所描述的场景中，涉及化学变化的是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "聚沙成塔"
+      },
+      {
+        "label": "B",
+        "content": "百炼成钢"
+      },
+      {
+        "label": "C",
+        "content": "香气四溢"
+      },
+      {
+        "label": "D",
+        "content": "冰冻三尺"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：88%，易错项：C。\n解析\n第一步，确定题型。\n本题考查化学中化学变化。\n第二步，分析选项。\nA项：聚沙成塔没有新物质的生成，属于物理变化，故A错误；\nB项：百炼成钢过程中有新物质铁生成，属于化学变化，故B正确；\nC项：香气四溢没有新物质生成，属于物理变化，故C错误；\nD项：冰冻三尺没有新物质生成，属于物理变化，故D错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第66题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-067",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "小郭在甲、乙两个相同的玻璃杯中装入等量的水，甲杯的水比乙杯的温度高，将这两个玻璃杯同时放进温度 更低的冰箱内，则（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "乙玻璃杯温度下降得更快"
+      },
+      {
+        "label": "B",
+        "content": "甲玻璃杯温度下降得更快"
+      },
+      {
+        "label": "C",
+        "content": "甲、乙两个玻璃杯温度变化一样快"
+      },
+      {
+        "label": "D",
+        "content": "不能确定两个玻璃杯的温度变化情况"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：43%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的温度变化。\n第二步，分析原理。\n温度越高，与冰箱的换热速度越快，从而降温速度越快。\n因此，选择B选项。\n- 15 -",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第67题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-068",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "右图为地球示意图，则每年夏至，白昼时间最长的是（ ）点。",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲"
+      },
+      {
+        "label": "B",
+        "content": "乙"
+      },
+      {
+        "label": "C",
+        "content": "丙"
+      },
+      {
+        "label": "D",
+        "content": "丁 - 8 -"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：44%，易错项：B。\n解析\n第一步，确定题型。\n本题考查地理学中地球公转知识。\n第二步，分析原理。\n每年夏至，太阳直射北回归线，此时北极圈出现极昼，白昼时间为24小时，所以白昼时间最长的为甲点，其次\n是乙点，丙点、丁点。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第68题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-069",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下面 3 个图分别表示两种生物种群随时间（t）推移而发生的数量（a）变化情况，则甲、乙、丙三图表示的 关系最有可能依次是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "共生、捕食、竞争"
+      },
+      {
+        "label": "B",
+        "content": "竞争、捕食、共生"
+      },
+      {
+        "label": "C",
+        "content": "捕食、竞争、共生"
+      },
+      {
+        "label": "D",
+        "content": "竞争、共生、捕食"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：81%，易错项：D。\n解析\n第一步，确定题型。\n本题考查生物学中的物种种间关系。\n第二步，分析原理。\n甲图显示两个物种数量同步共变，为互利共生关系；乙图两个物种数量呈现此消彼长的变化，为捕食者和被捕食\n者的关系；丙图中两个物种数量一个为S形曲线增长，为竞争优势物种，另一个为竞争劣势物种，数量先增后减，\n最后趋于消亡。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第69题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-070",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，物体 M 在大小相同的力 F1 和 F2 作用下移动了相同的距离 S。下列关于 F1、F2 所做的功说法正 确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "A.F1 做的功小于 F2 做的功"
+      },
+      {
+        "label": "C",
+        "content": "C.F1 做的功大于 F2 做的功"
+      },
+      {
+        "label": "B",
+        "content": "B.F1 做的功等于 F2 做的功"
+      },
+      {
+        "label": "D",
+        "content": "D.无法判断"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：61%，易错项：A。\n解析\n第一步，确定题型。\n本题考查物理学中的功。\n第二步，分析选项。\nF1与F2大小相等，物体M在两个力的作用下移动的距离亦相等，根据功的定义：W=FS，两个力所做的功完全等\n大。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第70题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-071",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列现象主要是由于分子在不停做无规则运动导致的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "将墨水滴入水中，过会儿整杯水变黑了"
+      },
+      {
+        "label": "B",
+        "content": "用打气筒给篮球充气，感觉越打越吃力"
+      },
+      {
+        "label": "C",
+        "content": "下雪时，雪花漫天飞舞"
+      },
+      {
+        "label": "D",
+        "content": "冰块融化后，体积变小了"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：87%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的分子运动。\n第二步，分析原理。\n运动导致，正确；\nB项：打气筒给篮球打气，越打越吃力，是因为随着不断打气，篮球内部气压越来越大，内外气压差越来越大导\n致，并非分子无规则运动导致，错误；\nC项：下雪时雪花漫天飞舞，是因为雪花受到自身重力、空气阻力和风的作用力而导致，与分子无规则运动无关，\n错误；\nD项：冰块融化体积变小，是因为水在4亡以下时冷胀热缩导致，与分子无规则运动无关，错误。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第71题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-072",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "将同一鸡蛋分别浸入两杯密度不同的液体中。鸡蛋在甲杯沉底，在乙杯中悬浮。则（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "乙杯中的液体的密度更大，鸡蛋在乙杯中受到的浮力更大"
+      },
+      {
+        "label": "B",
+        "content": "甲杯中的液体的密度更大，鸡蛋在甲杯中受到的浮力更大"
+      },
+      {
+        "label": "C",
+        "content": "乙杯中的液体的密度更大，鸡蛋在两个杯中受到的浮力大小相等"
+      },
+      {
+        "label": "D",
+        "content": "甲杯中的液体的密度更大，鸡蛋在两个杯中受到的浮力大小相等"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：54%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的浮力。\n第二步，分析选项。\n鸡蛋在液体中所受的浮力，根据阿基米德原理：F浮=P液gv排，由于两杯中鸡蛋均为全部被浸没，故v排相等，\n因此鸡蛋所受浮力只与液体密度P液有关，再根据两个杯中鸡蛋的浮沉状态可知，甲杯中鸡蛋密度大于液体密度，\n乙杯中鸡蛋密度等于液体密度。进而可推知甲杯中液体密度小于乙杯中液体密度，排除B、D项，鸡蛋在乙杯中\n受到的浮力更大，只有A项正确。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第72题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-073",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "某生物体细胞中含有 18 条染色体。则在由一个体细胞正常分裂成两个体细胞的过程中，单个细胞体内染色 体数目变化情况是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "36 条→18 条→18 条"
+      },
+      {
+        "label": "C",
+        "content": "18 条→36 条→18 条"
+      },
+      {
+        "label": "B",
+        "content": "18 条→18 条→18 条"
+      },
+      {
+        "label": "D",
+        "content": "18 条→36 条→36 条"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：67%，易错项：B。\n解析\n-16 -\n第一步，确定题型。\n本题考查生物中遗传知识点。\n第二步，细胞分裂时染色体的数目复制加倍，细胞分裂过程中，染色体分裂完全相同的两份，分别进入两个新细\n胞中。新细胞和原细胞所含有的遗传物质是一样的。故单个细胞中的染色体数量变化为18条→36条→18条。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第73题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-074",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，高尔夫在力的作用下从水平地面的 M 点飞到 N 点。忽略高尔夫在飞行过程中的空气阻力，下列选 项能正确表示高尔夫从 M 点到达 N 点前的动能关系的是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：57%，易错项：A。\n解析\n第一步，确定题型。\n本题考查物理学中力和机械能守恒定律。\n第二步，分析原理。\n如图所示，不计空气阻力，机械能守恒。根据机械能=动能+势能。由重力势能大小判断动能大小。高尔夫球在上\n升过程中，动能转化为重力势能，下落过程中，重力势能转化为动能。高尔夫球由M→0时，动能转化为重力\n势能，动能逐渐减小，重力势能不断增大；高尔夫球在0点达到最高点，水平速度不为零，重力势能最大，动能\n最小；高尔夫由0→N时，重力势能转化为动能，重力势能减小，动能逐渐增大。\n0V水平\n（\nM\nN\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第74题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q074.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-075",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，3 只相同的杯子中分别装入了质量相等的水、煤油和盐水，则下列判断正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲杯中是水，乙杯是盐水，丙杯是煤油"
+      },
+      {
+        "label": "B",
+        "content": "甲杯中是煤油，乙杯是盐水，丙杯是水 - 9 -"
+      },
+      {
+        "label": "C",
+        "content": "甲杯中是煤油，乙杯是水，丙杯是盐水"
+      },
+      {
+        "label": "D",
+        "content": "甲杯中是盐水，乙杯是水，丙杯是煤油"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：41%，易错项：B。\n解析\n第一步，确定题型。\n本题考查物理学中质量和密度\n第二步，由V=M/P，质量一定，密度和体积成反比。已知质量相等，又因为P盐水>P水>P煤油，故V盐水\n<V水<V煤油，故可以判定甲杯是盐水，乙杯是水，丙杯是煤油。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第75题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下列现象与科学原理搭配正确的是（ ）。 ① 白醋能除去水垢——水垢在白醋中溶解度较高 ② 用稀硫酸除铜锈——铜锈与稀硫酸发生氧化还原反应 ③ 含氟牙膏能预防龋齿——氟化物作用于牙齿表面增强耐酸蚀能力",
+    "options": [
+      {
+        "label": "A",
+        "content": "②"
+      },
+      {
+        "label": "B",
+        "content": "①②"
+      },
+      {
+        "label": "C",
+        "content": "①③"
+      },
+      {
+        "label": "D",
+        "content": "②③"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：53%，易错项：C。\n解析\n第一步，确定题型。\n本题考查化学中生活应用中的化学反应。\n第二步，分析选项。\n①白醋能除去水垢是因为醋酸能与水垢中的不溶性的钙、镁盐和碱反应，生成可溶性的醋酸盐，从而达到除去水\n垢的目的，并不是因为水垢在白醋中的溶解度高，故错误；②稀硫酸除铜锈，发生化学反应，碱式碳酸铜+硫酸=\n硫酸铜+水+二氧化碳；③含氟牙膏能舒预防龋齿，原因是含氟牙膏利用其所含的化学活性物质氟可以促进牙釉质的\n再矿化，能较好地增强牙齿的抗龋能力，并且氟化物可以增强牙釉质对酸侵蚀的抵抗力，抑制细菌生长繁殖，故\n正确。\n因此，选择D选项。\n拓展\n②中化学反应没有元素价态变化，故不是氧化还原反应，但选项中没有正确选项。本题①错误明显，做题时结合\n排除法，倾向选择D选项，但本题确实命制有误。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第76题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "在赛车比赛中，赛车在水平直道转入弯道时，常常在弯道上冲出跑道。下列分析正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "赛车的速度越快，赛车的惯性越大"
+      },
+      {
+        "label": "B",
+        "content": "赛车的速度越快，转弯所需的向心力越大"
+      },
+      {
+        "label": "C",
+        "content": "赛车的转角越大，发动机对抗的离心力越大"
+      },
+      {
+        "label": "D",
+        "content": "赛车的转角越大，轮胎与地面之间的摩擦系数越小"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：58%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中受力分析。\n第二步，分析选项。\n- 17 -\nA项：物体惯性只与质量有关，与物体的速度无关，错误；\nmu2\nB项：向心力””，速度越大，向心力越大，正确；\nC项：离心力是一种虚拟力或称惯性力，它使旋转的物体远离它的旋转中心，转弯的汽车不需要对抗离心力，错\n误；\nD项：摩擦系数与地面的粗糙程度有关，与运动状态无关，错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第77题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "在匀速直线运动的京广高铁车厢内，竖直向上抛出一个小球。下列说法正确的是（ ）。 ①小球在最高点时，垂直于地面方向的速度为零 ②小球在最高点时，垂直于地面方向对地速度最大 ③小球的落点位置会比时速慢的列车落点位置更近 ④小球从抛出到落地的时间与列车运行速度无关",
+    "options": [
+      {
+        "label": "A",
+        "content": "①③"
+      },
+      {
+        "label": "B",
+        "content": "③④"
+      },
+      {
+        "label": "C",
+        "content": "②③"
+      },
+      {
+        "label": "D",
+        "content": "①④"
+      }
+    ],
+    "answer": "D",
+    "explanation": "、正确答案：D，全站正确率：66%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中力学知识。\n第二步，分析原理。\n在匀速直线运动的高铁中竖直向上抛球，由于惯性作用，小球在水平方向上的速度与高铁速度一致，故二者水平\n位移一致，小球都会落在抛出点的正下方，③错误；\n小球在竖直方向上受到重力作用，一直会有一个竖直向下的加速度。小球向上运动的时，速度方向向上，加速度\n方向向下，做减速运动，在最高点时，速度为零，故①正确，②错误；\n小球从抛出到落地时间与上抛初速度有关（忽略空气阻力），与列车运行速度（即水平方向速度）无关，故④正\n确。\n因此，选择D选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第78题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "根据板块构造论，地球分为亚欧板块、美洲板块、非洲板块、印度洋板块、太平洋板块和南极洲板块，除太 平洋板块几乎全为海洋外，其余板块既包括大陆又包括海洋。以下关于板块交界处位置关系对应正确的是 （ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "亚欧板块和美洲板块一一冰岛"
+      },
+      {
+        "label": "B",
+        "content": "非洲板块和印度洋板块一一蒙古"
+      },
+      {
+        "label": "C",
+        "content": "亚欧板块和太平洋板块一一英国北部"
+      },
+      {
+        "label": "D",
+        "content": "美洲板块和太平洋板块一一美国东海岸"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：32%，易错项：D。\n解析\n第一步，确定题型。\n本题考查地理学中板块构造学说。\n第二步，分析选项。\nA项：亚欧板块和美洲板块的交界处位于冰岛，正确；\nB项：非洲板块和印度洋板块的交界处位于红海，不是蒙古，错误；\nC项：亚欧板块和太平洋板块的交界处位于中国和日本，不是英国北部，错误；\nD项：美洲板块和太平洋板块的交界处位于美洲西部，不是美国东海岸，错误。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第79题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "下图是一辆汽车行驶在道路上速度（V）随时间（T）变化的关系图，则下列说法正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "汽车在第 6 分钟的时候回到原出发点"
+      },
+      {
+        "label": "B",
+        "content": "汽车在第 2 分钟的时候距离出发点最远"
+      },
+      {
+        "label": "C",
+        "content": "汽车在第 2 分钟的速度与第 6 分钟的速度大小相等"
+      },
+      {
+        "label": "D",
+        "content": "汽车在 0—2 分钟时的加速度与 2—4 分钟时的加速度相同"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：75%，易错项：D。\n解析\n第一步，确定题型。\n本题考查物理学中速度与时间的关系。\n第二步，分析选项。\nA项：汽车第6分钟没有回到出发点，错误；\nB项：汽车在第4分钟的时候距离出发点最远，错误；\nC项：汽车在第2分钟的速度和第6分钟的速度大小相等，正确；\nD项：汽车在0一2分钟时的加速度与在2一4分钟时的加速度只是大小相等，错误。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第80题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-081",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，丝绸摩擦过的玻璃棒带正电，下列说法正确的是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "丝绸得到电子，带上负电"
+      },
+      {
+        "label": "C",
+        "content": "摩擦过程中热能转化为电能"
+      },
+      {
+        "label": "B",
+        "content": "整个摩擦过程中电荷量增加"
+      },
+      {
+        "label": "D",
+        "content": "丝绸失去电子，带上正电"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：44%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中电荷转移\n第二步，分析原理。\n另一个物体得到多余的电子。如用玻璃棒跟丝绸摩擦，玻璃棒的一些电子转移到丝绸上，玻璃棒因失去电子而带\n正电，丝绸因得到电子而带看等量的负电。\nA项：丝绸得到电子带负电，正确；\nB项：摩擦过程中只有电子的转移，不会有增加，错误；\nC项：摩擦过程中是机械能转化为热能，错误；\nD项；玻璃棒的原子核吸附性较弱，所以容易失去电子，故丝绸得到电子，错误。\n-18 -\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第81题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-082",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "X 染色体显性遗传病是由于位于 X 染色体上的显性致病基因引起的疾病，则以下遗传图谱中，最有可能显示 X 染色体显性遗传病的是（ ） - 10 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "泡沫灭火器灭火时喷出的物质会对周围环境造成污染"
+      },
+      {
+        "label": "B",
+        "content": "泡沫灭火器在灭火时使燃烧物与空气隔绝，达到灭火的目的"
+      },
+      {
+        "label": "C",
+        "content": "泡沫灭火器适宜用于扑救汽油、柴油、带电设备等引起的火灾"
+      },
+      {
+        "label": "D",
+        "content": "泡沫灭火器使用完静置一段时间后，内装物质将全部变为液体"
+      }
+    ],
+    "answer": "A",
+    "explanation": "、正确答案：A，全站正确率：69%，易错项：C。\n解析\n第一步，确定题型。\n本题考查生物学中的遗传知识。\n第二步，分析选项。\nA项：父亲患病其基因类型一定为XAY，必定将患病基因XA遗传给女儿，则女儿一定患病，图谱符合规律，正确；\nB项：父母不患病则基因一定为XaY和XaXa，所以其女儿一定不患病，图谱中女儿患病，不符合规律，错误；\nC项：父亲患病其基因类型一定为XAY，必定将患病基因XA遗传给女儿，则女儿一定患病，而图谱中女儿不患病，\n不符合规律，错误；\nD项：父母不患病则基因一定为XaY和XaXa，所以其儿子基因组成一定为XaY，一定不患病，图谱中儿子患病，\n不符合规律，错误。\n因此，选择A选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第82题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-083",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "常见的泡沫灭火器内有两个容器，外壳内装碳酸氢钠与泡沫灭火剂的混合溶液。另有一玻璃瓶内胆，装有硫 酸铝水溶液。如图所示，正常情况（图Ⅰ）下。两种溶液互不接触。当需要使用泡沫灭火器时把灭火器倒立（图 Ⅱ），两种溶液发生化学反应 开关时，泡沫从灭火器中喷出，覆盖在燃烧物品上。则下列说法正确的是（ ）。 ，打开灭火器",
+    "options": [
+      {
+        "label": "A",
+        "content": "泡沫灭火器灭火时喷出的物质会对周围环境造成污染"
+      },
+      {
+        "label": "B",
+        "content": "泡沫灭火器在灭火时使燃烧物与空气隔绝，达到灭火的目的"
+      },
+      {
+        "label": "C",
+        "content": "泡沫灭火器适宜用于扑救汽油、柴油、带电设备等引起的火灾"
+      },
+      {
+        "label": "D",
+        "content": "泡沫灭火器使用完静置一段时间后，内装物质将全部变为液体"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：67%，易错项：C。\n解析\n第一步，确定题型。\n本题考查化学中灭火器原理。\n第二步，分析原理。\nA项：泡沫灭火器喷出的物质均不会污染环境，错误；\nB项：使用泡沫灭火器灭火时，能喷射出大量泡沫，它们能粘附在可燃物上，使可燃物与空气隔绝，同时降低\n温度，破坏燃烧条件，达到灭火的目的，正确；\nC项：电气设备的起火可能仍然会有存电的现象，仍有触电的危险，泡沫灭火器喷出的物质具有导电性，可能引\n起触电，所以不可用于扑灭带电设备，错误；\nD项：两种溶液混合后会生成氢氧化铝沉淀，不是液体，错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第83题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-084",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示的电路中，当电路中的开关闭合时，电路中的小灯泡都能正常发光的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "、正确答案：C，全站正确率：59%，易错项：B。\n解析\n第一步，确定题型。\n本题考查物理学中电学知识。\n第二步，分析选项。\nA项：闭合开关，灯泡L1，L2都被短路，两个灯泡都不亮，错误；\nB项：闭合开关，灯泡L1被短路，L1不亮，错误；\nC项：闭合开关，L1和L2并联在电路中，都能正常发光，正确；\nD项：闭合开关，灯泡L2被短路，L2不亮，错误。\n因此，选择C选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第84题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2021/q084.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-panduan-2021-085",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "如图所示，物体 A 在 F 的作用下静止在物体 B 的斜面上，物体 B 始终静止在水平面上，如果物体 B 的斜面完 全光滑，则下列说法正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "物体 B 总共受到 3 个力的作用"
+      },
+      {
+        "label": "B",
+        "content": "物体 B 受到的摩擦力的大小等于 F"
+      },
+      {
+        "label": "C",
+        "content": "物体 A 对物体 B 的作用力大小为 F"
+      },
+      {
+        "label": "D",
+        "content": "物体 A 与物体 B 的相互作用力大小不等 第五部分 资料分析 (材料 1） 2019 年 G 省共有农业科研和科技开发机构 68 个，职工人数 4633 人，其中 1254 人有高级职称，1148 人有中 级职称。全省共有农村科普示范基地 554 个、科普示范街道（乡镇）145 个、科普示范社区（村）1341 个。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "、正确答案：B，全站正确率：46%，易错项：C。\n解析\n第一步，确定题型。\n本题考查物理学中的力学知识。\n第二步，分析选项。\nA项：物体B受到重力、地面支持力、A对B的作用力、地面向右的摩擦力四个力的作用，而非3个力的作用，\n错误；\nB项：物体B静止，表明在水平面上受力平衡，由于其受到水平向左的力为F，故其受到的摩擦力大小必为F，\n且水平向右，正确；\nC项：A对B的作用力大小为F与物体A的重力的合力，错误；\nD项：根据作用力与反作用力原理，物体A与物体B的相互作用力大小必然相等，错误。\n因此，选择B选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2021年省考guangdong行测第85题",
+    "region": "guangdong"
+  }
+]

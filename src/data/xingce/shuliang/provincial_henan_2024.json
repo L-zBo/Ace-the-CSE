@@ -1,0 +1,530 @@
+[
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-031",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "高校管理学院某期培训班有不到100名学员参加，期中、期末两次考试平均分分别为68分和75分，期中考试不 及格学员平均分为53分，及格学员平均分为74分；期末考试不及格学员平均分为47分、及格学员平均分为83 分。问这期培训班有多少名学员参加？ B.54 C.63 D.77",
+    "options": [
+      {
+        "label": "A",
+        "content": "42"
+      },
+      {
+        "label": "B",
+        "content": "54"
+      },
+      {
+        "label": "C",
+        "content": "63"
+      },
+      {
+        "label": "D",
+        "content": "77"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：设该期培训班期中考试及格人数和不及格人数分别为 x、y 人，期末考试及格人数和不及格\n人数分别为 a、b 人，根据题意可知，期中考试总成绩为 74x+53y=68（x+y），化简可得 2x=5y，所\n\n以\n\n，则总人数 x+y 为 7 的倍数；期末考试总成绩为 83a+47b=75（a+b），化简可得 2a=7b，\n\n所以\n\n，则总人数 a+b 为 9 的倍数。综上，总人数为 7 和 9 的公倍数，即为 63 的倍数，结合\n\n总人数不到 100 人，则总人数为 63 人。\n故正确答案为 C。\n方法二：由期中考试不及格学员平均分为 53 分，及格学员平均分为 74 分，期中考试平均分为 68 分，\n\n根 据 线 段 法 口 诀“ 距 离 与 量 成 反 比” 可 得 ，\n\n， 解 得\n\n，则总人数为 7 的倍数；由期末考试不及格学员平均分为 47 分、及格学 2024 河南省公务员《行测》解析\n\n 智库，获取\n\n员平均分为 83 分，期末考试平均分为 75 分，根据线段法口诀“距离与量成反比” 可得，\n\n总人数为 7 和 9 的公倍数，即为 63 的倍数，结合总人数不到 100 人，则总人数为 63 人。\n\n，解得\n\n，则总人数为 9 的倍数。综上，\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第31题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-032",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某单位从所有职工中选出若干人参加培训，如果选择4人，可能的选择方式正好是选择3人时的10倍，问该单位 有多少名职工？",
+    "options": [
+      {
+        "label": "A",
+        "content": "32"
+      },
+      {
+        "label": "B",
+        "content": "33"
+      },
+      {
+        "label": "C",
+        "content": "42"
+      },
+      {
+        "label": "D",
+        "content": "43"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设 该 单 位 有 x 名 职 工 ， 根 据 题 意 可 知 ：\n\n， 即\n\n故正确答案为 D。 \n\n，解得 x=43。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第32题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-033",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一块直角三角形绿地的三边均铺有长度为整数米的水管，其中一条直角边外的水管长7米。若在水管上随机任 选1个点做标记，则该标记点在斜边上的概率在以下哪个范围内？（忽略水管直径）",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于0.35"
+      },
+      {
+        "label": "C",
+        "content": "在0.42~0.50之间"
+      },
+      {
+        "label": "B",
+        "content": "在0.35~0.42之间"
+      },
+      {
+        "label": "D",
+        "content": "大于0.50"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，若直角三角形一条直角边为 a，a=7 米，设另外一条直角边为 b，斜边长为 c，根据勾股\n\n定 理 可 知\n\n， 即 （ c+b ） × （ c-b ） =49×1 ， 可 得 ： c+b=49······① ， c-\n\nb=1······②，联立①②两式，解得：b=24 米，c=25 米。根据公式：概率\n\n若在水管上随机任选 1 个点做标记，则该标记点在斜边上的概率为\n\n在 C 项范围内。 \n故正确答案为 C。 \n\n，\n\n，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考henan行测第33题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-034",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "部队射击比赛中，5名参赛的战士共击中了88次目标。已知任意2人击中的目标数量均互不相同，问射击成绩排 前两名的战士至少击中了多少次目标？",
+    "options": [
+      {
+        "label": "A",
+        "content": "37"
+      },
+      {
+        "label": "B",
+        "content": "39"
+      },
+      {
+        "label": "C",
+        "content": "58"
+      },
+      {
+        "label": "D",
+        "content": "82"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，要使排前两名的战士击中的次数尽可能少，则其他战士击中的次数要尽可能多。设第二\n名击中 x 次，又因任意 2 人击中的目标数量均互不相同，可得击中次数如下： \n\n根据“5 名战士共击中了 88 次目标”，可列式：x+1+x+x-1+x-2+x-3=88，解得 x=18.6，则第二名至\n少击中 19 次目标，第一名为 x+1=20 次，可得前两名至少击中了 20+19=39 次目标。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第34题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-035",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某羽毛球俱乐部推出充值会员优惠活动，具体为月卡会员费用打八折，年卡会员费用打七折，充值总时长1年 的月卡比1年的年卡所需费用，打折前后分别多88元和100元，问打折后充值18个月的会员最少需要：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到340元"
+      },
+      {
+        "label": "B",
+        "content": "340-400元之间"
+      },
+      {
+        "label": "C",
+        "content": "400-460元之间"
+      },
+      {
+        "label": "D",
+        "content": "460元以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "2024 河南省公务员《行测》解析\n\n 智库，获取\n\n设打折前月卡和年卡的会员费用分别为 x 和 y，根据题意可列：12x-y=88······①，\n\n······②，联立①②两式，解得 x=32，y=296。打折后充值 18 个\n\n月的会员可以采取 1 张年卡+6 张月卡花费最少，总费用=296×0.7+32×6×0.8=207.2+153.6=360.8\n元，在 B 项范围内。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第35题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个白色圆柱体零件的底面半径是高的1.5倍，现将其表面涂上黑漆之后，沿下图所示虚线方向切割为4个完全 相同的部分。问单个部分的黑色面积是白色面积的多少倍？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1.1倍"
+      },
+      {
+        "label": "B",
+        "content": "1.1-1.2倍之间"
+      },
+      {
+        "label": "C",
+        "content": "1.2-1.3倍之间"
+      },
+      {
+        "label": "D",
+        "content": "1.3倍以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根 据 题 意 ， 赋 值 该 圆 柱 零 件 高 为 2 ， 则 底 面 半 径 为 3 ，\n\n； 切 割 后 单 个 部 分 如 图 所 示 ， 其 黑 色 面 积\n\n， 其 白 色 面 积\n\n， 则 所 求 倍 数 为\n\n倍，在 B 项范围内。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第36题",
+    "region": "henan",
+    "questionImage": "/img/questions/provincial_henan_2024/q036.png"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个半径300米的圆形湖泊中有一个半径100米的圆形人工岛，该人工岛的中心在湖泊中心的正西方150米处。 甲从湖正北的A点开船出发，绕行人工岛西侧到达正南的B点。如果保持最短路线行驶，那么行驶多少米后甲到 达人工岛的岸边？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "如下图所示，要保持最短路线行驶，甲开船行驶的路线为线段AC-弧线CD-线段DB，其中线段AC、DB与圆形人工岛相切。则甲从A点开船出发至到达人工岛岸边的路线为线段AC，根据勾股定理可知，，且，则，即。\n\n故正确答案为C。\n\n[来源 baijing1.top paperId=606 sort=37 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第37题",
+    "region": "henan",
+    "questionImage": "/img/questions/provincial_henan_2024/q037.png"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "企业将12个技术培训名额分配给甲、乙、丙三个研发团队。要求乙团队分配的培训名额比甲团队少，但比丙团 队多，且每个团队至少分配1个名额。问有多少种不同的分配方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干条件，各团队分配的培训名额甲>乙>丙，采用枚举法，情况如下： \n\n由上表可知，共有 7 种不同的分配方式。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第38题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "运动会招募志愿者，第一次招募了不到100人，其中男女比例为11：7；补招若干女性志愿者后，男女比例变为 4：3。问最多可能补招了多少名女性志愿者？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据“男女比例为 11：7”“补招若干女性志愿者后，男女比例变为 4：3”可知，男生人数既是 11\n的倍数，又是 4 的倍数，男生人数为 44n。结合“第一次招募了不到 100 人”可知，男生人数是 44\n人，原来女生人数为 44÷11×7=28 人；补招后女生人数变为 44÷4×3=33 人。可知女生最多可能补\n招人数为 33-28=5 人。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第39题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某餐饮店接到一份粽子订单，张师傅与李师傅同时工作8小时可完成。现张师傅先独自包粽子3小时，李师傅接 着独自包了1小时，还剩订单总数的 没完成。已知张师傅每小时比李师傅多包14个粽子。问这份订单粽子的 总数是多少个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "224"
+      },
+      {
+        "label": "B",
+        "content": "296"
+      },
+      {
+        "label": "C",
+        "content": "320"
+      },
+      {
+        "label": "D",
+        "content": "416"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可得，张师傅和李师傅的效率关系为：3×张+1×李=8×（张+李）×（\n\n），整理可\n\n得，张：李=3：1，设张师傅的效率为每小时 3x 个，李师傅的效率为每小时 x 个。根据“张师傅包\n粽子比李师傅每小时多 14 个”可得，3x-x=14，解得 x=7，则一共有 8×（3×7+1×7）=8×28=224\n个粽子。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考henan行测第40题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "商店销售甲、乙、丙、丁四种商品，每件分别盈利15元、9元、4元和1元。某日销售这四种商品共40件，共盈 利201元。四种商品每种至少销售1件，且甲、丁商品销量相同。问当天丙商品的销量为多少件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "2024 河南省公务员《行测》解析\n\n 智库，获取\n\n根据“甲、丁商品销量相同”，设甲、乙、丙、丁四种商品销量分别为 x 件、y 件、z 件、x 件。根\n据“这四种商品共 40 件”可得，2x+y+z=40······①；根据“共盈利 201 元”可得，\n15x+9y+4z+x=201······②。令①×8-②可消去 x，得 4z-y=119。因为四种商品每种至少销售\n\n1 件，可得 4z＞119，即\n119=124-119=5，2x=40-31-5=4，x=2，符合题干所有条件。\n故正确答案为 D。\n\n，排除 A、B、C 三项。代入 D 项验证，若 z=31，则 y=4z-",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第41题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "安排A、B、C、D共4个研发团队参与甲、乙、丙3个课题的研究，要求每个课题至少有1个团队参与，每个团队 必须且只能参与1个课题，如甲课题参与的团队数超过1个，则A、B都不参与甲课题，问共有多少种不同的安排 方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，甲课题参与的团队数可能为 1 个或 2 个，分情况讨论如下： \n\n（1）甲课题参与的团队数为 1 个，先从 4 个研发团队中任意选择 1 个有\n\n种情况，再让剩\n\n下 3 个团队参与乙、丙 2 个课题有\n\n种情况，分步用乘法，共有 4×6=24 种情况。 \n\n（2）甲课题参与的团队数为 2 个，则只能 C、D 参与甲课题，剩下 A、B2 个团队参与乙、丙 2 个课\n\n题有\n\n种情况。 \n\n分类用加法，则共有 24+2=26 种安排方式。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第42题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "王师傅加工零件，他可同时操作4台仪器对零件进行抛光，每个零件需2面抛光才能加工完成，抛光1面需2分 钟，问6个零件最少用多少分钟才能加工完成（换零件时间不计）？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意，6 个零件共需抛光 6×2=12 面，4 台仪器同时工作，每次共抛光 4 面，耗时 2 分钟。至少\n需要抛光 12÷4=3 次，即最少用 2×3=6 分钟加工完成。 \n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考henan行测第43题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "因自然灾害产生泄漏，某河流出现A物质污染。根据环保部门要求，自然水源中A物质的浓度不得高于x。经应 急处置后，水中的A物质浓度每24小时下降一半。自应急处置时开始，环保部门每24小时对河流水质进行1次检 测，在216小时后首次检测到河流中A物质浓度达标。问应急处置前A物质可能的最高浓度在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到300x"
+      },
+      {
+        "label": "B",
+        "content": "300x~600x"
+      },
+      {
+        "label": "C",
+        "content": "600x~1200x"
+      },
+      {
+        "label": "D",
+        "content": "超过1200x"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题意可知，A 物质浓度每 24 小时下降一半，以 24 小时为一个周期，则 216 小时后首次达标时\n\n共下降了\n\n次，每次下降前是下降后的 2 倍。若想使应急处置前 A 物质的浓度最高，\n\n则应使 9 次检测后首次达标时的 A 物质浓度最高，即正好等于 x，向前倒推即可得到 A 物质的初始\n浓度为 512x，在 B 项范围内。如下表所示： \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考henan行测第44题",
+    "region": "henan"
+  },
+  {
+    "id": "provincial-henan-xingce-shuliang-2024-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某校园围墙外的道路形成一个边长为300米的正方形（如图所示），甲、乙两人分别从正方形的两个对角沿逆 时针方向同时出发，甲、乙的步行速度比为9：7。问甲、乙两人第一次处于同一条边是在哪一条边上？",
+    "options": [
+      {
+        "label": "A",
+        "content": "AB"
+      },
+      {
+        "label": "B",
+        "content": "BC B.D.DA"
+      },
+      {
+        "label": "C",
+        "content": "CD"
+      },
+      {
+        "label": "D",
+        "content": "三. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，设甲的速度为 9v，则乙的速度为 7v。甲、乙初始路程差为 CD+DA=300+300=600 米，若甲、\n\n乙两人第一次处于同一条边，即两人路程差\n\n米。根据追及公式：\n\n，当甲与乙\n\n相差 300 米时，可列式：300=（9v-7v）×t，解得 vt=150，则此时甲所走路程=9v×t=1350 米（走\n完一圈 300×4=1200 米多 150 米），甲在 CD 中点；此时乙所走路程=7v×t=1050 米（还差 150 米走 2024 河南省公务员《行测》解析\n\n 智库，获取\n\n完一圈），乙在 DA 中点。因\n\n，故当甲到达 D 点时，乙未到达 A 点，此时甲、乙两人均在\n\nDA 边，且为第一次处于同一条边。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考henan行测第45题",
+    "region": "henan",
+    "questionImage": "/img/questions/provincial_henan_2024/q045.png"
+  }
+]

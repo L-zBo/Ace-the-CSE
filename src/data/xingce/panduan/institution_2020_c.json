@@ -1,0 +1,2674 @@
+[
+  {
+    "id": "institution-xingce-panduan-2020-c-061",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "左图为 17 个同样大小的白色实心正方体和 10 个同样大小的灰色实心正方体堆叠而成的大正方体，将其从 任一面剖开，以下哪个不可能是该正方体的截面？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】A、B、D 项均能截出，如下图所示：\n\nC 项不能截出。\n\n249\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第61题",
+    "questionImage": "/img/questions/institution_2020_c/q061.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-062",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "左图给定的是由相同大小的 21 个白色立方体和 3 个灰色立方体堆叠而成多面体的正视图和后视图，该多 面体可以由①、②和③三个多面体组合而成，问以下哪项能填入问号处？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】观察原视图，三个黑块两个在一层，一个在二层，同时，其中两个黑块在同一纵向平面内，排除\nCD。其次，第二排黑块左侧应与②契合，故不应有方块，排除B。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第62题",
+    "questionImage": "/img/questions/institution_2020_c/q062.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-063",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】用箭头标记黑白色面，如下图所示： \n \nA 项：题干面中直线垂直于与黑色三角形面的公共边，选项与题干不一致，排除； \nB 项：选项面中直线垂直于与黑色三角形面的公共边，同时在题干和选项的黑色三角形面上画箭头，题干和\n选项直线所在面均在箭头的右侧，选项与题干一致，符合； \nC 项：选项面中直线垂直于与黑色三角形面的公共边，同时在题干和选项的黑色三角形面上画箭头，选项中\n直线所在面在箭头的左侧，选项与题干不一致，排除； \nD 项：题干面中直线垂直于与黑色三角形面的公共边，选项与题干不一致，排除。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第63题",
+    "questionImage": "/img/questions/institution_2020_c/q063.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-064",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】用箭头标记黑白色面，如下图所示： \n \nA 项：题干面中直线垂直于与黑色三角形面的公共边，选项与题干不一致，排除； \nB 项：选项面中直线垂直于与黑色三角形面的公共边，同时在题干和选项的黑色三角形面上画箭头，题干和\n选项直线所在面均在箭头的右侧，选项与题干一致，符合； \nC 项：选项面中直线垂直于与黑色三角形面的公共边，同时在题干和选项的黑色三角形面上画箭头，选项中\n直线所在面在箭头的左侧，选项与题干不一致，排除； \nD 项：题干面中直线垂直于与黑色三角形面的公共边，选项与题干不一致，排除。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第64题",
+    "questionImage": "/img/questions/institution_2020_c/q064.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-065",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "下图第一行中的第 3 个图形是由一个立方体切割掉一半之后，再切割掉一个顶点形成的立体图形。下列哪 个选项可以折叠成该立体图形？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】B、C、D 选项中均存在相邻的边不等长的情况，如下图所示： \n \n只有A 项符合。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第65题",
+    "questionImage": "/img/questions/institution_2020_c/q065.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-066",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "疑似可控是指对于甲、乙两个不相关的事件，错误地认为通过自己的主观努力或者主动性选择可以实现甲 事件对乙事件的影响或者建立甲事件和乙事件之间的关联性。 根据上述定义，下列哪项属于疑似可控？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小陈选择妻子生日买彩票比较有意义，结果意外中奖了，他认为这是妻子给他带来了好运"
+      },
+      {
+        "label": "B",
+        "content": "小赵从国外回来，拿出包装精美的维生素含片对患糖尿病的母亲说在海外高价购到了特效药，结果母亲 吃了一段时间后，病情真的好转了"
+      },
+      {
+        "label": "C",
+        "content": "久旱盼雨的老李三日来天天沐浴更衣后祷告老天爷降雨，结果第四天还没有下雨，他感到非常失望"
+      },
+      {
+        "label": "D",
+        "content": "早晨出门时听到几只喜鹊在门口喳喳叫，他觉得今天可能有好事，结果刚到单位就有同事告诉他对方同 意签合同了"
+      }
+    ],
+    "answer": "C",
+    "explanation": "250\n【解析】找关键信息。①甲、乙两个不相关的事件；②错误地认为通过自己的主观努力或者主动性选择可\n以实现甲事件对乙事件的影响或者建立甲事件和乙事件之间的关联性。\nA 项：小陈中奖是意外，认为是妻子带来的好运，未体现“主观努力或主观选择”，不符合定义；\nB 项：病情好转未体现“主观努力或主观选择”，不符合定义；\nC 项：老李认为沐浴更衣可以降雨，符合“错误地认为通过自己的主观努力或者主动性选择可以实现甲事\n件对乙事件的影响或者建立甲事件和乙事件之间的关联性”，符合定义；\nD 项：对方同意签合同，没有体现“主观努力或主观选择”，不符合定义。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第66题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-067",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "禀褒效应是指当个体一旦拥有某项物品、奖励或者荣誉之后，那么他对该物品、奖励或者荣誉的价值评价 要比未拥有之前明显提高。 根据上述定义，下列哪项属于禀褒效应？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小李花了 150 万元买了一套精装修的房屋，尽管小区房价在降，但他觉得自己的房子结构合理、聚气，     交通方便，至少值 200 万元"
+      },
+      {
+        "label": "B",
+        "content": "小唐经过精心挑选购买了 4 只基金，但是自从他买后，这几只基金在很长一段时间不停地下跌，而他坚 信这些基金一定会大涨获得超值回报 B.能够获得该奖非常不容易"
+      },
+      {
+        "label": "C",
+        "content": "小王的同学赵某的论文在某次国际会议上获奖，小王逢人便说，这个国际会议奖项的国际认可度极高，"
+      },
+      {
+        "label": "D",
+        "content": "D．由于工作成绩突出，公司奖励给小陈价值 10 万元的一块定制金表，同事愿意出价 15 万元收藏，但是小 陈毫不犹豫地拒绝了"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】找出定义关键词。 \n“阅读中”“读者的预估和期盼受阻”“产生的心理反应（往往能给读者带来强烈的精神震撼，收到意想不到\n的阅读效果）”。 \n逐一分析选项。 \nA 项：打开网页看不到自己想看的新闻而深感失望，是阅读前的心理状态，没有体现“阅读中”“读者的预\n估和期盼受阻”，不符合定义，排除。 \nB 项：看到小说里正面人物经历苦难，希望他顺利过关，说的是读者的心理期盼，但并未提及正面人物是否\n顺利过关了，不符合“读者的预估和期盼受阻”，不符合定义，排除。 \nC 项：悬疑小说结局出乎意料，体现了“阅读中”“读者的预估和期盼受阻”，意犹未尽是对应的心理反应，\n符合“产生的心理反应（往往能给读者带来强烈的精神震撼，收到意想不到的阅读效果）”，符合定义，当\n选。 \nD 项：网友热烈讨论的某新闻，没有体现阅读，不符合“阅读中”，最终产生的效果是让人无所适从，没有\n给读者带来强烈的精神震撼，不符合“产生的心理反应（往往能给读者带来强烈的精神震撼，收到意想不到\n的阅读效果）”，不符合定义，排除。 \n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第67题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-068",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "愧疚救赎心理指的是对由于自己的过错而造成对他人的伤害时，有意无意地会认为被伤害的人也有责任， 从而减轻自己的负罪感。 根据上述定义，下列哪项涉及愧疚救赎心理？",
+    "options": [
+      {
+        "label": "A",
+        "content": "早年家庭条件不好，女儿吃了不少苦，现在条件好了，妈妈常常逼迫女儿吃这吃那"
+      },
+      {
+        "label": "B",
+        "content": "看到不少老人、儿童孤苦伶仃，晓华决心从事国际慈善事业，救助世界上的困苦者"
+      },
+      {
+        "label": "C",
+        "content": "小陈开车遇堵，等待慢行时看手机，和旁边插队的车辆撞在一起，小陈认为对方需要承担主要责任"
+      },
+      {
+        "label": "D",
+        "content": "小黄随手扔在路边的香蕉皮绊倒了路过的张大娘，小黄本想扶起她，但转念一想，觉得都怪她自己走路 不仔细，自己没必要多管闲事"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】找出定义关键词。 \n有标志的被动句：“借助一些被动词来表示”。 \n意念被动句：“无标志的被动句”。 \n逐一分析选项。 \nA 项：意为现在不快去，恐怕被曹操占先了，原句中“为”表被动，符合“借助一些被动词来表示”，符合\n“有标志的被动句”的定义，不符合“意念被动句”的定义，排除。 \nB 项：意为蔓延开来的野草还不能被铲除干净，何况是您那受宠爱的弟弟呢？主语“野草”是谓语动词“铲\n除”的行为被动者、受事者，且原句中没有被动词，符合“无标志的被动句”，符合“意念被动句”的定义，\n当选。 \nC 项：意为诚信而被怀疑，尽忠却被诽谤，能没有怨愤吗？原句中“见”和“被”表被动，符合“借助一些\n被动词来表示”，符合“有标志的被动句”的定义，不符合“意念被动句”的定义，排除。 \nD 项：意为城墙并不是不高，护城河并不是不深，武器装备也并不是不精良，整个句子中不存在被动词，不\n是被动句，不符合任何一个定义，排除。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第68题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-069",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "某星球文字符号只有◈、☾、⊙和☀︎四个，运算符号只有▼、⌒和+三个。该星球信息编码是依据下列规则 生成的有限长符号序列： （1）一个文字符号前加一个运算符号▼或者⌒后再使用左右括号将其括起来构成一个信息编码； （2）两个文字符号中间加一个运算符号+后再使用左右括号将其括起来构成一个信息编码； （3）信息编码联接起来构成一个信息编码。 根据上述定义，可以断定下列哪项中的符号是该星球的信息编码？",
+    "options": [
+      {
+        "label": "A",
+        "content": "（◈▼⊙）☾"
+      },
+      {
+        "label": "B",
+        "content": "（⌒☀︎+）▼⊙"
+      },
+      {
+        "label": "C",
+        "content": "（⌒☾）（⊙+☀︎）（▼◈）"
+      },
+      {
+        "label": "D",
+        "content": "（⌒◈）+（▼☾）（⊙⌒☀︎）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】找关键信息。①一个文字符号前加▼或⌒，然后加括号，形成信息编码；②两个文字符号中间加\n+，然后加括号，形成信息编码；③多个信息编码联接起来。\n\n252\n系。\nA 项：“教授”是一种职称，包括资深教师和研究员，研究员不承担授课任务，不是“教师”，排除；\nB 项：“编者”是指编写的人，做编辑工作的人，“读者”与“记者”都不属于“编者”，排除；\nC 项：“瓷碗”与“陶碗”都是“碗盏”，前两词属于并列关系，与“碗盏”属于包容关系中的种属关系，\n与题干逻辑关系一致，符合；\nD 项：“蓑衣”是用草编制而成的，不是“竹器”，排除。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第69题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-070",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "一个矩阵中存在一条从左到右的曲线。如果这条曲线右边的终点高于左边的起点，则称该曲线为乾线；如 果这条曲线右边的终点低于左边的起点，则称该曲线为坤线。如果这条曲线的最高点在最低点的左边，则 称该曲线趋坤；如果这条曲线的最高点在最低点的右边，则称该曲线趋乾。趋乾的乾线称为双乾线，趋坤 的乾线称为坤乾线，趋乾的坤线称为乾坤线，趋坤的坤线称为双坤线。 根据上述定义，下列哪项判断是正确的？",
+    "options": [
+      {
+        "label": "A",
+        "content": "右图是乾坤线"
+      },
+      {
+        "label": "B",
+        "content": "右图是双乾线"
+      },
+      {
+        "label": "C",
+        "content": "右图是坤乾线"
+      },
+      {
+        "label": "D",
+        "content": "右图是双坤线"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题为定义判断题（乾坤线分类）。\n题干给出 4 个分类规则：\n- 乾线：右终点高于左起点；坤线：右终点低于左起点\n- 趋坤：最高点在最低点左边；趋乾：最高点在最低点右边\n- 双乾线 = 乾线 + 趋乾；坤乾线 = 乾线 + 趋坤\n- 乾坤线 = 坤线 + 趋乾；双坤线 = 坤线 + 趋坤\n图形需配合 PNG 判断：右图最高点在最低点左边（趋坤），且右终点低于左起点（坤线）→ 双坤线。\n故正确答案为 D。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 事业单位 C 类整卷答案表 q55]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第70题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-071",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "高铁∶服务指南",
+    "options": [
+      {
+        "label": "D",
+        "content": "右图是双坤线"
+      },
+      {
+        "label": "A",
+        "content": "单位∶纪律条例"
+      },
+      {
+        "label": "B",
+        "content": "监狱∶法律法规"
+      },
+      {
+        "label": "C",
+        "content": "大厦∶逃生通道 D．景点∶旅游手册"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】“服务指南”是给乘坐“高铁”的乘客看的，二者属于对应关系，且“服务指南”是带有服务性质\n的。\nC项：“大厦”里有“逃生通道”，二者属于包容关系中的组成关系，排除；\nD项：“旅游手册”是给“景点”的游客看的，且“旅游手册”也是带有服务性质的，与题干逻辑关系一\n致，符合。\n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第71题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-072",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "计算器∶搅拌机",
+    "options": [
+      {
+        "label": "A",
+        "content": "不干胶∶树脂板"
+      },
+      {
+        "label": "B",
+        "content": "杀虫剂∶保鲜膜"
+      },
+      {
+        "label": "C",
+        "content": "无影灯∶医用灯"
+      },
+      {
+        "label": "D",
+        "content": "虎斑蝶∶安全帽"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】本题考查类比推理（功能对应+材质多元）。\n题干「计算器」与「搅拌机」均为「电器」，但功能不同（计算 vs 搅拌），且都属于「工具」大类。\nB 项正确：「杀虫剂」与「保鲜膜」均为日用品，功能不同（杀虫 vs 保鲜），与题干结构最一致。\nA 项：不干胶与树脂板都是材料，与题干电器主题不符；\nC 项：无影灯属于医用灯，包含关系，与题干并列不一致；\nD 项：虎斑蝶与安全帽无明显逻辑关联。\n故正确答案为 B。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q57]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第72题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-073",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "交警∶特警∶警察",
+    "options": [
+      {
+        "label": "A",
+        "content": "幼师∶教授∶教师"
+      },
+      {
+        "label": "B",
+        "content": "读者∶记者∶编者"
+      },
+      {
+        "label": "C",
+        "content": "瓷碗∶陶碗∶碗盏"
+      },
+      {
+        "label": "D",
+        "content": "竹凳∶蓑衣∶竹器"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】本题考查类比推理（外延关系-种属）。\n题干：「交警」与「特警」均为「警察」的不同分类（按职能），前两词并列，与第三词种属关系。\nC 项正确：「瓷碗」与「陶碗」均为「碗盏」的不同材质分类，前两词并列，与第三词种属关系，与题干一致。\nA 项：「幼师」「教授」与「教师」是种属，但「幼师」与「教授」存在交叉（幼师可以是教授头衔）；\nB 项：「读者」「记者」「编者」三者并列且不同身份，但与题干「前两并列+第三种属」结构不符；\nD 项：「竹凳」是「竹器」一种，「蓑衣」属棕榈/草编不属竹器。\n故正确答案为 C。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q58]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第73题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-074",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "灾害∶预警∶损失",
+    "options": [
+      {
+        "label": "A",
+        "content": "鼓舞∶宣传∶士气"
+      },
+      {
+        "label": "B",
+        "content": "美化∶修订∶作品"
+      },
+      {
+        "label": "C",
+        "content": "经验∶总结∶教训"
+      },
+      {
+        "label": "D",
+        "content": "危机∶公关∶风险"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题考查类比推理（动宾对应-减损/防控）。\n题干：「灾害」可通过「预警」减少「损失」——动作（预警）作用于第一词（灾害），目的减少第三词（损失）。\nD 项正确：「危机」可通过「公关」化解「风险」——结构与题干一致（公关化解危机、降低风险）。\nA 项：「宣传」鼓舞士气——目的是提升而非降低，方向相反；\nB 项：「修订」美化作品——目的是改进而非减损；\nC 项：「总结」经验得到教训——三者并非减损关系。\n故正确答案为 D。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q59]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第74题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-075",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "雷阵雨∶大暴雨∶流星雨",
+    "options": [
+      {
+        "label": "B",
+        "content": "杀虫剂∶保鲜膜"
+      },
+      {
+        "label": "D",
+        "content": "虎斑蝶∶安全帽 B．读者∶记者∶编者 D．竹凳∶蓑衣∶竹器 B．美化∶装订∶作品 D．危机∶公关∶风险"
+      },
+      {
+        "label": "A",
+        "content": "观赏花∶食用花∶交际花 B．标志灯∶指示灯∶红绿灯"
+      },
+      {
+        "label": "C",
+        "content": "内陆湖∶淡水湖∶人工湖 D．捕鱼船∶太空船∶海盗船"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】判断题干词语间逻辑关系。 \n“获胜”和“失利”是“比赛”的两种不同结果，第一个词与后两个词为结果的对应关系，且后两个词为反\n义关系。 \n判断选项词语间逻辑关系。 \nA 项：“涨停”和“跌停”是股票市场变化的结果，而非“炒股”的结果，与题干逻辑关系不一致，排除。 \nB 项：“有息”和“无息”是“贷款”的两种不同方式，第一个词与后两个词为方式的对应关系，与题干逻\n辑关系不一致，排除。 \nC 项：“盈利”和“亏损”是“经营”的两种不同结果，第一个词与后两个词为结果的对应关系，且后两个\n词为反义关系，与题干逻辑关系一致，当选。 \nD 项：“罚款”和“扣分”是“违章”的两种不同结果，第一个词与后两个词为结果的对应关系，但“罚款”\n和“扣分”不构成反义关系，与题干逻辑关系不一致，排除。 \n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第75题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "无人机∶飞行器∶航天器",
+    "options": [
+      {
+        "label": "A",
+        "content": "鼠疫∶传染病∶狂犬病"
+      },
+      {
+        "label": "B",
+        "content": "木塔∶瞭望台∶烽火台"
+      },
+      {
+        "label": "C",
+        "content": "玉石∶玉饰∶玉器"
+      },
+      {
+        "label": "D",
+        "content": "思想∶思考∶思维"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】“飞行器”是在大气层内或大气层外空间（太空）飞行的器械。“航天器”是指在太空飞行的器\n械。“无人机”与“航天器”不存在概念上的交叉，且都属于“飞行器”，二者与“飞行器”属于包容关系\n中的种属关系。\nA 项：“鼠疫”与“狂犬病”不存在概念上的交叉，且都属于“传染病”，二者与“传染病”属于包容关系\n中的种属关系，与题干的逻辑关系一致，符合；\nB 项：“瞭望台”指望远的高台，供瞭望敌情或火警等用，“烽火台”是指古时用于点燃烟火传递重要消息\n的高台，“瞭望台”与“烽火台”属于交叉关系，排除\n\n253\nC 项：“玉石”经过打磨可以做成“玉饰”，二者属于原材料和制作成品的对应关系，“玉饰”属于“玉\n器”二者属于包容关系中的种属关系，排除；\nD 项：“思考”是指进行比较深刻周到的“思维”活动，二者属于对应关系，排除。\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第76题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "X² + Y² = 1∶X ≥ −1",
+    "options": [
+      {
+        "label": "A",
+        "content": "二元一次方程组∶有唯一解"
+      },
+      {
+        "label": "B",
+        "content": "图形是正多边形∶图形中有四条边相等"
+      },
+      {
+        "label": "C",
+        "content": "M 的面积是 N 面积的 4 倍∶M 的周长是 N 周长的 2 倍"
+      },
+      {
+        "label": "D",
+        "content": "m 是整数∶m 是实数"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】“X² + Y² = 1”是“X ≥−1”的充分条件，两者属于充分条件关系。 \nA 项：“二元一次方程组”可以有两个不相等的解，因此“二元一次方程组”不能得到“有唯一解”，两者\n之间没有明显的逻辑关系，排除； \nB 项：“图形是正多边形”不能确定图形具体是几边形，不能得出“图形中有四条边相等”，两者之间没有\n明显的逻辑关系，排除； \nC 项：“M 的面积是N 面积的4 倍”不是“M 的周长是N 周长的2 倍”的充分条件，比如对于三角形等来\n说，“M 的面积是N 面积的4 倍”不能得出“M 的周长是N 周长的2 倍”，排除； \nD 项：“m 是整数”是“m 是实数”的充分条件，两者属于充分条件关系，与题干逻辑关系一致，符合。 \n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第77题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "火山爆发对于（ ）相当于社会变革对于（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "火山灰；生产力"
+      },
+      {
+        "label": "B",
+        "content": "压力；矛盾"
+      },
+      {
+        "label": "C",
+        "content": "地幔；民众"
+      },
+      {
+        "label": "D",
+        "content": "灾害；改良"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】本题考查类比推理（A 对于 X 相当于 B 对于 Y，因果关系）。\n题干：「火山爆发」由「压力」（地壳深处压力积累）引起；「社会变革」由「矛盾」（社会矛盾积累）引起。\n两组关系一致：原因导致结果。\nB 项正确：压力是火山爆发的内因，矛盾是社会变革的内因。\nA 项：火山灰是火山爆发的产物（结果），生产力是社会变革的推动力，关系不对应；\nC 项：地幔是火山爆发的发源地，民众是社会变革的主体，关系不对应；\nD 项：灾害是火山爆发的影响，改良是社会变革的方式，方向相反。\n故正确答案为 B。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q63]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第78题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "几何学之于（ ）相当于（ ）之于诗词：",
+    "options": [
+      {
+        "label": "A",
+        "content": "代数学；文学"
+      },
+      {
+        "label": "B",
+        "content": "土地；情感"
+      },
+      {
+        "label": "C",
+        "content": "空间；山水"
+      },
+      {
+        "label": "D",
+        "content": "数学；宋词"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题考查类比推理（学科分支关系）。\n题干：「几何学」是某学科的分支；「诗词」与某文学体裁互为同位分支。\nD 项正确：「几何学」是「数学」的分支；「宋词」是「诗词」的具体形式之一（宋词属诗词范畴）。\n结构：分支∶整体 + 整体∶分支，最匹配。\nA 项：代数学/几何学并列，文学/诗词种属，结构不对应；\nB 项：土地与几何学无关，情感与诗词关联弱；\nC 项：空间是几何学研究对象，山水是诗词题材，结构不一致。\n故正确答案为 D。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q64]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第79题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "导航对于（ ）相当于搜索对于（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "卫星；文件"
+      },
+      {
+        "label": "B",
+        "content": "B．压力；矛盾"
+      },
+      {
+        "label": "C",
+        "content": "坐标；手机"
+      },
+      {
+        "label": "D",
+        "content": "D．灾害；改良 B．土地；情感 D．数学；宋词 B．路况；网络 D．辅助；寻找"
+      }
+    ],
+    "answer": "C",
+    "explanation": "208\n【解析】A 项：有的“卫星”可以用来“导航”,二者属于对应关系，“搜索”与“文件”属于动宾关系，\n前后逻辑关系不一致，排除；\nB 项：用“导航”来查看“路况”，二者属于对应关系，在“网络”上“搜索”，二者属于对应关系，但前\n后对应方式不一致，排除。\nC 项：用“坐标”来“导航”，二者属于功能对应，用“手机”来“搜索”，前二者属于功能对应，后逻辑\n关系一致，符合。\nD 项：“导航”是种“辅助”工具，二者属于对应关系，“搜索”与“寻找”都表示搜寻，二者属于近义关\n系，前后逻辑关系不一致，排除。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第80题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-081",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "共享单车和共享充电宝经历几轮洗牌，早已形成几大巨头鼎力的局面，与之相较，共享雨伞似乎渐渐淡出 了公众视野。但是，近期的一项调查报告认为，从供需两端对该行业运营情况、市场规模及发展趋势来看， 共享雨伞行业正在逐渐强大，拥有广阔的市场前景。 以下除哪项外，均能支持上述结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "国家鼓励和发展共享经济给予了共享雨伞政策上的支持"
+      },
+      {
+        "label": "B",
+        "content": "肉食性动物有着简单的牙齿，而植食性动物的牙齿更加复杂一些"
+      },
+      {
+        "label": "C",
+        "content": "在哺乳动物和爬行动物身上都发现了饮食习惯与牙齿形成的对应特征"
+      },
+      {
+        "label": "D",
+        "content": "已经灭绝的鳄形类动物比已经灭绝的植食性恐龙的牙齿结构更简单"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】论点：从供需两端对该行业运营情况、市场规模及发展趋势来看共享雨伞行业正在逐渐强大，拥\n\n有广阔的市场前景。 \n\n论据：共享单车和共享充电宝经历几轮洗牌，早已形成几大巨头鼎立的局面，与之相较，共享雨伞似平渐\n\n渐淡出了公众视野。 \n\nA 项：增加论据。国家鼓励和发展共享经济，为其提供政策支持，具有加强作用。 \n\nB 项：增加论据。晴热天气用户出于遮阳目的也愿意为共享雨伞付费。具有加强作用。 \n\nC 项：增加论据。伞的租借方式主要是信用免押，容易被用户接受具有加强作用。具有加强作用。 \n\nD 项：无关选项。共享雨伞行业未来也面临着和共享单车类似的市场竞争。不能说明共享雨伞是否有竞争\n\n力。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第81题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-086",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "近日，有研究人员开发了一种生发新技术，这种技术通过温和的低频电脉冲来刺激皮肤，诱使休眠的毛囊 重新开始产生头发。使用这种技术的设备靠佩戴者的日常活动供电，因此不需要笨重的电池组或复杂的电 子设备，以至于可以放在普通棒球帽的下面。研究人员据此预测，这种新技术将会有效改善脱发。 以下哪项如果为真，最能质疑上述结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "这种新技术对毛囊已被破坏的病理性脱发效果不明显"
+      },
+      {
+        "label": "B",
+        "content": "目前这种新技术设备处于实验室研发阶段，尚未商用"
+      },
+      {
+        "label": "C",
+        "content": "这种低频电脉冲有助于减少精神压为，改善睡眠质量"
+      },
+      {
+        "label": "D",
+        "content": "脱发原因多样，遗传因素、免疫异常等都易造成脱发"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】论点：这种新技术将会有效改善脱发。 \n论据：有研究人员开发了一种生发新技术，这种技术通过温和的低频电脉冲来刺激皮肤，诱使休眠的毛囊\n重新开始产生头发。 \nA 项：增加反向论据。该项指出新技术对于病理性脱发效果不明显，否定了论点中的治疗脱发，具有削弱作\n用。 \nB 项：不明确项。该项讨论的是新技术的研究和商用问题，并未明确指出是否具有治疗脱发的作用，不具有\n削弱作用，排除。 \nC 项：无关选项。该项指出低频电脉冲在减少精神压为和改善睡眠质量方面的好处，与论点是否具有治疗脱\n发的作用无关，论题不一致，排除。 \nD 项：无关选项。该项讨论的是形成脱发的原因，与论点讨论的治疗脱发无关，论题不一致，排除。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第86题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-087",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "一份研究报告称，上世纪八九十年代，某国北方因燃煤取暖导致的空气污染使人均寿命减少 5.5 年。该研 究以取暖分界线为准，选取了该线以北和以南共 90 座城市，收集了 1981 年到 2000 年间这些城市每日的总 悬浮颗粒物浓度数据，以及 1991 年到 2000 年间这些城市各年龄段死亡率、预期寿命和死于心肺疾病的数 据。研究结果显示，取暖线以北的总悬浮颗粒物比以南地区跳跃性地高出了 200 微克/立方米，相应地，人 均寿命也发生了变化，北方比南方减少了 5.5 年。 以下除哪项外，均能削弱上述结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "空气污染只是影响人类寿命的多种因素之一"
+      },
+      {
+        "label": "B",
+        "content": "由于工业燃煤用量大，南方燃煤总量比北方大体相当"
+      },
+      {
+        "label": "C",
+        "content": "并非所有的总悬浮颗粒物都是由燃煤导致的"
+      },
+      {
+        "label": "D",
+        "content": "近年来随着生活水平提高，该国取暖分界线逐渐南移"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】论点：某国北方因燃煤取暖导致的空气污染使人均寿命减少5.5 年。 \n论据：该研究以取暖分界线为准，选取了该线以北和以南共90 座城市，收集了1981 年……北方比南方减\n少了5.5 年。 \nA 项：增加反向论据。指出除了空气污染只是众多影响人类寿命的多种因素之一，具有削弱作用，排除。 \nB 项：增加反向论据。指出南北燃煤总量大体相当，说明空气污染和人均寿命之间的关系不具有因果性，具\n有削弱作用，排除。 \nC 项：增加反向论据。说明除了燃煤污染环境之外，还有其他因素影响人类寿命，具有削弱作用，排除。 \nD 项：无关选项。取暖分界线南移，与题干讨论话题不一致，不能削弱。 \n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第87题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-088",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "近期，研究人员在银河系中发现了一颗含有较多重元素的特殊恒星“J1124 + 4535”这颗恒星具有突出特 征，即镁、铁比重较低，重于铁的重元素相对较多，研究人员认为，该恒星极有可能是在矮星系中诞生的。 以下哪项最适合作为上述结论的前提？",
+    "options": [
+      {
+        "label": "A",
+        "content": "有些恒星被证实是在矮星系中诞生的"
+      },
+      {
+        "label": "B",
+        "content": "与其相似的恒星几乎都是在矮星系中发现的 B.D．此前在银河系中也发现过重元素含量较多的恒星"
+      },
+      {
+        "label": "C",
+        "content": "矮星系与银河系碰撞合体后会成为银河系一员"
+      },
+      {
+        "label": "D",
+        "content": "根据以下材料回答，89～90 题： 研究人员用 6 年时间追踪了超过 3800 名青少年，请他们记录每天用来浏览社交网站的时间，同时要求他们 评估自己孤独和悲伤等抑郁症状的程度。研究人员得出结论，那些在社交媒体上花费时间较多（即比所有青少 年花费在社交媒体上的平均时间多出一小时以上）的青少年，其抑郁程度显著增加。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】论点：J1124 + 4535恒星极有可能是在矮星系中诞生的。 \n论据：研究人员在银河系中发现了一颗含有重元素的特殊恒星“J1124 + 4535”。这颗恒星具有突出特征，\n即镁、铁比重较低，重于铁的重元素相对较多。 \nA 项：无关选项。该项中的“有些恒星”是否诞生于矮星系，与论点J1124 + 4535恒星是否诞生于矮星系\n无关，论题不一致，排除。 \nB 项：增加新论据。该项指出与J1124 + 4535恒星相似的恒星几乎都是在矮星系中发现，针对论点补充了\n论据，具有加强作用，正确。 \nC 项：无关选项。该项讨论的是矮星系与银河系碰撞后的结果，与论点J1124 + 4535恒星是否诞生于矮星\n系无关，论题不一致，排除。 \nD 项：无关选项。该项讨论的是此前在银河系中的发现，与论点J1124 + 4535恒星是否诞生于矮星系无关，\n论题不一致，排除。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第88题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-089",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下哪项如果为真，最能支持上述结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "在社交媒体上花费时间较多的青少年容易注意力不集中并易患多动症"
+      },
+      {
+        "label": "B",
+        "content": "沉迷于社交媒体的青少年往往不爱学习，更容易空虚"
+      },
+      {
+        "label": "C",
+        "content": "长时间使用社交媒体会影响青少年的智力发育，甚至引起智力下降的情况"
+      },
+      {
+        "label": "D",
+        "content": "社交媒体上不断接触理想化的形象，容易使青少年产生自卑抑郁的心理"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】第一步：找出论点和论据。\n论点：汉防己碱是埃博拉病毒的“克星”，有望在今后五年内用于治疗埃博拉感染疾病。\n论据：研究人员通过实验发现，中草药提取成分汉防己碱显著提高了感染埃博拉病毒的实验小鼠存活率。\n实验中对感染埃博拉的小鼠分两组采用了两种不同的治疗方案：一组感染后隔一天使用汉防己碱治疗，仅\n有一半小鼠存活；另一组感染后立即使用汉防己碱治疗，小鼠的存活率显著提高，且没有发现副作用。\n第二步：逐一分析选项。\nA 项：选项讨论的是从何处提取汉防己碱，与汉防己碱能否用于治疗埃博拉感染疾病无关，为无关项，排\n除；\nB 项：选项说明汉防己碱的其他方面功效，与汉防己碱能否用于治疗埃博拉感染疾病无关，为无关项，排\n\n159\n除；\nC 项：选项说明活下来的小鼠主要是成年雄性小鼠，与汉防己碱能否用于治疗埃博拉感染疾病无关，为无关\n项，排除；\nD 项：选项解释了汉防己碱为什么可以用于治疗埃博拉感染疾病，补充论据，可以加强，当选。\n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第89题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-090",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下哪项如果为真，最能削弱上述结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "有的青少年由于学习压力过大而导致抑郁"
+      },
+      {
+        "label": "B",
+        "content": "看电视时间越长的青少年，其抑郁倾向会显著增强 B.D．经常使用社交媒体有助于帮助青少年快速找到解决问题的答案"
+      },
+      {
+        "label": "C",
+        "content": "有抑郁倾向的青少年往往花费较多时间在社交媒体上转移焦虑、寻找慰藉"
+      },
+      {
+        "label": "D",
+        "content": "第六部分 综合分析 根据题目要求，在四个选项中选出一个最恰当的答案。 一 某电子商城计划在春节前以进价采购某品牌笔记本电脑、台式电脑和数码相机共 100 台，共花费 32 万元 整。这 3 种商品的进价和利润率（销售加价与进价的比值）如下表："
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】第一步：找出论点和论据。 \n论点：汉防己碱是埃博拉病毒的“克星”，有望在今后五年内用于治疗埃博拉感染疾病。 \n论据：研究人员通过实验发现，中草药提取成分汉防己碱显著提高了感染埃博拉病毒的实验小鼠存活率。\n实验中对感染埃博拉的小鼠分两组采用了两种不同的治疗方案：一组感染后隔一天使用汉防己碱治疗，仅\n有一半小鼠存活；另一组感染后立即使用汉防己碱治疗，小鼠的存活率显著提高，且没有发现副作用。 \n第二步：逐一分析选项。 \nA 项：该项说明汉防己碱对埃博拉病毒确实有用，为加强项，排除； \nB 项：该项说明埃博拉爆发地区没有提取汉防己碱的草药，与汉防己碱是否能治疗埃博拉感染疾病无关，为\n无关项，排除； \nC 项：该项说明还未验证汉防己碱是否对人类有效，仅依靠小鼠实验不能说明汉防己碱能在今后的五年内\n用于治疗埃博拉感染疾病，可以削弱，当选； \nD 项：该项说明市面上至今没有获得批准的药物和疫苗，与汉防己碱是否能治疗埃博拉感染疾病无关，为无\n关项，排除。 \n故正确答案为C。 \n第五部分 策略选择",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第90题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-091",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "假定购进笔记本电脑 x 台、台式电脑 y 台，y 与 x 之间的函数关系式应为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "y = 100 − 3x"
+      },
+      {
+        "label": "C",
+        "content": "y = 3x − 100"
+      },
+      {
+        "label": "B",
+        "content": "y = 100 − 2x"
+      },
+      {
+        "label": "D",
+        "content": "y = 2x − 100"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】根据品牌笔记本电脑、台式电脑、数码相机共100 台，共花费32 万元，购进笔记本电脑、台式电\n脑、数码相机分别为x 台、y 台、z 台，根据题干信息建立等量关系式：x＋y＋z＝100①；\n4000x＋3200y＋2400z＝320000②，①②两式联立，消掉z，整理得：y＝100 −2x。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第91题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-092",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "考虑到销量等因素，如果每种商品的采购量不少于 25 台，则购进数码相机多少台时，这批商品的利润最 大？最大利润是多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "25，46000"
+      },
+      {
+        "label": "B",
+        "content": "B．25，50320"
+      },
+      {
+        "label": "C",
+        "content": "37，46000"
+      },
+      {
+        "label": "D",
+        "content": "D．37，50320 二 某工艺品加工长有 150 名员工，每日按照订单生产加工甲、乙、丙 3 类工艺品计 40 件。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据利润= 成本× 利润率，设购进笔记本电脑x 台，台式电脑y 台，数码相机z 台，建立等量关\n系式，总利润为4000 × 10%x + 3200 × 15%y + 2400 × 20%z，整理得：总利润为400x + 480y + 480z，\n要使得这批商品的总利润最大，即x 最少，最少取25 台。y + z＝100 −25 = 75（台），总利润= 400 × 25 +\n480 × 75＝46000，排除BD 选项。 \n根据上一问可知y＝100 −2x，又因为x = 25，故y = 50，z = 25。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第92题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-093",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "某日生产加工甲类工艺品 x 件，则该日生产加工乙类工艺品多少件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "30 − 2x"
+      },
+      {
+        "label": "C",
+        "content": "10 + x"
+      },
+      {
+        "label": "B",
+        "content": "30 − x"
+      },
+      {
+        "label": "D",
+        "content": "10 + 2x"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】假设乙类工艺品和丙类工艺品分别为y 和z，根据题意可列方程：x + y + z = 40①；5x + 4y +\n3z = 150②；②−3 × ①可得2x + y = 30，即y = 30 −2x。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第93题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-094",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "若该厂某日利润为 115000 元，则该日加工生产丙类工艺品的员工有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "B．15"
+      },
+      {
+        "label": "C",
+        "content": "30"
+      },
+      {
+        "label": "D",
+        "content": "D．45"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据题意可列方程组：x + y + z = 40①；5x + 4y + 3z = 150②；5000x + 3000y + 2000z =\n115000③；5 × ①−②可得y + 2z = 50。①−③÷ 1000可得y + z＝35。 \n解方程组：y + 2z = 50④；y + z = 35⑤，④−⑤可得z = 15，则该日加工生产丙类工艺品的员工有\n15 × 3 = 45（人）。 \n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第94题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-095",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "该厂日最大利润是多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "115000"
+      },
+      {
+        "label": "B",
+        "content": "实验材料："
+      },
+      {
+        "label": "C",
+        "content": "130000"
+      },
+      {
+        "label": "D",
+        "content": "B．125000 D．135000 三 红球甘蓝汁、白醋、含碳酸的矿泉水、自来水、苏打粉、1 个量杯、5 个玻璃杯、白纸、1 把剪刀、1 支水 彩笔、"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】设生产甲乙丙工艺品分别为x，y，z 件。根据甲乙丙工艺品的利润分别为5000 元，3000 元，2000\n元，总利润为5000x + 3000y + 2000z，因员工总数为150，工艺品总件数为40 件，甲、乙、丙工艺品分\n别需要5 名，4 名，3 名员工，可列方程：x + y + z = 40①；5x + 4y + 3z = 150②，由②−①× 3，可\n得y + 2x = 30。甲产品需要5 人利润为5000 元，一人1000 元；乙产品需要4 人利润为3000 元，一人750\n元；丙产品需要3 人利润为2000 元，一人600+，则甲产品为最优选择，要使总利润最高则甲产品的件数\n要尽可能的多，则y 要尽可能的小，y 最小为0，此时x = 15，z = 25，利润为15 × 5000 + 25 × 2000 =\n12500（元）。\n故正确答案为B。\n\n259",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第95题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-096",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "该实验中，设置有 1 号杯子、3 号杯子和 4 号杯子，这 3 个杯子设置的目的是为了探究哪个因素对实验结 果的影响？",
+    "options": [
+      {
+        "label": "A",
+        "content": "溶液浓度"
+      },
+      {
+        "label": "C",
+        "content": "溶质质量"
+      },
+      {
+        "label": "B",
+        "content": "溶液体积"
+      },
+      {
+        "label": "D",
+        "content": "溶液成分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】实验中，1 号杯子、3 号杯子和4 号杯子的差异在于放入醋的多少不同，因此，探究的是同一种溶\n液的不同浓度对实验结果的影响。 \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第96题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-097",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下哪项能够比较合理地解释 5 号玻璃杯中液体颜色的变化？",
+    "options": [
+      {
+        "label": "A",
+        "content": "红球甘蓝汁逐渐中和了其中的碳酸"
+      },
+      {
+        "label": "B",
+        "content": "红球甘蓝汁在中性液体中呈现出紫罗兰色"
+      },
+      {
+        "label": "C",
+        "content": "随着气泡的不断逸出，水中碳酸含量越来越少"
+      },
+      {
+        "label": "D",
+        "content": "红球甘蓝汁的酸碱性不稳定，颜色随之发生变化"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据实验步骤（5）可知5 号玻璃杯中倒入的是含碳酸的矿泉水，碳酸矿泉水的特性是其中的二氧\n化碳会不断的逸出，导致溶液酸度降低，从而导致液体颜色发生变化。 \n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第97题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-098",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "在某些地区红球甘蓝呈现蓝色，以下哪项可以解释这一现象？",
+    "options": [
+      {
+        "label": "A",
+        "content": "该地区土壤呈酸性"
+      },
+      {
+        "label": "B",
+        "content": "实验材料："
+      },
+      {
+        "label": "C",
+        "content": "该地区土壤呈碱性"
+      },
+      {
+        "label": "D",
+        "content": "B．该地区土壤呈中性 D．该地区土壤水分充足 四 双手调节器一台描绘真有两个摇把控制，其中一个控制描绘针左右移动，另一个控制描绘针前后移动。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据实验，该地区甘蓝呈现蓝色，说明土壤呈碱性。 \n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第98题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-099",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下哪项最可能是该实验的主要目的？",
+    "options": [
+      {
+        "label": "A",
+        "content": "加深对动作协调性的认识"
+      },
+      {
+        "label": "B",
+        "content": "掌握双手调节器的使用方法 B.D．研究双手协调性是否可以通过练习得以提高"
+      },
+      {
+        "label": "C",
+        "content": "测定被试双手完成固定动作的协调性"
+      },
+      {
+        "label": "D",
+        "content": "100. 如果要检验不同个体之间双手协调能力是否存在差异，需要在该实验的基础上增加以下哪项设计最为合理？ A．在不同时间对该被试重复上述实验 B．设置各有 10 人的实验组和对照组，统计两者之间的总体差异 C．增加不同性别、年龄、不同职业的被试进行上述实验 D．选择不同的图案板分别对不同的被试进行上述实验     第一部分 常识判断 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据实验过程中让被试者的操作过程，可知本实验的目的为测定被试者双手完成固定动作的协调\n性。 \n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第99题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-046",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n第三部分 数量分析 \n\n【解析】第三季度与第四季度均为 92 天，即 13 周余 1 天，根据两个季度写的日记数量相同，可知三季度、\n\n四季度各余 1 天分别为周日和周一，即三季度第一天 7 月 1 日为周日。从 5 月 1 日至 7 月 2 日共 63 天，即\n\n9 周，7 月 2 日为周一，可知 5 月 1 日为周二。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第46题",
+    "questionImage": "/img/questions/institution_2020_c/q046.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-047",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据甲、乙的速度的关系，赋值甲的速度为 1，乙上坡速度为 0.5、平路速度 1、下坡速度 2。第\n\n一次相遇点为 D，甲从 A 点到 B 点速度为 1，乙从 A 点到 C 点是平路速度为 1，甲和乙同时分别到达 B、C，\n\n甲由 B 到 C 点速度为 1，乙有 C 到 B 点速度为 0.5，根据时间相同时路程之比等于速度之比，可知BD = 2CD，\n\n即BD =",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第47题",
+    "questionImage": "/img/questions/institution_2020_c/q047.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-048",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】由题意可知，最短距离为AC + BC。AC 为 OC 的切线，AO = 300米，OC = 150米，则∠OAC = 30°，\n\n利用勾股定理可得：AC = √AO2 − OC2 = 150√3，BC 的长度就是求弧长，BC 为三分之一圆，弧长为 100π。\n\n由此可得：AC + BC = 150√3 + 100π ≈ 259.5 + 314 = 573.5（米），往返需要573.5 × 2 = 1147（米），\n\n介于 1000～1200 米之间。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第48题",
+    "questionImage": "/img/questions/institution_2020_c/q048.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-049",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】6 月份 6 名教师评上高级职称，高级职称老师占比提高 2.5 个百分点，则 6 月份教师总人数为6 ÷",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第49题",
+    "questionImage": "/img/questions/institution_2020_c/q049.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-050",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下 6 个图形为正方体的外表面展开图，其中 3 个图形组成的正方体相同，另外 3 个图形组成的正方体也 相同，问正确的分组是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "①③⑤，②④⑥"
+      },
+      {
+        "label": "C",
+        "content": "①②⑤，③④⑥"
+      },
+      {
+        "label": "B",
+        "content": "①③④，②⑤⑥"
+      },
+      {
+        "label": "D",
+        "content": "①③⑥，②④⑤"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】将圆锥切割成两个完全相等的部分，即从圆锥的顶点延高线进行切割，切成的两部分的表面积分\n\n别为圆锥表面积的一半与切面三角形的面积之和。 \n\n第三步，由圆锥的半径和高分别为 8 厘米、6 厘米，则母线长为 10 厘米，则圆锥的表面积为πRL + πR² =\n\nπ × 8 × 10 + π × 8² = 144π，切面三角形的面积为6 × 8 × 2 ÷ 2 = 48（平方厘米），所以题目所求表面\n\n积为72π + 48 ≈ 274.08（平方厘米），介于 250～300 平方厘米间。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第50题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-051",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "认知内驱力是一种要求了解和理解周围事物的需要，要求掌握知识的需要，以及系统地阐述问题和解决问 题的需要。在学习活动中，认知内驱力指向学习任务本身（为了获得知识），是一种重要、稳定的动机。 附属内驱力是指为了保持长者们（如教师、家长）或集体的赞许或认可，而表现出要把学习或工作做好的 一种需要。 根据上述定义，下列情形符合认知内驱力的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "小红的好胜心很强，所以学习特别努力"
+      },
+      {
+        "label": "B",
+        "content": "欢欢受到妈妈表扬后，画画的劲头更足了"
+      },
+      {
+        "label": "C",
+        "content": "为了让弟弟妹妹读书，小芳一直努力打工赚钱"
+      },
+      {
+        "label": "D",
+        "content": "小宇对天文学很感兴趣，经常缠着妈妈要去天文馆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】找出定义关键词。\n认知内驱力：“为了获得知识”；\n附属内驱力：“为了保持长者们（如教师、家长）或者集体的赞许或认可”、“而表现出要把学习或工作做好的\n一种需要”。\n逐一分析选项。\nA 项：小红学习努力是因为好胜心强，小红学习的动机不是获得知识，不符合“为了获得知识”，不符合定\n义，排除；\nB 项：欢欢画画的劲头足是因为受到妈妈表扬，不符合“为了获得知识”，不符合定义，排除；\nC 项：小芳打工的动机是为了弟弟妹妹读书，与小芳自身获得知识无关，不符合“为了获得知识”，不符合\n定义，排除；\nD 项：小宇缠住妈妈去天文馆的原因是对天文学感兴趣，是为了获得知识，符合“为了获得知识”，符合定\n义，当选。\n故正确答案为D。\n\n304",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第51题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-052",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "耶克斯-多德森定律，指各种活动都存在一个最佳的动机水平，动机不足或过分强烈，都会使工作效率下降。 研究还发现，动机的最佳水平随任务性质的不同而不同。一般来说，在比较容易的任务中，工作效率随动 机的提高而上升；随着任务难度的增加，动机最佳水平有逐渐下降的趋势。 根据上述定义，下列情形符合耶克斯-多德森定律的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "越是面对难度大的任务，小超越是感到兴奋"
+      },
+      {
+        "label": "B",
+        "content": "不管任务难易，小强每天的工作积极性都很高 B.D．小风很想在奥赛中获奖，反而没发挥出正常水平"
+      },
+      {
+        "label": "C",
+        "content": "小军连续学习了 12 个小时，学习效率明显下降"
+      },
+      {
+        "label": "D",
+        "content": "C．化学：生物化学：原子 D．物理学：自然科学：运动"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】找出定义关键词。\n“动机不足或过分强烈”、“工作效率下降”。\n逐一分析选项。\nA 项：越是面对难度大的任务，小超越是感到兴奋，说的是活动的难易度与情绪之间的关系，不符合“动机\n不足或过分强烈”和“工作效率下降”，不符合定义，排除；\nB 项：不管任务难易，小强每天的工作积极性都很高，说的是事情的难易度与情绪之间的关系，不符合“动\n机不足或过分强烈”和“工作效率下降”，不符合定义，排除；\nC 项：小军连续学习了12 个小时，学习效率明显下降，体现了“工作效率下降”，但是不符合“动机不足或\n过分强烈”，不符合定义，排除；\nD 项：小风很想在奥赛中获奖，符合“动机过分强烈”，反而没发挥出正常水平，符合“工作效率下降”，\n符合定义，当选。\n\n307\n体力尽快得到恢复”，不符合定义，排除。\nB 项：篮球课上，老师让同学们做50 米折返跑，做折返跑不符合“通过转换运动练习或插一些放松动作作为\n休息手段”，不符合定义，排除。\nC 项：1000 米达标测试前，教练先让大家活动手脚，活动手脚是进行热身，不符合“通过转换运动练习或插\n一些放松动作作为休息手段”，不符合定义，排除。\nD 项：排球课课间休息时，老师让大家踢了几分钟毽子，符合“通过转换运动练习或插一些放松动作作为休\n息手段”“更有效地消除疲劳，使体力尽快得到恢复”，符合定义，当选。\n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第52题"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-060",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "振奋：鼓舞：演讲",
+    "options": [
+      {
+        "label": "A",
+        "content": "杀菌：消毒：药水"
+      },
+      {
+        "label": "B",
+        "content": "意境：寓意：诗词"
+      },
+      {
+        "label": "C",
+        "content": "触动：震撼：音乐"
+      },
+      {
+        "label": "D",
+        "content": "纪律：规矩：法规"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n\n【解析】题干「振奋：鼓舞：演讲」，\"振奋\"与\"鼓舞\"是近义关系（程度相近的情感激发动词），\"演讲\"是引发\"振奋\"\"鼓舞\"情感的常见场景对象。\n\nA 项：「杀菌」与「消毒」是近义关系（清除/抑制微生物的过程），「药水」是实现杀菌、消毒的常见对象，逻辑一致，当选。\nB 项：「意境」与「寓意」并非近义（意境是整体氛围、寓意是隐含意义），逻辑不一致，排除。\nC 项：「触动」与「震撼」程度差异较大（震撼程度远强于触动），非完全近义，排除。\nD 项：「纪律」与「规矩」近义，但「法规」与\"演讲\"对应不同（法规是约束规范，不是触发情感的场景），逻辑不一致，排除。\n\n故正确答案为 A。\n\n（题源由 E-1 vision OCR 重抽于 2026-05-23，原 D-11 BCD 选项 OCR 失败 + explanation 与资料分析题错配脏数据已清。）",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第60题",
+    "meta": {
+      "rescuedBy": "E1-vision-OCR-D17e",
+      "rescuedAt": "2026-05-23"
+    }
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-161",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "榫卯：木作：手艺",
+    "options": [
+      {
+        "label": "A",
+        "content": "图案：商标：标志"
+      },
+      {
+        "label": "C",
+        "content": "瓶口：瓶盖：瓶子"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】A、B、D 项均能截出，如下图所示： \n\nC 项不能截出。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第161题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-162",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "空调：遥控器：电视",
+    "options": [
+      {
+        "label": "A",
+        "content": "法官：法律：公民"
+      },
+      {
+        "label": "C",
+        "content": "行人：红绿灯：车辆"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】观察原视图，三个黑块两个在一层，一个在二层，同时，其中两个黑块在同一纵向平面内，排除\n\nCD。其次，第二排黑块左侧应与②契合，故不应有方块，排除 B。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第162题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-163",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】用箭头标记黑白色面，如下图所示： \n\nA 项：题干面中直线垂直于与黑色三角形面的公共边，选项与题干不一致，排除； \n\nB 项：选项面中直线垂直于与黑色三角形面的公共边，同时在题干和选项的黑色三角形面上画箭头，题干和\n\n选项直线所在面均在箭头的右侧，选项与题干一致，符合； \n\nC 项：选项面中直线垂直于与黑色三角形面的公共边，同时在题干和选项的黑色三角形面上画箭头，选项中\n\n直线所在面在箭头的左侧，选项与题干不一致，排除； \n\nD 项：题干面中直线垂直于与黑色三角形面的公共边，选项与题干不一致，排除。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第163题（同年另一卷）",
+    "questionImage": "/img/questions/institution_2020_c/q163.png",
+    "meta": {
+      "rescuedBy": "pdf-crop-D17",
+      "rescuedAt": "2026-06-03",
+      "verifiedSource": "material/【事业编】事业单位联考历年真题/C类/职测/2018年-2024年事业单位联考职测（C类）笔试真题.pdf#q63"
+    }
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-164",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】A 项、C 项、D 项：该面位置均一致，上面也一致，区别就是右面的特征关系，根据题干面特征关\n\n系可以得到 D 项该面与右面的特征关系正确，所以排除 A、C 项，选择 D 选项。 \n\nB 项：正面的这个面在题干当中不存在，排除。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第164题（同年另一卷）",
+    "questionImage": "/img/questions/institution_2020_c/q164.png",
+    "meta": {
+      "rescuedBy": "pdf-crop-D17",
+      "rescuedAt": "2026-06-03",
+      "verifiedSource": "material/【事业编】事业单位联考历年真题/C类/职测/2018年-2024年事业单位联考职测（C类）笔试真题.pdf#q64"
+    }
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-165",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "艰苦对于（ ）相当于（ ）对于穷困潦倒",
+    "options": [
+      {
+        "label": "A",
+        "content": "养尊处优 富裕"
+      },
+      {
+        "label": "B",
+        "content": "B．意境：寓意：诗词"
+      },
+      {
+        "label": "C",
+        "content": "夙兴夜寐 厄运"
+      },
+      {
+        "label": "D",
+        "content": "D．纪律：规矩：法规 B．蒸馏：白酒：饮料 D．日照：阴晴：天气 B．手机：按钮：箱子 D．电脑：开关：电灯 B．监狱：犯人：狱警 D．讲堂：讲座：讲师 B．炸药：炸弹：武器 D．茶水：茶杯：容器 B．卧薪尝胆 失意 D．风餐露宿 落魄"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】B、C、D 选项中均存在相邻的边不等长的情况，如下图所示： \n\n只有 A 项符合。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第165题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-166",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "转基因植物的基因具有植物属性，若不将其转变为动物属性的基因，即使特意将其转入动物细胞内，也不 会有任何活性。因此，食用转基因植物是不会发生基因突变的。 上述论证的成立，需要补充以下哪项作为前提？",
+    "options": [
+      {
+        "label": "A",
+        "content": "转基因植物的基因没有被转变为动物属性基因"
+      },
+      {
+        "label": "B",
+        "content": "我们食用的转基因植物的基因没有活性"
+      },
+      {
+        "label": "C",
+        "content": "转基因植物的基因没有被转入动物细胞内"
+      },
+      {
+        "label": "D",
+        "content": "食用没有活性的基因是不会发生基因突变的"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n\n解析：原 PDF 解析部分缺失，可参考相关知识点推导，故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第166题（同年另一卷）",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 5,
+      "shortExplanationRescueClass": "A",
+      "shortExplanationRescuedBy": "D18a-min-rescue"
+    }
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-167",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "近年来，很多地方实施了院士引进计划，并针对院士建立了容错机制，让其潜心研发而无后顾之忧。有学 者对此指出，容错机制、宽松的考核评价机制是每个科研工作者梦寐以求的理想科研环境，应该提供给本 身正处于创新能力高峰期的青年科学家，而不是已取得较高学术成就的院士。 以下哪项如果为真，最能支持该学者的观点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "某些单位更加看重的是院士的头衔，可以帮助他们拿到更多的科研项目"
+      },
+      {
+        "label": "B",
+        "content": "某市组建青年科学团队，经过数月努力，但还是没能拿下重大科研项目"
+      },
+      {
+        "label": "C",
+        "content": "科研容错机制能让青年科学家卸下包袱，大胆投入到科技创新的实践中"
+      },
+      {
+        "label": "D",
+        "content": "让过多的资源集中在院士身上，并没有创造出更多的科研成果"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】找关键信息。①拥有某项物品、奖励或者荣誉；②价值评价要比未拥有之前明显提高。 \n\nA 项：小李花 150 万买了房屋，符合“拥有某项物品、奖励或者荣誉”；他觉得自己的房子至少值 200 万\n\n元，符合“价值评价要比未拥有之前明显提高”，符合定义； \n\nB 项：小唐买基金后坚信这些基金一定会大涨，基金本来就有涨有跌，没有体现对基金的“价值评价”，不\n\n符合定义； \n\nC 项：小王的同学赵某论文获奖，不是他自己，不符合“拥有某项物品、奖励或者荣誉”，不符合定义； \n\nD 项：小陈拒绝同事出价 15 万收藏，未明确体现小陈对金表的“价值评价”，不符合定义。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第167题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-168",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "有如下条件成立：     （1）如果小孙是老师，那么小胡不是画家； （2）小钱、小孙至少有一个是老师； （3）如果小胡不是画家，那么小杜不是司机； （4）如果小杨是水手，那么小杜是司机。 以下哪项为真时，可以得出“小钱是老师”的结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "小杨是水手"
+      },
+      {
+        "label": "C",
+        "content": "小杜不是司机"
+      },
+      {
+        "label": "B",
+        "content": "小孙是老师"
+      },
+      {
+        "label": "D",
+        "content": "小胡不是画家"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】找关键信息。①由于自己的过错而造成对他人的伤害；②有意无意地会认为被伤害的人也有责任；\n\n③减轻自己的负罪感。 \n\nA 项：条件好了，妈妈常常逼迫女儿吃这吃那，并不是“由于自己的过错而造成对他人的伤害”，也不符合\n\n“有意无意地会认为被伤害的人也有责任”，不符合定义； \n\nB 项：晓华决心从事国际慈善事业，救助世界上的困苦者，并不是“由于自己的过错而造成对他人的伤害”，\n\n也不符合“有意无意地会认为被伤害的人也有责任”，不符合定义； \n\nC 项：和旁边插队的车辆撞在一起，小陈认为对方需要承担主要责任，并不是“由于自己的过错而造成对他\n\n人的伤害”，不符合定义； \n\nD 项：小黄随手扔在路边的香蕉皮绊倒了路过的张大娘，符合“由于自己的过错而造成对他人的伤害”，怪\n\n她自己走路不仔细，符合“有意无意地会认为被伤害的人也有责任”，自己没必要多管闲事，符合“减轻\n\n自己的负罪感”，符合定义。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第168题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-169",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "研究者对 278 名 42 岁至 60 岁的男性进行追踪研究，发现其中献过血的人患冠心病的比例比未献过血的少 10%。同期另一项研究也表明：定期适量地献血可以降低血液粘稠度，促进血液循环。研究者认为，适量献 血有助于预防冠心病，预防衰老。 以下哪项如果为真，最能支持研究人员的观点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "人体内的铁元素不超过正常比例，人们患冠心病的风险就不会明显提高"
+      },
+      {
+        "label": "B",
+        "content": "氧化是身体老化生病的基础，血液过浓，会直接导致人体的“氧化作用”加快"
+      },
+      {
+        "label": "C",
+        "content": "口服抗衰老药物和食物，能够清除血液中的“自由基”而达到抗衰老的效果"
+      },
+      {
+        "label": "D",
+        "content": "献血越多，越可以减少血液内的铁元素，从而刺激造血器官保持旺盛造血功能"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】找关键信息。①一个文字符号前加▼或⌒，然后加括号，形成信息编码；②两个文字符号中间加\n\n+，然后加括号，形成信息编码；③多个信息编码联接起来。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第169题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-170",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "研究者认为，红茶是抗氧化效果最好的茶。研究者采用体外穴位间电位实时监测法，测试红茶、乌龙茶和 绿茶三种茶汤的摄入对人体经络的体表电位影响后发现：红茶引起的经络体表电位影响最大，作用时间最 长，这可能与茶汤颗粒最小有关系，抗氧化纳米颗粒通过清除肠壁疏松结缔组织层的氧自由基，引起肠道 平滑肌收缩，产生打嗝等生理反应，并可能借助胆管的桥连进一步解除肝脏的氧化应激。 以下哪项如果为真，最能支持研究者的结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "右图是乾坤线"
+      },
+      {
+        "label": "B",
+        "content": "右图是双乾线"
+      },
+      {
+        "label": "C",
+        "content": "右图是坤乾线"
+      },
+      {
+        "label": "D",
+        "content": "右图是双坤线"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题为定义判断题（乾坤线分类）。\n题干给出 4 个分类规则：\n- 乾线：右终点高于左起点；坤线：右终点低于左起点\n- 趋坤：最高点在最低点左边；趋乾：最高点在最低点右边\n- 双乾线 = 乾线 + 趋乾；坤乾线 = 乾线 + 趋坤\n- 乾坤线 = 坤线 + 趋乾；双坤线 = 坤线 + 趋坤\n图形需配合 PNG 判断：右图最高点在最低点左边（趋坤），且右终点低于左起点（坤线）→ 双坤线。\n故正确答案为 D。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 事业单位 C 类整卷答案表 q55]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第170题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-171",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "厌学是低龄学生中常见的一种现象。一份调查报告显示，850 名被调查有厌学情绪的低龄学生中，有 511 名 在最近 4 个学期成绩呈持续下降趋势。因此，研究者认为，厌学的学生成绩会持续下降，这是因为其厌学 情绪会导致旷课、逃学等现象，对教师和家长也会产生逆反心理和抵触情绪。 以下哪项如果为真，最能削弱上述研究者的结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "大多数低龄学生都有厌学情绪"
+      },
+      {
+        "label": "B",
+        "content": "逃学导致低龄学生产生厌学情绪"
+      },
+      {
+        "label": "C",
+        "content": "随着课程难度不断增加，大部分低龄学生成绩都会持续下降"
+      },
+      {
+        "label": "D",
+        "content": "低龄学生的逆反心理和抵触情绪是厌学情绪的主要表现"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】第一步：找出论点和论据。 \n论点：厌学情绪会导致旷课、逃学等现象，对教师和家长也会产生逆反心理和抵触情绪，进而学习成绩持\n续下降。 \n论据：850 名被调查有厌学情绪的低龄学生中，有511 名在最近4 个学期成绩呈持续下降趋势。 \n本题的论点中出现因果关系，若要削弱论点，可以通过因果倒置等进行削弱。 \n第二步：逐一分析选项。 \nA 项：该项只说了低龄学生有厌学情绪，但是没有提到学习成绩怎样，无关选项，不能削弱，排除； \nB 项：该项说的是逃学导致了低龄学生厌学，是对论点中厌学导致逃学导致学习成绩下降的部分因果关系\n的倒置，说明论点因果关系不成立，可以削弱，当选； \nC 项：该项提出了另一个原因，即课程难度增加导致学生学习成绩下降，属于另有他因，削弱力度弱于因果\n倒置，排除； \nD 项：低龄学生的厌学情绪的主要表现是逆反心理和抵触情绪，说明厌学的确会导致逆反心理和抵触情绪，\n与论点讨论一致，可以加强，不能削弱，排除。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第171题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-172",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "研究者招募了一批学生并分成三组，要求每人完成智力测试，但在测试前有 10 分钟的准备时间；这期间， 第一组听了莫扎特的乐曲，第二组听了普通流行音乐，第三组没有听任何音乐。之后让受试者答题，结果 显示：第一组受试者得分明显比后两组要高。因此，研究者认为：听莫扎特的音乐可以有效提高人们在智     力测试中的得分。 以下哪项如果为真，最能反驳上述结论？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不干胶∶树脂板"
+      },
+      {
+        "label": "B",
+        "content": "杀虫剂∶保鲜膜"
+      },
+      {
+        "label": "C",
+        "content": "无影灯∶医用灯"
+      },
+      {
+        "label": "D",
+        "content": "虎斑蝶∶安全帽"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】本题考查类比推理（功能对应+材质多元）。\n题干「计算器」与「搅拌机」均为「电器」，但功能不同（计算 vs 搅拌），且都属于「工具」大类。\nB 项正确：「杀虫剂」与「保鲜膜」均为日用品，功能不同（杀虫 vs 保鲜），与题干结构最一致。\nA 项：不干胶与树脂板都是材料，与题干电器主题不符；\nC 项：无影灯属于医用灯，包含关系，与题干并列不一致；\nD 项：虎斑蝶与安全帽无明显逻辑关联。\n故正确答案为 B。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q57]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第172题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-173",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "中国传统的实用理性，直到现在仍没有发生根本性的改变，它在现代中国人精神领域中的一个突出表现就 是：人们习惯于把“科学”和“技术”合在一起使用，谓之为“科技”。这样一来，“科技”层面的理想 主义和探究精神往往被剥离了，而“科技”就只剩下实用主义的“术”了。 如果以下各项为真，最能削弱上述结论的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "幼师∶教授∶教师"
+      },
+      {
+        "label": "B",
+        "content": "读者∶记者∶编者"
+      },
+      {
+        "label": "C",
+        "content": "瓷碗∶陶碗∶碗盏"
+      },
+      {
+        "label": "D",
+        "content": "竹凳∶蓑衣∶竹器"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】本题考查类比推理（外延关系-种属）。\n题干：「交警」与「特警」均为「警察」的不同分类（按职能），前两词并列，与第三词种属关系。\nC 项正确：「瓷碗」与「陶碗」均为「碗盏」的不同材质分类，前两词并列，与第三词种属关系，与题干一致。\nA 项：「幼师」「教授」与「教师」是种属，但「幼师」与「教授」存在交叉（幼师可以是教授头衔）；\nB 项：「读者」「记者」「编者」三者并列且不同身份，但与题干「前两并列+第三种属」结构不符；\nD 项：「竹凳」是「竹器」一种，「蓑衣」属棕榈/草编不属竹器。\n故正确答案为 C。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q58]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第173题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-174",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "为什么人类比其他灵长类寿命更长？传统观点认为，这得益于现代医学的发展、充足的食物以及先进的卫 生系统。但新研究表明，虽然上述因素在最近 200 年内，延长了人类的寿命，但人类寿命比其他灵长类长 这一倾向，早在这之前就存在了。当人类的祖先开始更多地摄入肉食后，他们就渐渐进化出了对抗肉食中 病菌的免疫机制。因此，新的观点认为：人类在摄入肉食时进化出的免疫机制延长了人类的寿命。 以下哪项为真，最能削弱上述新观点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "鼓舞∶宣传∶士气"
+      },
+      {
+        "label": "B",
+        "content": "美化∶修订∶作品"
+      },
+      {
+        "label": "C",
+        "content": "经验∶总结∶教训"
+      },
+      {
+        "label": "D",
+        "content": "危机∶公关∶风险"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题考查类比推理（动宾对应-减损/防控）。\n题干：「灾害」可通过「预警」减少「损失」——动作（预警）作用于第一词（灾害），目的减少第三词（损失）。\nD 项正确：「危机」可通过「公关」化解「风险」——结构与题干一致（公关化解危机、降低风险）。\nA 项：「宣传」鼓舞士气——目的是提升而非降低，方向相反；\nB 项：「修订」美化作品——目的是改进而非减损；\nC 项：「总结」经验得到教训——三者并非减损关系。\n故正确答案为 D。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q59]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "类比推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第174题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-175",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "有研究者发现，除了猿类，黑熊与人类基因更相似。此外，他发现黑熊在日常行为中会表现出一种人类才 会有的“利他主义”，这意味着它们为了群体更大利益会好好照顾同类。因此，他认为黑熊与人类关系很 近。 如果以下各项为真，最能反驳上述结论的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "并非只有人类才有利他主义"
+      },
+      {
+        "label": "B",
+        "content": "黑熊照顾同类只是出于本能 B.D．有利他主义的动物不仅仅是黑熊"
+      },
+      {
+        "label": "C",
+        "content": "黑熊照顾同类并非为了群体利益"
+      },
+      {
+        "label": "D",
+        "content": "第四部分 综合分析 本部分包括数学方法、策略制定、资料分析和实验设计四种类型的内容。请根据题目要求，在四个选项中 选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】“雷阵雨”与“大暴雨”属于交叉关系，“流星雨”是一种天文现象，与前两词无明显逻辑关系。 \n\nA 项：“观赏花”与“食用花”属于交叉关系，“交际花”形容有手段且妩媚，或德才兼营的女子，与前两\n\n词无明显逻辑关系，与题干逻辑关系一致，符合； \n\nB 项：“标志灯”指可以在各种场所和环境中作路标指示或停电应急时安全疏散、导向指示照明，也是一种\n\n可以提供指示作用的灯具，“指示灯”与“红绿灯”均属于“标志灯”的一种，后两词与第一词属于包容\n\n关系中的种属关系，排除； \n\nC 项：“内陆湖”“淡水湖”与“人工湖”属于交叉关系，排除； \n\nD 项：“捕鱼船”是船，“太空船”是航天器，二者无明显逻辑关系，排除。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第175题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-176",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "甲瓶装有浓度为 a%的某溶液 x 千克，乙瓶装有浓度为 b%的该溶液 y 千克（a≠b，x≠y）。现从两瓶中各取 出 z 千克溶液并分别兑入另一瓶中，使得两瓶中溶液的浓度相同。问 z 的值为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "√xy/2"
+      },
+      {
+        "label": "B",
+        "content": "√(ax+by)/(a+b)"
+      },
+      {
+        "label": "C",
+        "content": "(ax+by)/(2ab)"
+      },
+      {
+        "label": "D",
+        "content": "xy/(x+y)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n\n【解析】甲瓶交换后的浓度为[a(x-z)+bz]/x，乙瓶交换后的浓度为[b(y-z)+az]/y。两瓶浓度相同，则y[a(x-z)+bz]=x[b(y-z)+az]。展开并整理得xy(a-b)=z(a-b)(x+y)。因a≠b，所以z=xy/(x+y)。故选D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第176题（同年另一卷）",
+    "meta": {
+      "dataRescuedAt": "2026-06-03",
+      "dataRescuedBy": "codex-targeted-short-explanation-rescue",
+      "dataRescueSource": "material/【事业编】事业单位联考历年真题/C类/职测/2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+    }
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-177",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "某运输企业有大、中、小三个型号的卡车共 n 辆，总最大载货量为 20n 吨。已知大型卡车、中型卡车和小 型卡车的载重量分别为 36 吨/辆、30 吨/辆和 16 吨/辆，且小型卡车数量是中型卡车的 6 倍。问中型卡车 数量是大型卡车数量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1 倍"
+      },
+      {
+        "label": "C",
+        "content": "1.5～2.5 倍之间"
+      },
+      {
+        "label": "B",
+        "content": "1～1.5 倍之间"
+      },
+      {
+        "label": "D",
+        "content": "2.5 倍以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】“X² + Y² = 1”是“X ≥ −1”的充分条件，两者属于充分条件关系。 \n\nA 项：“二元一次方程组”可以有两个不相等的解，因此“二元一次方程组”不能得到“有唯一解”，两者\n\n之间没有明显的逻辑关系，排除； \n\nB 项：“图形是正多边形”不能确定图形具体是几边形，不能得出“图形中有四条边相等”，两者之间没有\n\n明显的逻辑关系，排除； \n\nC 项：“M 的面积是 N 面积的 4 倍”不是“M 的周长是 N 周长的 2 倍”的充分条件，比如对于三角形等来\n\n说，“M 的面积是 N 面积的 4 倍”不能得出“M 的周长是 N 周长的 2 倍”，排除； \n\nD 项：“m 是整数”是“m 是实数”的充分条件，两者属于充分条件关系，与题干逻辑关系一致，符合。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第177题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-178",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "某企业 86 名员工对 A．B 两个年会方案分别进行投票，要求每人均要对每个方案投赞成或反对票。已知赞 成 A 方案的员工中，同样赞成 B 方案的人占 25%；反对 B 方案的员工中，同样反对 A 方案的人占1 ；赞成 B 3 方案的员工中，同样赞成 A 方案的人多于一半。问赞成 A 方案的人比赞成 B 方案的人多多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "火山灰；生产力"
+      },
+      {
+        "label": "B",
+        "content": "压力；矛盾"
+      },
+      {
+        "label": "C",
+        "content": "地幔；民众"
+      },
+      {
+        "label": "D",
+        "content": "灾害；改良"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】本题考查类比推理（A 对于 X 相当于 B 对于 Y，因果关系）。\n题干：「火山爆发」由「压力」（地壳深处压力积累）引起；「社会变革」由「矛盾」（社会矛盾积累）引起。\n两组关系一致：原因导致结果。\nB 项正确：压力是火山爆发的内因，矛盾是社会变革的内因。\nA 项：火山灰是火山爆发的产物（结果），生产力是社会变革的推动力，关系不对应；\nC 项：地幔是火山爆发的发源地，民众是社会变革的主体，关系不对应；\nD 项：灾害是火山爆发的影响，改良是社会变革的方式，方向相反。\n故正确答案为 B。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q63]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第178题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-179",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "某单位 n 名职工参加安全生产和劳动保障两门考试，分别有 x 人和 y 人合格。已知两门均合格的职工人数 不多于 1 门合格、1 门不合格的职工人数，不少于 2 门均不合格的职工人数，问 x 与 y 之和的最大值和最 小值相差：",
+    "options": [
+      {
+        "label": "A",
+        "content": "代数学；文学"
+      },
+      {
+        "label": "B",
+        "content": "土地；情感"
+      },
+      {
+        "label": "C",
+        "content": "空间；山水"
+      },
+      {
+        "label": "D",
+        "content": "数学；宋词"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】本题考查类比推理（学科分支关系）。\n题干：「几何学」是某学科的分支；「诗词」与某文学体裁互为同位分支。\nD 项正确：「几何学」是「数学」的分支；「宋词」是「诗词」的具体形式之一（宋词属诗词范畴）。\n结构：分支∶整体 + 整体∶分支，最匹配。\nA 项：代数学/几何学并列，文学/诗词种属，结构不对应；\nB 项：土地与几何学无关，情感与诗词关联弱；\nC 项：空间是几何学研究对象，山水是诗词题材，结构不一致。\n故正确答案为 D。\n[Source: m.jinbiaochi.com/qgsydw/news_79563.html 2020.7.25 C 类整卷 q64]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第179题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-180",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "用若干个棱长为 1 的小正方体（其中 1 个为灰色）堆放成一个多面体，图 1 和图 2 分别为该多面体的俯视 图和正视图。问该多面体的表面积最大可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "46"
+      },
+      {
+        "label": "B",
+        "content": "B．48"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "D．52 （一） 某单位拟在其东侧围墙内砌一个 100m2长方形花坛。花坛边墙东面一侧利用单位围墙改造，其他 3 面边墙 用砖和水泥新砌。改造围墙费用为 35 元/m，新砌边墙费用为 90 元/m。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】A 项：有的“卫星”可以用来“导航”，二者属于对应关系，“搜索”与“文件”属于动宾关系，\n\n前后逻辑关系不一致，排除； \n\nB 项：用“导航”来查看“路况”，二者属于对应关系，在“网络”上“搜索”，二者属于对应关系，但前\n\n后对应方式不一致，排除。 \n\nC 项：用“坐标”来“导航”，二者属于功能对应，用“手机”来“搜索”，前二者属于功能对应，后逻辑\n\n关系一致，符合。 \n\nD 项：“导航”是种“辅助”工具，二者属于对应关系，“搜索”与“寻找”都表示搜寻，二者属于近义关\n\n系，前后逻辑关系不一致，排除。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第180题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-186",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2018 年，我国网络视频用户人均创造市场规模在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 230 元"
+      },
+      {
+        "label": "C",
+        "content": "250-270 元之间"
+      },
+      {
+        "label": "B",
+        "content": "230-250 元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 270 元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】定位文字材料第二段“截至2018 年12 月末我国网民视频用户规模达7.25 亿”，定位表格资料第\n二行最后一列可得，2018 年视频内容行业市场规模为1871.3 亿元，则所求=\n视频内容行业市场规模\n视频用户规模\n=\n1871.3\n7.25 ≈258\n元/人，符合C 项范围。 \n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第186题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-187",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "截至 2018 年 6 月末，我国网民整体规模比 2017 年底约增长：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1%"
+      },
+      {
+        "label": "C",
+        "content": "7%"
+      },
+      {
+        "label": "B",
+        "content": "4%"
+      },
+      {
+        "label": "D",
+        "content": "10%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】定位文字资料第一段“截至2018 年6 月末，我国网民视频用户规模达6.09 亿，较上年末增加3014\n万人……用户规模增长率较整体网民增速高1.4%”，根据增长率=\n增长量\n现期量一增长量=\n3014 万\n6.09 亿−3014 万≈\n0.3 亿\n6.09 亿一0.3 亿≈5.2%；由此求得网民视频用户的增长率为5.2%，则网民整体规模的增速为5.2%−1.4%=3.8%，\n与B 项最接近。 \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第187题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-188",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2016-2018 年，我国网络视频内容行业市场规模中，网络直播市场规模的占比：",
+    "options": [
+      {
+        "label": "A",
+        "content": "逐年上升"
+      },
+      {
+        "label": "C",
+        "content": "先升后降"
+      },
+      {
+        "label": "B",
+        "content": "逐年下降"
+      },
+      {
+        "label": "D",
+        "content": "先降后升"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】论点：J1124 + 4535恒星极有可能是在矮星系中诞生的。 \n\n论据：研究人员在银河系中发现了一颗含有重元素的特殊恒星“J1124 + 4535”。这颗恒星具有突出特征，\n\n即镁、铁比重较低，重于铁的重元素相对较多。 \n\nA 项：无关选项。该项中的“有些恒星”是否诞生于矮星系，与论点J1124 + 4535恒星是否诞生于矮星系\n\n无关，论题不一致，排除。 \n\nB 项：增加新论据。该项指出与J1124 + 4535恒星相似的恒星几乎都是在矮星系中发现，针对论点补充了\n\n论据，具有加强作用，正确。 \n\nC 项：无关选项。该项讨论的是矮星系与银河系碰撞后的结果，与论点J1124 + 4535恒星是否诞生于矮星\n\n系无关，论题不一致，排除。 \n\nD 项：无关选项。该项讨论的是此前在银河系中的发现，与论点J1124 + 4535恒星是否诞生于矮星系无关，\n\n论题不一致，排除。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第188题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-189",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "关于我国 2018 年短视频市场的发展，不能从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "网民同比增加的日均手机上网时间中，短视频的贡献率超过三成"
+      },
+      {
+        "label": "B",
+        "content": "短视频用户规模占网民视频用户总体规模的九成以上"
+      },
+      {
+        "label": "C",
+        "content": "使用短视频的网民人数是网络直播的 1.5 倍以上"
+      },
+      {
+        "label": "D",
+        "content": "短视频市场规模同比翻了 3 番以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】论点：在社交媒体上花费时间较多（即比所有青少年在社交媒体上的平均时间多出一小时以上）\n\n的青少年，其抑郁程度显著增加。 \n\nA 项：无关选项。该项讨论的是在社交媒体上花费时间较多会导致多动症，而非抑郁程度，与论点无关，论\n\n题不一致，排除。 \n\nB 项：无关选项。该项讨论的是在社交媒体上花费时间较多会导致空虚，而非抑郁程度，与论点无关，论题\n\n不一致，排除。 \n\nC 项：无关选项。该项讨论的是在社交媒体上花费时间较多会导致智力下降，而非抑郁程度，与论点无关，\n\n论题不一致，排除。 \n\nD 项：增加论据。该项指出在社交媒体上花费时间较多会导致自卑抑郁，具有加强作用。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第189题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-190",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "根据所给资料，下列说法正确的有： ①2018 年，我国网民平均每上网 10 分钟，就有超过 1 分钟是在刷短视频 ②2014～2018 年，我国网络视频用户付费比例增长最快的年份是 2016 年 ③2018 年我国新网民中，短视频使用率比网络直播高 15 个百分点以上",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 个"
+      },
+      {
+        "label": "B",
+        "content": "B．2 个"
+      },
+      {
+        "label": "C",
+        "content": "1 个"
+      },
+      {
+        "label": "D",
+        "content": "D．0 个 （五） 跨境电子商务市场结构分为 B2B（商对商）和 B2C（商对客）两种模式。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】论点：在社交媒体上花费时间较多（即比所有青少年在社交媒体上的平均时间多出一小时以上）\n\n的青少年，其抑郁程度显著增加。 \n\nA 项：无关选项。该项讨论的是学习压力大导致抑郁，与论点无关，论题不一致，排除。 \n\nB 项：无关选项。该项讨论的是看电视时间长导致抑郁，与论点无关，论题不一致，排除。 \n\nC 项：因果倒置。该项指出是先有了抑郁情绪，才会花费时间在社交媒体，而不是先花费时间在社交媒体上\n\n才导致的抑郁，具有削弱作用。 \n\nD 项：无关选项。该项讨论的是社交媒体的作用，与论点无关，论题不一致，排除。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第190题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-191",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2013～2018 年间，我国跨境电商进口与出口规模相距最大的年份，其差值约为相距最小年份的几倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.4 倍"
+      },
+      {
+        "label": "C",
+        "content": "2.6 倍"
+      },
+      {
+        "label": "B",
+        "content": "3.1 倍"
+      },
+      {
+        "label": "D",
+        "content": "2.3 倍"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】根据品牌笔记本电脑、台式电脑、数码相机共 100 台，共花费 32 万元，购进笔记本电脑、台式电\n\n脑 、 数 码 相 机 分 别 为 x 台 、 y 台 、 z 台 ， 根 据 题 干 信 息 建 立 等 量 关 系 式 ： x＋y＋z＝100 ① ；\n\n4000x＋3200y＋2400z＝320000②，①②两式联立，消掉 z，整理得：y＝100 − 2x。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第191题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-192",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2018 年，我国出口跨境 B2C 电商交易规模同比约增长了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "14%"
+      },
+      {
+        "label": "C",
+        "content": "20%"
+      },
+      {
+        "label": "B",
+        "content": "17%"
+      },
+      {
+        "label": "D",
+        "content": "23%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】根据利润 = 成本 × 利润率，设购进笔记本电脑 x 台，台式电脑 y 台，数码相机 z 台，建立等量关\n\n系式，总利润为4000 × 10%x + 3200 × 15%y + 2400 × 20%z，整理得：总利润为400x + 480y + 480z，\n\n要使得这批商品的总利润最大，即 x 最少，最少取 25 台。y + z＝100 − 25 = 75（台），总利润= 400 × 25 +\n\n480 × 75＝46000，排除 BD 选项。 \n\n根据上一问可知y＝100 − 2x，又因为x = 25，故y = 50，z = 25。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第192题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-193",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下年份中，我国出口跨境电商交易规模同比增长最快的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2014 年"
+      },
+      {
+        "label": "C",
+        "content": "2016 年"
+      },
+      {
+        "label": "B",
+        "content": "2015 年"
+      },
+      {
+        "label": "D",
+        "content": "2017 年"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】假设乙类工艺品和丙类工艺品分别为 y 和 z，根据题意可列方程：x + y + z = 40①；5x + 4y +\n\n3z = 150②；② − 3 × ①可得2x + y = 30，即y = 30 − 2x。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第193题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-194",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "若从 2019 年开始，我国进出口跨境电商交易规模同比增速一直保持 2018 年水平不变，则这一规模将在哪 年首次超过 11 万亿元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年"
+      },
+      {
+        "label": "C",
+        "content": "2021 年"
+      },
+      {
+        "label": "B",
+        "content": "2020 年"
+      },
+      {
+        "label": "D",
+        "content": "2022 年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据题意可列方程组：x + y + z = 40①；5x + 4y + 3z = 150②；5000x + 3000y + 2000z =\n\n115000③；5 × ① − ②可得y + 2z = 50。① − ③ ÷ 1000可得y + z＝35。 \n\n解方程组：y + 2z = 50④；y + z = 35⑤，④ − ⑤可得z = 15，则该日加工生产丙类工艺品的员工有\n\n15 × 3 = 45（人）。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第194题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-195",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "关于 2013～2018 年我国跨境电商交易状况，不能从上述资料中推出的是",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年，我国江浙沪地区占全国出口跨境电商交易规模的比重超过1 3"
+      },
+      {
+        "label": "B",
+        "content": "2013～2018 年，我国进口跨境电商交易规模的年均增量突破 0.3 万亿元 B.D．2018 年，我国的出口跨境电商交易规模中，英国比巴西多约 2 千亿元"
+      },
+      {
+        "label": "C",
+        "content": "2013～2018 年，我国的出口跨境电商交易规模中，B2C 的占比逐年提升"
+      },
+      {
+        "label": "D",
+        "content": "实验材料：  （六） 一张 40 厘米长的白纸、一把剪刀，一个打孔器，一把尺子、一瓶胶水、一支铅笔。 实验步骤： （1）剪两条 3 厘米×40 厘米的纸条。 （2）将两张纸条的中心垂直交叉，用胶水粘成“十”字形。 （3）把纸条的四端叠在一起，用胶水粘好固定后就变成了一个球体。 （4）等胶水晾干。 （5）在纸条四端相叠的中心部位，用打孔器打一个孔。 （6）把铅笔插入孔里约 5 厘米深，使用胶水使之固定。 （7）用双手夹着铅笔搓动，开始慢一些，后逐渐加快速度，使得纸条旋转起来。 将铅笔和球体倒悬，重复步骤（7）。 实验结果： 当纸条旋转起来之后，球体的顶端和底端会变得稍扁，而中间部分则略为鼓起。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】设生产甲乙丙工艺品分别为 x，y，z 件。根据甲乙丙工艺品的利润分别为 5000 元，3000 元，2000\n\n元，总利润为5000x + 3000y + 2000z，因员工总数为 150，工艺品总件数为 40 件，甲、乙、丙工艺品分\n\n别需要 5 名，4 名，3 名员工，可列方程：x + y + z = 40①；5x + 4y + 3z = 150②，由② − ① × 3，可\n\n得y + 2x = 30。甲产品需要 5 人利润为 5000 元，一人 1000 元；乙产品需要 4 人利润为 3000 元，一人 750\n\n元；丙产品需要 3 人利润为 2000 元，一人600+，则甲产品为最优选择，要使总利润最高则甲产品的件数\n\n要尽可能的多，则 y 要尽可能的小，y 最小为 0，此时x = 15，z = 25，利润为15 × 5000 + 25 × 2000 =\n\n12500（元）。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第195题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-196",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "以下哪项可以解释实验结果？",
+    "options": [
+      {
+        "label": "A",
+        "content": "由于地球的重力作用，使得球体的顶端下沉，造成球体顶端和底端变得稍扁"
+      },
+      {
+        "label": "B",
+        "content": "纸条旋转时产生离心力使得球体中心部位向外运动，从而使得球体两端变得扁平"
+      },
+      {
+        "label": "C",
+        "content": "旋转后，球体中间的压力变小，外部空气将挤压纸片，使得球体两端稍扁"
+      },
+      {
+        "label": "D",
+        "content": "纸片旋转产生静电，使得球体的顶端和底端相互吸引，从而变得稍扁"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】实验中，1 号杯子、3 号杯子和 4 号杯子的差异在于放入醋的多少不同，因此，探究的是同一种溶\n\n液的不同浓度对实验结果的影响。 \n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第196题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-197",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "地球是一个高速自转的球体，根据本实验，以下哪项猜想是合理的？",
+    "options": [
+      {
+        "label": "A",
+        "content": "地球极半径比赤道半径稍长"
+      },
+      {
+        "label": "B",
+        "content": "地球两极的海水将向赤道流去 B.D．地球赤道半径比极半径稍长"
+      },
+      {
+        "label": "C",
+        "content": "地球赤道的海水将向两极流去"
+      },
+      {
+        "label": "D",
+        "content": "实验材料： （七） 一些食盐、一粒马铃薯、一只量杯(250 毫升)、一把茶匙(5 毫升)、两只小碗。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】根据实验步骤（5）可知 5 号玻璃杯中倒入的是含碳酸的矿泉水，碳酸矿泉水的特性是其中的二氧\n\n化碳会不断的逸出，导致溶液酸度降低，从而导致液体颜色发生变化。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第197题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-198",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "根据上述实验，可以发现影响渗透的重要因素是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "细胞里的水量和溶解物质的含量"
+      },
+      {
+        "label": "B",
+        "content": "细胞外的水量和溶解物质的含量"
+      },
+      {
+        "label": "C",
+        "content": "细胞膜的厚度和细胞的种类"
+      },
+      {
+        "label": "D",
+        "content": "细胞内外溶液浓度的差异"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】根据实验，该地区甘蓝呈现蓝色，说明土壤呈碱性。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第198题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-199",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "该实验中，探求因果联系所运用的推理模式是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B．"
+      },
+      {
+        "label": "B",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "D",
+        "content": "版权所有 复制必究"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】根据实验过程中让被试者的操作过程，可知本实验的目的为测定被试者双手完成固定动作的协调\n\n性。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第199题（同年另一卷）"
+  },
+  {
+    "id": "institution-xingce-panduan-2020-c-003",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "方案的员工中，同样赞成 A 方案的人多于一半。问赞成 A 方案的人比赞成 B 方案的人多多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "B",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "33"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】A 项：油的沸点比水的沸点高。在标准大气压下，水的沸点为 100℃，而食用油的沸点约 250℃。\n\nA 项错误。 \n\nB 项：家用电水壶的开关为一个蒸汽开关，其内部有一个蝶形双金属片，当水壶内的水沸腾时，产生的蒸汽\n\n通过手柄或者管道进入蒸汽开关，使内部的蝶形双金属片由于受到蒸汽的原因而产生温度的变化，进而发\n\n生变形，促使热水壶自动切断电源停止加热。所以，并非由于气压变大。B 项错误。 \n\nC 项：由于日光照射在含有大量水滴的空气中，水滴对阳光折射而形成虹。当太阳视角较低而照射角度较高\n\n时，虹产生的位置也较高，这样就形成了所谓的“虹高日头低”的天气现象。当出现这样的天气现象时，表\n\n明空气中水汽含量较大，是可能降雨的前兆。而其中的“水滴”“水汽”便体现了热空气遇冷凝结成小水滴\n\n的液化现象。C 项正确。 \n\nD 项：将铁轨铺在枕木上增大了路基的受力面积，根据压强=压力÷受力面积，可知：在压力一定时受力面\n\n积越大压强就越小，从而保护路基，避免路基被压坏。并非为了减小摩擦力，增加车速。D 项错误。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2020年事业编行测（c）第3题"
+  }
+]

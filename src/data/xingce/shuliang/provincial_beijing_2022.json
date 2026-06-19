@@ -1,0 +1,566 @@
+[
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 一辆车每天都比前一天多开 15 千米，第三天开的距离正好是第一天的 2 倍。则前三天一共开了多少千米?",
+    "options": [
+      {
+        "label": "A",
+        "content": "225"
+      },
+      {
+        "label": "B",
+        "content": "190"
+      },
+      {
+        "label": "C",
+        "content": "135"
+      },
+      {
+        "label": "D",
+        "content": "130"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查基础应用题。\n第二步，设第一天开x千米，那么第二天开x＋15千米，第三天开x＋30千米。可列方程：x＋30＝2x，解得x＝30。\n那么三天一共开了30＋45＋60＝135（千米）。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第71题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 某种商品如果每件降价 30 元，单价比打八折销售时贵 10 元，则这种商 品的定价是多少元/件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "200"
+      },
+      {
+        "label": "B",
+        "content": "250"
+      },
+      {
+        "label": "C",
+        "content": "300"
+      },
+      {
+        "label": "D",
+        "content": "350"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查经济利润问题，属于基础公式类。\n第二步，设该商品的定价为x，打八折为0.8x，根据“降价30元比打八折销售贵10元”可建立方程x-30－0.8x=10，\n解得x=200。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第72题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 某测试共有 100 道题，答对一道题得 3 分，不答或答错一道题扣 2 分， 小张测试成绩为 285 分，则他一共答对了多少道题？",
+    "options": [
+      {
+        "label": "A",
+        "content": "85"
+      },
+      {
+        "label": "B",
+        "content": "90"
+      },
+      {
+        "label": "C",
+        "content": "95"
+      },
+      {
+        "label": "D",
+        "content": "97"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n解法一：第一步，本题考查基础应用题，用方程法解题。\n第二步，设答对题目数量为x，答错题目数量为（100-x），根据“小张测试成绩为285分”可建立方程3x-2（100-x）\n=285，解得x=97。\n因此，选择D选项。\n解法二：第一步，本题考查基础应用题。\n第二步，根据题意答对一题得3分，不答或者答错一题扣2分可得，答对一题和答错或者不答相差5分，总共100\n道题，假设都答对可得100×3=300，实际成绩为285分，因此一共损失了300－285=15，所以答错或者不答的题目\n数量为15÷5=3，答对的题目数量为100-3=97。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第73题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 农户张某今年年初将一块长方形农田扩建为正方形农田，使得正方边长 与长方形的长相同，今年的农作物产量是去年的 1.5 倍。已知今年农作物亩产量比去年高 20%，则原来长方形农田的长是宽的多少倍?",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.2"
+      },
+      {
+        "label": "B",
+        "content": "1.25"
+      },
+      {
+        "label": "C",
+        "content": "1.5"
+      },
+      {
+        "label": "D",
+        "content": "1.6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查几何问题。\n第二步，设长方形的长、宽分别为x、y，则正方形的边长也为x，赋值原来的亩产量为10，则现在的亩产量为12。\n第三步，根据题意今年农作物的产量是去年的1.5倍，则有12 =15×10xy，解得x=1.25y。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第74题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 商店销售某种商品，先按定价卖了 300 件，打七五折卖了 200 件，后在 此基础上再打八折卖完了剩下的 100 件，总利润为总成本的 2/3。单件成本相当于单件定 价的",
+    "options": [
+      {
+        "label": "A",
+        "content": "57%"
+      },
+      {
+        "label": "B",
+        "content": "54%"
+      },
+      {
+        "label": "C",
+        "content": "51%"
+      },
+      {
+        "label": "D",
+        "content": "48%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查经济利润问题。\n第二步，设定价为x，成本为y，列表如下：\n第三步，根据题意总利润为总成本的 ，则300x＋150x＋60x－600y=600y× ，解得y=0.51x。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第75题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-076",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 甲和乙同时出发，在长 360 米的环形道路上沿同一方向各自匀速散步。 甲出发 2 圈后第一次追上乙，又走了 4 圈半第二次追上乙。则甲出发后走了多少米第一次 到达乙的出发点？",
+    "options": [
+      {
+        "label": "A",
+        "content": "160"
+      },
+      {
+        "label": "B",
+        "content": "200"
+      },
+      {
+        "label": "C",
+        "content": "240"
+      },
+      {
+        "label": "D",
+        "content": "280"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n解法一：\n第一步，本题考查行程问题当中相遇追及问题。\n第二步， 设甲和乙的速度分别为 、 ，甲乙出发时相距为 。带入追及问题公式，第一次甲追上乙\n；第二次甲追上乙 。两次追及过程中均匀速，甲分别散步2圈和4圈半，\n=4：9，则 =4：9，所以 =160。\n第 20 页 共 36 页\n第三步，因此，选择A选项。\n解法二：\n第一步，本题考查行程问题当中相遇追及问题。\n第二步，本次行程中两人同时出发至追上，则两人散步的时间相同。第二次追及中甲走4圈半，则乙走3圈半。两\n人路程之比为9：7，则速度之比也为9：7。第一次追及中甲乙的速度之比、路程之比均为9：7，则甲走2圈720\n米，则乙走560米，两人相差160。\n第三步，因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第76题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-077",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 商店做促销活动，购买店内商品第一件原价，第二件（价格不高于第一 件）4 折，第三件（价格不高于第二件）1 折。小刘买了 1 件 A 和 2 件 B 商品，优惠后的总 价格相当于定价的 56.25%。已知 A 商品比 B 商品贵，则按原价买 10 件 A 商品的钱最多可 以按原价买多少件 B 商品？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "16"
+      },
+      {
+        "label": "C",
+        "content": "14"
+      },
+      {
+        "label": "D",
+        "content": "12"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查基础经济利润问题。\n第二步， 小刘购买三件商品，可以参加促销活动。根据要求结账时第一件商品价格≥第二件≥第三件。所以A按\n原价付款，两件B分别打4折和1折。\n第三步，根据题目中等量关系列式A+40%B+10%B=（A+2B）×56.25%，整理得A-0.5625A=1.125B-0.5B，0.4375A=0.625B，\n=1.428。则10件A最多可以买14件B。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第77题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-078",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 一个圆形水库的半径为 1 千米。一艘船从水库边的 A 点出发，直线行驶 1 千米后到达水库边的 B 点，又从 B 点出发直线行驶 2 千米后到达水库边的 C 点。则 C 点 与 A 点的直线距离最短可能为多少千米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1 千米"
+      },
+      {
+        "label": "B",
+        "content": "1—1.3 千米之间"
+      },
+      {
+        "label": "C",
+        "content": "1.3—1.6 千米之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 1.6 千米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查几何问题，属于平面几何类。\n第二步，圆形水库的半径为1千米，直径为2千米，可知BC即为直径。根据性质：直径所对应的圆周角为直角，\n可知△ABC为直角三角形，AB=1，BC=2，两点之间线段最短，故C点与A点的直线距离最短为AC的长度，如图所示，\n连接AC。根据勾股定理可知AC²=BC²-AB²=2²-1²，解得AC= ≈1.73＞1.6，在D选项范围内。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第78题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-079",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 某单位组织文艺表演需要统一购买 15 套服装，下表为甲、乙、丙和丁四 个网店同款上衣和裤子的价格，上衣和裤子可以分开购买，每个网店发货均收取 40 元快递 费，则本次购买服装的最低成本为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2125 元"
+      },
+      {
+        "label": "B",
+        "content": "2155 元"
+      },
+      {
+        "label": "C",
+        "content": "2165 元"
+      },
+      {
+        "label": "D",
+        "content": "2185 元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查经济利润问题。\n第二步，要使本次购买服装的成本最低，可考虑以下几种情况：\n①在甲购买上衣、丁购买裤子，费用为：77×15+40+62×15+40=2165元；\n②全部在甲购买，费用为：（77+65）×15+40=2170元；\n③全部在乙购买，费用为：（79+64）×15+40=2185元；\n④全部在丙购买，费用为：（78+63）×15+40=2155元；\n⑤全部在丁购买，费用为：（80+62）×15+40=2170元；\n成本最低，为④全部在丙购买。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第79题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-080",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 甲、乙两条生产线每小时分别可以生产 15000 件和 9000 件某种零件，产 品合格率分别为 99%和 99.8%。现接到 36 万件这种零件的生产任务，要求合格率不得低于",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "D",
+        "content": "[选项暂缺]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查工程问题。\n第二步，甲、乙合格率分别为99%、99.8%，设甲、乙分别生产x、y件，要求合格率不低于99.5%，列不等式：99%x+99.8%y\n≥99.5%（x+y），解得x：y≤3：5，现接到36万件这种零件的生产任务，平均分成8份，每份36÷8=4.5万件，\n第 21 页 共 36 页\n甲最多生产4.5×3＝13.5万件、乙最少生产4.5×5＝22.5万件。\n第三步，甲每小时生产15000件，生产13.5万件需用时 =9小时；乙每小时生产9000件，生产22.5万件需用\n时 =25小时，两生产线合作，至少需要25小时完成。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第80题",
+    "region": "beijing",
+    "meta": {
+      "invalid": true,
+      "reason": "pdf_not_located"
+    }
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-099",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "5%，则两条生产线合作，至少需要多少小时完成?",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，确定题型。\n根据提问方式中的“不能质疑”，确定为削弱论证选非题。\n第二步，找论点和论据。\n论点：只要开始走路，就能降低老年女性死亡风险。\n论据：该研究追踪了某国16732名66岁至78岁女性，4 年随访期间有 804名女性去世。结果发现，不管是零星\n散步还是较长时间的不间断行走，步数更多的人寿命更长;在约4500步之后，这种效应趋于稳定。研究者提出，只\n要开始走路，就能降低老年女性死亡风险。\n第三步，辨析选项。\nA项：无关选项。论点强调的是开始走路和老年女性死亡风险的关系，而该项谈及的是中青年女性的生活方式，不\n具有质疑作用，符合。\nB项：另有他因。该项解释了走路方式跟健康的关系，可能是正确的走路方式影响了死亡率，而不是只要走路了，\n就能降低死亡率，具有削弱的作用，排除；\nC项：因果倒置。健康的人每天能够自主行走达到一定的步数，而不是走路导致良好的健康状况，从而减少了死亡\n率，具有削弱作用，排除；\nD项：另有他因。该项指出影响健康的还有生活内容和健康意识，具有质疑作用，排除。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第99题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-081",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 右侧九宫格中为从 1 到 9 不重复的 9 个整数，虚线上角的数字为虚线所 经过区域的数字之和，则灰色格子中的数字最大可能是",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n第一步，本题考查基础计算。\n第二步，1-9所有数字之和为45，两个虚线框内分别为11和27，共38，所以剩下的三个框里面三个数字之和为7，\n要想灰色格子最大，只能剩下两个空白格子最小，分别为1和2，所以灰色格子为4。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第81题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-082",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) A、B 两个运动队分别有 x 人和 y 人，两队所有人员刚好组成一个不到 100 人的正方形实心方队。在为两个运动队分配运动服时，错给 A 队分了 y 套，给 B 队分 了 x 套。发现后 A 队将领到的运动服拿出 20%给 B 队，B 队又拿出 1 套给 A 队，此时两队的 队员刚好一人分到一套运动服。则 x 的值为",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两个运动队分别有 x 人和 y 人，两队所有人员刚好组成一个不到 100 人的正方形实心方队。在为两个运动队分配运动服时，错给 A 队分了 y 套，给 B 队分 了 x 套。发现后 A 队将领到的运动服拿出 20%给 B 队，B 队又拿出 1 套给 A 队，此时两队的 队员刚好一人分到一套运动服。则 x 的值为 A、 17"
+      },
+      {
+        "label": "B",
+        "content": "25"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "D",
+        "content": "35"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n第一步，本题考查基础应用题。\n第二步，由于正方形实心方阵的总数为 ，根据题干“A、B两个运动队分别有x人和y人，两队所有人员刚好组\n成一个不到100人的正方形实心方队”列式：x+y=小于100的平方数①。其次，根据“A运动队有x人”和“错给\nA队分了y套，发现后A队将领到的运动服拿出20%给B队，B队又拿出1套给A队，此时两队的队员刚好一人分到\n一套运动服”列式为：x=0.8y+1②。\n第三步，根据①②无法求解，考虑代入排除法。A选项，x=17，代入②，解得y=20，x+y=37，不是平方数，排除。\nB选项，x=25，代入②，解得y=30，x+y=55，不是平方数，排除。C选项，x=29，代入②，解得y=35，x+y=64，是\n平方数，正确。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第82题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-083",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 将张、王、李、陈、赵五名应届毕业生分配到甲、乙、丙 3 个不同的科 室，要求每个科室至少分配 1 人，甲科室分配的人数多于乙科室，且张和王不能去丙科室。 则有多少种不同的分法?",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "21"
+      },
+      {
+        "label": "C",
+        "content": "35"
+      },
+      {
+        "label": "D",
+        "content": "72"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查排列组合问题。\n第二步，五个人分成三组，有3-1-1和2-2-1两种情况。\n第一种情况，3-1-1：由于甲的人数多于乙，所以甲三个人，乙和丙各一个人，张王不能去丙，只能都在甲，剩下\n三个人进行排列即可，即 =6种；\n第二种情况，2-2-1：此种情况也分为两种，一种是张王都去甲，共 =3种，另一种是张王分配到甲和乙，共有\n=12种。\n因此，总个数为6+3+12=21种。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第83题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-084",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 早上 8:00，甲、乙两车开始在 A、B 两地之间往返运货，两车先在 A 地 装货后驶往 B 地卸货，然后返回 A 地再装货，如是重复。13:35 甲完成了第四次卸货，又 过了 2 小时 5 分，乙完成了第五次装货。已知两车均匀速行驶，每次装货或卸货需要 20 分 钟，则甲的行驶速度是乙的多少倍?",
+    "options": [
+      {
+        "label": "A",
+        "content": "B 两地之间往返运货，两车先在 A 地 装货后驶往 B 地卸货，然后返回 A 地再装货，如是重复。13:35 甲完成了第四次卸货，又 过了 2 小时 5 分，乙完成了第五次装货。已知两车均匀速行驶，每次装货或卸货需要 20 分 钟，则甲的行驶速度是乙的多少倍? A、 1.25"
+      },
+      {
+        "label": "B",
+        "content": "1.4"
+      },
+      {
+        "label": "C",
+        "content": "1.5"
+      },
+      {
+        "label": "D",
+        "content": "1.6"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n第一步，本题考查行程问题中的基本行程类。\n第二步，分别设甲、乙两车从A地到B地路上的时间为x、y，根据题意，甲车从8:00到13:35甲完成了第四次卸\n货，一共经历了8次装卸货和7次路途。列式为：8×20+7x=5小时35分=335分钟，解得x=25（分钟）。乙完成了\n第五次装货，乙车在第四次卸货之后多了1次装货和1次路途。列式为：9×20+8y=335+125，解得y=35（分钟）。\n第三步，由于路程相同，速度与时间成反比，甲的速度∶乙的速度=y∶x=35∶25=7∶5=1.4，那么甲的速度是乙的",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2022年省考beijing行测第84题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-shuliang-2022-085",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "(单选题) 单位组织职工前往甲、乙、丙三个爱国主义教育基地学习，要求每名职 工至少去 1 个基地。已知有 48 人去了甲基地，有 42 人未去乙基地，去丙基地的人中，去 1 个、2 个、3 个基地的人数比为 3∶2∶1。如仅去 2 个基地和去 3 个基地的职工分别有 x 人和 y 人，则 x 和 y 的关系为",
+    "options": [
+      {
+        "label": "A",
+        "content": "x=4y+6"
+      },
+      {
+        "label": "B",
+        "content": "x=4y-6"
+      },
+      {
+        "label": "C",
+        "content": "x=3y+6"
+      },
+      {
+        "label": "D",
+        "content": "x=3y-6 第四部分 判断推理"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n第一步，本题考查容斥原理中的三集合容斥原理。\n第二步，如图所示\n第 22 页 共 36 页\n42人未去乙，即D+A=42-3y，A+B=2y，去甲的有48人，所以C=48-A-D-y=6+2y，所以只去两个的=A+B+C=2y+2y+6，\n即x=4y+6。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考beijing行测第85题",
+    "region": "beijing"
+  }
+]

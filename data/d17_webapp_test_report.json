@@ -1,0 +1,26 @@
+{
+  "skill": "webapp-testing",
+  "date": "2026-05-17",
+  "status": "BLOCKED — 项目固有 build bug",
+  "findings": {
+    "prod_build_fail": {
+      "severity": "P0",
+      "error": "RangeError: Invalid code point 13741117 at String.fromCodePoint (tailwindcss/dist/lib.js:1:5549)",
+      "location_reported": "src/app/globals.css:1:1",
+      "root_cause": "Tailwind v4 + Turbopack CSS parser bug, 不在 globals.css 实际内容（去除全部中文注释后仍报）",
+      "reproduced_with": "873742c globals.css 老版（D-16 末）和 1f34bf3 我的新版本都同样炸",
+      "impact": "项目无法 npm run build / 无法 prod deploy，仅 dev server 可用（HMR lazy compile 跳过）"
+    },
+    "workaround_candidates": [
+      "A. Tailwind v4 → v3 降级（最稳但工程量大）",
+      "B. 等 Tailwind v4 修该 bug（提 issue）",
+      "C. 关闭 turbopack 改 webpack（next.config 加 turbopack:false 或 next build --no-turbopack）",
+      "D. 把 globals.css 拆成多个小文件分模块导入"
+    ],
+    "visual_test_result": "FAIL - playwright 访问首页 console 抓到同样 CssSyntaxError，页面 CSS 可能部分降级"
+  },
+  "next_steps_recommended": [
+    "P0 修 build：试方案 C (next build --no-turbopack 或 turbopack:false config)，5 分钟即知",
+    "P1 修不了再考虑 Tailwind 降级 v3"
+  ]
+}

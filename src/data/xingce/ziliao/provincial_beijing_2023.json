@@ -1,0 +1,72 @@
+[
+  {
+    "id": "provincial-beijing-xingce-ziliao-2023-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2019 年第四季度，全国各级网络举报部门受理举报数量比上年同期：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少不到500万件"
+      },
+      {
+        "label": "B",
+        "content": "少500万件以上 20/21"
+      },
+      {
+        "label": "C",
+        "content": "多不到500 万件"
+      },
+      {
+        "label": "D",
+        "content": "多500万件以上"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019年第四季度······比上年同期”，结合选项为“多/少＋具体单位”，可判定本题为增长量计算\n问题。定位图1可得：2018年10月、11月、12月，全国各级网络举报部门受理举报数量分别为1063万\n件、1166万件、1254万件；定位图2可得：2019年10月、11月、12月，全国各级网络举报部门受理举\n报数量分别为1004万件、971万件、1222万件。根据公式：增长量＝现期量-基期量，可得（1004＋\n971＋1222）-（1063＋1166＋1254）＝3197-3483＝-286万件，则2019年第四季度，全国各级网络举\n报部门受理举报数量比上年同期少286万件，在A项范围内。\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考beijing行测第126题",
+    "region": "beijing"
+  },
+  {
+    "id": "provincial-beijing-xingce-ziliao-2023-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2018年CNCERT 接收到的网络安全事件报告数量最少的季度是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "第一季度"
+      },
+      {
+        "label": "B",
+        "content": "第二季度"
+      },
+      {
+        "label": "C",
+        "content": "第三季度"
+      },
+      {
+        "label": "D",
+        "content": "第四季度 21/21"
+      }
+    ],
+    "answer": "D",
+    "explanation": "定位图1可知2018年各月CNCERT接收到的网络安全事件报告数量。2018年各季度报告数量分别为：\n第一季度，\n件；\n第二季度，\n件；\n第三季度，\n件；\n第四季度，\n件。\n比较可知，2018年CNCERT接收到的网络安全事件报告数量最少的季度是第四季度。\n故正确答案为D。\n\n \n \n \n \n28/28",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考beijing行测第127题",
+    "region": "beijing"
+  }
+]

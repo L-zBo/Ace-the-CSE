@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "institution-xingce-panduan-2024-c-061",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "以下四个图形中，将 1 个白色圆形涂黑后能成为中心对称图形的有几个？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】如下图所示，图1 和图4 将1 个白色圆形涂黑后能成为中心对称图形，图2 和图3 需要将2 个白色\n圆形涂黑后能成为中心对称图形。 \n \n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第61题",
+    "questionImage": "/img/questions/institution_2024_c/q061.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-062",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n【解析】元素组成不同，且无属性规律，优先考虑数量规律。观察发现，题干图形被分割，封闭面明显，优\n先考虑数面，但整体数面无规律，考虑面的细化。观察发现，题干每幅图均出现明显的最小面，且前一幅图的\n最小面为下一幅图外框的形状，故？处应选择外框形状为直角梯形的图形，只有C项符合。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第62题",
+    "questionImage": "/img/questions/institution_2024_c/q062.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-063",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "以下是给定的立体图形，下面哪一项中的图形是该立体图形正确的主视图和左视图？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n【解析】本题考查三视图。\n主视图是立体图从前向后观察，根据原图有线就有线，原图没线就没线的原则，主视图最上方应无横线，\n排除A、D项。\n左视图是立体图从左向右观察，左视图所观察到上下两个等大的矩形，排除B项。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第63题",
+    "questionImage": "/img/questions/institution_2024_c/q063.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-064",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n【解析】本题为空间重构题，将展开图标号，如下图所示。\nA项：选项与展开图一致，当选；\nB项：题干面a下面三角形与面b有公共边，选项与展开图不一致，排除；\nC项：题干面a下面三角形与面b有公共边，选项与展开图不一致，排除；\nD项：题干面a下面三角形与面b有公共边，选项与展开图不一致，排除。\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第64题",
+    "questionImage": "/img/questions/institution_2024_c/q064.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-065",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "以下为 2 个正方体纸盒的外表面展开图，下列哪项不可能是将这两个纸盒粘接在一起形成的长方体？ （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第65题",
+    "answer": "D",
+    "explanation": "【解析】A项：选项与展开图一致，排除；\nB项：选项与展开图一致，排除；\nC项：选项与展开图一致，排除；\nD项：题干面a与面b的公共边挨着面b中大矩形的长边，选项面a与面b公共边与大矩形长边垂直，选\n项与题干不一致，当选。\nD.",
+    "questionImage": "/img/questions/institution_2024_c/q065.png"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-066",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "假定𝑓和𝑔分别是定义在集合{5，7}，上的两个一元函数，ℎ是定义在集合{5，7}上的二元函数，并且， 𝑓(5) = 𝑓(7) = 𝑔(5) = 7，𝑔(7) = 5；ℎ(5，5) = 7，ℎ(5，7) = ℎ(7，5) = ℎ(7，7) = 5。 根据上述定义，下列选项正确的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "𝑔(𝑓(7)) = 7"
+      },
+      {
+        "label": "B",
+        "content": "ℎ(𝑓(5)，7) = 7"
+      },
+      {
+        "label": "C",
+        "content": "ℎ (ℎ(7，5)，𝑔(5)) = 7"
+      },
+      {
+        "label": "D",
+        "content": "ℎ (𝑔(𝑓(5))，ℎ(7，7)) = 7"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】第一步：找出定义关键词。 \n题干中的关键信息为四个自定义的函数式，整理如下： \n①𝑓(5) = 𝑓(7) = 𝑔(5) = 7， \n②𝑔(7) = 5， \n③ℎ(5,5) = 7， \n④ℎ(5,7) = ℎ(7,5) = ℎ(7,7) = 5， \n第二步：逐一分析选项。 \nA 项：𝑔(𝑓(7))，先找括号内部，根据关键信息①可知𝑓(7) = 7，再次根据关键信息②可知𝑔(7) = 5，所以A\n项的最终结果是5 而非7，不符合定义，排除； \nB 项：ℎ(𝑓(5), 7)，先找括号内部，根据关键信息①可知𝑓(5) −7，再次根据关键信息④ℎ(7,7) = 5，所以B\n项的最终结果是5 而非7，不符合定义，排除； \nC 项：ℎ(ℎ(7,5), 𝑔(5)) = 7，先找括号内部，根据关键信息④可知ℎ(7,5) = 5，关键信息①可知𝑔(5) = 7，所\n以ℎ(5,7)根据关键信息④可知等于5 而非7，不符合定义，排除； \nD 项：ℎ(𝑔(𝑓(5))，ℎ(7，7)，先找括号内部，根据关键信息①𝑓(5) = 7，关键信息②𝑔(7) = 5，关键信息\n④ℎ(7,7) = 5，所以根据关键信息③可知ℎ(5,5) = 7，符合定义，当选。 \n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第66题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-067",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "动态相对于静态而言，是指现象相对于时间变化而表现出的状态。动态数列是指用一系列按时间先后 顺序排列起来的统计指标，对特定事物在时间上的变化和发展趋势进行观察和比较的数列。 根据上述定义，下列属于动态数列的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "为了控制噪音、光线等无关变量，在实验环境中，通过人为设计采取一定措施消除这些影响因素 B.个变量"
+      },
+      {
+        "label": "C",
+        "content": "为研究某药物对性别的影响，随机抽取男女被试，使男性组和女性组人数一致，从而控制性别这"
+      },
+      {
+        "label": "D",
+        "content": "D．为了控制实验刺激的先后顺序这个潜在变量，设计一半被试先接受红光刺激，再接受绿光刺激， 而另一半被试顺序相反"
+      }
+    ],
+    "difficulty": 3,
+    "knowledgePoints": [
+      "定义判断"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第67题",
+    "answer": "B",
+    "explanation": "【解析】第一步：找出定义关键词。\n“按时间先后顺序排列起来的统计指标”，\n“在时间上的变化和发展趋势进行观察和比较的数列”\n第二步：逐一分析选项。\nA项：“年龄组”是按照不同的年龄阶段进行分组分类，不符合“用一系列按时间先后顺序排列起来的统计\n指标”；“调查人数”也仅是对数字多少的具体罗列，没有体现发展趋势，不符合“在时间上的变化和发展趋势\n进行观察和比较的数列”，不符合定义，排除；\nB项：钢产量在不同时间的“年份”依次递增，符合“按时间先后顺序排列起来的统计指标”，“钢产量”\n随着时间的变化有一定的变化趋势，符合“在时间上的变化和发展趋势进行观察和比较的数列”，符合定义，当\n选；\nC项：“日程安排”的罗列不属于“数列”，不符合“在时间上的变化和发展趋势进行观察和比较的数列”，\n不符合定义，排除；\nD项：“工程队”是不同队伍的罗列，不符合“按时间先后顺序排列起来的统计指标”，不符合定义，排除。\n故正确答案为B。"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-071",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "鸟鸣：谷应",
+    "options": [
+      {
+        "label": "A",
+        "content": "你追：我赶"
+      },
+      {
+        "label": "B",
+        "content": "绳锯：木断"
+      },
+      {
+        "label": "C",
+        "content": "眉开：眼笑"
+      },
+      {
+        "label": "D",
+        "content": "开云：见日"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\n\n[来源 baijing1.top paperId=1720413488551 sort=71 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第71题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-072",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "晶体：食盐",
+    "options": [
+      {
+        "label": "A",
+        "content": "颗粒：玉米"
+      },
+      {
+        "label": "B",
+        "content": "钢都：鞍山"
+      },
+      {
+        "label": "C",
+        "content": "经理：领导"
+      },
+      {
+        "label": "D",
+        "content": "玩具：积木"
+      }
+    ],
+    "answer": "D",
+    "explanation": "\n\n[来源 baijing1.top paperId=1720413488551 sort=72 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第72题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-073",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "渔网：渔船：船（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "餐桌：餐厅：厅"
+      },
+      {
+        "label": "B",
+        "content": "铁饼：铁桶：桶"
+      },
+      {
+        "label": "C",
+        "content": "雨燕：燕窝：窝"
+      },
+      {
+        "label": "D",
+        "content": "炒饭：炒面：面"
+      }
+    ],
+    "answer": "A",
+    "explanation": "\n\n[来源 baijing1.top paperId=1720413488551 sort=73 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第73题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-074",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "大气：磁场：极光",
+    "options": [
+      {
+        "label": "A",
+        "content": "词汇：语言：言语"
+      },
+      {
+        "label": "B",
+        "content": "沙漠：气旋：沙尘"
+      },
+      {
+        "label": "C",
+        "content": "雨露：光照：植物"
+      },
+      {
+        "label": "D",
+        "content": "声源：频率：声音"
+      }
+    ],
+    "answer": "B",
+    "explanation": "\n\n[来源 baijing1.top paperId=1720413488551 sort=74 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第74题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-075",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "浏览：截屏：分享（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "爆炸：膨胀：混沌"
+      },
+      {
+        "label": "B",
+        "content": "B．绳锯：木断"
+      },
+      {
+        "label": "C",
+        "content": "逾期：处罚：警告"
+      },
+      {
+        "label": "D",
+        "content": "D．开云：见日 B．钢都：鞍山 D．玩具：积木 B．铁饼：铁桶：桶 D．炒饭：炒面：面 B．沙漠：气旋：沙尘 D．声源：频率：声音 B．量变：质变：突变 D．遇险：报警：获救"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n【解析】第一步：判断题干词语间逻辑关系。\n先浏览，再截屏，最后分享，三者为时间先后对应关系。\n第二步：判断选项词语间逻辑关系。\nA项：根据宇宙大爆炸理论，宇宙开始是属于混沌状态的，之后发生了爆炸，然后不断的膨胀，三者时间先\n后顺序与题干不一致，排除；\nB项：量变可以引起质变，先量变，再质变，二者为时间先后对应关系，突变是指变化很突然，与质变无明",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第75题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-076",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "战士：身手敏捷：保家卫国（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "医生：技艺精湛：治病救人"
+      },
+      {
+        "label": "B",
+        "content": "诗人：声名显赫：流芳百世"
+      },
+      {
+        "label": "C",
+        "content": "科学家：夜以继日：科技进步"
+      },
+      {
+        "label": "D",
+        "content": "美食家：五味俱全：珍馐佳肴"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n【解析】第一步：判断题干词语间逻辑关系。\n战士具有身手敏捷的特点，二者为属性对应关系；战士的工作职责是保家卫国，二者为职责对应关系。\n第二步：判断选项词语间逻辑关系。\nA 项：医生具有技艺精湛的特点，二者为属性对应关系；医生的工作职责是治病救人，二者为职责对应关\n系，与题干逻辑关系一致，当选；\nB项：诗人可能具有声名显赫的特点，诗人可能具有流芳百世的特点，前者与后两者为或然属性对应关系，\n与题干逻辑关系不一致，排除；\nC项：科学家的工作方式可以是夜以继日，二者不为属性对应关系；科学家的科技成果可以推动科技进步，\n二者不为职责对应关系，与题干逻辑关系不一致，排除；\nD项：美食家鉴赏珍馐佳肴，二者为主宾结构，珍馐佳肴具有五味俱全的特点，二者为属性对应关系，与题\n干逻辑关系不一致，排除。\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第76题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-077",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "重金属：轻金属：铝（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "沙尘暴：龙卷风：积雨云"
+      },
+      {
+        "label": "B",
+        "content": "立体图形：平面图形：三角形"
+      },
+      {
+        "label": "C",
+        "content": "环境污染：生态破坏：水土流失"
+      },
+      {
+        "label": "D",
+        "content": "灭活疫苗：狂犬病疫苗：破伤风疫苗"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B\n【解析】第一步：判断题干词语间逻辑关系。\n根据金属的密度区分，密度大于4.5g/c𝑚3的是重金属，密度小于4.5g/c𝑚3的是轻金属，重金属和轻金属，\n二者为矛盾关系，铝是轻金属，二者为种属关系。\n第二步：判断选项词语间逻辑关系。\nA项：沙尘暴与龙卷风都属于天气现象之一，二者为反对关系，积雨云是一种云，与题干逻辑关系不一致，\n排除；\nB项：图形分为立体图形和平面图形，二者为矛盾关系，三角形是平面图形，二者为种属关系，与题干逻辑\n关系一致，当选；\nC项：全球三大危机包括：资源短缺、环境污染、生态破坏，环境污染和生态破坏，二者为反对关系，水土\n流失是生态破坏的一种现象，二者为种属关系，与题干逻辑关系不一致，排除；\nD项：狂犬病疫苗是灭活疫苗，二者为种属关系，与题干逻辑关系不一致，排除。\n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第77题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-078",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "总成本：直接成本：间接成本（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "多面体：凸面体：凹面体"
+      },
+      {
+        "label": "B",
+        "content": "合格率：次品率：成品率"
+      },
+      {
+        "label": "C",
+        "content": "电功率：平均功率：瞬时功率"
+      },
+      {
+        "label": "D",
+        "content": "圆锥表面积：底面积：侧面积"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n【解析】第一步：判断题干词语间逻辑关系。\n总成本=直接成本+间接成本，三者为加和对应关系。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第78题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-079",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "冻结对于（ ）相当于（ ）对于喧嚣。",
+    "options": [
+      {
+        "label": "A",
+        "content": "资金 城市"
+      },
+      {
+        "label": "C",
+        "content": "融化 宁静"
+      },
+      {
+        "label": "B",
+        "content": "流通 轰鸣"
+      },
+      {
+        "label": "D",
+        "content": "申请 禁止"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】逐一分析选项。\nA项：冻结资金，二者为动宾结构；喧嚣的城市，二者为偏正结构，前后逻辑不一致，排除；\nB项：冻结比喻阻止流通或变动（指人员、资金等），流通和冻结为反义关系；轰鸣的意思是发出巨大的轰\n隆声，喧嚣形容声音大而嘈杂，二者都体现声音大，为近义关系，前后逻辑关系不一致，排除；\nC项：冻结意思是液体遇冷凝结，使物体受冻凝结，融化和冻结为反义关系；宁静和喧嚣为反义关系，前后\n逻辑关系一致，当选；\nD项：申请冻结，二者为动宾结构；禁止喧嚣，二者为动宾结构，但前后顺序相反，排除。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第79题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-080",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "便利贴对于（ ）相当于（ ）对于电冰箱。",
+    "options": [
+      {
+        "label": "A",
+        "content": "闹钟 橱柜"
+      },
+      {
+        "label": "B",
+        "content": "B．书本 厨房"
+      },
+      {
+        "label": "C",
+        "content": "彩纸 速冻食品"
+      },
+      {
+        "label": "D",
+        "content": "D．笔筒 立式冰箱"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】逐一代入选项。  \nA 项：便利贴与闹钟均为生活用品，二者为并列关系，橱柜与电冰箱均为储存物品的工具，二者为并列关\n系，前后逻辑关系一致，当选；  \nB 项：便利贴可以贴在书本上，二者为地点对应关系，电冰箱可以放在厨房内，二者为地点对应关系，前后\n逻辑关系一致，但方向相反，排除；  \nC 项：有的便利贴是彩纸，有的便利贴不是彩纸，有的彩纸是便利贴，有的彩纸不是便利贴，二者为交叉关\n系，速冻食品可以存放在电冰箱里，二者为地点对应关系，前后逻辑关系不一致，排除；  \nD 项：笔筒和便利贴都是生活用品，二者为并列关系，立式冰箱是电冰箱，二者为种属关系，前后逻辑关系\n不一致，排除。  \n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第80题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-081",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "5.5 亿年以前，地球原始海洋中生活着树叶状的无头海洋生物，它的体长约 10 厘米左右，通常在海 底栖息捕食。这些地球上最早、最原始的树叶状生物，可能拥有决定身体对称性的基因。对称状结构 表明，现代动物最重要的基因——高等级调控基因存在于这些古老生物体内，这与在现今所有身体 对称的生物身体上发现的基因结构相同。尽管这些原始生物和人一点都不像，但这些基因至今仍存在 于人体之中，这表明这些原始生物是现代人类的“远古祖先”。 下列选项中，不能作为上述论证假设条件的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "地球上现存的生物都起源于原始海洋生物"
+      },
+      {
+        "label": "B",
+        "content": "地球上大多数原始海洋生物的进化链条从未中断过"
+      },
+      {
+        "label": "C",
+        "content": "人类的高等级调控基因都是由其“远古祖先”继承而来"
+      },
+      {
+        "label": "D",
+        "content": "远古时代只有树叶状无头海洋生物具有对称性结构基因"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C。解析：题干由“这些古老生物具有决定身体对称性的高等级调控基因，且该基因结构与现今身体对称生物相同，并仍存在于人体之中”推出“这些原始生物是现代人类的远古祖先”。A、B、D项均能从起源、进化链条或基因唯一性角度在一定程度上支持该推断。C项说“人类的高等级调控基因都是由其远古祖先继承而来”，这是题干结论成立后的结果性表述，不是推出这些原始生物就是人类远古祖先所必须预设的条件。题目问不能作为假设条件，故选C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第81题",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 1,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationDeferTo": "D18b-vision-ocr",
+      "dataRescuedAt": "2026-06-01",
+      "dataRescuedBy": "codex-targeted-short-explanation-rescue",
+      "dataRescueScope": "explanation"
+    }
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-082",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "当一首音乐被重复播放时，人们会在脑海里不断重复这首音乐，挥之不去，这种现象叫做“耳虫效 应”。研究人员通过实验探索人们夜间睡眠是否会收到“耳虫效应”的影响，最终得出结论：睡前经 常听音乐会导致夜间“耳虫效应”增多，从而损害睡眠质量。 以下哪项如果为真，最能支持上述研究结论？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "随着智能设备的普及，现代人的睡眠质量较以往大幅下滑"
+      },
+      {
+        "label": "B",
+        "content": "“耳虫效应”会持续 30 分钟左右，音乐爱好者更难以摆脱它的纠缠"
+      },
+      {
+        "label": "C",
+        "content": "当“耳虫效应”发生时，负责听觉信息处理的大脑皮层就会活跃起来"
+      },
+      {
+        "label": "D",
+        "content": "几乎每个人都曾受过“耳虫效应”的侵扰，但不同的人对其感受存在差异"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n【解析】第一步：找出论点和论据。\n论点：睡前经常听音乐会导致夜间“耳虫效应”增多，从而损害睡眠质量。\n论据：无。\n第二步：逐一分析选项。\nA项：该项说明现代人睡眠质量大幅下滑，与睡前经常听音乐是否会导致夜间“耳虫效应”增多，从而损害\n睡眠无关，不能支持，排除；\nB 项：该项说明音乐爱好者更难以摆脱“耳虫效应”的纠缠，与睡前经常听音乐是否会导致夜间“耳虫效\n应”增多，从而损害睡眠无关，不能支持，排除；\nC 项：该项说明“耳虫效应”发生时大脑皮层会活跃，即睡前经常听音乐引起的“耳虫效应”会使大脑皮\n层兴奋，从而损害睡眠质量，解释原因，可以支持，当选；\nD项：该项说明每个人都受过“耳虫效应”的侵扰，但对其感受存在差异，与睡前经常听音乐是否会导致夜\n间“耳虫效应”增多，从而损害睡眠无关，不能支持，排除。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第82题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-083",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "当前，葡萄酒酿造大多使用人工培养的酿酒酵母。有研究发现与人工酵母酿造的葡萄酒相比，采用天 然酵母菌所酿造的酒富含更多的有益微生物，而有益微生物越多越有利于人体健康。因此有人认为， 应改变用人工培养的酵母酿造葡萄酒的方式，大力推广天然酵母菌的酿酒工艺，这样才会更有益于人 体健康。 以下各项如果为真，除哪项外均能削弱上述观点？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "天然酵母菌所酿造的酒中硫的含量更高，味道更冲，很多人并不接受"
+      },
+      {
+        "label": "B",
+        "content": "用天然酵母酿酒会引入很多其他细菌，难以控制酒品中其他细菌的含量"
+      },
+      {
+        "label": "C",
+        "content": "人体对微生物的吸收存在差异，即使酒中含有更多有益微生物，也不能都被人体吸收"
+      },
+      {
+        "label": "D",
+        "content": "葡萄种类不同，其植株所产生的酵母菌也不同，用这些酵母菌酿酒不一定会增加益生菌"
+      }
+    ],
+    "answer": "A",
+    "explanation": "3 1 83.3\n×(− ) = − ≈ −0.5万吨，即2023年5月F省饮料产量同比增量为-0.5万吨，结合公式：现期\n1− 1 167 166",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第83题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-084",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "根据衡量自然语言处理水平的一项基准测试，有些研究者认为，甲公司的 XN 和乙公司的 LB 人工智能 （AI）模型比人类更懂中文。这两个 AI 模型在中文语言理解测评基准（CNBX）上取得了创纪录的分 数。CNBX 是一套旨在评估机器能在多大程度上像人类那样理解中文文本并对其做出反应的体系。 以下哪项如果为真，最能质疑上述研究者的观点？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "在该项测试中，XN 得分为 86.918，LB 得分力 86.685，人类得分为 86.678，相差微弱"
+      },
+      {
+        "label": "B",
+        "content": "CNBX 的设计大量使用了人类中文信息语料库，这些信息来源于人类对相关语句的理解和处理"
+      },
+      {
+        "label": "C",
+        "content": "当句子被随机打乱时，许多在某些理解任务上表现胜过人类的 AI 模型就无法辨别这些句子的意思"
+      },
+      {
+        "label": "D",
+        "content": "是否懂中文，不仅取决于对中文文本的理解和处理，更取决于日常交际中对语言的应答及其背景 信息的理解"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D\n【解析】第一步：找出论点和论据。\n论点：甲公司的XN和乙公司的LB人工智能（AI）模型比人类更懂中文。\n论据：这两个AI模型在中文语言理解测评基准（CNBX）上取得了创纪录的分数。CNBX是一套旨在评估机器\n能在多大程度上像人类那样理解中文文本并对其做出反应的体系。\n第二步：逐一分析选项。\nA项：该项说明XN、LB和人类在测试中的得分相差微弱，但XN和LB的得分还是比人类略高，那么二者还\n是有可能比人类更懂中文，不能削弱，排除；\nB项：该项说明CNBX是如何设计的，与XN和LB是否比人类更懂中文无关，不能削弱，排除；\nC项：该项说明当句子被打乱时，许多在理解任务上胜过人类的AI就无法辨别其含义，即在一些情况下人\n工智能（AI）模型并不比人类更懂中文，可以削弱，保留；\nD 项：该项说明是否懂中文不仅在于对中文文本的理解和处理，更在于日常交际中对语言的应答及其背景\n信息的理解，说明即使在理解和处理中文文本方面超过人类，并不意味着比人类更懂中文，为拆桥项，可以削\n弱，保留。\n对比C、D项，C项只说在一些情况下人工智能（AI）模型并不比人类更懂中文，只提及了部分情况，而D\n项为拆桥项，力度更强。\n故正确答案为D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第84题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-085",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "在单位举办的书法、唱歌、舞蹈和乐器 4 项才艺展示活动中，张、王、李 3 人均展示了其中至少 2 项 才艺，并且每项才艺均有他们中的 2 人展示。已知： （1）张、王两人仅有一项才艺展示相同； （2）若李展示了乐器，则张展示了舞蹈，未展示唱歌； （3）若张、王至少有一人展示了舞蹈，则李未展示书法。 根据上述信息，可以得出以下哪项？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "王未展示舞蹈"
+      },
+      {
+        "label": "B",
+        "content": "B．王展示了乐器"
+      },
+      {
+        "label": "C",
+        "content": "张未展示书法"
+      },
+      {
+        "label": "D",
+        "content": "D．张展示了乐器"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n【解析】第一步：分析题干。\n①张、王、李3人均展示了其中至少2项才艺\n②每项才艺均有他们中的2人展示\n③张、王两人仅有一项才艺展示相同\n④李 乐器→张 舞蹈 且—张 唱歌\n⑤张 舞蹈 或王 舞蹈→—李 书法\n第二步：根据题干条件分析选项。\n由于每个才艺均有两人选择，所以张和王无法同时不选舞蹈，所以两人至少有一人选择舞蹈，所以⑤的前\n件必然成立，故李一定不选书法，结合条件②，得出即张、王仅有一项相同的才艺就是书法，排除C项。\n假设李不选择乐器：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第85题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-086",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "以下哪项如果为真，最能支持（1）的论证？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "运动物体的质量不可能无限大"
+      },
+      {
+        "label": "B",
+        "content": "运动物体的能量不可能无限大"
+      },
+      {
+        "label": "C",
+        "content": "相对论的某些观点已经得到了验证"
+      },
+      {
+        "label": "D",
+        "content": "任何物体的加速运动都要受力的作用，而力不可能无限大"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A\n【解析】第一步：找出论点和论据。\n论点：物质的速度不可能超过光速。\n论据：根据相对论，任何物质的质量会随着其速度的增加而增加，且当物质达到光速时质量会无限大，消\n耗的能量也会变得无限大。\n第二步：逐一分析选项。\nA项：选项说明运动物体的质量不可能无限大，且题干说明当物质达到光速时质量会无限大，所以可以推出\n物质的速度不可能达到光速，解释原因，可以加强，当选；\nB项：选项说明运动物体的能量不可能无限大，但不确定运动物体消耗的能量是否完全是物体自身能量，也\n有可能从外界获得能量，故不能说明运动物体消耗的能量是否可以无限大，为不明确项，不能加强，排除；\nC项：选项说明相对论的某些观点已经得到了验证，不能说明物质的速度是否可能超过光速，为不明确项，\n不能加强，排除；\nD 项：选项说明力不可能无限大，与物质的质量和物质消耗的能量是否可以无限大话题不一致，为无关选\n项，排除。\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第86题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-087",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "根据（2）的论述，最可能得出以下哪项？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "相对论是正确的"
+      },
+      {
+        "label": "B",
+        "content": "一个理论如果是正确的，就不可能包含矛盾 B."
+      },
+      {
+        "label": "C",
+        "content": "只要一个理论具有高度的自洽性，那么这个理论就是正确的"
+      },
+      {
+        "label": "D",
+        "content": "D．如果一个理论已经被许多观测所证实，那么它理论上就不可能自相矛盾"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B\n【解析】第一步：翻译题干。\n①理论正确→具有一致性（不矛盾）\n②矛盾→人们会怀疑该理论的正确性\n③相对论具有高度的自洽性\n第二步：逐一分析选项。\nA项：根据③可得：相对论具有高度自洽性，即相对论没有矛盾，是对①的肯后，肯后无必然结论，无法推\n出相对论是正确的，排除；\nB项：翻译为：理论正确→不矛盾，理论正确是对①的肯前，肯前必肯后，推出不矛盾，可以推出，当选；\nC项：翻译为：理论具有高度的自洽性→理论正确，即：不矛盾→理论正确，是对①的肯后，肯后无必然结",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第87题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-088",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "根据（3）的论述，可以得出以下哪项？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "可见物不可能产生场"
+      },
+      {
+        "label": "B",
+        "content": "存在能以超光速运动的物质"
+      },
+      {
+        "label": "C",
+        "content": "以超光速传播的能量不是运动的物质"
+      },
+      {
+        "label": "D",
+        "content": "只有在经典物理学理论中，才存在不能超越光速的物质"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n【解析】日常结论题，根据题干信息逐一分析选项。\nA项：根据第二句话可知，物质有两种，一种是可见物，另一种是场，但并未提及可见物是否能产生场，无\n中生有，无法推出，排除；\nB项：根据最后一句话可知，在经典物理学中，不存在能以超光速运动的物质，选项和题干表述相反，无法\n推出，排除；\nC项：根据最后一句话可知，不存在能以超光速运动的物质，理论上只有能量可以超出光速的速度传播，即\n以超光速传播的能量不是运动的物质，可以推出，当选；\nD项：根据最后一句话可知，在经典物理学中，不存在能以超光速运动的物质，但并未提及其他情况或者理\n论当中是否存在不能超越光速的物质，无法推出，排除。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第88题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-089",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "以下哪项如果为真，最能支持（4）中科学家的质疑？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电磁干扰不会影响信息传输的速度"
+      },
+      {
+        "label": "B",
+        "content": "若经历电磁干扰，信息传输就会消耗能量"
+      },
+      {
+        "label": "C",
+        "content": "只要消耗能量，信息传输就不可能超光速"
+      },
+      {
+        "label": "D",
+        "content": "信息传输需要一定的物质载体，而物质不可能超光速运动"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C\n【解析】\n第一步：找出论点和论据。\n论点：不存在某种方式可以实现信息的超光速传输。\n论据：信息传输需要消耗能量，而这一因素会影响信息的传播速度，况且信息在传输过程中还会经历电磁\n干扰。\n第二步：逐一分析选项。\nA项：选项说明电磁干扰不会影响信息传输的速度，但不确定是否有其他因素影响信息的传播速度，不能说\n明是否存在可以实现信息的超光速传输的方式，为不明确项，不能加强，排除；\nB项：选项说明经历电磁干扰，信息传输就会消耗能量，而消耗能量会影响信息的传播速度，但并未表明是\n否存在可以实现信息的超光速传输的方式，为不明确项，不能加强，排除；\nC 项：选项说明只要消耗能量信息传输就不可能超光速，在论点和论据间建立了联系，为搭桥项，可以加\n强，保留；\nD项：选项说明信息传输需要物质载体，而物质不可能超光速运动，解释了不可以实现信息的超光速传输的\n原因，补充论据，可以加强，保留。\n对比C、D项，搭桥选项的加强力度大于补充论据。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第89题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-090",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "对于（5）的论证，以下哪项评价最为准确？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "使用的是完全归纳论证"
+      },
+      {
+        "label": "B",
+        "content": "使用的是不完全归纳论证 B.D．使用的是事实到理论的演绎论证"
+      },
+      {
+        "label": "C",
+        "content": "使用的是理论到事实的演绎论证"
+      },
+      {
+        "label": "D",
+        "content": "第五部分 综合分析 本部分包括数学方法、策略制定、资料分析和实验设计四种类型的内容。请根据题目要求，在四个选 项中选出一个最恰当的答案。 （一） 某集团下属甲、乙、丙、丁四个工厂生产 A、B、C 三种产品，每天每个工厂只能生产一种产品。已知 三种产品的出厂价都是 1000 元/件，单个工厂的日产量和生产成本如下表所示（日产量单位：件；成本单 位：元/件）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B\n【解析】第一步：找出论点和论据。\n论点：相对论的正确性得到了证实。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第90题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-091",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "如乙、丁两个工厂均需生产三种产品各 12000 件，则乙工厂的用时是丁工厂的多少倍？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.6"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "1.8"
+      },
+      {
+        "label": "D",
+        "content": "2.2"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据材料可知，乙工厂生产三种产品的日产量均为500件，丁工厂生产三种产品的日产量分别为\n600件、800件、1200件，乙工厂生产三种产品的用时为3×12%0\n2=72天；丁工厂生产三种产品的用时为天\n500\n600\n8001200\n45\n故正确答案为A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第91题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-092",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "如果四个工厂都仅生产 A 产品，则单日利润最高的工厂是（ ）。     （三） 实验材料： 2 个盘子、2 个玻璃碗、1 个装满水的喷雾瓶，餐巾纸、食醋、菜籽若干。 实验步骤： ①把玻璃碗分别扣在两个盘子上 ②同样将第二个盘子的纸巾喷水打湿，并在纸巾上加入食醋 ③在两个盘子上分别铺上餐巾纸 ④把两个盘子移到温暖有光照的地方 ⑤把菜籽均匀地撒在两个盘子的纸巾上 ⑥用喷雾瓶向一个盘子中的纸巾喷水，把纸巾打湿 ⑦观察两个盘子中菜籽的发芽情况 实验结果： 喷水盘子中的菜籽陆续发芽了，而加有食醋的盘子中的菜籽却基本没发芽。",
+    "options": [
+      {
+        "label": "A",
+        "content": "甲"
+      },
+      {
+        "label": "B",
+        "content": "乙"
+      },
+      {
+        "label": "C",
+        "content": "丙"
+      },
+      {
+        "label": "D",
+        "content": "丁"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】A产品出厂价为1000元/件，根据公式：总利润单利销量，则甲工厂单日利润=（1000-500）×\n元，丁工厂单日利润=（1000-750）×600=150000元，比较可得丙工厂的单日利润最高。\n故正确答案为C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第92题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-098",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "上述实验步骤的顺序是错乱的，以下哪项是最为合适的实验步骤？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "②⑤①⑥④③⑦"
+      },
+      {
+        "label": "C",
+        "content": "④②③⑤①⑥⑦"
+      },
+      {
+        "label": "B",
+        "content": "③⑥②⑤①④⑦"
+      },
+      {
+        "label": "D",
+        "content": "⑤①④③⑥②⑦"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B\n【解析】本题考查生物实验。\n本题为实验步骤排序题，根据对选项的分析，第一步可能为②、③、④、⑤中任意一个。按顺序进行分析，\n首先排除②，该步骤提到“同样将第二个盘子”进行处理，则在之前必有对第一个盘子的处理，因此可直接观\n察其他步骤，是否有对第一个盘子进行处理的描述，⑥有相关描述，因此⑥应在②之前。\n符合要求的仅有B、D项，只需分析③、⑤的先后即可解决。\n经分析应该先铺纸巾才能将菜籽铺到纸巾上，因此③在⑤之前，只有B项满足要求。\n故正确答案为B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第98题"
+  },
+  {
+    "id": "institution-xingce-panduan-2024-c-099",
+    "subject": "xingce",
+    "category": "panduan",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2024,
+    "content": "本实验的结果不能被用来说明（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "菜籽发芽的条件"
+      },
+      {
+        "label": "B",
+        "content": "醋对种子发芽速度的影响 B.D．不同酸碱度环境对种子发芽的影响"
+      },
+      {
+        "label": "C",
+        "content": "如何在居家环境下种植绿植"
+      },
+      {
+        "label": "D",
+        "content": "100.本实验有助于解释以下哪项？（ ） A．盐碱地农作物歉收的原因 B．酸雨环境不利于农业生产的原因 C．空气不流通不利于农业生产的原因 D．温带农作物产量高于高寒地区的原因     版权所有 复制必究"
+      }
+    ],
+    "answer": "C",
+    "explanation": "8 99.8 1 99.8\n2022年7月同比增量= ×13.8% ≈ × = ≈ 12.5万吨>6万吨；\n1+13.8% 1+ 1 7 8",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "逻辑推理"
+    ],
+    "sourceLabel": "2024年事业编行测（c）第99题"
+  }
+]

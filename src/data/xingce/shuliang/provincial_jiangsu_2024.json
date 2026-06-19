@@ -1,0 +1,705 @@
+[
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "-6，-2，-10，6，-26，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "-90"
+      },
+      {
+        "label": "B",
+        "content": "90"
+      },
+      {
+        "label": "C",
+        "content": "-38"
+      },
+      {
+        "label": "D",
+        "content": "38"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列，无明显特征，优先考虑多级数列。后一项减前一项得到新数列：4，-8，16，-32，（    ），是公比为-2的等比数列，则下一项为（-32）×（-2）=64。故题干所求项为（-26）+64=38。\n故正确答案为D。\n\n[来源 baijing1.top paperId=246 sort=46 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第46题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "81，27，18，18，24，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "36"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "44"
+      },
+      {
+        "label": "D",
+        "content": "48"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列，相邻两项之间存在明显的倍数关系，优先考虑作商数列。后一项除以前一项得到新数列：，，1，，（    ），是公差为的等差数列，则下一项为。故题干所求项为。\n故正确答案为B。\n\n[来源 baijing1.top paperId=246 sort=47 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第47题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "1.1，2.3，5.8，13.21，34.55，（ ）",
+    "options": [
+      {
+        "label": "C",
+        "content": "-38 C.44"
+      },
+      {
+        "label": "D",
+        "content": "38 D.48"
+      },
+      {
+        "label": "A",
+        "content": "89.144"
+      },
+      {
+        "label": "B",
+        "content": "89.151 C.99.144 D.99.151"
+      }
+    ],
+    "answer": "A",
+    "explanation": "观察数列，各项均为小数，优先考虑机械划分数列。整数部分和小数部分分开看无规律，考虑整体\n看。观察发现，后一项整数部分=前一项整数部分+前一项小数部分，则所求项整数部分为 34+55=89；\n后一项小数部分=前一项小数部分+后一项整数部分，则所求项小数部分为 55+89=144。故题干所求项\n为 89.144。\n故正确答案为 A。 2024 江苏省公务员《行测》（A 类）解析\n\n 智库，获取",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第48题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "<img src=\"https://upload.gkzhenti.cn/1723610466613/7cc610acc4a05af18bc3dc2415982615\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/1723610466613/abaa0293af6eaf17f8b2475a1e3b006c\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，9，18，<img src=\"https://upload.gkzhenti.cn/1723610466613/51635fa6dd95ecef036fe1dfe9121e91\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：观察数列，出现根号，将原数列统一转化为根号形式：，，，，，（    ），根号内数字变化趋势较大，可以考虑拆分。则原数列可转化为，，，，，（    ）。根号内数列的左子列分别为1，2，3，4，5，（    ），是自然数数列，则下一项为6；右子列分别为3，9，27，81，243，（    ），是公比为3的等比数列，则下一项为。故题干所求项为。\n方法二：数列局部之间存在明显的倍数关系，优先考虑作商数列。后一项除以前一项得到新数列：，，2，，（    ），进一步可转化为，，，，（    ）。根号内分母部分分别为1，2，3，4，（    ），是自然数数列，则下一项分母部分为5；根号内分子部分分别为6，9，12，15，（    ），是公差为3的等差数列，则下一项分子部分为15+3=18。因此新数列下一项为。故题干所求项为。\n故正确答案为C。\n\n[来源 baijing1.top paperId=246 sort=49 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第49题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2024/q049.png"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "， ， ， ， ，（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "观察数列特征，有整数和根号，优先考虑机械划分。将原数列统一形式，可转化为：，，，，，（    ）。整数部分为：2，4，7，11，16，（    ），无明显规律，考虑作差，后项减前项得到新数列：2，3，4，5，（    ），是连续自然数列，则新数列下一项为6，故所求项的整数部分应为16+6=22；根号内部分为：2，4，6，8，10，（    ），是公差为2的等差数列，则所求项的根号内部分应为10+2=12，故所求项为。\n故正确答案为A。\n\n[来源 baijing1.top paperId=247 sort=50 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第50题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2024/q050.png"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某厂推出含酒的新品种巧克力，每颗的质量为10克，其中含酒2%，售价为17.5元，若酒的密度为0.9克/毫升， 则500毫升酒做成的巧克力销售额为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "35875元"
+      },
+      {
+        "label": "B",
+        "content": "36375元"
+      },
+      {
+        "label": "C",
+        "content": "37625元"
+      },
+      {
+        "label": "D",
+        "content": "39375元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据公式：质量=密度×体积，可得 500 毫升酒的质量=0.9×500=450 克，每颗巧克力含酒质量\n\n=10×2%=0.2 克。则 500 毫升酒做成的巧克力销售额\n\n元。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第51题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一列长为210米的动车以180千米/小时的速度行驶。某乘客拍窗外风景视频时，恰好拍到平行铁轨上一列长420 米、相向而行的高速列车，该高速列车经过窗户的时间是3.6秒。若不计窗户长度，则该高速列车的速度为 第8⻚，共25⻚ （ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "210千米/时"
+      },
+      {
+        "label": "B",
+        "content": "240千米/时"
+      },
+      {
+        "label": "C",
+        "content": "450千米/时"
+      },
+      {
+        "label": "D",
+        "content": "630千米/时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如下图所示，乘客拍到该高速列车即为车窗与平行列车的车头相对重合，该高速列车完全经过即为\n车窗与平行列车的车尾相对重合，则本题可转化为车窗与平行列车车尾的相遇问题，相遇距离即为\n\n平 行 列 车 的 车 长 。 根 据 相 遇 公 式 ：\n\n， 可 得\n\n时。\n\n千米/时，则该高速列车的速度=420-180=240 千米/ 2024 江苏省公务员《行测》（A 类）解析\n\n 智库，获取\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第52题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某商店购进一款无线路由器，进价100元/个，加价30%出售，半年后将剩下的打7折全部售出，共盈利7410元。 若成本利润率为19%，则打7折售出的无线路由器共有（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "90个"
+      },
+      {
+        "label": "B",
+        "content": "100个"
+      },
+      {
+        "label": "C",
+        "content": "105个"
+      },
+      {
+        "label": "D",
+        "content": "110个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设打 7 折售出的无线路由器数量为 x 个，打折前售出的无线路由器数量为 y 个。根据题意则有：\n\n理可得：30y-9x=7410⋯⋯①；x+y=390⋯⋯②，解得 x=110。 \n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第53题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "市社保中心引进机器人提高服务效率。某岗位小张、小王和小李完结一单任务分别需要6分钟、5分钟和4分 钟，3人一天最多可完结259单。机器人处理一单仅需2分钟，处理工单中的80%可正常完结，剩余的20%仍需人 工重新办理。若某天小张出差，则当天小王、小李和机器人（机器人与人的工作时间相同）最多可以完结的工 单总量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "357单"
+      },
+      {
+        "label": "B",
+        "content": "399单"
+      },
+      {
+        "label": "C",
+        "content": "427单"
+      },
+      {
+        "label": "D",
+        "content": "469单"
+      }
+    ],
+    "answer": "A",
+    "explanation": "；\n\n，整\n\n根据题意可知，小张、小王和小李每小时完结任务的单数分别为\n\n单、\n\n单和\n\n单，3 人一天最多可完结 259 单，则一天工作时间为\n\n小时。已知机\n\n器人每小时可处理\n\n单，处理工单中的 80%可正常完结，剩余 20%仍需人工重新办理，若机\n\n器人剩余工单由人工重新办理，那么在相同时间内，人工少做的单数与其相同，故无需考虑机器人\n处理失败的单数，由此可得当天小王、小李和机器人最多可完结 30×7×80%+7×（12+15）=7×（24+27）\n=357 单。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第54题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某超市为回馈消费者，将举办购物抽奖活动。每人只能抽奖一次，奖金有三种：一等奖888元，二等奖88元， 三等奖8元。若前100个中奖者的奖金总额为2480元，则其中获得三等奖的最少有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "95人"
+      },
+      {
+        "label": "B",
+        "content": "89人"
+      },
+      {
+        "label": "C",
+        "content": "79人"
+      },
+      {
+        "label": "D",
+        "content": "69人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设获得一、二、三等奖的人数分别为 x 人、y 人、z 人，根据前 100 个中奖者的奖金总额为 2480 元，\n\n可 列 方 程 组 ：\n\n， 整 理 可 得 ：\n\n，①×11-②得到：10z-100x=790，即 z=10x+79。若想\n要获得三等奖的人数 z 最少，则 x 应尽量小，则当 x=0 时，z=79，即获得三等奖的最少有 79 人。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第55题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "已知某家族4位成员的年龄总和为142岁，且他们的年龄恰好成等差数列，若其中一位的年龄为47岁，则这4人 中最年长者的年龄为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "65岁"
+      },
+      {
+        "label": "B",
+        "content": "70岁"
+      },
+      {
+        "label": "C",
+        "content": "83岁"
+      },
+      {
+        "label": "D",
+        "content": "90岁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据选项可知，47 岁不是最年长者的年龄。又根据等差数列性质可知，4 位成员中，第二大和第三 2024 江苏省公务员《行测》（A 类）解析\n\n 智库，获取\n\n大的年龄和为\n\n岁，且由于\n\n，则 47 岁应是第二大的年龄，那么第三\n\n大的年龄为 71-47=24 岁，年龄公差为 47-24=23 岁，故这 4 人中最年长者的年龄为 47+23=70 岁。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第56题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小王去超市买办公用品，经费恰好可以买18个计算器或者买30个订书机或者买50个档案盒，若购买了6个计算 器、8个订书机后，剩下的经费全部购买了档案盒，则他购买档案盒的个数是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "14"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "26"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：赋值小王购买办公用品的经费为 450（18、30 和 50 的最小公倍数）元，则每个计算器为\n\n元，每个订书机为\n\n元，每个档案盒为\n\n元。若小王购买了 6 个计\n\n算器、8 个订书机，则剩余经费为 450-25×6-15×8=180 元，还可购买档案盒\n\n个。 \n\n方法二：设小王购买办公用品的经费为 a 元，计算器的价格为 x 元/个，订书机的价格为 y 元/个，\n\n档案盒的价格为 z 元/个。根据题意可得：a=18x=30y=50z，即\n\n，\n\n，\n\n。若\n\n小王购买了 6 个计算器、8 个订书机，则剩余经费为\n\n元，还可购\n\n买档案盒\n\n个。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第57题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某品牌奶茶所用纸杯均为圆台型。已知M型纸杯的上、下口直径分别为70毫米、50毫米，高为80毫米；N型纸杯 的上、下口直径分别为60毫米、45毫米，高为60毫米。则M型纸杯与N型纸杯的侧面积之比为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "16：7"
+      },
+      {
+        "label": "B",
+        "content": "32：21"
+      },
+      {
+        "label": "C",
+        "content": "48：35"
+      },
+      {
+        "label": "D",
+        "content": "64：49"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查求圆台的侧面积，\n\n，其中 r 和 R 分别为上、下底面的半径，l 为侧\n\n面 母 线 长 （ 如 下 图 所 示 ）。 M 型 纸 杯 ：\n\n毫 米 ，\n\n毫 米 ， 则\n\nr=22.5 毫米，R=30 毫米，则\n\n所求比例为\n\n。\n\n毫 米 ；N 型 纸 杯 ：\n\n毫米。故 2024 江苏省公务员《行测》（A 类）解析\n\n 智库，获取\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第58题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小张所在单位共有4个科室，现以科室为单位组织文艺演出，每个科室出2个节目。演出结束后，因8个节目都 非常精彩，决定从中随机选3个节目参加上级组织的汇演。则小张所在科室出的节目至少有一个被选送参加汇 演的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.6"
+      },
+      {
+        "label": "B",
+        "content": "0.75"
+      },
+      {
+        "label": "C",
+        "content": "0.8"
+      },
+      {
+        "label": "D",
+        "content": "0.85"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题意，总情况是从 8 个节目中随机选出 3 个，情况数为 种；符合条件的情况是小张所在科\n\n室出的 2 个节目中至少有一个被选送，即有 1 个节目或者 2 个节目被选送。正面情况较复杂，可从\n反面分析。反面情况为 3 个选送节目均不来自小张所在的科室，则从另外 8-2=6 个节目中随机选出\n\n3 个，情况数为 种。故题干所求概率\n\n。 \n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第59题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某夫妇拟从2023年12月1日（星期五）起实施健身计划。妻子的计划是当天的日期为质数就游泳，丈夫的计划 是每周一、三、五游泳。按该夫妇的计划，他们2023年12月同日游泳的天数是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "C",
+    "explanation": "因丈夫每周一、三、五游泳，且 2023 年 12 月 1 日为周五，所以 2023 年 12 月丈夫前三次游泳的日\n期为 1 日（周五）、4 日（周一）、6 日（周三），以 7 天一星期的周期进行推算，2023 年 12 月丈夫游\n泳的日期如下表所示： \n\n其中日期为质数的有 11 日、13 日、29 日，共 3 天，即该夫妇 2023 年 12 月同日游泳的天数是 3 天。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第60题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙、丙三人合作完成一项任务。乙先做9天，再和甲合作6天，完成了任务的60%，剩下的任务，若由丙 做，恰好10天完成。甲、乙、丙三人的工作效率之比是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5：4：6"
+      },
+      {
+        "label": "B",
+        "content": "6：4：5"
+      },
+      {
+        "label": "C",
+        "content": "10：15：12"
+      },
+      {
+        "label": "D",
+        "content": "12：15：10 第9⻚，共25⻚"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可得，9×乙+6×（甲+乙）=60%×工作总量······①，10×丙=（1-60%）×工作总\n\n量······②，①÷②可得：\n\n，则 2 甲\n\n+5 乙=5 丙，依次代入选项：\nA 项：赋值甲、乙、丙三人的工作效率分别为 5、4、6，则 2×5+5×4=30=5×6，满足题干条件，当\n选； 2024 江苏省公务员《行测》（A 类）解析\n\n 智库，获取\n\nB 项：赋值甲、乙、丙三人的工作效率分别为 6、4、5，则\n\n，不满足题\n\n干条件，排除；\n\nC 项：赋值甲、乙、丙三人的工作效率分别为 10、15、12，则\n\n不满足题干条件，排除；\n\nD 项：赋值甲、乙、丙三人的工作效率分别为 12、15、10，则\n\n不满足题干条件，排除。\n故正确答案为 A。\n\n，\n\n，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第61题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某公司派出5名人力资源专员去2个一线城市和2个二线城市参加秋季招聘会。若每名专员只去其中1个城市，每 个一线城市至少派1名专员，每个二线城市只派1名专员，则不同的派出方法共有（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "60种"
+      },
+      {
+        "label": "B",
+        "content": "72种"
+      },
+      {
+        "label": "C",
+        "content": "120种"
+      },
+      {
+        "label": "D",
+        "content": "144种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "5 名专员分配到 4 个城市，其中每个一线城市至少派 1 名专员，每个二线城市只派 1 名专员，则 5 名\n专员中有 3 名专员分配到 2 个一线城市（分别为 2 名专员和 1 名专员），其余 2 名专员分配到 2 个二\n线城市（各 1 名专员）。从 5 名专员中选出 2 名专员，再从剩下 3 名专员中选出 1 名专员，这两组人\n\n分配到 2 个一线城市，有\n\n种；剩下 2 名专员分配到 2 个二线城市，有\n\n种。分步用乘法，则不同的派出方法共有 60×2=120 种。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第62题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小陆参加植树活动，他到达植树地点时，第一排预设点位中的9个已有人在植树，若他在第一排剩余的任意点 位上植树，都恰好有一个相邻点位有人在植树，则该植树点第一排的预设点位最多有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "27个"
+      },
+      {
+        "label": "B",
+        "content": "28个"
+      },
+      {
+        "label": "C",
+        "content": "29个"
+      },
+      {
+        "label": "D",
+        "content": "30个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，小陆在第一排剩余的任意点位上植树，都恰好有一个相邻点位有人在植树，且要求预设\n点位数尽可能多，则每个已有人在植树的点位之间应该有两个无人植树的点位，如下图所示。（圆形\n和三角形分别代表无人植树和已有人在植树的点位） \n\n为使预设点位数尽可能多，则第一个已有人在植树的点位左侧最多可安排一个无人植树的点位，最\n后一个已有人在植树的点位右侧最多可安排一个无人植树的点位，如下图所示。 \n\n即相当于每 3 个点位为一个周期，每个周期中有 1 个已有人在植树的点位，且位于中间位置。根据\n已有人在植树的点位有 9 个，则该植树点第一排最多有 9×3=27 个预设点位。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第63题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某基层工会共有180名会员，举行甲、乙两项工会活动，60%的会员参加甲活动，50%的会员参加参加乙活动， 若只参加甲活动的会员有80人，则只参加乙活动的会员有（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "10人"
+      },
+      {
+        "label": "B",
+        "content": "28人"
+      },
+      {
+        "label": "C",
+        "content": "62人"
+      },
+      {
+        "label": "D",
+        "content": "72人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得，参加甲活动的会员人数为 180×60%=108 人，参加乙活动的会员人数为 180×50%=90\n人，根据“只参加甲活动的会员有 80 人”，可得甲、乙两项活动都参加的会员人数为 108-80=28 人，\n如下图所示： 2024 江苏省公务员《行测》（A 类）解析\n\n 智库，获取\n\n则只参加乙活动的会员有 90-28=62 人。\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第64题",
+    "region": "jiangsu"
+  },
+  {
+    "id": "provincial-jiangsu-xingce-shuliang-2024-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "如图所示，ABCDEF是一个边长为2的正六边形，圆O是 的内切圆，则圆O的面积是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：由于ABCDEF是正六边形，可得AC=CE=EA，即为正三角形，则内切圆的圆心O即为正六边形ABCDEF的中心。作的中线AH，连接FO，为正三角形，如下图所示：\n\n已知AF=FE=2，且正六边形内角，则，。在直角中，，，且AO=AF=2，所以所求圆半径OH=AH-AO=3-2=1，所求圆面积。\n方法二：如下图所示，连接AO、FO，为正三角形，由于AO为的中线且，则，AG为的中线，即所求圆半径，所求圆面积。\n\n故正确答案为A。\n\n[来源 baijing1.top paperId=246 sort=65 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考jiangsu行测第65题",
+    "region": "jiangsu",
+    "questionImage": "/img/questions/provincial_jiangsu_2024/q065.png"
+  }
+]

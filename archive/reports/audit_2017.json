@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-05-01T12:47:47.179167Z",
+  "source": "national",
+  "filters": {
+    "year": "2017"
+  },
+  "summary": {
+    "examCount": 2,
+    "issueCount": 2,
+    "readyCount": 0
+  },
+  "exams": [
+    {
+      "key": "national_2017_dishi",
+      "source": "national",
+      "year": "2017",
+      "level": "dishi",
+      "actualTotal": 130,
+      "expectedTotal": 130,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 10,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2017-dishi-064",
+              "number": 64,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-shuliang-2017-dishi-067",
+              "number": 67,
+              "optionCount": 2
+            },
+            {
+              "id": "national-xingce-ziliao-2017-dishi-114",
+              "number": 114,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-ziliao-2017-dishi-127",
+              "number": 127,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    },
+    {
+      "key": "national_2017_fushengjia",
+      "source": "national",
+      "year": "2017",
+      "level": "fushengjia",
+      "actualTotal": 135,
+      "expectedTotal": 135,
+      "actualModules": {
+        "changshi": 20,
+        "panduan": 40,
+        "shuliang": 15,
+        "yanyu": 40,
+        "ziliao": 20
+      },
+      "expectedModules": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 15,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "issues": [
+        {
+          "type": "invalid_option_count",
+          "items": [
+            {
+              "id": "national-xingce-shuliang-2017-fushengjia-065",
+              "number": 65,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-shuliang-2017-fushengjia-073",
+              "number": 73,
+              "optionCount": 3
+            },
+            {
+              "id": "national-xingce-ziliao-2017-fushengjia-119",
+              "number": 119,
+              "optionCount": 0
+            },
+            {
+              "id": "national-xingce-ziliao-2017-fushengjia-133",
+              "number": 133,
+              "optionCount": 3
+            }
+          ]
+        }
+      ],
+      "issueCount": 1,
+      "ready": false
+    }
+  ]
+}

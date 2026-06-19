@@ -1,0 +1,565 @@
+[
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年 6 月下旬，价格按从高到低排列居于第六位的生产资料是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "苯乙烯"
+      },
+      {
+        "label": "B",
+        "content": "聚乙烯"
+      },
+      {
+        "label": "C",
+        "content": "聚丙烯"
+      },
+      {
+        "label": "D",
+        "content": "涤纶长丝"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019 年 6 月下旬，价格按从高到低排列居于第六位······”，结合材料时间为 2019\n，定位表格材料可得：第 1\n元/吨；第\n元/吨；第 5\n\n年 7 月上旬，可判定本题为基期比较问题。根据公式，基期量\n名是电解铜，\n3 名是铅锭，\n名是顺丁胶，\n\n元/吨；第 4 名是铝锭，\n元/吨；第 6 名是苯乙烯，\n\n元/吨；第 2 名是锌锭，\n\n元/吨。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第106题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2021/q106.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年 7 月上旬，价格环比涨幅超过 的生产资料有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6 种"
+      },
+      {
+        "label": "B",
+        "content": "7 种"
+      },
+      {
+        "label": "C",
+        "content": "8 种 25"
+      },
+      {
+        "label": "D",
+        "content": "9 种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年 7 月上旬，价格环比涨幅超过 的生产资料有”，可判定本题为一般增长率计算问\n\n题。根据公式，增长率\n\n。定位表格数据，可知 2019 年 7 月上旬：螺纹钢价格环比\n\n；线材价格环比\n\n；热轧普通薄板价格环比\n\n；纯苯价格环比\n\n；苯乙烯价格环比\n\n；聚乙烯价格环比\n\n；聚丙烯价格环比",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第107题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年 6 月下旬，电解铜的价格约是无缝钢管的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9.5 倍"
+      },
+      {
+        "label": "B",
+        "content": "9.8 倍"
+      },
+      {
+        "label": "C",
+        "content": "10.1 倍"
+      },
+      {
+        "label": "D",
+        "content": "10.4 倍"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2019 年 6 月下旬······”，材料给的时间是 2019 年 7 月上旬，并结合选项，可判定\n\n本题为基期倍数问题。根据基期倍数定义，定位表格数据，可得基期倍数\n\n倍。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第108题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "按照 2019 年 7 月上旬的环比涨跌幅，2019 年 7 月中旬聚乙烯的价格约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "7929.1 元/吨"
+      },
+      {
+        "label": "B",
+        "content": "8031.5 元/吨"
+      },
+      {
+        "label": "C",
+        "content": "8134.3 元/吨"
+      },
+      {
+        "label": "D",
+        "content": "8236.9 元/吨"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“按照 2019 年 7 月上旬的环比涨跌幅，2019 年 7 月中旬聚乙烯的价格约为”，结合选项单位\n为元/吨，可判定本题为现期计算问题。定位表格数据：2019 年 7 月上旬聚乙烯的价格为 8081.7 元/吨，比\n\n上期价格上涨 152.6 元/吨，则 2019 年 7 月上旬环比涨幅为\n\n，因此 2019 年 7\n\n月中旬聚乙烯的价格为\n\n元/吨，与 D 项最接近。\n\n秒杀技巧：2019 年 7 月上旬聚乙烯的价格为 8081.7 元/吨，比上期价格上涨 152.6 元/吨，按照 2019\n年 7 月上旬环比涨跌幅，因基期量变大，则 2019 年 7 月中旬的增长量应大于 152.6 元/吨，因此 2019 年 7\n月中旬聚乙烯的价格\n元/吨，只有 D\n项符合。\n\n元/吨，即 2019 年 7 月中旬聚乙烯的价格\n\n元/吨\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第109题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年 6 月下旬，烧碱的价格比甲醇低 1401 元/吨"
+      },
+      {
+        "label": "B",
+        "content": "2019 年 7 月上旬，黑色金属中的线材价格环比涨幅最快"
+      },
+      {
+        "label": "C",
+        "content": "2019 年 6 月下旬，铝锭、铅锭、锌锭三者的价格之和比电解铜高 2948.9 元/吨"
+      },
+      {
+        "label": "D",
+        "content": "2019 年 7 月上旬，化工产品中按价格从高到低排名前三位的是顺丁胶，涤纶长丝，苯乙烯"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位表格材料，2019 年 6 月下旬，烧碱的价格比甲醇低\n\n/吨（可利用尾数法判定），并非低 1401 元/吨，错误；\n\n元\n\nB 项：增长率的比较，直接比较\n\n大小即可，2019 年 7 月上旬，螺纹钢该数据\n\n线材该数\n\n据\n\n，说明螺纹钢价格环比涨幅大于线材价格环比涨幅，而非黑色金属中的线材价格环比涨幅最快，\n\n错误；\n\nC 项：定位表格材料，2019 年 6 月下旬，铝锭、铅锭、锌锭三者的价格之和为\n\n元/吨，铝锭、铅锭、锌锭三者的价格之和比电解铜高\n\n元\n\n元/吨，电解铜价格为\n\n/吨（可利用尾数法判定），并非高 2948.9 元/吨，错误；\n\nD 项：定位表格材料，2019 年 7 月上旬，化工产品中按价格从高到低排名前三位的是顺丁胶（10505.0\n\n元/吨），涤纶长丝（8996.9 元/吨），苯乙烯（8994.1 元/吨），正确。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第110题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "截至 2019 年 12 月 31 日，新中国成立后至党的十八大前入党的人数约是其余时间入党人数的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.8 倍"
+      },
+      {
+        "label": "B",
+        "content": "4.1 倍"
+      },
+      {
+        "label": "C",
+        "content": "4.6 倍"
+      },
+      {
+        "label": "D",
+        "content": "5.1 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“2019 年 12 月 31 日······是······”，结合选项求倍数，且材料时间为 2019\n年 12 月 31 日，可判定本题为现期倍数问题。定位文字材料第一段可得“在党员的入党时间上，新中国成\n立前入党的 17.4 万名，新中国成立后至党的十一届三中全会前入党的 1550.9 万名，党的十一届三中全会\n后至党的十八大前入党的 6127.7 万名，党的十八大以来入党的 1495.6 万名。”则新中国成立后至党的十\n，故新中\n八大前入党的人数为\n\n，其余时间入党人数为\n\n国成立后至党的十八大前入党的人数约是其余时间入党人数的\n\n。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第111题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2021/q111.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "截至 2019 年 12 月 31 日，资料所列 8 种党员职业类型中，党员人数占比不低于 的有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3 类"
+      },
+      {
+        "label": "B",
+        "content": "4 类"
+      },
+      {
+        "label": "C",
+        "content": "5 类"
+      },
+      {
+        "label": "D",
+        "content": "6 类"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019 年 12 月 31 日······占比不低于······”，结合材料时间为 2019 年 12\n月 31 日，可判定本题为现期比重问题。定位文字材料第一段可得“中国共产党党员总数为 9191.6 万名，…\n在党员的职业上，工人（含工勤技能人员）644.5 万名，农牧渔民 2556.1 万名，企事业单位、社会组织专\n业技术人员 1440.3 万名，企事业单位、社会组织管理人员 1010.4 万名，党政机关工作人员 767.8 万名，\n学生 196.0 万名，其他职业人员 710.4 万名，离退休人员 1866.1 万名。”则 2019 年 12 月 31 日中国共产\n党党员总数的\n。故党员人数占比不低于 的有农牧渔民\n2556.1 万名，企事业单位、社会组织专业技术人员 1440.3 万名，离退休人员 1866.1 万名，共 3 类。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第112题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2018 年，发展党员数占同期党员总数的比例约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "27982 亿元"
+      },
+      {
+        "label": "B",
+        "content": "29255 亿元"
+      },
+      {
+        "label": "C",
+        "content": "40521 亿元"
+      },
+      {
+        "label": "D",
+        "content": "41787 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2018 年······占······的比例约为”，结合材料时间为 2019 年，可判定本题\n为基期比重问题。定位文字材料第一段可得“截至 2019 年 12 月 31 日，中国共产党党员总数为 9191.6 万\n（b）”，定位文字材料第二段可得“2019 年共发展党员 234.4 万名（A），比上\n名（B），同比增长\n年增长\n\n（a）”。根据基期比重公式可得：\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第113题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "截至 2019 年 12 月 31 日，55 岁以上党员人数比 46 岁以下党员人数：",
+    "options": [
+      {
+        "label": "A",
+        "content": "多"
+      },
+      {
+        "label": "B",
+        "content": "少"
+      },
+      {
+        "label": "C",
+        "content": "多"
+      },
+      {
+        "label": "D",
+        "content": "少"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······55 岁以上党员人数比 46 岁以下党员人数”，结合选项，可判定本题为一般增\n长率计算问题。定位图形材料可得：截至 2019 年 12 月 31 日，55 岁以上党员人数为 56 至 60 岁、61 岁及\n万名；46 岁以下党员人数为 41 至 45 岁、36 至 40 岁、\n以上两部分人数的加和，即\n万名。则 55 岁以上\n31 至 35 岁、30 岁及以下四部分人数的加和，即\n\n党员人数比 46 岁以下党员人数少\n\n，最接近 B 项。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第114题",
+    "region": "heilongjiang",
+    "questionImage": "/img/questions/provincial_heilongjiang_2021/q114.png"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "不能从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年发展的党员人数中，学生党员占比超过"
+      },
+      {
+        "label": "B",
+        "content": "截至 2019 年 12 月 31 日，55 岁以下党员占党员总数的比不超过 27"
+      },
+      {
+        "label": "C",
+        "content": "截至 2019 年 12 月 31 日，61 岁及以上的党员人数中，新中国成立前入党的不超过"
+      },
+      {
+        "label": "D",
+        "content": "截至 2019 年 12 月 31 日，从事农牧渔民职业的党员人数与工人（含工勤技能人员）党员人数之比 超过"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位文字材料第二段：“2019 年共发展党员 234.4 万名，……发展学生 84.4 万名”，则 2019\n\n年发展的党员人数中，学生党员占比为\n\n，说法正确，排除；\n\nB 项：定位图 1，截至 2019 年 12 月 31 日，55 岁及以上党员人数\n\n，则 55\n\n岁以下党员占党员总数的比\n\n55 岁及以上党员占党员总数的比\n\n，说法正确，排除；\n\nC 项：定位文字材料第一段，新中国成立前入党的 17.4 万名；定位图 1，截至 2019 年 12 月 31 日 61\n\n岁以上党员人数为 2657.7 万名。而截至 2019 年 12 月 31 日，新中国成立前入党的人员都已满 61 岁。故 61\n\n岁及以上的党员人数中，新中国成立前入党的人数占比为\n\n，说法正确，排除；\n\nD 项：定位文字材料第一段：“在党员的职业上，工人（含工勤技能人员）644.5 万名，农牧渔民 2556.1\n\n万名”，则从事农牧渔民职业的党员人数与工人（含工勤技能人员）党员人数之比为\n\n，说法错误，当选。\n\n本题为选非题，故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第115题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2018 年第一季度，131 家证券公司代理买卖证券业务净收入（含席位租赁）约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "184.6 亿元"
+      },
+      {
+        "label": "B",
+        "content": "190.1 亿元"
+      },
+      {
+        "label": "C",
+        "content": "194.7 亿元"
+      },
+      {
+        "label": "D",
+        "content": "204.2 亿元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "35\n\n\f根据题干“2018 年第一季度······代理买卖证券业务净收入（含席位租赁）约为”，结合材料\n时间为 2019 年第一季度，可判定本题为基期计算问题。定位文字材料第二段可得“代理买卖证券业务净收\n\n入（含席位租赁）221.49 亿元，同比增长\n\n”。根据基期量\n\n，故 2018 年第一季度，131 家证\n\n券公司代理买卖证券业务净收入（含席位租赁）\n\n亿元，与 C 项最接近。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第116题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2018 年第一季度，131 家证券公司资产管理业务净收入与同期利息净收入相比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "少了 2.0 亿元"
+      },
+      {
+        "label": "B",
+        "content": "多了 2.0 亿元"
+      },
+      {
+        "label": "C",
+        "content": "少了 3.1 亿元"
+      },
+      {
+        "label": "D",
+        "content": "多了 3.1 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2018 年第一季度······业务净收入与······利息净收入相比约”，结合选项\n为“多了/少了······亿元”，材料时间为 2019 年第一季度，可判定本题为基期和差问题。定位文\n······利息净收入 69.04 亿\n字材料第二段可得“资产管理业务净收入 57.33 亿元，同比下降\n\n元，同比增长\n\n”。根据基期量\n\n，则 2018 年第一季度，131 家证券公司资产管理业务净收入\n\n与同期利息净收入的差值为\n\n近。\n\n亿元，与 B 项最接\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第117题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年第一季度，131 家证券公司总资产的同比增速约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30"
+      },
+      {
+        "label": "B",
+        "content": "34.5"
+      },
+      {
+        "label": "C",
+        "content": "40.5"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2019 年第一季度······同比增速约为”，可判定本题为一般增长率问题。定位文字\n材料第三段可得“2019 年第一季度，131 家证券公司总资产为 7.05 万亿元，比上年一季度同期增加 0.64\n\n万亿元”。根据增长率\n\n，则 2019 年第一季度，131 家证券公司总资产的同比增速\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第118题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "2019 年第一季度，131 家证券公司客户交易结算资金余额（含信用交易资金）的同比增速与受托管理 资金本金总额的同比降速相比约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "多了"
+      },
+      {
+        "label": "B",
+        "content": "少了"
+      },
+      {
+        "label": "C",
+        "content": "多了"
+      },
+      {
+        "label": "D",
+        "content": "少了"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2019 年第一季度······同比增速······”，可判定本题为一般增长率问题。\n定位文字材料第四段，“2019 年第一季度 131 家证券公司客户交易结算资金余额（含信用交易资金）1.50\n万亿元，比上年一季度同期增加 0.32 万亿元；受托管理资金本金总额 14.11 万亿元，比上年一季度同期下\n\n降 2.82 万亿元”。根据公式\n\n，则 131 家证券公司客户交易结算资金余额（含信\n\n用交易资金）增速为\n\n；受托管理资金本金总额的同比降速为\n\n，两者相比\n\n，最接近 A 项。\n\n故正确答案为 A。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第119题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "关于证券公司 2019 年第一季度经营数据，下列说法正确的是： 28",
+    "options": [
+      {
+        "label": "A",
+        "content": "131 家证券公司总资产比净资产少了 4.11 亿元"
+      },
+      {
+        "label": "B",
+        "content": "131 家证券公司财务顾问业务净收入的同比增长率为"
+      },
+      {
+        "label": "C",
+        "content": "131 家证券公司净资产的同比增长金额低于净资本的同比增长金额"
+      },
+      {
+        "label": "D",
+        "content": "131 家证券公司资产管理业务净收入占当期实现营业收入的比重约为 29"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 项：定位文字材料第三段可得，2019 年第一季度，131 家证券公司总资产为 7.05 万亿元，净资产为\n\n1.94 万亿元。故 131 家证券公司总资产比净资产多\n\n万亿元，非少了 4.11 亿元，错误；\n\nB 项：定位文字材料第二段可得，财务顾问业务净收入同比增长\nC 项：定位文字材料第三段可得，2019 年第一季度，131 家证券公司净资产为 1.94 万亿元，比上年一\n季度同期增加 0.05 万亿元；净资本为 1.62 万亿元，比上年一季度同期增加 0.02 万亿元。0.05 万亿元 0.02\n万亿元，故 131 家证券公司净资产的同比增长金额高于净资本的同比增长金额，错误；\n\n，故增长率不是\n\n，错误；",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第120题",
+    "region": "heilongjiang"
+  },
+  {
+    "id": "provincial-heilongjiang-xingce-ziliao-2021-024",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2021,
+    "content": "《周书》曰：“小满之日苦菜秀。”小满时节，麦类、谷物等农作物子粒开始饱满，但尚未成熟，恰\n是青黄不接的时候。而田间地头的野菜正蓬勃生长，采食野菜来度过饥荒，自是\n。\n填入划横线部分最恰当的一项是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "“不容置疑”指不允许加以怀疑，形容绝对真实可信，强调论证\n严密，无可怀疑，程度过重，排除；"
+      },
+      {
+        "label": "B",
+        "content": "【文段出处】《节气｜小满初晴麦气薰》"
+      },
+      {
+        "label": "C",
+        "content": "“水到渠成”比喻条件成熟，事情自然成功，文段并未体现“条件\n成熟”之意，与文意不符，排除；"
+      },
+      {
+        "label": "D",
+        "content": "“理所当然”指从道理上讲应当这样，强调应当如此，文段并未强调\n理应如此，而是强调顺应某种情况自然发生的结果，与文意不符，排除。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由“麦类、谷物······尚未成熟······而田间地头的野菜正蓬勃生长”可知，人们在谷\n物青黄不接时可食用野菜充饥，故横线处应表达在没有食物可吃的情况下，人们采食田间地头的野菜是自\n然而然发生的事情。B 项“顺理成章”既指写文章或做事情，顺着条理就能做好，也指某种情况合乎情理，\n自然产生某种结果，符合文意，当选。A 项“不容置疑”指不允许加以怀疑，形容绝对真实可信，强调论证\n严密，无可怀疑，程度过重，排除；C 项“水到渠成”比喻条件成熟，事情自然成功，文段并未体现“条件\n成熟”之意，与文意不符，排除；D 项“理所当然”指从道理上讲应当这样，强调应当如此，文段并未强调\n理应如此，而是强调顺应某种情况自然发生的结果，与文意不符，排除。\n\n故正确答案为 B。\n【文段出处】《节气｜小满初晴麦气薰》",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年省考heilongjiang行测第24题",
+    "region": "heilongjiang"
+  }
+]

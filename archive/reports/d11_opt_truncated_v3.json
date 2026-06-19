@@ -1,0 +1,765 @@
+{
+  "count": 95,
+  "items": [
+    {
+      "qid": "provincial-guangdong-xingce-changshi-2020-071",
+      "label": "D",
+      "old_len": 717,
+      "new_len": 24,
+      "iters": 1,
+      "last_pat": 8
+    },
+    {
+      "qid": "provincial-guangxi-xingce-changshi-2023-095",
+      "label": "D",
+      "old_len": 609,
+      "new_len": 172,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-guangxi-xingce-changshi-2023-105",
+      "label": "D",
+      "old_len": 329,
+      "new_len": 223,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-099",
+      "label": "D",
+      "old_len": 612,
+      "new_len": 169,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-guizhou-xingce-changshi-2023-100",
+      "label": "D",
+      "old_len": 329,
+      "new_len": 222,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-hainan-xingce-changshi-2023-105",
+      "label": "D",
+      "old_len": 408,
+      "new_len": 262,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-hebei-xingce-changshi-2023-120",
+      "label": "D",
+      "old_len": 250,
+      "new_len": 222,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-hebei-xingce-changshi-2023-125",
+      "label": "D",
+      "old_len": 816,
+      "new_len": 90,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-henan-xingce-changshi-2023-105",
+      "label": "D",
+      "old_len": 629,
+      "new_len": 220,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-henan-xingce-changshi-2023-110",
+      "label": "D",
+      "old_len": 369,
+      "new_len": 261,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-hubei-xingce-changshi-2023-105",
+      "label": "D",
+      "old_len": 786,
+      "new_len": 62,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-hubei-xingce-changshi-2023-120",
+      "label": "D",
+      "old_len": 236,
+      "new_len": 223,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-hunan-xingce-changshi-2023-105",
+      "label": "D",
+      "old_len": 414,
+      "new_len": 61,
+      "iters": 1,
+      "last_pat": 21
+    },
+    {
+      "qid": "provincial-hunan-xingce-changshi-2023-115",
+      "label": "D",
+      "old_len": 598,
+      "new_len": 162,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-liaoning-xingce-changshi-2023-099",
+      "label": "D",
+      "old_len": 364,
+      "new_len": 82,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-liaoning-xingce-changshi-2023-115",
+      "label": "D",
+      "old_len": 754,
+      "new_len": 84,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-qinghai-xingce-changshi-2023-110",
+      "label": "D",
+      "old_len": 368,
+      "new_len": 24,
+      "iters": 1,
+      "last_pat": 21
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-changshi-2023-100",
+      "label": "D",
+      "old_len": 303,
+      "new_len": 18,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-changshi-2023-105",
+      "label": "D",
+      "old_len": 244,
+      "new_len": 231,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shaanxi-xingce-changshi-2023-110",
+      "label": "D",
+      "old_len": 814,
+      "new_len": 90,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shanghai-xingce-changshi-2021-017",
+      "label": "D",
+      "old_len": 473,
+      "new_len": 14,
+      "iters": 1,
+      "last_pat": 11
+    },
+    {
+      "qid": "provincial-shanxi-xingce-changshi-2023-110",
+      "label": "D",
+      "old_len": 813,
+      "new_len": 11,
+      "iters": 1,
+      "last_pat": 21
+    },
+    {
+      "qid": "provincial-shanxi-xingce-changshi-2023-115",
+      "label": "D",
+      "old_len": 322,
+      "new_len": 37,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shanxi-xingce-changshi-2023-120",
+      "label": "D",
+      "old_len": 252,
+      "new_len": 224,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2023-085",
+      "label": "D",
+      "old_len": 404,
+      "new_len": 47,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-sichuan-xingce-changshi-2023-095",
+      "label": "D",
+      "old_len": 225,
+      "new_len": 169,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-yunnan-xingce-changshi-2023-085",
+      "label": "D",
+      "old_len": 597,
+      "new_len": 164,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-yunnan-xingce-changshi-2023-088",
+      "label": "D",
+      "old_len": 515,
+      "new_len": 174,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-yunnan-xingce-changshi-2023-089",
+      "label": "D",
+      "old_len": 593,
+      "new_len": 160,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-yunnan-xingce-changshi-2023-090",
+      "label": "D",
+      "old_len": 330,
+      "new_len": 222,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-panduan-2020-a-095",
+      "label": "D",
+      "old_len": 1702,
+      "new_len": 47,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-panduan-2024-e-088",
+      "label": "D",
+      "old_len": 209,
+      "new_len": 81,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-guangdong-xingce-panduan-2020-085",
+      "label": "D",
+      "old_len": 259,
+      "new_len": 197,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-guangdong-xingce-panduan-2022-085",
+      "label": "D",
+      "old_len": 363,
+      "new_len": 93,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-058",
+      "label": "A",
+      "old_len": 214,
+      "new_len": 10,
+      "iters": 1,
+      "last_pat": 2
+    },
+    {
+      "qid": "provincial-shanghai-xingce-panduan-2021-085",
+      "label": "D",
+      "old_len": 211,
+      "new_len": 38,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "institution-xingce-shuliang-2021-b-095",
+      "label": "D",
+      "old_len": 1378,
+      "new_len": 1010,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-shuliang-2023-e-055",
+      "label": "D",
+      "old_len": 264,
+      "new_len": 183,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-yanyu-2024-e-044",
+      "label": "D",
+      "old_len": 203,
+      "new_len": 24,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-yanyu-2024-e-055",
+      "label": "D",
+      "old_len": 653,
+      "new_len": 50,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "national-xingce-yanyu-2021-fushengjia-050",
+      "label": "D",
+      "old_len": 464,
+      "new_len": 18,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "national-xingce-yanyu-2021-fushengjia-052",
+      "label": "D",
+      "old_len": 202,
+      "new_len": 16,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-beijing-xingce-yanyu-2021-060",
+      "label": "D",
+      "old_len": 795,
+      "new_len": 8,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-beijing-xingce-yanyu-2021-065",
+      "label": "D",
+      "old_len": 999,
+      "new_len": 10,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-yanyu-2021-040",
+      "label": "D",
+      "old_len": 1181,
+      "new_len": 14,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-shenzhen-xingce-yanyu-2024-085",
+      "label": "D",
+      "old_len": 241,
+      "new_len": 73,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-ziliao-2020-a-095",
+      "label": "D",
+      "old_len": 548,
+      "new_len": 17,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "institution-xingce-ziliao-2021-c-055",
+      "label": "D",
+      "old_len": 431,
+      "new_len": 59,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "national-xingce-ziliao-2021-dishi-125",
+      "label": "D",
+      "old_len": 721,
+      "new_len": 53,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "national-xingce-ziliao-2021-fushengjia-125",
+      "label": "D",
+      "old_len": 274,
+      "new_len": 44,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "national-xingce-ziliao-2021-fushengjia-130",
+      "label": "D",
+      "old_len": 693,
+      "new_len": 53,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "national-xingce-ziliao-2022-fushengjia-130",
+      "label": "D",
+      "old_len": 583,
+      "new_len": 31,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "national-xingce-ziliao-2023-fushengjia-130",
+      "label": "D",
+      "old_len": 685,
+      "new_len": 112,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "national-xingce-ziliao-2024-xingzhengzhifa-125",
+      "label": "C",
+      "old_len": 406,
+      "new_len": 133,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-beijing-xingce-ziliao-2021-120",
+      "label": "D",
+      "old_len": 221,
+      "new_len": 43,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-beijing-xingce-ziliao-2021-125",
+      "label": "D",
+      "old_len": 438,
+      "new_len": 28,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-beijing-xingce-ziliao-2022-125",
+      "label": "D",
+      "old_len": 348,
+      "new_len": 134,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2020-115",
+      "label": "D",
+      "old_len": 821,
+      "new_len": 40,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2020-119",
+      "label": "D",
+      "old_len": 788,
+      "new_len": 7,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2021-105",
+      "label": "D",
+      "old_len": 503,
+      "new_len": 44,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-chongqing-xingce-ziliao-2021-115",
+      "label": "D",
+      "old_len": 720,
+      "new_len": 41,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2020-105",
+      "label": "D",
+      "old_len": 787,
+      "new_len": 6,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-gansu-xingce-ziliao-2020-115",
+      "label": "D",
+      "old_len": 304,
+      "new_len": 6,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2020-090",
+      "label": "D",
+      "old_len": 460,
+      "new_len": 31,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2020-095",
+      "label": "D",
+      "old_len": 201,
+      "new_len": 33,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2021-090",
+      "label": "D",
+      "old_len": 353,
+      "new_len": 170,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-guangdong-xingce-ziliao-2022-090",
+      "label": "D",
+      "old_len": 234,
+      "new_len": 146,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-guangxi-xingce-ziliao-2020-095",
+      "label": "D",
+      "old_len": 828,
+      "new_len": 47,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2020-100",
+      "label": "D",
+      "old_len": 338,
+      "new_len": 40,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-guizhou-xingce-ziliao-2020-110",
+      "label": "D",
+      "old_len": 828,
+      "new_len": 47,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-hainan-xingce-ziliao-2020-055",
+      "label": "D",
+      "old_len": 304,
+      "new_len": 6,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-hebei-xingce-ziliao-2020-125",
+      "label": "D",
+      "old_len": 243,
+      "new_len": 40,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2020-115",
+      "label": "D",
+      "old_len": 349,
+      "new_len": 22,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2021-070",
+      "label": "D",
+      "old_len": 503,
+      "new_len": 44,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-henan-xingce-ziliao-2021-080",
+      "label": "D",
+      "old_len": 625,
+      "new_len": 35,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-hubei-xingce-ziliao-2020-110",
+      "label": "D",
+      "old_len": 338,
+      "new_len": 40,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-hunan-xingce-ziliao-2020-115",
+      "label": "D",
+      "old_len": 316,
+      "new_len": 16,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2021-120",
+      "label": "D",
+      "old_len": 311,
+      "new_len": 35,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2021-130",
+      "label": "D",
+      "old_len": 251,
+      "new_len": 39,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2022-115",
+      "label": "B",
+      "old_len": 244,
+      "new_len": 63,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-jiangsu-xingce-ziliao-2023-130",
+      "label": "D",
+      "old_len": 210,
+      "new_len": 83,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-liaoning-xingce-ziliao-2020-115",
+      "label": "D",
+      "old_len": 338,
+      "new_len": 40,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-neimenggu-xingce-ziliao-2023-115",
+      "label": "D",
+      "old_len": 335,
+      "new_len": 224,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-ningxia-xingce-ziliao-2020-105",
+      "label": "D",
+      "old_len": 788,
+      "new_len": 6,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2020-080",
+      "label": "D",
+      "old_len": 373,
+      "new_len": 19,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2020-085",
+      "label": "D",
+      "old_len": 308,
+      "new_len": 55,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2023-085",
+      "label": "D",
+      "old_len": 299,
+      "new_len": 209,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shandong-xingce-ziliao-2024-115",
+      "label": "D",
+      "old_len": 381,
+      "new_len": 156,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-shanxi-xingce-ziliao-2020-090",
+      "label": "D",
+      "old_len": 790,
+      "new_len": 8,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2020-095",
+      "label": "D",
+      "old_len": 531,
+      "new_len": 53,
+      "iters": 1,
+      "last_pat": 3
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2021-095",
+      "label": "D",
+      "old_len": 477,
+      "new_len": 55,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2022-090",
+      "label": "D",
+      "old_len": 242,
+      "new_len": 204,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-sichuan-xingce-ziliao-2022-095",
+      "label": "D",
+      "old_len": 338,
+      "new_len": 39,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-xinjiang-xingce-ziliao-2020-115",
+      "label": "D",
+      "old_len": 399,
+      "new_len": 80,
+      "iters": 1,
+      "last_pat": 9
+    },
+    {
+      "qid": "provincial-zhejiang-xingce-ziliao-2020-090",
+      "label": "D",
+      "old_len": 210,
+      "new_len": 40,
+      "iters": 1,
+      "last_pat": 3
+    }
+  ]
+}

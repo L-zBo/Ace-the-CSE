@@ -1,0 +1,530 @@
+[
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "如果四个连续的正整数之积是个位为4的四位数，则这四个数中最小的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "9"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n优先选用代入排除法。所求为最小，故优先代入C 项：四个连续的正整数分别为5、6、7、8，乘积\n为1680，不满足条件，排除；再代入A 项：四个连续的正整数分别为6、7、8、9，乘积为3024，满\n足条件，当选。 \n故正确答案为A。 \n备注：考试为单选题，故满足条件后无需代入其他选项，直接锁定答案即可。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第66题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某学习平台收到的征文，将通过两轮评审决定能否采用。先由两位编辑进行初审，若两位编辑评审都通过，则 予以采用；若两位编辑都未予通过，则不予采用；若仅有一位编辑初审通过，则再由主编进行复审，若复审通 过，则予以采用，否则不予采用。设稿件能通过各初审编辑评审的概率均为0.4，复审的稿件能通过的概率为 0.2，各编辑独立评审，则每篇征文被采用的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.32"
+      },
+      {
+        "label": "B",
+        "content": "0.256"
+      },
+      {
+        "label": "C",
+        "content": "0.24"
+      },
+      {
+        "label": "D",
+        "content": "0.208"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意，每篇征文被采用的情况为：①初审两位编辑均通过，概率为：0.4×0.4=0.16；②初审两\n位编辑仅有一位通过，且主编复审通过，概率为：\n，分类\n用加法，故每篇征文被采用的概率为0.16+0.096=0.256。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第67题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某市公立小学入学实行摇号方式，依次分别从十个号码球中（内置0至9十个号码）摇号抽取个、十、百位数号 码，组成一个数。与该数字相同编号（如001即为1）学生即为第一个中签录取的学生，第二位录取的学生为第 一位录取学生的编号+等差数，以此类推确定中签号。参加摇号的学生总人数为950人，若在第一轮摇号中，第 一个中签数是270，等差数是8，那么以下哪一个号段中签的人数最多？",
+    "options": [
+      {
+        "label": "A",
+        "content": "100至200"
+      },
+      {
+        "label": "B",
+        "content": "200至300"
+      },
+      {
+        "label": "C",
+        "content": "300至400"
+      },
+      {
+        "label": "D",
+        "content": "400至500"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n由于第一个中签数是270，则 \nA 项：100 至200 号段中签的人数为0； \nB 项：200 至300 号段中签的是270、278、286、294，总人数为4 人； \nC 项：300 至400 号段，第一个中签的是302，该号段最后一个中签的是302+12×8=398，总人数为\n1+12=13 人； \nD 项：400 至500 号段，第一个中签的是406，该号段最后一个中签的是406+11×8=494，总人数为\n1+11=12 人。 \n综上，300 至400 号段中签的人数最多。 \n故正确答案为C。 \n注：本题不严谨，若按照日常实际情况，需循环1 至270 号段，则选项中A、B、C 项中签人数均为\n13 人。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第68题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某公司自主研发生产的A、B、C三种型号氢燃料电池，解决了该公司今年生产轿车所需电池数量的10%（按一 辆车配一块电池计算）。其中A型号氢燃料电池的产量是B型号的2倍，C型号的产量比A、B两种型号的产量之 和还多400块。预计该公司今年的轿车总产量是42.4万辆，那么B型号氢燃料电池的产量是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3500块"
+      },
+      {
+        "label": "B",
+        "content": "7000块"
+      },
+      {
+        "label": "C",
+        "content": "14000块"
+      },
+      {
+        "label": "D",
+        "content": "21400块"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n根据题意，该公司今年自主研发生产的A 、B 、C 三种型号氢燃料电池的产量和为\n42.4×10000×10%=42400 块。已知C 型号的产量比A、B 两种型号的产量之和还多400 块，则A、B\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 21 / 43\n\n两种型号的产量之和为\n块，A 型号氢燃料电池的产量是B 型号的2 倍，则\nB 型号氢燃料电池的产量为\n块。\n故正确答案为B。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第69题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "世界非物质文化遗产高峰论坛召开记者会，共有10家国内媒体和4家国外媒体参加。组委会从中选出3家媒体回 答他们的问题，要求这3家媒体中既有国内媒体又有国外媒体，且国内外媒体交叉提问，则不同的提问方式 有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "240种"
+      },
+      {
+        "label": "B",
+        "content": "360种"
+      },
+      {
+        "label": "C",
+        "content": "480种"
+      },
+      {
+        "label": "D",
+        "content": "1440种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n选出3 家媒体中既有国内媒体又有国外媒体，分为两种情况： \n情况一：2 家国内媒体、1 家国外媒体。先从10 家国内媒体中选出2 家，有\n种情况，再从4 家\n国外媒体中选出1 家，有\n种情况，由于国内外媒体交叉提问，则国外媒体处于中间位置，2 家国\n内媒体位于头尾位置，有\n种情况，则有\n种情况； \n情况二：1 家国内媒体、2 家国外媒体。先从10 家国内媒体中选出1 家，有\n种情况，再从4 家\n国外媒体中选出2 家，有\n种情况，由于国内外媒体交叉提问，则国内媒体处于中间位置，2 家国\n外媒体位于头尾位置，有\n种情况，则有\n种情况。 \n综上，不同的提问方式共有360+120=480 种。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第70题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-071",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "浮雕银杯是我国古代常见的一种盛酒容器，有大银杯和小银杯之分。已知5个大银杯加1个小银杯，可以盛酒3 斛（斛，是古代的一种容量单位），5个小银杯加1个大银杯，可以盛酒2斛，则1斛酒至多可以倒满小银杯的数 量为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2个"
+      },
+      {
+        "label": "B",
+        "content": "3个"
+      },
+      {
+        "label": "C",
+        "content": "4个"
+      },
+      {
+        "label": "D",
+        "content": "5个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n设大银杯容量为x，小银杯容量为y，赋值1斛酒的量为1；根据题意可列方程：5x+y=3······①，\n5y+x=2······②，联立①②解得\n，\n。则1 斛酒可倒满的小银杯数量\n，故至多可以倒满小银杯的数量为3 个。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第71题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-072",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "小林因病入院需挂瓶输液，上午9点开始输液，输液袋上标有“容量300毫升，每毫升15滴”等药液信息。输液 开始时，药液滴速为75滴/分钟。输液5分钟后小林感觉身体不适，护士帮忙调整了药液滴速（调整时间不 计），又继续输液10分钟，药液还剩235毫升，那么输液结束的时间是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10点26分"
+      },
+      {
+        "label": "B",
+        "content": "10点18分"
+      },
+      {
+        "label": "C",
+        "content": "10点14分"
+      },
+      {
+        "label": "D",
+        "content": "10点10分"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n根据题意，输液5 分钟后剩余的药液为\n毫升，则调整后药液的滴速为\n滴/ 分钟，剩余的\n235\n毫升药液还需输液的时间为\n分钟，则输液的总时间为\n分钟\n分钟，即\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 22 / 43\n\n1 小时14 分钟，上午9 点开始输液，则输液结束的时间是10 点14 分。\n故正确答案为C。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第72题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-073",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某产业展洽会主办方将一块正方形场地设计成七个展区(如下图所示)。按面积大小分类，共有几类展区？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n方法一：根据七巧板特性，所有的三角形均为等腰直角三角形。结合所给图形可知，三角形①与三\n角形②等底同高，两个区域面积相等；三角形③与三角形⑤等底等高，两个区域面积相等；三角形\n④与三角形⑦等底等高，两个区域面积相等，且面积是正方形⑥的一半，也是三角形③和⑤的一半。\n所以按面积大小可以分为三类：①②、③⑤⑥、④⑦。 \n方法二：做辅助线如下图所示。 \n \n等腰直角三角形①和②全等，两个区域面积相等。除①和②以外剩余区域可划分成8 个全等的等腰\n直角三角形，面积均相等，因此④和⑦两个区域面积相等，且③⑤⑥三个区域均是由两个等腰直角\n三角形组成，故③⑤⑥三个区域面积相等。所以按面积大小可以分为三类：①②、③⑤⑥、④⑦。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第73题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2023/q073.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-074",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下图所示是一种帐篷屋顶的示意图，底面是一个长4米宽3米的长方形，屋顶高1米，上棱长2米且平行于底面， 那么该帐篷屋顶的体积是： B.11立方米 C.12立方米 D.24立方米",
+    "options": [
+      {
+        "label": "A",
+        "content": "5立方米"
+      },
+      {
+        "label": "B",
+        "content": "11立方米"
+      },
+      {
+        "label": "C",
+        "content": "12立方米"
+      },
+      {
+        "label": "D",
+        "content": "24立方米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】\n如图所示，过上棱两个端点M、N 分别向底面做垂直截面，交底面ABCD 于点E、F、G、H，则该帐篷\n屋顶可拆分为左、右两个四棱锥（M-AEFD 和N-BCHG）和中间一个三棱柱（EFM-GHN）。根据公式：\n；\n，\n则\n\n立方米；\n立方米。\n则该帐篷屋顶的体积\n立方米。\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 23 / 43\n\n故正确答案为A。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第74题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2023/q074.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-075",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某村拟建造一个容积为144立方米，深度为4米的长方体无盖蓄水池。为节约成本，侧面积最小为多少平方米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "36"
+      },
+      {
+        "label": "C",
+        "content": "96"
+      },
+      {
+        "label": "D",
+        "content": "132"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据长方体体积= 长×宽× 高，结合水池“ 容积为144 立方米，深度为4 米” ，可得\n平方米。题干所求水池侧面积=底面周长×\n高=4×底面周长，若要侧面积最小，则底面周长最短。因为“长方形面积一定，长宽相等也就是正\n方形时周长最短”，所以底面周长最短时，长=宽=6，周长=4×6=24 米，此时侧面积=4×24=96 平方\n米。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第75题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-076",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某商品的利润率是20%。如果进货价降低20%，售价保持不变，此时利润率是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "40%"
+      },
+      {
+        "label": "B",
+        "content": "30%"
+      },
+      {
+        "label": "C",
+        "content": "60%"
+      },
+      {
+        "label": "D",
+        "content": "50%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n赋值该商品的进货价为100 元，则商品的售价=100×（1+20%）=120 元。进货价降低20%后为100×\n（1-20% ）=80\n元，根据公式：利润率\n，可得题干所求\n。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第76题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-077",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "两冰块相撞，小冰块撞掉一半，大冰块撞掉的是小冰块撞掉的4倍。如果原来大冰块的体积是小冰块的10倍， 现在是几倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "16"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n赋值小冰块原来的体积为2，则大冰块原体积为2×10=20。小冰块撞掉了\n，剩余2-1=1；\n大冰块撞掉了1×4=4，剩余20-4=16。则现在剩下的大冰块是小冰块体积的16÷1=16 倍。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第77题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-078",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某小区物业准备了230盒口罩免费派发给10栋楼，要求任意两栋楼派发的口罩数量都不相同，但最多相差不超 过1倍。假设口罩不拆盒发放，那么派发口罩数量最少的那栋楼最少可派发口罩：",
+    "options": [
+      {
+        "label": "A",
+        "content": "18盒"
+      },
+      {
+        "label": "B",
+        "content": "15盒"
+      },
+      {
+        "label": "C",
+        "content": "14盒"
+      },
+      {
+        "label": "D",
+        "content": "12盒"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n设派发口罩数量最少的那栋楼最少派发口罩x 盒。要让派发口罩数量最少的楼栋派发口罩最少，则\n其他楼栋口罩派发尽量多，且派发口罩最多的楼栋不超过最少的1 倍，即派发口罩最多的楼栋最多\n派发口罩2x 盒。由于任意两栋楼派发口罩数量都不相同，则可列表如下：\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 24 / 43\n\n根据口罩一共有230 盒可列式：2x+2x-1+2x-2+2x-3+2x-4+2x-5+2x-6+2x-7+2x-8+x=230，化简可得：\n19x-36=230，解得x=14。那么派发口罩数量最少的那栋楼最少可派发口罩14 盒。\n故正确答案为C。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第78题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-079",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "某智慧公共停车场的收费标准如下：停车不超过15分钟，不收费；超过15分钟但不超过60分钟，按1小时计， 收费5元；超过1小时后，超过的部分按每30分钟4元收费（不足30分钟，按30分钟计）。若李先生支付停车费 17元，则他停车的时长可能为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2小时"
+      },
+      {
+        "label": "B",
+        "content": "2小时15分钟"
+      },
+      {
+        "label": "C",
+        "content": "2小时45分钟"
+      },
+      {
+        "label": "D",
+        "content": "3小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题干“停车不超过15 分钟，不收费；超过15 分钟但不超过60 分钟，按1 小时计，收费5 元”，\n李先生支付停车费17 元，则停车时长一定超过1 小时。扣除前1 小时的收费5 元，超出1 小时部分\n付款为17-5=12 元。根据题干“超过1 小时后，超过的部分按每30 分钟4 元收费（不足30 分钟，\n按30 分钟计）”，12 元最多可支付12÷4=3 个30 分钟=1.5 小时，则2 小时＜李先生的停车时长\n小时。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第79题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-shuliang-2023-080",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "甲乙两地间的纵横道路网如下图所示，若从甲地到乙地沿道路铺设电缆，要使铺设的电缆长度最短，则电缆经 过丙地的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "如图所示，从甲地到乙地沿道路铺设电缆，要使铺设的电缆长度最短，电缆走向只能向下和向左铺设。从甲开始，在每个交点处标出甲到此点的情况数，该点情况数为上方和右方的两个点情况数之和。\n\n如图1所示，从甲到乙铺设电缆共22+31=53种情况。\n\n若要使铺设的电缆经过丙地，则需电缆如图2所示先从甲到丙，共4种情况，再如图3所示从丙到乙，共4种情况，故经过丙地的情况数为4×4=16种。所求概率。\n故正确答案为D。\n\n[来源 baijing1.top paperId=670 sort=80 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第80题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2023/q080.png"
+  }
+]

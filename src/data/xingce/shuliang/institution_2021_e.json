@@ -1,0 +1,581 @@
+[
+  {
+    "id": "institution-xingce-shuliang-2021-e-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "在诊疗流程改革之后，医院某专科每名病人的诊断时间从 4 分钟下降为 3 分钟，已知每个诊室同时只能诊 断 1 名病人，在多开放 1 个诊室的情况下，日最大接诊人数增加了 ，问改革之后该专科开放的诊室数 为多少个？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】从 5 组大学生中随机抽 1 组前往甲村支教，抽到小芳所在组的概率为1\n。每组有1 + 3 + 2 + 2 = 8",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第46题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某种签字笔一盒 24 支，如果单支购买，价格为 3 元/支。如果整盒购买，价格为 60 元/盒。现至少要购买 这种签字笔 1102 支，问最少需要多少元？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "2751"
+      },
+      {
+        "label": "C",
+        "content": "2760"
+      },
+      {
+        "label": "B",
+        "content": "2754"
+      },
+      {
+        "label": "D",
+        "content": "2766"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】赋值每家酒店的原来营收均为 1，则 15 家酒店总营收为 15。整顿期间 9 家酒店可以正常营业，总\n，总收入为1\n营收为1 × 9 = 9；3 家酒店变为原来的1",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第47题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某连锁餐馆共有 9 家店面，平均每家店面每年客流量为 5 万人次。由于疫情影响，今年客流量降到原来的 ，公司决定趁着租金减少迅速新开 10 家餐馆抢占市场，新开餐馆明年可以正常投入使用。假设明年客 流量回升到疫情前的 。那么，今年和明年的总客流量可以达到多少万人次？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "39"
+      },
+      {
+        "label": "D",
+        "content": "66"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】设该花店共购进玫瑰x支。定价 5 元时，销量为70%x支；以定价的 4 折销售时，销量为(1 − 70%)x =\n\n30%x支。根据题意，可列方程：(5 − 1) × 70%x + (5 × 0.4 − 1) × 30%x = 3100，解得：x = 1000。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第48题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "某企业排班调休，每名职工在下个星期的七天内随机安排两天休息，问职工小韩和小李被安排的休息日完 全相同的概率为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687400 sort=49 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第49题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "甲、乙两地直线距离为 60 千米，张某从甲地出发向乙地方向匀速骑车行进，1 小时后左拐 并保持原速 度继续行进，又过了 1 小时后，张某拐向乙地方向，保持原速又骑行了 2 小时到达乙地。问张某的速度在     以下哪个范围内？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 21 千米/小时"
+      },
+      {
+        "label": "B",
+        "content": "21-23 千米/小时之间"
+      },
+      {
+        "label": "C",
+        "content": "23-25 千米/小时之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 25 千米/小时 （一）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】根据题意，可知：水槽上升水位高度 × 水槽底面积 = 实心零件体积，即3 × 水槽底面积 = 12 × 8 ×\n4，解得：水槽底面积＝ 12×8×4\n\n128cm2。长方体实心零件的最大面面积= 12 × 8 = 96cm2，则零件最大面",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第50题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 S 省城镇私营单位就业人员年平均工资比 2010 年增加了（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到"
+      },
+      {
+        "label": "B",
+        "content": "B．"
+      },
+      {
+        "label": "C",
+        "content": "之间"
+      },
+      {
+        "label": "D",
+        "content": "D． 以上 之间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】根据题干“2020 年华南地区早稻产量占全国早稻总产量的比重为……”，可判定本题为现期比重\n\n问题。定位统计表可得：2020 年广东、广西、海南属于华南地区，对应早稻总产量分别 519、477、66 万吨，\n\n全国早稻总产量为 2729 万吨。根据比重公式：比重 =\n\n部分\n\n总体\n\n，可得 2020 年华南地区早稻产量占全国早稻总\n\n产量的比重=\n\n华南地区早稻产量\n\n全国早稻总产量\n\n=\n\n519+477+66\n\n2729\n\n=\n\n1062\n\n2700\n\n≈ 37%，在30%~40%之间。 \n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第51题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2010-2019 年 S 省城镇私营单位就业人员年平均工资同比增速超过 的年份有几个？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "B．4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "D．6"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】根据题干“2020 年…单位面积…最多的是”判定本题为现期平均数比较。定位表格可知 2020 年各\n\n省早稻播种面积以及产量根据公式单位面积产量=\n\n产量\n\n面积\n\n，可得各省单位面积产量分别为：浙江=",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第52题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "假设某职工在2010-2019 年间均就职于S 省城镇私营单位，且每年工资均与全省城镇私营单位平均值相同， 则该职工 2015-2019 年的累计工资收入比 2010-2014 年的累计工资收入约高多少万元？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】定位柱状图可知，2010-2019 年S 省城镇私营单位就业人员年平均工资。根据该职工在2010-2019\n每年工资均与全省城镇私营单位平均值相同，可得该职工2015-2019 年的累计工资收入比2010-2014 年的\n累\n计\n工\n资\n收\n入\n约\n高\n元\n万元，B 项最接近。 \n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第53题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 S 省城镇私营单位 8 个主要行业中就业人员年平均工资同比增速最快的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "采矿业"
+      },
+      {
+        "label": "C",
+        "content": "住宿和餐饮业"
+      },
+      {
+        "label": "B",
+        "content": "农林牧渔业"
+      },
+      {
+        "label": "D",
+        "content": "交通运输、仓储和邮政业"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】根据题干“2019 年……增速最快的是”，可判定本题为增长率的比较问题。定位统计表可知，2018\n年和2019 年各个行业就业人员年均工资。根据\n可得，四个选项2019 年年平均\n工资增长率分别为： \nA 项：采矿业，\n； \nB 项：农林牧渔业，\n； \nC 项：住宿和餐饮业，\n； \nD 项：交通运输、仓储和邮政业，\n。 \n因此，2019 年S 省城镇私营单位8 个主要行业中就业人员年平均工资增长最快的是交通运输、仓储和邮政\n业。 \n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第54题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年 S 省城镇私营单位金融业就业人员年平均工资同比增长了 以上"
+      },
+      {
+        "label": "B",
+        "content": "2018 年 S 省城镇私营单位租赁和商务服务业就业人员年平均工资同比增速高于"
+      },
+      {
+        "label": "C",
+        "content": "2014-2018 年五年间 S 省城镇私营单位就业人员年平均工资水平呈先降后增趋势"
+      },
+      {
+        "label": "D",
+        "content": "2019 年 S 省城镇私营单位住宿和餐饮业就业人员年平均工资同比增速慢于整体同比增速 （二）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【解析】A 项：定位文字材料第三段可知，2017 年我国机场全年完成飞机起降1024.9 万架次，运输架次为\n872.9 万架次，所求占比=\n运输架次\n起降架次=\n872.9\n1024.9 <\n872.9\n1000 = 87.29% < 90%，错误。\nB 项：定位文字资料第二段“2017 年……其中内地至香港、澳门和台湾地区航线完成99.0 万吨，比上年增\n长5.8%”，则增长量=\n现期量\n1+增长率× 增长率=\n99\n1+5.8% × 5.8% ≈\n99\n1+ 1\n17\n×\n1\n17 =\n99\n18 万吨< 10 万吨，不到10 万吨，\n正确。\nC 项：定位表格资料可知，2018 年2 月和3 月书面投诉量分别为633 件、673 件，2018 年2 月和3 月电话投\n\n350\n诉量分别为840 件、975 件，根据环比增速=\n3 月量−2 月量\n2 月量\n，则书面投诉量和电话投诉量的环比增速分别为\n673−633\n633\n=\n40\n633 < 10%，\n975−840\n840\n=\n135\n840 > 10%，故书面投诉量环比增速低于电话投诉，错误。\nD 项：定位表格资料可知，2018 年1 季度中1 月、2 月、3 月受理境内航空公司投诉分别为1520 件、1199\n件、1193 件，则1 季度受理总数=1520+1199+1193=3912 件<4000 件，错误。\n故正确答案为B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第55题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1 月，全国实用新型专利申请总授权数约为（ ）万件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "11.1"
+      },
+      {
+        "label": "C",
+        "content": "14.5"
+      },
+      {
+        "label": "B",
+        "content": "12.6"
+      },
+      {
+        "label": "D",
+        "content": "17.6"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题干“2019 年1 月···万件”，结合材料时间为2020 年，可判定本题为基期计算问题。\n定位图形材料可知，2020 年1 月职务专利申请授权数为11.1 万件，非职务专利申请授权数为1.5 万件，\n\n148\n总授权数同比增速为\n。根据公式：\n，可得2019 年1 月全国实用新型专利申请总授\n权数为\n万件。\n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第56题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2020 年 2 月—2021 年 1 月，全国实用新型专利申请授权中，职务专利的环比增长量超过非职务专利的月份 有几个？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【解析】根据题干“…环比增长量超过…的月份有几个”，可判定本题为增长量比较问题。定位图形材料\n可知2020 年1 月-2021 年1 月各月的职务、非职务专利申请授权数。根据公式：增长量现期量基期量，\n可得2020 年2 月-2021 年1 月，各月的职务与非职务专利的环比增长量比较如下： \n2020 年2 月：职务\n非职务\n； \n2020 年3 月：职务\n非职务\n； \n2020 年4 月：职务\n非职务\n； \n2020 年5 月：职务\n非职务\n； \n2020 年6 月：职务\n非职务\n； \n2020 年7 月：职务\n非职务\n； \n2020 年8 月：职务\n非职务\n； \n2020 年9 月：职务\n非职务\n； \n2020 年10 月：职务\n非职务\n； \n2020 年11 月：职务\n非职务\n； \n2020 年12 月：职务\n非职务\n； \n2021 年1 月：职务\n非职务\n。 \n综上，满足题干要求的月份有：2020 年4 月、5 月、6 月、9 月、12 月，共5 个月。 \n故正确答案为A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第57题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2020 年全国实用新型专利申请授权中，下半年的非职务专利申请授权数是上半年的几倍？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.3"
+      },
+      {
+        "label": "C",
+        "content": "1.7"
+      },
+      {
+        "label": "B",
+        "content": "1.5"
+      },
+      {
+        "label": "D",
+        "content": "1.9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【解析】根据题干“2020 年……下半年……是上半年的几倍”，可判定本题是现期倍数问题。定位图形材\n料可知2020 年各月的非职务专利申请授权数。则2020 年下半年（7—12 月）非职务专利申请授权数为：\n万件，上半年（1—6 月）非职务专利申请授权数为：\n万件。则下半年的非职务专利申请授权数是上半年的\n倍。 \n故正确答案为C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第58题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "若 2021 年 1—2 月全国实用新型专利申请总授权数是去年同期的 2 倍，则 2021 年 2 月全国实用新型专利 申请总授权数同比增速为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于"
+      },
+      {
+        "label": "B",
+        "content": "在 之间"
+      },
+      {
+        "label": "C",
+        "content": "在 之间"
+      },
+      {
+        "label": "D",
+        "content": "高于"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【解析】方法一：根据题干“2021 年2 月……同比增速为……”可判定本题为一般增长率计算问题。定位\n图形材料可知，2020 年1 月-2021 年1 月的职务专利与非职务专利申请授权数。则2020 年1 月、2 月及\n2021 年1 月全国实用新型专利申请总授权数分别为：2020 年1 月，\n万件；2020 年2 月，\n万件；2021 年1 月，\n万件。由题干可知2021 年1—2 月全国实用新型专\n利申请总授权数为：\n万件，则2021 年2 月全国实用新型专利申请总授\n权数\n万件。根据\n，代入数据可得2021 年2 月全国实用新型\n\n149\n专利申请总授权数同比增速为：\n，高于\n。\n方法二：根据题干“……2021 年2 月……同比增速为”，结合材料中给出2021 年1 月以及2020 年1、2\n月，可判定本题为混合增长率问题。定位图形材料可知，2021 年1 月全国实用新型专利申请总授权数的同\n比增速为\n；由题干可知2021 年1—2 月全国实用新型专利申请总授权数的同比增速为\n。\n定位统计表，可得2020 年1 月、2 月全国实用新型专利申请总授权数分别为：2020 年1 月\n万件；2020 年2 月\n万件，则2020 年1 月实用新型专利申请总授权数大于2 月。根据混\n合增长率“混合后居中，偏向基期量大的”，则\n，解得：\n。结合选项，满足条件的只有D 项。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第59题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下折线图中，最能准确反映 2020 第三季度各月全国实用新型专利申请总授权数中，非职务专利申请授权 数占比变化趋势的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "\n\n[来源 baijing1.top paperId=1637848687400 sort=60 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第60题",
+    "questionImage": "/img/questions/institution_2021_e/q060.png"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "需停业整顿。假设 15 家连锁酒店营收水平完全一样，问在整顿期间该品牌旗下 15 家店的收入是原来的多 少倍（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 2"
+      },
+      {
+        "label": "C",
+        "content": "3 4"
+      },
+      {
+        "label": "B",
+        "content": "2 3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "故正确答案为 B。 \n\n48.  【答案】B \n\n【解析】设该花店共购进玫瑰x支。定价 5 元时，销量为70%x支；以定价的 4 折销售时，销量为(1 − 70%)x =\n\n30%x支。根据题意，可列方程：(5 − 1) × 70%x + (5 × 0.4 − 1) × 30%x = 3100，解得：x = 1000。 \n\n故正确答案为 B。 \n\n49.  【答案】D \n\n【解析】设乙团队的预算为2x亿元，则甲团队的预算为1.5 × 2x = 3x亿元，丙团队的预算为1 − 2x − 3x =\n\n1 − 5x亿元。根据题意可得：甲、乙、丙实际使用资金分别为1.1 × 3x = 3.3x亿元、1.6 × 2x = 3.2x亿元、\n\n1.8 × (1 − 5x) = 1.8 − 9x亿元，故3.3x + 3.2x + (1.8 − 9x) = 1.4，解得x = 0.16亿元。则甲、乙、丙团队\n\n实际使用资金分别为：3.3 × 0.16 = 0.528亿元、3.2 × 0.16 = 0.512亿元、1.8 − 9 × 0.16 = 0.36亿元，故\n\n实际使用资金最多和最少的团队其实际使用资金相差0.528 − 0.36 = 0.168亿元= 1680万元。 \n\n故正确答案为 D。 \n\n50.  【答案】A \n\n【解析】根据题意，可知：水槽上升水位高度 × 水槽底面积 = 实心零件体积，即3 × 水槽底面积 = 12 × 8 ×\n4，解得：水槽底面积＝ 12×8×4\n\n128cm2。长方体实心零件的最大面面积= 12 × 8 = 96cm2，则零件最大面",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第3题"
+  },
+  {
+    "id": "institution-xingce-shuliang-2021-e-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "48. 某鲜花店购进一批玫瑰，已知单支玫瑰进价 1 元，按定价 5 元销售了 70%后，再以定价的 4 折销售剩余玫 瑰，全部售完后共盈利 3100 元，问该花店共购进玫瑰多少支（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "900"
+      },
+      {
+        "label": "C",
+        "content": "1200"
+      },
+      {
+        "label": "B",
+        "content": "1000"
+      },
+      {
+        "label": "D",
+        "content": "1500"
+      }
+    ],
+    "answer": "D",
+    "explanation": "人，每组有 3 人教英语，则小芳在该组中教英语的概率为3\n。分步用乘法，小芳被派往甲村教英语的概率=",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2021年事业编行测（e）第5题"
+  }
+]

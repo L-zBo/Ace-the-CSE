@@ -1,0 +1,353 @@
+[
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两工厂共同完成某个生产订单需要12天。现两工厂共同生产8天后，再由乙单独生产7天，一共完成了订 单总量的90%。若整个订单由乙单独生产，那么需要多少天完成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "23"
+      },
+      {
+        "label": "C",
+        "content": "26"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】\n根据题意，甲、乙两工厂的工作效率满足：8（甲+乙）+7 乙=12（甲+乙）×90%，整理可得甲、乙两\n\n2024 湖南省公务员《行测》解析\n\n 智库，获取\n 19 / 41\n\n工厂的工作效率之比为3：2。赋值甲的工作效率为3，乙的工作效率为2，则该订单的工作总量为\n12×（3+2）=60，故所求为\n天。\n故正确答案为D。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考hunan行测第56题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "运动会招募志愿者，第一次招募了不到100人，其中男女比例为11：7；补招若干女性志愿者后，男女比例变为 4：3。问最多可能补招了多少名女性志愿者？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据“男女比例为11：7”“补招若干女性志愿者后，男女比例变为4：3”可知，男生人数既是11\n的倍数，又是4 的倍数，男生人数为44n。结合“第一次招募了不到100 人”可知，男生人数是44\n人，原来女生人数为44÷11×7=28 人；补招后女生人数变为44÷4×3=33 人。可知女生最多可能补\n招人数为33-28=5 人。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第57题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "部队射击比赛中，5名参赛的战士共击中了88次目标。已知任意2人击中的目标数量均互不相同，问射击成绩排 前两名的战士至少击中了多少次目标？",
+    "options": [
+      {
+        "label": "A",
+        "content": "37"
+      },
+      {
+        "label": "B",
+        "content": "39"
+      },
+      {
+        "label": "C",
+        "content": "58"
+      },
+      {
+        "label": "D",
+        "content": "82"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意，要使排前两名的战士击中的次数尽可能少，则其他战士击中的次数要尽可能多。设第二\n名击中x 次，又因任意2 人击中的目标数量均互不相同，可得击中次数如下： \n \n根据“5 名战士共击中了88 次目标”，可列式：x+1+x+x-1+x-2+x-3=88，解得x=18.6，则第二名至\n少击中19 次目标，第一名为x+1=20 次，可得前两名至少击中了20+19=39 次目标。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第58题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "从甲地到乙地的全价机票为2000元，购买全价或折扣机票，每张都要支付120元税费，从甲地到乙地的高铁票 价为680元，企业要安排20人当日从甲地前往乙地出差，单程总预算不超过2万元，已知当日高铁票、机票都充 足，2折、3折和5折机票分别还剩余2张、3张和5张，其余为全价机票，问在预算范围内最多能安排多少人乘飞 机前往乙地？",
+    "options": [
+      {
+        "label": "A",
+        "content": "11"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "13"
+      },
+      {
+        "label": "D",
+        "content": "14"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n题干要求预算范围内安排乘飞机前往乙地的人数最多，结合选项可知乘飞机的人数大于折扣机票的\n剩余张数2+3+5=10 张，则题干中的折扣机票应全部购买，购买折扣机票的费用为\n2000×0.2×2+2000×0.3×3+2000×0.5×5+120×10=8800 元；设购买全价机票的人数为n 人，根据\n题意可列方程：\n，解得\n，\n则n=3 人。故在预算范围内最多能安排乘飞机前往乙地的人数为10+3=13 人。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第59题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "王师傅加工零件，他可同时操作4台仪器对零件进行抛光，每个零件需2面抛光才能加工完成，抛光1面需2分 钟，问6个零件最少用多少分钟才能加工完成（换零件时间不计）？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "8"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意，6 个零件共需抛光6×2=12 面，4 台仪器同时工作，每次共抛光4 面，耗时2 分钟。至少\n需要抛光12÷4=3 次，即最少用2×3=6 分钟加工完成。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考hunan行测第60题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "企业将12个技术培训名额分配给甲、乙、丙三个研发团队。要求乙团队分配的培训名额比甲团队少，但比丙团 队多，且每个团队至少分配1个名额。问有多少种不同的分配方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n根据题干条件，各团队分配的培训名额甲>乙>丙，采用枚举法，情况如下：\n\n2024 湖南省公务员《行测》解析\n\n 智库，获取\n 20 / 41\n\n由上表可知，共有7 种不同的分配方式。\n故正确答案为B。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第61题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "因自然灾害产生泄漏，某河流出现A物质污染。根据环保部门要求，自然水源中A物质的浓度不得高于x。经应 急处置后，水中的A物质浓度每24小时下降一半。自应急处置时开始，环保部门每24小时对河流水质进行1次检 测，在216小时后首次检测到河流中A物质浓度达标。问应急处置前A物质可能的最高浓度在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到300x"
+      },
+      {
+        "label": "B",
+        "content": "300x~600x"
+      },
+      {
+        "label": "C",
+        "content": "600x~1200x"
+      },
+      {
+        "label": "D",
+        "content": "超过1200x"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意可知，A 物质浓度每24 小时下降一半，以24 小时为一个周期，则216 小时后首次达标时\n共下降了\n次，每次下降前是下降后的2 倍。若想使应急处置前A 物质的浓度最高，\n则应使9 次检测后首次达标时的A 物质浓度最高，即正好等于x，向前倒推即可得到A 物质的初始\n浓度为512x，在B 项范围内。如下表所示： \n \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第62题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某校园围墙外的道路形成一个边长为300米的正方形（如图所示），甲、乙两人分别从正方形的两个对角沿逆 时针方向同时出发，甲、乙的步行速度比为9：7。问甲、乙两人第一次处于同一条边是在哪一条边上？",
+    "options": [
+      {
+        "label": "A",
+        "content": "AB"
+      },
+      {
+        "label": "B",
+        "content": "BC"
+      },
+      {
+        "label": "C",
+        "content": "CD"
+      },
+      {
+        "label": "D",
+        "content": "DA"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n根据题意，设甲的速度为9v，则乙的速度为7v。甲、乙初始路程差为CD+DA=300+300=600 米，若甲、\n乙两人第一次处于同一条边，即两人路程差\n米。根据追及公式：\n，当甲与乙\n相差300 米时，可列式：300=（9v-7v）×t，解得vt=150，则此时甲所走路程=9v×t=1350 米（走\n完一圈300×4=1200 米多150 米），甲在CD 中点；此时乙所走路程=7v×t=1050 米（还差150 米走\n完一圈），乙在DA 中点。因\n，故当甲到达D 点时，乙未到达A 点，此时甲、乙两人均在\nDA 边，且为第一次处于同一条边。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考hunan行测第63题",
+    "region": "hunan",
+    "questionImage": "/img/questions/provincial_hunan_2024/q063.png"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "商店销售甲、乙、丙、丁四种商品，每件分别盈利15元、9元、4元和1元。某日销售这四种商品共40件，共盈 利201元。四种商品每种至少销售1件，且甲、丁商品销量相同。问当天丙商品的销量为多少件？ 第 11 页，共 23 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】\n根据“甲、丁商品销量相同”，设甲、乙、丙、丁四种商品销量分别为x 件、y 件、z 件、x 件。根\n据“这四种商品共40 件”可得，2x+y+z=40······①；根据“共盈利201 元”可得，\n15x+9y+4z+x=201······②。令①×8-②可消去x，得4z-y=119。因为四种商品每种至少销售\n1 件，可得4z＞119，即\n，排除A、B、C 三项。代入D 项验证，若z=31，则y=4z-\n119=124-119=5，2x=40-31-5=4，x=2，符合题干所有条件。\n\n2024 湖南省公务员《行测》解析\n\n 智库，获取\n 21 / 41\n\n故正确答案为D。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第64题",
+    "region": "hunan"
+  },
+  {
+    "id": "provincial-hunan-xingce-shuliang-2024-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "安排A、B、C、D共4个研发团队参与甲、乙、丙3个课题的研究，要求每个课题至少有1个团队参与，每个团队 必须且只能参与1个课题，如甲课题参与的团队数超过1个，则A、B都不参与甲课题，问共有多少种不同的安排 方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26 B.D.42"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意可知，甲课题参与的团队数可能为1 个或2 个，分情况讨论如下： \n（1）甲课题参与的团队数为1 个，先从4 个研发团队中任意选择1 个有\n种情况，再让剩\n下3 个团队参与乙、丙2 个课题有\n种情况，分步用乘法，共有4×6=24 种情况。 \n（2）甲课题参与的团队数为2 个，则只能C、D 参与甲课题，剩下A、B2 个团队参与乙、丙2 个课\n题有\n种情况。 \n分类用加法，则共有24+2=26 种安排方式。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hunan行测第65题",
+    "region": "hunan"
+  }
+]

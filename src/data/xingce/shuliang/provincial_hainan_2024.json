@@ -1,0 +1,529 @@
+[
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "A、B两地相距100米，甲、乙两人分别从AB两地同时出发，匀速相向而行，相遇后，甲原路返回A地，乙继续\n向A前行，当甲、乙均到A地结束。已知乙的用时是甲的三倍，那么甲的速度是乙的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "B两地相距100米，甲、乙两人分别从AB两地同时出发，匀速相向而行，相遇后，甲原路返回A地，乙继续 向A前行，当甲、乙均到A地结束。已知乙的用时是甲的三倍，那么甲的速度是乙的： A.2倍"
+      },
+      {
+        "label": "B",
+        "content": "3倍"
+      },
+      {
+        "label": "C",
+        "content": "4倍"
+      },
+      {
+        "label": "D",
+        "content": "5倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n设甲、乙第一次相遇用时为\n，则甲原路返回A 地用时也为\n，共用时\n；乙的用时是甲的三倍，\n则乙到达A 地用时为\n。两人在第一次相遇时用时均为\n，可知乙从两人相遇点到达A 地\n用时为\n。根据路程相同，时间与速度成反比，可知从A 地到相遇点，\n，即甲的速度是乙的5 倍。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第51题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "AB两地有三种不同的航线飞行时长分别为5、6、7小时，甲乙两人同时从A地出发，到达B地后返回A地，同时 返回的飞行方案有几种?",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "11"
+      },
+      {
+        "label": "C",
+        "content": "19"
+      },
+      {
+        "label": "D",
+        "content": "21"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题意可知，甲、乙两人同时从A 地出发到达B 地后同时返回A 地，故两人选择飞行方案总时长\n相同，具体情况如下： \n①两人往返选择同一种航线：甲、乙选择“5、6、7”三种航线中的同一种，则情况数有\n种； \n②两人往返选择两种航线：甲、乙选择“5、6、7”三种航线中的同样两种，则情况数有\n种； \n③两人往返共选择三种航线：若甲选择“5+7”航线，为保证总时长相同，则乙只能选择“6+6”航\n线，反之成立，则情况数有\n种。 \n综上所述，甲、乙二人同时出发同时返回的飞行方案共有3+12+4=19 种。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第52题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "运动会招募志愿者，第一次招募了不到100人，其中男女比例为11：7；补招若干女性志愿者后，男女比例变为 4：3。问最多可能补招了多少名女性志愿者？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "10"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据“男女比例为11：7”“补招若干女性志愿者后，男女比例变为4：3”可知，男生人数既是11\n的倍数，又是4 的倍数，男生人数为44n。结合“第一次招募了不到100 人”可知，男生人数是44\n人，原来女生人数为44÷11×7=28 人；补招后女生人数变为44÷4×3=33 人。可知女生最多可能补\n招人数为33-28=5 人。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第53题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一块直角三角形绿地的三边均铺有长度为整数米的水管，其中一条直角边外的水管长7米。若在水管上随机任 选1个点做标记，则该标记点在斜边上的概率在以下哪个范围内？（忽略水管直径）",
+    "options": [
+      {
+        "label": "A",
+        "content": "小于0.35"
+      },
+      {
+        "label": "C",
+        "content": "在0.42~0.50之间"
+      },
+      {
+        "label": "B",
+        "content": "在0.35~0.42之间"
+      },
+      {
+        "label": "D",
+        "content": "大于0.50"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】\n根据题意，若直角三角形一条直角边为a，a=7 米，设另外一条直角边为b，斜边长为c，根据勾股\n定理可知\n，即（c+b）×（c-b）=49×1，可得：c+b=49······①，c-\nb=1······②，联立①②两式，解得：b=24 米，c=25 米。根据公式：概率\n，\n\n2024 海南省公务员《行测》解析\n\n 智库，获取\n 19 / 36\n\n若在水管上随机任选1 个点做标记，则该标记点在斜边上的概率为\n，\n在C 项范围内。\n故正确答案为C。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第54题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "高校管理学院某期培训班有不到100名学员参加，期中、期末两次考试平均分分别为68分和75分，期中考试不 及格学员平均分为53分，及格学员平均分为74分；期末考试不及格学员平均分为47分、及格学员平均分为83 分。问这期培训班有多少名学员参加？",
+    "options": [
+      {
+        "label": "A",
+        "content": "42"
+      },
+      {
+        "label": "B",
+        "content": "54"
+      },
+      {
+        "label": "C",
+        "content": "63"
+      },
+      {
+        "label": "D",
+        "content": "77"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n方法一：设该期培训班期中考试及格人数和不及格人数分别为x、y 人，期末考试及格人数和不及格\n人数分别为a、b 人，根据题意可知，期中考试总成绩为74x+53y=68（x+y），化简可得2x=5y，所\n以\n，则总人数x+y 为7 的倍数；期末考试总成绩为83a+47b=75（a+b），化简可得2a=7b，\n所以\n，则总人数a+b 为9 的倍数。综上，总人数为7 和9 的公倍数，即为63 的倍数，结合\n总人数不到100 人，则总人数为63 人。 \n故正确答案为C。 \n方法二：由期中考试不及格学员平均分为53 分，及格学员平均分为74 分，期中考试平均分为68 分，\n根据线段法口诀“ 距离与量成反比” 可得，\n，解得\n，则总人数为7 的倍数；由期末考试不及格学员平均分为47 分、及格学\n员平均分为83 分，期末考试平均分为75 分，根据线段法口诀“距离与量成反比”可得，\n，解得\n，则总人数为9 的倍数。综上，\n总人数为7 和9 的公倍数，即为63 的倍数，结合总人数不到100 人，则总人数为63 人。 \n \n故正确答案为C。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第55题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "商店销售甲、乙、丙、丁四种商品，每件分别盈利15元、9元、4元和1元。某日销售这四种商品共40件，共盈 利201元。四种商品每种至少销售1件，且甲、丁商品销量相同。问当天丙商品的销量为多少件？",
+    "options": [
+      {
+        "label": "A",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】\n根据“甲、丁商品销量相同”，设甲、乙、丙、丁四种商品销量分别为x 件、y 件、z 件、x 件。根\n据“这四种商品共40 件”可得，2x+y+z=40······①；根据“共盈利201 元”可得，\n15x+9y+4z+x=201······②。令①×8-②可消去x，得4z-y=119。因为四种商品每种至少销售\n1 件，可得4z＞119，即\n，排除A、B、C 三项。代入D 项验证，若z=31，则y=4z-\n119=124-119=5，2x=40-31-5=4，x=2，符合题干所有条件。\n故正确答案为D。\n\n2024 海南省公务员《行测》解析\n\n 智库，获取\n 20 / 36\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第56题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一个白色圆柱体零件的底面半径是高的1.5倍，现将其表面涂上黑漆之后，沿下图所示虚线方向切割为4个完全 相同的部分。问单个部分的黑色面积是白色面积的多少倍？（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到1.1倍"
+      },
+      {
+        "label": "B",
+        "content": "1.1-1.2倍之间"
+      },
+      {
+        "label": "C",
+        "content": "1.2-1.3倍之间"
+      },
+      {
+        "label": "D",
+        "content": "1.3倍以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意，赋值该圆柱零件高为\n2 ，则底面半径为\n3 ，\n；切割后单个部分如图所示，其黑色面积\n，\n其\n白\n色\n面\n积\n，则所求倍数为\n倍，在B 项范围内。 \n \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第57题",
+    "region": "hainan",
+    "questionImage": "/img/questions/provincial_hainan_2024/q057.png"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某校园围墙外的道路形成一个边长为300米的正方形（如图所示），甲、乙两人分别从正方形的两个对角沿逆 时针方向同时出发，甲、乙的步行速度比为9：7。问甲、乙两人第一次处于同一条边是在哪一条边上？ B.BC C.CD D.DA",
+    "options": [
+      {
+        "label": "A",
+        "content": "AB"
+      },
+      {
+        "label": "B",
+        "content": "BC"
+      },
+      {
+        "label": "C",
+        "content": "CD"
+      },
+      {
+        "label": "D",
+        "content": "DA"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n根据题意，设甲的速度为9v，则乙的速度为7v。甲、乙初始路程差为CD+DA=300+300=600 米，若甲、\n乙两人第一次处于同一条边，即两人路程差\n米。根据追及公式：\n，当甲与乙\n相差300 米时，可列式：300=（9v-7v）×t，解得vt=150，则此时甲所走路程=9v×t=1350 米（走\n完一圈300×4=1200 米多150 米），甲在CD 中点；此时乙所走路程=7v×t=1050 米（还差150 米走\n完一圈），乙在DA 中点。因\n，故当甲到达D 点时，乙未到达A 点，此时甲、乙两人均在\nDA 边，且为第一次处于同一条边。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第58题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两工厂共同完成某个生产订单需要12天。现两工厂共同生产8天后，再由乙单独生产7天，一共完成了订 单总量的90%。若整个订单由乙单独生产，那么需要多少天完成？",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "23"
+      },
+      {
+        "label": "C",
+        "content": "26"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n根据题意，甲、乙两工厂的工作效率满足：8（甲+乙）+7 乙=12（甲+乙）×90%，整理可得甲、乙两\n工厂的工作效率之比为3：2。赋值甲的工作效率为3，乙的工作效率为2，则该订单的工作总量为\n12×（3+2）=60，故所求为\n天。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第59题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "c地为a、b两地直线道路上的一点，甲、乙两人9：00分别自a、b两地同时出发匀速相向而行，甲的速度是乙的 1.5倍，甲9：40到达c地休息10分钟后继续向b地前进；乙全程不休息，在10：40到达c地，问甲、乙相遇的时间 为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10：00"
+      },
+      {
+        "label": "B",
+        "content": "10：10"
+      },
+      {
+        "label": "C",
+        "content": "10：20"
+      },
+      {
+        "label": "D",
+        "content": "10：30"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n方法一：赋值甲每分钟的速度为3，乙每分钟的速度为2。根据甲9：40 到达c 地，则\n\n2024 海南省公务员《行测》解析\n\n 智库，获取\n 21 / 36\n\n；乙全程不休息，在10：40 到达c 地，则\n，因此ab 的路\n程\n。设甲、乙两人从9：00 开始出发t 分钟后相遇，则\n，解得t=70，因此甲、乙相遇的时间为9：00+70 分钟=10：10。\n方法二：赋值甲每分钟的速度为3，乙每分钟的速度为2。根据乙9：00 出发，在10：40 到达c 地，\n可得乙从b 地到c 地的路程为2×100=200。当甲9：50 离开c 地继续向b 地前进时，乙已走的路程\n为2×50=100 ，此时甲、乙继续相向而行所需的相遇时间\n分钟，则甲、乙相遇时间为9：50+20 分钟=10：10。\n故正确答案为B。\n\n【解析61—题目暂缺】\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第60题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "[题干 OCR 抽取失败-D11]",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "B",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "C",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "D",
+        "content": "[选项 OCR 抽取失败-D11]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题为题源未收录题，PDF 题目缺失。按题源标注「该题选择A项默认得分」给定答案。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第61题",
+    "region": "hainan",
+    "questionImage": "/img/questions/provincial_hainan_2024/q061.png"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某餐饮店接到一份粽子订单，张师傅与李师傅同时工作8小时可完成。现张师傅先独自包粽子3小时，李师傅接 着独自包了1小时，还剩订单总数的 没完成。已知张师傅每小时比李师傅多包14个粽子。问这份订单粽子的 总数是多少个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "224"
+      },
+      {
+        "label": "B",
+        "content": "296"
+      },
+      {
+        "label": "C",
+        "content": "320"
+      },
+      {
+        "label": "D",
+        "content": "416"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据题意可得，张师傅和李师傅的效率关系为：3×张+1×李=8×（张+李）×（\n），整理可\n得，张：李=3：1，设张师傅的效率为每小时3x 个，李师傅的效率为每小时x 个。根据“张师傅包\n粽子比李师傅每小时多14 个”可得，3x-x=14，解得x=7，则一共有8×（3×7+1×7）=8×28=224\n个粽子。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第62题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "安排A、B、C、D共4个研发团队参与甲、乙、丙3个课题的研究，要求每个课题至少有1个团队参与，每个团队 必须且只能参与1个课题，如甲课题参与的团队数超过1个，则A、B都不参与甲课题，问共有多少种不同的安排 方式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "24"
+      },
+      {
+        "label": "B",
+        "content": "26"
+      },
+      {
+        "label": "C",
+        "content": "36"
+      },
+      {
+        "label": "D",
+        "content": "42"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题意可知，甲课题参与的团队数可能为1 个或2 个，分情况讨论如下： \n（1）甲课题参与的团队数为1 个，先从4 个研发团队中任意选择1 个有\n种情况，再让剩\n下3 个团队参与乙、丙2 个课题有\n种情况，分步用乘法，共有4×6=24 种情况。 \n（2）甲课题参与的团队数为2 个，则只能C、D 参与甲课题，剩下A、B2 个团队参与乙、丙2 个课\n题有\n种情况。 \n分类用加法，则共有24+2=26 种安排方式。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第63题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "因自然灾害产生泄漏，某河流出现A物质污染。根据环保部门要求，自然水源中A物质的浓度不得高于x。经应 急处置后，水中的A物质浓度每24小时下降一半。自应急处置时开始，环保部门每24小时对河流水质进行1次检 测，在216小时后首次检测到河流中A物质浓度达标。问应急处置前A物质可能的最高浓度在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到300x"
+      },
+      {
+        "label": "B",
+        "content": "300x~600x"
+      },
+      {
+        "label": "C",
+        "content": "600x~1200x"
+      },
+      {
+        "label": "D",
+        "content": "超过1200x"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】\n根据题意可知，A 物质浓度每24 小时下降一半，以24 小时为一个周期，则216 小时后首次达标时\n共下降了\n次，每次下降前是下降后的2 倍。若想使应急处置前A 物质的浓度最高，\n则应使9 次检测后首次达标时的A 物质浓度最高，即正好等于x，向前倒推即可得到A 物质的初始\n\n2024 海南省公务员《行测》解析\n\n 智库，获取\n 22 / 36\n\n浓度为512x，在B 项范围内。如下表所示：\n\n故正确答案为B。\n\n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考hainan行测第64题",
+    "region": "hainan"
+  },
+  {
+    "id": "provincial-hainan-xingce-shuliang-2024-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一项工程，甲单独做完要8天的时间，甲、乙一起做了4天完成了工程的75%，剩余工程由乙独自完成还需要多 少天？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4天"
+      },
+      {
+        "label": "B",
+        "content": "8天 B.D.16天"
+      },
+      {
+        "label": "C",
+        "content": "12天"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据题意，赋值工程总量为8，甲的效率为\n，甲、乙效率和为\n，可知乙的效\n率为1.5-1=0.5，剩余工程量为8×（1-75%）=2，则乙独自完成还需要\n天。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考hainan行测第65题",
+    "region": "hainan"
+  }
+]

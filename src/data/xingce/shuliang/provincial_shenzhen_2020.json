@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-001",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，5，12，23，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "35"
+      },
+      {
+        "label": "B",
+        "content": "38"
+      },
+      {
+        "label": "C",
+        "content": "41"
+      },
+      {
+        "label": "D",
+        "content": "43"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：68%，易错项：A。\n\n解析\n\n第一步，本题考查多级数列。\n第二步，数列递增趋势平缓，优先考虑做差，可得差数列为：3、7、11，差数列是公差为 4 的等差数列，所以差\n数列的下一项为 11+4=15，则原数列的下一项为 23+15=38。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第1题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-002",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "4，5，12，31，68，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "114"
+      },
+      {
+        "label": "B",
+        "content": "118"
+      },
+      {
+        "label": "C",
+        "content": "122"
+      },
+      {
+        "label": "D",
+        "content": "129"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：51%，易错项：C。\n\n解析\n\n第一步，本题考查多级数列。\n第二步，数列递增趋势平缓，优先考虑做差，可得差数列为：1、7、19、37，差数列无规律，继续做差得到的新\n数列为：6、12、18，新数列是公差为 6 的等差数列，新数列的下一项为 18+6=24，则差数列的下一项为 37+24=61，\n则原数列的下一项为 68+61=129。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第2题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-003",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，1，9，100，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "144"
+      },
+      {
+        "label": "B",
+        "content": "1191"
+      },
+      {
+        "label": "C",
+        "content": "6560"
+      },
+      {
+        "label": "D",
+        "content": "11881"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，本题考查递推数列。\n第二步，观察数列发现，（2+1）²=9、（1+9）²=100，则规律为（第一项+第二项）²=第三项，则答案为（9+100）\n²＞10000，仅 D 选项符合。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第3题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-004",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "<img src=\"https://upload.gkzhenti.cn/16093266010422uw/47bdad8ef25f8016d8285eed8e12be73\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/16093266010422uw/f3520488cf77133dbc073c6aca13556e\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/16093266010422uw/86366f423e59ea3bc9d52311008bc5c2\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，2，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "观察数列，大部分为分数，考虑分数数列。数列中存在整数，考虑反约分。原数列可转化为、、、，发现分母均为4，分子为公差是3的等差数列，则数列的下一项分母为4，分子为，故所求项为。\n故正确答案为D。\n\n[来源 baijing1.top paperId=181 sort=4 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第4题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q004.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "－1，4，－3，－4，－9，4，（ ），（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "-27，－4"
+      },
+      {
+        "label": "B",
+        "content": "27，－4"
+      },
+      {
+        "label": "C",
+        "content": "－27，4"
+      },
+      {
+        "label": "D",
+        "content": "27，4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：72%，易错项：B。\n\n解析\n\n第一步，本题考查多重数列。\n第二步，数列项数较多且有两个括号，考虑为多重，优先交叉（即隔项观察），分为两个数列，奇数项为－1，\n－3，－9，是公比为 3 的等比数列，下一项为－9×3=-27，排除 B、D 选项；偶数项为 4，－4，4，是公比为－1\n的等比数列，下一项为 4×（－1）=－4，排除 C 选项。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第5题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-006",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，3，7，22，155，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3411"
+      },
+      {
+        "label": "B",
+        "content": "2988"
+      },
+      {
+        "label": "C",
+        "content": "1188"
+      },
+      {
+        "label": "D",
+        "content": "741"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：58%，易错项：C。\n\n解析\n\n第一步，本题考查递推数列。\n第二步，观察数列发现 2×3+1=7，3×7+1=22，7×22+1=155，数列规律为第一项×第二项+1=第三项，则所求项\n=22×155+1=3411。\n因此，选择 A 选项。\n\n拓展\n\n22×155+1 的尾数为 1，排除 B、C 选项，22×155+1 远大于 741，排除 D 选项，可直接秒杀 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第6题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-007",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "101，156，189，235，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "215"
+      },
+      {
+        "label": "B",
+        "content": "325"
+      },
+      {
+        "label": "C",
+        "content": "523"
+      },
+      {
+        "label": "D",
+        "content": "813"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：66%，易错项：C。\n\n解析\n\n第一步，本题考查特殊数列。\n\n- 1 -\n\n\f获取试卷更新，请关注\n第二步，数列每一项都是三位数，做差做和均无规律，考虑特殊数列；在每一项三位数中，1+0=1，1+5=6，1+8=9，\n2+3=5，即每一项的百位+十位=个位，各选项中只有 B 选项符合。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第7题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-008",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "6， ， ， ，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、"
+      },
+      {
+        "label": "B",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "C",
+        "content": "D、"
+      },
+      {
+        "label": "D",
+        "content": "[选项 OCR 抽取失败-D11]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：55%，易错项：C。\n\n解析\n\n第一步，本题考查非整数数列中的分数数列。\n\n第二步，原数列做差做和均无规律，考虑反约分；原数列反约分后为 ， ， ， ，分母是公差为 3 的等\n\n差数列，下一项为 10+3=13；分子是公差为 3 的等差数列，下一项为 15+3=18，故所求项为 。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第8题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q008.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-009",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "0，<img src=\"https://upload.gkzhenti.cn/16093266010422uw/f3520488cf77133dbc073c6aca13556e\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/16093266010422uw/09e74a33f5ff46050249855be01d63b6\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，1，1，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "题干数列包含整数与分数，选项均为分数，优先考虑分数数列，但将整数转化为分数后无规律。考虑做积找规律，前项后项依次得到：，，，，故相邻两项相乘得到新数列：0，，，1，观察发现，是公差为的等差数列。因此1所求项，解得所求项。\n故正确答案为D。\n备注：原数列相邻两项做和可得：，，，，做和后的数列分子做差可得：4，3，2，（1），即做和后数列的下一项为，原数列下一项为，B项也有规律。按照数字推理规律就简原则，小粉笔认为相邻两项乘积解析更合适，推荐答案为D。\n\n[来源 baijing1.top paperId=181 sort=9 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第9题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q009.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-010",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "1，7，9，23，41，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "77"
+      },
+      {
+        "label": "B",
+        "content": "83"
+      },
+      {
+        "label": "C",
+        "content": "87"
+      },
+      {
+        "label": "D",
+        "content": "96"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：65%，易错项：B。\n\n解析\n\n，故原数列所求项为\n\n。\n\n第一步，本题考查多级数列。\n第二步，数列递增趋势平缓，做差无果则考虑做和。相邻两项做和可得到新数列：8，16，32，64，构成以 2 为\n公比的等比数列，下一项为 64×2=128，则所求项为 128－41=87。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第10题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-011",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，4，12，68，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "126"
+      },
+      {
+        "label": "B",
+        "content": "217"
+      },
+      {
+        "label": "C",
+        "content": "630"
+      },
+      {
+        "label": "D",
+        "content": "3130"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：53%，易错项：B。\n\n解析\n\n第一步，本题考查幂次数列。\n第二步，观察数据均在幂次数附近波动，考虑幂次修正数列，则 2=1º+1，4=2¹+2，12=3²+3，68=4³+4，则所求\n\n项为\n因此，选择 C 选项。\n\n=625+5=630。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第11题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-012",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "12，26，312，420，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "530"
+      },
+      {
+        "label": "B",
+        "content": "550"
+      },
+      {
+        "label": "C",
+        "content": "622"
+      },
+      {
+        "label": "D",
+        "content": "625"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：36%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查特殊数列。\n第二步，数字变化无明显规律，考虑组合拆分，数字拆成两部分：1|2，2|6，3|12，4|20。\n前半部分为 1，2，3，4，构成公差为 1 的等差数列，则所求项的前半部分为 4+1=5；\n后半部分为 2，6，12，20，相邻两项做差（后－前）可得 4，6，8，构成公差为 2 的等差数列，下一项为 8+2=10，\n则所求项的后半部分为 10+20=30。\n故所求项为 530。\n因此，选择 A 选项。\n解法二：\n第一步，本题考查特殊数列。\n第二步，数字变化无明显规律，考虑组合拆分，数字拆成两部分：1|2，2|6，3|12，4|20。\n后除前分别为：2÷1＝2，6÷2＝3，12÷3＝4，20÷4＝5，构成公差为 1 的等差数列，则所求项的后半部分除以\n前半部分为 6，观察选项，仅 A 选项符合，30÷5＝6。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第12题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-013",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "28，30，33，38，45，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "53"
+      },
+      {
+        "label": "B",
+        "content": "54"
+      },
+      {
+        "label": "C",
+        "content": "56"
+      },
+      {
+        "label": "D",
+        "content": "57"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：65%，易错项：B。\n\n- 2 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，本题考查多级数列。\n第二步，数列变化趋势平缓，优先考虑做差，后项－前项得 2，3，5，7，（11），差数列是质数数列，差数列\n下一项为 11，则所求项为 45+11=56。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第13题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-014",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "0，24，12，18，15，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "15.5"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "16.5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：52%，易错项：B。\n\n解析\n\n解法一：第一步，本题考查多级数列。\n\n第二步，数列变化趋势平缓，优先考虑做差，后项－前项得 24，－12，6，－3，（1.5），差数列是公比为\n的等比数列，差数列下一项是 1.5，则所求项为 15+1.5=16.5。\n因此，选择 D 选项。\n解法二：第一步，本题考查递推数列。\n第二步，观察数列发现（0+24）÷2=12，（24+12）÷2=18，（12+18）÷2=15，相邻三项存在规律为（第一项＋\n第二项）÷2=第三项，则所求项为（18+15）÷2=16.5。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第14题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-015",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "1，2，5，11，26，59，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "98"
+      },
+      {
+        "label": "B",
+        "content": "137"
+      },
+      {
+        "label": "C",
+        "content": "179"
+      },
+      {
+        "label": "D",
+        "content": "215"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：54%，易错项：C。\n\n解析\n\n第一步，本题考查递推数列。\n第二步，原数列做差做和均无规律，考虑递推数列，观察数列发现 1×3＋2=5，2×3＋5=11，5×3＋11=26，11\n×3＋26=59，相邻三项规律为第一项×3＋第二项=第三项，则所求项为 26×3＋59=137（尾数为 7）。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第15题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-016",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某市徒步协会组织了一项“清洁海岸线”公益活动。志愿者早上 7 点从市区集合出发。徒步前往市郊海岸线 起点，然后沿海岸线捡拾垃圾。到达海岸线终点后立即沿原路折返。下午 1 点到达集合点一起收垃圾，已知志愿 者正常的徒步速度为 8km/h，捡拾垃圾的徒步速度为 4km/h，返程负重的徒步速度为 6km/h。去程与返程所用时 间相同，则该段海岸线长（ ）km。 - 1 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "18"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：39%，易错项：C。\n\n解析\n\n第一步，本题考查行程问题。\n第二步，从早晨 7 点到中午 1 点，共 6 小时，根据去程与返程所用时间相同可知，往返各 3 小时，返程速度为\n\n6km/h，单程为 6×3＝18km，设海岸线长 x\n解得 x＝6km。\n因此，选择 B 选项。\n\nkm，则集合点到海岸线长（18－x） km，列方程：\n\n＝3，",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第16题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-017",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "王老师的日历如下图所示。他每天清晨撕下前一天的那页日历，某天下午，王老师将最近撕下的 10 页日历 中的阿拉伯数字相加，算得总和为 244。则当天该日历展示为（ ）日。",
+    "options": [
+      {
+        "label": "A",
+        "content": "29"
+      },
+      {
+        "label": "B",
+        "content": "30"
+      },
+      {
+        "label": "C",
+        "content": "1"
+      },
+      {
+        "label": "D",
+        "content": "2"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：25%，易错项：C。\n\n解析\n\n第一步，本题考查数列问题。\n第二步，用代入排除法解题：代入 A 选项，当天日期是 29 日，撕下的 10 页是 19—28，其和为（19＋28）×10\n÷2≠244，排除；代入 B 选项，当天日期是 30 日，撕下的 10 页是 20—29，其和为（20＋29）×10÷2≠244，\n排除；代入 C 选项，当天日期是 1 日，撕下的 10 页是 21—30，其和为（21＋30）×10÷2≠244，或撕下的 10\n页是 22—31，其和为（22＋31）×10÷2≠244，排除；代入 D 选项，当天日期是 2 日，撕下的 10 页是 22—30、\n1，其和为（22＋30）×9÷2＋1≠244，或撕下的 10 页是 23—31、1，其和为（23＋31）×9÷2＋1＝244。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第17题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q017.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-018",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某日，小爱去文具店按原价购买了 20 本练习册；几日后，小爱再次经过文具店发现降价了 0.5 元，于是她 用同样多的钱比上次多买了 5 本。该练习册的原价为（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "2.5"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "3.5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：73%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，设练习册的原价为 x，根据每本便宜 0.5 元，同样多的钱比上次多买了 5 本，列方程：20x＝（20+5）\n（x－0.5），解得 x＝2.5 元。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第18题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-019",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某对新婚夫妻买了一套“月月骄”系列毛巾礼盒，内装 12 条，分别编号为 1—12 的毛巾。夫妻二人从礼盒 中各选一条毛巾自用，其毛巾所选数字大小至少相差 3 的情形共有（ ）种。",
+    "options": [
+      {
+        "label": "A",
+        "content": "56"
+      },
+      {
+        "label": "B",
+        "content": "72"
+      },
+      {
+        "label": "C",
+        "content": "90"
+      },
+      {
+        "label": "D",
+        "content": "111"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：55%，易错项：B。\n\n解析\n\n第一步，本题考查排列组合问题。\n\n- 3 -\n\n\f获取试卷更新，请关注\n第二步，两人数字相差至少 3，具体情况如下表：\n\n共计 9＋8＋7＋7＋7＋7＋7＋7＋7＋7＋8＋9＝90（种）。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第19题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-020",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某快递集散点有一批包裹，由甲、乙、丙三名快递员各自独立完成送达。其中有 93 件不是甲派送的，92 件 不是乙派送的，91 件不是丙派送的，则甲派送了（ ）件。",
+    "options": [
+      {
+        "label": "A",
+        "content": "44"
+      },
+      {
+        "label": "B",
+        "content": "45"
+      },
+      {
+        "label": "C",
+        "content": "46"
+      },
+      {
+        "label": "D",
+        "content": "47"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：62%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，其中有 93 件不是甲派送的说明乙丙共派送了 93 件，有 92 件不是乙派送的说明甲丙派送了 92 件，有\n91 件不是丙派送的说明甲乙共派送了 91 件，（甲＋乙）＋（甲＋丙）－（乙＋丙）＝2 甲＝92＋91－93＝90（件），\n那么甲派送了 90÷2＝45（件）。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第20题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-021",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某地方性体育彩票“10 选 4”的投注规则如下：投注者可以从 01—10（共 10 个号码）中投选 1—4 个号码 合成一组，称为“一注”（号码不区分排列顺序，如 02 ）注时，会出现至少 5 注相同号码。 当投注了（ 06 是由该 3 个号码组成的同一注）。 03 和 02 06 03",
+    "options": [
+      {
+        "label": "A",
+        "content": "1255"
+      },
+      {
+        "label": "B",
+        "content": "1361"
+      },
+      {
+        "label": "C",
+        "content": "1401"
+      },
+      {
+        "label": "D",
+        "content": "1541"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：19%，易错项：C。\n\n解析\n\n第一步，本题考查排列组合问题。\n\n第二步，从 01—10 十个数字中选择 1—4 个数字，有\n＝10＋45＋120＋210＝385（种），\n那么至少有 5 注相同，说明最不利时每种情况都有 4 注相同，那么至少投了 385×4＋1＝1541（注）才能保证有\n5 注是相同的。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第21题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-022",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某公园举办春节花展，在周长 400 米的中心区布置了环形花槽，并在花槽上每隔 16 米挂一只灯笼，不久后 元宵灯会临近，公园决定增加并挪动一些灯笼，但仍保持灯笼间距相等。已知加入新灯笼后，共有 5 只旧灯笼没 有移动，则调整后的灯笼间距最大为（ ）米。",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：56%，易错项：C。\n\n解析\n\n解法一：第一步，本题考查植树问题。\n第二步，根据题意，5 面没有移动的彩旗把跑道分成 5 段，每段长为 400÷5＝80（米）。设增加一些彩旗后间距\n为 x 米，原间距是 16 米。没有移动的彩旗间距为两次插旗间距的最小公倍数，则 16 与 x 的最小公倍数为 80。\n第三步，观察选项，只有 B、D 选项两个数字与 16 的最小公倍数为 80。题目要求间隔最大，则增加彩旗后的间\n距为 10 米。\n因此，选择 B 选项。\n解法二：第一步，本题考查植树问题。\n第二步，用代入排除法解题。要使间隔最大，从大到小依次代入选项。A 选项不能被 400 整除，排除；B 选项，\n16 和 10 的最小公倍数为 80，共有 400÷80＝5（面）彩旗没有移动，符合题意。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第22题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-023",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "烧瓶中装有浓度为 20%的盐水 1000g，先向瓶中倒入甲盐水 200g，再倒入乙盐水 400g，然后进行加热蒸干。 ）。 已知甲盐水的浓度是乙盐水的 3 倍，水分蒸干后总重量减轻至加热前的四分之一，则甲盐水的浓度为（",
+    "options": [
+      {
+        "label": "A",
+        "content": "60%"
+      },
+      {
+        "label": "B",
+        "content": "45%"
+      },
+      {
+        "label": "C",
+        "content": "20%"
+      },
+      {
+        "label": "D",
+        "content": "15%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：44%，易错项：B。\n\n解析\n\n第一步，本题考查溶液问题。\n\n- 4 -\n\n\f获取试卷更新，请关注\n第二步，设乙盐水的浓度为 x，那么甲盐水的浓度为 3x。混合后加热，水分蒸干后总重量减轻至四分之一，说明\n盐占溶液的四分之一，即浓度为 25%。可列方程：1000×20%＋200×3x＋400×x＝（1000＋200＋400）×25%，\n解得 x＝20%，那么甲盐水的浓度为 60%。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第23题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-024",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "已知一级技工每小时可加工 24 个零件，二级技工每小时可加工 20 个零件。某生产组共有一、二级技工 56 名，实行八小时工作制，每天最多可加工 10624 个零件，则该生产组有二级技工（ ）名。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：46%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，设二级技工有 x 名，则一级技工有（56－x）名。根据每天最多可加工 10624 个零件，可列方程：24×8\n×（56－x）＋20×8x＝10624，解得 x＝4。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第24题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-025",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某翻译团队中，每名译员都擅长英语、日语、俄语中的至少一门语言。经统计，擅长英语的有 17 人，擅长 日语的有 21 人，擅长俄语的有 23 人；擅长英语和日语的有 7 人，擅长英语和俄语的有 6 人，擅长日语和俄语的 有 6 人；擅长三门语言的仅占总人数的十五分之一，则仅擅长英语的译员有（ ）人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：31%，易错项：B。\n\n解析\n\n第一步，本题考查容斥问题。\n第二步，设翻译团队总人数为 15x，那么擅长三门语言的人数为 x。题干中满足两个条件的分别给出，故为三集\n合标准型容斥原理，根据三集合标准型公式可列方程：17＋21＋23－7－6－6＋x＝15x，解得 x＝3，那么仅擅长\n英语的有 17－7－6＋3＝7（人）。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第25题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-026",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某商场进行安全评估，进出该商场共设 6 道门，其中 4 道正门大小相同，2 道侧门大小也相同，当同时打开 3 道正门、1 道侧门时，2 分钟可以通过 600 名顾客；当同时打开 1 道正门、2 道侧门时，4 分钟可以通过 800 名 顾客。已知当发生紧急情况时因人员拥挤，同行效率将降低 15%，若紧急情况下 6 道门全部打开，5 分钟内能疏 散顾客（ ）名。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1650"
+      },
+      {
+        "label": "B",
+        "content": "1870"
+      },
+      {
+        "label": "C",
+        "content": "1980"
+      },
+      {
+        "label": "D",
+        "content": "2020"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：55%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题。\n第二步，设一道正门一分钟可以通过 x 人，一道侧门一分钟可以通过 y 人。可列方程组：（3x＋y）×2＝600；\n（x＋2y）×4＝800，解得 x＝80，y＝60。由于紧急情况时通行率降低 15%，那么一道正门一分钟可通过 80×（1\n－15%）＝68（人），一道侧门一分钟可通过 60×（1－15%）＝51（人），那么紧急情况时 6 道门都打开 5 分钟\n可通过（68×4＋51×2）×5＝1870（人）。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第26题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-027",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小王和小李从甲地去往相距 15km 的乙地调研。两人同时出发且速度相同。15min 后，小王发现遗漏了重要 文件遂立即原路原速返回，小李则继续前行；小王取到文件后提速 20%追赶小李，在小李到达乙地时刚好追上， 假设小王取文件的时间忽略不计，则小李的速度为（ ）km/h。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "4.5"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：54%，易错项：B。\n\n解析\n\n第一步，本题考查行程问题。\n第二步，小王取文件往返共用 15×2＝30（分钟），小王提速 20%，提速后小王与小李的速度之比为 6∶5，那么\n走完全程用时之比为 5∶6，时间差 1 份是 30 分钟，故小李走全程用时为 180 分钟，即 3 小时，那么小李的速度\n为 15÷3＝5（公里/小时）。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第27题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-028",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某日上午 8 点多，朱博士外出考察并在中午 12 点前返回办公室。已知，朱博士出门时办公室挂钟的时针与 分针成 160 度角，回来时成 30 度角，则在朱博士外出考察期间，时针与分针成 90 度角的次数最多有（ ）次。",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "4 - 2 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：17%，易错项：C。\n\n解析\n\n第一步，本题考查钟表问题。\n第二步，出门时 8 点多且分针和时针的夹角为 160°，应该是是 8 点 10 多分，回来时 11 点多且分针和时针的夹\n角为 30°，要想出现 90°角的次数多，应尽量晚回来，那么是 11 点 50 多分。\n第三步，分针与时针成 90°角的情况具体如下：8 点多一次、9 点整一次、九点多一次、十点多两次，十一点多\n两次，共计 7 次。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第28题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-029",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某市计划在一条笔直公路的两侧每隔 8 米种一棵木棉树，并把植树任务交由甲、乙两组工人完成，若甲组先 做 3 天，余下的任务由两组合作，则再做 4 天恰好完成。若乙组先做 15 天，余下的任务交由甲组，则再做 2 天 恰好完成。已知甲组比乙组每天多种 5 棵树，则这条公路长（ ）米。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1224"
+      },
+      {
+        "label": "B",
+        "content": "1232"
+      },
+      {
+        "label": "C",
+        "content": "1240"
+      },
+      {
+        "label": "D",
+        "content": "1248"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：39%，易错项：C。\n\n解析\n\n第一步，本题考查植树问题。\n第二步，3 甲＋4（甲＋乙）＝10 乙＋2 甲，化简得甲∶乙＝6∶5，甲组每天比乙组多种 5 棵数，那么甲组每天\n种 30 棵数，乙组每天种 25 棵数，那么一共需要种 25×10＋30×2＝310（棵）树，两侧各需要种 155 棵，一侧\n有 155－1＝154（个）间隔，那么这条公路长 8×154＝1232（米）。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第29题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-030",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "营养专家提出，鉴别奶粉优劣，主要看 OPO 结构脂、乳铁蛋白、叶黄素、牛磺酸、酪蛋白磷酸肽等几项指标， 符合三项及以上指标要求的奶粉品牌可以认定为合格。某次对一批奶粉品牌进行的-检发现，符合上述各项指标 要求的品牌数量分别占抽检总量的 82%、78%、73%、90%、57%，那么此次抽检的奶粉品牌的合格率至少是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "70%"
+      },
+      {
+        "label": "B",
+        "content": "66%"
+      },
+      {
+        "label": "C",
+        "content": "62%"
+      },
+      {
+        "label": "D",
+        "content": "58% 第二部分 判断推理"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：36%，易错项：B。\n\n- 5 -\n\n\f获取试卷更新，请关注\n解析\n\n第一步，本题考查最值问题。\n第二步，设共有 100 种奶粉品牌，则共有 82＋78＋73＋90＋57＝380（项）指标合格，根据符合三项及以上指标\n要求的奶粉品牌认定为合格，要使合格率尽可能少，优先给 100 种奶粉品牌每种分 2 项合格，为 100×2＝200 项，\n剩余 380－200＝180（项），要想使合格的尽可能少应该让尽量多的满足同时五项合格，即最多 57 个五项合格，\n其次让尽可能多的四项合格，设四项合格的为 x，可列方程：57×（5－2）＋x×（4－2）＝180，解得 x＝4.5\n即最多有 5 种四项合格，则至少有 57＋5＝62（种）奶粉品牌合格，合格率为 62÷100＝62%。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第30题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "11，22，34，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "50"
+      },
+      {
+        "label": "B",
+        "content": "48"
+      },
+      {
+        "label": "C",
+        "content": "46"
+      },
+      {
+        "label": "D",
+        "content": "44"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：56%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类或属性类。题干直线居多，考虑数线。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，图形中直线数分别为 4、3、2，呈等差规律；将此规律应用到第二段，前两图直线数分别为 2、1，问号\n处应有 0 条直线，只有 D 项符合。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第41题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，12，54，216，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "802"
+      },
+      {
+        "label": "B",
+        "content": "810"
+      },
+      {
+        "label": "C",
+        "content": "816"
+      },
+      {
+        "label": "D",
+        "content": "820"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：62%，易错项：D。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类或属性类。题干小元素居多，考虑数素。\n第二步，两段式，第一段找规律，第二段用规律。\n\n- 7 -\n\n\f获取试卷更新，请关注\n第一段，图形中圆的数量分别为 5、6、7，呈等差规律；第二段出现两种元素，考虑换算，应用第一段规律，可\n得换算规律◇=3○，则换算后前两图中圆的数量分别为 5、6，问号处换算后应有 7 个圆，只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第42题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "120，82，48，26，8，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：68%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成相似，优先考虑样式类。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，图 1 与图 2 定义叠加得到图 3，规律为：长+长=短，短+长=长，短+短=短；将此规律应用到第二段，第\n一行短+短=短，排除 B、D 项，第二、三行均为长+短，应得到相同图案，而 A 项第二、三行图案不同，排除 A 项，\n只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第43题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "-1，7，34，98，223，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "461"
+      },
+      {
+        "label": "B",
+        "content": "441"
+      },
+      {
+        "label": "C",
+        "content": "440"
+      },
+      {
+        "label": "D",
+        "content": "439"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：83%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类或属性类。图形均较为规整，考虑对称性。\n第二步，两段式，第一段找规律，第二段用规律。\n第一段，图形均为对称图形；第二段，前两图均为对称图形，问号处应为对称图形，只有 B 项符合。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第44题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "2，3， ， ，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "题干数列包含整数与分数，选项大多为分数，优先考虑分数数列，但将整数转化为分数后无规律。做差做和做积后均无规律，尝试做商，前项÷后项依次得到：，，，即相邻两项做商得到新数列为，2，6，是公比为3的等比数列。因此所求项，故所求项。\n故正确答案为D。\n\n[来源 baijing1.top paperId=183 sort=45 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第45题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小成下午 2 点有课，出门前他发现寝室的挂钟因电池耗尽停在 12 点，于是匆匆换了新电池但是忘了校准时 间就离开寝室，到达教室时发现离上课还有 15 分钟，课后小成在教室自习到晚上 9 点才动身离开，到达寝室时 发现挂钟显示为 7 点 45 分，若小成在寝室与教室之间往返用时相同，则其离开寝室的实际时间为下午（）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 点 15 分"
+      },
+      {
+        "label": "B",
+        "content": "1 点 26 分"
+      },
+      {
+        "label": "C",
+        "content": "1 点 30 分"
+      },
+      {
+        "label": "D",
+        "content": "1 点 36 分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：53%，易错项：C。\n\n解析\n\n第一步，观察特征。\n组成元素不同，优先考虑数量类或属性类。图形出现十字交点，考虑数点。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，图形交点个数分别为 1、2、3；第二行验证规律，图形交点个数分别为 1、2、3；第三行应用此规律，\n前两个图形的交点个数分别为 1、2，所以问号处的图形中交点的个数应为 3，只有 A 项符合。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第46题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某喷绘机每次同时单面印刷 2 张广告布，每印 1 面需要 1 分钟，广告布印后需晾干 2 分钟，现需双面印刷 15 张广告布，则至少需（ ）分钟的印刷时间。",
+    "options": [
+      {
+        "label": "A",
+        "content": "15"
+      },
+      {
+        "label": "B",
+        "content": "16"
+      },
+      {
+        "label": "C",
+        "content": "17"
+      },
+      {
+        "label": "D",
+        "content": "19"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：73%，易错项：A。\n\n解析\n\n第一步，观察特征。\n图形组成相似，黑色填充位置不同，考虑动态位置类平移。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，三个黑格沿着外围依次逆时针移动一格；第二行中，中间位置上的黑色填充不动，外圈的黑格沿着外\n围依次逆时针移动 2 格；第三行中，黑格沿外圈依次逆时针移动 3 格，观察选项，只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第47题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "深圳市民老李周末去郊游，他从家出发匀速骑行 2 小时到达梧桐山，游玩 4 小时后沿原路以原速返回，已知 老李离开家 5.5 小时后，其子小李驾车以 30 公里/小时的速度从家出发沿同一路线接老李，两人在距离梧桐山 10 公里路程处相遇，则老李的骑行速度是（）公里/小时。",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "15"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：42%，易错项：D。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。部分图形较为规整，考虑属性类对称性。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，三个图形依次为轴对称图形、中心对称图形、既非轴对称又非中心对称图形；第二行中的三个图形符\n\n- 8 -\n\n\f获取试卷更新，请关注\n合此规律；第三行应用此规律，只有 A 项符合。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第48题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "“数艺杯”绘画比赛的决赛规则如下：由 3 位评委对 11 件作品进行投票，每位评委对每件作品可以投一票 或者不投票；得 3 票的作品为一等奖，得 2 票的作品为二等奖；得 1 票的作品为三等奖，得票的作品为鼓励奖。 已知三位评委分别投出了 6 票、7 票、8 票。且有 3 件作品为鼓励奖，那么（）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "一等奖作品比三等奖作品多 5 件"
+      },
+      {
+        "label": "B",
+        "content": "一等奖作品比二等奖作品多 2 件"
+      },
+      {
+        "label": "C",
+        "content": "二等奖作品比一等奖作品多 5 件"
+      },
+      {
+        "label": "D",
+        "content": "二等奖作品比三等奖作品多 3 件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：48%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成不同，优先考虑数量类和属性类。曲直特征明显，考虑曲线或直线条数。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行中，所有汉字均由直线构成，即曲线条数均为 0；第二行中，三个字母组合中的曲线条数均为 1，第三行\n中，前两组字母组合中的曲线条数均为 2，所以问号处的字母组合中曲线的条数均为 2，只有 C 项符合。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第49题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某演唱会主办方为观众准备了白红橙黄绿蓝紫 7 种颜色的荧光棒各若干只，每名观众可在入口处任意选取 2 只，若每种颜色的荧光棒都足够多，那么至少（）名观众中，一定有两人选取的荧光棒颜色完全相同。",
+    "options": [
+      {
+        "label": "A",
+        "content": "14"
+      },
+      {
+        "label": "B",
+        "content": "22"
+      },
+      {
+        "label": "C",
+        "content": "28"
+      },
+      {
+        "label": "D",
+        "content": "29"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：31%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。\n第二步，九宫格，横向规律较为常见，优先考虑。\n第一行，三个图形的笔画数均为 1；第二行，三个图形的笔画数均为 2；第三行前两个图形的笔画数均为 3，所\n以问号处的图形笔画数也应为 3，只有 D 项符合。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第50题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "社区工作人员小吴在统计辖区人口的年龄时，不小心将某人年龄的十位数字与个位数字交换了位置，则以下 可能为其错误年龄与实际年龄的差值的是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "46"
+      },
+      {
+        "label": "C",
+        "content": "47"
+      },
+      {
+        "label": "D",
+        "content": "48"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：50%，易错项：D。\n\n解析\n\n第一步，观察特征。\n图形组成相似，部分图形内部有相同元素，考虑元素求同。\n第二步，一条式，从左到右找规律。\n图形①③④中均存在五角星，图形②⑤⑥中均存在七边形，分为两组。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第51题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某班级开展素质拓展游戏，20 名同学围成一个圆圈，以任意一名同学为起点从 1 开始依次报数，若所报数 字含 7 或为 7 的倍数，则该同学需表演节目。表演后即退出圆圈，余下的同学继续报数，那么当圆圈内只剩 5 名 同学时，报数次数最多的同学报过（ ）次。 - 6 - 获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：69%，易错项：C。\n\n解析\n\n第一步，观察特征。\n图形组成不同，均为汉字，考虑汉字的书写顺序。\n第二步，一条式，从左到右找规律。\n汉字①⑤⑥的第一笔均为撇，汉字②③④的第一笔均为竖，分为两组。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第52题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "港口仓库有 4 个不同重量的集装箱（均为整数吨），管理员将集装箱重量两两求和，并将得到的 6 个数都登 记在册，后因保管不当，数据中的最大值被污渍遮盖。已知其余 5 个数据分别是 23 吨、27 吨、30 吨、31 吨、 34 吨，则 4 个集装箱中最重的为（ ）吨。",
+    "options": [
+      {
+        "label": "A",
+        "content": "17"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "21"
+      },
+      {
+        "label": "D",
+        "content": "23"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：74%，易错项：B。\n\n解析\n\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。封闭面明显，优先考虑数面。\n第二步，根据规律进行分组。\n图形中①②⑥均为开放图形，没有封闭面，③④⑤均有一个封闭面，分为两组。\n因此，选择 A 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第53题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某科学家做了一项实验，通过向若干只狒狒提供不限量的香蕉和香肠以研究其食性。结果表明，90%的狒狒 有进食，其中吃香蕉的狒狒是吃香肠的狒狒数量的 3 倍，而两种食物都吃的狒狒是只吃香肠的狒狒数量的 ，则 未进食的狒狒是只吃香蕉的狒狒数量的（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "赋值只吃香肠的狒狒数量为3，根据题意可得：两种食物都吃的狒狒数量为，吃香肠的狒狒数量为，吃香蕉的狒狒数量为，只吃香蕉的狒狒数量为，如下图所示。因此有进食的狒狒数量为，则狒狒总数为，未进食的狒狒数量为，故未进食的狒狒是只吃香蕉的狒狒数量的。\n\n故正确答案为C。\n\n[来源 baijing1.top paperId=183 sort=54 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第54题",
+    "region": "shenzhen",
+    "questionImage": "/img/questions/provincial_shenzhen_2020/q054.png"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某款游戏共有 7 名英雄供玩家选择，7 名英雄的能力值恰好为 1-7 的不同整数。每局游戏开始前，玩家需要 任选 3 名英雄进行组队。玩家阿坤在进行了无数次的组队尝试后发现，不能一味选择能力值高的英雄组队，只有 当 3 名英雄的能力值平均数大于 3 且小于 5 时才能获胜。则阿坤在组队尝试过程中的胜率是（ ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "20%"
+      },
+      {
+        "label": "B",
+        "content": "38%"
+      },
+      {
+        "label": "C",
+        "content": "50%"
+      },
+      {
+        "label": "D",
+        "content": "60%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n- 9 -\n\n\f获取试卷更新，请关注\n第一步，观察特征。\n图形组成不同，考虑数量类或属性类。平行线明显，考虑平行线。\n第二步，根据规律进行分组。\n图形中②③④均有平行线，①⑤⑥均没有平行线，分为两组。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第55题",
+    "region": "shenzhen"
+  },
+  {
+    "id": "provincial-shenzhen-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "将下列选项中的词语依次填入句子横线处，最恰当的一组是： 第四部分 言语理解与表达 （1）在金大的四年中，程先生如饥似渴地吸取营养，学问大进，他在晚年深情回忆：“在大学四年中，诸位老 师各有专长，已使我______,枵腹日充。” （2）张旭诗云：“山无物态弄春晖，莫为轻阴便拟归”，可见在日常生活，斜风细雨也可能成为______的借口。",
+    "options": [
+      {
+        "label": "A",
+        "content": "耳濡目染、裹足不前"
+      },
+      {
+        "label": "B",
+        "content": "通达谙练、停滞不前"
+      },
+      {
+        "label": "C",
+        "content": "耳濡目染、停滞不前"
+      },
+      {
+        "label": "D",
+        "content": "通达谙练、裹足不前"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：92%，易错项：D。\n\n解析\n\n第一步，确定题干逻辑关系。\n“晨曦”是黎明后的微光，只出现于“清晨”，二者为时间的对应关系。\n第二步，辨析选项。\nA 项：“雾霭”是指雾气，与“大漠”没有必然的逻辑关系，与题干逻辑关系不一致，排除；\nB 项：“追忆”“青春”，二者为动宾关系，与题干逻辑关系不一致，排除；\nC 项：“皓月”只出现于“夜晚”，二者为时间的对应关系，与题干逻辑关系一致，符合；\nD 项：“下雨”之后，地面可能会长“蘑菇”，二者为天气现象的对应关系，与题干逻辑关系不一致，排除。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考shenzhen行测第56题",
+    "region": "shenzhen"
+  }
+]

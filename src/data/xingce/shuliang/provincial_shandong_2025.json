@@ -1,0 +1,400 @@
+[
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "为应对浒苔灾害，某市对海上浒苔打捞，初始打捞区域面积为 150 平方公里，第一天清 理掉 20%，当晚由于浒苔漂浮，致使原剩余打捞区域面积增加了 15%，第二天清理掉了 剩余面积的 25%。第二天清理完，剩余打捞区域面积约为多少平方米（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "114"
+      },
+      {
+        "label": "B",
+        "content": "B．104"
+      },
+      {
+        "label": "C",
+        "content": "128"
+      },
+      {
+        "label": "D",
+        "content": "D．138 ~ 8 ~"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B \n\n【解析】和差倍比。初始 150，第一天清理 20%，150×20%=30，剩余 150-30=120，第一天夜\n\n晚增加 15%，120×（1+15%）=138，第二天清理剩余面积的 25%，剩余清理的=138×（1-\n\n25%）=103.5。 \n\n  故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第51题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "有某步行爱好者以每小时 6 千米的速度爬山，爬行路程的一半时，休息 15 分钟，速度降 到原来的到二分之一，总共用时 2.5 小时，问爬山的总路程是多少（ ） 全国服务电话：400-6353-606",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "C",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "13.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A \n\n【解析】等距离平均速度。前半段路程速度 6，后半段路程速度降到原来一半为 3，根据等距\n\n离平均速度公式2𝑉1𝑉2\n𝑉1+𝑉2\n\n= 2×6×3\n6+3\n\n= 4，全程平均速度每小时 4 千米，公用 2.5 小时休息 15 分\n\n钟，爬山时间 2 小时 15 分钟，S=V×T=4×2 小时 25 分=9km。 \n\n  故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2025年省考shandong行测第52题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "某小区要安装若干电动车充电桩，由张师傅先施工 5 天，李师傅再施工 9 天就能全部完 成。如果张师傅先施工 7 天，李师傅再施工 6 天也能完成，现在由张师傅和李师傅一起 施工，3 天后张师傅有新的工作离开，剩余的由李师傅单独完成，还需要几天才能完成 （ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "10 天"
+      },
+      {
+        "label": "C",
+        "content": "7 天"
+      },
+      {
+        "label": "B",
+        "content": "8 天"
+      },
+      {
+        "label": "D",
+        "content": "9 天"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D \n\n【解析】工程问题。5 张+9 李=7 张+6 李，张的效率：李的效率=3：2。赋值张的效率=3，李\n\n的效率=2。工作总量 W=3×5+9×2=33，时间 t=\n\n33−3×5",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2025年省考shandong行测第53题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "某单位安排田径比赛 100m 决赛将按半决赛成绩安排道次前 4 名运动员：抽签排在 3、4、",
+    "options": [
+      {
+        "label": "A",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "B",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "C",
+        "content": "[选项暂缺]"
+      },
+      {
+        "label": "D",
+        "content": "[选项暂缺]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C \n\n【解析】排列组合。4 名运动员抽签排在 3、4、5、6 道，不同的人不同的位置有顺序𝐴4\n2，总安排方式=𝐴4\n\n2。后两名运动员抽签排在 1，2 道𝐴2",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第54题",
+    "region": "shandong",
+    "meta": {
+      "invalid": true,
+      "reason": "pdf_not_located"
+    }
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-005",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "6 道，第 5、第 6 名运动员抽签排在七八道。后两名运动员抽签排在一二道问共有多 少种安排方式（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "C",
+        "content": "96"
+      },
+      {
+        "label": "B",
+        "content": "72"
+      },
+      {
+        "label": "D",
+        "content": "120"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B \n\n【解析】本题考查经济常识。国际收支逆差也被称为国际收支赤字，是指某一国国际收支上\n\n支出大于收入。 \n\nA 项，出口额大于进口，即收入大于支出，不属于国际收支逆差。属于国际收支顺差； \n\nB 项，对国外进行援助，会增加我国的支出，进而导致国际收支逆差； \n\nC 项，海外的汇款属于我国的收入； \n\nD 项，国外游客到中国旅游，可以增加我国的收入。 \n\n  故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第5题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "小王和小刘定期参加红色文化宣传活动，小王每隔 19 天去一次，小刘每周来（周六或周 天），某周日，两个人共同参加了宣传，在没有其他统一安排的情况下，问下一次两个人 最少再隔多少天共同宣传活动（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "19"
+      },
+      {
+        "label": "C",
+        "content": "21"
+      },
+      {
+        "label": "B",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "22"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A \n\n【解析】周期相遇。小王每隔 19 天去一次，周期为 20.这周日两人共同参加了活动，20 天后\n\n为周六，小刘周六或周日参加，所以 20 天后两人共同宣传活动。20 天后相隔 19 天。 \n\n全国服务电话：400-6353-606 \n\n  故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第55题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "某超市母亲节前夕花费 288 元买 120 支康乃馨，初期获得 50%的期望利润定价出售，售 出 75%之后，剩余的康乃馨按定价打折促销，已知最终获得的利润是初期期望获得利润 的 85%，问康乃馨打几折出售（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "7.5"
+      },
+      {
+        "label": "D",
+        "content": "8.5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C \n\n【解析】方程法。每支康乃馨的单价为288",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第56题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "某社团组织四十余名志愿者前往 A 地参与科普活动，若平均分为 4 组，则需要至少一名 志愿者。若平均分为 5 组，则至少要再需要招募两名志愿者。若分为 3 组，每组 10 余 人，且人数各不相同，问该分组方式中人数最多与人数最少，至少差几人（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "B．2"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "D．5 ~ 9 ~"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A \n\n【解析】方程法。设总人数为 x，根据倍数特性，则x + 1为 4 的倍数；x + 2为 5 的倍数，并\n\n且分为 3 组，每组 10 余人，则x＞30，所以x = 43人，分为 3 组43",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第57题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "甲乙两种商品在AB跨境电商平台销售，甲乙成本分别为50元/件、70元，问甲乙两种商品售出数量之比在哪些范围内（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于 3"
+      },
+      {
+        "label": "C",
+        "content": "4—5 之间"
+      },
+      {
+        "label": "B",
+        "content": "3—4 之间"
+      },
+      {
+        "label": "D",
+        "content": "高于 5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题题干仅给出甲、乙两种商品的单位成本，未给出售价、销售额、利润、总成本或其他约束条件，无法由现有条件唯一推出两种商品售出数量之比。\n\n本地PDF与外部题源核对后，题面均未提供额外条件，属于题源条件缺失题。暂保留原题源答案A，但该题不应作为可独立推导题使用，后续需要补到完整题源后再恢复解析。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第58题",
+    "region": "shandong",
+    "meta": {
+      "shortExplanationAuditedAt": "2026-05-26",
+      "shortExplanationOrigLen": 15,
+      "shortExplanationRescueClass": "B",
+      "shortExplanationRescuedBy": "D18b-local-pdf-web-check",
+      "shortExplanationRescuedAt": "2026-06-02",
+      "invalid": true,
+      "reason": "insufficient_conditions_in_source"
+    }
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "山东某图书馆开展古籍数字化转化实验，每册古籍数字转化成功率 90%。假设每册古籍 数字转化成功与否互不影响，现在选择四册古籍进行数字化转化，问至少有三册转化成 功的概率是多少（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "65.97%"
+      },
+      {
+        "label": "C",
+        "content": "94.77%"
+      },
+      {
+        "label": "B",
+        "content": "70.74%"
+      },
+      {
+        "label": "D",
+        "content": "99.63%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C \n\n【解析】概率问题。至少成功转化三册，共分为 2 种情况，每册古籍数字转化成功率 90%，\n\n第一种情况：成功转化三册，概率为C4\n\n3 × 0.9 × 0.9 × 0.9 × 0.1 = 29.16%；第二种情况：\n\n成功转化四册，概率为0.9 × 0.9 × 0.9 × 0.9 = 65.61%，所以概率为29.16% + 65.61% =",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2025年省考shandong行测第59题",
+    "region": "shandong"
+  },
+  {
+    "id": "provincial-shandong-xingce-shuliang-2025-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2025,
+    "content": "某单位建成正方形实验田，边长为 36 米，在其中一边的 1/4 处，安装一个喷灌设置，该 灌溉半径为 18 米，该农田被灌溉面积为多少（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 380"
+      },
+      {
+        "label": "B",
+        "content": "B．380—420"
+      },
+      {
+        "label": "C",
+        "content": "420—450"
+      },
+      {
+        "label": "D",
+        "content": "D．450 以上 第四部分 判断推理 （共 40 题，参考时限 40 分钟） 一、图形推理。请按每道题的答题要求作答。 请开始答题： 61—70．题干缺失 二、定义判断。每道题先给出定义，然后列出四种情况，要求你严格依据定义，从中选出一 个最符合或最不符合该定义的答案。注意：假设这个定义是正确的，不容置疑的。 请开始答题："
+      }
+    ],
+    "answer": "B",
+    "explanation": "、元素组成凌乱，考查数数。题干中给出的三幅图元素总数量为3、4、5，下个数字应该为6，答案应该在\nC、D 两项中选择。题干中图形还有黑圈与白圈之分，在三幅图中它们的数量规律是：2 个白圈、3 个黑圈、4\n个白圈，因此在要求的图形中应该有5 个黑圈，D 项符合要求。\n故正确答案为D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2025年省考shandong行测第60题",
+    "region": "shandong"
+  }
+]

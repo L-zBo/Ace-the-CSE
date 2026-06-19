@@ -1,0 +1,570 @@
+[
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "工厂有两条效率相同的生产线 A 和 B。现有 n 件产品的订单乙和 5n 件相同产品的订单甲。两条生产线先合 作 x 天完成甲订单的部分生产任务，之后两条生产线分别负责不同订单的生产任务，又过 y 天后乙订单完成， 此时两条生产线继续合作 x 天，完成全部甲订单的生产任务。问 x 和 y 的关系为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "x=0.5y"
+      },
+      {
+        "label": "B",
+        "content": "x=y"
+      },
+      {
+        "label": "C",
+        "content": "x=2y"
+      },
+      {
+        "label": "D",
+        "content": "x=4y"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：40%，易错项：C。\n解析\n第一步，本题考查工程问题，属于效率类。\n第二步，设A、B两条生产线的效率均为1，对于订单乙，一条生产线单独y天完成，则y=n；对于订单甲，两条\n生产线共合作2x天，且还需一条生产线单独生产y天，才能完成，则2×2x+y=5n，解得x=n。x、y均为n，所\n以x=y。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第46题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-047",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两辆小车从相距 100 米的轨道两端同时出发相向而行，甲车以 2 米/秒的速度匀速行驶，乙车从静止 状态开始以 1 米/秒²的加速度均匀加速行驶，到达终点后停下。问以下哪个图能准确描述甲乙各自到达终点前， 两车之间的距离与时间的关系（横轴为时间，纵轴为直线距离）？ - 8 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "72.25%"
+      },
+      {
+        "label": "B",
+        "content": "74.5%"
+      },
+      {
+        "label": "C",
+        "content": "82.5%"
+      },
+      {
+        "label": "D",
+        "content": "85%"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：20%，易错项：B。\n解析\n第一步，本题考查行程问题，属于基本行程类。\n第二步，由题意甲车以2米/秒的速度匀速行驶，乙车从静止开始以1米/秒²的加速度开始匀加速行驶，则两车\n在相遇之前，两车的距离为 ，是一个二次函数，图像是开口向下抛物线的一半，\n排除A、C选项。\n第三步，两车在相遇之后且都未到达终点前，两车的距离为 （根据v=at可知，出\n发2秒时，甲、乙两车车速相同，两车相遇时，乙车速度及行驶距离均远大于甲车），故乙车将先到终点，此后\n两车间距离的变化，为甲车匀速运动向终点行驶，是一条直线。\n因此，选择D选项。\n拓展\n为甲乙两车相遇时乙车的速度，此车速无需计算，对求解本题无意义。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第47题",
+    "region": "sichuan",
+    "meta": {
+      "invalid": true,
+      "reason": "pdf_not_located"
+    }
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-048",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙两个箱子中分别装有不同数量的某种商品，总数不到 100 件，如果从甲或乙箱子中随机拿出 1 件这 种商品，拿到次品的概率分别为 5%和 10%。如果将两箱内的商品混合后再随机拿出 1 件，则拿到次品的概率为 6%。问从乙箱中随机拿出 3 件这种商品，均不为次品的概率 x 在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "x＜72%"
+      },
+      {
+        "label": "B",
+        "content": "72%≤x＜81%"
+      },
+      {
+        "label": "C",
+        "content": "81%≤x＜90%"
+      },
+      {
+        "label": "D",
+        "content": "x≥90%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：13%，易错项：B。\n解析\n-12-\n获取试卷更新，请关注第一步，本题考查概率问题，属于基本概率，用十字交叉法解题。\n第二步，甲、乙两箱分别拿到次品的概率为5%和10%，则甲、乙两箱中商品的数量分别是20和10的倍数。根据\n甲、乙混合后拿到次品的概率为6%，十字交叉得：\n，甲、乙两箱中商品的数量之比为4∶1，又因甲、乙两箱中商品的数量分别是20、10\n的倍数且总数不到100件，则甲为40件，乙为10件。\n第三步，随机从乙箱中抽取3件这种商品，均不为次品的概率为 。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第48题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-049",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "高校某教研室某年承接部级科研项目 5 个，经费总额为 500 万元，且每个项目经费都是整数万元，已知经 费最多的两个项目平均经费与经费最少的两个项目经费之和相同，问经费排名第三的项目可能的最低经费金额 为多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "145"
+      },
+      {
+        "label": "B",
+        "content": "142"
+      },
+      {
+        "label": "C",
+        "content": "74"
+      },
+      {
+        "label": "D",
+        "content": "71"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：54%，易错项：B。\n解析\n第一步，本题考查最值问题，属于数列构造。\n第二步，总和一定，求某项的最值，利用数列构造方法解题。首先把5个项目按从大到小的顺序排列，设问题所\n求第三项经费为x，要求x最小值，其他项需尽量大，则最后两项均为x-1，则后两项之和为2x-2，前两项之和\n为4x-4。五项之和为（4x-4）+x+（2x-2）=500，解得x= 。\n第三步，求x的最小值，向上取整。当x=73时，后两项均为72，其和为72×2=144，前两项和为144×2=288，\n此时第三项为500-144-288=68，不符合题意，则后两项最大只能为71，其和为71×2=142，前两项和为142×2=284，\n此时第三项为500-142-284=74，为最小值。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第49题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-050",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某种圆珠笔单支购买 1.7 元/支，另有 5 元/3 支和 15 元/10 支两种包装供购买，办公室购买这种圆珠笔 x 支，最低可能的购买总价为 1.7x-2.3 元，问 x 可能的最大值为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "19"
+      },
+      {
+        "label": "B",
+        "content": "21"
+      },
+      {
+        "label": "C",
+        "content": "29"
+      },
+      {
+        "label": "D",
+        "content": "31"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：15%，易错项：C。\n解析\n解法一：第一步，本题考查经济利润问题。\n第二步，3支圆珠笔单支购买需要1.7×3=5.1（元），按整包装购买每3支可便宜0.1元；10支圆珠笔单支购\n买需要1.7×10=17（元），按整包装购买每10支可便宜2元。\n第三步，最低购买总价为1.7x-2.3，相比单支购买共优惠2.3元，即购买10支装一包优惠2元、购买3支装3\n包，优惠0.3元，x最大值为19。\n因此，选择A选项。\n解法二：第一步，本题考查经济利润问题。\n第二步，3支圆珠笔单支购买需要1.7×3=5.1（元），按整包装购买每3支可便宜0.1元；10支圆珠笔单支购\n买需要1.7×10=17（元），按整包装购买每10支可便宜2元。\n第三步，若x＞20，即至少购买10支装两包，优惠2×2=4（元），不符合题意，结合选项，只有A选项符合。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第50题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某超市出售 1.5 升装和 4 升装两种规格的矿泉水，1.5 升装的每瓶进价 3 元，售价 4.5 元；4 升装的每瓶进 价 7 元，售价 9 元。三月份该超市共出售 1000 升矿泉水，利润（总售价一总进价）为 800 元。问售出 1.5 升装 水的瓶数是 4 升装的几倍?",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "1.5"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：32%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，1.5升装矿泉水每瓶利润为4.5－3=1.5元，4升装矿泉水每瓶利润为9－7=2元，设售出1.5升矿泉水\nx瓶、4升矿泉水y瓶。根据共售出1000升、利润800元列方程：1.5x+4y=1000、1.5x+2y=800，解得x=400、\ny=100，售出1.5升矿泉水的瓶数是4升装的4倍。\n因此，选择A选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第51题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某工程由甲、乙两家企业共同参与，甲企业的实际出资额是乙企业的 3 倍，乙企业投入的人力资源是甲企 业的 2 倍。如将两家企业投入的人力资源按一定价格折算为出资额并依折算后的出资额分配利润，则甲企业分 配的利润是乙企业的 1.2 倍。问如乙企业的出资额增加 50%而其他条件不变，其分得的利润为甲企业的多少倍?",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.90"
+      },
+      {
+        "label": "B",
+        "content": "0.95"
+      },
+      {
+        "label": "C",
+        "content": "1.00"
+      },
+      {
+        "label": "D",
+        "content": "1.05"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：44%，易错项：C。\n解析\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设乙实际出资为a、根据甲是乙的3倍，则甲实际出资为3a；设甲投入人力资源为b、根据乙是甲的2\n倍，则乙投入为2b，根据甲的利润是乙的1.2倍（即甲的总投入是乙的1.2倍）列方程：3a+b=1.2（a+2b），\n解得a= 。\n-13-\n获取试卷更新，请关注第三步，如乙的出资额增加50%为a×（1+50%）=1.5a，则乙的利润是甲的\n。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第52题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某单位举办乒乓球比赛，经过初赛之后最终只有甲、乙、丙、丁四人进入决赛，半决赛随机抽签决定对手， 胜者进入决赛，按平时练习情况，甲对乙的胜率是 7/10，甲对丙的胜率是,3/10，甲对丁的胜率是 1/2，乙对丙 的胜率是 1/5，乙对丁的胜率是 3/10，丙对丁的胜率是 2/3，则下列判断正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "一定存在一种分组方式，丁比丙夺冠的几率更大"
+      },
+      {
+        "label": "B",
+        "content": "一定存在一种分组方式，乙夺冠的几率能超过 10%"
+      },
+      {
+        "label": "C",
+        "content": "当甲和丁，乙和丙进行半决赛时，甲夺冠的可能性最大"
+      },
+      {
+        "label": "D",
+        "content": "甲和乙进行半决赛时，甲夺冠可能性大于甲和丙进行半决赛的情况"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：20%，易错项：C。\n解析\n第一步，本题考查概率问题，属于其他概率问题。\nA选项：丙与任何对手比赛获胜的概率均高于丁（包括丙丁直接对决），故一定没有任何一种方式，丁比丙夺冠\n的几率更大，错误；\nB选项：乙对甲、丙、丁的胜率分别为：30%、20%、30%，乙夺冠概率最高的方式是2场比赛分别遇到甲与丁，\n概率为30%×30%=9%，未超过10%，错误；\n甲对乙、丙、丁的胜率分别为：70%、30%、50%，甲在半决赛遇到乙时夺冠的可能性最大，C选项错误、D选项正\n确。\n因此，选择D选项。\n拓展\n当四人实力排名确定时，若想达到夺冠概率最高，应在半决赛挑选另外三人中实力最差的一名。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第53题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一个重量为 x 千克的圆台形容器如下所示，其口部半径是底面半径的 2 倍，在容器中装满水，总重量为 9 千克，从中倒出部分水使得液面高度为装满水时的一半，总重量下降到 4.5 千克。问 x 的值在以下哪个范围内? - 9 -",
+    "options": [
+      {
+        "label": "A",
+        "content": "x＜1.5"
+      },
+      {
+        "label": "B",
+        "content": "1.5≤x＜2"
+      },
+      {
+        "label": "C",
+        "content": "2≤x＜2.5"
+      },
+      {
+        "label": "D",
+        "content": "x≥2.5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：47%，易错项：B。\n解析\n第一步，本题考查立体几何问题，属于立体几何类。\n第二步，总重量=水的重量+容器重量，总重量是9千克，倒出部分水使得液面高度为装满时的一半时，总重量下\n降到4.5千克，可知倒出水的重量是9-4.5=4.5千克。\n第三步，设剩余水的质量为y、圆台上底半径为2r，下底半径为r，根据水的密度相同，倒出水的体积与剩余水\n的体积之比等于它们的重量之比，列方程\n，解得y 2.31千克。则容器重量\nx=4.5-2.31=2.19（千克）。\n因此，选择C选项。\n拓展\n圆台体积公式：V=",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第54题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2020/q054.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一个容器由一个长方体和一个半圆柱体如下图组合而成，长方体的长为 1 米，宽为 0.5 米、高为 2 米。在 这个容器表面涂漆花费 200 元，问平均每平方米的涂漆成本在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不超过 20 元"
+      },
+      {
+        "label": "B",
+        "content": "超过 20 元但不超过 25 元"
+      },
+      {
+        "label": "C",
+        "content": "超过 25 元但不超过 30 元"
+      },
+      {
+        "label": "D",
+        "content": "超过 30 元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：41%，易错项：C。\n解析\n第一步，本题考查几何问题，属于立体几何类。\n第二步，由于长方体与半圆柱体组合如图，则此长方体的表面积=上+下+左+右+后=（0.5×1）×2+（0.5×2）×\n2+（1×2）=5，半个圆柱体表面积=2× =（π×0.5²）+（π×0.5）×2 3.925（平方米）。\n第三步，平均每平米的涂漆成本=总花费÷总面积=200÷（5+3.925）≈22.4（元）。\n因此，选择B选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第55题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2020/q055.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： 第四部分 判断推理",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：81%，易错项：B。\n解析\n第一步，观察特征。\n组成元素不同，优先考虑数量或属性。\n第二步，一条式，从左到右找规律。\n题干中存在明显的特征图形：三角形；选项中A、B也为笔画问题的特征图形，所以考察的是一笔画。\n因此，选择D选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "图形推理"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第56题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2020/q056.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某支部的每名党员均以 5 天为周期，在每个周期的最后 1 天提交 1 篇学习心得。某年的 1 月 1 日是周日， 在 1 月 1 日—5 日的 5 天内，支部分别收到 2 篇、3 篇、3 篇、1 篇和 1 篇学习心得。问当年前 12 周（每周从周 日开始计算）内，支部共收到多少篇学习心得？",
+    "options": [
+      {
+        "label": "A",
+        "content": "170"
+      },
+      {
+        "label": "B",
+        "content": "169"
+      },
+      {
+        "label": "C",
+        "content": "120"
+      },
+      {
+        "label": "D",
+        "content": "119"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：76%，易错项：D。\n解析\n第一步，对比选项，确定首句。观察发现①③④⑥均可为首句，首句无法确定。\n第二步，观察句子之间关系。③⑤两句话进行话题捆绑，⑤中的“即”表示解释说明，③中的“地方性消弭时民\n俗也随之消失”对应⑤中“地方文化的多样性也不复存在了”，排除A项、B项和D项。\n第三步，验证C项。开头③⑤阐述民俗，即地方文化的多样性不复存在，接着④①论述大众传播媒介使时空缩小，\n交通的发展使空间变近，使得⑥中提到的传统民俗变成了量版式的“工业产品”，对应②中的职业化。文意流畅，\n符合排序。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第41题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一批相同的 17 件产品，交给甲、乙、丙三人生产。已知甲、乙、丙三人生产一件产品所需时间相同，每个 人至少分到四件产品的生产任务，三人同时开始生产且完成各自的任务之前不休息。问完成所有工作所需时长 有多少种不同的可能性？",
+    "options": [
+      {
+        "label": "A",
+        "content": "9"
+      },
+      {
+        "label": "B",
+        "content": "8"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "3"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：62%，易错项：B。\n解析\n第一步，通读全文，重点看话题落脚点。全文话题都围绕“乡土”这一话题，而尾句仍然在讲“住在城市的作者\n也写关于乡土的小说”，所以接下来讲述的内容要围绕“乡土”这一话题。\n第二步，对比选项。A项和D项均无“乡土”话题，排除。B项“文坛著名乡土作家”在第二句提到的，排除。C\n项符合“话题一致”的原则。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第42题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "甲、乙、丙 3 种商品的库存分别为 300 件、300 件和 400 件，单价分别为 300 元、500 元和 400 元。销售出 总库存量一半的商品后，剩余商品打 5 折销售，问总销售额最高为多少万元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "28.5"
+      },
+      {
+        "label": "B",
+        "content": "30"
+      },
+      {
+        "label": "C",
+        "content": "31.5"
+      },
+      {
+        "label": "D",
+        "content": "33"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：43%，易错项：C。\n解析\n第一步，分析文段。文段先指出科学和艺术如同硬币的两面，并介绍了它们共同的基础，接着指出科学传播也是\n一种创造性活动，在这个过程中需要把科学和艺术结合起来，然后从学术同行的传播和面向普通公众的传播两个\n角度进行论证。文段为“分—总—分”结构，强调科学传播的过程需要把科学和艺术结合起来。\n第二步，对比选项。A项是文段重点的同义替换，适合做文段标题。\n-11-\n获取试卷更新，请关注因此，选择A选项。\n拓展\nB项：对应文段首句，非重点。C项：“大众文化”只能对应面向公众的传播，且没有提到“科学传播”的话题。\nD项：“艺术封面”对应论证说明的部分，非重点。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第43题",
+    "region": "sichuan"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "公园修了一个梯形的草坪 ABCD，如下图所示，游客只能沿实线行走，其中 AB 长 40 米，DC 长 80 米，AD 长 40 米，BC 长 60 米，E、F 点为 AD 和 BC 的中点。后为了方便游客，拟修一条木质栈道 EF 穿过草坪，则该栈道 至少可以让游客从入口 E 点到出口 C 点少走多少米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "15"
+      },
+      {
+        "label": "C",
+        "content": "20"
+      },
+      {
+        "label": "D",
+        "content": "25"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：61%，易错项：D。\n解析\n第一步，分析横线处的上文语境。文段先指出农民是乡村振兴的主体和受益者，需要调动他们的积极性、主动性、\n创造性，接下来指出在以往的农业生产中我们存在重物轻人的现象，并介绍了其表现，接着指出乡村发展的本质\n是人的健康发展，强调农民素质和能力提升的重要性，尾句通过“因此”进行总结，也要承接上文话题，即重视\n农民素质和能力的提升。\n第二步，对比选项。C项符合上述语境。\n因此，选择C选项。\n拓展\nA项：“公共资源投入”不是上文论述的重点，话题不一致。B项：没有提到“乡村振兴”的话题，且“科学素\n养”属于范围的缩小。D项：“根本”过于绝对，且这些都是提高素质的具体对策，D项没有提到“提高素质”\n的相关话题。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第44题",
+    "region": "sichuan",
+    "questionImage": "/img/questions/provincial_sichuan_2020/q044.png"
+  },
+  {
+    "id": "provincial-sichuan-xingce-shuliang-2020-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "一次长跑活动中，某人跑了比全程的 2/9 多 2000 米的路程后，发现其已跑过的路程长度恰好是未跑路程的 5/7。问他还剩多少米的路程未跑？",
+    "options": [
+      {
+        "label": "A",
+        "content": "5000"
+      },
+      {
+        "label": "B",
+        "content": "5300"
+      },
+      {
+        "label": "C",
+        "content": "6000"
+      },
+      {
+        "label": "D",
+        "content": "6400"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：87%，易错项：A。\n解析\n第一步，分析文段，将选项与原文一一对应。\n第二步，辨析选项。A项与原文不符，对应“蛾类和包括蝴蝶在内的鳞翅目昆虫尤为明显，它们翅膀上的鳞片具\n有极其精巧的三维微观结构，可以产生各种结构色”,“来自同一种结构色”无中生有。B项与原文不符，对应\n“因为化石只能保存生物的结构，无法留下颜色”。C项符合原文，对应“因为它们具有奇妙的微结构，在光线\n的折射、衍射及干扰下形成艳丽的色彩”。D项与原文不符，对应“具有极其精巧的三维微观结构，可以产生各\n种结构色”，不是“相同的颜色”。\n因此，选择C选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考sichuan行测第45题",
+    "region": "sichuan"
+  }
+]

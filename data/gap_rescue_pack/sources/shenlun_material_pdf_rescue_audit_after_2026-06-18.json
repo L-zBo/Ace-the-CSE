@@ -1,0 +1,3975 @@
+{
+  "totalShenlunQs": 652,
+  "hasMaterial": 652,
+  "missingMaterial": 0,
+  "missingRate": 0.0,
+  "perCategory": [
+    {
+      "category": "duice",
+      "total": 16,
+      "hasMaterial": 16,
+      "missingMaterial": 0
+    },
+    {
+      "category": "fenxi",
+      "total": 1,
+      "hasMaterial": 1,
+      "missingMaterial": 0
+    },
+    {
+      "category": "guanche",
+      "total": 170,
+      "hasMaterial": 170,
+      "missingMaterial": 0
+    },
+    {
+      "category": "guina",
+      "total": 1,
+      "hasMaterial": 1,
+      "missingMaterial": 0
+    },
+    {
+      "category": "xiezuo",
+      "total": 464,
+      "hasMaterial": 464,
+      "missingMaterial": 0
+    }
+  ],
+  "perPaper": [
+    {
+      "paperKey": "national-shenlun-duice-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "national-shenlun-fenxi-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "national-shenlun-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "national-shenlun-guina-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "national-shenlun-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-duice-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2015-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2015-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2016-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2021-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2021-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2022-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2022-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2023-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2025-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-guanche-2025-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2001-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2002-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2003-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2009-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2010-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2010-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2011-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2011-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2012-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2012-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2013-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2013-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2014-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2014-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2016-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2017-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2018-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2018-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2019-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2020-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2023-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2023-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2024-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2024-fushengjia-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2024-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-national-xiezuo-2025-dishi-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-duice-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-anhui-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-beijing-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-duice-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-guanche-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-chongqing-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-duice-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-fujian-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-gansu-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guanche-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guanche-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guanche-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guanche-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-guanche-2024-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangdong-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guangxi-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-guizhou-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-guanche-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-guanche-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hainan-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-duice-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-guanche-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hebei-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2022-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-heilongjiang-xiezuo-2023-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-henan-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hubei-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-duice-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-duice-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-guanche-2022-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-hunan-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-duice-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-duice-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangsu-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2022-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jiangxi-xiezuo-2024-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-jilin-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-liaoning-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-duice-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-guanche-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-neimenggu-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-ningxia-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-qinghai-xiezuo-2023-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shaanxi-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-duice-2002-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-duice-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2003-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shandong-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2003-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanghai-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-shanxi-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-duice-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-guanche-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-guanche-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-guanche-2021-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-guanche-2022-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-sichuan-xiezuo-2024-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-guanche-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2021-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-tianjin-xiezuo-2023-xingzhengzhifa-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-duice-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-guanche-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-guanche-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-guanche-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-guanche-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-xinjiang-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-guanche-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-guanche-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-guanche-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-guanche-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-guanche-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2004-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2005-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2006-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2007-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2008-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2022-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-yunnan-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-duice-2011-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-guanche-2010-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-guanche-2017-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-guanche-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-guanche-2019-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-guanche-2021-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2009-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2012-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2013-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2014-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2015-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2016-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2018-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2020-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2023-001",
+      "total": 1,
+      "hasMaterial": 1
+    },
+    {
+      "paperKey": "shenlun-provincial-zhejiang-xiezuo-2024-001",
+      "total": 1,
+      "hasMaterial": 1
+    }
+  ],
+  "samplesWithMaterial": [
+    {
+      "id": "shenlun-national-duice-2004-001",
+      "category": "duice",
+      "materialLen": 4328,
+      "materialHead": "二、资料\n\n上汽集团总裁日前在上海对记者说，中国作为世界上最大的潜在市场，应该有一个很强的汽车工业与\n之匹配，应该建立一些大规模的汽车工业集团。他指出，中国缺乏具有国际竞争力企业的一个重要原因，\n在于过去政策的制定往往是哪家困难帮哪家，体现"
+    },
+    {
+      "id": "national-shenlun-duice-2024-001",
+      "category": "duice",
+      "materialLen": 160,
+      "materialHead": "【资料】\n\n当前，基层社区治理面临诸多挑战。部分社区工作人员数量不足，一人身兼数职，工作负担沉重。社区居民参与治理的积极性不高，志愿者队伍力量薄弱。社区服务内容单一，难以满足居民多样化需求。社区治理的信息化水平较低，数据共享不畅，存在”信息"
+    },
+    {
+      "id": "shenlun-provincial-duice-2007-001",
+      "category": "duice",
+      "materialLen": 4217,
+      "materialHead": "二．给定材料\n\n材料一：\n\n近一段时间以来，在一些银行网点，尤其是北京、上海、成都等大城市的银行门前排长队现象日益\n\n严重，已经引起社会舆论和消费者的广泛关注。昨日，记者来到成都市区 10 家银行网点进行调查，这\n\n10 家银行分别位于繁华"
+    }
+  ],
+  "samplesWithout": [],
+  "hasMaterialQids": [
+    "shenlun-national-duice-2004-001",
+    "national-shenlun-duice-2024-001",
+    "shenlun-provincial-duice-2007-001",
+    "shenlun-provincial-anhui-duice-2009-001",
+    "shenlun-provincial-chongqing-duice-2018-001",
+    "shenlun-provincial-hebei-duice-2004-001",
+    "shenlun-provincial-hunan-duice-2006-001",
+    "shenlun-provincial-hunan-duice-2023-001",
+    "shenlun-provincial-jiangsu-duice-2006-001",
+    "shenlun-provincial-jiangsu-duice-2016-001",
+    "shenlun-provincial-neimenggu-duice-2020-001",
+    "shenlun-provincial-shandong-duice-2002-001",
+    "shenlun-provincial-shandong-duice-2018-001",
+    "shenlun-provincial-sichuan-duice-2017-001",
+    "shenlun-provincial-xinjiang-duice-2008-001",
+    "shenlun-provincial-zhejiang-duice-2011-001",
+    "national-shenlun-fenxi-2024-001",
+    "shenlun-national-guanche-2015-dishi-001",
+    "shenlun-national-guanche-2015-fushengjia-001",
+    "shenlun-national-guanche-2016-dishi-001",
+    "shenlun-national-guanche-2017-001",
+    "shenlun-national-guanche-2020-001",
+    "shenlun-national-guanche-2021-dishi-001",
+    "shenlun-national-guanche-2021-fushengjia-001",
+    "shenlun-national-guanche-2022-fushengjia-001",
+    "shenlun-national-guanche-2022-xingzhengzhifa-001",
+    "shenlun-national-guanche-2023-fushengjia-001",
+    "national-shenlun-guanche-2024-001",
+    "shenlun-national-guanche-2025-fushengjia-001",
+    "shenlun-national-guanche-2025-xingzhengzhifa-001",
+    "shenlun-provincial-guanche-2007-001",
+    "shenlun-provincial-guanche-2008-001",
+    "shenlun-provincial-guanche-2011-001",
+    "shenlun-provincial-guanche-2012-001",
+    "shenlun-provincial-guanche-2017-001",
+    "shenlun-provincial-anhui-guanche-2006-001",
+    "shenlun-provincial-anhui-guanche-2011-001",
+    "shenlun-provincial-anhui-guanche-2014-001",
+    "shenlun-provincial-anhui-guanche-2017-001",
+    "shenlun-provincial-anhui-guanche-2018-001",
+    "shenlun-provincial-anhui-guanche-2019-001",
+    "shenlun-provincial-anhui-guanche-2020-001",
+    "shenlun-provincial-anhui-guanche-2022-001",
+    "shenlun-provincial-anhui-guanche-2023-001",
+    "shenlun-provincial-anhui-guanche-2024-001",
+    "shenlun-provincial-beijing-guanche-2014-001",
+    "shenlun-provincial-beijing-guanche-2019-001",
+    "shenlun-provincial-beijing-guanche-2020-001",
+    "shenlun-provincial-beijing-guanche-2023-001",
+    "shenlun-provincial-chongqing-guanche-2015-001",
+    "shenlun-provincial-chongqing-guanche-2020-001",
+    "shenlun-provincial-chongqing-guanche-2022-001",
+    "shenlun-provincial-chongqing-guanche-2023-001",
+    "shenlun-provincial-fujian-guanche-2018-001",
+    "shenlun-provincial-fujian-guanche-2020-001",
+    "shenlun-provincial-fujian-guanche-2024-001",
+    "shenlun-provincial-gansu-guanche-2020-001",
+    "shenlun-provincial-guangdong-guanche-2004-001",
+    "shenlun-provincial-guangdong-guanche-2005-001",
+    "shenlun-provincial-guangdong-guanche-2006-001",
+    "shenlun-provincial-guangdong-guanche-2009-001",
+    "shenlun-provincial-guangdong-guanche-2011-001",
+    "shenlun-provincial-guangdong-guanche-2012-001",
+    "shenlun-provincial-guangdong-guanche-2013-001",
+    "shenlun-provincial-guangdong-guanche-2014-001",
+    "shenlun-provincial-guangdong-guanche-2015-001",
+    "shenlun-provincial-guangdong-guanche-2016-001",
+    "shenlun-provincial-guangdong-guanche-2017-001",
+    "shenlun-provincial-guangdong-guanche-2019-001",
+    "shenlun-provincial-guangdong-guanche-2020-001",
+    "shenlun-provincial-guangdong-guanche-2021-001",
+    "shenlun-provincial-guangdong-guanche-2022-001",
+    "shenlun-provincial-guangdong-guanche-2023-001",
+    "shenlun-provincial-guangdong-guanche-2024-001",
+    "shenlun-provincial-guangdong-guanche-2024-xingzhengzhifa-001",
+    "shenlun-provincial-guangxi-guanche-2020-001",
+    "shenlun-provincial-guangxi-guanche-2024-001",
+    "shenlun-provincial-guizhou-guanche-2016-001",
+    "shenlun-provincial-guizhou-guanche-2020-001",
+    "shenlun-provincial-guizhou-guanche-2022-001",
+    "shenlun-provincial-hainan-guanche-2006-001",
+    "shenlun-provincial-hainan-guanche-2007-001",
+    "shenlun-provincial-hainan-guanche-2020-001",
+    "shenlun-provincial-hainan-guanche-2022-001",
+    "shenlun-provincial-hainan-guanche-2023-001",
+    "shenlun-provincial-hebei-guanche-2005-001",
+    "shenlun-provincial-hebei-guanche-2014-001",
+    "shenlun-provincial-hebei-guanche-2018-001",
+    "shenlun-provincial-hebei-guanche-2022-001",
+    "shenlun-provincial-heilongjiang-guanche-2019-001",
+    "shenlun-provincial-heilongjiang-guanche-2024-001",
+    "shenlun-provincial-henan-guanche-2020-001",
+    "shenlun-provincial-henan-guanche-2023-001",
+    "shenlun-provincial-hubei-guanche-2016-001",
+    "shenlun-provincial-hubei-guanche-2018-001",
+    "shenlun-provincial-hubei-guanche-2020-001",
+    "shenlun-provincial-hubei-guanche-2022-001",
+    "shenlun-provincial-hubei-guanche-2023-001",
+    "shenlun-provincial-hubei-guanche-2024-001",
+    "shenlun-provincial-hunan-guanche-2018-001",
+    "shenlun-provincial-hunan-guanche-2019-001",
+    "shenlun-provincial-hunan-guanche-2022-001",
+    "shenlun-provincial-hunan-guanche-2022-xingzhengzhifa-001",
+    "shenlun-provincial-jiangsu-guanche-2007-001",
+    "shenlun-provincial-jiangsu-guanche-2008-001",
+    "shenlun-provincial-jiangsu-guanche-2009-001",
+    "shenlun-provincial-jiangsu-guanche-2014-001",
+    "shenlun-provincial-jiangsu-guanche-2016-001",
+    "shenlun-provincial-jiangsu-guanche-2017-001",
+    "shenlun-provincial-jiangsu-guanche-2020-001",
+    "shenlun-provincial-jiangsu-guanche-2021-001",
+    "shenlun-provincial-jiangsu-guanche-2023-001",
+    "shenlun-provincial-jiangsu-guanche-2024-001",
+    "shenlun-provincial-jiangxi-guanche-2008-001",
+    "shenlun-provincial-jiangxi-guanche-2009-001",
+    "shenlun-provincial-jiangxi-guanche-2010-001",
+    "shenlun-provincial-jiangxi-guanche-2014-001",
+    "shenlun-provincial-jiangxi-guanche-2016-001",
+    "shenlun-provincial-jiangxi-guanche-2018-001",
+    "shenlun-provincial-jiangxi-guanche-2019-001",
+    "shenlun-provincial-jiangxi-guanche-2020-001",
+    "shenlun-provincial-jiangxi-guanche-2022-001",
+    "shenlun-provincial-jilin-guanche-2022-001",
+    "shenlun-provincial-jilin-guanche-2023-001",
+    "shenlun-provincial-liaoning-guanche-2020-001",
+    "shenlun-provincial-liaoning-guanche-2024-001",
+    "shenlun-provincial-neimenggu-guanche-2010-001",
+    "shenlun-provincial-neimenggu-guanche-2017-001",
+    "shenlun-provincial-neimenggu-guanche-2019-001",
+    "shenlun-provincial-neimenggu-guanche-2022-001",
+    "shenlun-provincial-ningxia-guanche-2014-001",
+    "shenlun-provincial-ningxia-guanche-2020-001",
+    "shenlun-provincial-ningxia-guanche-2022-001",
+    "shenlun-provincial-qinghai-guanche-2020-001",
+    "shenlun-provincial-shaanxi-guanche-2014-001",
+    "shenlun-provincial-shaanxi-guanche-2016-001",
+    "shenlun-provincial-shaanxi-guanche-2019-001",
+    "shenlun-provincial-shaanxi-guanche-2022-001",
+    "shenlun-provincial-shaanxi-guanche-2023-001",
+    "shenlun-provincial-shaanxi-guanche-2024-001",
+    "shenlun-provincial-shandong-guanche-2005-001",
+    "shenlun-provincial-shandong-guanche-2009-001",
+    "shenlun-provincial-shandong-guanche-2012-001",
+    "shenlun-provincial-shandong-guanche-2014-001",
+    "shenlun-provincial-shandong-guanche-2015-001",
+    "shenlun-provincial-shandong-guanche-2016-001",
+    "shenlun-provincial-shandong-guanche-2018-001",
+    "shenlun-provincial-shandong-guanche-2019-001",
+    "shenlun-provincial-shanghai-guanche-2010-001",
+    "shenlun-provincial-shanghai-guanche-2011-001",
+    "shenlun-provincial-shanghai-guanche-2013-001",
+    "shenlun-provincial-shanghai-guanche-2019-001",
+    "shenlun-provincial-shanghai-guanche-2020-001",
+    "shenlun-provincial-shanghai-guanche-2021-001",
+    "shenlun-provincial-shanghai-guanche-2022-001",
+    "shenlun-provincial-shanghai-guanche-2023-001",
+    "shenlun-provincial-shanghai-guanche-2024-001",
+    "shenlun-provincial-shanxi-guanche-2018-001",
+    "shenlun-provincial-shanxi-guanche-2020-001",
+    "shenlun-provincial-shanxi-guanche-2022-001",
+    "shenlun-provincial-shanxi-guanche-2023-001",
+    "shenlun-provincial-shanxi-guanche-2024-001",
+    "shenlun-provincial-sichuan-guanche-2006-001",
+    "shenlun-provincial-sichuan-guanche-2015-001",
+    "shenlun-provincial-sichuan-guanche-2020-001",
+    "shenlun-provincial-sichuan-guanche-2021-xingzhengzhifa-001",
+    "shenlun-provincial-sichuan-guanche-2022-xingzhengzhifa-001",
+    "shenlun-provincial-sichuan-guanche-2024-001",
+    "shenlun-provincial-tianjin-guanche-2019-001",
+    "shenlun-provincial-tianjin-guanche-2021-001",
+    "shenlun-provincial-xinjiang-guanche-2006-001",
+    "shenlun-provincial-xinjiang-guanche-2013-001",
+    "shenlun-provincial-xinjiang-guanche-2014-001",
+    "shenlun-provincial-xinjiang-guanche-2015-001",
+    "shenlun-provincial-xinjiang-guanche-2019-001",
+    "shenlun-provincial-xinjiang-guanche-2022-001",
+    "shenlun-provincial-yunnan-guanche-2010-001",
+    "shenlun-provincial-yunnan-guanche-2019-001",
+    "shenlun-provincial-yunnan-guanche-2020-001",
+    "shenlun-provincial-yunnan-guanche-2022-001",
+    "shenlun-provincial-yunnan-guanche-2023-001",
+    "shenlun-provincial-yunnan-guanche-2024-001",
+    "shenlun-provincial-zhejiang-guanche-2010-001",
+    "shenlun-provincial-zhejiang-guanche-2017-001",
+    "shenlun-provincial-zhejiang-guanche-2018-001",
+    "shenlun-provincial-zhejiang-guanche-2019-001",
+    "shenlun-provincial-zhejiang-guanche-2021-001",
+    "national-shenlun-guina-2024-001",
+    "shenlun-national-xiezuo-2001-001",
+    "shenlun-national-xiezuo-2002-001",
+    "shenlun-national-xiezuo-2003-001",
+    "shenlun-national-xiezuo-2005-001",
+    "shenlun-national-xiezuo-2006-001",
+    "shenlun-national-xiezuo-2007-001",
+    "shenlun-national-xiezuo-2008-001",
+    "shenlun-national-xiezuo-2009-fushengjia-001",
+    "shenlun-national-xiezuo-2010-dishi-001",
+    "shenlun-national-xiezuo-2010-fushengjia-001",
+    "shenlun-national-xiezuo-2011-dishi-001",
+    "shenlun-national-xiezuo-2011-fushengjia-001",
+    "shenlun-national-xiezuo-2012-dishi-001",
+    "shenlun-national-xiezuo-2012-fushengjia-001",
+    "shenlun-national-xiezuo-2013-dishi-001",
+    "shenlun-national-xiezuo-2013-fushengjia-001",
+    "shenlun-national-xiezuo-2014-dishi-001",
+    "shenlun-national-xiezuo-2014-fushengjia-001",
+    "shenlun-national-xiezuo-2016-fushengjia-001",
+    "shenlun-national-xiezuo-2017-dishi-001",
+    "shenlun-national-xiezuo-2018-dishi-001",
+    "shenlun-national-xiezuo-2018-fushengjia-001",
+    "shenlun-national-xiezuo-2019-001",
+    "shenlun-national-xiezuo-2019-dishi-001",
+    "shenlun-national-xiezuo-2020-dishi-001",
+    "shenlun-national-xiezuo-2023-dishi-001",
+    "shenlun-national-xiezuo-2023-xingzhengzhifa-001",
+    "national-shenlun-xiezuo-2024-001",
+    "shenlun-national-xiezuo-2024-dishi-001",
+    "shenlun-national-xiezuo-2024-fushengjia-001",
+    "shenlun-national-xiezuo-2024-xingzhengzhifa-001",
+    "shenlun-national-xiezuo-2025-dishi-001",
+    "shenlun-provincial-xiezuo-2005-001",
+    "shenlun-provincial-xiezuo-2006-001",
+    "shenlun-provincial-xiezuo-2010-001",
+    "shenlun-provincial-xiezuo-2011-001",
+    "shenlun-provincial-xiezuo-2012-001",
+    "shenlun-provincial-xiezuo-2013-001",
+    "shenlun-provincial-xiezuo-2014-001",
+    "shenlun-provincial-xiezuo-2015-001",
+    "shenlun-provincial-xiezuo-2016-001",
+    "shenlun-provincial-xiezuo-2017-001",
+    "shenlun-provincial-xiezuo-2019-001",
+    "shenlun-provincial-xiezuo-2020-001",
+    "shenlun-provincial-xiezuo-2023-001",
+    "shenlun-provincial-xiezuo-2024-001",
+    "shenlun-provincial-anhui-xiezuo-2005-001",
+    "shenlun-provincial-anhui-xiezuo-2007-001",
+    "shenlun-provincial-anhui-xiezuo-2008-001",
+    "shenlun-provincial-anhui-xiezuo-2012-001",
+    "shenlun-provincial-anhui-xiezuo-2013-001",
+    "shenlun-provincial-anhui-xiezuo-2015-001",
+    "shenlun-provincial-anhui-xiezuo-2016-001",
+    "shenlun-provincial-anhui-xiezuo-2017-001",
+    "shenlun-provincial-anhui-xiezuo-2019-001",
+    "shenlun-provincial-anhui-xiezuo-2020-001",
+    "shenlun-provincial-anhui-xiezuo-2022-001",
+    "shenlun-provincial-anhui-xiezuo-2023-001",
+    "shenlun-provincial-anhui-xiezuo-2024-001",
+    "shenlun-provincial-beijing-xiezuo-2012-001",
+    "shenlun-provincial-beijing-xiezuo-2015-001",
+    "shenlun-provincial-beijing-xiezuo-2016-001",
+    "shenlun-provincial-beijing-xiezuo-2017-001",
+    "shenlun-provincial-beijing-xiezuo-2018-001",
+    "shenlun-provincial-beijing-xiezuo-2020-001",
+    "shenlun-provincial-beijing-xiezuo-2021-001",
+    "shenlun-provincial-beijing-xiezuo-2022-001",
+    "shenlun-provincial-chongqing-xiezuo-2007-001",
+    "shenlun-provincial-chongqing-xiezuo-2008-001",
+    "shenlun-provincial-chongqing-xiezuo-2009-001",
+    "shenlun-provincial-chongqing-xiezuo-2010-001",
+    "shenlun-provincial-chongqing-xiezuo-2011-001",
+    "shenlun-provincial-chongqing-xiezuo-2012-001",
+    "shenlun-provincial-chongqing-xiezuo-2013-001",
+    "shenlun-provincial-chongqing-xiezuo-2014-001",
+    "shenlun-provincial-chongqing-xiezuo-2015-001",
+    "shenlun-provincial-chongqing-xiezuo-2016-001",
+    "shenlun-provincial-chongqing-xiezuo-2017-001",
+    "shenlun-provincial-chongqing-xiezuo-2018-001",
+    "shenlun-provincial-chongqing-xiezuo-2019-001",
+    "shenlun-provincial-chongqing-xiezuo-2020-001",
+    "shenlun-provincial-chongqing-xiezuo-2023-001",
+    "shenlun-provincial-chongqing-xiezuo-2024-001",
+    "shenlun-provincial-fujian-xiezuo-2006-001",
+    "shenlun-provincial-fujian-xiezuo-2007-001",
+    "shenlun-provincial-fujian-xiezuo-2008-001",
+    "shenlun-provincial-fujian-xiezuo-2009-001",
+    "shenlun-provincial-fujian-xiezuo-2010-001",
+    "shenlun-provincial-fujian-xiezuo-2011-001",
+    "shenlun-provincial-fujian-xiezuo-2012-001",
+    "shenlun-provincial-fujian-xiezuo-2013-001",
+    "shenlun-provincial-fujian-xiezuo-2014-001",
+    "shenlun-provincial-fujian-xiezuo-2015-001",
+    "shenlun-provincial-fujian-xiezuo-2016-001",
+    "shenlun-provincial-fujian-xiezuo-2017-001",
+    "shenlun-provincial-fujian-xiezuo-2018-001",
+    "shenlun-provincial-fujian-xiezuo-2019-001",
+    "shenlun-provincial-fujian-xiezuo-2020-001",
+    "shenlun-provincial-gansu-xiezuo-2007-001",
+    "shenlun-provincial-gansu-xiezuo-2008-001",
+    "shenlun-provincial-gansu-xiezuo-2009-001",
+    "shenlun-provincial-gansu-xiezuo-2010-001",
+    "shenlun-provincial-gansu-xiezuo-2011-001",
+    "shenlun-provincial-gansu-xiezuo-2012-001",
+    "shenlun-provincial-gansu-xiezuo-2013-001",
+    "shenlun-provincial-gansu-xiezuo-2014-001",
+    "shenlun-provincial-gansu-xiezuo-2015-001",
+    "shenlun-provincial-gansu-xiezuo-2016-001",
+    "shenlun-provincial-gansu-xiezuo-2017-001",
+    "shenlun-provincial-gansu-xiezuo-2018-001",
+    "shenlun-provincial-gansu-xiezuo-2019-001",
+    "shenlun-provincial-gansu-xiezuo-2020-001",
+    "shenlun-provincial-gansu-xiezuo-2022-001",
+    "shenlun-provincial-gansu-xiezuo-2024-001",
+    "shenlun-provincial-guangdong-xiezuo-2005-001",
+    "shenlun-provincial-guangdong-xiezuo-2007-001",
+    "shenlun-provincial-guangdong-xiezuo-2008-001",
+    "shenlun-provincial-guangdong-xiezuo-2010-001",
+    "shenlun-provincial-guangdong-xiezuo-2015-001",
+    "shenlun-provincial-guangdong-xiezuo-2018-001",
+    "shenlun-provincial-guangdong-xiezuo-2021-001",
+    "shenlun-provincial-guangdong-xiezuo-2022-001",
+    "shenlun-provincial-guangdong-xiezuo-2023-001",
+    "shenlun-provincial-guangdong-xiezuo-2024-001",
+    "shenlun-provincial-guangxi-xiezuo-2004-001",
+    "shenlun-provincial-guangxi-xiezuo-2005-001",
+    "shenlun-provincial-guangxi-xiezuo-2007-001",
+    "shenlun-provincial-guangxi-xiezuo-2008-001",
+    "shenlun-provincial-guangxi-xiezuo-2010-001",
+    "shenlun-provincial-guangxi-xiezuo-2011-001",
+    "shenlun-provincial-guangxi-xiezuo-2012-001",
+    "shenlun-provincial-guangxi-xiezuo-2013-001",
+    "shenlun-provincial-guangxi-xiezuo-2014-001",
+    "shenlun-provincial-guangxi-xiezuo-2015-001",
+    "shenlun-provincial-guangxi-xiezuo-2016-001",
+    "shenlun-provincial-guangxi-xiezuo-2017-001",
+    "shenlun-provincial-guangxi-xiezuo-2018-001",
+    "shenlun-provincial-guangxi-xiezuo-2019-001",
+    "shenlun-provincial-guangxi-xiezuo-2020-001",
+    "shenlun-provincial-guangxi-xiezuo-2022-001",
+    "shenlun-provincial-guangxi-xiezuo-2023-001",
+    "shenlun-provincial-guangxi-xiezuo-2024-001",
+    "shenlun-provincial-guizhou-xiezuo-2009-001",
+    "shenlun-provincial-guizhou-xiezuo-2010-001",
+    "shenlun-provincial-guizhou-xiezuo-2011-001",
+    "shenlun-provincial-guizhou-xiezuo-2012-001",
+    "shenlun-provincial-guizhou-xiezuo-2013-001",
+    "shenlun-provincial-guizhou-xiezuo-2014-001",
+    "shenlun-provincial-guizhou-xiezuo-2015-001",
+    "shenlun-provincial-guizhou-xiezuo-2017-001",
+    "shenlun-provincial-guizhou-xiezuo-2018-001",
+    "shenlun-provincial-guizhou-xiezuo-2019-001",
+    "shenlun-provincial-guizhou-xiezuo-2020-001",
+    "shenlun-provincial-guizhou-xiezuo-2023-001",
+    "shenlun-provincial-guizhou-xiezuo-2024-001",
+    "shenlun-provincial-hainan-xiezuo-2009-001",
+    "shenlun-provincial-hainan-xiezuo-2010-001",
+    "shenlun-provincial-hainan-xiezuo-2011-001",
+    "shenlun-provincial-hainan-xiezuo-2012-001",
+    "shenlun-provincial-hainan-xiezuo-2013-001",
+    "shenlun-provincial-hainan-xiezuo-2014-001",
+    "shenlun-provincial-hainan-xiezuo-2015-001",
+    "shenlun-provincial-hainan-xiezuo-2016-001",
+    "shenlun-provincial-hainan-xiezuo-2017-001",
+    "shenlun-provincial-hainan-xiezuo-2018-001",
+    "shenlun-provincial-hainan-xiezuo-2019-001",
+    "shenlun-provincial-hainan-xiezuo-2020-001",
+    "shenlun-provincial-hainan-xiezuo-2023-001",
+    "shenlun-provincial-hainan-xiezuo-2024-001",
+    "shenlun-provincial-hebei-xiezuo-2006-001",
+    "shenlun-provincial-hebei-xiezuo-2007-001",
+    "shenlun-provincial-hebei-xiezuo-2008-001",
+    "shenlun-provincial-hebei-xiezuo-2009-001",
+    "shenlun-provincial-hebei-xiezuo-2010-001",
+    "shenlun-provincial-hebei-xiezuo-2011-001",
+    "shenlun-provincial-hebei-xiezuo-2012-001",
+    "shenlun-provincial-hebei-xiezuo-2013-001",
+    "shenlun-provincial-hebei-xiezuo-2015-001",
+    "shenlun-provincial-hebei-xiezuo-2016-001",
+    "shenlun-provincial-hebei-xiezuo-2017-001",
+    "shenlun-provincial-hebei-xiezuo-2019-001",
+    "shenlun-provincial-hebei-xiezuo-2020-001",
+    "shenlun-provincial-hebei-xiezuo-2021-001",
+    "shenlun-provincial-hebei-xiezuo-2023-001",
+    "shenlun-provincial-hebei-xiezuo-2024-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2009-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2011-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2012-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2013-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2014-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2015-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2016-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2017-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2018-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2019-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2020-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2022-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2022-xingzhengzhifa-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2023-001",
+    "shenlun-provincial-heilongjiang-xiezuo-2023-xingzhengzhifa-001",
+    "shenlun-provincial-henan-xiezuo-2006-001",
+    "shenlun-provincial-henan-xiezuo-2007-001",
+    "shenlun-provincial-henan-xiezuo-2008-001",
+    "shenlun-provincial-henan-xiezuo-2009-001",
+    "shenlun-provincial-henan-xiezuo-2010-001",
+    "shenlun-provincial-henan-xiezuo-2011-001",
+    "shenlun-provincial-henan-xiezuo-2012-001",
+    "shenlun-provincial-henan-xiezuo-2013-001",
+    "shenlun-provincial-henan-xiezuo-2014-001",
+    "shenlun-provincial-henan-xiezuo-2015-001",
+    "shenlun-provincial-henan-xiezuo-2016-001",
+    "shenlun-provincial-henan-xiezuo-2017-001",
+    "shenlun-provincial-henan-xiezuo-2019-001",
+    "shenlun-provincial-henan-xiezuo-2022-001",
+    "shenlun-provincial-henan-xiezuo-2023-001",
+    "shenlun-provincial-henan-xiezuo-2024-001",
+    "shenlun-provincial-hubei-xiezuo-2007-001",
+    "shenlun-provincial-hubei-xiezuo-2010-001",
+    "shenlun-provincial-hubei-xiezuo-2011-001",
+    "shenlun-provincial-hubei-xiezuo-2012-001",
+    "shenlun-provincial-hubei-xiezuo-2013-001",
+    "shenlun-provincial-hubei-xiezuo-2014-001",
+    "shenlun-provincial-hubei-xiezuo-2015-001",
+    "shenlun-provincial-hubei-xiezuo-2017-001",
+    "shenlun-provincial-hubei-xiezuo-2019-001",
+    "shenlun-provincial-hubei-xiezuo-2020-001",
+    "shenlun-provincial-hubei-xiezuo-2022-001",
+    "shenlun-provincial-hunan-xiezuo-2004-001",
+    "shenlun-provincial-hunan-xiezuo-2005-001",
+    "shenlun-provincial-hunan-xiezuo-2007-001",
+    "shenlun-provincial-hunan-xiezuo-2008-001",
+    "shenlun-provincial-hunan-xiezuo-2009-001",
+    "shenlun-provincial-hunan-xiezuo-2010-001",
+    "shenlun-provincial-hunan-xiezuo-2011-001",
+    "shenlun-provincial-hunan-xiezuo-2012-001",
+    "shenlun-provincial-hunan-xiezuo-2013-001",
+    "shenlun-provincial-hunan-xiezuo-2014-001",
+    "shenlun-provincial-hunan-xiezuo-2015-001",
+    "shenlun-provincial-hunan-xiezuo-2016-001",
+    "shenlun-provincial-hunan-xiezuo-2017-001",
+    "shenlun-provincial-hunan-xiezuo-2018-001",
+    "shenlun-provincial-hunan-xiezuo-2019-001",
+    "shenlun-provincial-hunan-xiezuo-2020-001",
+    "shenlun-provincial-hunan-xiezuo-2024-001",
+    "shenlun-provincial-jiangsu-xiezuo-2010-001",
+    "shenlun-provincial-jiangsu-xiezuo-2011-001",
+    "shenlun-provincial-jiangsu-xiezuo-2012-001",
+    "shenlun-provincial-jiangsu-xiezuo-2013-001",
+    "shenlun-provincial-jiangsu-xiezuo-2015-001",
+    "shenlun-provincial-jiangsu-xiezuo-2018-001",
+    "shenlun-provincial-jiangsu-xiezuo-2019-001",
+    "shenlun-provincial-jiangsu-xiezuo-2020-001",
+    "shenlun-provincial-jiangsu-xiezuo-2021-001",
+    "shenlun-provincial-jiangsu-xiezuo-2022-001",
+    "shenlun-provincial-jiangsu-xiezuo-2023-001",
+    "shenlun-provincial-jiangsu-xiezuo-2024-001",
+    "shenlun-provincial-jiangxi-xiezuo-2006-001",
+    "shenlun-provincial-jiangxi-xiezuo-2011-001",
+    "shenlun-provincial-jiangxi-xiezuo-2012-001",
+    "shenlun-provincial-jiangxi-xiezuo-2013-001",
+    "shenlun-provincial-jiangxi-xiezuo-2015-001",
+    "shenlun-provincial-jiangxi-xiezuo-2017-001",
+    "shenlun-provincial-jiangxi-xiezuo-2020-001",
+    "shenlun-provincial-jiangxi-xiezuo-2022-001",
+    "shenlun-provincial-jiangxi-xiezuo-2022-xingzhengzhifa-001",
+    "shenlun-provincial-jiangxi-xiezuo-2023-001",
+    "shenlun-provincial-jiangxi-xiezuo-2024-xingzhengzhifa-001",
+    "shenlun-provincial-jilin-xiezuo-2006-001",
+    "shenlun-provincial-jilin-xiezuo-2007-001",
+    "shenlun-provincial-jilin-xiezuo-2008-001",
+    "shenlun-provincial-jilin-xiezuo-2009-001",
+    "shenlun-provincial-jilin-xiezuo-2010-001",
+    "shenlun-provincial-jilin-xiezuo-2011-001",
+    "shenlun-provincial-jilin-xiezuo-2012-001",
+    "shenlun-provincial-jilin-xiezuo-2013-001",
+    "shenlun-provincial-jilin-xiezuo-2014-001",
+    "shenlun-provincial-jilin-xiezuo-2015-001",
+    "shenlun-provincial-jilin-xiezuo-2016-001",
+    "shenlun-provincial-jilin-xiezuo-2017-001",
+    "shenlun-provincial-jilin-xiezuo-2018-001",
+    "shenlun-provincial-jilin-xiezuo-2019-001",
+    "shenlun-provincial-jilin-xiezuo-2020-001",
+    "shenlun-provincial-liaoning-xiezuo-2008-001",
+    "shenlun-provincial-liaoning-xiezuo-2009-001",
+    "shenlun-provincial-liaoning-xiezuo-2010-001",
+    "shenlun-provincial-liaoning-xiezuo-2011-001",
+    "shenlun-provincial-liaoning-xiezuo-2012-001",
+    "shenlun-provincial-liaoning-xiezuo-2013-001",
+    "shenlun-provincial-liaoning-xiezuo-2014-001",
+    "shenlun-provincial-liaoning-xiezuo-2015-001",
+    "shenlun-provincial-liaoning-xiezuo-2016-001",
+    "shenlun-provincial-liaoning-xiezuo-2017-001",
+    "shenlun-provincial-liaoning-xiezuo-2018-001",
+    "shenlun-provincial-liaoning-xiezuo-2019-001",
+    "shenlun-provincial-liaoning-xiezuo-2020-001",
+    "shenlun-provincial-liaoning-xiezuo-2023-001",
+    "shenlun-provincial-liaoning-xiezuo-2024-001",
+    "shenlun-provincial-neimenggu-xiezuo-2007-001",
+    "shenlun-provincial-neimenggu-xiezuo-2008-001",
+    "shenlun-provincial-neimenggu-xiezuo-2009-001",
+    "shenlun-provincial-neimenggu-xiezuo-2010-001",
+    "shenlun-provincial-neimenggu-xiezuo-2011-001",
+    "shenlun-provincial-neimenggu-xiezuo-2013-001",
+    "shenlun-provincial-neimenggu-xiezuo-2014-001",
+    "shenlun-provincial-neimenggu-xiezuo-2015-001",
+    "shenlun-provincial-neimenggu-xiezuo-2016-001",
+    "shenlun-provincial-neimenggu-xiezuo-2018-001",
+    "shenlun-provincial-neimenggu-xiezuo-2020-001",
+    "shenlun-provincial-neimenggu-xiezuo-2022-001",
+    "shenlun-provincial-neimenggu-xiezuo-2023-001",
+    "shenlun-provincial-ningxia-xiezuo-2008-001",
+    "shenlun-provincial-ningxia-xiezuo-2009-001",
+    "shenlun-provincial-ningxia-xiezuo-2010-001",
+    "shenlun-provincial-ningxia-xiezuo-2011-001",
+    "shenlun-provincial-ningxia-xiezuo-2012-001",
+    "shenlun-provincial-ningxia-xiezuo-2013-001",
+    "shenlun-provincial-ningxia-xiezuo-2014-001",
+    "shenlun-provincial-ningxia-xiezuo-2015-001",
+    "shenlun-provincial-ningxia-xiezuo-2016-001",
+    "shenlun-provincial-ningxia-xiezuo-2017-001",
+    "shenlun-provincial-ningxia-xiezuo-2018-001",
+    "shenlun-provincial-ningxia-xiezuo-2019-001",
+    "shenlun-provincial-ningxia-xiezuo-2020-001",
+    "shenlun-provincial-ningxia-xiezuo-2022-001",
+    "shenlun-provincial-ningxia-xiezuo-2024-001",
+    "shenlun-provincial-qinghai-xiezuo-2009-001",
+    "shenlun-provincial-qinghai-xiezuo-2010-001",
+    "shenlun-provincial-qinghai-xiezuo-2011-001",
+    "shenlun-provincial-qinghai-xiezuo-2012-001",
+    "shenlun-provincial-qinghai-xiezuo-2013-001",
+    "shenlun-provincial-qinghai-xiezuo-2014-001",
+    "shenlun-provincial-qinghai-xiezuo-2015-001",
+    "shenlun-provincial-qinghai-xiezuo-2016-001",
+    "shenlun-provincial-qinghai-xiezuo-2017-001",
+    "shenlun-provincial-qinghai-xiezuo-2018-001",
+    "shenlun-provincial-qinghai-xiezuo-2019-001",
+    "shenlun-provincial-qinghai-xiezuo-2020-001",
+    "shenlun-provincial-qinghai-xiezuo-2023-xingzhengzhifa-001",
+    "shenlun-provincial-shaanxi-xiezuo-2008-001",
+    "shenlun-provincial-shaanxi-xiezuo-2010-001",
+    "shenlun-provincial-shaanxi-xiezuo-2011-001",
+    "shenlun-provincial-shaanxi-xiezuo-2012-001",
+    "shenlun-provincial-shaanxi-xiezuo-2013-001",
+    "shenlun-provincial-shaanxi-xiezuo-2014-001",
+    "shenlun-provincial-shaanxi-xiezuo-2015-001",
+    "shenlun-provincial-shaanxi-xiezuo-2017-001",
+    "shenlun-provincial-shaanxi-xiezuo-2018-001",
+    "shenlun-provincial-shandong-xiezuo-2003-001",
+    "shenlun-provincial-shandong-xiezuo-2004-001",
+    "shenlun-provincial-shandong-xiezuo-2006-001",
+    "shenlun-provincial-shandong-xiezuo-2008-001",
+    "shenlun-provincial-shandong-xiezuo-2010-001",
+    "shenlun-provincial-shandong-xiezuo-2011-001",
+    "shenlun-provincial-shandong-xiezuo-2012-001",
+    "shenlun-provincial-shandong-xiezuo-2013-001",
+    "shenlun-provincial-shandong-xiezuo-2016-001",
+    "shenlun-provincial-shandong-xiezuo-2017-001",
+    "shenlun-provincial-shandong-xiezuo-2018-001",
+    "shenlun-provincial-shandong-xiezuo-2019-001",
+    "shenlun-provincial-shandong-xiezuo-2020-001",
+    "shenlun-provincial-shandong-xiezuo-2021-001",
+    "shenlun-provincial-shandong-xiezuo-2023-001",
+    "shenlun-provincial-shanghai-xiezuo-2003-001",
+    "shenlun-provincial-shanghai-xiezuo-2005-001",
+    "shenlun-provincial-shanghai-xiezuo-2006-001",
+    "shenlun-provincial-shanghai-xiezuo-2007-001",
+    "shenlun-provincial-shanghai-xiezuo-2008-001",
+    "shenlun-provincial-shanghai-xiezuo-2009-001",
+    "shenlun-provincial-shanghai-xiezuo-2012-001",
+    "shenlun-provincial-shanghai-xiezuo-2013-001",
+    "shenlun-provincial-shanghai-xiezuo-2014-001",
+    "shenlun-provincial-shanghai-xiezuo-2015-001",
+    "shenlun-provincial-shanghai-xiezuo-2016-001",
+    "shenlun-provincial-shanghai-xiezuo-2017-001",
+    "shenlun-provincial-shanghai-xiezuo-2018-001",
+    "shenlun-provincial-shanghai-xiezuo-2024-001",
+    "shenlun-provincial-shanxi-xiezuo-2008-001",
+    "shenlun-provincial-shanxi-xiezuo-2009-001",
+    "shenlun-provincial-shanxi-xiezuo-2010-001",
+    "shenlun-provincial-shanxi-xiezuo-2011-001",
+    "shenlun-provincial-shanxi-xiezuo-2012-001",
+    "shenlun-provincial-shanxi-xiezuo-2013-001",
+    "shenlun-provincial-shanxi-xiezuo-2014-001",
+    "shenlun-provincial-shanxi-xiezuo-2015-001",
+    "shenlun-provincial-shanxi-xiezuo-2016-001",
+    "shenlun-provincial-shanxi-xiezuo-2017-001",
+    "shenlun-provincial-shanxi-xiezuo-2018-001",
+    "shenlun-provincial-shanxi-xiezuo-2019-001",
+    "shenlun-provincial-shanxi-xiezuo-2020-001",
+    "shenlun-provincial-shanxi-xiezuo-2022-001",
+    "shenlun-provincial-sichuan-xiezuo-2007-001",
+    "shenlun-provincial-sichuan-xiezuo-2008-001",
+    "shenlun-provincial-sichuan-xiezuo-2009-001",
+    "shenlun-provincial-sichuan-xiezuo-2010-001",
+    "shenlun-provincial-sichuan-xiezuo-2011-001",
+    "shenlun-provincial-sichuan-xiezuo-2012-001",
+    "shenlun-provincial-sichuan-xiezuo-2013-001",
+    "shenlun-provincial-sichuan-xiezuo-2014-001",
+    "shenlun-provincial-sichuan-xiezuo-2016-001",
+    "shenlun-provincial-sichuan-xiezuo-2017-001",
+    "shenlun-provincial-sichuan-xiezuo-2018-001",
+    "shenlun-provincial-sichuan-xiezuo-2019-001",
+    "shenlun-provincial-sichuan-xiezuo-2020-001",
+    "shenlun-provincial-sichuan-xiezuo-2021-001",
+    "shenlun-provincial-sichuan-xiezuo-2022-001",
+    "shenlun-provincial-sichuan-xiezuo-2023-001",
+    "shenlun-provincial-sichuan-xiezuo-2024-xingzhengzhifa-001",
+    "shenlun-provincial-tianjin-xiezuo-2005-001",
+    "shenlun-provincial-tianjin-xiezuo-2006-001",
+    "shenlun-provincial-tianjin-xiezuo-2007-001",
+    "shenlun-provincial-tianjin-xiezuo-2008-001",
+    "shenlun-provincial-tianjin-xiezuo-2010-001",
+    "shenlun-provincial-tianjin-xiezuo-2011-001",
+    "shenlun-provincial-tianjin-xiezuo-2012-001",
+    "shenlun-provincial-tianjin-xiezuo-2013-001",
+    "shenlun-provincial-tianjin-xiezuo-2014-001",
+    "shenlun-provincial-tianjin-xiezuo-2015-001",
+    "shenlun-provincial-tianjin-xiezuo-2016-001",
+    "shenlun-provincial-tianjin-xiezuo-2017-001",
+    "shenlun-provincial-tianjin-xiezuo-2018-001",
+    "shenlun-provincial-tianjin-xiezuo-2020-001",
+    "shenlun-provincial-tianjin-xiezuo-2021-001",
+    "shenlun-provincial-tianjin-xiezuo-2021-xingzhengzhifa-001",
+    "shenlun-provincial-tianjin-xiezuo-2022-001",
+    "shenlun-provincial-tianjin-xiezuo-2023-001",
+    "shenlun-provincial-tianjin-xiezuo-2023-xingzhengzhifa-001",
+    "shenlun-provincial-xinjiang-xiezuo-2007-001",
+    "shenlun-provincial-xinjiang-xiezuo-2009-001",
+    "shenlun-provincial-xinjiang-xiezuo-2011-001",
+    "shenlun-provincial-xinjiang-xiezuo-2012-001",
+    "shenlun-provincial-xinjiang-xiezuo-2015-001",
+    "shenlun-provincial-xinjiang-xiezuo-2016-001",
+    "shenlun-provincial-xinjiang-xiezuo-2017-001",
+    "shenlun-provincial-xinjiang-xiezuo-2018-001",
+    "shenlun-provincial-xinjiang-xiezuo-2019-001",
+    "shenlun-provincial-xinjiang-xiezuo-2020-001",
+    "shenlun-provincial-yunnan-xiezuo-2004-001",
+    "shenlun-provincial-yunnan-xiezuo-2005-001",
+    "shenlun-provincial-yunnan-xiezuo-2006-001",
+    "shenlun-provincial-yunnan-xiezuo-2007-001",
+    "shenlun-provincial-yunnan-xiezuo-2008-001",
+    "shenlun-provincial-yunnan-xiezuo-2009-001",
+    "shenlun-provincial-yunnan-xiezuo-2011-001",
+    "shenlun-provincial-yunnan-xiezuo-2012-001",
+    "shenlun-provincial-yunnan-xiezuo-2013-001",
+    "shenlun-provincial-yunnan-xiezuo-2014-001",
+    "shenlun-provincial-yunnan-xiezuo-2015-001",
+    "shenlun-provincial-yunnan-xiezuo-2016-001",
+    "shenlun-provincial-yunnan-xiezuo-2017-001",
+    "shenlun-provincial-yunnan-xiezuo-2018-001",
+    "shenlun-provincial-yunnan-xiezuo-2020-001",
+    "shenlun-provincial-yunnan-xiezuo-2022-001",
+    "shenlun-provincial-yunnan-xiezuo-2023-001",
+    "shenlun-provincial-yunnan-xiezuo-2024-001",
+    "shenlun-provincial-zhejiang-xiezuo-2009-001",
+    "shenlun-provincial-zhejiang-xiezuo-2012-001",
+    "shenlun-provincial-zhejiang-xiezuo-2013-001",
+    "shenlun-provincial-zhejiang-xiezuo-2014-001",
+    "shenlun-provincial-zhejiang-xiezuo-2015-001",
+    "shenlun-provincial-zhejiang-xiezuo-2016-001",
+    "shenlun-provincial-zhejiang-xiezuo-2018-001",
+    "shenlun-provincial-zhejiang-xiezuo-2020-001",
+    "shenlun-provincial-zhejiang-xiezuo-2023-001",
+    "shenlun-provincial-zhejiang-xiezuo-2024-001"
+  ]
+}

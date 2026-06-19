@@ -1,0 +1,703 @@
+[
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）表中所列食品类别中，2021 年第一季度所有抽检样本全部合格的有几类？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查简单比较中的读数比较。\n\n第二步，定位表格材料“抽检量”与“合格量”的数据。\n\n第三步，2021 年第一季度抽检样本全部合格，指的是抽检量=合格量，符合条件的有可可及焙烤咖啡产品（抽检\n\n量 251，合格量 251）、特殊医学用途配方食品（抽检量 88，合格量 88）、食品添加剂（抽检量 112、合格量\n\n112），共 3 个。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第111题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年第一季度市场监管部门食品安全监督抽检的总体不合格率在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1%"
+      },
+      {
+        "label": "B",
+        "content": "1%—2％之间"
+      },
+      {
+        "label": "C",
+        "content": "2％—3％之间"
+      },
+      {
+        "label": "D",
+        "content": "3％以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查现期比值计算。\n\n第二步，定位表格材料最后一行“合计”数据。\n\n第三步，不合格率= \n\n，代入数据得\n\n ，数据较大，分母从左向\n\n右截取前三位，分子舍相同，得\n\n 。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第112题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年第一季度市场监管部门食品安全监督抽检量最多的 3 个食品类别，同期抽检不合格量 约是其余所有类别抽检不合格量的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "0.5"
+      },
+      {
+        "label": "B",
+        "content": "0.8"
+      },
+      {
+        "label": "C",
+        "content": "1.3"
+      },
+      {
+        "label": "D",
+        "content": "1.9"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查现期倍数计算。\n\n第二步，定位表格材料。\n\n第三步，2021 年第一季度市场监管部门食品安全监督抽检量最多的三个食品类别是食用农产品（169040）、餐\n\n饮食品（37795）、粮食加工品（23131）。根据抽检不合格量=抽检量-合格量，食用农产品、餐饮食品、粮食\n\n加工品同期抽检不合格总量是（169040-164905）+（37795-35986）+（23131-22751），数据较大，将最大\n\n数据从左向右截取前三位，其余舍相同，得（169-165）+（38-36）+（23-23）=6，约是其余所有类别抽检不\n\n第 59 页 共 64 页\n\n\f倍，与 D 选项最接近。\n\n合格量的 \n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第113题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）将①肉制品、②乳制品和③蛋制品按 2021 年第一季度市场监管部门食品安全监督抽检合格率 从高到低排列，以下正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "③②①"
+      },
+      {
+        "label": "B",
+        "content": "②③①"
+      },
+      {
+        "label": "C",
+        "content": "①②③"
+      },
+      {
+        "label": "D",
+        "content": "①③②"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查现期比重比较。\n\n第二步，定位表格材料。\n\n第三步，根据合格率=\n\n，比较类问题，截三位处理数据，可得①肉制品、②乳制品和③蛋制品的抽检合格\n\n率分别约为\n\n、\n\n、\n\n，直除首三位商分别 983、998 和 991，则从高到低排列为②③①。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第114题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）关于 2021 年第一季度市场监管部门食品安全监督情况，以下信息能够从上述资料中推出的有 几项？ ①蔬菜、水果制品的总体抽检合格率高于 95% ②样品抽检量超过 1 万批次的食品类别有 12 个 ③糕点类食品的抽检合格量是不合格量的 50 倍以上",
+    "options": [
+      {
+        "label": "A",
+        "content": "0 项"
+      },
+      {
+        "label": "B",
+        "content": "1 项 B.D.3 项"
+      },
+      {
+        "label": "C",
+        "content": "2 项"
+      },
+      {
+        "label": "D",
+        "content": "2020 年 12 月，全国“12369 环保举报联网管理平台”共接到环保举报 31156 件，环比下降 23.2%，同比 下降 10.3%。其中，受理量 23792 件，较 11 月减少 6316 件；因举报线索不详或不属于生态环境部门职责范 围而未受理 7364 件，较 11 月减少 3119 件。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查综合分析问题，且需选出说法正确的一项。\n\n第二步，①，现期比值计算。定位表格材料，“蔬菜制品抽检量 9241、合格量 8598；水果制品抽检量 5744、合\n\n格量 5611”，根据抽检合格率=\n\n ，数据截取前三位，代入公式得\n\n ，分母从左向右截\n\n取前 3 位，\n\n ，不到 95%，错误。\n\n②，读数比较。定位表格材料，样品抽检量超过 1 万批次的食品类别有粮食加工品（23131）、食用油、油脂及\n\n其制品（13879）、调味品（18862）、酒类（19091）、炒货食品及坚果制品（10678）、糕点（14517）、餐\n\n饮食品（37795）、食用农产品（169040）、肉制品（18104）、饮料（10515）、速冻食品（11620），合计\n\n11 个，错误。\n\n③，现期倍数计算。定位表格材料，糕点抽检量 14517、合格量 14214，则糕点类食品的抽检合格量是不合格量\n\n的 \n\n倍，分母四舍五入截取前三位，分子舍相同，得\n\n ，错误。综上，正\n\n确的有 0 个。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第115题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年 1 月，全国“12369 环保举报联网管理平台”接到环保举报件数比上个月：",
+    "options": [
+      {
+        "label": "A",
+        "content": "下降了不到 30%"
+      },
+      {
+        "label": "B",
+        "content": "下降了 30%以上"
+      },
+      {
+        "label": "C",
+        "content": "上升了不到 30%"
+      },
+      {
+        "label": "D",
+        "content": "上升了 30%以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查减少率计算。\n\n第二步，定位文字材料，“2020 年 12 月，全国‘12369 环保举报联网管理平合’共接到环保举报 31156 件，\n\n环比下降 23.2%，同比下降 10.3%”和图形材料。\n\n第三步，根据基期量=\n\n，可得 2019 年 12 月环保举报件数为\n\n=\n\n≈34734（件），根\n\n据增长率=\n\n，分母从左向右截取前三位，分子舍相同，代入数据得\n\n=\n\n≈-44%，\n\n即下降了 30%以上。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第116题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年 1—4 月，通过微信举报的件数占当月环保举报件数比重最高的月份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "1 月"
+      },
+      {
+        "label": "B",
+        "content": "2 月"
+      },
+      {
+        "label": "C",
+        "content": "3 月"
+      },
+      {
+        "label": "D",
+        "content": "4 月"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查比重比较。\n\n第二步，定位表格材料和图形材料。\n\n第三步，环保举报件数=未受理量＋受理量，根据比重=\n\n，分母从左向右截取前三位，分子舍相同处理，\n\n第 60 页 共 64 页\n\n\f代入数据得 2020 年 1—4 月占比分别约为：\n\n，\n\n，\n\n，\n\n，直除首位分别商 4、6、5、5，比重最大的是 2 月。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第117题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年下半年，环保举报的受理率超过 75%的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "4"
+      },
+      {
+        "label": "C",
+        "content": "5"
+      },
+      {
+        "label": "D",
+        "content": "6"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查比重比较。\n\n第二步，定位柱状图。\n\n第三步，\n\n，要求受理率＞75%，即\n\n，化简得，受理量\n\n＞3×非受理量，分析 7—12 月数据，可知 7 月，30932＞3×9361；8 月，24787＞3×7617；9 月，\n\n27959＞3×8455；10 月，23995＞3×7381；11 月，30108＜3×10483；12 月，23792＞3×7364，满足的有\n\n7 月、8 月、9 月、10 月和 12 月，共 5 个月。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第118题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）如同一个月内各类举报的受理率彼此相同，则 2020 年 12 月通过电话的环保举报被受理的件 数在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "低于 7501 件"
+      },
+      {
+        "label": "B",
+        "content": "7501—8500 件之间"
+      },
+      {
+        "label": "C",
+        "content": "8501—9500 件之间"
+      },
+      {
+        "label": "D",
+        "content": "高于 9500 件"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查现期比重计算中的求部分量。\n\n第二步，定位表格材料，可得 2020 年 12 月通过电话的环保举报数量为 11970 件；定位柱状图，可得 2020 年\n\n12 月环保举报受理量为 23792 件、未受理量为 7364 件。\n\n第三步，根据比重=\n\n，选项范围类，分母从左向右截取前三位并保留量级不变，可得 2020 年 12 月的受\n\n理率约为\n\n。根据部分量=整体量×比重，可得通过电话的环保举报被受理的件数\n\n约为 11970×76%≈12000× =9000 件，属于 C 选项范围内。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第119题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）以下折线图反映了 2020 年第二季度各月哪类环保举报件数环比增量的变化趋势？",
+    "options": [
+      {
+        "label": "A",
+        "content": "电话举报"
+      },
+      {
+        "label": "B",
+        "content": "微信举报"
+      },
+      {
+        "label": "C",
+        "content": "网上举报"
+      },
+      {
+        "label": "D",
+        "content": "其他渠道举报"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查增长量做差比较。\n\n第二步，定位表格材料，2020 年 3 月、4 月、5 月及 6 月数据。\n\n第三步，根据增长量=现期量-基期量。代入排除，A 选项电话举报和 B 选项微信举报第二季度各月环比增量中，\n\n4 月和 5 月的环比增量均为正数，6 月为负数，不符合折线图的上升趋势，排除 A、B 选项。C 选项网上举报，4\n\n月：27-25=2，5 月：26-27=-1，6 月：27-26=1，观察折线图，末尾 6 月的增量应该是最大的，不符合，排除\n\nC 选项。至此，可直接选择 D 选项。D 选项其他渠道举报，4 月：35-24=11，5 月：41-35=6，6 月：89-\n\n41=48，满足折线图。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第120题",
+    "level": "xingzhengzhifa",
+    "questionImage": "/img/questions/national_2022_xingzhengzhifa/q120.png"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2019 年，中国 IC 先进封装市场规模约为多少亿元？",
+    "options": [
+      {
+        "label": "B",
+        "content": "279"
+      },
+      {
+        "label": "A",
+        "content": "296"
+      },
+      {
+        "label": "C",
+        "content": "252"
+      },
+      {
+        "label": "D",
+        "content": "235"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查现期比重计算中的求部分量。\n\n第二步，定位图形材料，2019 年 IC 封装市场规模为 2349.7 亿元，IC 先进封装市场规模占比为 12.58%。\n\n第三步，根据部分量=整体量×比重，代入数据可得 2019 年，中国 IC 先进封装市场规模为\n\n2349.7×12.58%≈2350× ≈294（亿元），A 选项最接近。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第121题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）“十三五”（2016—2020）年期间，中国 IC 封装市场总规模：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1.0 万亿元"
+      },
+      {
+        "label": "C",
+        "content": "在 1.1—1.2 万亿元之间"
+      },
+      {
+        "label": "B",
+        "content": "在 1.0—1.1 万亿元之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 1.2 万亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第 61 页 共 64 页\n\n\f第一步，本题考查简单计算中的和差类。\n\n第二步，定位图形材料，2016—2020 年中国 IC 封装市场总规模分别为\n\n1564.3、1889.7、2193.9、2349.7、2478.9 亿元。\n\n第三步，和差类问题，对数据进行截位舍相同处理，代入数据得 2016—2020 年中国 IC 封装市场总规模约为\n\n156＋189＋219＋235＋248=200×5＋（－44－11＋19＋35＋48）=1000+47=1047，即 10470 亿元=1.047\n\n万亿元，在 B 选项范围内。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第122题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2012—2020 年，中国 IC 封装市场中 IC 先进封装市场规模占比同比提升 1 个百分点以上的年 份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查简单比较中的读数比较。\n\n第二步，定位图形材料中的折线图。\n\n第三步，直接读数可得 2012—2020 年，中国 IC 封装市场中 IC 先进封装市场规模占比同比提升 1 个百分点以上\n\n的有 2012 年（5.65%－4.12%＞1%）和 2015 年（9.91%－7.37%＞1%），共 2 个年份，其余年份均不符合。\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第123题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2012—2020 年，中国 IC 封装市场规模同比增量最大的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年"
+      },
+      {
+        "label": "B",
+        "content": "2018 年"
+      },
+      {
+        "label": "C",
+        "content": "2017 年"
+      },
+      {
+        "label": "D",
+        "content": "2016 年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查增长量做差比较。\n\n第二步，定位图形材料。\n\n第三步，根据增长量=现期量-基期量，本题是柱状图形式，要增长量最大，则柱状图高度差最大。观察可知，\n\n2017 年和 2018 年的高度差最大，对两年进行做差比较，截三位，2017 年增长量：189-156=33，2018 年增长\n\n量：219-189=30，因此，同比增长量最大的是 2017 年。\n\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第124题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）已知 2020 年中国 IC 封装市场规模同比增长 x 亿元，IC 封装市场中 IC 先进封装市场规模占 比同比增长 y 个百分点，而 2020 年往后中国 IC 封装市场规模及 IC 先进封装市场规模占比每年都分别同比增 长 x 亿元和 y 个百分点，则到“十四五”最后一年（2025 年），中国 IC 先进封装市场规模将达到多少亿元?",
+    "options": [
+      {
+        "label": "A",
+        "content": "469"
+      },
+      {
+        "label": "B",
+        "content": "575"
+      },
+      {
+        "label": "C",
+        "content": "433"
+      },
+      {
+        "label": "D",
+        "content": "521 2021 年 1—5 月，全国共破获电信网络诈骗案件 11.4 万起，打掉犯罪团伙 1.4 万个，抓获犯罪嫌疑人"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查现期量计算。\n\n第二步，定位图形材料。\n\n第三步，根据增长量=现期量-基期量，由柱状图可知，2020 年中国 IC 封装市场规模同比增长 x 亿元，\n\nx=2478.9-2349.7≈2479-2350=129。由折线图可知，2020 年 IC 封装市场中的 IC 先进封装市场规模占比同比\n\n增长 y 个百分点，y=13.26-12.58=0.68。\n\n第四步，根据末期量=初期量+年均增长量×相差年数以及题干“2020 年往后中国 IC 封装市场规模及 IC 先进封装\n\n市场规模占比每年都分别增长 x 亿元和 y 个百分点”，则“十四五”最后一年，2025 年中国 IC 封装市场规模\n\n≈2479+129×5=2479+645=3124 亿元，2025 年 IC 先进封装市场规模占比\n\n=13.26%+0.68%×5=13.26%+3.4%=16.66%。根据部分量=整体量×比重，2025 年 IC 先进封装市场规模\n\n=3124×16.66%≈3124× ≈520（亿元），最接近 D 选项。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第125题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2020 年 1—5 月，全国平均每月打掉电信网络诈骗犯罪团伙：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 1000 个"
+      },
+      {
+        "label": "B",
+        "content": "1000—2000 个之间"
+      },
+      {
+        "label": "C",
+        "content": "2000—4000 个之间"
+      },
+      {
+        "label": "D",
+        "content": "4000 个以上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查基期平均数计算。\n\n第二步，定位文字材料第一段，“2021 年 1—5 月，全国共破获电信网络诈骗案件 11.4 万起，打掉犯罪团伙 1.4\n\n万个，抓获犯罪嫌疑人 15.4 万名，同比分别上升 60.4%、80.6%和 146.5%”。\n\n第三步，根据基期量= \n\n，平均数=\n\n ，选项为范围，将分母从左向右截取前三位计算，代入可\n\n得 2020 年 1—5 月，全国平均每月打掉电信网络诈骗犯罪团伙约 \n\n个，在 B 选项\n\n第 62 页 共 64 页\n\n\f范围内。\n\n因此，选择 B 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第126题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年 4—5 月，全国共立电信网络诈骗案件约多少万起？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "14"
+      },
+      {
+        "label": "C",
+        "content": "16"
+      },
+      {
+        "label": "D",
+        "content": "18"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n第一步，本题考查基期量计算。\n\n第二步，定位文字材料第一段最后一句，“2021 年 5 月，全国共立电信网络诈骗案件 8.46 万起，与 4 月相比下\n\n降 14.3%”。\n\n第三步，根据基期量=\n\n，选项首位相同第二位不同，将分母从左向右截取前三位计算，代入可得\n\n2021 年 4 月全国共立电信网络诈骗案件\n\n万起。则 2021 年 4—5 月，全国共立电信网\n\n络诈骗案件约 9.9+8.46=18.36 万起，与 D 选项最为接近。\n\n因此，选择 D 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第127题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年 1—5 月，全国平均每天拦截诈骗短信约多少万条？",
+    "options": [
+      {
+        "label": "A",
+        "content": "545"
+      },
+      {
+        "label": "B",
+        "content": "571"
+      },
+      {
+        "label": "C",
+        "content": "603"
+      },
+      {
+        "label": "D",
+        "content": "18 D.659"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第一步，本题考查现期平均数计算中的单平均数。\n\n第二步，定位文字材料第二段，“2021 年 1—5 月......拦截诈骗短信 9.1 亿条”。\n\n第三步，根据平均数=\n\n，2021 年 1—5 月共有 31＋28＋31＋30＋31＝151 天，则 2021 年 1—5 月全国\n\n平均每天拦截诈骗短信\n因此，选择 C 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第128题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）2021 年 1—5 月，全国紧急止付涉案资金金额约是为群众挽回经济损失金额的多少倍？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.7"
+      },
+      {
+        "label": "B",
+        "content": "2.4"
+      },
+      {
+        "label": "C",
+        "content": "2.1"
+      },
+      {
+        "label": "D",
+        "content": "1.8"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n第一步，本题考查现期倍数计算。\n\n万条。\n\n第二步，定位文字材料第三段，“2021 年 1—5 月，全国……紧急止付涉案资金 2654 亿元，为群众挽回经济损\n\n失 991 亿元”。\n\n第三步，根据倍数公式，选项首位相同第二位不同，将分母从左向右截取前三位处理数据，代入数据可得\n直除首两位商 26，与 A 选项最接近。\n\n，\n\n因此，选择 A 选项。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第129题",
+    "level": "xingzhengzhifa"
+  },
+  {
+    "id": "national-xingce-ziliao-2022-xingzhengzhifa-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "national",
+    "year": 2022,
+    "content": "（单选题）以下信息中，能够从上述资料中推出的有几项？ ①2020 年 1—5 月，全国抓获电信网络诈骗犯罪嫌疑人 10 万名以上 ②2021 年 1—5 月，全国公安机关破获被骗百万元以上案件比去年同期多 500 件以上 ③2020 年 10 月—2021 年 5 月，每打掉 1 个“两卡”违法犯罪团伙，平均缴获的电话卡和银行卡总量就 在 300 张以上",
+    "options": [
+      {
+        "label": "A",
+        "content": "0 项"
+      },
+      {
+        "label": "C",
+        "content": "2 项"
+      },
+      {
+        "label": "B",
+        "content": "1 项"
+      },
+      {
+        "label": "D",
+        "content": "3 项"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n第一步，本题考查综合分析，且需选出正确的个数。\n\n第二步，①，基期量计算。定位文字材料第一段，“2021 年 1—5 月，全国……抓获犯罪嫌疑人 15.4 万名，同比\n\n分别上升……146.5%”，根据基期量=\n\n，可得 2020 年 1—5 月，全国抓获犯罪嫌疑人约为\n\n＜10 万名，不可推出。\n\n②，增长量计算。定位文字材料第四段，“2021 年 1—5 月，全国……共破获被骗百万元以上案件 881 起，同比\n\n上升 160.5%”，根据增长量计算 n+1 原则，及 160.5%≈\n\n（16%≈\n\n），可得 2021 年 1—5 月，全国公\n\n安机关共破获被骗百万元以上案件约比去年同期多\n\n≈528（起）＞500（起），可推出。\n\n③，现期平均数计算。定位文字材料最后一段，“2020 年 10 月至 2021 年 5 月，全国……共打掉’两卡‘违法\n\n犯罪团伙 1.5 万个，缴获诈骗电话卡 373.3 万张、银行卡 56.6 万张“，根据平均数= ，可得所求平均数约为\n\n第 63 页 共 64 页\n\n\f≈287（张）＜300，不可推出。综上，可推出的有 1 项。\n\n因此，选择 B 选项。\n\n第 64 页 共 64 页",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2022年国考行测（行政执法）第130题",
+    "level": "xingzhengzhifa"
+  }
+]

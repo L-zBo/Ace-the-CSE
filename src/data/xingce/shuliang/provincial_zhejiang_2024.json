@@ -1,0 +1,712 @@
+[
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-051",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "3，-5，6，-9，11，-15，18，-23，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "-33"
+      },
+      {
+        "label": "B",
+        "content": "27"
+      },
+      {
+        "label": "C",
+        "content": "35"
+      },
+      {
+        "label": "D",
+        "content": "45"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察发现数列项数较多，考虑多重数列。优先交叉看，奇数项数列：3，6，11，18，（    ），无明显特征，考虑作差，后项减前项可得：3，5，7，（    ），是公差为2的等差数列，下一项为7+2=9，故所求项为9+18=27；偶数项数列：-5，-9，-15，-23，无明显特征，考虑作差，后项减前项可得：-4，-6，-8，是公差为-2的等差数列。\n故正确答案为B。\n\n[来源 baijing1.top paperId=200 sort=51 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第51题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-052",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "3，6，15，39，102，267，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "666"
+      },
+      {
+        "label": "B",
+        "content": "669"
+      },
+      {
+        "label": "C",
+        "content": "696"
+      },
+      {
+        "label": "D",
+        "content": "699"
+      }
+    ],
+    "answer": "D",
+    "explanation": "数列无明显特征，且变化较快，优先考虑递推数列。观察发现：6×3-3=15，15×3-6=39，39×3-15=102，102×3-39=267，规律为：第二项×3-第一项=第三项，故所求项为267×3-102=699。\n故正确答案为D。\n\n[来源 baijing1.top paperId=200 sort=52 - D13 救援]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第52题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-053",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "[图形推理题，参见图片]",
+    "options": [
+      {
+        "label": "A",
+        "content": "B.36"
+      },
+      {
+        "label": "B",
+        "content": "669 ，729，9，81，27，（ ）"
+      },
+      {
+        "label": "C",
+        "content": "D.45"
+      },
+      {
+        "label": "D",
+        "content": "[选项 OCR 抽取失败-D11]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "数列变化起伏较大，且存在典型幂次数，优先考虑幂次数列。原数列可转化为：\n\n， ， ， ，\n\n，（ ）。数列的底数均为 3，指数依次为：-2，6，2，4，3，（ ），无明显特征，考虑作差，后项减前\n\n项 得 到 新 数 列 ：8 ， -4 ， 2 ， -1 ，（   ）， 是 公 比 为\n\n的 等 比 数 列 ， 则 所 求 项 的 指 数 为\n\n。故所求项为\n\n。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第53题",
+    "region": "zhejiang",
+    "meta": {
+      "invalid": true,
+      "reason": "content_empty"
+    },
+    "questionImage": "/img/questions/provincial_zhejiang_2024/q053.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-054",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "9，18，<img src=\"https://upload.gkzhenti.cn/1723610466714/3cd430850235986bd20bb43fbd3dadc8\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/1723610466714/090b01085ad04ad50061c849229fbf3d\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，<img src=\"https://upload.gkzhenti.cn/1723610466714/e1cb3b326bf394af21f5964a9e177efa\" class=\"inline-img\" style=\"display:inline;vertical-align:middle;\" />，（    ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "数列大部分为分数，考虑分数数列。观察无明显规律，考虑作差。后项减前项得到新数列：9，，，，（    ），将新数列转化为：，，，，（    ）。新数列分子部分：9，27，81，243，（    ），是公比为3的等比数列，则下一项分子部分为243×3=729；新数列分母部分：1，2，4，8，（    ），是公比为2的等比数列，则下一项分母部分为8×2=16，故新数列下一项为。所求项为。\n故正确答案为D。\n\n[来源 baijing1.top paperId=200 sort=54 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第54题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2024/q054.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-055",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "1.4，4.2，21，147，1323，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "12043"
+      },
+      {
+        "label": "B",
+        "content": "13042"
+      },
+      {
+        "label": "C",
+        "content": "14553"
+      },
+      {
+        "label": "D",
+        "content": "16048"
+      }
+    ],
+    "answer": "C",
+    "explanation": "数列相邻两项之间有明显的倍数关系，优先考虑作商。后项÷前项得到新数列：3，5，7，9，（ ），是公\n差为 2 的等差数列，则新数列下一项为 9+2=11。故所求项为 1323×11=14553。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第55题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "时钟的分针顶点距离圆心5厘米，现在时间为7：30，那么接下来时针和分针第三次成直角的时候，分针顶点走 过的长度累计为多少厘米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "由题意可知，7：30至8：00之间会有一次直角，根据每小时有两次时针和分针成直角的情况，可知8：00至9：00之间会有两次直角，故第三次时针和分针成直角的时间是9：00。7：30到9：00经过1.5小时，分针每小时走1个圆周，因此分针共走了1.5个圆周。根据公式：周长，可知分针顶点走过的长度累计为厘米。\n故正确答案为B。\n\n[来源 baijing1.top paperId=200 sort=56 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第56题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2024/q056.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "有一批零件，如果由甲、乙两人加工，20小时可以完成，需要支付酬劳1200元；如果由甲、丙两人加工，15小 时可以完成，需要支付酬劳1350元；如果由乙、丙两人加工，12小时可以完成，需要支付酬劳1320元。现在安 排3人都参与加工，并要求在13小时以内完成，那么最少需要支付酬劳多少元？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1270"
+      },
+      {
+        "label": "B",
+        "content": "1280"
+      },
+      {
+        "label": "C",
+        "content": "1290"
+      },
+      {
+        "label": "D",
+        "content": "1300"
+      }
+    ],
+    "answer": "A",
+    "explanation": "厘米。\n\n赋值工作总量为 20、15、12 的最小公倍数 60。根据题意，可列式为\n\n；\n\n；\n\n，联立解得：\n\n，\n\n，\n\n。已知甲、乙合\n\n作 20 小时支付酬劳 1200 元，甲、丙合作 15 小时支付酬劳 1350 元，乙、丙合作 12 小时支付酬劳 1320\n\n元，可列式为：\n\n······①；\n\n······②；\n\n的酬劳为 70 元/小时。若要支付酬劳最少，则单位效率酬劳低的人尽可能多干。甲、乙、丙单位效率的\n\n······③。解得甲的酬劳为 20 元/小时，乙的酬劳为 40 元/小时，丙 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n酬劳分别为\n\n；\n\n；\n\n，可知单位效率下，甲和乙所需酬劳更少。应让甲、\n\n乙尽可能多做，丙尽可能少做。由于要求在 13 小时以内完成，即让甲、乙工作满 13 小时，二人工作量\n\n为（1+2）×13=39，剩余工作量为 60-39=21，由丙完成即可，则最少需要支付酬劳\n\n元。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第57题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "小张和小王的年龄之和为45岁。5年之后小李的年龄比小张的3倍少16岁。已知小张的年龄比小王小，那么再过 5年，3人的平均年龄最大可能为多少岁？",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "48"
+      },
+      {
+        "label": "C",
+        "content": "50"
+      },
+      {
+        "label": "D",
+        "content": "54"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设小张今年 x 岁，则 5 年后小李 3（x+5）-16=（3x-1）岁。再过 5 年，即 10 年后，小张和小王的年龄\n\n之和为 45+10+10=65 岁，小李年龄为 3x-1+5=（3x+4）岁，则 3 人的平均年龄为\n\n岁。要想 3 人的平均年龄最大，则 x 取最大值。根据“小张和小王的年龄之和为 45 岁”\n\n且“小张的年龄比小王小”，可知小张的年龄\n\n岁，可得 x 最大为 22，因此再过 5 年，3\n\n人的平均年龄最大为 22+23=45 岁。 \n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第58题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两店同时开展促销活动，甲店单件商品的标价超过50元可以立减20元后再打9折，乙店单件商品的标价 超过50元可以打8折后再立减10元。现两家店都在销售3种商品，相同商品在两店价格相同，分别为45元、75 元、85元，某人准备购买其中两种商品各一件，最少的花费在以下哪个范围之内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "90元以下"
+      },
+      {
+        "label": "B",
+        "content": "90~93元"
+      },
+      {
+        "label": "C",
+        "content": "93~96元"
+      },
+      {
+        "label": "D",
+        "content": "96元以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，购买 3 种商品在甲、乙两店的花费如下表： \n\n比较可得，购买其中两种商品各一件，最少花费 45+49.5=94.5 元，在 C 项范围内。 \n故正确答案为 C。 \n备注：同一家店，85 元商品的花费一定高于 75 元商品，实际计算时算出 75 元商品在甲、乙两店的花费\n均大于 45 元，即可确定花费最少的情况，无须再计算 85 元商品进行比较。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第59题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两个施工队共同完成一项工程需要20天。甲、乙两队合作4天后，乙队因故退出6天后回归，回归时工程 总量已完成40%。为保证按时完工，乙队回归时带来了丙施工队，甲、乙、丙三队共同工作10天后刚好完成工 程。问甲、乙、丙队的效率比为多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3：6：10"
+      },
+      {
+        "label": "B",
+        "content": "4：8：15"
+      },
+      {
+        "label": "C",
+        "content": "6：3：2"
+      },
+      {
+        "label": "D",
+        "content": "10：5：3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：根据题意，可得 4×（甲+乙）+6 甲=20×（甲+乙）×40%，解得甲：乙=2：1。赋值甲的效率为\n2，乙的效率为 1，则该项工程的总量为 20×（2+1）=60。根据“甲、乙、丙三队共同工作 10 天后刚好\n完成工程”，可得 10×（甲+乙+丙）=60×（1-40%），解得丙=0.6，则甲、乙、丙队的效率比为 2：1：\n0.6=10：5：3。\n\n方法二：甲、乙两队合作 4 天完成了该项工程的\n\n，在乙退出的 6 天中，甲完成了该项工程 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n的 40%-20%=20%，甲单独完成该项工程的时间为\n\n天；甲、乙、丙共同工作的 10 天中，甲、\n\n乙共同完成了该项工程的\n\n，丙这 10 天完成了该项工程的 1-40%-50%=10%，丙单独完成该项\n\n工程的时间为\n\n天。赋值该项工程的总量为 300，则甲的效率为\n\n，甲和乙的效\n\n率和为\n\n，乙的效率为 15-10=5，丙的效率为\n\n，甲、乙、丙队的效率比为 10：5：\n\n3。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第60题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "甲、乙两人以相同速度一起骑车从A地前往B地。同行1小时后，两人休息20分钟，然后甲继续原速出发，此时 乙发现有重要物品未带，原速返回A地去取，到达A地后立即开车前往B地。最终乙比甲提前12分钟到达B地。 已知开车速度是骑行速度的5倍，那么甲全程用了多少分钟？",
+    "options": [
+      {
+        "label": "A",
+        "content": "165"
+      },
+      {
+        "label": "B",
+        "content": "175"
+      },
+      {
+        "label": "C",
+        "content": "185"
+      },
+      {
+        "label": "D",
+        "content": "195"
+      }
+    ],
+    "answer": "C",
+    "explanation": "题干中只给出时间，没有具体的速度和路程，考虑用赋值法解题，赋值甲、乙两人骑车的速度均为 1，\n则乙开车的速度为 5。根据“乙原速返回 A 地”，可知乙返回 A 地需要 1 小时，此时甲骑行了 1+1=2 小\n时=120 分钟。设从 A 地前往 B 地乙开车的时间为 t 分钟，则甲骑行的时间为（120+t+12）分钟，根据公\n式：路程=速度×时间，可得 1×（120+t+12）=5×t，解得 t=33，则甲全程用时=骑行时间+休息时间=\n（120+33+12）+20=185 分钟。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第61题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某公司组织面试，每位考生都要回答甲、乙、丙、丁、戊5道试题，作答顺序随机安排。已知小张第二题是甲 题、第四题是丁题，小王第三题是乙题，那么两人作答顺序完全相同的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "3200"
+      },
+      {
+        "label": "B",
+        "content": "3600"
+      },
+      {
+        "label": "C",
+        "content": "4000"
+      },
+      {
+        "label": "D",
+        "content": "4800"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据公式：概率\n\n，分析如下，①总情况数：小张除了 2 题顺序固定，剩余 3 题\n\n全排列，有\n\n种情况；小王除了 1 题顺序固定，剩余 4 题全排列，有\n\n种情况，则总情况数有\n\n种。②满足条件情况数：要求两人作答顺序完全相同，即第二题是甲题、第三题是乙题、\n\n第四题是丁题，这 3 题顺序固定，剩余 2 题全排列，小张有 种情况，小王只有与小张完全相同的 1\n\n种情况，则满足条件情况数有\n\n种。故所求概率\n\n。 \n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第62题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "有一组算式1+1、2+3、3+5、4+7、1+9、2+11、3+13、4+15、1+17、2+19、3+21、4+23、1+25、2+27、 ······和为2021的是第几个算式？",
+    "options": [
+      {
+        "label": "A",
+        "content": "507"
+      },
+      {
+        "label": "B",
+        "content": "1010"
+      },
+      {
+        "label": "C",
+        "content": "1012"
+      },
+      {
+        "label": "D",
+        "content": "1014"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方法一：根据题干可得，算式加号前为“1、2、3、4”四个数进行周期循环，加号后是首项为 1、公差为\n2 的等差数列，题干信息充分，可代入选项验证：\n\n代入 A 项，根据\n\n，则加号前数字为 3，即加号后数字=2021-3=2018。根据等差数 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n列通项公式：\n\n，则有\n\n，即第 507 个算式\n\n加号后数字为\n\n，不符合要求，排除；\n\n代入 B 项，根据\n\n，则加号前数字为 2，即加号后数字=2021-2=2019。根据等差\n\n数列通项公式，则有\n\n，即第 1010 个算式加号后数字为 2019，\n\n符合要求，当选。\n方法二：根据题干可得，加和为 2021 的情况有“1+2020”、“2+2019”、“3+2018”、“4+2017”四种。\n因加号后均为奇数，可排除“1+2020”、“3+2018”两种情况。验证剩余情况：假设该算式为“2+2019”，\n\n根 据 等 差 数 列 通 项 公 式 ：\n\n， 可 得\n\n， 则\n\n；根据\n\n，则加号前数字为 2，符合要求，无需验证\n\n其余情况。\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第63题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某公司招聘员工，来应聘的男女人数比是18：17，最后被录取的有280人，其中男女人数比是3：4，未被录取 的男女人数比是6：5。同来应聘的共有多少人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "630"
+      },
+      {
+        "label": "B",
+        "content": "720"
+      },
+      {
+        "label": "C",
+        "content": "1050"
+      },
+      {
+        "label": "D",
+        "content": "1400"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方 法 一： 由于 被录 取的有 280 人 ，其 中男 女人数 比 是 3： 4 ，可 知被 录取 的 男女 人数 分别 为：\n\n人、280-120=160 人。设来应聘的男性人数为 18x 人、女性人数为 17x 人，根据未\n\n被 录 取 的 男 女 人 数 比 是 6 ： 5 ， 可 知\n\n， 解 得 x=30 。 则 同 来 应 聘 的 共 有\n\n人。 \n\n方法二：来应聘的男女人数比是 18：17，可知来应聘的总人数是 18+17=35 的倍数，选项 720 不是 35 的\n倍数，排除 B 项。根据未被录取的男女人数比是 6：5，可知未被录取人数是 6+5=11 的倍数。而应聘总\n人数-录取人数=未被录取人数，代入剩余选项：A 项，630-280=350，不是 11 倍数，排除；D 项、1400-\n280=1120，不是 11 倍数，排除。C 项，1050-280=770，是 11 倍数，当选。 \n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第64题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "一块空地如下图所示，AD、BC均与底边垂直，三角形ACD为等腰直角三角形，且AG、DE、CF长度均相等。现 在图中阴影部分种上草皮，已知DF长80米，BC长160米，那么草皮面积为多少平方米？ B.3600 C.4000 D.4800",
+    "options": [
+      {
+        "label": "A",
+        "content": "3200"
+      },
+      {
+        "label": "B",
+        "content": "3600"
+      },
+      {
+        "label": "C",
+        "content": "4000"
+      },
+      {
+        "label": "D",
+        "content": "4800"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设 AG、DE、CF 长度均为 x 米，则 DC=DF-CF=（80-x）米，EC=DE+DC=x+（80-x）=80 米。根据题意，AD=DC，\n\n则 GD=AD-AG=（80-x）-x=（80-2x）米。根据公式：\n\n，则\n\n平方米； 平方\n\n\f2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n米。故草皮面积\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第65题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2024/q065.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某工厂有100个零件，从1-100编号后将编号为奇数的零件拿掉，余下50个零件按顺序重新从1开始编号后将编 号为奇数的零件拿掉，重复上述操作直到剩下一个零件，那么余下这个零件最初的编号是多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "32"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "64"
+      },
+      {
+        "label": "D",
+        "content": "100"
+      }
+    ],
+    "answer": "C",
+    "explanation": "平方米。 \n\n方法一：根据题意，每次都将编号为奇数的零件拿掉，即每次剩下的零件都是当前编号为偶数（即除以\n2 为整数）的零件，考虑代入排除。 \n经过第一轮操作：32÷2=16，50÷2=25，64÷2=32，100÷2=50，可知只有编号为 50 的零件被拿掉，排\n除 B 项； \n经过第二轮操作：32÷4=8，64÷4=16，100÷4=25，可知只有编号为 100 的零件被拿掉，排除 D 项； \n剩余两项中，64÷2=32，可知 64 的下一轮刚好是 32，即编号为 32 的零件先于 64 被拿掉，排除 A 项。 \n方法二：根据题意，每次都是将零件重新从 1 开始编号后将编号为奇数的零件拿掉，即每次剩下的零件\n\n都是当前编号为偶数（即除以 2 为整数）的零件，且下一次该零件的编号为\n\n（如当前编号\n\n为 100，下一次编号为\n\n）。 \n\n由此进行推导，在第 n 轮中编号为 a 的零件，若 为整数，则该零件可保留到第 n+1 轮，且其在第 n+1\n\n轮中的编号为 ；同理，若\n\n为整数，则该零件可保留到第 n+2 轮。以此类推，初始编号中包含越\n\n多 2 因数的零件，能保留下来的轮数越多。结合选项分析，A 项\n\n，B 项\n\n，C 项\n\n，D 项\n\n，即 C 项包含的 2 因数最多。 \n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第66题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-067",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "如图所示有25个点，行、列都以相等的间隔排列。用其中4个点作为顶点连接成正方形，那么有多少种不同边 长的正方形？",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "D",
+    "explanation": "将同一行、同一列两点之间的距离赋值为 1。要求选出 4 个点作为顶点连接成正方形，对正方形在一条\n边上的两个点分情况讨论：\n（1）在一条边上的两个点在同一行或列上，正方形边长有 1、2 共 2 种情况，如下图所示。\n\n（2）在一条边上的两个点在同一条斜线上，正方形边长有 、\n\n  、\n\n共 3 种情况，如下图所 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n示。\n\n（3）在一条边上的两个点既不在同一行或列上，也不在同一条斜线上，正方形边长有 、\n\n共 2 种\n\n情况，如下图所示。\n\n综上，共有 2+3+2=7 种不同边长的正方形。\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第67题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2024/q067.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-068",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某同学在某天12：15-13：15内随机一个时刻开始午睡，午睡时长为0-1小时内的随机时间。问该同学在14：00 之后起床的概率为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "设 该 同 学 开 始 午 睡 的 时 间 为 x ， 起 床 的 时 间 为 y 。 如 下 图 所 示 ， 直 线\n\n，\n\n围成的平行四边形 ABCD 区域即为该同学可能的起床时间。结合题意，午睡时长为 0-1\n\n小时，要想满足该同学在 14：00 之后起床，则开始午睡的时间要在 13：00-13：15 之间，最晚的起床时\n间对应 14：00-14：15 之间，即图中三角形 DEF 对应的阴影区域。假设每分钟对应的长度为 1，则\n\n，\n\n，故所求概率为\n\n。 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第68题",
+    "region": "zhejiang",
+    "questionImage": "/img/questions/provincial_zhejiang_2024/q068.png"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-069",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某班级有6名学生坐在一排，上课铃响后慌乱中回到座位上，结果只有2人坐到了自己的位置，只有2个相邻的 同学坐到了对方的位置。问有多少种这样的情况？",
+    "options": [
+      {
+        "label": "A",
+        "content": "12"
+      },
+      {
+        "label": "B",
+        "content": "18"
+      },
+      {
+        "label": "C",
+        "content": "24"
+      },
+      {
+        "label": "D",
+        "content": "36"
+      }
+    ],
+    "answer": "B",
+    "explanation": "假设这 6 名学生依次为 a、b、c、d、e、f。根据“只有 2 人坐到了自己的位置，只有 2 个相邻的同学坐\n到了对方的位置”，可知剩下的 6-2-2=2 人坐错位置且其位置不相邻。分情况讨论如下： \n①若 a、b 相邻的同学坐到了对方的位置，则坐错位置且其位置不相邻的 2 人可以为 c 和 e、c 和 f、d 和\nf，有 3 种情况； \n②若 b、c 相邻的同学坐到了对方的位置，则坐错位置且其位置不相邻的 2 人可以为 a 和 d、a 和 e、a 和\nf、d 和 f，有 4 种情况； \n③若 c、d 相邻的同学坐到了对方的位置，则坐错位置且其位置不相邻的 2 人可以为 a 和 e、a 和 f、b 和\ne、b 和 f，有 4 种情况； \n④若 d、e 相邻的同学坐到了对方的位置，则坐错位置且其位置不相邻的 2 人可以为 a 和 c、a 和 f、b 和\nf、c 和 f，有 4 种情况； \n⑤若 e、f 相邻的同学坐到了对方的位置，则坐错位置且其位置不相邻的 2 人可以为 a 和 c、a 和 d、b 和\nd，有 3 种情况。 \n分类相加，则所求情况共有 3+4+4+4+3=18 种。 \n故正确答案为 B。 \n【考场思维】分类讨论中①和⑤的情况是类似的，②和④的情况是类似的，所以只需讨论①②③的情况\n数，就可以计算总情况数=3×2+4×2+4=18 种。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第69题",
+    "region": "zhejiang"
+  },
+  {
+    "id": "provincial-zhejiang-xingce-shuliang-2024-070",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2024,
+    "content": "某自助餐厅提供羊肉串，小王怕浪费每次最多只拿3串。已知他正好吃了10串，那么他共有多少种不同的拿 法？",
+    "options": [
+      {
+        "label": "A",
+        "content": "44"
+      },
+      {
+        "label": "B",
+        "content": "81 B.D.274"
+      },
+      {
+        "label": "C",
+        "content": "149"
+      },
+      {
+        "label": "D",
+        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：根据题意可知，小王每次只能拿 1 串、2 串或 3 串，一共吃了 10 串。若有 3 次拿了 3 串，1 次\n\n拿了 1 串，则一共取餐 4 次，即这 4 次取餐中有 3 次是拿了 3 串，有\n\n种不同的取餐情况。同理，\n\n不同拿法可列表如下： 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n则所求总情况共有 4+6+30+15+20+60+42+8+1+15+35+28+9+1=274 种。\n方法二：爬楼梯模型。本题可以理解为一共爬了 10 级台阶，每次可以爬 1 至 3 级。\n先对简单情况进行讨论：\n①爬上 1 级台阶，只有一次上了 1 级，共 1 种情况；\n②爬上 2 级台阶，上楼梯的情况有（1，1）、（2），共 2 种情况；\n③爬上 3 级台阶，上楼梯的情况有（1，1，1）、（1，2）、（2，1）、（3），共 4 种情况；\n④爬上 4 级台阶，可以对最后一次上的台阶数进行分类讨论：\na.最后一次爬了 3 级，则需先爬了 1 级台阶，同①有 1 种情况；\nb.最后一次爬了 2 级，则需先爬了 2 级台阶，同②有 2 种情况；\nc.最后一次爬了 1 级，则需先爬了 3 级台阶，同③有 4 种情况；\n所以爬 4 级台阶的情况数为 a.b.c.三类情况数之和，即等于爬 1 级、2 级、3 级的情况数之和，共 1+2+4=7\n种情况。\n以此类推，由于最后一次可以爬 1 至 3 级台阶，所以爬上 n（n＞3）级台阶情况数等于爬 n-3 级、n-2\n级、n-1 级的情况数之和，则有：\n爬上 5 级台阶的情况数等于爬 2 级、3 级、4 级的情况数之和，共 2+4+7=13 种情况；\n爬上 6 级台阶的情况数等于爬 3 级、4 级、5 级的情况数之和，共 4+7+13=24 种情况；\n爬上 7 级台阶的情况数等于爬 4 级、5 级、6 级的情况数之和，共 7+13+24=44 种情况；\n爬上 8 级台阶的情况数等于爬 5 级、6 级、7 级的情况数之和，共 13+24+44=81 种情况；\n爬上 9 级台阶的情况数等于爬 6 级、7 级、8 级的情况数之和，共 24+44+81=149 种情况；\n爬上 10 级台阶的情况数等于爬 7 级、8 级、9 级的情况数之和，共 44+81+149=274 种情况，即题目所求 2024 年浙江省公务员录用考试《行测》题（A 类）解析\n\n 智库，获取\n\n情况为 274 种。\n故正确答案为 D。\n【考场思维】因为每次最多能拿 3 串，所以最后一次取的串数只有 3、2、1 串，则前面几次需要取的串\n数应为 7、8、9 串，因此拿 10 串的方法数等于拿 7 串、8 串、9 串的情况数之和。观察选项数字 A+B+C=D，\n大胆推测前三个选项分别为拿 7 串、8 串、9 串的情况数，则 D 项为答案。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2024年省考zhejiang行测第70题",
+    "region": "zhejiang"
+  }
+]

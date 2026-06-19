@@ -1,0 +1,334 @@
+<!DOCTYPE html> <html> <head> <title>
+        历年真题-行测-小麦公考_公务员考试_公考_2022国家公务员考试_2022省公务员考试    </title> <meta name="Keywords" content="公务员,公务员考试,公考,国家公务员,2022国家公务员考试网,2022省公务员考试网,公考笔试,公考面试,职位表,小麦公考,公考讲师刘文波"/> <meta name="description" content="小麦公考提供2022国家公务员考试网、2022省公务员考试网、公务员考试报考公告/大纲/职位表、公务员考试笔试面试辅导资料、公考历年真题下载及视频讲解、公考申论批改、公考笔试面试培训课程。"/> <meta name="author" content="XMGK"> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> <meta name="renderer" content="webkit"> <meta http-equiv="Cache-Control" content="no-siteapp"/> <link href="/public/web/css/bootstrap.min.css" rel="stylesheet"> <link rel="icon" href="/public/web/images/favicon.ico" type="image/x-icon"> <link rel="shortcut icon" href="/public/web/images/favicon.ico" type="image/x-icon"> <link rel="stylesheet" href="/public/web/css/common.css"> <link rel="stylesheet" href="/public/web/css/couser.css"> <link rel="stylesheet" href="/public/web/css/font-awesome-4.7.0/css/font-awesome.min.css"> <link rel="stylesheet" href="/public/web/css/font-awesome-4.7.0/css/font-awesome-ie7.min.css"> <script type="text/javascript" src="/public/web/js/jquery.min.js"></script> <script type="text/javascript" src="/public/web/js/bootstrap.min.js"></script> <link rel="stylesheet" href="/public/js/layui/css/layui.css" media="all"> <script src="/public/web/js/spin.js"></script> <script src="/public/web/js/archer.js"></script> <script src="/public/js/layui/layui.js"></script> <script type="text/javascript">
+	//全局变量
+	var GV = {
+		ROOT: "/",
+		WEB_ROOT: "/",
+		JS_ROOT: "public/js/",
+		TMPL_Public:'/themes/simplebogotx/Public'
+	};
+
+        var sign_url = "/user/login/login.html";
+        var register_url = "/user/Register/doregister.html";
+        var back_url = "/User/Login/retrieve_password.html";
+        var code_url = "/user/Register/getSmsCode.html";
+        //验证手机是否注册
+        var check_phone = "/user/register/checkphoneregiter.html";
+        var search_course_url = "/Course/Center/curriculum.html";//搜索课程
+        var search_face_url = "/Course/FaceCourse/facecourse_list.html";//搜索面授
+        var search_ques_url = "/Portal/Question/search.html";//搜索题库
+        var search_article_url = "/Portal/Article/article_index.html";//搜索资料
+        var code_img_url = "/api/checkcode/index/length/4/font_size/18/width/120/height/38/charset/1234567890/use_noise/1/use_curve/0.html";
+        //验证手机是否注册
+        var check_phone = "/user/register/checkphoneregiter.html";
+        $('.mod-nav_li,.mod-nav_popup').on('mouseover', function () {
+            $(this).find('.mod-nav_popup').show();
+        });
+        $('.mod-nav_li,.mod-nav_popup').on('mouseout', function () {
+            $('.mod-nav_popup').hide();
+        });
+        //边缘弹出
+        var message_count = "";
+        //如果有消息，弹出
+    $(document).ready(function () {
+        if (message_count > 0) {
+            $("#nav_message").append('<div class="tip">'+message_count+'</div>');
+        }
+    })
+
+    </script> <style>
+	.border-color-theme {
+		border-color: #eee !important;
+	}
+	#userlogout .popover-content {
+      text-align:right;
+	  width:150px;
+	  background-color:red;
+	  height:30px;
+	  float:right;
+    }
+    .navbar-nav {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+    .navbar-left {
+        float: left !important;
+        width: 720px !important;
+        overflow: hidden;
+    }
+    .message-ico {
+        font-size: 22px;
+        margin-top: 26px;
+        margin-left: 15px !important;
+        position: relative;
+    }
+	</style> </head> <body> <div id="header" > <nav class="navbar navbar-default navbar-static-top" id="header_nav"> <div class="container" style="position: relative;"> <div class="navbar-header"> <a class="navbar-brand" href="/"><img src="https://www.xiaomaigongkao.com/public/web/images/logo.png"></a> </div> <div class="collapse navbar-collapse"> <ul class="nav navbar-nav navbar-left"> <li class="active"><a href="/">首页</a></li> <li ><a href="/Course/Center/curriculum.html">直播</a></li><li ><a href="/Course/Recorded/curriculum.html">点播</a></li><li ><a href="/Course/FaceCourse/facecourse_list.html">面授</a></li><li ><a href="/Course/CourseBooks/curriculum.html">图书</a></li><li ><a href="https://www.xiaomaigongkao.com/shenPaper/lists.html">申论批改</a></li><li ><a href="/Portal/Article/article_index.html">热点</a></li><li ><a href="/Portal/Page/appdownload.html">APP</a></li><li ><a href="javascript:bomb('search')"><i class="fa fa-search"></i> 搜索</a></li> </ul> <div class="pull-left message-ico"> </div> <div class=" navbar-right header_login"> <a href="javascript:bomb('sign-in')">登录&nbsp;&nbsp;</a> <a href="#"> | </a> <a href="javascript:bomb('sign-in','reg')">&nbsp;&nbsp;注册</a> </div> </div> </div> </nav> </div> <script>
+    var $dropdownLi = $('.header_login');
+
+    $dropdownLi.on({
+        mouseover:function(){
+            $(this).addClass('open');
+        }
+        ,
+        mouseout:function(){
+            $(this).removeClass('open');
+        }
+    })
+    var url = window.location.href;
+    if (url.indexOf("https") < 0 && url.indexOf("www.xiaomaigongkao.com") > 0 ) {
+        url = url.replace("http://", "https://");
+        window.location.replace(url);
+    }
+</script> <!--头部结束--> <style>
+body{
+   background-color:#f8f9fb;
+}
+.breadcrumb{
+  background-color:#f8f9fb;
+}
+.lnzt{
+	width:1150px;
+	border-radius:5px;
+	margin:0 auto;
+	border:1px solid #eee;
+	height:100px;
+	display:table;
+	background-color:#ffffff;
+}
+.lnzt .lnzt_title{
+    font-size:18px;
+	color:#333;
+	line-height:40px;
+	border-bottom: solid 2px #00967a;
+}
+.lnzt .lnzt_content{
+    font-size:18px;
+	color:#333;
+	line-height:32px;
+}
+.lnzt .lnzt_content .pro{
+    font-size:14px;
+	color:#333;
+	line-height:32px;
+	float:left;
+	width:1130px;
+	padding-left:20px;
+	padding-top:10px;
+}
+.lnzt .lnzt_content .pro span{
+    width:50px;
+	color:#333;
+	line-height:32px;
+	float:left;
+	font-weight:bold;
+	padding-right:10px;
+}
+.lnzt .lnzt_content .pro ul{
+   width:1000px;
+   list-style-type:none;
+   float:left;
+   height:60px;
+   padding 10px 0px 10px 0px;
+}
+.lnzt .lnzt_content .pro ul li{
+	color:#333;
+	line-height:25px;
+	float:left;
+	width:50px;
+}
+.lnzt .lnzt_content .year{
+    font-size:14px;
+	color:#333;
+	line-height:32px;
+	float:left;
+	width:1130px;
+	padding-left:20px;
+	padding-bottom:10px;
+}
+.lnzt .lnzt_content .year span{
+	color:#333;
+	line-height:30px;
+	float:left;
+	font-weight:bold;
+	padding-right:10px;
+}
+.lnzt .lnzt_content .year ul{
+   list-style-type:none;
+   float:left;
+}
+.lnzt .lnzt_content .year ul li{
+	color:#333;
+	line-height:30px;
+	float:left;
+	width:50px;
+}
+.juxing{
+	width:5px;
+	height:20px; 
+	background: #0bb670;
+	border-radius:10px;
+	float:left;
+	margin-top:10px;
+	text-align:left;
+	margin-left:10px;
+}
+.ad_1{
+	margin-top:20px;
+	width:1150px;
+	margin:0 auto;
+	padding-top:10px;
+  }
+   .slpg-list{
+      width:1140px;
+   }
+    .slpg-list li{
+        border-bottom: solid 1px #efefef;
+        height:auto;
+		overflow: hidden;
+		margin:10px;
+    }
+    .slpg-list .sold_number{
+        font-size: 14px;
+        color: #999;
+        margin-top: 10px;
+		margin-bottom:10px;
+    }
+    .slpg-list .price{font-size: 24px;font-weight: 700;text-align: center;    line-height: 48px;}
+    .slpg-list .button{
+        display: inline-block;
+        position: relative;
+        margin: 10px;
+        padding: 5px 30px;
+        text-align: center;
+        text-decoration: none;
+        font-size:14px;
+        border-radius: 30px;
+        background: #01bb70;
+        color: #fff;
+    }
+    .slpg-list .down { margin-top: 10px;text-align:center;color:#666;}
+	.slpg-list .down img{ 
+	  width:24px;
+	  height:20px;
+	}
+	.slpg-list .down a{ 
+	   color:#858585;
+	   padding:2px;
+	}
+	.correct-list{
+	   background-color:#fff;
+	   margin-top:10px;
+	   border-radius:10px;
+	}
+	
+.correct-list .lnzt_title{
+    font-size:18px;
+	color:#333;
+	line-height:40px;
+	border-bottom: solid 2px #00967a;
+}
+.bottom-paging{
+   height:80px;
+}
+.btn-all active{
+   background-color:#01bb70;
+}
+.btn-area active{
+	background-color:#01bb70;
+	border-radius:10px;
+}
+	.lnzt_title ul{
+		display: inline-flex;
+	}
+.lnzt_title ul li {
+	border-right: solid 1px #eee;
+	width: 120px;
+	text-align: center;
+}
+.lnzt_title ul li a{
+	color:#333;
+}
+	.lnzt_title ul .current{
+		background: #fff;
+		border-bottom: solid 2px #fff;
+		margin-bottom: -2px;
+		text-align:left;
+		text-indent: 10px;
+	}
+	.lnzt_title ul .current a{
+		color: #00967a;
+	}
+
+
+.lnzt_content .pro .active{color: #00967a!important;}
+.lnzt_content .year .active{color: #00967a!important;}
+</style> <div class="content"> <div class="container" id="location"> <!-- <ul class="breadcrumb"> --> <!-- <li><a href="/">首页</a></li> --> <!-- <li class="active">历年真题</li> --> <!-- </ul> --> </div> <div class="row"> <div class="col-md-12"> <div class="lnzt"> <div class="lnzt_title"> <ul> <li class="current" ><a href="/QuestionNew/paperList.html"><span class="juxing"></span> 行测真题</a> </li> <li><a href="/shenPaper/lists.html">申论真题</a> </li> </ul> </div> <div class="lnzt_content"> <div class="lnzt_content pro"> <span>省份: </span> <ul> <li id="whole"> <a href="/QuestionNew/paperList.html" 							   class="btn-all">全部</a> </li> <li><a href="/QuestionNew/paperList/area/38/year/2023.html" class="btn-area  ">联考模拟</a></li><li><a href="/QuestionNew/paperList/area/1/year/2023.html" class="btn-area  ">国家</a></li><li><a href="/QuestionNew/paperList/area/2/year/2023.html" class="btn-area  ">西藏</a></li><li><a href="/QuestionNew/paperList/area/3/year/2023.html" class="btn-area  ">河南</a></li><li><a href="/QuestionNew/paperList/area/4/year/2023.html" class="btn-area  ">吉林</a></li><li><a href="/QuestionNew/paperList/area/5/year/2023.html" class="btn-area  ">黑龙江</a></li><li><a href="/QuestionNew/paperList/area/6/year/2023.html" class="btn-area  ">浙江</a></li><li><a href="/QuestionNew/paperList/area/7/year/2023.html" class="btn-area  ">山西</a></li><li><a href="/QuestionNew/paperList/area/8/year/2023.html" class="btn-area  ">山东</a></li><li><a href="/QuestionNew/paperList/area/9/year/2023.html" class="btn-area  ">云南</a></li><li><a href="/QuestionNew/paperList/area/10/year/2023.html" class="btn-area  ">辽宁</a></li><li><a href="/QuestionNew/paperList/area/11/year/2023.html" class="btn-area  ">湖南</a></li><li><a href="/QuestionNew/paperList/area/12/year/2023.html" class="btn-area  ">陕西</a></li><li><a href="/QuestionNew/paperList/area/13/year/2023.html" class="btn-area  ">河北</a></li><li><a href="/QuestionNew/paperList/area/14/year/2023.html" class="btn-area  ">湖北</a></li><li><a href="/QuestionNew/paperList/area/15/year/2023.html" class="btn-area  ">江西</a></li><li><a href="/QuestionNew/paperList/area/16/year/2023.html" class="btn-area  ">海南</a></li><li><a href="/QuestionNew/paperList/area/17/year/2023.html" class="btn-area  ">安徽</a></li><li><a href="/QuestionNew/paperList/area/18/year/2023.html" class="btn-area  ">甘肃</a></li><li><a href="/QuestionNew/paperList/area/19/year/2023.html" class="btn-area  ">贵州</a></li><li><a href="/QuestionNew/paperList/area/20/year/2023.html" class="btn-area  active">新疆</a></li><li><a href="/QuestionNew/paperList/area/21/year/2023.html" class="btn-area  ">广西</a></li><li><a href="/QuestionNew/paperList/area/22/year/2023.html" class="btn-area  ">宁夏</a></li><li><a href="/QuestionNew/paperList/area/23/year/2023.html" class="btn-area  ">青海</a></li><li><a href="/QuestionNew/paperList/area/24/year/2023.html" class="btn-area  ">内蒙古</a></li><li><a href="/QuestionNew/paperList/area/25/year/2023.html" class="btn-area  ">四川</a></li><li><a href="/QuestionNew/paperList/area/26/year/2023.html" class="btn-area  ">天津</a></li><li><a href="/QuestionNew/paperList/area/27/year/2023.html" class="btn-area  ">广东</a></li><li><a href="/QuestionNew/paperList/area/28/year/2023.html" class="btn-area  ">江苏</a></li><li><a href="/QuestionNew/paperList/area/29/year/2023.html" class="btn-area  ">上海</a></li><li><a href="/QuestionNew/paperList/area/30/year/2023.html" class="btn-area  ">北京</a></li><li><a href="/QuestionNew/paperList/area/31/year/2023.html" class="btn-area  ">福建</a></li><li><a href="/QuestionNew/paperList/area/32/year/2023.html" class="btn-area  ">重庆</a></li><li><a href="/QuestionNew/paperList/area/33/year/2023.html" class="btn-area  ">深圳</a></li><li><a href="/QuestionNew/paperList/area/35/year/2023.html" class="btn-area  ">广州</a></li><li><a href="/QuestionNew/paperList/area/36/year/2023.html" class="btn-area  ">政法干警</a></li> </ul> </div> <div class="lnzt_content year"> <span>年份: </span> <ul> <li> <a href="/QuestionNew/paperList.html"  							  class="btn-all">全部</a></li> <li><a href="/QuestionNew/paperList/area/20/year/2024.html" class="btn-area  ">2024</a></li><li><a href="/QuestionNew/paperList/area/20/year/2023.html" class="btn-area active ">2023</a></li><li><a href="/QuestionNew/paperList/area/20/year/2022.html" class="btn-area  ">2022</a></li><li><a href="/QuestionNew/paperList/area/20/year/2021.html" class="btn-area  ">2021</a></li><li><a href="/QuestionNew/paperList/area/20/year/2020.html" class="btn-area  ">2020</a></li><li><a href="/QuestionNew/paperList/area/20/year/2019.html" class="btn-area  ">2019</a></li><li><a href="/QuestionNew/paperList/area/20/year/2018.html" class="btn-area  ">2018</a></li><li><a href="/QuestionNew/paperList/area/20/year/2017.html" class="btn-area  ">2017</a></li><li><a href="/QuestionNew/paperList/area/20/year/2016.html" class="btn-area  ">2016</a></li><li><a href="/QuestionNew/paperList/area/20/year/2015.html" class="btn-area  ">2015</a></li><li><a href="/QuestionNew/paperList/area/20/year/2014.html" class="btn-area  ">2014</a></li><li><a href="/QuestionNew/paperList/area/20/year/2013.html" class="btn-area  ">2013</a></li><li><a href="/QuestionNew/paperList/area/20/year/2012.html" class="btn-area  ">2012</a></li><li><a href="/QuestionNew/paperList/area/20/year/2011.html" class="btn-area  ">2011</a></li><li><a href="/QuestionNew/paperList/area/20/year/2010.html" class="btn-area  ">2010</a></li><li><a href="/QuestionNew/paperList/area/20/year/2009.html" class="btn-area  ">2009</a></li><li><a href="/QuestionNew/paperList/area/20/year/2008.html" class="btn-area  ">2008</a></li> </ul> </div> </div> </div> </div> </div> <div class="container"> <div class="content"> <div class="correct-list"> <div class="select-paper"> <ul class="list-unstyled slpg-list"> <div class="absence"> <img src="https://www.xiaomaigongkao.com/public/web/images/index/child.png" alt=""> <span>该分类下暂无批改试卷~！</span> </div> </ul> </div> <div class="bottom-paging"> </div> </div> </div> </div> </div> <div class="footer"> <div class="wrap-cooperation"> <h3 class="cooperation-title">
+            合作链接
+            <div class="phone-number"> <i class="fa fa-phone" aria-hidden="true"></i>
+                咨询电话：            </div> </h3> <ul class="cooperation-list"> <li><a class="link-cooperation" href="http://www.xiaomaigongkao.com/index.php?s=/Portal/QuestionBank/datalist" target="_blank" title="题库" rel="nofollow"
+                       report-tdw="action=cooperation_click&amp;ver3=1">题库</a></li><li><a class="link-cooperation" href="https://www.xiaomaigongkao.com/Portal/Page/appdownload.html" target="_blank" title="小麦公考让你的选择更美好" rel="nofollow"
+                       report-tdw="action=cooperation_click&amp;ver3=1">小麦公考让你的选择更美好</a></li><li><a class="link-cooperation" href="https://gwy.wendu.com/" target="_blank" title="文都公考资讯网" rel="nofollow"
+                       report-tdw="action=cooperation_click&amp;ver3=1">文都公考资讯网</a></li> </ul> </div> <div class="footer-information"> <p>Copyright © 2017 xiaomai. All Rights Reserved. | 西安文都小麦教育科技有限公司版权所有 
+                | <a target="_blank" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" href="https://beian.miit.gov.cn/#/Integrated/index">陕ICP备2020016380号-2</a>
+		| <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=61010302000399" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" rel="nofollow" ><img src="/public/images/beian.png" style="float:left;"/> &nbsp;&nbsp;陕公网安备 61010302000399号</a> </p> <p><a href="#">小麦公考服务协议</a> | <span class="tj"><script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1261527001'%3E%3C/span%3E%3Cscript src='https://s95.cnzz.com/z_stat.php%3Fid%3D1261527001' type='text/javascript'%3E%3C/script%3E"));</script> </span> </p> </div> </div> <style>
+        .floating_ck{position:fixed;right:20px;top:61.8%;}
+        .floating_ck dl dd{position:relative;width:80px;height:80px;background-color:#01bb70;text-align:center;background-repeat:no-repeat;background-position:center 20%;cursor:pointer;}
+        .floating_ck dl dd.showck{background-color:#e40231;}
+        .floating_ck dl dd.showck .floating_left{display:block;}
+        .floating_ck .consult,.words{background-image:url(/public/images/zxicon.png);}
+        .floating_ck dd span{color:#fff;display:block;padding-top:54px;}
+        .floating_ck .floating_left{position:absolute;left:-200px;top:0px;width:200px;height:80px;background-color:#e40231;display:none;}
+        .floating_ck .floating_left a{color:#fff;line-height:80px;}
+        .floating_ck .floating_ewm{height:280px;top:-200px;}
+        .floating_ck .floating_ewm i{background:url(/public/images/wxkf.png) no-repeat ;background-size: cover; display:block;width:197px;height:195px;margin:auto;margin-top:2px;}
+        .floating_ck .floating_ewm p{color:#fff;margin-top:5px;}
+        .floating_ck .floating_ewm .qrcord_p01{font-size:12px;line-height:20px;}
+        .floating_ck .floating_ewm .qrcord_p02{font-size:18px;}
+        .floating_ck .top_return{background-image:url(/public/images//fanhui.png);}
+    </style> <div class="floating_ck" id="floating_ck"> <dl> <dt></dt> <dd class="consult" id="floating_ck_consult"> <span>在线咨询</span> <div class="floating_left floating_ewm"> <i></i> <p class="qrcord_p01">微信扫一扫</p> <p class="qrcord_p02">客服电话<br><b>400-6655-132<b></p> </div> </dd> <dd class="top_return"> <span onClick="gotoTop();return false;">返回顶部</span> </dd> </dl> </div> <script>
+        $("#floating_ck_consult").click(function(){
+            showkefu();
+        })
+        function showkefu(){
+            if($("#floating_ck_consult").hasClass('showck')){
+                $("#floating_ck_consult").removeClass('showck')
+            }else{
+                $("#floating_ck_consult").addClass('showck')
+            }
+        }
+        function gotoTop(acceleration,stime) {
+            acceleration = acceleration || 0.1;
+            stime = stime || 10;
+            var x1 = 0;
+            var y1 = 0;
+            var x2 = 0;
+            var y2 = 0;
+            var x3 = 0;
+            var y3 = 0;
+            if (document.documentElement) {
+                x1 = document.documentElement.scrollLeft || 0;
+                y1 = document.documentElement.scrollTop || 0;
+            }
+            if (document.body) {
+                x2 = document.body.scrollLeft || 0;
+                y2 = document.body.scrollTop || 0;
+            }
+            var x3 = window.scrollX || 0;
+            var y3 = window.scrollY || 0;
+
+            // 滚动条到页面顶部的水平距离
+            var x = Math.max(x1, Math.max(x2, x3));
+            // 滚动条到页面顶部的垂直距离
+            var y = Math.max(y1, Math.max(y2, y3));
+
+            // 滚动距离 = 目前距离 / 速度, 因为距离原来越小, 速度是大于 1 的数, 所以滚动距离会越来越小
+            var speeding = 1 + acceleration;
+            window.scrollTo(Math.floor(x / speeding), Math.floor(y / speeding));
+
+            // 如果距离不为零, 继续调用函数
+            if(x > 0 || y > 0) {
+                var run = "gotoTop(" + acceleration + ", " + stime + ")";
+                window.setTimeout(run, stime);
+            }
+        }
+    </script> </body> </html>

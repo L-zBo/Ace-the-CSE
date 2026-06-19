@@ -1,0 +1,392 @@
+[
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-056",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "在屋内墙角处堆放稻谷（如图，谷堆为一个圆锥的四分之一），谷堆底部的弧长为 6 米，高为 2 米，经过 一夜发现谷堆在重力作用下底部的弧长变为 8 米，若谷堆的谷量不变那么此时谷堆的高为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "米"
+      },
+      {
+        "label": "B",
+        "content": "米"
+      },
+      {
+        "label": "C",
+        "content": "米"
+      },
+      {
+        "label": "D",
+        "content": "米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：16%，易错项：C。\n\n解析\n\n解法一：\n第一步，本题考查几何问题，用比例法解题。\n第二步，变化前后谷量不变，也就是体积不变。由谷堆为一个圆锥的四分之一，变化前后圆锥半径之比与弧长之\n比一致，都为 6∶8=3∶4，根据几何放缩性质可知底面积之比为 9∶16，变化前后体积不变则高之比为反比，即\n\n16∶9。变化前谷堆高为 2，变化后高为\n因此，选择 A 选项。\n解法二：\n第一步，本题考查几何问题。\n\n- 14 -\n\n。\n\n\f获取试卷更新，请关注\n第二步，由于谷堆是一个圆锥的四分之一，所以底面弧长应为底面圆周长的四分之一。当底面弧长是 6 米时，底\n\n面周长应为 24 米，根据周长公式 C=2πr，\n\n，则此谷堆的体\n\n积\n\n；当底面弧长是 8 米时，底面周长应为 32 米;根据周长公式 C=2\n\nπr ，\n\n，则此谷堆的体积\n\n；根据谷堆谷量不变，即\n\n体积不变，可知\n因此，选择 A 选项。\n\n，解得 h= 。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第56题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2020/q056.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-057",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某电商平台每隔 5 千米有一座仓库，共有 A、B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则 需将货物集中到哪座仓库？",
+    "options": [
+      {
+        "label": "A",
+        "content": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则 需将货物集中到哪座仓库？ A、仓库 A"
+      },
+      {
+        "label": "B",
+        "content": "仓库 B"
+      },
+      {
+        "label": "C",
+        "content": "仓库 C"
+      },
+      {
+        "label": "D",
+        "content": "仓库 D"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：57%，易错项：B。\n\n解析\n\n第一步，本题考查其他杂题。\n第二步，以 B、C 中间为界，左边货物（A 和 B）共有 10＋20＝30（吨），右边货物（C 和 D）共有 15＋25＝40\n（吨），左边货物较轻，所以将左边的货物往右边移动，A、B 货物均移到 C，此时 C 点共有货物 30＋15＝45（吨）。\n第三步，以 C、D 中间为界，C 点货物有 45 吨，D 点货物有 25 吨，D 点货物较轻，所以将 D 点货物移动到 C 点，\n使得运费最少，故将货物集中在 C 仓库。\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第57题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2020/q057.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-058",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "小明每天从家中出发骑自行车经过一段平路，再经过一道斜坡后到达学校上课。某天早上，小明从家中骑 车出发，一到校门口就发现忘带课本，马上返回，从离家到赶回家中共用了 1 个小时，假设小明当天平路骑行 速度为 9 千米/小时，上坡速度为 6 千米/小时，下坡速度为 18 千米/小时，那么小明的家距离学校多远？",
+    "options": [
+      {
+        "label": "A",
+        "content": "3.5 千米"
+      },
+      {
+        "label": "B",
+        "content": "4.5 千米"
+      },
+      {
+        "label": "C",
+        "content": "5.5 千米"
+      },
+      {
+        "label": "D",
+        "content": "6.5 千米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：52%，易错项：C。\n\n解析\n\n第一步，本题考查行程问题，属于基本行程类。\n第二步，根据题意，小明从家到学校进行往返，上下坡距离相等，可利用等距离平均速度求得\n\n千米/小时，由于平路速度也为 9 千米/小时，往返总时间是 1 小时，故往返总路\n\n程为 9×1＝9 千米，则小明的家距离学校 9÷2=4.5 千米。\n因此，选择 B 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "行程问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第58题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-059",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某社区拟对一块梯形活动场地进行扩建，经测算，如果将梯形的上底边增加 1 米，下底边增加 1 米，则面 积将扩大 10 平方米；如果将梯形的上底边增加 1 倍，下底边增加 1 米，则面积将扩大 55 平方米；如果将上底 边增加 1 米，下底边增加 1 倍，则面积将扩大 105 平方米。现拟将梯形的上底边增加 1 倍还多 2 米，下底边增 加 3 倍还多 4 米，则面积将扩大多少？",
+    "options": [
+      {
+        "label": "A",
+        "content": "280 平方米"
+      },
+      {
+        "label": "B",
+        "content": "380 平方米"
+      },
+      {
+        "label": "C",
+        "content": "420 平方米"
+      },
+      {
+        "label": "D",
+        "content": "480 平方米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：40%，易错项：C。\n\n解析\n\n第一步，本题考查几何问题，属于平面几何类。\n第二步，设梯形的上底、下底、高分别为 a、b、h，根据“面积将扩大 10 平方米”可得\n\n，解得 h＝10（米）；根据“面积将扩大 55 平方米”可得\n\n，解得 a＝10（米）；根据“面积将扩大 105 平方米”可得\n\n第三步，如果上底增加 1 倍多 2 米变为 22 米，下底边增加 3 倍多 4 米变为 84 米，则面积将扩\n\n，解得 b＝20（米）。\n\n大\n因此，选择 B 选项。\n\n（平方米）。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第59题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-060",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某学习平台的学习内容由观看视频、阅读文章、收藏分享、论坛交流、考试答题五个部分组成。某学员要 - 10 - 先后学完这五个部分，若观看视频和阅读文章不能连续进行，该学员学习顺序的选择有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24 种"
+      },
+      {
+        "label": "B",
+        "content": "72 种"
+      },
+      {
+        "label": "C",
+        "content": "96 种"
+      },
+      {
+        "label": "D",
+        "content": "120 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案：B，全站正确率：50%，易错项：C。\n\n解析\n\n第一步，本题考查排列组合问题，用插空法解题。\n\n第二步，观看视频和阅读文章不能连续进行，先把收藏分享、论坛交流和考试答题排列好，共有 ＝6（种）方\n\n式，这三部分形成 4 个空，需在 4 个空中插入“观看视频”和“阅读文章”，有 ＝12（种）方式，那么共有\n6×12＝72（种）学习顺序。\n因此，选择 B 选项。\n\n- 15 -\n\n\f获取试卷更新，请关注公众号：gwyeasy（公务员考试挺简单）,一个上岸考生分享经验和答疑的平台。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第60题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-061",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "植树节期间，某单位购进一批树苗，在林场工人的指导下组织员工植树造林。假设植树的成活率为 80%， 那么，该单位职工小张种植 3 棵树苗，至少成活 2 棵的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "D",
+    "explanation": "植树成活的概率为，即，则死亡的概率为。小张种植了3棵树苗，至少成活2棵包含2种情况，分类讨论如下：\n（1）成活2棵的概率为：；\n（2）成活3棵的概率为：；\n分类用加法，则至少成活2棵的概率为。\n故正确答案为D。\n\n[来源 baijing1.top paperId=706 sort=61 - D13 救援]\n[D-13 后清洗：原 baijing 含 <img>，转 [图形选项]，前端需补 PNG]",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第61题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2020/q061.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-062",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某企业员工组织周末自驾游。集合后发现，如果每辆小车坐 5 人，则空出 4 个座位；如果每辆小车少坐 1 人，则有 8 人没坐上车。那么，参加自驾游的小车有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9 辆"
+      },
+      {
+        "label": "B",
+        "content": "10 辆"
+      },
+      {
+        "label": "C",
+        "content": "11 辆"
+      },
+      {
+        "label": "D",
+        "content": "12 辆"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案：D，全站正确率：48%，易错项：C。\n\n解析\n\n第一步，本题考查基础应用题，用方程法解题。\n第二步，设自驾游的小车数为 x，根据自驾游人数一定，可列方程 5x－4=4x＋8，解得 x=12。\n因此，选择 D 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第62题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-063",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "野外生存需要用一个简易的圆锥型过滤器（如下图所示）装满溪水进行过滤。过滤器的底面直径为 20 厘米， 高为 6 厘米。问全部过滤完毕后，在不考虑损耗的情况下，可使底面半径为 5 厘米，高为 15 厘米圆柱型容器的 水面高度达到：",
+    "options": [
+      {
+        "label": "A",
+        "content": "4 厘米"
+      },
+      {
+        "label": "B",
+        "content": "6 厘米"
+      },
+      {
+        "label": "C",
+        "content": "8 厘米"
+      },
+      {
+        "label": "D",
+        "content": "12 厘米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：55%，易错项：B。\n\n解析\n\n第一步，本题考查几何问题，属于立体几何类。\n第二步，过滤器底面直径为 20 厘米，即半径为 10 厘米，高为 6 厘米，根据圆锥体体积公式可知，过滤器体积为\n\n；圆柱型容器底面半径为 5 厘米，则其底面积为\n\n，根据圆柱体体积公式\n\n可知，全部过滤完毕后圆柱型容器的水面高度为\n因此，选择 C 选项。\n\n（厘米）。\n\n拓展\n\n圆锥体体积=\n\n；圆柱体体积=",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第63题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2020/q063.png"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-064",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某城市一条道路上有 4 个十字路口，每个十字路口至少有一名交通协管员，现将 8 个协管员名额分配到这 4 个路口，则每个路口协管员名额的分配方案有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "35 种"
+      },
+      {
+        "label": "B",
+        "content": "70 种"
+      },
+      {
+        "label": "C",
+        "content": "96 种"
+      },
+      {
+        "label": "D",
+        "content": "114 种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案：A，全站正确率：9%，易错项：C。\n\n解析\n\n第一步，本题考查排列组合问题，属于方法技巧类。\n\n第二步，根据插板法的使用条件：将 n 个相同的元素分给 m 个组，每组至少得一个，总的分配方法为\n\n。此\n\n题符合插板法模型，直接套用公式\n因此，选择 A 选项。\n\n。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第64题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-065",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "某工厂先从边长为 1 米的正方形铁皮切割掉一个半径 1 米、圆心角为直角的扇形，再用剩余材料切割正方 形。为充分利用原材料，希望所得正方形越大越好。若不考虑切割损耗，问所切最大的正方形边长约为多少厘 米？",
+    "options": [
+      {
+        "label": "A",
+        "content": "22.6"
+      },
+      {
+        "label": "B",
+        "content": "25.6"
+      },
+      {
+        "label": "C",
+        "content": "27.6"
+      },
+      {
+        "label": "D",
+        "content": "31.6"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：46%，易错项：B。\n\n解析\n\n第一步，本题考查几何问题，属于平面几何类。\n\n第二步，如图所示：大正方形边长为 1 米=100 厘米，则 OC=\n\n厘米，扇形半径为 1 米，即 OA=100 厘米，\n\nAC=\n米），结合选项，最大选 27.6。\n\n-100=100（√2-1），则所切的最大正方形 ABCD 的边长约为\n\n（厘\n\n- 16 -\n\n\f获取试卷更新，请关注\n因此，选择 C 选项。\n\n拓展\n\n取\n\n，计算出所切最大的正方形边长为 28.6，但由于选项中没有设置，故选择 27.6",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第65题",
+    "region": "ningxia"
+  },
+  {
+    "id": "provincial-ningxia-xingce-shuliang-2020-066",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2020,
+    "content": "正方体被切除部分后的造型如下图所示，其被切去部分的造型是： 第四部分 判断推理",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案：C，全站正确率：51%，易错项：B。\n\n解析\n\n第一步，明确提问方式。\n选择可以和题目中的立体图形拼合成正方体的选项。\n第二步，分析选项。\n如下图所示，所缺部分为图 1，经过旋转后得到图 2，再将图 2 旋转后得到 C 项中的立体图形。\n\n因此，选择 C 选项。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2020年省考ningxia行测第66题",
+    "region": "ningxia",
+    "questionImage": "/img/questions/provincial_ningxia_2020/q066.png"
+  }
+]

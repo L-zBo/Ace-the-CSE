@@ -1,0 +1,703 @@
+[
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021年，全国羊肉产量同比增长率约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2.4%"
+      },
+      {
+        "label": "B",
+        "content": "3.4%"
+      },
+      {
+        "label": "C",
+        "content": "4.4%"
+      },
+      {
+        "label": "D",
+        "content": "5.4%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题干“2021 年，全国羊肉产量同比增长率约为”，可判定本题为一般增长率问题。定位图1 可\n知2020 年、2021 年全国羊肉产量分别为492.3 万吨、514.1 万吨。根据公式：增长率\n，\n则\n2021\n年\n全\n国\n羊\n肉\n产\n量\n同\n比\n增\n长\n率\n为\n。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第116题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2012～2021年，最接近全国羊肉年平均产量的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2015年"
+      },
+      {
+        "label": "B",
+        "content": "2016年"
+      },
+      {
+        "label": "C",
+        "content": "2017年"
+      },
+      {
+        "label": "D",
+        "content": "2018年"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题干“2012-2021 年······年平均产量······”，可判定本题为现期平均数问题。\n定位统计图可知2012-2021 年全国羊肉产量。利用“削峰填谷”，以450 为基准，分别作差为：-\n45.5 、-40.1 、-22.4 、-10.1 、10.3 、21.1 、25.1 、37.5 、42.3 、64.1 ，\n，则羊肉年平均产量为450+8.23=458.23 万吨，2016 年羊肉产量460.3 万吨最接\n近该数据。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第117题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "表1所列的主要畜禽产品中，相较于2012年，2021年零售价格增长幅度超过50%的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "猪肉、牛肉、羊肉"
+      },
+      {
+        "label": "B",
+        "content": "猪肉、羊肉、鸡肉"
+      },
+      {
+        "label": "C",
+        "content": "牛肉、羊肉、鸡肉"
+      },
+      {
+        "label": "D",
+        "content": "羊肉、鸡肉、鸡蛋"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】\n根据题干“······增长幅度超过50%······”，可判定本题为一般增长率问题。定位表\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 38 / 43\n\n1 可得2012 年和2021 年全国主要畜禽产品零售价格。根据公式：增长率\n，\n可得猪肉零售价格增长率\n，牛肉零售价格增长率\n，羊肉零售价格增长率\n，鸡肉零售价格增长率\n，鸡蛋零售价\n格增长率\n，故相较于2012 年，2021 年零售价格增长幅度超过\n50%的有猪肉、牛肉、羊肉。\n故正确答案为A。\n\n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第118题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2020年，表1所列的主要畜禽产品中，零售价格与批发价格差距最大的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "猪肉"
+      },
+      {
+        "label": "B",
+        "content": "牛肉"
+      },
+      {
+        "label": "C",
+        "content": "羊肉"
+      },
+      {
+        "label": "D",
+        "content": "鸡肉"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n定位表1 可得，2020 年，零售价格与批发价格差距分别为：猪肉\n元/公\n斤；牛肉\n元/公斤；羊肉\n元/公斤；鸡肉\n元/公斤。故2020 年，表1 所列的主要畜禽产品中，零售价格与批发价\n格差距最大的是猪肉。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第119题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "不能从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2012～2021年，全国羊肉产量逐年增长"
+      },
+      {
+        "label": "B",
+        "content": "2020年，牛肉批发价格不足零售价格的90% / D.2012～2021年，鸡蛋批发价格同比增速最快的年份是2018年"
+      },
+      {
+        "label": "C",
+        "content": "2020年，鸡肉零售价格与批发价格之比大于牛肉"
+      },
+      {
+        "label": "D",
+        "content": "（二） 2021年，全国城市供水总量673.34亿立方米，同比增长6.96%；城市供水管道长度105.99万公里，同比增长 5.26%；人均日生活用水量185.03升；供水普及率99.38%，比上年增加0.39个百分点。天津、河北、上海、江 苏、浙江和广东6个省（市）城市供水普及率达到100%；福建、山东、湖北、广西、安徽、辽宁、宁夏、新"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】\nA 项：定位统计图可知，2012～2021 年，全国羊肉产量一年比一年变大，即逐年增长，正确；\nB 项：定位统计表可知，2020 年牛肉批发价格为73.03 元/公斤，零售价格为86.81 元/公斤，\n元/公斤，2020 年牛肉批发价格73.03 元/公斤＜78.1 元/公斤，即2020\n年，牛肉批发价格不足零售价格的90%，正确；\nC 项：定位统计表可知，2020 年鸡肉零售价格为26.66 元/公斤，批发价格为16.82 元/公斤；牛肉\n零售价格为86.81 元/公斤，批发价格为73.03 元/公斤；2020 年，\n，\n，\n，正确；\nD 项：定位统计表可知，可得2012～2021 年鸡蛋批发价格。根据公式：增长率\n，\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 39 / 43\n\n2018 年鸡蛋批发价格同比增速为\n；而2021 年鸡蛋批发价格同比\n增速为\n，即2012～2021 年，鸡蛋批发价格同比增速最快的年份\n并不是2018 年，错误。\n本题为选非题，故正确答案为D。\n\n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第120题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-121",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021年全国城市供水管道长度比2020年增长约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5万公里"
+      },
+      {
+        "label": "B",
+        "content": "5.3万公里"
+      },
+      {
+        "label": "C",
+        "content": "5.6万公里"
+      },
+      {
+        "label": "D",
+        "content": "6万公里"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题干“2021 年······比2020 年增长约”，结合选项带单位，可判定本题为增长量计算\n问题。定位文字材料可得：2021 年，城市供水管道长度105.99 万公里，同比增长5.26%。根据公式：\n增长量\n，则2021 年全国城市供水管道长度比2020 年增长\n万公里。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第121题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-122",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2020年，全国城市供水总量约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "600亿立方米"
+      },
+      {
+        "label": "B",
+        "content": "620亿立方米"
+      },
+      {
+        "label": "C",
+        "content": "630亿立方米"
+      },
+      {
+        "label": "D",
+        "content": "724亿立方米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "—正确答案C】 \n根据题干“2020 年，全国城市供水总量约为”，结合材料时间为2021 年，可判定本题为基期计算问\n题。定位文字材料第一段可得：2021 年，全国城市供水总量673.34 亿立方米，同比增长6.96%。根\n据公式：基期量\n，则所求\n亿立方米，与C 项最接近。 \n故正确答案为C。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第122题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-123",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "图2所列的全国部分省（区、市）中，2021年城市人均日生活用水量超过全国平均值的有：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5个"
+      },
+      {
+        "label": "B",
+        "content": "6个"
+      },
+      {
+        "label": "C",
+        "content": "7个"
+      },
+      {
+        "label": "D",
+        "content": "8个"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n定位文字材料可得：2021 年，全国人均日生活用水量185.03 升。定位图2 可得2021 年全国部分省\n（区、市）城市人均日生活用水量。则超过全国平均值（185.03 升）的有浙江（212 升）、安徽（190\n升）、福建（231 升）、广东（251 升）、海南（315 升）、西藏（256 升）6 个省（区、市）。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第123题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-124",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下列折线图中，最能准确反映2013~2021年全国城市人均日生活用水量同比增长率变化情况的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“······同比增长率变化情况的是”，可判定本题为一般增长率问题。定位图1可得2013-2021年全国城市人均日生活用水量的数据。根据公式：增长率，可得2013年全国城市人均日生活用水量同比增长率；2014年同比增长率，通过分子大、分母小可知，2013年的同比增长率＞2014年的同比年增长率，排除C项。2020年人均日生活用水量＜2019年人均日生活用水量，则2020年的同比增长率＜0，其余年份同比增长率均大于0，故2020年同比增长率应为最小，排除B项。2016年的同比增长率，2021年的同比增长率，故2021年的同比增长率＞2016年的同比增长率，排除D项。\n故正确答案为A。\n注：排除C项后，2016-2020年的同比增长量变化不大，2021年的增长量5.63（185.03-179.40）最大，是其他年份的数倍，且基期量差别不大，所以2016-2021年这几年里2021年对应的增长率也最大，故正确答案为A。\n\n[来源 baijing1.top paperId=670 sort=124 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第124题",
+    "region": "jiangxi",
+    "questionImage": "/img/questions/provincial_jiangxi_2023/q124.png"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-125",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "能够从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2012～2021年，全国城市供水普及率逐年增长"
+      },
+      {
+        "label": "B",
+        "content": "2021年，浙江和广东的供水普及率低于新疆建设兵团"
+      },
+      {
+        "label": "C",
+        "content": "2012～2021年，全国城市人均日生活用水量平均值不超过176升"
+      },
+      {
+        "label": "D",
+        "content": "图2中，用水量排名前三名的省（区、市）城市人均日生活用水量之和是排名后三位的约2.13倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A项：定位文字材料可得2020年、2021年全国城市供水普及率，但未给出其余年份的全国城市供水普及率，无法推出，错误；\nB项：定位文字材料可得，2021年浙江和广东城市供水普及率达到100%，新疆建设兵团超过95%。比较可知2021年浙江和广东的供水普及率高于新疆建设兵团，错误；\nC项：定位图1可得2012-2021年全国城市人均日生活用水量。则所求平均值升＞176升，错误；\nD项：定位图2可得用水量排名前三名的省（区、市）城市人均日生活用水量分别为海南315升、西藏256升、广东251升；用水量排名后三位分别为天津123升、吉林125升、山西138升。则所求倍数倍，正确。\n故正确答案为D。\n\n[来源 baijing1.top paperId=670 sort=125 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第125题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-126",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021年海水冷却用水量低于海水冷却工程年总循环量的沿海省市共有几个：",
+    "options": [
+      {
+        "label": "A",
+        "content": "5个"
+      },
+      {
+        "label": "B",
+        "content": "6个"
+      },
+      {
+        "label": "C",
+        "content": "7个"
+      },
+      {
+        "label": "D",
+        "content": "8个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】\n定位文字材料可得，2021 年全国11 个沿海省市海水冷却工程年总循环量为169.5 亿吨。结合表格\n比较可得，8 个沿海省中，海水冷却用水量低于海水冷却工程年总循环量的省份共有5 个，分别为辽\n宁（49.0 亿吨）、河北（54.6 亿吨）、山东（145.1 亿吨）、江苏（117.5 亿吨）、广西（70.6 亿\n吨）。\n除表中\n8\n省外，剩余\n3\n个沿海省市海水冷却用水量之和\n亿吨。因3 个省市的海水冷却用水量之和（163.1 亿吨）低于海水\n冷却工程年总循环量（169.5 亿吨），则每个省市的海水冷却用水量均应低于海水冷却工程年总循环\n量。\n故满足要求的沿海省市共5+3=8 个。\n故正确答案为D。\n\n2023 江西省公务员《行测》解析\n\n 智库，获取\n 41 / 43\n\n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第126题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-127",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "表1中，2021年除浙江、福建、广东外的5个沿海省市海水冷却用水量占全国11个沿海省市的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "24.6%"
+      },
+      {
+        "label": "B",
+        "content": "33.8%"
+      },
+      {
+        "label": "C",
+        "content": "47.6%"
+      },
+      {
+        "label": "D",
+        "content": "66.2%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "—正确答案A】 \n根据题干“表1 中，2021 年······占······的”，结合选项为百分数，可判定本题为\n现期比重问题。定位图1 可得：2021 年全国11 个沿海省市的海水冷却用水量为1775.1 亿吨；定位\n表1 可得：2021 年除浙江、福建、广东外的5 个沿海省市海水冷却用水量分别为49.0 亿吨、54.6\n亿吨、145.1 亿吨、117.5 亿吨、70.6 亿吨。根据公式：比重= 部分/ 整体，题目所求\n，与A 项最接近。 \n故正确答案为A。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第127题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-128",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2012~2021年关于各省同年份海水冷却用水量的大小关系正确的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "辽宁>河北"
+      },
+      {
+        "label": "B",
+        "content": "山东>江苏"
+      },
+      {
+        "label": "C",
+        "content": "广东>浙江"
+      },
+      {
+        "label": "D",
+        "content": "江苏>广西"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n定位表1 可知2012~2021 年每年各省海水冷却用水量。代入数据验证选项，A 项：2021 年，辽宁海\n水冷却用水量（49.0 亿吨）<河北海水冷却用水量（54.6 亿吨），不符合，排除；B 项：2012~2021\n年山东同年份海水冷却用水量均大于江苏，当选；C 项：2015 年，广东海水冷却用水量（332.2 亿\n吨）<浙江海水冷却用水量（336.0 亿吨），不符合，排除；D 项：2017 年，江苏海水冷却用水量（42.4\n亿吨）<广西海水冷却用水量（54.2 亿吨），不符合，排除。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第128题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-129",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "图1中2012～2021年期间海水冷却用水量年增量高于2012～2021年期间全国海水冷却用水量年平均增长量的年 份共有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“······2012～2021年期间全国海水冷却用水量年平均增长量······”，可判定本题为年均增长量问题。定位图形材料可得2012～2021年全国11个沿海省市海水冷却用水量。根据公式：年均增长量，可得2012～2021年期间全国海水冷却用水量年平均增长量亿吨；根据公式：增长量=现期量-基期量，可得2013～2021年海水冷却用水量年增量分别为：\n2013年=883.0-841.0<100亿吨<103.8亿吨；\n2014年=1009.0-883.0>120亿吨>103.8亿吨；\n2015年=1125.7-1009.0>110亿吨>103.8亿吨；\n2016年=1201.4-1125.7<100亿吨<103.8亿吨；\n2017年=1344.9-1201.4>140亿吨>103.8亿吨；\n2018年=1391.6-1344.9<100亿吨<103.8亿吨；\n2019年=1486.1-1391.6<100亿吨<103.8亿吨；\n2020年=1698.1-1486.1>200亿吨>103.8亿吨；\n2021年=1775.1-1698.1<100亿吨<103.8亿吨。\n综上，年增量高于2012～2021年期间全国海水冷却用水量年平均增长量的年份有2014年、2015年、2017年、2020年，共4个年份。\n故正确答案为C。\n\n[来源 baijing1.top paperId=670 sort=129 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第129题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-130",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "可以从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2021年全国11个沿海省份海水冷却用水量前4名依次为：广东、浙江、福建、江苏"
+      },
+      {
+        "label": "B",
+        "content": "2012~2021年浙江、广东年海水冷却用水量之和均超过全国同期的60%"
+      },
+      {
+        "label": "C",
+        "content": "2012~2021年表1的8个省市中福建的海水冷却用水量年平均增速最快"
+      },
+      {
+        "label": "D",
+        "content": "2012~2021年间，广东的海水冷却用水量均为辽宁同期的3倍以上"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A项：定位表1，2021年辽宁、河北等8省海水冷却用水量前4名依次为：广东（571.3亿吨）、浙江（338.7亿吨）、福建（264.3亿吨）、山东（145.1亿吨），江苏省在此表中排名为第5，故一定无法排到全国11个沿海省份海水冷却用水量的前4名，错误；\nB项：定位图1可知2012～2021年全国11个沿海省市的海水冷却用水量，定位表1可知2012～2021年浙江、广东年海水冷却用水量。2012年浙江、广东年海水冷却用水量之和占全国11个沿海省市的海水冷却用水量的比重为，并非均超过全国同期的60%，错误；\nC项：定位表1可知2012年、2021年辽宁、河北等8省海水冷却用水量。根据年均增长率公式：（n为年份差），当年份差相同时，直接比较即可。表1的8个省份分别为：辽宁，；河北，；山东，；江苏，；浙江，；福建，；广东，；广西，，比较可知8个省份中福建的海水冷却用水量年平均增速最快，正确；\nD项：定位表1可知2012～2021年间，广东、辽宁的海水冷却用水量。2014年广东的海水冷却用水量为辽宁同期的倍倍，并非均为3倍以上，错误。\n故正确答案为C。\n\n[来源 baijing1.top paperId=670 sort=130 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第130题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-131",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021年雨季开始时间最迟的两个地区在雨季开始时间上相差了：",
+    "options": [
+      {
+        "label": "A",
+        "content": "34天"
+      },
+      {
+        "label": "B",
+        "content": "35天"
+      },
+      {
+        "label": "C",
+        "content": "41天"
+      },
+      {
+        "label": "D",
+        "content": "42天"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】 \n定位文字材料可知：2021 年雨季开始时间最迟的两个地区分别为华北（7 月12 日）、华西（8 月23\n日），故时间上相差了31-12+23=42 天（7 月共有31 天）。 \n故正确答案为D。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第131题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-132",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "华西2021年雨季降水量与正常年份雨季降水量相比增加了约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "153.4毫米"
+      },
+      {
+        "label": "B",
+        "content": "176.7毫米"
+      },
+      {
+        "label": "C",
+        "content": "203.2毫米"
+      },
+      {
+        "label": "D",
+        "content": "232.5毫米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "—正确答案B】 \n根据题干“华西2021 年······与······相比增加了约”，结合选项带单位，可判定本\n题为增长量计算问题。定位文字材料第五段可知：2021 年，华西秋雨于8 月23 日开始，总雨量379.9\n毫米。与正常年份相比，雨量偏多87%。根据公式：增长量\n，则所求\n为\n毫米，与B 项最接近。 \n故正确答案为B。 \n \n【解",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第132题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-133",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "正常年份雨季长度最长的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "华南"
+      },
+      {
+        "label": "B",
+        "content": "西南"
+      },
+      {
+        "label": "C",
+        "content": "东北"
+      },
+      {
+        "label": "D",
+        "content": "华西"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位文字材料第一段可得：2021年华南雨季长度为67天，与正常年份相比，雨季长度偏短24天。定位文字材料第二段可得：（2021年）西南雨季长度为122天，与正常年份相比，雨季长度偏短19天。定位文字材料第四段可得：（2021年）东北雨季长度为85天，与正常年份相比，雨季长度偏长21天。定位文字材料第五段可得：（2021年）华西雨季长度为77天，与正常年份相比，雨季长度偏长15天。则正常年份各地区雨季长度分别为：华南，67+24=91天；西南，122+19=141天；东北，85-21=64天；华西，77-15=62天。综上，正常年份雨季长度最长的地区是西南。\n故正确答案为B。\n\n[来源 baijing1.top paperId=670 sort=133 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第133题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-134",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "下列地区中2021年雨季期平均每天降雨量最大的地区是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "西南"
+      },
+      {
+        "label": "B",
+        "content": "华北"
+      },
+      {
+        "label": "C",
+        "content": "东北"
+      },
+      {
+        "label": "D",
+        "content": "华西"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“下列地区中2021年雨季期平均每天降雨量最大的地区是”，可判定本题为现期平均数问题。定位文字材料第二段至第五段可得：2021年西南雨季长度为122天，总雨量634.5毫米；华北雨季长度为59天，总雨量276.4毫米；东北雨季长度为85天，总雨量364.3毫米；华西雨季长度为77天，总雨量379.9毫米。根据公式：雨季期平均每天降雨量，则各地区平均每天降雨量分别为：\n西南毫米/天；\n华北毫米/天；\n东北毫米/天；\n华西毫米/天。\n比较可知，2021年雨季期平均每天降雨量最大的是西南地区。\n故正确答案为A。\n\n[来源 baijing1.top paperId=670 sort=134 - D13 救援]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第134题",
+    "region": "jiangxi"
+  },
+  {
+    "id": "provincial-jiangxi-xingce-ziliao-2023-135",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "能够从上述资料推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2021年10月7日属于西南雨季期内"
+      },
+      {
+        "label": "B",
+        "content": "2020年梅雨量高出正常年份的227.9% / D.东北正常年份雨季长度为华北正常年份雨季长度的2倍多"
+      },
+      {
+        "label": "C",
+        "content": "2020年华西雨季总雨量超过379.9毫米"
+      },
+      {
+        "label": "D",
+        "content": "D.华西 / 华西"
+      }
+    ],
+    "answer": "D",
+    "explanation": "—正确答案D】\nA 项：定位文字材料第二段，（2021 年）西南雨季于6 月4 日开始，10 月4 日结束。则2021 年10\n月7 日不属于西南雨季期内，错误；\nB 项：定位文字材料第六段，（2021 年）梅雨量267.2 毫米；与正常年份相比······梅雨量\n偏少22%，与2020 年梅雨量780.9 毫米相比差距明显。根据公式：基期量\n，可得正\n常年份梅雨量\n毫米，2020 年梅雨量高出正常年份\n，错误；\nC 项：材料中没有给出2021 年华西雨季总雨量与2020 年相比的相关数据，故无法推出，错误；\nD 项：定位文字材料第三段、第四段，（2021 年）华北雨季长度为59 天······与正常年份相\n比······雨季长度偏长28 天；（2021 年）东北雨季长度为85 天······与正常年份相\n比······雨季长度偏长21 天。则题干所求\n倍，正确。\n故正确答案为D。\n\n考公-考研-事业单位-教资- 资料\n–淘宝：",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考jiangxi行测第135题",
+    "region": "jiangxi"
+  }
+]

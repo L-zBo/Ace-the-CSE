@@ -1,0 +1,196 @@
+[
+  {
+    "id": "institution-xingce-ziliao-2020-e-051",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2019 年 1～5 月，表中有几个省区市乡镇卫生院月均诊疗 300 万人次以上？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n【解析】根据总数 = 平均数 × 总个数，2019 年 1—5 月，月均诊疗 300 万人次以上，即 1—5 月的总诊疗\n\n人次在5 × 300 = 1500万人次以上。读数可知，乡镇卫生院诊疗人次数在 1500 万人次以上的有安徽、河\n\n南、湖北、湖南、广西、四川、贵州、云南，共 8 个。 \n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第51题",
+    "questionImage": "/img/questions/institution_2020_e/q051.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2020-e-052",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2019 年 1～5 月，东北三省医院出院人数是乡镇卫生院出院人数的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 10 倍"
+      },
+      {
+        "label": "C",
+        "content": "12～14 倍之间"
+      },
+      {
+        "label": "B",
+        "content": "10～12 倍之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 14 倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】选项为范围，对数据进行简单取整处理，2019 年 1—5 月，东北三省（包括辽宁、吉林和黑龙江）\n\n的医院出院人数为271 + 159 + 229 = 659，乡镇卫生院出院人数为18 + 8 + 17 = 43，那么东北三省医院\n出院人数是乡镇卫生院出院人数的659",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第52题",
+    "questionImage": "/img/questions/institution_2020_e/q052.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2020-e-053",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2019 年 1～5 月，医院和乡镇卫生院诊疗人次数均排名前 4 名的省区市有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "【答案】B \n\n【解析】医院诊疗人次数前四是：河南、四川、湖北、湖南。而乡镇卫生院诊疗人次数前四是：河南、四\n\n川、云南、安徽。均在前四的河南和四川，共 2 个。 \n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第53题",
+    "questionImage": "/img/questions/institution_2020_e/q053.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2020-e-054",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "2019 年 1～5 月，5 个自治区医院和乡镇卫生院总计月均出院多少万人？",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 200 万人"
+      },
+      {
+        "label": "B",
+        "content": "200～400 万人之间"
+      },
+      {
+        "label": "C",
+        "content": "400～700 万人之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 700 万人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】五个自治区依次为内蒙古、广西、西藏、宁夏、新疆五个地区，选项为范围，仅对数据进行取整处\n\n理，五个地区医院出院人数：146 + 270 + 8 + 47 + 176 = 647（万人）。乡镇卫生院出院人数：11 + 118 +\n\n1 + 2 + 34 = 166（万人），因此出院人数总计为647 + 166 = 813（万人）。根据平均数 =\n\n每月出院人数为813",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第54题",
+    "questionImage": "/img/questions/institution_2020_e/q054.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2020-e-055",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2020,
+    "content": "[由aipta救援-D16L3] 能够从上述资料中推出的是（    ）。",
+    "options": [
+      {
+        "label": "A",
+        "content": "所有省区市医院诊疗人次数都超过乡镇卫生院诊疗人次数     第五部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      },
+      {
+        "label": "B",
+        "content": "[由aipta救援-D16L3] 贵州医院和乡镇卫生院诊疗人次总数比四川、重庆和云南都低"
+      },
+      {
+        "label": "C",
+        "content": "[由aipta救援-D16L3] 江西省医院和乡镇卫生院诊疗人次数是山西省的1.5倍多"
+      },
+      {
+        "label": "D",
+        "content": "[由aipta救援-D16L3] 陕、甘、宁三省区医院出院人数占三省区总出院人数的九成以上 （二） 根据所给资料，回答86-90题。 2019年上半年，S地区航空运输旅客吞吐量累计完成1773.9万人次，同比增长 ；货邮吞吐量累计完成9万吨，同比增长 ；飞行起降20.6万架次，同比增长 。其中1季度旅客吞吐量累计完成841.9万人，同比增长 ；货邮吞吐量累计完成4.0万吨，同比增长 ；飞行起降8.3万架次，同比增长 。 2019年上半年，S地区累计完成通用航空飞行19999小时，同比增长 ；累计起飞43633架次，同比增长 。其中1季度累计完成通用航空飞行4564.3小时，同比增长 ；累计起飞9675架次，同比增长 。 2019年6月，S地区航空运输旅客吞吐量完成321.3万人次，同比增长 ，环比增长 ；货邮吞吐量完成19210.7吨，同比增长 ，环比增长 ；飞行起降41804架次，同比增长 ，环比增长 。 2019年6月，S地区完成通用航空飞行5591.5小时，同比增长 ，环比增长 ；起飞11438架次，同比下降 ，环比增长 。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "【答案】C \n\n≈ 163（万人），即不到 200 万人。 \n\n总数\n\n总个数\n\n，则平均\n\n【解析】A 选项，简单读数比较，定位表格材料，西藏自治区医院诊疗人次数 171.7（万人次）低于乡镇卫\n\n生院诊疗人次数 196.4（万人次），错误。 \n\nB 选项，简单和差比较，定位表格材料，对数据进行简单取整，贵州医院和乡镇卫生院诊疗人次总数3134 +\n\n1514 = 4648（万人次），高于重庆医院和乡镇卫生院诊疗人次总数3215 + 842 = 4057（万人次），错误。 \n\nC 选项，现期倍数计算，定位表格材料，对数据进行简单取整，江西省医院和乡镇卫生院诊疗人次为3390 +\n\n1307 = 4697（万人次），山西省医院和乡镇卫生院诊疗人次2574 + 486 = 3060（万人次），4697 >\n\n3060 × 1.5，正确。 \n\nD 选项，求比重。定位表格材料，根据比重 =\n\n部分量\n\n整体量\n\n，对数据进行简单取整处理，陕、甘、宁三省区医院出\n\n院人数为293 + 165 + 47 = 505（万人次），三省区总出院人次为505 + 35 + 35 + 2 = 577（万人次），占\n比为505",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2020年事业编行测（e）第55题",
+    "_legacy_options": [
+      {
+        "label": "A",
+        "content": "所有省区市医院诊疗人次数都超过乡镇卫生院诊疗人次数     第五部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      },
+      {
+        "label": "B",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "C",
+        "content": "[选项 OCR 抽取失败-D11]"
+      },
+      {
+        "label": "D",
+        "content": "[选项 OCR 抽取失败-D11]"
+      }
+    ],
+    "_legacy_content": "[题干 OCR 抽取失败-D11] 原 content: '能够从上述资料中推出的是：'（OCR 抽取留下空/暂缺/过短文本，原 PDF 可能为图形题或抽取失败，待人工补全）",
+    "questionImage": "/img/questions/institution_2020_e/q055.png"
+  }
+]

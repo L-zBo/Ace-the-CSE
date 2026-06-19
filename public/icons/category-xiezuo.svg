@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 申论写作 xiezuo — 卷纸 + 毛笔（书写 = 写作） -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="申论写作">
+  <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="14" width="38" height="40" rx="3" />
+    <line x1="14" y1="24" x2="38" y2="24" opacity="0.65" />
+    <line x1="14" y1="32" x2="34" y2="32" opacity="0.65" />
+    <line x1="14" y1="40" x2="38" y2="40" opacity="0.65" />
+    <line x1="14" y1="48" x2="30" y2="48" opacity="0.65" />
+    <line x1="40" y1="44" x2="56" y2="28" stroke-width="2.5" />
+    <path d="M 38 42 L 40 44 L 42 46 L 44 44 L 42 42 Z" fill="currentColor" stroke-width="1.5" />
+  </g>
+</svg>

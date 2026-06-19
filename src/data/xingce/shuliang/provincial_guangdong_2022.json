@@ -1,0 +1,738 @@
+[
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-033",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "34.6，12，19，32，52，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "84"
+      },
+      {
+        "label": "B",
+        "content": "85"
+      },
+      {
+        "label": "C",
+        "content": "86"
+      },
+      {
+        "label": "D",
+        "content": "87 35.123，465，987，（ ），456，897，231，645，789"
+      }
+    ],
+    "answer": "D",
+    "explanation": "数列均为分数，考虑分数数列。观察分子分母，增减规律不统一，考虑反约分。将原数列转化为：\n\n、 、 、 。分子部分为 1、2、3、4，则所求项的分子部分为 5；分母部分为\n\n3\n16\n\n8、12、16、20，是公差为 4 的等差数列，则所求项分母部分为 20+4=24，所求项为 。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第33题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-028",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "第 3 页 共 20 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "62"
+      },
+      {
+        "label": "B",
+        "content": "64"
+      },
+      {
+        "label": "C",
+        "content": "66"
+      },
+      {
+        "label": "D",
+        "content": "68 29.12，25，310，417，（ ）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查法律常识。\n\nA 项正确，民事责任是指民事主体违反了民事义务所应承担的法律后果。根据《中华人民共和国民\n\n法典》第一百八十二条：“因紧急避险造成损害的，由引起险情发生的人承担民事责任。危险由自然\n\n原因引起的，紧急避险人不承担民事责任，可以给予适当补偿。紧急避险采取措施不当或者超过必\n\n要的限度，造成不应有的损害的，紧急避险人应当承担适当的民事责任。”题中，小李为避让行人，\n\n将车驶入农田，导致农作物受损，属于紧急避险，小李赔偿了农民的损失是在承担民事责任。\n\nB 项错误，刑事责任是指犯罪行为应当承担的法律责任。题干中小李的行为并不是犯罪行为，不承\n\n担刑事责任。\n\nC 项错误，行政责任是指因违反行政法或因行政法规定而应承担的法律责任。题干中小李的行为没\n\n有违反行政管理法律法规，不承担行政责任。\n\nD 项错误，道德责任是人们对自己行为的过失及其不良后果在道义上所承担的责任。题干中小李的\n\n行为已经侵犯了农民的财产权，应依法承担损害赔偿责任，属于法律责任，而不是道德责任。\n\n故正确答案为 A。\n\n备注：此题存在瑕疵，题干中并未明确小李与行人之间哪一方存在过错，基于紧急避险的认定和题\n\n干中“赔偿”二字，我们倾向于小李承担的是民事责任。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第28题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-031",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "17，27，39，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "51"
+      },
+      {
+        "label": "B",
+        "content": "53"
+      },
+      {
+        "label": "C",
+        "content": "56"
+      },
+      {
+        "label": "D",
+        "content": "59"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n观察数列，无明显特征，考虑做差。后项减前项得到新数列：10，12，（    ），猜测是公差为 2 的\n\n等差数列，则新数列下一项为 12+2=14，故所求项=39+14=53。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第31题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-032",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "11，14，26，44，65，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "80"
+      },
+      {
+        "label": "B",
+        "content": "83"
+      },
+      {
+        "label": "C",
+        "content": "86"
+      },
+      {
+        "label": "D",
+        "content": "89 33."
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第  16  页  共  45  页\n\n\f数列无明显特征，优先考虑多级数列。后项减前项得到新数列：3，12，18，21，无明显特征；再\n\n次做差，后项减前项可得：9，6，3，是公差为-3 的等差数列，则新数列的下一项为 21+（3-3）\n\n=21，故所求项为 65+21=86。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第32题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-034",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "6，12，19，32，52，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "84"
+      },
+      {
+        "label": "B",
+        "content": "85"
+      },
+      {
+        "label": "C",
+        "content": "86"
+      },
+      {
+        "label": "D",
+        "content": "87"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n方法一：观察数列无明显特征，优先考虑做差。后项减前项可得：6、7、13、20，为递推和数列，\n\n即第一项+第二项=第三项，则下一项为 13+20=33。故所求项=52+33=85。\n\n方法二：观察数列无明显特征，考虑递推数列。观察发现：\n\n6+12+1=19、12+19+1=32、19+32+1=52，即第一项+第二项+1=第三项，故所求项\n\n=32+52+1=85。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第34题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-035",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "123，465，987，（ ），456，897，231，645，789",
+    "options": [
+      {
+        "label": "A",
+        "content": "312"
+      },
+      {
+        "label": "B",
+        "content": "578"
+      },
+      {
+        "label": "C",
+        "content": "684"
+      },
+      {
+        "label": "D",
+        "content": "738"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n题干数列均为三位数，因此考虑机械划分。将每项的个位、十位和百位上的数字相加发现，和依次\n\n为：6，15，24，（    ），15，24，6，15，24。即新数列呈 6，15，24 的循环，考虑新数列括号\n\n内为 6，观察选项，只有 A 项 3+1+2=6 符合规律。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第35题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-036",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某单位计划从行政部的 2 名员工和人事部的 3 名员工中，随机选择 2 人去参加在职培训，则选出的 2 人都 来自人事部的概率是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "10%"
+      },
+      {
+        "label": "B",
+        "content": "20%"
+      },
+      {
+        "label": "C",
+        "content": "30%"
+      },
+      {
+        "label": "D",
+        "content": "40%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n第  17  页  共  45  页\n\n\f5 名员工中随机选择 2 人去参加在职培训，所以总情况数为\n\n种。恰好选出的 2 人都来自人事\n\n部的情况数有\n\n种。故所求概率\n\n。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "概率问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第36题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-037",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "老吴从家里出发乘车到银行办理业务，回城时步行，往返共用了 45 分钟。如果老吴往返都乘车，则只需 花 30 分钟。那么，如果老吴往返时都选择步行，需要花（ ）分钟。",
+    "options": [
+      {
+        "label": "A",
+        "content": "45"
+      },
+      {
+        "label": "B",
+        "content": "50"
+      },
+      {
+        "label": "C",
+        "content": "55"
+      },
+      {
+        "label": "D",
+        "content": "60"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n根据题干“老吴往返都乘车，则只需花 30 分钟”，则老吴乘车从家到银行需要\n\n分钟。根据题干\n\n“老吴从家里出发乘车到银行办理业务，回城时步行，往返共用了 45 分钟”，则老吴步行单程需要\n\n45-15=30 分钟。因此如果老吴往返时都选择步行则需要花 30×2=60 分钟\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第37题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-038",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "小王将新买的时钟调准使用，60 天后，时钟走慢了 5 分钟。那么，该时钟平均每天走慢（ ）秒。",
+    "options": [
+      {
+        "label": "A",
+        "content": "5"
+      },
+      {
+        "label": "B",
+        "content": "10"
+      },
+      {
+        "label": "C",
+        "content": "15"
+      },
+      {
+        "label": "D",
+        "content": "20"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n由题意可知，60 天走慢了 5 分钟，即 60 天走慢了 5×60＝300 秒，故该时钟平均每天走慢\n\n秒。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第38题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-039",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "如图阴影部分是一块由 8 块相同的正方形草皮围成的草坪。已知草坪的外圈均铺有一圈小石子带，小石子 带的总长度是 48 米，则该草坪的面积为（ ）平方米。 第 4 页 共 21 页",
+    "options": [
+      {
+        "label": "A",
+        "content": "48"
+      },
+      {
+        "label": "B",
+        "content": "72"
+      },
+      {
+        "label": "C",
+        "content": "81"
+      },
+      {
+        "label": "D",
+        "content": "96"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n设每块正方形草皮的边长为 a 米，则小石子带的总长度即为下图所示红色线条的总长度，即大正方\n\n形周长+白色小正方形周长=3a×4+a×4=16a=48 米，解得 a=3 米，则\n\n平方米。\n\n故正确答案为 B。\n\n第  18  页  共  45  页\n\n\f备注：本题小石子带的宽度忽略不计，否则无法求解。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第39题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-040",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "小陈计划在一定时间内完成法律常识题库中的所有练习题。如果每天做 50 道题，那么最后 2 天每天要做 85 道题才能完成，如果每天做 55 道题，恰好可以提前 1 天完成，则该题库共有（ ）道题。",
+    "options": [
+      {
+        "label": "A",
+        "content": "1215"
+      },
+      {
+        "label": "B",
+        "content": "1250"
+      },
+      {
+        "label": "C",
+        "content": "1320"
+      },
+      {
+        "label": "D",
+        "content": "1375"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n设小陈计划 x 天完成题库中的所有练习题。根据题意可知：50×（x-2）+85×2=55×（x-1），解得：\n\nx=25 天。则该题库共有 55×（25-1）=1320 道题。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "工程问题"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第40题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-041",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某单位计划从全部 80 名员工中挑选专项工作组成员，要求该组成员须同时有基层经历和计算机等级证书。 已知，单位内有 40 人有基层经历，有 46 人有计算机等级证书，既没有基层经历又未获得计算机等级证书的有 10 人。那么能够进入工作组的员工有（ ）人。",
+    "options": [
+      {
+        "label": "A",
+        "content": "16"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "46"
+      },
+      {
+        "label": "D",
+        "content": "54"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n根据两集合容斥原理公式 A+B-A B=总数-都不，可得：有基层经历+有计算机等级证书-两种都有=\n\n总人数-两种都没有，设同时有基层经历和计算机等级证书的有 x 人，则有 40+46-x=80-10，解得\n\nx=16。\n\n故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第41题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-042",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "甲、乙、丙 3 个单位订阅同一款报刊，已知 3 个单位共订了 12 份，其中，每个单位订阅数量不少于 3 份， 但不超过 5 份，则这 3 个单位的报刊订阅数量可能有（ ）种组合。",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "B",
+        "content": "6"
+      },
+      {
+        "label": "C",
+        "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "9"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n方法一：根据题意，3 份 每个单位订阅数量 5 份，共 12 份。这 3 个单位的报刊订阅数量可以为：\n\n（3，4，5），单位不同需考虑顺序，有\n\n种情况；或者（4，4，4），此时有 1 种情况。因此\n\n满足题意的情况数共 6+1=7 种。\n\n方法二：根据题意，可利用插板法。“不少于 3 份”时，可先给每个单位分 2 份，还剩 12-2×3=6 份，\n\n每个单位至少再分 1 份，有\n\n种。但其中包含超出 5 份的情况（6，3，3），有\n\n种。因\n\n此满足题意的情况数共 10-3=7 种。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "排列组合"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第42题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-043",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "有一个长方形花坛，长为 10 米，宽为 8 米。现要在花坛四周安装栅栏，要求 4 个顶点处各插一根木桩， 除顶点处的木桩外，每边还要插若干木桩，且每两根木桩间的距离至少为 3 米，则最多可以插（ ）根木桩。",
+    "options": [
+      {
+        "label": "A",
+        "content": "10"
+      },
+      {
+        "label": "B",
+        "content": "12"
+      },
+      {
+        "label": "C",
+        "content": "14"
+      },
+      {
+        "label": "D",
+        "content": "16"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n环形植树，有多少间隔就能植多少棵树，要求插入木桩尽量多，则木桩间的距离尽量小，根据题意\n\n可确定两木桩之间的间隔为 3 米，用每条边的边长除以 3 看商，有余数的话，商是多少就可以分成\n\n多少个间隔，没有的话则需减 1。长边\n\n米，则有 3 个间隔，宽边\n\n米，则有 2 个\n\n间隔，故该长方形花坛共有 2×（3+2）=10 个间隔，故可以插入 10 根木桩。\n\n故正确答案为 A。\n\n第  19  页  共  45  页",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第43题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-044",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "某防疫工作机构有检验人员和其他工作人员共 55 人，将检验人员平均分成若干个小组开展工作。近期， 该机构补充了 20 位工作人员，其中，检验人员增加了 2 组，每组人数不变，其他工作人员增加了 30%，则该机构 原有检验人员共（ ）组。",
+    "options": [
+      {
+        "label": "A",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "6"
+      },
+      {
+        "label": "D",
+        "content": "7"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n假设原检验人员每组 x 人，其他工作人员共 y 人。根据“该机构补充了 20 位工作人员”则可列出：\n\n2x+0.3y=20。根据“其他工作人员增加了 30%”，也就是 ，可推出原有的其他工作人员数量一定为\n\n10 的整数倍，则其他工作人员可能有 10 人、20 人、30 人、40 人或 50 人。由于 2x 和 20 均为偶数，\n\n故 0.3y 也必须为偶数，因此 y 只能取值 20 或 40。若 y=20，则检验人员原来有 55-20=35 人，每组\n\n有\n\n人，则该机构原有检验人员共 35÷7=5 组，符合题意。\n\n故正确答案为 B。\n\n备注：若 y=40，则检验人员原来有 55-40=15 人，每组有\n\n人，则该机构原有检验人\n\n员共 15÷4=3.75 组，不符合题意。在实际考试中，若已经验证出 y=20 符合题意，则不需验证\n\ny=40。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第44题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-045",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "桶中装有一定量的液体，液体体积为桶容量的 40%，现向桶中继续加入 16 升同一液体后，液体体积为原来 的 1.5 倍，则该桶的容量为（ ）升。",
+    "options": [
+      {
+        "label": "A",
+        "content": "20"
+      },
+      {
+        "label": "B",
+        "content": "40"
+      },
+      {
+        "label": "C",
+        "content": "60"
+      },
+      {
+        "label": "D",
+        "content": "80"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解析\n\n设桶中最初装有的液体量为 x 升，根据题意列等式：x+16=1.5x，解得：x=32 升。由于液体体积为\n\n桶容量的 40%，则该桶的容量为\n\n升。\n\n故正确答案为 D。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第45题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-046",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "如图是一物体某两个角度的视图，则该物体最可能是： 第四部分 判断推理",
+    "options": [
+      {
+        "label": "A",
+        "content": "从下往上看，可以看到正方形，但无法看到圆形，排除；"
+      },
+      {
+        "label": "B",
+        "content": "从上往下看，可以看到圆形，从左往右看，可以看到正方形，当选；"
+      },
+      {
+        "label": "C",
+        "content": "从上往下看，可以看到圆形，但无法看到正方形，排除；"
+      },
+      {
+        "label": "D",
+        "content": "从下往上看，可以看到正方形，但无法看到圆形，排除。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n本题考查三视图，逐一分析选项。\n\nA 项：从下往上看，可以看到正方形，但无法看到圆形，排除；\n\nB 项：从上往下看，可以看到圆形，从左往右看，可以看到正方形，当选；\n\nC 项：从上往下看，可以看到圆形，但无法看到正方形，排除；\n\nD 项：从下往上看，可以看到正方形，但无法看到圆形，排除。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第46题",
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2022/q046.png"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-026",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "11，14，26，44，65，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "80"
+      },
+      {
+        "label": "B",
+        "content": "83"
+      },
+      {
+        "label": "C",
+        "content": "86"
+      },
+      {
+        "label": "D",
+        "content": "89"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n本题考查科技常识。\n\nA 项错误，矿泉水是从地下深处自然涌出的或者是经人工揭露的、未受污染的地下矿水，含有一定\n\n量的矿物盐、微量元素或二氧化碳气体，在通常情况下，其化学成分、流量、水温等动态在天然波\n\n动范围内相对稳定。仅依靠喝矿泉水难以满足人体中所需的全部矿物质，尤其是常量元素，如钙，\n\n仍需要从食物中获取，奶制品是钙的最好来源。 \n\nB 项正确，新鲜柑橘的果肉中含有丰富的维生素 C，维生素 C 能提高机体的免疫力，同时柑橘还能\n\n降低患心血管疾病、肥胖症和糖尿病的几率。 \n\nC 项错误，频闪就是在一个电器的屏幕里看另一种电器的屏幕，另一种电器的屏幕会有一条亮线从\n\n屏幕的底部推移到顶部，又从底部出现。这样无穷下去，给我们的感觉就是图像在闪烁。绝对意义\n\n上的无频闪实际是不可能的，中国行业标准对合格产品的频闪要求是 3125Hz。\n\nD 项错误，糖包括蔗糖、葡萄糖、果糖、半乳糖、乳糖、麦芽糖、淀粉、糊精和糖原等。在这些糖\n\n中，除了葡萄糖、果糖和半乳糖能被人体直接吸收，其余的糖都要在体内转化为基本的单糖后，才\n\n能被吸收利用。糖的主要功能是提供热能，因此果糖和蔗糖都能提供热量，也就是都会使人发胖。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第26题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-027",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "22，42，44，84，88，168，（ ），（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "176，336"
+      },
+      {
+        "label": "B",
+        "content": "236，352"
+      },
+      {
+        "label": "C",
+        "content": "264，386"
+      },
+      {
+        "label": "D",
+        "content": "312，412"
+      }
+    ],
+    "answer": "A",
+    "explanation": "解析\n\n本题考查法律常识。\n\nA 项错误，B、C、D 三项均正确，根据《党政领导干部选拔任用工作条例》第九条规定：“破格提拔\n\n的特别优秀干部，应当政治过硬、德才素质突出、群众公认度高，且符合下列条件之一：在关键时\n\n第  14  页  共  45  页\n\n\f刻或者承担急难险重任务中经受住考验、表现突出、作出重大贡献；在条件艰苦、环境复杂、基础\n\n差的地区或者单位工作实绩突出；在其他岗位上尽职尽责，工作实绩特别显著。因工作特殊需要破\n\n格提拔的干部，应当符合下列情形之一：领导班子结构需要或者领导职位有特殊要求的；专业性较\n\n强的岗位或者重要专项工作急需的；艰苦边远地区、贫困地区急需引进的。”\n\n本题为选非题，故正确答案为 A。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第27题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-029",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "12，25，310，417，（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "521"
+      },
+      {
+        "label": "B",
+        "content": "526"
+      },
+      {
+        "label": "C",
+        "content": "632"
+      },
+      {
+        "label": "D",
+        "content": "647"
+      }
+    ],
+    "answer": "B",
+    "explanation": "解析\n\n本题考查人文常识。\n\n第  15  页  共  45  页\n\n\f①出自元代马致远的《天净沙·秋思》，意思为天色黄昏，一群乌鸦落在枯藤缠绕的老树上，发出凄\n\n厉的哀鸣。小桥下流水哗哗作响，小桥边庄户人家炊烟袅袅，古道上一匹瘦马，顶着西风艰难地前\n\n行。描写的是秋天。\n\n②出自宋代释志南的《绝句·古木阴中系短篷》，意思为杏花时节的蒙蒙细雨，像故意要沾湿我的衣\n\n裳似的下个不停；吹拂着脸庞的微风已感觉不到寒意，嫩绿的柳条随风舞动，格外轻飏。描写的是\n\n春天。\n\n③出自南宋辛弃疾的《西江月·夜行黄沙道中》，意思为在稻花的香气里，人们谈论着丰收的年景，\n\n耳边传来一阵阵青蛙的叫声，好像在说着丰收年。描写的是夏天。\n\n④出自唐代柳宗元的《江雪》，意思为所有的山上，飞鸟的身影已经绝迹，所有道路都不见人的踪\n\n迹。描写的是冬天。\n\n故按春夏秋冬排序准确的是②③①④。\n\n故正确答案为 B。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第29题",
+    "region": "guangdong"
+  },
+  {
+    "id": "provincial-guangdong-xingce-shuliang-2022-030",
+    "subject": "xingce",
+    "category": "shuliang",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2022,
+    "content": "1，0，1，5，4，5，9，（ ）?",
+    "options": [
+      {
+        "label": "A",
+        "content": "8"
+      },
+      {
+        "label": "B",
+        "content": "9"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "11"
+      }
+    ],
+    "answer": "C",
+    "explanation": "解析\n\n本题考查地理国情。\n\n琼州海峡是中国广东省雷州半岛与海南岛之间的海峡，东为南海广东海区，西为北部湾；台湾海峡\n\n是中国大陆与台湾岛之间连通南海、东海的海峡，西起福建省沿海，东至台湾岛西岸；渤海海峡位\n\n于中国辽宁省大连市南端的老铁山角，与山东省山东半岛之间，连接黄海、渤海的海峡，是渤海的\n\n唯一出口，所以被称为“渤海咽喉”。从北到南依次为渤海海峡——台湾海峡——琼州海峡。\n\n故正确答案为 C。",
+    "difficulty": 4,
+    "knowledgePoints": [
+      "数学运算"
+    ],
+    "sourceLabel": "2022年省考guangdong行测第30题",
+    "region": "guangdong"
+  }
+]

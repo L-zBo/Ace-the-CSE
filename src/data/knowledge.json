@@ -1,0 +1,104 @@
+{
+  "xingce": [
+    {
+      "id": "changshi",
+      "name": "常识判断",
+      "children": [
+        {"id": "changshi-zhengzhi", "name": "政治常识", "questionTags": ["时政热点", "政治理论"]},
+        {"id": "changshi-falv", "name": "法律常识", "questionTags": ["法律常识", "立法法", "宪法", "民法", "刑法"]},
+        {"id": "changshi-jingji", "name": "经济常识", "questionTags": ["经济政策", "经济常识"]},
+        {"id": "changshi-renwen", "name": "人文常识", "questionTags": ["人文常识", "文学历史"]},
+        {"id": "changshi-keji", "name": "科技常识", "questionTags": ["科技常识", "信息技术"]},
+        {"id": "changshi-dili", "name": "地理常识", "questionTags": ["地理常识", "自然地理"]}
+      ]
+    },
+    {
+      "id": "yanyu",
+      "name": "言语理解与表达",
+      "children": [
+        {"id": "yanyu-luoji", "name": "逻辑填空", "questionTags": ["逻辑填空", "实词辨析", "成语辨析"]},
+        {"id": "yanyu-pianduanyuedu", "name": "片段阅读", "questionTags": ["片段阅读", "主旨概括", "意图判断"]},
+        {"id": "yanyu-yuju", "name": "语句表达", "questionTags": ["语句排序", "语句衔接", "逻辑关系"]}
+      ]
+    },
+    {
+      "id": "shuliang",
+      "name": "数量关系",
+      "children": [
+        {"id": "shuliang-fangcheng", "name": "方程问题", "questionTags": ["方程问题", "鸡兔同笼"]},
+        {"id": "shuliang-xingcheng", "name": "行程问题", "questionTags": ["行程问题", "相遇问题", "追及问题"]},
+        {"id": "shuliang-gongcheng", "name": "工程问题", "questionTags": ["工程问题", "合作效率"]},
+        {"id": "shuliang-pailie", "name": "排列组合", "questionTags": ["排列组合", "概率问题"]},
+        {"id": "shuliang-jige", "name": "几何问题", "questionTags": ["几何问题", "面积体积"]}
+      ]
+    },
+    {
+      "id": "panduan",
+      "name": "判断推理",
+      "children": [
+        {"id": "panduan-tuxing", "name": "图形推理", "questionTags": ["图形推理", "分类分组", "规律推理"]},
+        {"id": "panduan-dingyi", "name": "定义判断", "questionTags": ["定义判断", "社会科学", "自然科学"]},
+        {"id": "panduan-leib", "name": "类比推理", "questionTags": ["类比推理", "词语关系"]},
+        {"id": "panduan-luoji", "name": "逻辑判断", "questionTags": ["逻辑推理", "真假判断", "三段论", "削弱加强"]}
+      ]
+    },
+    {
+      "id": "ziliao",
+      "name": "资料分析",
+      "children": [
+        {"id": "ziliao-zengzhang", "name": "增长问题", "questionTags": ["资料分析", "增长量计算", "增长率计算"]},
+        {"id": "ziliao-bizhi", "name": "比值问题", "questionTags": ["资料分析", "比值计算", "比重计算"]},
+        {"id": "ziliao-jiqi", "name": "基期与现期", "questionTags": ["资料分析", "基期计算"]},
+        {"id": "ziliao-zonghe", "name": "综合判断", "questionTags": ["资料分析", "综合判断"]}
+      ]
+    }
+  ],
+  "shenlun": [
+    {
+      "id": "guina",
+      "name": "归纳概括",
+      "children": [
+        {"id": "guina-wenti", "name": "概括问题", "questionTags": ["归纳概括", "问题类"]},
+        {"id": "guina-yuanyin", "name": "概括原因", "questionTags": ["归纳概括", "原因类"]},
+        {"id": "guina-chengxiao", "name": "概括成效", "questionTags": ["归纳概括", "成效类"]},
+        {"id": "guina-zuofa", "name": "概括做法", "questionTags": ["归纳概括", "做法类"]}
+      ]
+    },
+    {
+      "id": "duice",
+      "name": "提出对策",
+      "children": [
+        {"id": "duice-zhijie", "name": "直接对策", "questionTags": ["提出对策", "直接对策"]},
+        {"id": "duice-jianjie", "name": "间接对策", "questionTags": ["提出对策", "间接对策"]},
+        {"id": "duice-shequ", "name": "基层治理", "questionTags": ["提出对策", "社区治理"]}
+      ]
+    },
+    {
+      "id": "fenxi",
+      "name": "综合分析",
+      "children": [
+        {"id": "fenxi-ciyu", "name": "词语理解", "questionTags": ["综合分析", "词语分析"]},
+        {"id": "fenxi-guandian", "name": "观点分析", "questionTags": ["综合分析", "观点分析"]},
+        {"id": "fenxi-qishi", "name": "启示分析", "questionTags": ["综合分析", "启示分析"]}
+      ]
+    },
+    {
+      "id": "guanche",
+      "name": "贯彻执行",
+      "children": [
+        {"id": "guanche-fangan", "name": "工作方案", "questionTags": ["贯彻执行", "工作方案"]},
+        {"id": "guanche-jianghua", "name": "讲话稿", "questionTags": ["贯彻执行", "讲话稿"]},
+        {"id": "guanche-daofuci", "name": "倡议书", "questionTags": ["贯彻执行", "倡议书"]},
+        {"id": "guanche-baogao", "name": "调研报告", "questionTags": ["贯彻执行", "调研报告"]}
+      ]
+    },
+    {
+      "id": "xiezuo",
+      "name": "申论写作",
+      "children": [
+        {"id": "xiezuo-yilun", "name": "议论文", "questionTags": ["申论写作", "议论文"]},
+        {"id": "xiezuo-celunyilun", "name": "策论文", "questionTags": ["申论写作", "策论文"]}
+      ]
+    }
+  ]
+}

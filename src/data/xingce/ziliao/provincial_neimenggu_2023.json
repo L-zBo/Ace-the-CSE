@@ -1,0 +1,563 @@
+[
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-025",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "风电同比增长 5.7%，增速比上月放缓 11.0 个百分点；核电同比下降 3.3%，降幅比上月收窄 5.7 个百分点； 太阳能发电同比增长 13.0%，增速比上月加快 3.1 个百分点。 2022 年 1~7 月，全社会用电量累计 49303 亿千瓦时，同比增长 3.4%。分产业看，第一产业用电量 634 亿千瓦时，同比增长 11.1%；第二产业用电量 32552 亿千瓦时，同比增长 1.1%；第三产业用电量 8531 亿千 瓦时，同比增长 4.6%；城乡居民生活用电量 7586 亿千瓦时，同比增长 12.5%。7 月份，全社会用电量 8324 亿千瓦时，同比增长 6.3%。分产业看，第一产业用电量 121 亿千瓦时，同比增长 14.3%；第二产业用电量 5132 亿千瓦时，同比下降 0.1%；第三产业用电量 1591 亿千瓦时，同比增长 11.5%；城乡居民生活用电量 1480 亿千瓦时，同比增长 26.8%。",
+    "options": [
+      {
+        "label": "A",
+        "content": "6570"
+      },
+      {
+        "label": "B",
+        "content": "6920"
+      },
+      {
+        "label": "C",
+        "content": "7712"
+      },
+      {
+        "label": "D",
+        "content": "7800"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一空，根据“所有消费都应该建立在自己已有的经济基础之上”可知，横线处表达在自己的能力范\n围之内合理消费，A、C 两项“量入为出”是指根据收入的情况确定支出的多少，符合文意，均保留。B、D\n两项“精打细算”的意思是在使用人力、物力、财力时计算精细，不使浪费，侧重不浪费，与文段强调的\n“在自己已有的经济基础之上”的对应不及 A、C 两项准确，均排除。\n\n第二空，根据“与其被‘花钱一时爽，还债三年光’的‘伪精致’所累，真不如根据实际情况合理规\n划开支”可知，横线处表达消费要有合理规划，不要透支消费，A 项“细水长流”比喻节约使用财物，使财\n物经常不短缺，即理性消费，符合文意，当选。C 项“勤俭持家”是指管理家庭勤劳俭省，文段强调的合理\n消费，而不是管理家庭，与文意不符，排除。\n\n故正确答案为 A。\n【文段出处】《“平替热”是消费观念上的进步》",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第25题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-106",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年 7 月份，全国发电量大约是多少亿千瓦时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "6570"
+      },
+      {
+        "label": "B",
+        "content": "6920"
+      },
+      {
+        "label": "C",
+        "content": "7712"
+      },
+      {
+        "label": "D",
+        "content": "7800"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2021 年 7 月份，全国发电量大约是多少亿千瓦时”，结合材料时间为 2022 年，可判定本题\n\n为基期计算问题。定位文字材料第一段可知：2022 年 7 月份，全国发电量 8059 亿千瓦时，同比增长 4.5%。\n\n根据公式：基期量\n\n，则 2021 年 7 月份，全国发电量\n\n亿千瓦时。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第106题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-107",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2022 年 1~7 月份，全国城乡居民生活用电量比 2021 年 1~7 月份约多：",
+    "options": [
+      {
+        "label": "A",
+        "content": "672 亿千瓦时"
+      },
+      {
+        "label": "B",
+        "content": "843 亿千瓦时"
+      },
+      {
+        "label": "C",
+        "content": "925 亿千瓦时"
+      },
+      {
+        "label": "D",
+        "content": "1020 亿千瓦时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2022 年 1~7 月份，······比 2021 年 1~7 月份约多”，结合选项有具体单位，可判定\n本题为增长量计算问题。定位文字材料第二段可知：2022 年 1~7 月，城乡居民生活用电量 7586 亿千瓦时，\n\n同比增长 12.5%。根据公式：增长量\n\n，则 2022 年 1~7 月份，全国城乡居民生活用电\n\n量同比增长\n\n亿千瓦时，与 B 项最接近。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第107题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-108",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年 7 月份，全社会用电量中第三产业用电量的占比与城乡居民生活用电量的占比相较约：",
+    "options": [
+      {
+        "label": "A",
+        "content": "高 3.3%"
+      },
+      {
+        "label": "B",
+        "content": "低 3.8%"
+      },
+      {
+        "label": "C",
+        "content": "高 9.8%"
+      },
+      {
+        "label": "D",
+        "content": "低 10.3%"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题干“2021 年 7 月份······占比······”，结合材料时间为 2022 年，可判定本题为\n基期比重问题。定位文字材料第二段可知：“（2022 年）7 月份，全社会用电量 8324 亿千瓦时，同比增长\n6.3%。分产业看，······第三产业用电量 1591 亿千瓦时，同比增长 11.5%；城乡居民生活用电量 1480",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第108题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-109",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年 1~6 月全社会用电量累计约多少亿千瓦时？",
+    "options": [
+      {
+        "label": "A",
+        "content": "38258"
+      },
+      {
+        "label": "B",
+        "content": "39851"
+      },
+      {
+        "label": "C",
+        "content": "40472"
+      },
+      {
+        "label": "D",
+        "content": "41279"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2021 年 1~6 月······”，结合材料时间为 2022 年 1~7 月和 2022 年 7 月，可判定本\n\n题为基期和差问题。定位文字材料第二段可得：2022 年 1~7 月，全社会用电量累计 49303 亿千瓦时（A），\n同比增长 3.4%（a）；7 月份，全社会用电量 8324 亿千瓦时（B），同比增长 6.3%（b）。根据公式：基期\n\n和差\n\n，则 2021 年 1~6 月全社会用电量累计为\n\n亿\n\n千瓦时。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第109题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-110",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2022 年 7 月全国太阳能发电增长量最大"
+      },
+      {
+        "label": "B",
+        "content": "2022 年 6 月全国核电发电量比 5 月份高"
+      },
+      {
+        "label": "C",
+        "content": "2022 年 7 月第二产业用电量高于上半年第二产业平均用电量"
+      },
+      {
+        "label": "D",
+        "content": "2021 年 7 月第一产业用电量低于 2021 年上半年第一产业平均用电量 （三） 27"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A 项：定位文字材料第一段可得：材料只给出各品种发电量同比增速，无法求出增长量，故无法得出太\n\n阳能发电增长量最大，错误；\n\nB 项：定位文字材料第一段可得：2022 年 7 月，核电同比下降 3.3%，降幅比上月收窄 5.7 个百分点。\n\n即只能求出 2022 年 6 月全国核电发电量同比增速，无法求出 2022 年 6 月和 5 月的全国核电发电量，错误；\n\nC 项：定位文字材料第二段可得：2022 年 1～7 月，第二产业用电量 32552 亿千瓦时；7 月份，第二产\n\n业用电量 5132 亿千瓦时。要求\n\n，即要求 7×2022\n\n年 7 月＞2022 年 1～7 月，代入数据，则有 5132×7＞32552，正确；\n\nD 项：定位文字材料第二段可得：2022 年 1～7 月，第一产业用电量 634 亿千瓦时，同比增长 11.1%；7\n\n月份，第一产业用电量 121 亿千瓦时，同比增长 14.3%。要求\n\n，即要求 7×2021 年 7 月＜2021 年 1～7 月。\n\n根据公式：基期量\n\n，则 2021 年 7 月第一产业用电量\n\n亿千瓦时；2021\n\n年 1～7 月第一产业用电量\n\n亿千瓦时，则\n\n，即 2021 年 7 月第一\n\n产业用电量高于 2021 年上半年第一产业平均用电量，错误。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第110题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-111",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2018-2021 年，我国母婴商品消费规模最大的年份是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2018 年"
+      },
+      {
+        "label": "B",
+        "content": "2019 年"
+      },
+      {
+        "label": "C",
+        "content": "2020 年"
+      },
+      {
+        "label": "D",
+        "content": "2021 年"
+      }
+    ],
+    "answer": "D",
+    "explanation": "定位图 1 可知：2018-2021 年，我国母婴商品消费规模分别为 26593 亿元、29919 亿元、31231 亿元、\n\n34591 亿元，故消费规模最大的年份是 2021 年。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第111题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-112",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2018-2021 年，我国母婴商品消费规模增长率的变动趋势是： 28",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题干“2018-2021年······增长率的变动趋势”，可判定本题为一般增长率的比较问题。定位图1可知：2017-2021年我国母婴商品消费规模分别为23613亿元、26593亿元、29919亿元、31231亿元、34591亿元，根据公式：增长率，则各年增长率分别为：\n2018年：；\n2019年：；\n2020年：；\n2021年：。\n图像对应到第三个点应为最低点，只有C项符合。\n故正确答案为C。\n\n[来源 baijing1.top paperId=692 sort=112 - D13 救援]\n[注：本题选项为图形，原 baijing 含 <img>，已转 [图形选项] 占位，前端需补 PNG]",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第112题",
+    "region": "neimenggu",
+    "questionImage": "/img/questions/provincial_neimenggu_2023/q112.png"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-113",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "根据上述资料，在母婴商品消费规模增速最小的年份，其增速最小的原因最可能是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "当年 0-14 岁人口数较之其他年份最少"
+      },
+      {
+        "label": "B",
+        "content": "当年 0-14 岁人口数占总人口比重最小"
+      },
+      {
+        "label": "C",
+        "content": "当年人均可支配收入水平下降"
+      },
+      {
+        "label": "D",
+        "content": "当年人均可支配收入增速下降"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据题干“······增速最小的年份”，可判定本题为一般增长率问题。需先通过增长率比较，\n\n找出我国母婴商品消费规模增速最小的年份，再验证选项。\n\n定位图 1 可知：2016-2021 年各年我国母婴商品消费规模分别为 21015 亿元、23613 亿元、26593 亿元、\n\n29919 亿元、31231 亿元、34591 亿元。根据公式：增长率\n\n，可得 2017-2021 年各年我国\n\n母婴商品消费规模的同比增速，如下：\n\n2017 年：增速为\n\n2018 年：增速为\n\n2019 年：增速为\n\n2020 年：增速为\n\n2021 年：增速为\n\n；\n\n；\n\n；\n\n；\n\n。\n\n则 2017-2021 年，我国母婴商品消费规模增速最小的年份为 2020 年。\n再验证选项，如下：\nA 项：定位图 2 可知：2020 年 0-14 岁人口数为 25277 万人，不符合“较之其他年份最少”，错误；\nB 项：定位图 2 可知：2020 年 0-14 岁人口数占总人口比重为 17.9%，不符合“比重最小”，错误；\nC 项：定位图 3 可知：2020 年人均可支配收入为 32189 元，不符合“水平下降”。错误；\n\nD 项：定位图 3 可知：2019 年人均可支配收入增速为\n\n，2020 年增速为\n\n，2020 年人均可支配收入增速符合“下降”，正确。\n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第113题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-114",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2021 年，我国消费最多的母婴商品金额约为：",
+    "options": [
+      {
+        "label": "A",
+        "content": "9638 亿元"
+      },
+      {
+        "label": "B",
+        "content": "8994 亿元"
+      },
+      {
+        "label": "C",
+        "content": "7852 亿元"
+      },
+      {
+        "label": "D",
+        "content": "4186 亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“2021 年，我国消费最多的母婴商品金额······”，结合表 1 中各类母婴商品消费所\n占比重，可判定本题为现期比重问题。定位图 1、表 1 可得：2021 年，中国母婴商品消费规模为 34591 亿",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第114题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-115",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "比较 2018 年-2021 年我国母婴商品消费额与居民人均可支配收入的年增长率，下列说法错误的有几项？ ①母婴商品消费额的年增长率均超过居民人均可支配收入的年增长率 ②母婴商品消费额的年增长率均低于居民人均可支配收入的年增长率 ③母婴商品消费额的年增长率与居民人均可支配收入的年增长率大体一致 ④母婴商品消费额的年增长率与居民人均可支配收入的年增长率趋势相反",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4 （四） 制造业采购经理人指数 PMI 由 5 个分类指数加权计算而成，5 个分类指数及其权数是依据其对经济的先 行影响程度确定的。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据图 1 可知，2018 年母婴商品消费额的年增长率\n\n，2019 年母婴商品消费\n\n额的年增长率\n\n，2020 年母婴商品消费额的年增长率\n\n，2021\n\n年母婴商品消费额的年增长率\n\n；根据图 3 可知，2018 年居民人均可支配收入的\n\n年增长率\n\n，2019 年居民人均可支配收入的年增长率\n\n，2020\n\n年居民人均可支配收入的年增长率\n\n，2021 年居民人均可支配收入的年增长率\n\n。\n\n①2020 年母婴商品消费额的年增长率低于居民人均可支配收入的年增长率，错误；\n②2018 年、2019 年、2021 年母婴商品消费额的年增长率均高于居民人均可支配收入的年增长率，错误；\n③2018 年母婴商品消费额的年增长率和居民人均可支配收入的年增长率分别为 12.6%和 8.7%，不符合\n\n大体一致，错误；\n\n④2018-2021 年母婴商品消费额的年增长率分别为 12.6%、12.5%、4.4%、10.8%，居民人均可支配收入\n的年增长率分别为 8.7%、8.9%、4.7%、9.1%，其中 2019-2021 年趋势均为先降后升，并非题干所说趋势相\n反，错误。\n\n因此①②③④说法均错误，\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第115题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-116",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "30 2022 年 1~8 月，PMI 指数和新订单指数均在临界点之上的月份有几个？",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "4"
+      }
+    ],
+    "answer": "B",
+    "explanation": "定位文字材料第二段可得：指数临界点为 50%。定位表格材料第二列和第四列可知，2022 年 1~8 月，\n\nPMI 指数在临界点（50%）之上的月份有 1 月、2 月、6 月，新订单指数在临界点（50%）之上的月份有 2 月、\n6 月，则 PMI 指数和新订单指数均在临界点（50%）之上的月份有 2 个（2 月和 6 月）。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第116题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-117",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2022 年 8 月，哪个分类指数对 PMI 指数较上月上升的贡献最大？",
+    "options": [
+      {
+        "label": "A",
+        "content": "生产"
+      },
+      {
+        "label": "B",
+        "content": "新订单"
+      },
+      {
+        "label": "C",
+        "content": "从业人员"
+      },
+      {
+        "label": "D",
+        "content": "供应商配送时间"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······对······上升的贡献最大”，可知本题比较增长贡献率的大小，可判\n\n定本题为现期比重问题。根据公式：增长贡献率\n\n，因为整体的增长量相同，所以只需要比\n\n较部分增长量的大小即可。\n\n定位文字材料第一段可得“生产指数，权数为 25%”，定位表格材料可得：2022 年 7 月生产指数为 49.8%，\n\n2022 年 8 月生产指数为 49.8%，故生产指数的增长量为 25%×（49.8%-49.8%）=0；\n\n定位文字材料第一段可得“新订单指数，权数为 30%”，定位表格材料可得：2022 年 7 月新订单指数\n为 48.5%，2022 年 8 月新订单指数为 49.2%，故新订单指数的增长量为 30%×（49.2%-48.5%）=0.3×0.7%=0.21%；\n定位文字材料第一段可得“从业人员指数，权数为 20%”，定位表格材料可得：2022 年 7 月从业人员\n指数为 48.6%，2022 年 8 月从业人员指数为 48.9%，故从业人员指数增长量为 20%×（48.9%-48.6%）=0.2\n×0.3%=0.06%；\n\n定位文字材料第一段可得“供应商配送时间指数，权数为 15%；供应商配送时间指数为逆指数，在合成\n制造业 PMI 指数时进行反向运算，即 100%减供应商配送时间指数”，定位表格材料可得：2022 年 7 月供应",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第117题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-118",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "2022 年 1~8 月，供应商配送时间指数最小的那个月，与去年同期相比下降了 23.4%，则去年同期供应 商配送时间指数大约是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "37%"
+      },
+      {
+        "label": "B",
+        "content": "48.6%"
+      },
+      {
+        "label": "C",
+        "content": "49.6%"
+      },
+      {
+        "label": "D",
+        "content": "51%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据题干“······去年同期供应商配送时间指数大约是”，可判定本题为基期计算问题。定位\n\n表格材料可得：2022 年 1～8 月，供应商配送时间指数最小的月份为 4 月，指数为 37.2%。根据公式：\n\n，可得所求量为\n\n。\n\n故正确答案为 B。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第118题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-119",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "如果某月 PMI 指数为 49%，而下个月新订单指数增加了 1 个百分点，供应商配送时间指数增加了 3 个百 分点，其他分类指数不变，则下个月 PMI 指数：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增加 0.15 个百分点"
+      },
+      {
+        "label": "B",
+        "content": "增加 0.75 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "减少 0.15 个百分点"
+      },
+      {
+        "label": "D",
+        "content": "减少 0.75 个百分点"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据选项“增长/减少······个百分点”，可判定本题为增长量计算问题。（指数的单位为百分\n数，百分数的差用百分点来表示，故指数的增长量的单位为百分点）。定位文字材料第一段可得：新订单\n指数，权数为 30%；供应商配送时间指数，权数为 15%；供应商配送时间指数为逆指数，在合成制造业 PMI\n指数时进行反向运算，即 100%减供应商配送时间指数。因此，新订单指数增加 1 个百分点，使 PMI 指数增\n加 1%×30%=0.3%；供应商配送时间指数增加了 3 个百分点，使 PMI 指数增加-3%×15%=-0.45%。所以，PMI\n指数变化为 0.3%+（-0.45%）=-0.15%，即下个月 PMI 指数减少 0.15 个百分点。\n\n故正确答案为 C。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第119题",
+    "region": "neimenggu"
+  },
+  {
+    "id": "provincial-neimenggu-xingce-ziliao-2023-120",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "provincial",
+    "year": 2023,
+    "content": "不能从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "构成 PMI 指数的 5 个分类指数低于临界点，则 PMI 指数低于临界点"
+      },
+      {
+        "label": "B",
+        "content": "2022 年 8 月原材料库存指数为 48.0%，比上个月上升 0.1 个百分点"
+      },
+      {
+        "label": "C",
+        "content": "2022 年 8 月从业人员指数为 48.9%，比上个月上升 0.3 个百分点，说明用工景气度略有回升"
+      },
+      {
+        "label": "D",
+        "content": "2022 年 8 月供应商配送时间指数为 49.5%，比上个月下降 0.6 个百分点，说明供应商配送时间较上 月略有缩短 31"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 项：根据文字材料第一段可知 PMI 计算中 5 个分类指数的权数，假设新订单、生产、从业人员、原材\n料库存指数均为 49.9%，供应商配送时间指数为 1%，根据“供应商配送时间指数为逆指数，在合成制造业\nPMI 指数时进行反向运算，即 100%减供应商配送时间指数”可得这种假设情况下 PMI=49.9%×30%+49.9%×\n25%+49.9%×20%+（100%-1%）×15%+49.9%×10%=57.265%，大于 PMI 指数临界点（50%），存在反例，错误。\n\nB 项：定位表格材料可知，2022 年 8 月原材料库存指数为 48.0%，7 月指数为 47.9%，8 月比上个月上\n\n升 48.0%-47.9%=0.1 个百分点，正确。\n\nC 项：定位表格材料可知，2022 年 8 月从业人员指数为 48.9%，7 月指数为 48.6%，8 月比上个月上升\n48.9%-48.6%=0.3 个百分点；结合文字材料第二段可知，指数上升代表景气水平回升，因此用工景气度略有\n回升，正确。\n\nD 项：定位表格材料可知，2022 年 8 月供应商配送时间指数为 49.5%，7 月指数为 50.1%，8 月比上个\n月下降 50.1%-49.5%=0.6 个百分点，但根据材料无法得知指数升降与供应商配送时间长短的关系，因此无\n法推出，错误。\n\n（注释：根据材料数据，只知道供应商配送时间指数的变化，以及如何运用供应商配送时间指数计算\n\nPMI。所以仅仅结合材料，无法得出供应商配送时间指数与配送时间的直接关系。）\n\n本题为选非题，故正确答案为 AD。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2023年省考neimenggu行测第120题",
+    "region": "neimenggu"
+  }
+]

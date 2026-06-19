@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 数量关系 shuliang — 算筹/数字符号 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="数量关系">
+  <g fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+    <line x1="14" y1="20" x2="22" y2="20" />
+    <line x1="14" y1="28" x2="22" y2="28" />
+    <line x1="14" y1="36" x2="22" y2="36" />
+    <line x1="30" y1="20" x2="38" y2="20" />
+    <line x1="30" y1="28" x2="38" y2="28" />
+    <line x1="46" y1="20" x2="50" y2="20" />
+  </g>
+  <g stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 14 48 L 22 48 M 18 44 L 18 52" />
+    <path d="M 30 46 L 38 50 M 30 50 L 38 46" />
+    <line x1="46" y1="48" x2="50" y2="48" />
+    <line x1="46" y1="52" x2="50" y2="52" />
+  </g>
+</svg>

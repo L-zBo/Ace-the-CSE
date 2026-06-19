@@ -1,0 +1,244 @@
+[
+  {
+    "id": "institution-xingce-ziliao-2021-b-046",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 1-4 月，S 地区月均航空运输旅客吞吐量在以下哪个范围内？",
+    "options": [
+      {
+        "label": "A",
+        "content": "少于 280 万人次/月"
+      },
+      {
+        "label": "B",
+        "content": "280～290 万人次/月之间"
+      },
+      {
+        "label": "C",
+        "content": "290～300 万人次/月之间"
+      },
+      {
+        "label": "D",
+        "content": "多于 300 万人次/月"
+      }
+    ],
+    "answer": "A",
+    "explanation": "【答案】A \n\n【解析】根据题干“2019 年 1-8 月……比 2018 年同期提高了”，结合选项“亿元”，可判定本题为增长\n\n量计算问题。定位材料第一段“2019 年 1-8 月，我国规模以上互联网和相关服务企业（简称互联网企业）\n\n完成业务收入 7522 亿元，同比增长 20.9%”。根据增长量= 现期量\n1+增长率\n\n× 增长率，代入数据，则 2019 年 1-8 月\n\n互联网企业月均业务收入同比增长 7522÷8\n1+20.9%\n\n× 20.9% ≈",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第46题",
+    "questionImage": "/img/questions/institution_2021_b/q046.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-b-047",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "如果 S 地区所有飞行起降的飞机均运输旅客，则 2019 年上半年平均每架次飞行起降的飞机运送乘客的数 量比上年同期：",
+    "options": [
+      {
+        "label": "A",
+        "content": "增长 10%以内"
+      },
+      {
+        "label": "C",
+        "content": "减少 10%以内"
+      },
+      {
+        "label": "B",
+        "content": "增长 10%以上"
+      },
+      {
+        "label": "D",
+        "content": "减少 10%以上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据题干“设 2017 年 1-8 月、2018 年 1-8 月、2019 年 1-8 月，……营业利润与业务收入的比值\n\n分别为 x、y 和 z”，结合选项为 x、y、z 的大小比较，可判定本题为两期比重的比较问题。定位材料第一、\n\n二段可知，2019 年 1-8 月，互联网企业完成业务收入同比增长 20.9%（b），增速同比提高 0.2 个百分点；\n\n互联网企业营业利润同比增长 32.7%（a），增速同比提高 19.7 个百分点。则 2018 年 1-8 月业务收入同比\n\n增速= 20.9% − 0.2% = 20.7%，营业利润同比增速= 32.7% − 19.7% = 13%。结合两期比重比较结论\n\n“部分速（a）>整体增速（b），则比重上升；反之，比重下降”，13% < 20.7%，则 2018 年 1-8 月利润\n\n与收入的比值同比下降，即x > y；32.7% > 20.9%，则 2019 年 1-8 月利润与收入的比值同比上升，即y <\n\nz。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第47题",
+    "questionImage": "/img/questions/institution_2021_b/q047.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-b-048",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 6 月，S 地区货邮吞吐量约占 2 季度货邮吞吐量的：",
+    "options": [
+      {
+        "label": "A",
+        "content": "30%"
+      },
+      {
+        "label": "B",
+        "content": "34%"
+      },
+      {
+        "label": "C",
+        "content": "4.1"
+      },
+      {
+        "label": "D",
+        "content": "4.5"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D \n\n【解析】根据题干“…2018 年…当年 9-12 月…月均投入额…”，结合材料所给时间为 2019 年，可判定本\n\n题为基期平均数问题。定位材料第三段可知，2019 年 1-8 月，互联网企业研发投入额 313 亿元，同比增长",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第48题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-b-052",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2018 年前三季度，工业软件产品实现收入在软件业务收入中的占比：",
+    "options": [
+      {
+        "label": "A",
+        "content": "不到 4%"
+      },
+      {
+        "label": "C",
+        "content": "在 8%～18%之间"
+      },
+      {
+        "label": "B",
+        "content": "在 4%～8%之间"
+      },
+      {
+        "label": "D",
+        "content": "超过 18%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第52题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-b-053",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "2019 年 3～9 月我国软件业完成软件业务收入当月同比增速大于累计同比增速的有几个月？",
+    "options": [
+      {
+        "label": "A",
+        "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "4"
+      },
+      {
+        "label": "B",
+        "content": "3"
+      },
+      {
+        "label": "D",
+        "content": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "增长问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第53题"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-b-054",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "以下饼图中，最能准确反映 2019 年前三季度软件产品、信息技术服务、信息安全产品和服务、嵌入式系统 软件实现收入占软件业完成软件业务总收入比重关系的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "B",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "C",
+        "content": "[图形选项]"
+      },
+      {
+        "label": "D",
+        "content": "[图形选项]"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[D-11 标记 - D-9 关键词指纹注入伪解析已清除]\n原 explanation 含与本题主题无关的资料分析片段（疑为 D-9 #9 关键词指纹搜救时错误命中其他题的答案 PDF）。\n本题答案占位为题源默认值，待后续针对性查找原解析。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "比重问题"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第54题",
+    "questionImage": "/img/questions/institution_2021_b/q054.png"
+  },
+  {
+    "id": "institution-xingce-ziliao-2021-b-055",
+    "subject": "xingce",
+    "category": "ziliao",
+    "type": "single_choice",
+    "source": "institution",
+    "year": 2021,
+    "content": "能够从上述资料中推出的是：",
+    "options": [
+      {
+        "label": "A",
+        "content": "2019 年 4～9 月，我国软件业完成软件业务收入逐月持续上升"
+      },
+      {
+        "label": "B",
+        "content": "如果 2019 年全年软件业完成软件业务收入超过 7 万亿元，则第四季度该收入环比一定上升 B.D．2019 年前三季度软件业务收入居前 6 名的省市，同期软件业务收入之和占全国的比重不到八成"
+      },
+      {
+        "label": "C",
+        "content": "2019 年前三季度软件业务收入居前 6 名的省市中，软件业务收入占全国比重同比上升的不到一半"
+      },
+      {
+        "label": "D",
+        "content": "第五部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+      }
+    ],
+    "answer": "D",
+    "explanation": "4\n\n≈ 394美\n\n元，即 2019 年高于 2017 年，正确。 \n\n故正确答案为 D。",
+    "difficulty": 3,
+    "knowledgePoints": [
+      "资料分析"
+    ],
+    "sourceLabel": "2021年事业编行测（b）第55题",
+    "questionImage": "/img/questions/institution_2021_b/q055.png"
+  }
+]
