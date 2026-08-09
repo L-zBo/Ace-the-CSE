@@ -3,7 +3,12 @@
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { AnimatePresence, motion } from 'framer-motion';
-import { getQuestionById, getAllQuestions } from '@/lib/questionLoader';
+import {
+  getMetaById,
+  getQuestionIndex,
+  loadQuestionById,
+  type QuestionMeta,
+} from '@/lib/questionLoader';
 import { usePracticeStore } from '@/stores/practiceStore';
 import { useStatsStore } from '@/stores/statsStore';
 import { useMistakeStore } from '@/stores/mistakeStore';
@@ -46,7 +51,26 @@ export default function QuestionPageClient() {
     usePracticeStore();
   const { recordPractice } = useStatsStore();
   const { addMistake, recordCorrect } = useMistakeStore();
-  const question = useMemo(() => getQuestionById(questionId) ?? null, [questionId]);
+  // 题目正文按需加载：只拉当前题所在的那份试卷。
+  // 存 { id, q } 而不是裸 question，切题时靠派生立刻失效，
+  // 不用在 effect 里同步 setState(null)（那会触发级联渲染）。
+  const [loadedQuestion, setLoadedQuestion] = useState<{
+    id: string;
+    q: Question | null;
+  } | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    loadQuestionById(questionId).then((q) => {
+      if (!cancelled) setLoadedQuestion({ id: questionId, q: q ?? null });
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [questionId]);
+
+  const question =
+    loadedQuestion && loadedQuestion.id === questionId ? loadedQuestion.q : null;
   const storedAnswerValue = question ? (answers[question.id] ?? null) : null;
   const storedAnswer = Array.isArray(storedAnswerValue)
     ? (storedAnswerValue[0] ?? null)
@@ -57,14 +81,39 @@ export default function QuestionPageClient() {
   const isSubmitted = !!storedAnswer && !isCleared;
   const showAnalysis = isSubmitted;
 
-  const allQuestions = getAllQuestions();
+  // 导航只需要 id 和顺序，用轻量索引就够，不必把题库正文全拉下来。
   // 若存在 queue（入口页设置的专项练习范围），按 queue 导航；否则按全库
-  const navList =
-    queue.length > 0
-      ? (queue.map((id) => getQuestionById(id)).filter(Boolean) as Question[])
-      : allQuestions;
+  const navList = useMemo<QuestionMeta[]>(
+    () =>
+      queue.length > 0
+        ? (queue
+            .map((id) => getMetaById(id))
+            .filter(Boolean) as QuestionMeta[])
+        : getQuestionIndex(),
+    [queue],
+  );
   const currentIndex = navList.findIndex((q) => q.id === questionId);
-  const previousQuestion = currentIndex > 0 ? navList[currentIndex - 1] : null;
+
+  // 上一题只用来判断题图是否与本题重复（重复则不再重绘），单独懒加载即可。
+  const previousId = currentIndex > 0 ? navList[currentIndex - 1].id : null;
+  const [loadedPrev, setLoadedPrev] = useState<{
+    id: string;
+    q: Question | null;
+  } | null>(null);
+
+  useEffect(() => {
+    if (!previousId) return;
+    let cancelled = false;
+    loadQuestionById(previousId).then((q) => {
+      if (!cancelled) setLoadedPrev({ id: previousId, q: q ?? null });
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [previousId]);
+
+  const previousQuestion =
+    previousId && loadedPrev?.id === previousId ? loadedPrev.q : null;
 
   // "题目列表"按钮回跳：按 queue 首题 id 前缀推断来源页，避免从国考/省考/事业编
   // 点进来的用户被跳回全部题库 /practice 造成上下文丢失。
@@ -313,6 +362,7 @@ export default function QuestionPageClient() {
           isSubmitted={isSubmitted}
           answer={question.answer}
           imageFallback={hasImageFallback}
+          hasFigureImage={!!question.questionImage}
           onSelect={handleSelectOption}
         />
       )}

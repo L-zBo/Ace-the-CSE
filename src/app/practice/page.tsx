@@ -13,10 +13,9 @@ import {
   type XingceCategory,
   type ShenlunCategory,
 } from '@/types/question';
-import { filterQuestions, getAllQuestions } from '@/lib/questionLoader';
+import { filterIndex, getAnswerableIndex } from '@/lib/questionLoader';
 import { usePracticeStore } from '@/stores/practiceStore';
 import { calcPercentage, cn } from '@/lib/utils';
-import { filterAnswerable } from '@/lib/placeholder';
 
 function Chip({
   active,
@@ -65,7 +64,8 @@ export default function PracticePage() {
         : {};
 
   const filteredQuestions = useMemo(() => {
-    return filterAnswerable(filterQuestions({
+    return filterIndex({
+      answerableOnly: true,
       subject: selectedSubject || undefined,
       category:
         (selectedCategory as XingceCategory | ShenlunCategory) || undefined,
@@ -73,10 +73,10 @@ export default function PracticePage() {
       level: (selectedLevel || undefined) as
         | import('@/types/question').ExamLevel
         | undefined,
-    }));
+    });
   }, [selectedSubject, selectedCategory, selectedYear, selectedLevel]);
 
-  const allQuestions = useMemo(() => filterAnswerable(getAllQuestions()), []);
+  const allQuestions = useMemo(() => getAnswerableIndex(), []);
 
   const categoryStats = useMemo(() => {
     const stats: Record<
@@ -92,6 +92,7 @@ export default function PracticePage() {
         const userAnswer = answers[q.id];
         if (
           userAnswer &&
+          q.answer &&
           JSON.stringify(userAnswer) === JSON.stringify(q.answer)
         ) {
           stats[key].correct++;

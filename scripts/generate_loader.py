@@ -1,7 +1,17 @@
 #!/usr/bin/env python3
 """
-自动生成 questionLoader.ts
-扫描 src/data/ 目录下所有 JSON 题库文件，生成 import 和注册代码。
+⚠️ 已废弃（2026-08-09），请改用 scripts/generate_question_index.py。
+
+本脚本生成的是「1381 条静态 import」版 questionLoader.ts，那个版本会把整个题库
+打进客户端 bundle：单 chunk 62.5 MB、dev 进程 6 GB。2026-08-09 已改成
+「轻量索引 + 按试卷懒加载」架构，跑这个脚本会把修复直接冲掉。
+
+新流程：
+    python scripts/generate_question_index.py    # 生成 src/data/index/question-index.json
+
+旧产物留档：archive/questionLoader.eager.2026-08-09.ts.bak
+
+如果确实要重新生成旧版（例如做对比实验），加 --force-legacy 参数。
 """
 
 import json
@@ -172,6 +182,13 @@ export function getAvailableSources(): ExamSource[] {
 
 
 def main():
+    if "--force-legacy" not in sys.argv:
+        print("[DEPRECATED] 本脚本已废弃：它会生成全量静态 import 的 questionLoader.ts，")
+        print("  覆盖掉 2026-08-09 的懒加载重构（客户端 bundle 会从 1.35 MB 涨回 62.5 MB）。")
+        print("  请改用： python scripts/generate_question_index.py")
+        print("  确需生成旧版请加 --force-legacy。")
+        sys.exit(1)
+
     print("扫描题库文件...")
     entries = scan_json_files()
     print(f"  找到 {len(entries)} 个 JSON 文件")

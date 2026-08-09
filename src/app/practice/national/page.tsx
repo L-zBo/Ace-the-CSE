@@ -5,12 +5,11 @@ import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Landmark, Shuffle, PlayCircle } from 'lucide-react';
-import { getAllQuestions } from '@/lib/questionLoader';
+import { getAnswerableIndex } from '@/lib/questionLoader';
 import { XINGCE_CATEGORY_NAMES, type XingceCategory } from '@/types/question';
 import { usePracticeStore } from '@/stores/practiceStore';
 import { useMistakeStore } from '@/stores/mistakeStore';
 import { cn } from '@/lib/utils';
-import { filterAnswerable } from '@/lib/placeholder';
 
 const LEVEL_LABELS: Record<string, string> = {
   fushengjia: '副省级',
@@ -48,9 +47,9 @@ function Chip({ active, onClick, disabled, children, tone = 'blue' }: {
 
 export default function NationalPage() {
   const router = useRouter();
-  const all = getAllQuestions();
+  const all = getAnswerableIndex();
   const nationalQs = useMemo(
-    () => filterAnswerable(all.filter((q) => q.source === 'national')),
+    () => all.filter((q) => q.source === 'national'),
     [all]
   );
   const { setQueue, clearQueue } = usePracticeStore();

@@ -11,9 +11,8 @@ import {
   AlertTriangle,
   CheckCircle2,
 } from 'lucide-react';
-import { filterQuestions, getAllQuestions } from '@/lib/questionLoader';
+import { getQuestionIndex, loadFilteredQuestions } from '@/lib/questionLoader';
 import { shuffle } from '@/lib/utils';
-import { filterAnswerable } from '@/lib/placeholder';
 import type { ExamLevel, ExamSource, Question } from '@/types/question';
 
 interface ExamData {
@@ -72,7 +71,7 @@ export default function ExamPage() {
   const [starting, setStarting] = useState<string | null>(null);
 
   const examPresets = useMemo<ExamPreset[]>(() => {
-    const allQuestions = getAllQuestions().filter(
+    const allQuestions = getQuestionIndex().filter(
       (q) => q.source === 'national' && q.subject === 'xingce' && q.level
     );
 
@@ -134,16 +133,23 @@ export default function ExamPage() {
     [presetsByYear]
   );
 
-  const startExam = (preset: ExamPreset) => {
+  const startExam = async (preset: ExamPreset) => {
     if (!preset.ready) return;
 
     setStarting(preset.id);
-    const questions = filterAnswerable(filterQuestions({
+    // 组卷需要题目正文（要塞进 sessionStorage 给答题页用），
+    // 这里按筛选结果只拉相关试卷，不会碰整个题库。
+    const questions = await loadFilteredQuestions({
+      answerableOnly: true,
       subject: 'xingce',
       source: 'national' as ExamSource,
       year: preset.year,
       level: preset.level,
-    }));
+    });
+    if (questions.length === 0) {
+      setStarting(null);
+      return;
+    }
     const shuffled = shuffle(questions);
 
     const payload: ExamData = {

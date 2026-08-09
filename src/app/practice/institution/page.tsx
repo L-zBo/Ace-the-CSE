@@ -5,12 +5,11 @@ import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Building2, Shuffle, PlayCircle } from 'lucide-react';
-import { getAllQuestions } from '@/lib/questionLoader';
+import { getAnswerableIndex } from '@/lib/questionLoader';
 import { XINGCE_CATEGORY_NAMES, type XingceCategory } from '@/types/question';
 import { usePracticeStore } from '@/stores/practiceStore';
 import { useMistakeStore } from '@/stores/mistakeStore';
 import { cn } from '@/lib/utils';
-import { filterAnswerable } from '@/lib/placeholder';
 
 const CLASS_META: Record<string, string> = {
   a: 'A 类（综合管理）',
@@ -50,9 +49,9 @@ function Chip({ active, onClick, disabled, children, tone = 'amber' }: {
 export default function InstitutionPage() {
   const router = useRouter();
   const { setQueue, clearQueue } = usePracticeStore();
-  const all = getAllQuestions();
+  const all = getAnswerableIndex();
   const instQs = useMemo(
-    () => filterAnswerable(all.filter((q) => q.source === 'institution')),
+    () => all.filter((q) => q.source === 'institution'),
     [all]
   );
 

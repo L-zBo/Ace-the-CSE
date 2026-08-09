@@ -1,18 +1,19 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { RotateCcw, Filter, CheckCircle2, Trash2 } from 'lucide-react';
 import { useMistakeStore } from '@/stores/mistakeStore';
-import { getQuestionById } from '@/lib/questionLoader';
+import { loadQuestionsByIds } from '@/lib/questionLoader';
+import type { Question } from '@/types/question';
 import {
   XINGCE_CATEGORY_NAMES,
   SHENLUN_CATEGORY_NAMES,
   SUBJECT_NAMES,
   type Subject,
 } from '@/types/question';
-import { Badge, Button, Card, ConfirmDialog, EmptyState } from '@/components/ui';
+import { Badge, Button, Card, ConfirmDialog, EmptyState, Skeleton } from '@/components/ui';
 import { CountUp } from '@/components/effects/CountUp';
 import { cn } from '@/lib/utils';
 
@@ -33,6 +34,36 @@ export default function ReviewPage() {
       (a, b) => new Date(b.lastWrongDate).getTime() - new Date(a.lastWrongDate).getTime()
     );
   }, [mistakes, filterSubject, showMastered]);
+
+  // 错题正文按需加载：只拉错题所在的那几份试卷，不碰整个题库。
+  const mistakeIds = useMemo(
+    () => filtered.map((m) => m.questionId).join(','),
+    [filtered],
+  );
+  // 同样存 { key, map } 并派生，避免在 effect 里同步 setState
+  const [loadedQuestions, setLoadedQuestions] = useState<{
+    key: string;
+    map: Record<string, Question>;
+  } | null>(null);
+
+  useEffect(() => {
+    if (!mistakeIds) return;
+    let cancelled = false;
+    loadQuestionsByIds(mistakeIds.split(',')).then((list) => {
+      if (cancelled) return;
+      setLoadedQuestions({
+        key: mistakeIds,
+        map: Object.fromEntries(list.map((q) => [q.id, q])),
+      });
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, [mistakeIds]);
+
+  const questionMap =
+    loadedQuestions?.key === mistakeIds ? loadedQuestions.map : {};
+  const loadingQuestions = !!mistakeIds && loadedQuestions?.key !== mistakeIds;
 
   const allCategoryNames = { ...XINGCE_CATEGORY_NAMES, ...SHENLUN_CATEGORY_NAMES };
   const activeCount = mistakes.filter((m) => !m.isMastered).length;
@@ -108,8 +139,13 @@ export default function ReviewPage() {
       ) : (
         <div className="space-y-3">
           {filtered.map((mistake, idx) => {
-            const q = getQuestionById(mistake.questionId);
-            if (!q) return null;
+            const q = questionMap[mistake.questionId];
+            if (!q) {
+              // 正文还没到（或该题已从题库移除）：加载中给骨架屏，避免列表看起来是空的
+              return loadingQuestions ? (
+                <Skeleton key={mistake.questionId} className="h-24 rounded-xl" />
+              ) : null;
+            }
             const masteryPct = Math.min(
               100,
               Math.round(((mistake.consecutiveCorrect ?? 0) / MASTERY_THRESHOLD) * 100),

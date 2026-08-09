@@ -22,6 +22,8 @@ interface OptionListProps {
   answer: string | string[];
   /** 图像作答模式（占位选项 + 有 questionImage 时允许凭图选） */
   imageFallback: boolean;
+  /** 本题是否真的有题图。为 false 时「图形选项」不能再说「见上图」 */
+  hasFigureImage: boolean;
   onSelect: (label: string) => void;
 }
 
@@ -41,6 +43,7 @@ export function OptionList({
   isSubmitted,
   answer,
   imageFallback,
+  hasFigureImage,
   onSelect,
 }: OptionListProps) {
   const answerSet = Array.isArray(answer) ? new Set(answer) : new Set([answer]);
@@ -111,6 +114,7 @@ export function OptionList({
               isOptBad={isOptBad}
               placeholderInImageMode={placeholderInImageMode}
               isFigureOpt={isFigureOpt}
+              hasFigureImage={hasFigureImage}
               isDerivedOpt={isDerivedOpt}
             />
           </motion.button>
@@ -167,6 +171,7 @@ interface OptionBodyProps {
   isOptBad: boolean;
   placeholderInImageMode: boolean;
   isFigureOpt: boolean;
+  hasFigureImage: boolean;
   isDerivedOpt: boolean;
 }
 
@@ -175,6 +180,7 @@ function OptionBody({
   isOptBad,
   placeholderInImageMode,
   isFigureOpt,
+  hasFigureImage,
   isDerivedOpt,
 }: OptionBodyProps) {
   if (isOptBad) {
@@ -192,9 +198,11 @@ function OptionBody({
     );
   }
   if (isFigureOpt) {
+    // 没有题图时不能说「见上图」——上面根本没有图，那是误导
     return (
       <span className="pt-0.5 text-foreground-muted">
-        选项 {opt.label}（见上图）
+        选项 {opt.label}
+        {hasFigureImage ? '（见上图）' : '（题图缺失，无法显示）'}
       </span>
     );
   }
