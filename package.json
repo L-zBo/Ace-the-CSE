@@ -7,6 +7,7 @@
     "dev:webpack": "next dev --webpack",
     "dev:turbopack": "next dev",
     "build": "next build --webpack",
+    "build:export": "node scripts/build-export.mjs",
     "start": "next start",
     "lint": "eslint"
   },
