@@ -13,16 +13,16 @@
         "content": "8"
       },
       {
-        "label": "D",
-        "content": "15"
-      },
-      {
         "label": "B",
         "content": "10"
       },
       {
         "label": "C",
         "content": "12"
+      },
+      {
+        "label": "D",
+        "content": "15"
       }
     ],
     "answer": "A",
@@ -48,16 +48,16 @@
         "content": "16:30"
       },
       {
-        "label": "D",
-        "content": "17:15"
+        "label": "B",
+        "content": "16:45"
       },
       {
         "label": "C",
         "content": "17:00"
       },
       {
-        "label": "B",
-        "content": "16:45"
+        "label": "D",
+        "content": "17:15"
       }
     ],
     "answer": "B",
@@ -122,12 +122,12 @@
         "content": "少不到 5 万盒"
       },
       {
-        "label": "D",
-        "content": "少 5 万盒以上"
-      },
-      {
         "label": "C",
         "content": "多 5 万盒以上"
+      },
+      {
+        "label": "D",
+        "content": "少 5 万盒以上"
       }
     ],
     "answer": "B",
@@ -185,20 +185,20 @@
     "content": "（单选题）为降低碳排放，企业对生产设备进行改造，改造后日产量下降了 10%，但每件产品的能耗 成本下降了 50%，其他成本和出厂价不变的情况下每天的利润提高 10%。已知单件利润=出厂价-能耗成本 -其他成本，且改造前产品的出厂价是单件利润的 3 倍，则改造前能耗成本为其他成本的：",
     "options": [
       {
-        "label": "D",
-        "content": "超过 1/2"
-      },
-      {
         "label": "A",
         "content": "不到 1/4"
+      },
+      {
+        "label": "B",
+        "content": "1/4~1/3 之间"
       },
       {
         "label": "C",
         "content": "1/3~1/2 之间"
       },
       {
-        "label": "B",
-        "content": "1/4~1/3 之间"
+        "label": "D",
+        "content": "超过 1/2"
       }
     ],
     "answer": "B",
@@ -224,16 +224,16 @@
         "content": "早不到 10 分钟"
       },
       {
-        "label": "D",
-        "content": "晚 10 分钟以上"
+        "label": "B",
+        "content": "早 10 分钟以上"
       },
       {
         "label": "C",
         "content": "晚不到 10 分钟"
       },
       {
-        "label": "B",
-        "content": "早 10 分钟以上"
+        "label": "D",
+        "content": "晚 10 分钟以上"
       }
     ],
     "answer": "D",
@@ -295,12 +295,12 @@
         "content": "先降价 50 元/件再打八折"
       },
       {
-        "label": "C",
-        "content": "降价 150 元/件"
-      },
-      {
         "label": "B",
         "content": "先打九折再降价 50 元/件"
+      },
+      {
+        "label": "C",
+        "content": "降价 150 元/件"
       },
       {
         "label": "D",

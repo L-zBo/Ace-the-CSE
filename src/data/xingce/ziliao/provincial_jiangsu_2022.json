@@ -79,20 +79,20 @@
     "content": "（单选题）2016—2020 年全球主要国家或地区单次发射航天器的最大数量",
     "options": [
       {
-        "label": "D",
-        "content": "30% D.欧洲"
-      },
-      {
         "label": "A",
         "content": "大于 24 枚"
+      },
+      {
+        "label": "B",
+        "content": "大于 16 枚且不大于 24 枚 D.不小于 11 枚，且不大于 11 枚"
       },
       {
         "label": "C",
         "content": "小于 11 枚"
       },
       {
-        "label": "B",
-        "content": "大于 16 枚且不大于 24 枚 D.不小于 11 枚，且不大于 11 枚"
+        "label": "D",
+        "content": "30% D.欧洲"
       }
     ],
     "answer": "C",
@@ -290,16 +290,16 @@
     "content": "（单选题）2021 年二季度，该市出租车客运量比一季度多：",
     "options": [
       {
-        "label": "C",
-        "content": "16.8%"
+        "label": "A",
+        "content": "12.4%"
       },
       {
         "label": "B",
         "content": "14.1%"
       },
       {
-        "label": "A",
-        "content": "12.4%"
+        "label": "C",
+        "content": "16.8%"
       },
       {
         "label": "D",
@@ -572,16 +572,16 @@
     "content": "（单选题）“十三五”时期，我国集成电路出口额的年均增量是：",
     "options": [
       {
-        "label": "C",
-        "content": "111 亿美元"
+        "label": "A",
+        "content": "79 亿美元"
       },
       {
         "label": "B",
         "content": "95 亿美元"
       },
       {
-        "label": "A",
-        "content": "79 亿美元"
+        "label": "C",
+        "content": "111 亿美元"
       },
       {
         "label": "D",

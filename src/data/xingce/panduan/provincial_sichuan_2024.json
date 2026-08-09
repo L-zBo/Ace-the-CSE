@@ -611,20 +611,20 @@
     "content": "塑料：盘子：陶瓷",
     "options": [
       {
-        "label": "B",
-        "content": "向晚意不适：驱车登古原"
-      },
-      {
-        "label": "D",
-        "content": "举头望明月：低头思故乡"
-      },
-      {
         "label": "A",
         "content": "面粉：馅饼：肉馅 B.皮革：鞋子：布料"
       },
       {
+        "label": "B",
+        "content": "向晚意不适：驱车登古原"
+      },
+      {
         "label": "C",
         "content": "纸张：证书：印章 D.简答：试题：论述"
+      },
+      {
+        "label": "D",
+        "content": "举头望明月：低头思故乡"
       }
     ],
     "answer": "B",
@@ -681,20 +681,20 @@
     "content": "编剧：导演：电影",
     "options": [
       {
-        "label": "B",
-        "content": "直辖市：港口城市：北京"
-      },
-      {
-        "label": "D",
-        "content": "发展中国家：亚洲国家：菲律宾"
-      },
-      {
         "label": "A",
         "content": "推广：运营：广告 B.内容：校对：文章"
       },
       {
+        "label": "B",
+        "content": "直辖市：港口城市：北京"
+      },
+      {
         "label": "C",
         "content": "经理：编程：产品 D.编辑：设计：图书"
+      },
+      {
+        "label": "D",
+        "content": "发展中国家：亚洲国家：菲律宾"
       }
     ],
     "answer": "D",

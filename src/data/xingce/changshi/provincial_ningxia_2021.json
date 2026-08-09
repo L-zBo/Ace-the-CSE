@@ -85,12 +85,12 @@
         "content": "板块挤压 雪面高程"
       },
       {
-        "label": "C",
-        "content": "板块张裂 雪面高程"
-      },
-      {
         "label": "B",
         "content": "板块挤压 岩石面高程"
+      },
+      {
+        "label": "C",
+        "content": "板块张裂 雪面高程"
       },
       {
         "label": "D",

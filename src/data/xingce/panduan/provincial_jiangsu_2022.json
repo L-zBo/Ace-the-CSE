@@ -114,20 +114,20 @@
     "content": "（单选题）论辩∶辩护∶共识",
     "options": [
       {
-        "label": "B",
-        "content": "五年规划∶中期规划∶长期规划"
-      },
-      {
-        "label": "D",
-        "content": "体能测试∶视力测试∶心理测试"
-      },
-      {
         "label": "A",
         "content": "贸易∶签约∶利益 B.就读∶休学∶考试"
       },
       {
+        "label": "B",
+        "content": "五年规划∶中期规划∶长期规划"
+      },
+      {
         "label": "C",
         "content": "调研∶座谈∶问卷 D.看病∶诊脉∶理疗"
+      },
+      {
+        "label": "D",
+        "content": "体能测试∶视力测试∶心理测试"
       }
     ],
     "answer": "B",
@@ -184,16 +184,16 @@
     "content": "（单选题）东北亚 之于 （ ） 相当于 （ ） 之于 树冠",
     "options": [
       {
+        "label": "A",
+        "content": "韩国；树墩"
+      },
+      {
         "label": "B",
         "content": "南亚；树根"
       },
       {
         "label": "C",
         "content": "东半球；树洞"
-      },
-      {
-        "label": "A",
-        "content": "韩国；树墩"
       },
       {
         "label": "D",
@@ -219,16 +219,16 @@
     "content": "（单选题）直升机 之于 蜻蜓 相当于 （ ） 之于 （ ）",
     "options": [
       {
+        "label": "A",
+        "content": "雷达；蝙蝠"
+      },
+      {
         "label": "B",
         "content": "月亮；萤火虫"
       },
       {
         "label": "C",
         "content": "狮子；家猫"
-      },
-      {
-        "label": "A",
-        "content": "雷达；蝙蝠"
       },
       {
         "label": "D",
@@ -258,12 +258,12 @@
         "content": "关关雎鸠在河之洲；窈窕淑女君子好逑"
       },
       {
-        "label": "C",
-        "content": "天有不测风云；人有旦夕祸福"
-      },
-      {
         "label": "B",
         "content": "树欲静而风不止；子欲养而亲不待"
+      },
+      {
+        "label": "C",
+        "content": "天有不测风云；人有旦夕祸福"
       },
       {
         "label": "D",
@@ -938,12 +938,12 @@
         "content": "检查乙单位是在检查丙单位之前"
       },
       {
-        "label": "C",
-        "content": "检查丙单位是在检查丁单位之前"
-      },
-      {
         "label": "B",
         "content": "检查甲单位是在检查戊单位之后"
+      },
+      {
+        "label": "C",
+        "content": "检查丙单位是在检查丁单位之前"
       },
       {
         "label": "D",

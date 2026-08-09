@@ -13,16 +13,16 @@
         "content": "豪放、开阔"
       },
       {
-        "label": "D",
-        "content": "豪情、宽广"
-      },
-      {
         "label": "B",
         "content": "豪爽、广阔"
       },
       {
         "label": "C",
         "content": "豪迈、广袤"
+      },
+      {
+        "label": "D",
+        "content": "豪情、宽广"
       }
     ],
     "answer": "C",
@@ -48,16 +48,16 @@
         "content": "隐恶扬善"
       },
       {
-        "label": "D",
-        "content": "掩人耳目"
-      },
-      {
         "label": "B",
         "content": "掩耳盗铃"
       },
       {
         "label": "C",
         "content": "沽名钓誉"
+      },
+      {
+        "label": "D",
+        "content": "掩人耳目"
       }
     ],
     "answer": "B",
@@ -83,16 +83,16 @@
         "content": "俨然、密不透风"
       },
       {
-        "label": "D",
-        "content": "宛然、熙熙攘攘"
-      },
-      {
         "label": "B",
         "content": "俨然、熙熙攘攘"
       },
       {
         "label": "C",
         "content": "宛然、密不透风"
+      },
+      {
+        "label": "D",
+        "content": "宛然、熙熙攘攘"
       }
     ],
     "answer": "B",
@@ -118,12 +118,12 @@
         "content": "虽然、但、与其、不如、但"
       },
       {
-        "label": "C",
-        "content": "不但、还、虽然、但、但"
-      },
-      {
         "label": "B",
         "content": "不仅、也、既、也、而"
+      },
+      {
+        "label": "C",
+        "content": "不但、还、虽然、但、但"
       },
       {
         "label": "D",
@@ -153,16 +153,16 @@
         "content": "深思、怜悯"
       },
       {
-        "label": "D",
-        "content": "沉思、怜悯"
-      },
-      {
         "label": "B",
         "content": "沉思、怜恤"
       },
       {
         "label": "C",
         "content": "深思、怜恤 11"
+      },
+      {
+        "label": "D",
+        "content": "沉思、怜悯"
       }
     ],
     "answer": "C",
@@ -188,16 +188,16 @@
         "content": "神魂、凝练"
       },
       {
-        "label": "D",
-        "content": "神采、锤炼"
-      },
-      {
         "label": "B",
         "content": "神韵、提炼"
       },
       {
         "label": "C",
         "content": "神态、精炼"
+      },
+      {
+        "label": "D",
+        "content": "神采、锤炼"
       }
     ],
     "answer": "B",
@@ -223,12 +223,12 @@
         "content": "咬文嚼字、去粗取精"
       },
       {
-        "label": "C",
-        "content": "雕章琢句、去粗取精"
-      },
-      {
         "label": "B",
         "content": "咬文嚼字、去伪存真"
+      },
+      {
+        "label": "C",
+        "content": "雕章琢句、去粗取精"
       },
       {
         "label": "D",
@@ -293,16 +293,16 @@
         "content": "一脉相承、擘画"
       },
       {
-        "label": "D",
-        "content": "薪火相传、擘画"
-      },
-      {
         "label": "B",
         "content": "薪火相传、描摹"
       },
       {
         "label": "C",
         "content": "一脉相承、描摹"
+      },
+      {
+        "label": "D",
+        "content": "薪火相传、擘画"
       }
     ],
     "answer": "C",
@@ -468,16 +468,16 @@
         "content": "句式杂释"
       },
       {
-        "label": "D",
-        "content": "搭配不当"
-      },
-      {
         "label": "B",
         "content": "不合逻辑"
       },
       {
         "label": "C",
         "content": "成分残缺"
+      },
+      {
+        "label": "D",
+        "content": "搭配不当"
       }
     ],
     "answer": "C",
@@ -503,16 +503,16 @@
         "content": "⑤-①-③-②-④"
       },
       {
-        "label": "D",
-        "content": "④-⑤-③-②-①"
-      },
-      {
         "label": "B",
         "content": "④-⑤-③-①-②"
       },
       {
         "label": "C",
         "content": "③-⑤-①-④-②"
+      },
+      {
+        "label": "D",
+        "content": "④-⑤-③-②-①"
       }
     ],
     "answer": "B",
@@ -538,12 +538,12 @@
         "content": "现代图书馆具有多重公共功能与属性"
       },
       {
-        "label": "C",
-        "content": "古籍数字化工程需要全社会久久为功"
-      },
-      {
         "label": "B",
         "content": "应当重视古籍的文化价值和历史价值"
+      },
+      {
+        "label": "C",
+        "content": "古籍数字化工程需要全社会久久为功"
       },
       {
         "label": "D",
@@ -608,12 +608,12 @@
         "content": "微综艺是综艺市场的新生力量"
       },
       {
-        "label": "C",
-        "content": "微综艺比传统综艺节目更能赢得用户的口碑"
-      },
-      {
         "label": "B",
         "content": "短视频平台助力微综艺的发展"
+      },
+      {
+        "label": "C",
+        "content": "微综艺比传统综艺节目更能赢得用户的口碑"
       },
       {
         "label": "D",
@@ -783,12 +783,12 @@
         "content": "“井”里与“井”外"
       },
       {
-        "label": "C",
-        "content": "世界维度决定思想高度"
-      },
-      {
         "label": "B",
         "content": "“相对”才是真理"
+      },
+      {
+        "label": "C",
+        "content": "世界维度决定思想高度"
       },
       {
         "label": "D",
@@ -818,12 +818,12 @@
         "content": "狩猎或行军等长途跋涉场合有蓄水需求"
       },
       {
-        "label": "C",
-        "content": "扁形外型携带舒适，不妨碍灵活运动"
-      },
-      {
         "label": "B",
         "content": "蓄水量大，更好满足人们定居生活需要"
+      },
+      {
+        "label": "C",
+        "content": "扁形外型携带舒适，不妨碍灵活运动"
       },
       {
         "label": "D",

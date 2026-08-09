@@ -118,12 +118,12 @@
         "content": "（33，48，63）"
       },
       {
-        "label": "C",
-        "content": "（36，48，108）"
-      },
-      {
         "label": "B",
         "content": "（27，32，85）"
+      },
+      {
+        "label": "C",
+        "content": "（36，48，108）"
       },
       {
         "label": "D",
@@ -188,16 +188,16 @@
         "content": "32"
       },
       {
-        "label": "D",
-        "content": "35"
-      },
-      {
         "label": "B",
         "content": "33"
       },
       {
         "label": "C",
         "content": "34"
+      },
+      {
+        "label": "D",
+        "content": "35"
       }
     ],
     "answer": "A",
@@ -223,16 +223,16 @@
         "content": "15"
       },
       {
-        "label": "D",
-        "content": "22"
-      },
-      {
         "label": "B",
         "content": "16"
       },
       {
         "label": "C",
         "content": "21"
+      },
+      {
+        "label": "D",
+        "content": "22"
       }
     ],
     "answer": "D",
@@ -258,16 +258,16 @@
         "content": "0"
       },
       {
-        "label": "D",
-        "content": "40"
-      },
-      {
         "label": "B",
         "content": "10"
       },
       {
         "label": "C",
         "content": "35"
+      },
+      {
+        "label": "D",
+        "content": "40"
       }
     ],
     "answer": "C",
@@ -324,6 +324,10 @@
     "content": "有如下图所示的飞镖盘，当飞镖落到数字标示的扇形区域，可得相应分数，否则记 0 分， 每个区域可落有多支 飞镖。若一次性射出三支飞镖，恰好得到 30 分，则共有（ ）种得分组 合。",
     "options": [
       {
+        "label": "A",
+        "content": "6 C.8"
+      },
+      {
         "label": "B",
         "content": "125"
       },
@@ -334,10 +338,6 @@
       {
         "label": "D",
         "content": "75 B.7"
-      },
-      {
-        "label": "A",
-        "content": "6 C.8"
       }
     ],
     "answer": "C",
@@ -364,16 +364,16 @@
         "content": "6"
       },
       {
-        "label": "D",
-        "content": "10.8"
-      },
-      {
         "label": "B",
         "content": "7.2 D.9"
       },
       {
         "label": "C",
         "content": "9"
+      },
+      {
+        "label": "D",
+        "content": "10.8"
       }
     ],
     "answer": "C",
@@ -399,16 +399,16 @@
         "content": "5"
       },
       {
-        "label": "D",
-        "content": "8"
-      },
-      {
         "label": "B",
         "content": "6"
       },
       {
         "label": "C",
         "content": "7"
+      },
+      {
+        "label": "D",
+        "content": "8"
       }
     ],
     "answer": "B",
@@ -434,16 +434,16 @@
         "content": "517"
       },
       {
-        "label": "D",
-        "content": "514"
-      },
-      {
         "label": "B",
         "content": "516"
       },
       {
         "label": "C",
         "content": "515"
+      },
+      {
+        "label": "D",
+        "content": "514"
       }
     ],
     "answer": "A",
@@ -469,16 +469,16 @@
         "content": "260"
       },
       {
-        "label": "D",
-        "content": "185"
-      },
-      {
         "label": "B",
         "content": "233"
       },
       {
         "label": "C",
         "content": "196"
+      },
+      {
+        "label": "D",
+        "content": "185"
       }
     ],
     "answer": "A",
@@ -504,16 +504,16 @@
         "content": "4"
       },
       {
-        "label": "D",
-        "content": "7"
-      },
-      {
         "label": "B",
         "content": "5"
       },
       {
         "label": "C",
         "content": "6 第四部分 言语理解与表达（共 25 题）"
+      },
+      {
+        "label": "D",
+        "content": "7"
       }
     ],
     "answer": "B",

@@ -575,12 +575,12 @@
         "content": "第一产业，第三产业"
       },
       {
-        "label": "C",
-        "content": "第三产业，第二产业"
-      },
-      {
         "label": "B",
         "content": "第二产业，第一产业"
+      },
+      {
+        "label": "C",
+        "content": "第三产业，第二产业"
       },
       {
         "label": "D",

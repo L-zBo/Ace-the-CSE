@@ -621,12 +621,12 @@
         "content": "①②③"
       },
       {
-        "label": "C",
-        "content": "①②④"
-      },
-      {
         "label": "B",
         "content": "①③④"
+      },
+      {
+        "label": "C",
+        "content": "①②④"
       },
       {
         "label": "D",

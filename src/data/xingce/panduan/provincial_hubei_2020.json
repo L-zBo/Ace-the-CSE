@@ -403,12 +403,12 @@
         "content": "君子一日三省其身"
       },
       {
-        "label": "C",
-        "content": "重赏之下必有勇夫"
-      },
-      {
         "label": "B",
         "content": "杀鸡骇猴以儆效尤"
+      },
+      {
+        "label": "C",
+        "content": "重赏之下必有勇夫"
       },
       {
         "label": "D",
@@ -539,20 +539,20 @@
     "content": "牵牛花∶喇叭花",
     "options": [
       {
-        "label": "B",
-        "content": "相看两不厌，唯有敬亭山"
-      },
-      {
-        "label": "D",
-        "content": "蝉噪林逾静，鸟鸣山更幽"
-      },
-      {
         "label": "A",
         "content": "乞巧节∶七夕节 B、七巧板∶橡皮泥"
       },
       {
+        "label": "B",
+        "content": "相看两不厌，唯有敬亭山"
+      },
+      {
         "label": "C",
         "content": "人行道∶车行道 D、防腐剂∶添加剂"
+      },
+      {
+        "label": "D",
+        "content": "蝉噪林逾静，鸟鸣山更幽"
       }
     ],
     "answer": "A",
@@ -823,12 +823,12 @@
         "content": "知道；铁板一块"
       },
       {
-        "label": "C",
-        "content": "理解；铜墙铁壁"
-      },
-      {
         "label": "B",
         "content": "明白；坚不可摧"
+      },
+      {
+        "label": "C",
+        "content": "理解；铜墙铁壁"
       },
       {
         "label": "D",
@@ -858,12 +858,12 @@
         "content": "球员；法庭"
       },
       {
-        "label": "C",
-        "content": "比赛；法官"
-      },
-      {
         "label": "B",
         "content": "黑哨；上诉"
+      },
+      {
+        "label": "C",
+        "content": "比赛；法官"
       },
       {
         "label": "D",

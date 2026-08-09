@@ -13,16 +13,16 @@
         "content": "①②"
       },
       {
-        "label": "D",
-        "content": "③④"
+        "label": "B",
+        "content": "②③"
       },
       {
         "label": "C",
         "content": "①④"
       },
       {
-        "label": "B",
-        "content": "②③"
+        "label": "D",
+        "content": "③④"
       }
     ],
     "answer": "C",
@@ -85,12 +85,12 @@
         "content": "严密防控外来物种入侵"
       },
       {
-        "label": "C",
-        "content": "强化生物遗传资源监管"
-      },
-      {
         "label": "B",
         "content": "完整转基因生物安全管理"
+      },
+      {
+        "label": "C",
+        "content": "强化生物遗传资源监管"
       },
       {
         "label": "D",
@@ -156,12 +156,12 @@
         "content": "全体人民共同富裕是一个总体概念"
       },
       {
-        "label": "C",
-        "content": "共同富裕主要通过第三次分配来实现"
-      },
-      {
         "label": "B",
         "content": "共同富裕是人民群众的物质生活富裕"
+      },
+      {
+        "label": "C",
+        "content": "共同富裕主要通过第三次分配来实现"
       },
       {
         "label": "D",
@@ -226,16 +226,16 @@
         "content": "雨水"
       },
       {
-        "label": "D",
-        "content": "小满"
+        "label": "B",
+        "content": "惊蛰"
       },
       {
         "label": "C",
         "content": "谷雨"
       },
       {
-        "label": "B",
-        "content": "惊蛰"
+        "label": "D",
+        "content": "小满"
       }
     ],
     "answer": "C",
@@ -331,12 +331,12 @@
         "content": "王某自行承担损害后果"
       },
       {
-        "label": "C",
-        "content": "王某和李某均等分担损失"
-      },
-      {
         "label": "B",
         "content": "李某承担适当的赔偿责任"
+      },
+      {
+        "label": "C",
+        "content": "王某和李某均等分担损失"
       },
       {
         "label": "D",
@@ -366,12 +366,12 @@
         "content": "归赵某所有"
       },
       {
-        "label": "C",
-        "content": "归赵某和村集体所有"
-      },
-      {
         "label": "B",
         "content": "归村集体所有"
+      },
+      {
+        "label": "C",
+        "content": "归赵某和村集体所有"
       },
       {
         "label": "D",
@@ -436,12 +436,12 @@
         "content": "①②③"
       },
       {
-        "label": "C",
-        "content": "①③④"
-      },
-      {
         "label": "B",
         "content": "①②④"
+      },
+      {
+        "label": "C",
+        "content": "①③④"
       },
       {
         "label": "D",
@@ -2027,16 +2027,16 @@
     "content": "如图所示，小王买了一块直三棱柱形状的蛋糕A、B、C、-A、’B、’C、’，其中∠A、B、",
     "options": [
       {
-        "label": "C",
-        "content": "=90°，∠B、A、C、=30°。为与两位室友分享，他切出一小块和原蛋糕形状相同的蛋糕A、D、 E-A、’D、’E’.其体积与原蛋糕的体积之比为1:3。若∠A、D、E=90°，则线段A、E 与EB、的长度之 比为："
-      },
-      {
         "label": "A",
         "content": "2：1"
       },
       {
         "label": "B",
         "content": "3：2 C、√3：1"
+      },
+      {
+        "label": "C",
+        "content": "=90°，∠B、A、C、=30°。为与两位室友分享，他切出一小块和原蛋糕形状相同的蛋糕A、D、 E-A、’D、’E’.其体积与原蛋糕的体积之比为1:3。若∠A、D、E=90°，则线段A、E 与EB、的长度之 比为："
       },
       {
         "label": "D",

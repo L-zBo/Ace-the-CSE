@@ -155,12 +155,12 @@
         "content": "社会主义市场经济改革试点区"
       },
       {
-        "label": "C",
-        "content": "社会主义市场经济先行示范区"
-      },
-      {
         "label": "B",
         "content": "中国特色社会主义改革试点区"
+      },
+      {
+        "label": "C",
+        "content": "社会主义市场经济先行示范区"
       },
       {
         "label": "D",
@@ -1393,12 +1393,12 @@
         "content": "挪穷窝，解开贫困症结"
       },
       {
-        "label": "C",
-        "content": "育新风，激活村民信心"
-      },
-      {
         "label": "B",
         "content": "谋产业，探索致富门路"
+      },
+      {
+        "label": "C",
+        "content": "育新风，激活村民信心"
       },
       {
         "label": "D",
@@ -1463,12 +1463,12 @@
         "content": "发源地，建立，知名"
       },
       {
-        "label": "C",
-        "content": "发祥地，成就，知名"
-      },
-      {
         "label": "B",
         "content": "发祥地，成立，著名"
+      },
+      {
+        "label": "C",
+        "content": "发祥地，成就，知名"
       },
       {
         "label": "D",
@@ -1533,12 +1533,12 @@
         "content": "凝重，孤独，渺茫"
       },
       {
-        "label": "C",
-        "content": "沉重，孤苦，迷茫"
-      },
-      {
         "label": "B",
         "content": "沉重，孤独，渺茫"
+      },
+      {
+        "label": "C",
+        "content": "沉重，孤苦，迷茫"
       },
       {
         "label": "D",
@@ -1568,12 +1568,12 @@
         "content": "却，延续，隔离"
       },
       {
-        "label": "C",
-        "content": "确，延续，隔绝"
-      },
-      {
         "label": "B",
         "content": "确，沿续，剥离"
+      },
+      {
+        "label": "C",
+        "content": "确，延续，隔绝"
       },
       {
         "label": "D",
@@ -1635,20 +1635,20 @@
     "content": "给下列句子排序正确的一项是 。",
     "options": [
       {
-        "label": "B",
-        "content": "一本正经 居然 然而"
-      },
-      {
-        "label": "D",
-        "content": "专心致志 是否 但 ①我的心恨不得插上翅膀，和刚刚飞过车顶的雄鹰一样，好好看看这辽阔的草原。 ②一只鹰从公路的一边滑翔到另一边，当它从车顶上飞过时，整个贡格尔草原都慢了下来。 ③风舒缓地吹皱了贡格尔河的河水，牛羊在路两旁悠闲地散步。 ④为了能及时躲避进入公路的牛羊，车子明显放慢了速度。 ⑤眼前变得开阔了。 ⑥绕过大山，大地如一张折叠着的纸被突然展平。"
-      },
-      {
         "label": "A",
         "content": "⑥⑤②③④①"
       },
       {
+        "label": "B",
+        "content": "一本正经 居然 然而"
+      },
+      {
         "label": "C",
         "content": "⑥⑤①④③②"
+      },
+      {
+        "label": "D",
+        "content": "专心致志 是否 但 ①我的心恨不得插上翅膀，和刚刚飞过车顶的雄鹰一样，好好看看这辽阔的草原。 ②一只鹰从公路的一边滑翔到另一边，当它从车顶上飞过时，整个贡格尔草原都慢了下来。 ③风舒缓地吹皱了贡格尔河的河水，牛羊在路两旁悠闲地散步。 ④为了能及时躲避进入公路的牛羊，车子明显放慢了速度。 ⑤眼前变得开阔了。 ⑥绕过大山，大地如一张折叠着的纸被突然展平。"
       }
     ],
     "answer": "C",
@@ -1670,20 +1670,20 @@
     "content": "下面句子表达准确的是",
     "options": [
       {
-        "label": "B",
-        "content": "③②①⑤⑥④"
-      },
-      {
-        "label": "D",
-        "content": "③②①⑥④⑤ 。"
-      },
-      {
         "label": "A",
         "content": "目前世界上最快的磁悬浮列车最高时速可达 600 多公里/小时。 B、目前世界上最快的磁悬浮列车最高速度为 600 多公里。 - 1 -"
       },
       {
+        "label": "B",
+        "content": "③②①⑤⑥④"
+      },
+      {
         "label": "C",
         "content": "目前世界上最快的磁悬浮列车最高时速为 600 公里。 D、目前世界上最快的磁悬浮列车最高速度约为 600 公里。"
+      },
+      {
+        "label": "D",
+        "content": "③②①⑥④⑤ 。"
       }
     ],
     "answer": "B",
@@ -2270,12 +2270,12 @@
         "content": "丁一定是单质"
       },
       {
-        "label": "C",
-        "content": "该反应是分解反应"
-      },
-      {
         "label": "B",
         "content": "M 的值是 15"
+      },
+      {
+        "label": "C",
+        "content": "该反应是分解反应"
       },
       {
         "label": "D",
@@ -2413,12 +2413,12 @@
         "content": "不要受潮或暴晒"
       },
       {
-        "label": "C",
-        "content": "储存和运输时要注意密封"
-      },
-      {
         "label": "B",
         "content": "与碱性化肥混合施用"
+      },
+      {
+        "label": "C",
+        "content": "储存和运输时要注意密封"
       },
       {
         "label": "D",
@@ -2534,19 +2534,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2570,19 +2570,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2606,19 +2606,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2642,19 +2642,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2678,19 +2678,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "C",
@@ -2714,19 +2714,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "A",
@@ -2750,19 +2750,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "A",
@@ -2786,19 +2786,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "D",
@@ -2822,19 +2822,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2858,19 +2858,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -3107,12 +3107,12 @@
         "content": "甲箱中至少有 1 盒"
       },
       {
-        "label": "C",
-        "content": "己箱中至少有 2 盒"
-      },
-      {
         "label": "B",
         "content": "乙箱中至少有 2 盒"
+      },
+      {
+        "label": "C",
+        "content": "己箱中至少有 2 盒"
       },
       {
         "label": "D",
@@ -3142,12 +3142,12 @@
         "content": "赵、钱、孙一队"
       },
       {
-        "label": "C",
-        "content": "钱、孙、吴一队"
-      },
-      {
         "label": "B",
         "content": "钱、孙、周一队"
+      },
+      {
+        "label": "C",
+        "content": "钱、孙、吴一队"
       },
       {
         "label": "D",
@@ -3282,12 +3282,12 @@
         "content": "理科生只有戊参加"
       },
       {
-        "label": "C",
-        "content": "3 名理科生都参加"
-      },
-      {
         "label": "B",
         "content": "工科生只有己参加"
+      },
+      {
+        "label": "C",
+        "content": "3 名理科生都参加"
       },
       {
         "label": "D",
@@ -4121,6 +4121,10 @@
     "content": "以下",
     "options": [
       {
+        "label": "A",
+        "content": "C、 B、 D、"
+      },
+      {
         "label": "B",
         "content": "在 至 之间"
       },
@@ -4131,10 +4135,6 @@
       {
         "label": "D",
         "content": "大于 中的柱状图能准确反映 2016-2019 年间粤港澳大湾区年末常住人口同比增量的变化趋势。"
-      },
-      {
-        "label": "A",
-        "content": "C、 B、 D、"
       }
     ],
     "answer": "D",

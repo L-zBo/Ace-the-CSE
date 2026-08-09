@@ -13,12 +13,12 @@
         "content": "对照"
       },
       {
-        "label": "C",
-        "content": "对立 联系 相联 斗争 妥协"
-      },
-      {
         "label": "B",
         "content": "对应"
+      },
+      {
+        "label": "C",
+        "content": "对立 联系 相联 斗争 妥协"
       },
       {
         "label": "D",
@@ -83,12 +83,12 @@
         "content": "尽管"
       },
       {
-        "label": "C",
-        "content": "也许 甚至 可是 总是 还是"
-      },
-      {
         "label": "B",
         "content": "哪怕"
+      },
+      {
+        "label": "C",
+        "content": "也许 甚至 可是 总是 还是"
       },
       {
         "label": "D",
@@ -713,12 +713,12 @@
         "content": "高性能计算机的推广应用"
       },
       {
-        "label": "C",
-        "content": "高性能计算机的发展历程"
-      },
-      {
         "label": "B",
         "content": "智能中心如何研制高性能计算机"
+      },
+      {
+        "label": "C",
+        "content": "高性能计算机的发展历程"
       },
       {
         "label": "D",

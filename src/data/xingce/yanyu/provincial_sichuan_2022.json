@@ -119,16 +119,16 @@
         "content": "①②③"
       },
       {
-        "label": "D",
-        "content": "②③④"
-      },
-      {
         "label": "B",
         "content": "①②④"
       },
       {
         "label": "C",
         "content": "①③④"
+      },
+      {
+        "label": "D",
+        "content": "②③④"
       }
     ],
     "answer": "B",
@@ -154,16 +154,16 @@
         "content": "①②"
       },
       {
-        "label": "D",
-        "content": "①②③④"
-      },
-      {
         "label": "B",
         "content": "①②③"
       },
       {
         "label": "C",
         "content": "①②④"
+      },
+      {
+        "label": "D",
+        "content": "①②③④"
       }
     ],
     "answer": "C",
@@ -329,12 +329,12 @@
         "content": "石打乌头粉碎，沙飞海马俱伤"
       },
       {
-        "label": "C",
-        "content": "当归也，茱萸熟地，菊老伴花黄"
-      },
-      {
         "label": "B",
         "content": "连翘首，掠过半夏，凉透薄荷裳"
+      },
+      {
+        "label": "C",
+        "content": "当归也，茱萸熟地，菊老伴花黄"
       },
       {
         "label": "D",
@@ -430,12 +430,12 @@
     "content": "为了延续胡同的生机活力，北京东城不仅重新整治了胡同里外的生活环境和基础设施， 还大力发掘出一批_______的胡同文化，比如讲述北新桥信托商行年代故事的“北新典故”， 展现九道湾胡同历史的“九曲寻幽”“凉亭闲话”“合院朝夕”等，展示出北京城的厚重历 史与文化底蕴。填入画横线部分最恰当的一项是：",
     "options": [
       {
-        "label": "B",
-        "content": "前所未有"
-      },
-      {
         "label": "A",
         "content": "鲜为人知"
+      },
+      {
+        "label": "B",
+        "content": "前所未有"
       },
       {
         "label": "C",
@@ -469,12 +469,12 @@
         "content": "融会贯通 无出其右"
       },
       {
-        "label": "C",
-        "content": "此消彼长 三足鼎立"
-      },
-      {
         "label": "B",
         "content": "蔚然成风 独树一帜"
+      },
+      {
+        "label": "C",
+        "content": "此消彼长 三足鼎立"
       },
       {
         "label": "D",
@@ -504,12 +504,12 @@
         "content": "可歌可泣 呼应"
       },
       {
-        "label": "C",
-        "content": "来之不易 辉映"
-      },
-      {
         "label": "B",
         "content": "彪炳史册 般配"
+      },
+      {
+        "label": "C",
+        "content": "来之不易 辉映"
       },
       {
         "label": "D",
@@ -539,12 +539,12 @@
         "content": "互为表里 举足轻重"
       },
       {
-        "label": "C",
-        "content": "密不可分 抽丝剥茧"
-      },
-      {
         "label": "B",
         "content": "如影随形 精益求精"
+      },
+      {
+        "label": "C",
+        "content": "密不可分 抽丝剥茧"
       },
       {
         "label": "D",
@@ -574,12 +574,12 @@
         "content": "人迹罕至 事过境迁"
       },
       {
-        "label": "C",
-        "content": "人去楼空 日新月异"
-      },
-      {
         "label": "B",
         "content": "杳无人烟 标新立异"
+      },
+      {
+        "label": "C",
+        "content": "人去楼空 日新月异"
       },
       {
         "label": "D",
@@ -609,12 +609,12 @@
         "content": "行之有效万事大吉"
       },
       {
-        "label": "C",
-        "content": "独树一帜博采众长"
-      },
-      {
         "label": "B",
         "content": "与时俱进计日程功"
+      },
+      {
+        "label": "C",
+        "content": "独树一帜博采众长"
       },
       {
         "label": "D",
@@ -644,12 +644,12 @@
         "content": "悠然自得 陷溺"
       },
       {
-        "label": "C",
-        "content": "固步自封 沉浸"
-      },
-      {
         "label": "B",
         "content": "画地为牢 束缚"
+      },
+      {
+        "label": "C",
+        "content": "固步自封 沉浸"
       },
       {
         "label": "D",
@@ -679,12 +679,12 @@
         "content": "模式化 反映 珍贵"
       },
       {
-        "label": "C",
-        "content": "标准化 限制 稀缺"
-      },
-      {
         "label": "B",
         "content": "同质化 决定 关键"
+      },
+      {
+        "label": "C",
+        "content": "标准化 限制 稀缺"
       },
       {
         "label": "D",
@@ -714,12 +714,12 @@
         "content": "创设 置身事外 真实"
       },
       {
-        "label": "C",
-        "content": "重建 无所适从 深入"
-      },
-      {
         "label": "B",
         "content": "改善 雾里看花 完整"
+      },
+      {
+        "label": "C",
+        "content": "重建 无所适从 深入"
       },
       {
         "label": "D",
@@ -749,12 +749,12 @@
         "content": "超越 搜索 多维"
       },
       {
-        "label": "C",
-        "content": "扩展 发现 全面"
-      },
-      {
         "label": "B",
         "content": "打破 扫描 立体"
+      },
+      {
+        "label": "C",
+        "content": "扩展 发现 全面"
       },
       {
         "label": "D",
@@ -1029,16 +1029,16 @@
         "content": "适用病症"
       },
       {
-        "label": "D",
-        "content": "潜在风险"
-      },
-      {
         "label": "B",
         "content": "作用原理"
       },
       {
         "label": "C",
         "content": "治疗过程"
+      },
+      {
+        "label": "D",
+        "content": "潜在风险"
       }
     ],
     "answer": "D",
@@ -1204,16 +1204,16 @@
         "content": "技术手段"
       },
       {
-        "label": "D",
-        "content": "成果形态"
-      },
-      {
         "label": "B",
         "content": "文献依据"
       },
       {
         "label": "C",
         "content": "重要价值"
+      },
+      {
+        "label": "D",
+        "content": "成果形态"
       }
     ],
     "answer": "B",

@@ -718,12 +718,12 @@
         "content": "A.F1 做的功小于 F2 做的功"
       },
       {
-        "label": "C",
-        "content": "C.F1 做的功大于 F2 做的功"
-      },
-      {
         "label": "B",
         "content": "B.F1 做的功等于 F2 做的功"
+      },
+      {
+        "label": "C",
+        "content": "C.F1 做的功大于 F2 做的功"
       },
       {
         "label": "D",
@@ -823,12 +823,12 @@
         "content": "36 条→18 条→18 条"
       },
       {
-        "label": "C",
-        "content": "18 条→36 条→18 条"
-      },
-      {
         "label": "B",
         "content": "18 条→18 条→18 条"
+      },
+      {
+        "label": "C",
+        "content": "18 条→36 条→18 条"
       },
       {
         "label": "D",
@@ -1104,12 +1104,12 @@
         "content": "丝绸得到电子，带上负电"
       },
       {
-        "label": "C",
-        "content": "摩擦过程中热能转化为电能"
-      },
-      {
         "label": "B",
         "content": "整个摩擦过程中电荷量增加"
+      },
+      {
+        "label": "C",
+        "content": "摩擦过程中热能转化为电能"
       },
       {
         "label": "D",

@@ -83,12 +83,12 @@
         "content": "下降了不到 10%"
       },
       {
-        "label": "C",
-        "content": "上升了不到 10%"
-      },
-      {
         "label": "B",
         "content": "下降了 10%以上"
+      },
+      {
+        "label": "C",
+        "content": "上升了不到 10%"
       },
       {
         "label": "D",
@@ -259,12 +259,12 @@
         "content": "低不到 10 个百分点"
       },
       {
-        "label": "C",
-        "content": "高不到 10 个百分点"
-      },
-      {
         "label": "B",
         "content": "低 10 个百分点以上"
+      },
+      {
+        "label": "C",
+        "content": "高不到 10 个百分点"
       },
       {
         "label": "D",
@@ -294,12 +294,12 @@
         "content": "不到 50 万人"
       },
       {
-        "label": "C",
-        "content": "100~150 万人之间"
-      },
-      {
         "label": "B",
         "content": "50~100 万人之间"
+      },
+      {
+        "label": "C",
+        "content": "100~150 万人之间"
       },
       {
         "label": "D",
@@ -466,20 +466,20 @@
     "content": "2020 年，全国艺术表演团体平均每场演出创造收入比上年：",
     "options": [
       {
-        "label": "B",
-        "content": "减少了 1000 元以上"
-      },
-      {
-        "label": "D",
-        "content": "增加了 1000 元以上"
-      },
-      {
         "label": "A",
         "content": "减少了不到 1000 元"
       },
       {
+        "label": "B",
+        "content": "减少了 1000 元以上"
+      },
+      {
         "label": "C",
         "content": "增加了不到 1000 元"
+      },
+      {
+        "label": "D",
+        "content": "增加了 1000 元以上"
       }
     ],
     "answer": "A",
@@ -575,12 +575,12 @@
         "content": "1"
       },
       {
-        "label": "C",
-        "content": "3"
-      },
-      {
         "label": "B",
         "content": "2"
+      },
+      {
+        "label": "C",
+        "content": "3"
       },
       {
         "label": "D",

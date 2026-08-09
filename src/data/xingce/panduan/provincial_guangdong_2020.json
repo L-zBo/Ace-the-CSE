@@ -825,12 +825,12 @@
         "content": "①④"
       },
       {
-        "label": "C",
-        "content": "①②"
-      },
-      {
         "label": "B",
         "content": "②③"
+      },
+      {
+        "label": "C",
+        "content": "①②"
       },
       {
         "label": "D",
@@ -860,12 +860,12 @@
         "content": "西偏南 37 度"
       },
       {
-        "label": "C",
-        "content": "西偏北 37 度"
-      },
-      {
         "label": "B",
         "content": "西偏南 53 度"
+      },
+      {
+        "label": "C",
+        "content": "西偏北 37 度"
       },
       {
         "label": "D",
@@ -1176,12 +1176,12 @@
         "content": "在起跳点"
       },
       {
-        "label": "C",
-        "content": "在起跳点后"
-      },
-      {
         "label": "B",
         "content": "在起跳点前"
+      },
+      {
+        "label": "C",
+        "content": "在起跳点后"
       },
       {
         "label": "D",
@@ -1246,12 +1246,12 @@
         "content": "①②③"
       },
       {
-        "label": "C",
-        "content": "③④⑤"
-      },
-      {
         "label": "B",
         "content": "②④⑤"
+      },
+      {
+        "label": "C",
+        "content": "③④⑤"
       },
       {
         "label": "D",
@@ -1351,12 +1351,12 @@
         "content": "①③"
       },
       {
-        "label": "C",
-        "content": "②④ (材料 1)"
-      },
-      {
         "label": "B",
         "content": "②③"
+      },
+      {
+        "label": "C",
+        "content": "②④ (材料 1)"
       },
       {
         "label": "D",

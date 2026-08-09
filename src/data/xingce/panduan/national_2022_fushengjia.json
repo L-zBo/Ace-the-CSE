@@ -443,12 +443,12 @@
         "content": "学生之间的同学关系"
       },
       {
-        "label": "C",
-        "content": "人与人之间的帮助关系"
-      },
-      {
         "label": "B",
         "content": "两个分数之间的小于关系"
+      },
+      {
+        "label": "C",
+        "content": "人与人之间的帮助关系"
       },
       {
         "label": "D",
@@ -548,12 +548,12 @@
         "content": "他的脸上长了一点肉"
       },
       {
-        "label": "C",
-        "content": "去年他烂了一车苹果"
-      },
-      {
         "label": "B",
         "content": "从远处走来一个挑夫"
+      },
+      {
+        "label": "C",
+        "content": "去年他烂了一车苹果"
       },
       {
         "label": "D",
@@ -790,20 +790,20 @@
     "content": "（单选题）载歌∶载舞",
     "options": [
       {
-        "label": "B",
-        "content": "观赏花卉∶药用花卉"
-      },
-      {
-        "label": "D",
-        "content": "简牍公文∶纸质公文"
-      },
-      {
         "label": "A",
         "content": "人云∶亦云 B.且战∶且退"
       },
       {
+        "label": "B",
+        "content": "观赏花卉∶药用花卉"
+      },
+      {
         "label": "C",
         "content": "自作∶自受 D.全心∶全意"
+      },
+      {
+        "label": "D",
+        "content": "简牍公文∶纸质公文"
       }
     ],
     "answer": "B",
@@ -903,12 +903,12 @@
         "content": "B.自由体操∶竞技体操∶艺术体操"
       },
       {
-        "label": "D",
-        "content": "顺序作业∶流水作业∶平行作业"
-      },
-      {
         "label": "C",
         "content": "风蚀∶碳酸钙∶溶蚀 D.B.伐树∶植树节∶植树 D.镇痛∶止痛药∶止痛"
+      },
+      {
+        "label": "D",
+        "content": "顺序作业∶流水作业∶平行作业"
       }
     ],
     "answer": "A",
@@ -934,12 +934,12 @@
         "content": "撰写教案∶课堂教学∶解答疑问"
       },
       {
-        "label": "C",
-        "content": "违章行驶∶交警处罚∶行人受伤"
-      },
-      {
         "label": "B",
         "content": "手机点餐∶外卖送餐∶五星好评"
+      },
+      {
+        "label": "C",
+        "content": "违章行驶∶交警处罚∶行人受伤"
       },
       {
         "label": "D",
@@ -969,12 +969,12 @@
         "content": "海上战争∶常规战争∶空中战争"
       },
       {
-        "label": "C",
-        "content": "自助旅游∶国内旅游∶探亲旅游"
-      },
-      {
         "label": "B",
         "content": "科技期刊∶电子期刊∶纸本期刊"
+      },
+      {
+        "label": "C",
+        "content": "自助旅游∶国内旅游∶探亲旅游"
       },
       {
         "label": "D",
@@ -1000,16 +1000,16 @@
     "content": "（单选题）纪录片 对于 （ ） 相当于 （ ） 对于 客观题",
     "options": [
       {
+        "label": "A",
+        "content": "电影；主观题"
+      },
+      {
         "label": "B",
         "content": "国产片；选择题"
       },
       {
         "label": "C",
         "content": "动画片；考试题"
-      },
-      {
-        "label": "A",
-        "content": "电影；主观题"
       },
       {
         "label": "D",
@@ -1039,12 +1039,12 @@
         "content": "人工声源；植物遗骸"
       },
       {
-        "label": "C",
-        "content": "传播介质；社区供暖"
-      },
-      {
         "label": "B",
         "content": "燕语莺声；矿石燃料"
+      },
+      {
+        "label": "C",
+        "content": "传播介质；社区供暖"
       },
       {
         "label": "D",
@@ -1179,12 +1179,12 @@
         "content": "小陈、小李都未获奖"
       },
       {
-        "label": "C",
-        "content": "小李、小刘都未获奖"
-      },
-      {
         "label": "B",
         "content": "小陈、小刘都获奖"
+      },
+      {
+        "label": "C",
+        "content": "小李、小刘都未获奖"
       },
       {
         "label": "D",
@@ -1249,12 +1249,12 @@
         "content": "二号柜不放黑云母"
       },
       {
-        "label": "C",
-        "content": "五号柜放的是方铅矿"
-      },
-      {
         "label": "B",
         "content": "一号柜不放黄铜矿"
+      },
+      {
+        "label": "C",
+        "content": "五号柜放的是方铅矿"
       },
       {
         "label": "D",
@@ -1393,12 +1393,12 @@
         "content": "2 项"
       },
       {
-        "label": "D",
-        "content": "4 项"
-      },
-      {
         "label": "C",
         "content": "3 项 第五部分 资料分析 第 19 页 共 23 页"
+      },
+      {
+        "label": "D",
+        "content": "4 项"
       }
     ],
     "answer": "B",

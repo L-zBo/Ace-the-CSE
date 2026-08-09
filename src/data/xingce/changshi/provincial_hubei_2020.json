@@ -504,12 +504,12 @@
         "content": "该家族与宗教有关"
       },
       {
-        "label": "C",
-        "content": "该家族受到皇帝册封"
-      },
-      {
         "label": "B",
         "content": "社会习惯约定俗成"
+      },
+      {
+        "label": "C",
+        "content": "该家族受到皇帝册封"
       },
       {
         "label": "D",

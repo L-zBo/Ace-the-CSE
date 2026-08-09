@@ -224,20 +224,20 @@
     "content": "下列关于海南自贸港建设错误的是：",
     "options": [
       {
-        "label": "B",
-        "content": "博鳌乐城国际医疗旅游先行区"
-      },
-      {
-        "label": "D",
-        "content": "洋浦经济开发区"
-      },
-      {
         "label": "A",
         "content": "海南自由贸易港的实施范围覆盖全岛 B、海南自贸港建设为国际航空枢纽"
       },
       {
+        "label": "B",
+        "content": "博鳌乐城国际医疗旅游先行区"
+      },
+      {
         "label": "C",
         "content": "全岛封关以后，对所有进口商品免税 D、海南省是除港澳外唯一一个单向免签的省"
+      },
+      {
+        "label": "D",
+        "content": "洋浦经济开发区"
       }
     ],
     "answer": "C",
@@ -480,12 +480,12 @@
         "content": "该家族与宗教有关"
       },
       {
-        "label": "C",
-        "content": "该家族受到皇帝册封"
-      },
-      {
         "label": "B",
         "content": "社会习惯约定俗成"
+      },
+      {
+        "label": "C",
+        "content": "该家族受到皇帝册封"
       },
       {
         "label": "D",
@@ -515,12 +515,12 @@
         "content": "广告战"
       },
       {
-        "label": "C",
-        "content": "军备竞赛"
-      },
-      {
         "label": "B",
         "content": "关税战"
+      },
+      {
+        "label": "C",
+        "content": "军备竞赛"
       },
       {
         "label": "D",
@@ -552,12 +552,12 @@
         "content": "①②③④"
       },
       {
-        "label": "C",
-        "content": "①④②③"
-      },
-      {
         "label": "B",
         "content": "①②④③"
+      },
+      {
+        "label": "C",
+        "content": "①④②③"
       },
       {
         "label": "D",
@@ -728,12 +728,12 @@
         "content": "复眼"
       },
       {
-        "label": "C",
-        "content": "蚊足"
-      },
-      {
         "label": "B",
         "content": "蚊翅"
+      },
+      {
+        "label": "C",
+        "content": "蚊足"
       },
       {
         "label": "D",
@@ -868,12 +868,12 @@
         "content": "牛肉和鱼"
       },
       {
-        "label": "C",
-        "content": "青菜和螃蟹"
-      },
-      {
         "label": "B",
         "content": "①③④"
+      },
+      {
+        "label": "C",
+        "content": "青菜和螃蟹"
       },
       {
         "label": "D",

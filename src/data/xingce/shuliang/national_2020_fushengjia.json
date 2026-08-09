@@ -359,20 +359,20 @@
     "content": "某种产品每箱 48 个。小李制作这种产品，第 1 天制作了 1 个，以后每天都比前一天多制作 1 个。X 天后总",
     "options": [
       {
-        "label": "D",
-        "content": "多 2 万元"
-      },
-      {
-        "label": "C",
-        "content": "少 2 万元 D、C＞B＞A"
+        "label": "A",
+        "content": "在 41～60 之间 B、超过 60"
       },
       {
         "label": "B",
         "content": "A＞C＞B C、B＞C＞A C、4/3 D、5/3 B、3/5 - 8 - B、5 C、不到 20 D、在 20～40 之间 共制作了整数箱产品。问 X 的最小值在以下哪个范围内？"
       },
       {
-        "label": "A",
-        "content": "在 41～60 之间 B、超过 60"
+        "label": "C",
+        "content": "少 2 万元 D、C＞B＞A"
+      },
+      {
+        "label": "D",
+        "content": "多 2 万元"
       }
     ],
     "answer": "D",

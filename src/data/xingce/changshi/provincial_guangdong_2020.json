@@ -370,12 +370,12 @@
         "content": "种植特色水果"
       },
       {
-        "label": "C",
-        "content": "兴建乡村卫生站"
-      },
-      {
         "label": "B",
         "content": "开展乡村旅游"
+      },
+      {
+        "label": "C",
+        "content": "兴建乡村卫生站"
       },
       {
         "label": "D",
@@ -510,12 +510,12 @@
         "content": "月球"
       },
       {
-        "label": "C",
-        "content": "金星"
-      },
-      {
         "label": "B",
         "content": "火星"
+      },
+      {
+        "label": "C",
+        "content": "金星"
       },
       {
         "label": "D",
@@ -580,12 +580,12 @@
         "content": "昭君出塞"
       },
       {
-        "label": "C",
-        "content": "张骞凿空"
-      },
-      {
         "label": "B",
         "content": "蒙古西征"
+      },
+      {
+        "label": "C",
+        "content": "张骞凿空"
       },
       {
         "label": "D",
@@ -2329,19 +2329,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2365,19 +2365,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "A",
@@ -2401,19 +2401,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "B",
@@ -2437,19 +2437,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "D",
@@ -2508,19 +2508,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "C",
@@ -2544,19 +2544,19 @@
     "options": [
       {
         "label": "A",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "B",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "C",
-        "content": "[图形选项]"
+        "content": "[见图]"
       },
       {
         "label": "D",
-        "content": "[图形选项]"
+        "content": "[见图]"
       }
     ],
     "answer": "A",
@@ -2637,7 +2637,8 @@
       "综合常识"
     ],
     "sourceLabel": "2020年省考guangdong行测第73题",
-    "region": "guangdong"
+    "region": "guangdong",
+    "questionImage": "/img/questions/provincial_guangdong_2020/q073.png"
   },
   {
     "id": "provincial-guangdong-xingce-changshi-2020-074",

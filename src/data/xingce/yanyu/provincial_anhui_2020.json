@@ -258,12 +258,12 @@
         "content": "带领"
       },
       {
-        "label": "C",
-        "content": "引导 催生 催发 重造 制定"
-      },
-      {
         "label": "B",
         "content": "引领"
+      },
+      {
+        "label": "C",
+        "content": "引导 催生 催发 重造 制定"
       },
       {
         "label": "D",
@@ -468,12 +468,12 @@
         "content": "②①⑤④③"
       },
       {
-        "label": "C",
-        "content": "②⑤①③④"
-      },
-      {
         "label": "B",
         "content": "④①⑤②③"
+      },
+      {
+        "label": "C",
+        "content": "②⑤①③④"
       },
       {
         "label": "D",
@@ -538,12 +538,12 @@
         "content": "甜蜜诱惑，难以抗拒"
       },
       {
-        "label": "C",
-        "content": "嗜糖之害，甚于吸烟"
-      },
-      {
         "label": "B",
         "content": "降糖行动，刻不容缓"
+      },
+      {
+        "label": "C",
+        "content": "嗜糖之害，甚于吸烟"
       },
       {
         "label": "D",
@@ -678,12 +678,12 @@
         "content": "宜居行星在事实上并不存在"
       },
       {
-        "label": "C",
-        "content": "冰行星或冰卫星其实没有冰"
-      },
-      {
         "label": "B",
         "content": "冰行星或冰卫星其实不宜居"
+      },
+      {
+        "label": "C",
+        "content": "冰行星或冰卫星其实没有冰"
       },
       {
         "label": "D",
@@ -748,12 +748,12 @@
         "content": "自媒体具有强大的影响力"
       },
       {
-        "label": "C",
-        "content": "自媒体人应争取公众支持"
-      },
-      {
         "label": "B",
         "content": "自媒体人不应只关注收益"
+      },
+      {
+        "label": "C",
+        "content": "自媒体人应争取公众支持"
       },
       {
         "label": "D",

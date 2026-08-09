@@ -443,16 +443,16 @@
         "content": "5e6a71a3u6"
       },
       {
-        "label": "D",
-        "content": "3u53u53u5"
-      },
-      {
         "label": "B",
         "content": "9u8ae89u8"
       },
       {
         "label": "C",
         "content": "7a58u24e6"
+      },
+      {
+        "label": "D",
+        "content": "3u53u53u5"
       }
     ],
     "answer": "C",
@@ -762,12 +762,12 @@
         "content": "B.黄大衣：黄土坡"
       },
       {
-        "label": "D",
-        "content": "黑皮夹：黑漆桌"
-      },
-      {
         "label": "C",
         "content": "牛顿：万有引力 D.B.瓦特：蒸汽机 D.爱因斯坦：相对论"
+      },
+      {
+        "label": "D",
+        "content": "黑皮夹：黑漆桌"
       }
     ],
     "answer": "B",
@@ -793,12 +793,12 @@
         "content": "雄蕊：花药：花丝"
       },
       {
-        "label": "C",
-        "content": "体裁：诗歌：散文"
-      },
-      {
         "label": "B",
         "content": "固态：液态：气态"
+      },
+      {
+        "label": "C",
+        "content": "体裁：诗歌：散文"
       },
       {
         "label": "D",
@@ -828,12 +828,12 @@
         "content": "厨房；电影院"
       },
       {
-        "label": "C",
-        "content": "洗涤；三维"
-      },
-      {
         "label": "B",
         "content": "碗筷；观众"
+      },
+      {
+        "label": "C",
+        "content": "洗涤；三维"
       },
       {
         "label": "D",
@@ -863,12 +863,12 @@
         "content": "警察；甲状腺"
       },
       {
-        "label": "C",
-        "content": "国家；白细胞"
-      },
-      {
         "label": "B",
         "content": "武器；维生素"
+      },
+      {
+        "label": "C",
+        "content": "国家；白细胞"
       },
       {
         "label": "D",
@@ -1178,12 +1178,12 @@
         "content": "赵教授喜欢下棋"
       },
       {
-        "label": "C",
-        "content": "哲学教授来自广西"
-      },
-      {
         "label": "B",
         "content": "文学教授来自广东"
+      },
+      {
+        "label": "C",
+        "content": "哲学教授来自广西"
       },
       {
         "label": "D",

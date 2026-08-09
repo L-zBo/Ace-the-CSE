@@ -825,20 +825,20 @@
     "content": "立体化战争∶数字化战争",
     "options": [
       {
-        "label": "B",
-        "content": "鸡声茅店月∶人迹板桥霜"
-      },
-      {
-        "label": "D",
-        "content": "柴门闻犬吠∶风雪夜归人"
-      },
-      {
         "label": "A",
         "content": "民主型管理∶专制型管理 B、防风林∶观赏树木"
       },
       {
+        "label": "B",
+        "content": "鸡声茅店月∶人迹板桥霜"
+      },
+      {
         "label": "C",
         "content": "有氧运动∶医疗瘦身 D、绩效奖励∶物质奖励"
+      },
+      {
+        "label": "D",
+        "content": "柴门闻犬吠∶风雪夜归人"
       }
     ],
     "answer": "D",
@@ -1000,20 +1000,20 @@
     "content": "杠杆 对于（ ）相当于（ ）对于 成语",
     "options": [
       {
-        "label": "B",
-        "content": "发掘遗迹∶考古∶考证年代"
-      },
-      {
-        "label": "D",
-        "content": "太空飞行∶航天∶地质分析"
-      },
-      {
         "label": "A",
         "content": "滑轮；固定短语 B、力臂；水滴石穿"
       },
       {
+        "label": "B",
+        "content": "发掘遗迹∶考古∶考证年代"
+      },
+      {
         "label": "C",
         "content": "省力杠杆；春夏秋冬 D、简单机械；四字成语"
+      },
+      {
+        "label": "D",
+        "content": "太空飞行∶航天∶地质分析"
       }
     ],
     "answer": "D",

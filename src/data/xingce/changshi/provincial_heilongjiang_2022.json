@@ -295,12 +295,12 @@
         "content": "姜黄——色素"
       },
       {
-        "label": "C",
-        "content": "维生素C——抗氧化剂"
-      },
-      {
         "label": "B",
         "content": "山梨酸——酸度调节剂"
+      },
+      {
+        "label": "C",
+        "content": "维生素C——抗氧化剂"
       },
       {
         "label": "D",

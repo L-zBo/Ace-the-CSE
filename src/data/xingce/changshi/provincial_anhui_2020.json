@@ -188,12 +188,12 @@
         "content": "广告战"
       },
       {
-        "label": "C",
-        "content": "军备竞赛"
-      },
-      {
         "label": "B",
         "content": "关税战"
+      },
+      {
+        "label": "C",
+        "content": "军备竞赛"
       },
       {
         "label": "D",
@@ -223,12 +223,12 @@
         "content": "①②③④"
       },
       {
-        "label": "C",
-        "content": "①④②③"
-      },
-      {
         "label": "B",
         "content": "①②④③"
+      },
+      {
+        "label": "C",
+        "content": "①④②③"
       },
       {
         "label": "D",
@@ -324,20 +324,20 @@
     "content": "下列名言中出现最晚的一项是：",
     "options": [
       {
-        "label": "B",
-        "content": "社会习惯约定俗成"
-      },
-      {
-        "label": "D",
-        "content": "该家族有人获得官爵"
-      },
-      {
         "label": "A",
         "content": "笛卡尔：我思故我在 B、亚里士多德：人是天生的政治动物"
       },
       {
+        "label": "B",
+        "content": "社会习惯约定俗成"
+      },
+      {
         "label": "C",
         "content": "亚当·斯密：人天生，并且永远，是自私的动物 D、阿基米德：给我一个支点，我就能撬起整个地球"
+      },
+      {
+        "label": "D",
+        "content": "该家族有人获得官爵"
       }
     ],
     "answer": "C",
@@ -429,20 +429,20 @@
     "content": "下列关于我国城市的表述错误的是:",
     "options": [
       {
-        "label": "B",
-        "content": "鸡蛋和牛奶"
-      },
-      {
-        "label": "D",
-        "content": "米饭和馒头"
-      },
-      {
         "label": "A",
         "content": "北京市、上海市、天津市和重庆市是直辖市 B、昆山市、义乌市、江阴市和温岭市是县级市"
       },
       {
+        "label": "B",
+        "content": "鸡蛋和牛奶"
+      },
+      {
         "label": "C",
         "content": "东莞市、三沙市、中山市和嘉峪关市是地级市 D、成都市、西安市、杭州市和长沙市是副省级城市"
+      },
+      {
+        "label": "D",
+        "content": "米饭和馒头"
       }
     ],
     "answer": "D",
@@ -468,12 +468,12 @@
         "content": "①②③"
       },
       {
-        "label": "C",
-        "content": "①②④"
-      },
-      {
         "label": "B",
         "content": "①③④"
+      },
+      {
+        "label": "C",
+        "content": "①②④"
       },
       {
         "label": "D",
@@ -538,12 +538,12 @@
         "content": "复眼"
       },
       {
-        "label": "C",
-        "content": "蚊足"
-      },
-      {
         "label": "B",
         "content": "蚊翅"
+      },
+      {
+        "label": "C",
+        "content": "蚊足"
       },
       {
         "label": "D",
@@ -784,12 +784,12 @@
         "content": "形成新兴产业聚集地"
       },
       {
-        "label": "C",
-        "content": "打造科技创新策源地"
-      },
-      {
         "label": "B",
         "content": "全面创新改革试验省"
+      },
+      {
+        "label": "C",
+        "content": "打造科技创新策源地"
       },
       {
         "label": "D",
@@ -819,12 +819,12 @@
         "content": "文化素养"
       },
       {
-        "label": "C",
-        "content": "法治意识"
-      },
-      {
         "label": "B",
         "content": "政治品格"
+      },
+      {
+        "label": "C",
+        "content": "法治意识"
       },
       {
         "label": "D",
@@ -854,12 +854,12 @@
         "content": "坚持公有制和按劳分配"
       },
       {
-        "label": "C",
-        "content": "坚持多种所有制并存"
-      },
-      {
         "label": "B",
         "content": "坚持效率优先，兼顾公平"
+      },
+      {
+        "label": "C",
+        "content": "坚持多种所有制并存"
       },
       {
         "label": "D",

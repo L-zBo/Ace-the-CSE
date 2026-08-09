@@ -433,12 +433,12 @@
         "content": "鬼斧神工 一捧 沁人心脾"
       },
       {
-        "label": "C",
-        "content": "巧夺天工 一掌 美轮美奂"
-      },
-      {
         "label": "B",
         "content": "天造地设 一把 心旷神怡"
+      },
+      {
+        "label": "C",
+        "content": "巧夺天工 一掌 美轮美奂"
       },
       {
         "label": "D",
@@ -503,12 +503,12 @@
         "content": "平衡 集思广益 兼顾"
       },
       {
-        "label": "C",
-        "content": "衡量 博采众长 统一"
-      },
-      {
         "label": "B",
         "content": "权衡 齐心协力 融合"
+      },
+      {
+        "label": "C",
+        "content": "衡量 博采众长 统一"
       },
       {
         "label": "D",
@@ -713,12 +713,12 @@
         "content": "民族文化复兴的途径"
       },
       {
-        "label": "C",
-        "content": "城市规划要富有特色"
-      },
-      {
         "label": "B",
         "content": "传统文化的物质载体"
+      },
+      {
+        "label": "C",
+        "content": "城市规划要富有特色"
       },
       {
         "label": "D",
@@ -748,12 +748,12 @@
         "content": "干扰机器识别图像的新方法"
       },
       {
-        "label": "C",
-        "content": "机器学习是人工智能的核心"
-      },
-      {
         "label": "B",
         "content": "新算法助机器学习抵抗干扰"
+      },
+      {
+        "label": "C",
+        "content": "机器学习是人工智能的核心"
       },
       {
         "label": "D",

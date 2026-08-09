@@ -13,12 +13,12 @@
         "content": "得不偿失"
       },
       {
-        "label": "C",
-        "content": "背道而驰"
-      },
-      {
         "label": "B",
         "content": "本末倒置"
+      },
+      {
+        "label": "C",
+        "content": "背道而驰"
       },
       {
         "label": "D",
@@ -48,12 +48,12 @@
         "content": "敬而远之"
       },
       {
-        "label": "C",
-        "content": "不求甚解"
-      },
-      {
         "label": "B",
         "content": "不以为然"
+      },
+      {
+        "label": "C",
+        "content": "不求甚解"
       },
       {
         "label": "D",
@@ -83,12 +83,12 @@
         "content": "信手拈来"
       },
       {
-        "label": "C",
-        "content": "游刃有余"
-      },
-      {
         "label": "B",
         "content": "轻而易举"
+      },
+      {
+        "label": "C",
+        "content": "游刃有余"
       },
       {
         "label": "D",
@@ -118,12 +118,12 @@
         "content": "难以估量 拓展"
       },
       {
-        "label": "C",
-        "content": "毋庸置疑 模仿"
-      },
-      {
         "label": "B",
         "content": "触目惊心 参考"
+      },
+      {
+        "label": "C",
+        "content": "毋庸置疑 模仿"
       },
       {
         "label": "D",
@@ -153,16 +153,16 @@
         "content": "潜藏 泥沙俱下"
       },
       {
-        "label": "D",
-        "content": "裹挟 杂乱无章"
-      },
-      {
         "label": "B",
         "content": "夹杂 乌烟瘴气"
       },
       {
         "label": "C",
         "content": "渗透 鱼龙混杂"
+      },
+      {
+        "label": "D",
+        "content": "裹挟 杂乱无章"
       }
     ],
     "answer": "A",
@@ -188,12 +188,12 @@
         "content": "默默无闻 打造"
       },
       {
-        "label": "C",
-        "content": "无足轻重 构建"
-      },
-      {
         "label": "B",
         "content": "微乎其微 补充"
+      },
+      {
+        "label": "C",
+        "content": "无足轻重 构建"
       },
       {
         "label": "D",
@@ -223,16 +223,16 @@
         "content": "关键 盘根错节"
       },
       {
-        "label": "D",
-        "content": "优势 如影随形"
-      },
-      {
         "label": "B",
         "content": "核心 唇齿相依"
       },
       {
         "label": "C",
         "content": "主导 千丝万缕"
+      },
+      {
+        "label": "D",
+        "content": "优势 如影随形"
       }
     ],
     "answer": "C",
@@ -258,16 +258,16 @@
         "content": "潜伏 知之甚少"
       },
       {
-        "label": "D",
-        "content": "充斥 一知半解"
-      },
-      {
         "label": "B",
         "content": "分布 浑然不觉"
       },
       {
         "label": "C",
         "content": "活跃 束手无策"
+      },
+      {
+        "label": "D",
+        "content": "充斥 一知半解"
       }
     ],
     "answer": "A",
@@ -503,16 +503,16 @@
         "content": "创新 吸引 挑战"
       },
       {
-        "label": "D",
-        "content": "升级 融合 重塑"
-      },
-      {
         "label": "B",
         "content": "更迭 聚集 延伸"
       },
       {
         "label": "C",
         "content": "涌现 引导 丰富"
+      },
+      {
+        "label": "D",
+        "content": "升级 融合 重塑"
       }
     ],
     "answer": "B",
@@ -538,12 +538,12 @@
         "content": "照搬 自立门户 屈指可数"
       },
       {
-        "label": "C",
-        "content": "沿袭 独当一面 差强人意"
-      },
-      {
         "label": "B",
         "content": "保持 另起炉灶 凤毛麟角"
+      },
+      {
+        "label": "C",
+        "content": "沿袭 独当一面 差强人意"
       },
       {
         "label": "D",
@@ -573,12 +573,12 @@
         "content": "轻重倒置 渲染 青睐有加"
       },
       {
-        "label": "C",
-        "content": "缘木求鱼 聚焦 趋之若鹜"
-      },
-      {
         "label": "B",
         "content": "南辕北辙 夸大 津津乐道"
+      },
+      {
+        "label": "C",
+        "content": "缘木求鱼 聚焦 趋之若鹜"
       },
       {
         "label": "D",
@@ -608,12 +608,12 @@
         "content": "特质 优胜劣汰 突破"
       },
       {
-        "label": "C",
-        "content": "机能 胜者为王 迷惑"
-      },
-      {
         "label": "B",
         "content": "性状 适者生存 躲避"
+      },
+      {
+        "label": "C",
+        "content": "机能 胜者为王 迷惑"
       },
       {
         "label": "D",
@@ -643,12 +643,12 @@
         "content": "攻其不备 颠覆 指向标"
       },
       {
-        "label": "C",
-        "content": "知己知彼 适应 磨刀石"
-      },
-      {
         "label": "B",
         "content": "以逸待劳 引领 助推器"
+      },
+      {
+        "label": "C",
+        "content": "知己知彼 适应 磨刀石"
       },
       {
         "label": "D",
@@ -678,12 +678,12 @@
         "content": "方向 受制 大开眼界"
       },
       {
-        "label": "C",
-        "content": "境界 局限 身临其境"
-      },
-      {
         "label": "B",
         "content": "视角 拘泥 流连忘返"
+      },
+      {
+        "label": "C",
+        "content": "境界 局限 身临其境"
       },
       {
         "label": "D",
@@ -713,12 +713,12 @@
         "content": "法者，天下之准绳也"
       },
       {
-        "label": "C",
-        "content": "立善防恶谓之礼，禁非立是谓之法"
-      },
-      {
         "label": "B",
         "content": "国皆有法，而无使法必行之法"
+      },
+      {
+        "label": "C",
+        "content": "立善防恶谓之礼，禁非立是谓之法"
       },
       {
         "label": "D",
@@ -783,12 +783,12 @@
         "content": "文艺是铸造灵魂的工程"
       },
       {
-        "label": "C",
-        "content": "文艺是时代前进的号角"
-      },
-      {
         "label": "B",
         "content": "文化是民族生存和发展的重要力量"
+      },
+      {
+        "label": "C",
+        "content": "文艺是时代前进的号角"
       },
       {
         "label": "D",
@@ -818,12 +818,12 @@
         "content": "良法善治的实现需要道德“保驾护航”"
       },
       {
-        "label": "C",
-        "content": "法律和道德发挥作用的机制不同"
-      },
-      {
         "label": "B",
         "content": "道德规范是现代法治精神的重要来源"
+      },
+      {
+        "label": "C",
+        "content": "法律和道德发挥作用的机制不同"
       },
       {
         "label": "D",
@@ -888,12 +888,12 @@
         "content": "虚拟空间因素对侦察情报工作的影响"
       },
       {
-        "label": "C",
-        "content": "无人化侦察装备升级引发的连锁反应"
-      },
-      {
         "label": "B",
         "content": "新形势下驱散传统“战争迷雾”的关键"
+      },
+      {
+        "label": "C",
+        "content": "无人化侦察装备升级引发的连锁反应"
       },
       {
         "label": "D",
@@ -923,12 +923,12 @@
         "content": "监察御史选用资历的演化"
       },
       {
-        "label": "C",
-        "content": "都察院的设置及监察御史品秩的演化"
-      },
-      {
         "label": "B",
         "content": "监察成效对明代政治走向的影响"
+      },
+      {
+        "label": "C",
+        "content": "都察院的设置及监察御史品秩的演化"
       },
       {
         "label": "D",
@@ -958,12 +958,12 @@
         "content": "对发生原因的主流解释"
       },
       {
-        "label": "C",
-        "content": "事件发生前的地球面貌"
-      },
-      {
         "label": "B",
         "content": "对地球生态系统的影响"
+      },
+      {
+        "label": "C",
+        "content": "事件发生前的地球面貌"
       },
       {
         "label": "D",
@@ -993,12 +993,12 @@
         "content": "①⑥③②④⑤"
       },
       {
-        "label": "C",
-        "content": "④③②⑤⑥①"
-      },
-      {
         "label": "B",
         "content": "⑥②④③①⑤"
+      },
+      {
+        "label": "C",
+        "content": "④③②⑤⑥①"
       },
       {
         "label": "D",
@@ -1028,12 +1028,12 @@
         "content": "④②⑤①③⑥"
       },
       {
-        "label": "C",
-        "content": "③⑥④⑤②①"
-      },
-      {
         "label": "B",
         "content": "④⑤①②⑥③"
+      },
+      {
+        "label": "C",
+        "content": "③⑥④⑤②①"
       },
       {
         "label": "D",
@@ -1063,12 +1063,12 @@
         "content": "①⑤⑥③②④"
       },
       {
-        "label": "C",
-        "content": "④②③⑥①⑤"
-      },
-      {
         "label": "B",
         "content": "②③④⑤⑥①"
+      },
+      {
+        "label": "C",
+        "content": "④②③⑥①⑤"
       },
       {
         "label": "D",
@@ -1098,12 +1098,12 @@
         "content": "城市“扩散效应”引发的连锁反应"
       },
       {
-        "label": "C",
-        "content": "人才“下沉”出现的具体原因"
-      },
-      {
         "label": "B",
         "content": "一线城市避免人才流出的举措"
+      },
+      {
+        "label": "C",
+        "content": "人才“下沉”出现的具体原因"
       },
       {
         "label": "D",
@@ -1133,12 +1133,12 @@
         "content": "对福厦高铁贯通的重要意义"
       },
       {
-        "label": "C",
-        "content": "索鞍定位的难点及解决措施"
-      },
-      {
         "label": "B",
         "content": "围堰施工中面临的复杂环境"
+      },
+      {
+        "label": "C",
+        "content": "索鞍定位的难点及解决措施"
       },
       {
         "label": "D",
@@ -1168,12 +1168,12 @@
         "content": "我国民事立法中对习惯要素的重视与考量"
       },
       {
-        "label": "C",
-        "content": "我国民事立法发展与演进的一般规律"
-      },
-      {
         "label": "B",
         "content": "习惯要素在我国《民法典》中的具体体现"
+      },
+      {
+        "label": "C",
+        "content": "我国民事立法发展与演进的一般规律"
       },
       {
         "label": "D",
@@ -1203,12 +1203,12 @@
         "content": "制作流程"
       },
       {
-        "label": "C",
-        "content": "基本功能"
-      },
-      {
         "label": "B",
         "content": "出现时间"
+      },
+      {
+        "label": "C",
+        "content": "基本功能"
       },
       {
         "label": "D",
@@ -1238,12 +1238,12 @@
         "content": "科学预见，敢于乘敌之隙"
       },
       {
-        "label": "C",
-        "content": "主动作为，工于造敌之隙"
-      },
-      {
         "label": "B",
         "content": "沉着冷静，精于辨敌之隙"
+      },
+      {
+        "label": "C",
+        "content": "主动作为，工于造敌之隙"
       },
       {
         "label": "D",
@@ -1273,12 +1273,12 @@
         "content": "农民在合作社中积极性不高的原因"
       },
       {
-        "label": "C",
-        "content": "专业合作社在整合资源要素中的作用"
-      },
-      {
         "label": "B",
         "content": "当前巩固脱贫攻坚成果的主要途径"
+      },
+      {
+        "label": "C",
+        "content": "专业合作社在整合资源要素中的作用"
       },
       {
         "label": "D",
@@ -1308,12 +1308,12 @@
         "content": "深海鱼竟是“软骨头”"
       },
       {
-        "label": "C",
-        "content": "深海压力，无法承受之痛"
-      },
-      {
         "label": "B",
         "content": "精通以柔克刚的深海鱼"
+      },
+      {
+        "label": "C",
+        "content": "深海压力，无法承受之痛"
       },
       {
         "label": "D",
@@ -1343,12 +1343,12 @@
         "content": "不同物种的重复 DNA 序列有何差异"
       },
       {
-        "label": "C",
-        "content": "重复 DNA 序列如何影响生物基因表达"
-      },
-      {
         "label": "B",
         "content": "DNA 序列在重复的过程中遵循哪些规律"
+      },
+      {
+        "label": "C",
+        "content": "重复 DNA 序列如何影响生物基因表达"
       },
       {
         "label": "D",
@@ -1378,12 +1378,12 @@
         "content": "新药物能够减缓阿尔兹海默症的发展"
       },
       {
-        "label": "C",
-        "content": "阿尔兹海默症抑制了 CMA 的发生"
-      },
-      {
         "label": "B",
         "content": "新药物的功效是通过提高 CMA 效率来实现的"
+      },
+      {
+        "label": "C",
+        "content": "阿尔兹海默症抑制了 CMA 的发生"
       },
       {
         "label": "D",

@@ -9,6 +9,10 @@
     "content": "1.4，2.8，8.4，33.6，168，（ ）",
     "options": [
       {
+        "label": "A",
+        "content": "1008"
+      },
+      {
         "label": "B",
         "content": "504"
       },
@@ -19,10 +23,6 @@
       {
         "label": "D",
         "content": "21"
-      },
-      {
-        "label": "A",
-        "content": "1008"
       }
     ],
     "answer": "A",
