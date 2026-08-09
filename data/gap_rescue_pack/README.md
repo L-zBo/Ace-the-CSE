@@ -19,6 +19,11 @@
 - `snapshots/`：补缺后的审计快照。
 - `sources/`：本轮补缺使用的来源副本、文本抽取和来源说明。
   - `sources/unresolved_xingce_2026-06-17.md`：继续核查剩余 50 题后的未补原因和证据链。
+  - `sources/unresolved_xingce_2026-06-19.md`：申论补齐后对剩余 50 题的跟进核查。
+  - `sources/unresolved_xingce_2026-08-08.md`：2026-08-08 复查新公开源的结果（仍无新源，50 题不变）。
+  - `sources/deep_probe_xingce_2026-08-09.md`：跨卷同源分析 + 一手全卷取证。证伪「按题号倒推」路线，
+    更正事业编 2022 C 类第 050 题的错误认定，判定吉林 2024 共 13 题结构性无解。
+  - `sources/institution_2022c_fullpaper_2026-08-09/`：事业编 2022 C 类一手全卷（贵州兴文 docx）与厚职网 2022 快照。
   - `sources/*_xingguang.pdf` / `sources/*_xingguang.txt`：星光公考公开 PDF 及抽取文本，用于证明北京、吉林、甘肃、内蒙古的目标题号仍是占位。
   - `sources/shenlun_material_normalization_2026-06-18.md`：申论材料字段规范化说明与 PDF 回填前的 140 条缺口来源。
   - `sources/shenlun_material_pdf_rescue_2026-06-18.md`：本轮从本地 PDF 回源补齐 140 条申论 `material` 的方法、结果和迁移说明。

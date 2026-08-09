@@ -1,0 +1,560 @@
+[
+ {
+  "json": "src/data/xingce/panduan/institution_2020_c.json",
+  "examKey": "institution_2020_c",
+  "png": "q061.png",
+  "id": "institution-xingce-panduan-2020-c-061",
+  "key": "左图为17个同样大小的白色实心正方体和10个同样",
+  "content": "左图为 17 个同样大小的白色实心正方体和 10 个同样大小的灰色实心正方体堆叠而成的大正方体，将其从 任一面剖开，以下哪个不可能是该正方体",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2020_c.json",
+  "examKey": "institution_2020_c",
+  "png": "q063.png",
+  "id": "institution-xingce-panduan-2020-c-063",
+  "key": "左边给定的是纸盒外表面的展开图，右边哪一项能由它",
+  "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2020_c.json",
+  "examKey": "institution_2020_c",
+  "png": "q064.png",
+  "id": "institution-xingce-panduan-2020-c-064",
+  "key": "左边给定的是纸盒外表面的展开图，右边哪一项能由它",
+  "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2022_a.json",
+  "examKey": "institution_2022_a",
+  "png": "q055.png",
+  "id": "institution-xingce-panduan-2022-a-055",
+  "key": "以下为纸盒的外表面展开图，问哪一个折叠成的纸盒和",
+  "content": "以下为纸盒的外表面展开图，问哪一个折叠成的纸盒和其他三个不一样？",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/shuliang/institution_2022_a.json",
+  "examKey": "institution_2022_a",
+  "png": "q055.png",
+  "id": "institution-xingce-shuliang-2022-a-055",
+  "key": "以下为4个纸盒的外表面展开图，问哪一个折成的纸盒",
+  "content": "以下为 4 个纸盒的外表面展开图，问哪一个折成的纸盒与其他三个不一样？（ ）",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2022_c.json",
+  "examKey": "institution_2022_c",
+  "png": "q065.png",
+  "id": "institution-xingce-panduan-2022-c-065",
+  "key": "用12个相同的白色正方体和3个相同的黑色正方体搭",
+  "content": "用 12 个相同的白色正方体和 3 个相同的黑色正方体搭建成一个多面体，其左视图和主视图如下图所示。 问以下哪个选项可能是其正确的俯视图？",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2024_a.json",
+  "examKey": "institution_2024_a",
+  "png": "q055.png",
+  "id": "institution-xingce-panduan-2024-a-055",
+  "key": "以下为四个纸盒的外表面展开图，问哪一个折成的纸盒",
+  "content": "以下为四个纸盒的外表面展开图，问哪一个折成的纸盒与其他三个不同？（ ）",
+  "pdf": "material/【事业编】事业单位联考历年真题/A类/职测/2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2024_c.json",
+  "examKey": "institution_2024_c",
+  "png": "q064.png",
+  "id": "institution-xingce-panduan-2024-c-064",
+  "key": "左边给定的是纸盒外表面的展开图，右边哪一项能由它",
+  "content": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？（ ）",
+  "pdf": "material/【事业编】事业单位联考历年真题/C类/职测/2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/institution_2024_c.json",
+  "examKey": "institution_2024_c",
+  "png": "q065.png",
+  "id": "institution-xingce-panduan-2024-c-065",
+  "key": "以下为2个正方体纸盒的外表面展开图，下列哪项不可",
+  "content": "以下为 2 个正方体纸盒的外表面展开图，下列哪项不可能是将这两个纸盒粘接在一起形成的长方体？ （ ）",
+  "pdf": "material/【事业编】事业单位联考历年真题/C类/职测/2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/national_2017_fushengjia.json",
+  "examKey": "national_2017_fushengjia",
+  "png": "q081.png",
+  "id": "national-xingce-panduan-2017-fushengjia-081",
+  "key": "左边给定的是正方体的外表面展开图，下面哪一项能由",
+  "content": "左边给定的是正方体的外表面展开图，下面哪一项能由它折叠而成？ - 9 -",
+  "pdf": "material/【国考】2000-2025真题pdf/2000-2025国考行测PDF/行测-真题/2017年国家公务员考试《行测》真题卷（副省级）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/national_2018_fushengjia.json",
+  "examKey": "national_2018_fushengjia",
+  "png": "q085.png",
+  "id": "national-xingce-panduan-2018-fushengjia-085",
+  "key": "把下面的六个图形分为两类，使每一类图形都有各自的",
+  "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
+  "pdf": "material/【事业编】事业单位联考历年真题/A类/职测/2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/national_2019_dishi.json",
+  "examKey": "national_2019_dishi",
+  "png": "q075.png",
+  "id": "national-xingce-panduan-2019-dishi-075",
+  "key": "左边给定的是正方体的外表面展开图，下面哪一项能由",
+  "content": "左边给定的是正方体的外表面展开图，下面哪一项能由它折叠而成？ - 8 -",
+  "pdf": "material/【国考】2000-2025真题pdf/2000-2025国考行测PDF/行测-真题/2019年国家公务员考试行测真题（地市级）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/national_2020_dishi.json",
+  "examKey": "national_2020_dishi",
+  "png": "q074.png",
+  "id": "national-xingce-panduan-2020-dishi-074",
+  "key": "下图为给定的多面体及其外表面展开图，问字母A、B",
+  "content": "下图为给定的多面体及其外表面展开图，问字母 A、B、C、D 和数字 1、2、3、4 代表的棱的对应关系为：",
+  "pdf": "material/【国考】2000-2025真题pdf/2000-2025国考行测PDF/行测-真题/2020年国家公务员考试《行测》真题（地市级）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_anhui_2020.json",
+  "examKey": "provincial_anhui_2020",
+  "png": "q081.png",
+  "id": "provincial-anhui-xingce-panduan-2020-081",
+  "key": "从所给的四个选项中，选择最合适的一个填入问号处，",
+  "content": "从所给的四个选项中，选择最合适 的一个填入问号处，使之呈现一定的规律性： - 10 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【01】安徽公务员考试真题pdf版/安徽公务员考试真题——行测06-25/题目/2020年0822安徽公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_chongqing_2020.json",
+  "examKey": "provincial_chongqing_2020",
+  "png": "q075.png",
+  "id": "provincial-chongqing-xingce-panduan-2020-075",
+  "key": "正方体被切除部分后的造型如下图所示，其被切去部分",
+  "content": "正方体被切除部分后的造型如下图所示，其被切去部分的造型是：",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2020年0822重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_chongqing_2020.json",
+  "examKey": "provincial_chongqing_2020",
+  "png": "q107.png",
+  "id": "provincial-chongqing-xingce-ziliao-2020-107",
+  "key": "能够正确描述2017年A市间接经济价值年值中三个",
+  "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是：",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2020年0822重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_chongqing_2021.json",
+  "examKey": "provincial_chongqing_2021",
+  "png": "q075.png",
+  "id": "provincial-chongqing-xingce-panduan-2021-075",
+  "key": "从所给四个选项中，选出能与给定的①、②、③、④零",
+  "content": "从所给四个选项中，选出能与给定的①、②、③、④零件共同构成如下图所示的 9×2 方块组合的一项： - 11 - ",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2021年0327重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_chongqing_2021.json",
+  "examKey": "provincial_chongqing_2021",
+  "png": "q077.png",
+  "id": "provincial-chongqing-xingce-panduan-2021-077",
+  "key": "下图右侧四个选项中，哪一个不是左侧零件的立面？",
+  "content": "下图右侧四个选项中，哪一个不是左侧零件的立面？",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2021年0327重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/shuliang/provincial_chongqing_2021.json",
+  "examKey": "provincial_chongqing_2021",
+  "png": "q025.png",
+  "id": "provincial-chongqing-xingce-shuliang-2021-025",
+  "key": "某商场为了促销，进行掷飞镖游戏。每位参与人员投掷",
+  "content": "某商场为了促销，进行掷飞镖游戏。每位参与人员投掷一次，假设掷出的飞镖均扎在飞镖板上且位置完全随 机，扎中中间阴影部分区域（含边线）即为中奖。",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2021年0327重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/yanyu/provincial_chongqing_2021.json",
+  "examKey": "provincial_chongqing_2021",
+  "png": "q071.png",
+  "id": "provincial-chongqing-xingce-yanyu-2021-071",
+  "key": "从所给的四个选项中，选择最合适的一个填入问号处，",
+  "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： 第四部分 判断推理 - 10 - ",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2021年0327重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_chongqing_2021.json",
+  "examKey": "provincial_chongqing_2021",
+  "png": "q116.png",
+  "id": "provincial-chongqing-xingce-ziliao-2021-116",
+  "key": "若阴影部分代表大专及以上学历党员人数，那么下列哪",
+  "content": "若阴影部分代表大专及以上学历党员人数，那么下列哪幅图最能反映截至 2019 年 12 月 31 日大专及以上学 历党员占党员总数的比例？",
+  "pdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2021年0327重庆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_fujian_2022.json",
+  "examKey": "provincial_fujian_2022",
+  "png": "q049.png",
+  "id": "provincial-fujian-xingce-changshi-2022-049",
+  "key": "23",
+  "content": "23",
+  "pdf": "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/答案及解析/2016年0423福建公务员考试《行测》真题参考答案及解析_20221101_092459.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_fujian_2022.json",
+  "examKey": "provincial_fujian_2022",
+  "png": "q053.png",
+  "id": "provincial-fujian-xingce-changshi-2022-053",
+  "key": "35",
+  "content": "35",
+  "pdf": "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/答案及解析/2016年0423福建公务员考试《行测》真题参考答案及解析_20221101_092459.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_fujian_2022.json",
+  "examKey": "provincial_fujian_2022",
+  "png": "q057.png",
+  "id": "provincial-fujian-xingce-changshi-2022-057",
+  "key": "6910911183",
+  "content": "69 1091 1183",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q064.png",
+  "id": "provincial-guangdong-xingce-changshi-2020-064",
+  "key": "下列选项中，能由所给的图形组成的是（）。",
+  "content": "下列选项中，能由所给的图形组成的是（ ）。",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年广东选调生和急需紧缺专业公务员招录笔试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q065.png",
+  "id": "provincial-guangdong-xingce-changshi-2020-065",
+  "key": "下图是由两个相同的三棱锥组合而成的物体。下列选项",
+  "content": "下图是由两个相同的三棱锥组合而成的物体。下列选项中，不可能从该物体的切面观察到的图形是。",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年广东选调生和急需紧缺专业公务员招录笔试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q066.png",
+  "id": "provincial-guangdong-xingce-changshi-2020-066",
+  "key": "下列选项中，与所给的立体图形不同的是（）。",
+  "content": "下列选项中，与所给的立体图形不同的是（ ）。",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年广东选调生和急需紧缺专业公务员招录笔试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q067.png",
+  "id": "provincial-guangdong-xingce-changshi-2020-067",
+  "key": "以下选项均是由四个三角形和三个正方形组成，无法折",
+  "content": "以下选项均是由四个三角形和三个正方形组成，无法折叠成左图所示立体图形的是（ ）。 - 12 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年广东选调生和急需紧缺专业公务员招录笔试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q069.png",
+  "id": "provincial-guangdong-xingce-changshi-2020-069",
+  "key": "以下两个图形是从正面和斜45°观察某物体所得的图",
+  "content": "以下两个图形是从正面和斜 45°观察某物体所得的图形，则选项中最符合这一物体俯视图的是（ ）。",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年广东选调生和急需紧缺专业公务员招录笔试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q070.png",
+  "id": "provincial-guangdong-xingce-changshi-2020-070",
+  "key": "下列4张纸条中，沿折痕能够折出如图所示图形的是（",
+  "content": "下列 4 张纸条中，沿折痕能够折出如图所示图形的是（ ）。 - 13 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年广东选调生和急需紧缺专业公务员招录笔试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2020.json",
+  "examKey": "provincial_guangdong_2020",
+  "png": "q075.png",
+  "id": "provincial-guangdong-xingce-panduan-2020-075",
+  "key": "一般而言，在北半球地转偏向力会使风向右偏离其原始",
+  "content": "一般而言，在北半球地转偏向力会使风向右偏离其原始的路线。图中显示的是位于北半球的甲地的等压线 分布情况，则甲地的风向最可能是（ ）。 - 1",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2020年0809广东公务员考试《行测》真题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2021.json",
+  "examKey": "provincial_guangdong_2021",
+  "png": "q051.png",
+  "id": "provincial-guangdong-xingce-panduan-2021-051",
+  "key": "如图所示是一个圆台，则下列选项不可能属于该圆台视",
+  "content": "如图所示是一个圆台，则下列选项不可能属于该圆台视图的是：",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2021年0314广东公务员考试《行测》真题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2021.json",
+  "examKey": "provincial_guangdong_2021",
+  "png": "q053.png",
+  "id": "provincial-guangdong-xingce-panduan-2021-053",
+  "key": "下列选项中，能够折成如图所示立方体的是（）。",
+  "content": "下列选项中，能够折成如图所示立方体的是（ ）。 - 6 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2021年0314广东公务员考试《行测》真题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2021.json",
+  "examKey": "provincial_guangdong_2021",
+  "png": "q074.png",
+  "id": "provincial-guangdong-xingce-panduan-2021-074",
+  "key": "如图所示，高尔夫在力的作用下从水平地面的M点飞到",
+  "content": "如图所示，高尔夫在力的作用下从水平地面的 M 点飞到 N 点。忽略高尔夫在飞行过程中的空气阻力，下列选 项能正确表示高尔夫从 M 点到达 N",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2021年0314广东公务员考试《行测》真题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2021.json",
+  "examKey": "provincial_guangdong_2021",
+  "png": "q084.png",
+  "id": "provincial-guangdong-xingce-panduan-2021-084",
+  "key": "如图所示的电路中，当电路中的开关闭合时，电路中的",
+  "content": "如图所示的电路中，当电路中的开关闭合时，电路中的小灯泡都能正常发光的是（ ）。",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2021年0314广东公务员考试《行测》真题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/shuliang/provincial_guangdong_2021.json",
+  "examKey": "provincial_guangdong_2021",
+  "png": "q046.png",
+  "id": "provincial-guangdong-xingce-shuliang-2021-046",
+  "key": "下列选项中最符合所给图形规律的是：第四部分判断推",
+  "content": "下列选项中最符合所给图形规律的是： 第四部分 判断推理 47、下列选项中最符合所给图形图形规律的是： 48、下列选项中最符合所给图形规律的是",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2022.json",
+  "examKey": "provincial_guangdong_2022",
+  "png": "q049.png",
+  "id": "provincial-guangdong-xingce-panduan-2022-049",
+  "key": "如图所给的3个立方体为同一立方体，若不考虑立方体",
+  "content": "如图所给的 3 个立方体为同一立方体，若不考虑立方体表面数字的大小、方向，下列选项中，最有可能是 该立方体的是： 第 6 页 共 21 页",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2022年广东公务员考试行测试题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2022.json",
+  "examKey": "provincial_guangdong_2022",
+  "png": "q050.png",
+  "id": "provincial-guangdong-xingce-panduan-2022-050",
+  "key": "如图是某立方体的平面展开图，则该立方体最可能是：",
+  "content": "如图是某立方体的平面展开图，则该立方体最可能是：",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2022年广东公务员考试行测试题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_guangdong_2022.json",
+  "examKey": "provincial_guangdong_2022",
+  "png": "q043.png",
+  "id": "provincial-guangdong-xingce-panduan-2022-043",
+  "key": "如图是某立方体的平面展开图，则该立方体最可能是：",
+  "content": "如图是某立方体的平面展开图，则该立方体最可能是：",
+  "pdf": "material/【省考】2000-2025真题pdf/【05】广东公务员考试真题pdf版/广东公务员考试真题——行测04-25/题目/2022年广东公务员考试行测试题（乡镇）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_hebei_2020.json",
+  "examKey": "provincial_hebei_2020",
+  "png": "q078.png",
+  "id": "provincial-hebei-xingce-panduan-2020-078",
+  "key": "从所给的四个选项中，选择最合适的一个填入问号处，",
+  "content": "从所给的四个选项中，选择最合适 的一个填入问号处，使之呈现一定的规律性： - 10 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/题目/2020年0822河北公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_jiangsu_2020.json",
+  "examKey": "provincial_jiangsu_2020",
+  "png": "q078.png",
+  "id": "provincial-jiangsu-xingce-panduan-2020-078",
+  "key": "请从所给的四个选项中，选出最恰当的一项填入问号处",
+  "content": "请从所给的四个选项中，选出最恰当的一项填入问号处，使之呈现一定的规律性。 - 7 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【15】江苏公务员考试真题pdf版/江苏公务员考试真题——行测08-25/行测题目/2020年江苏公务员考试《行测》真题（A类）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_jiangsu_2020.json",
+  "examKey": "provincial_jiangsu_2020",
+  "png": "q083.png",
+  "id": "provincial-jiangsu-xingce-panduan-2020-083",
+  "key": "下面四个图形中，只有一个是由上边的四个图形拼合（",
+  "content": "下面四个图形中，只有一个是由上边的四个图形拼合（只能通过上、下、左、右平移）而成的，请把它 找出来。 - 8 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【15】江苏公务员考试真题pdf版/江苏公务员考试真题——行测08-25/行测题目/2020年江苏公务员考试《行测》真题（A类）.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_jiangxi_2020.json",
+  "examKey": "provincial_jiangxi_2020",
+  "png": "q112.png",
+  "id": "provincial-jiangxi-xingce-ziliao-2020-112",
+  "key": "能够正确描述2017年A市间接经济价值年值中三个",
+  "content": "能够正确描述 2017 年 A 市间接经济价值年值中三个指标占比的统计图是： - 15 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2020年0822江西公务员考试《行测》真题（乡镇).pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_neimenggu_2020.json",
+  "examKey": "provincial_neimenggu_2020",
+  "png": "q073.png",
+  "id": "provincial-neimenggu-xingce-panduan-2020-073",
+  "key": "把下面的六个图形分为两类，使每一类图形都有各自的",
+  "content": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：",
+  "pdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2020年0822内蒙古公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_shandong_2020.json",
+  "examKey": "provincial_shandong_2020",
+  "png": "q037.png",
+  "id": "provincial-shandong-xingce-ziliao-2020-037",
+  "key": "9%。",
+  "content": "9%。",
+  "pdf": "material/【省考】2000-2025真题pdf/【21】山东公务员考试真题pdf版/山东公务员考试真题——行测08-25PDF版/题目/2020年0719山东公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_shandong_2020.json",
+  "examKey": "provincial_shandong_2020",
+  "png": "q007.png",
+  "id": "provincial-shandong-xingce-ziliao-2020-007",
+  "key": "4%。",
+  "content": "4%。",
+  "pdf": "material/【省考】2000-2025真题pdf/【21】山东公务员考试真题pdf版/山东公务员考试真题——行测08-25PDF版/题目/2020年0719山东公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shanghai_2020.json",
+  "examKey": "provincial_shanghai_2020",
+  "png": "q042.png",
+  "id": "provincial-shanghai-xingce-panduan-2020-042",
+  "key": "下图给定的平面图折叠后的立体图形是。",
+  "content": "下图给定的平面图折叠后的立体图形是 。 - 7 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【24】上海公务员考试真题pdf版/上海公务员考试真题——行测06-25【缺24】/题目/2020年上海公务员考试《行测》真题（A类）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shanghai_2020.json",
+  "examKey": "provincial_shanghai_2020",
+  "png": "q047.png",
+  "id": "provincial-shanghai-xingce-panduan-2020-047",
+  "key": "下列选项中，与其他三个图形规律不同的是：",
+  "content": "下列选项中，与其他三个图形规律不同的是： - 8 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【24】上海公务员考试真题pdf版/上海公务员考试真题——行测06-25【缺24】/题目/2020年上海公务员考试《行测》真题（A类）.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "examKey": "provincial_shanghai_2021",
+  "png": "q047.png",
+  "id": "provincial-shanghai-xingce-changshi-2021-047",
+  "key": "下列选项中，符合所给图形的变化规律的是：",
+  "content": "下列选项中，符合所给图形的变化规律的是： - 8 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【24】上海公务员考试真题pdf版/上海公务员考试真题——行测06-25【缺24】/题目/2021年上海公务员考试《行测》真题（A卷）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shanghai_2021.json",
+  "examKey": "provincial_shanghai_2021",
+  "png": "q047.png",
+  "id": "provincial-shanghai-xingce-panduan-2021-047",
+  "key": "从所给的四个选项中，选择最合适的一个填入问号处，",
+  "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： - 8 -",
+  "pdf": "material/【省考】2000-2025真题pdf/【24】上海公务员考试真题pdf版/上海公务员考试真题——行测06-25【缺24】/题目/2021年上海公务员考试《行测》真题（A卷）.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shenzhen_2020.json",
+  "examKey": "provincial_shenzhen_2020",
+  "png": "q042.png",
+  "id": "provincial-shenzhen-xingce-panduan-2020-042",
+  "key": "从四个选项中选择一个替代问号，使两套图形的规律表",
+  "content": "从四个选项中选择一个替代问号，使两套图形的规律表现出最大的相似性，最适合的是（ ）。 - 3 - ",
+  "pdf": "material/【省考】2000-2025真题pdf/【33】深圳公务员考试真题pdf版/深圳公务员考试真题——行测（08~24年）/题目/2020年1213深圳公务员考试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shenzhen_2020.json",
+  "examKey": "provincial_shenzhen_2020",
+  "png": "q045.png",
+  "id": "provincial-shenzhen-xingce-panduan-2020-045",
+  "key": "从四个选项中选择一个替代问号，使之呈现出一定的规",
+  "content": "从四个选项中选择一个替代问号，使之呈现出一定的规律性（ ）。",
+  "pdf": "material/【省考】2000-2025真题pdf/【33】深圳公务员考试真题pdf版/深圳公务员考试真题——行测（08~24年）/题目/2020年1213深圳公务员考试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shenzhen_2020.json",
+  "examKey": "provincial_shenzhen_2020",
+  "png": "q024.png",
+  "id": "provincial-shenzhen-xingce-panduan-2020-024",
+  "key": "从四个选项中选择一个替代问号，使之呈现一定规律性",
+  "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。",
+  "pdf": "material/【省考】2000-2025真题pdf/【33】深圳公务员考试真题pdf版/深圳公务员考试真题——行测（08~24年）/题目/2020年1213深圳公务员考试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_shenzhen_2020.json",
+  "examKey": "provincial_shenzhen_2020",
+  "png": "q025.png",
+  "id": "provincial-shenzhen-xingce-panduan-2020-025",
+  "key": "从四个选项中选择一个替代问号，使之呈现一定规律性",
+  "content": "从四个选项中选择一个替代问号，使之呈现一定规律性，最适合的是（ ）。 - 3 - ",
+  "pdf": "material/【省考】2000-2025真题pdf/【33】深圳公务员考试真题pdf版/深圳公务员考试真题——行测（08~24年）/题目/2020年1213深圳公务员考试《思维能力测验》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_sichuan_2022.json",
+  "examKey": "provincial_sichuan_2022",
+  "png": "q031.png",
+  "id": "provincial-sichuan-xingce-ziliao-2022-031",
+  "key": "2%，农村为34.9%。",
+  "content": "2%，农村为 34.9%。",
+  "pdf": "material/【省考】2000-2025真题pdf/【25】四川公务员考试真题pdf版/四川公务员考试真题——行测（07-25）/题目/2022年四川下半年公务员录用考试《行测》 试题.pdf"
+ },
+ {
+  "json": "src/data/xingce/changshi/provincial_tianjin_2020.json",
+  "examKey": "provincial_tianjin_2020",
+  "png": "q066.png",
+  "id": "provincial-tianjin-xingce-changshi-2020-066",
+  "key": "从所给的四个选项中，选择最合适的一个填入问号处，",
+  "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： 第四部分 判断推理",
+  "pdf": "material/【省考】2000-2025真题pdf/【26】天津公务员考试真题pdf版/天津公务员考试真题——行测【09-25】/题目/2020年0725天津公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/ziliao/provincial_xinjiang_2020.json",
+  "examKey": "provincial_xinjiang_2020",
+  "png": "q011.png",
+  "id": "provincial-xinjiang-xingce-ziliao-2020-011",
+  "key": "8%。其中，制造业利润474.48亿元，同比增长",
+  "content": "8%。其中，制造业利润 474.48 亿元，同比增长 24.7%。规模以上工业企业主营业务收入利润率为 10.6%， 同比提高 0.3 个百",
+  "pdf": "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/题目/2020年1011新疆公务员考试《行测》真题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_xinjiang_2021.json",
+  "examKey": "provincial_xinjiang_2021",
+  "png": "q067.png",
+  "id": "provincial-xinjiang-xingce-panduan-2021-067",
+  "key": "从所给的四个选项中，选择最合适的一个填入问号处，",
+  "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性： A",
+  "pdf": "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/题目/2021年新疆公务员录用考试《行测》试题.pdf"
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_xinjiang_2021.json",
+  "examKey": "provincial_xinjiang_2021",
+  "png": "q068.png",
+  "id": "provincial-xinjiang-xingce-panduan-2021-068",
+  "key": "[图形推理题，参见图片]",
+  "content": "[图形推理题，参见图片]",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/shuliang/provincial_xinjiang_2021.json",
+  "examKey": "provincial_xinjiang_2021",
+  "png": "q051.png",
+  "id": "provincial-xinjiang-xingce-shuliang-2021-051",
+  "key": "4，5，9，4，3，7，0，7，（）7A、",
+  "content": "4，5，9，4，3，7，0，7，（ ） 7 A、",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/shuliang/provincial_xinjiang_2021.json",
+  "examKey": "provincial_xinjiang_2021",
+  "png": "q056.png",
+  "id": "provincial-xinjiang-xingce-shuliang-2021-056",
+  "key": "9/1857王和张现在是同小区的邻居，3年之后，",
+  "content": "9 / 18 57王和张现在是同小区的邻居，3年之后，王比张年龄的3倍少2岁，再过5年王比张年龄的两倍多五岁，再在此基础上过10年王的年龄是",
+  "pdf": null
+ },
+ {
+  "json": "src/data/xingce/panduan/provincial_zhejiang_2023.json",
+  "examKey": "provincial_zhejiang_2023",
+  "png": "q058.png",
+  "id": "provincial-zhejiang-xingce-panduan-2023-058",
+  "key": "13左图为给定的多面体，将其从任一面剖开，哪项不",
+  "content": "13 左图为给定的多面体，将其从任一面剖开，哪项不可能是该多面体的截面？",
+  "pdf": null
+ }
+]
