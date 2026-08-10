@@ -29,6 +29,9 @@ APPLY = '--apply' in sys.argv
 TMP = 'data/tmp_figs'
 DEST = 'public/img/questions'
 MIN_BYTES = 8000
+# 裁不出边界时会整页导出，实测 1.2 MB 一张、里面塞了 7 道题。
+# 正常单题裁剪 50~350 KB，超过这个上限一律不要。
+MAX_BYTES = 600000
 
 
 def main():
@@ -61,7 +64,7 @@ def main():
 
     print(f'\n提取成功 {extracted} 张')
 
-    copied = skipped_exist = skipped_small = 0
+    copied = skipped_exist = skipped_small = skipped_huge = 0
     for (exam, _j, _p), pngs in sorted(groups.items()):
         for png in sorted(pngs):
             src = os.path.join(TMP, exam, png)
@@ -71,15 +74,20 @@ def main():
             if os.path.exists(dst):
                 skipped_exist += 1
                 continue
-            if os.path.getsize(src) < MIN_BYTES:
+            size = os.path.getsize(src)
+            if size < MIN_BYTES:
                 skipped_small += 1
+                continue
+            if size > MAX_BYTES:
+                skipped_huge += 1
                 continue
             if APPLY:
                 os.makedirs(os.path.dirname(dst), exist_ok=True)
                 shutil.copy2(src, dst)
             copied += 1
 
-    print(f'可回填 {copied} 张；已存在跳过 {skipped_exist}；体积过小丢弃 {skipped_small}')
+    print(f'可回填 {copied} 张；已存在跳过 {skipped_exist}；'
+          f'体积过小丢弃 {skipped_small}；整页导出丢弃 {skipped_huge}')
     print('已回填。' if APPLY else '预览模式，未回填。加 --apply 落盘。')
 
 

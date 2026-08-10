@@ -87,7 +87,14 @@ def main():
         mm = re.match(r'(provincial|national|institution)_(\w+?)_?(\d{4})', exam)
         year = re.search(r'(\d{4})', exam).group(1)
         cands = [p for p in all_pdfs if year in p]
-        if mm and mm.group(1) == 'provincial':
+        if exam.startswith('institution'):
+            # 事业编真题 PDF 是「2018年-2024年…（C类）笔试真题.pdf」这种多年合集，
+            # 文件名里根本没有 2020，按年份过滤会把它整份筛掉（实测 6 道图因此
+            # 一直定位不到源）。改按类别目录挑。
+            cls = exam.rsplit('_', 1)[-1].upper()
+            cands = [p for p in all_pdfs
+                     if f'/{cls}类/' in p and '职测' in p and '解析' not in p]
+        elif mm and mm.group(1) == 'provincial':
             cn = PROVINCE_CN.get(mm.group(2))
             if cn:
                 cands = [p for p in cands if cn in p]

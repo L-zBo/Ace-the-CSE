@@ -299,20 +299,24 @@ def extract_figure_questions(
         page_rect = page.rect
 
         if verify_hint:
-            probe = "".join(ch for ch in (content_hints or {}).get(q_num, "")
-                            if not ch.isspace())[:12]
+            hint = (content_hints or {}).get(q_num, "")
+            probe = "".join(ch for ch in hint if not ch.isspace())[:14]
             clip = fitz.Rect(max(0, q_rect.x0 - 5), q_rect.y0,
                              page_rect.width,
-                             min(page_rect.height, q_rect.y1 + 120))
-            near = normalize_cjk(page.get_textbox(clip)).replace(" ", "")
-            hit = sum(1 for ch in probe if ch in near)
+                             min(page_rect.height, q_rect.y1 + 160))
+            near = normalize_cjk(page.get_textbox(clip))
+            near = "".join(ch for ch in near if not ch.isspace())
             if len(probe) < 8:
                 # 题干本身就残缺（山东 2020 有两道题干只剩 "4%。"），没法校验。
                 # 校验不了就不产出，别拿一整页别的题冒充题图。
                 print(f"  [WARN] Q{q_num} 题干过短（{probe!r}）无法校验，跳过")
                 continue
-            if hit < len(probe) * 0.6:
-                print(f"  [WARN] Q{q_num} 题干对不上（{hit}/{len(probe)}），疑似抽错卷，跳过")
+            # 必须是**连续子串**命中。早先按「probe 里有多少字符出现在附近文本中」
+            # 打分，图形题的题干高度模板化（「左图为N个同样大小的正方体堆叠而成
+            # 的多面体，将其从任一面剖开…」），换个数字照样能拿 90% 分，
+            # 实测把 16 个正方体那道题当成了 17 个正方体那道题。
+            if probe not in near:
+                print(f"  [WARN] Q{q_num} 题干与 PDF 对不上，疑似抽错题，跳过")
                 continue
 
         # 找下一题的位置（可能在本页或下一页）
