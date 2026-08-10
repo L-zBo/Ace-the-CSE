@@ -24,6 +24,7 @@ from PIL import Image
 # 裁剪兜底参数（pt 单位，1pt ≈ 1/72 英寸）
 MAX_CLIP_HEIGHT = 480          # 单题图形区域最大高度（避免吞掉下一题）
 MIN_CLIP_HEIGHT = 180          # 小于此高度视为"题干在页底、图在下页"，触发跨页合并
+MIN_NEXT_PAGE_HEIGHT = 60      # 下一页可用高度低于此值说明图其实全在本页，别跨页
 MIN_VALID_BYTES = 10000        # 小于此字节视为裁剪失败
 NUMBER_LEFT_MAX_X = 120        # 题号应在左侧；x 超过此值的视为正文误匹配
 OPT_BOTTOM_PAD = 18            # 选项锚点以下额外保留空间（避免切掉选项内容/字母）
@@ -240,6 +241,12 @@ def extract_question_image(
         if np_y1 - np_y0 > MAX_CLIP_HEIGHT:
             np_y1 = np_y0 + MAX_CLIP_HEIGHT
 
+        # 下一题的题号就顶在下一页页首 —— 下一页压根没给本题留空间，说明图其实
+        # 全在本页。此时若还去拼，会拿一条几 pt 高的空白把本页好好的裁剪替换掉，
+        # 产出 300 来字节的空图（上海 2021 第 47 题即此情形）。
+        if np_y1 - np_y0 < MIN_NEXT_PAGE_HEIGHT:
+            return img_bytes
+
         np_clip = fitz.Rect(20, np_y0, np_rect.width - 20, np_y1)
         np_bytes = _render_clip(next_page, np_clip, dpi)
 
@@ -261,10 +268,15 @@ def extract_figure_questions(
     prefix: str = "",
     dpi: int = 200,
     content_hints: dict[int, str] | None = None,
+    verify_hint: bool = False,
 ) -> dict[int, str]:
     """
     从 PDF 提取指定题号的图形推理题图片。
     返回 {题号: 图片路径}
+
+    verify_hint=True 时，裁剪区域内的文字必须与该题题干对得上才产出。
+    补缺场景下候选 PDF 是按年份/省份猜的，猜错卷时题号照样能匹配上，
+    结果抽出隔壁卷的整页 —— 这道校验专门拦这个。
     """
     doc = fitz.open(pdf_path)
     result = {}
@@ -285,6 +297,23 @@ def extract_figure_questions(
         page_idx, q_rect = q_positions[q_num][0]
         page = doc[page_idx]
         page_rect = page.rect
+
+        if verify_hint:
+            probe = "".join(ch for ch in (content_hints or {}).get(q_num, "")
+                            if not ch.isspace())[:12]
+            clip = fitz.Rect(max(0, q_rect.x0 - 5), q_rect.y0,
+                             page_rect.width,
+                             min(page_rect.height, q_rect.y1 + 120))
+            near = normalize_cjk(page.get_textbox(clip)).replace(" ", "")
+            hit = sum(1 for ch in probe if ch in near)
+            if len(probe) < 8:
+                # 题干本身就残缺（山东 2020 有两道题干只剩 "4%。"），没法校验。
+                # 校验不了就不产出，别拿一整页别的题冒充题图。
+                print(f"  [WARN] Q{q_num} 题干过短（{probe!r}）无法校验，跳过")
+                continue
+            if hit < len(probe) * 0.6:
+                print(f"  [WARN] Q{q_num} 题干对不上（{hit}/{len(probe)}），疑似抽错卷，跳过")
+                continue
 
         # 找下一题的位置（可能在本页或下一页）
         next_rect = None
@@ -379,8 +408,14 @@ def process_exam(
     output_base: str,
     exam_id: str,
     dpi: int = 300,
+    only: set[int] | None = None,
 ):
-    """处理一套试卷的图形推理题"""
+    """处理一套试卷的图形推理题。
+
+    only 给定题号集合时，跳过关键词判定直接按题号提取 —— 补缺场景下我们已经
+    确切知道缺哪几张图，而关键词表覆盖不全（例如「使之呈现一定规律性」少个
+    「的」字就匹配不上「呈现一定的规律」），会把要补的题直接漏掉。
+    """
     # 读取 JSON 找出需要提取图片的题号
     with open(json_path, "r", encoding="utf-8") as f:
         questions = json.load(f)
@@ -388,20 +423,26 @@ def process_exam(
     figure_nums = []
     hints: dict[int, str] = {}
     for q in questions:
-        is_figure = any(kw in q.get("content", "") for kw in [
-            "图形", "填入问号", "选择最合适的一个填入", "选择最合适的一项填入",
-            "直观图", "呈现一定的规律",
-            "多面体", "折叠",
-        ])
+        parts = q["id"].split("-")
+        try:
+            q_num = int(parts[-1])
+        except ValueError:
+            continue
 
-        if is_figure:
-            parts = q["id"].split("-")
-            try:
-                q_num = int(parts[-1])
-                figure_nums.append(q_num)
-                hints[q_num] = q.get("content", "")
-            except ValueError:
-                pass
+        if only is not None:
+            if q_num not in only:
+                continue
+        else:
+            is_figure = any(kw in q.get("content", "") for kw in [
+                "图形", "填入问号", "选择最合适的一个填入", "选择最合适的一项填入",
+                "直观图", "呈现一定的规律",
+                "多面体", "折叠",
+            ])
+            if not is_figure:
+                continue
+
+        figure_nums.append(q_num)
+        hints[q_num] = q.get("content", "")
 
     if not figure_nums:
         return 0
@@ -410,10 +451,13 @@ def process_exam(
     output_dir = os.path.join(output_base, exam_id)
     image_map = extract_figure_questions(
         pdf_path, figure_nums, output_dir, prefix="", dpi=dpi,
-        content_hints=hints,
+        content_hints=hints, verify_hint=only is not None,
     )
 
-    # 更新 JSON
+    # 更新 JSON。--only 是补缺场景，图提到临时目录、由调用方挑着回填，
+    # 这里不该顺手改题库（会把还没验收的路径写进去）。
+    if only is not None:
+        return len(image_map)
     public_prefix = f"/img/questions/{exam_id}/"
     updated = update_json_with_images(json_path, image_map, public_prefix)
 
@@ -427,10 +471,16 @@ def main():
     parser.add_argument("--exam-id", required=True, help="考试标识（如 national_2025_fushengjia）")
     parser.add_argument("--output-dir", default="public/img/questions", help="图片输出目录")
     parser.add_argument("--dpi", type=int, default=300, help="渲染分辨率")
+    parser.add_argument("--only", default="", help="只提取这些题号（逗号分隔），并跳过题库写回")
     args = parser.parse_args()
 
+    only = None
+    if args.only.strip():
+        only = {int(x) for x in args.only.replace('，', ',').split(',') if x.strip()}
+
     print(f"提取图形推理题图片: {args.exam_id}")
-    updated = process_exam(args.pdf, args.json, args.output_dir, args.exam_id, args.dpi)
+    updated = process_exam(args.pdf, args.json, args.output_dir, args.exam_id,
+                           args.dpi, only)
     print(f"  更新了 {updated} 道题")
 
 

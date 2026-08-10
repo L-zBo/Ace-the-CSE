@@ -46,7 +46,10 @@ def main():
         # 不能因为目录已存在就跳过 —— 那会漏掉后面几组。
         cmd = [sys.executable, 'scripts/extract_figures.py',
                '--pdf', pdf, '--json', jsonp, '--exam-id', exam,
-               '--output-dir', TMP]
+               '--output-dir', TMP,
+               # 直接按题号提取。靠关键词判定会漏：例如「使之呈现一定规律性」
+               # 少个「的」字就匹配不上关键词表里的「呈现一定的规律」。
+               '--only', ','.join(str(int(p[1:4])) for p in sorted(pngs))]
         try:
             subprocess.run(cmd, capture_output=True, timeout=900)
         except Exception as e:
