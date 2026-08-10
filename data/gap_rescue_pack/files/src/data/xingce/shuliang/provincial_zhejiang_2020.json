@@ -828,19 +828,19 @@
     "options": [
       {
         "label": "A",
-        "content": "11"
+        "content": "超过1000 种"
       },
       {
         "label": "B",
-        "content": "12"
+        "content": "501～1000 种之间"
       },
       {
         "label": "C",
-        "content": "13"
+        "content": "200～500 种之间"
       },
       {
         "label": "D",
-        "content": "14"
+        "content": "不到200 种"
       }
     ],
     "answer": "A",
@@ -867,19 +867,19 @@
     "options": [
       {
         "label": "A",
-        "content": "15"
+        "content": "不到1.25 倍"
       },
       {
         "label": "B",
-        "content": "18"
+        "content": "1.25～1.5 倍之间"
       },
       {
         "label": "C",
-        "content": "21"
+        "content": "1.5～1.75 倍之间"
       },
       {
         "label": "D",
-        "content": "24 11、某会务组租了 20 多辆车将 2220 参会者从酒店接到活动现场。大车每次能送 50 人，小车每次能送 36 人，所"
+        "content": "1.75 倍以上"
       }
     ],
     "answer": "B",

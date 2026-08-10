@@ -140,19 +140,19 @@
     "options": [
       {
         "label": "A",
-        "content": "2"
+        "content": "山东棉花总产量和单位面积产量均为全国第二"
       },
       {
         "label": "B",
-        "content": "4"
+        "content": "河南棉花播种面积和单位面积产量均高于湖南"
       },
       {
         "label": "C",
-        "content": "3"
+        "content": "全国播种面积比2013 年多126 千公顷"
       },
       {
         "label": "D",
-        "content": "5"
+        "content": "新疆棉花产量占全国总产量的一半以上"
       }
     ],
     "answer": "D",

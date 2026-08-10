@@ -1531,19 +1531,19 @@
     "options": [
       {
         "label": "A",
-        "content": "千变万化，千姿百态，千奇百怪"
+        "content": "千变万化 千姿百态 千奇百怪"
       },
       {
         "label": "B",
-        "content": "千姿百态，千奇百怪，千变万化"
+        "content": "千姿百态 千奇百怪 千变万化"
       },
       {
         "label": "C",
-        "content": "千变万化，千奇百怪，千姿百态"
+        "content": "千变万化 千奇百怪 千姿百态"
       },
       {
         "label": "D",
-        "content": "千姿百态，千变万化，千奇百怪"
+        "content": "千姿百态 千变万化 千奇百怪"
       }
     ],
     "answer": "A",
@@ -1601,19 +1601,19 @@
     "options": [
       {
         "label": "A",
-        "content": "却，延续，隔离"
+        "content": "却 延续 隔离"
       },
       {
         "label": "B",
-        "content": "确，沿续，剥离"
+        "content": "确 沿续 剥离"
       },
       {
         "label": "C",
-        "content": "确，延续，隔绝"
+        "content": "确 延续 隔绝"
       },
       {
         "label": "D",
-        "content": "却，沿续，分隔"
+        "content": "却 沿续 分隔"
       }
     ],
     "answer": "C",

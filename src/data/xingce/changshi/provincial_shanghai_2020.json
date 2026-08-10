@@ -85,15 +85,15 @@
       },
       {
         "label": "B",
-        "content": "“中国芯”"
+        "content": "“为了谁”"
       },
       {
         "label": "C",
-        "content": "“中华芯”"
+        "content": "“需要谁”"
       },
       {
         "label": "D",
-        "content": "“麒麟芯” 的问题，是立党为公、执政 为民的生动体现，是共产党人始终坚守的政治灵魂和精神支柱。 B、“为了谁” C、“需要谁”"
+        "content": "“依靠谁”"
       }
     ],
     "answer": "B",
@@ -571,19 +571,19 @@
     "options": [
       {
         "label": "A",
-        "content": "思想政治教育方法 B、参与管理方法 C、行为激励方法 D、行政责任方法"
+        "content": "思想政治教育方法"
       },
       {
         "label": "B",
-        "content": "政党监督 的是："
+        "content": "参与管理方法"
       },
       {
         "label": "C",
-        "content": "司法机关监督"
+        "content": "行为激励方法"
       },
       {
         "label": "D",
-        "content": "权力机关监督"
+        "content": "行政责任方法"
       }
     ],
     "answer": "B",
@@ -715,15 +715,15 @@
       },
       {
         "label": "B",
-        "content": "氧气"
+        "content": "又薄又长"
       },
       {
         "label": "C",
-        "content": "氮气 称为音障。要突破音障，对超音速飞机的结构有一定要求，下列机翼的设计有利于突破音障的是： B、又薄又长"
+        "content": "又厚又短"
       },
       {
         "label": "D",
-        "content": "氦气"
+        "content": "又厚又长"
       }
     ],
     "answer": "A",

@@ -976,19 +976,19 @@
     "options": [
       {
         "label": "A",
-        "content": "甲"
+        "content": "②⑤①⑥④③⑦"
       },
       {
         "label": "B",
-        "content": "乙"
+        "content": "③⑥②⑤①④⑦"
       },
       {
         "label": "C",
-        "content": "丙"
+        "content": "④②③⑤①⑥⑦"
       },
       {
         "label": "D",
-        "content": "丁"
+        "content": "⑤①④③⑥②⑦ 99. 本实验的结果不能被用来说明（ ）。"
       }
     ],
     "answer": "C",

@@ -395,19 +395,19 @@
     "options": [
       {
         "label": "A",
-        "content": "下调约170元/吨 B.下调约347元/吨 C.上调约170元/吨 D.上调约347元/吨"
+        "content": "下调约170元/吨"
       },
       {
         "label": "B",
-        "content": "3个"
+        "content": "下调约347元/吨"
       },
       {
         "label": "C",
-        "content": "4个"
+        "content": "上调约170元/吨"
       },
       {
         "label": "D",
-        "content": "5个 相比"
+        "content": "上调约347元/吨"
       }
     ],
     "answer": "C",

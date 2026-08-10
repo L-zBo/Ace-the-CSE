@@ -910,58 +910,6 @@
     "region": "ningxia"
   },
   {
-    "id": "provincial-ningxia-xingce-yanyu-2024-052",
-    "subject": "xingce",
-    "category": "yanyu",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2024,
-    "content": "发展现代设施农业是转变农业发展方式的重要内容。相较于传统农业，现代设施农业把保护环境、低碳节能作为发展的前提条件，按照循环发展理念，通过运用人工智能技术、物联网技术等，不仅可以节约大量水资源、土地资源和人力资源，还能有效降低污染物的排放量，减少资源浪费和环境污染。此外，现代设施农业使用高科技技术和先进设备，通过农业生产标准化、精准化、智能化，让土地利用率、劳动产出率更高，资源能耗、生产成本更低，产品更有品质、生态更加安全，助力农业增效和农民增收。关于现代设施农业，这段文字未提及：",
-    "options": [
-      {
-        "label": "A",
-        "content": "推动传统农业向现代农业转型升级"
-      },
-      {
-        "label": "B",
-        "content": "减少资源消耗将促进农民收入增长"
-      },
-      {
-        "label": "C",
-        "content": "运用人工智能实现农业无人化生产"
-      },
-      {
-        "label": "D",
-        "content": "有效降低环境污染有利于保护环境"
-      }
-    ],
-    "answer": "C",
-    "explanation": "【补缺-D18｜正确答案C】\n题干与选项依据补缺包来源 PDF《2024 年宁夏公务员录用考试 行政职业能力测验》p.16-17；答案与解析参考河南华图同题页面。A 项对应“发展现代设施农业是转变农业发展方式的重要内容”；B 项对应“节约大量水资源、土地资源和人力资源”“资源能耗、生产成本更低”“助力农业增效和农民增收”；D 项对应“有效降低污染物的排放量，减少资源浪费和环境污染”“生态更加安全”。C 项只提到运用人工智能技术，并未提及实现农业无人化生产，属于无中生有。故正确答案为 C。",
-    "difficulty": 2,
-    "knowledgePoints": [
-      "片段阅读"
-    ],
-    "sourceLabel": "2024年省考ningxia行测第52题",
-    "region": "ningxia",
-    "meta": {
-      "rescuedBy": "D18-ningxia-2024-source-pdf-and-web解析",
-      "rescuedAt": "2026-06-17",
-      "sourceFiles": [
-        "data/gap_rescue_pack/sources/ningxia_2024_xingce_source.pdf",
-        "data/gap_rescue_pack/sources/ningxia_2024_xingce_source.txt"
-      ],
-      "sourceUrls": [
-        "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
-        "https://ha.huatu.com/2024/0828/5942602.html"
-      ],
-      "previousMissingVerification": {
-        "verifiedMissingBy": "E3-vision-D17e",
-        "verifiedAt": "2026-05-24",
-        "note": "旧本地 PDF 显示 q052-q055 为占位缺题；本轮找到另一份完整题面 PDF，并以公开单题解析页面完成答案闭环。"
-      }
-    }
-  },
-  {
     "id": "provincial-ningxia-xingce-yanyu-2024-054",
     "subject": "xingce",
     "category": "yanyu",

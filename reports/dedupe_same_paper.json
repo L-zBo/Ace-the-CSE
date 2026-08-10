@@ -12,6 +12,35 @@
   "verdict": "unresolved"
  },
  {
+  "paper": "provincial_yunnan_2023",
+  "ids": [
+   "provincial-yunnan-xingce-changshi-2023-055",
+   "provincial-yunnan-xingce-changshi-2023-061"
+  ],
+  "answers": [
+   "B",
+   "A"
+  ],
+  "verdict": "unresolved"
+ },
+ {
+  "paper": "provincial_ningxia_2024",
+  "ids": [
+   "provincial-ningxia-xingce-yanyu-2024-042",
+   "provincial-ningxia-xingce-yanyu-2024-052"
+  ],
+  "answers": [
+   "D",
+   "C"
+  ],
+  "verdict": "resolved",
+  "official": "D",
+  "keep": "provincial-ningxia-xingce-yanyu-2024-042",
+  "evidence": {
+   "provincial-ningxia-xingce-yanyu-2024-042": "2024年宁夏公务员录用考试《行测》试题.pdf"
+  }
+ },
+ {
   "paper": "provincial_zhejiang_2023",
   "ids": [
    "provincial-zhejiang-xingce-yanyu-2023-001",

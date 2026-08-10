@@ -45,19 +45,19 @@
     "options": [
       {
         "label": "A",
-        "content": "平等"
+        "content": "平等 确认 远离"
       },
       {
         "label": "B",
-        "content": "宝贵"
+        "content": "宝贵 已知 免受"
       },
       {
         "label": "C",
-        "content": "仅有 确认 了解 远离 避免"
+        "content": "仅有 了解 避免"
       },
       {
         "label": "D",
-        "content": "珍稀 已知 可知 免受 免遭"
+        "content": "珍稀 可知 免遭"
       }
     ],
     "answer": "B",
@@ -80,19 +80,19 @@
     "options": [
       {
         "label": "A",
-        "content": "效果"
+        "content": "效果 唾弃"
       },
       {
         "label": "B",
-        "content": "结果"
+        "content": "结果 摒弃"
       },
       {
         "label": "C",
-        "content": "后果 唾弃 扬弃"
+        "content": "后果 扬弃"
       },
       {
         "label": "D",
-        "content": "恶果 摒弃 遗弃"
+        "content": "恶果 遗弃"
       }
     ],
     "answer": "B",
@@ -185,19 +185,19 @@
     "options": [
       {
         "label": "A",
-        "content": "步履维艰"
+        "content": "步履维艰 跻身"
       },
       {
         "label": "B",
-        "content": "艰苦奋斗"
+        "content": "艰苦奋斗 变身"
       },
       {
         "label": "C",
-        "content": "困难重重 跻身 侧身"
+        "content": "困难重重 侧身"
       },
       {
         "label": "D",
-        "content": "举步艰难 变身 置身"
+        "content": "举步艰难 置身"
       }
     ],
     "answer": "A",
@@ -395,19 +395,19 @@
     "options": [
       {
         "label": "A",
-        "content": "开放"
+        "content": "开放 喧闹 安居"
       },
       {
         "label": "B",
-        "content": "盛放"
+        "content": "盛放 喧哗 隐居"
       },
       {
         "label": "C",
-        "content": "绽放 喧闹 喧嚣 安居 栖息"
+        "content": "绽放 喧嚣 栖息"
       },
       {
         "label": "D",
-        "content": "怒放 喧哗 喧嚷 隐居 歇息"
+        "content": "怒放 喧嚷 歇息"
       }
     ],
     "answer": "C",
@@ -430,19 +430,19 @@
     "options": [
       {
         "label": "A",
-        "content": "不忘初心"
+        "content": "不忘初心 苦心孤诣 积极进取"
       },
       {
         "label": "B",
-        "content": "初心不改 开朗乐观"
+        "content": "初心不改 沉重打击 乐观向上"
       },
       {
         "label": "C",
-        "content": "牢记使命 苦心孤诣 困难挫折 积极进取"
+        "content": "牢记使命 困难挫折 开朗乐观"
       },
       {
         "label": "D",
-        "content": "使命担当 沉重打击 艰苦磨难 乐观向上 力争上游"
+        "content": "使命担当 艰苦磨难 力争上游"
       }
     ],
     "answer": "B",
