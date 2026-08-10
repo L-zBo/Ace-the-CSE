@@ -784,6 +784,26 @@
     "dup_same_paper_real": 190
    },
    "newFinding": "同卷重复题 190 道（把 questionImage 纳入签名后的净值，排除图形推理模板题的假阳性），集中在浙江2023(71)/浙江2022(42)/深圳2020(20)。部分重复对的 answer 还不一致。删题属破坏性变更，未擅自处理，留给人工决策。"
+  },
+  {
+   "batch": "2026-08-10c-dedupe-same-paper",
+   "kind": "destructive_dedupe",
+   "summary": "删除同卷重复题 207 道，并用官方 PDF 纠正保留份答案 48 道。成因是浙江/深圳/江西/青海/北京等省同年有 A/B/C 卷（或乡镇/县级/省级、行测1/行测2），入库时多套卷合并进一个 JSON，「卷」这一维丢了。",
+   "tools": [
+    "python scripts/dedupe_same_paper.py --apply"
+   ],
+   "evidenceChain": "组内 answer 全一致 → 纯去重（信息零损失）；answer 打架 → 对每一份单独双锚定「该份题号 N 在某套卷真题 PDF 里正好是这道题」，再取同卷解析 PDF 第 N 题结论，各份解出的官方答案必须彼此一致才采信。保留选项最干净的一份并写入官方答案。定不了卷或官方答案互相打架的一律不动。",
+   "scale": {
+    "before": 20741,
+    "after": 20511,
+    "removed": 230
+   },
+   "appliedDiff": "reports/dedupe_same_paper.json",
+   "unresolved": {
+    "dedupe_unresolved_groups": 4,
+    "audit_dup_same_paper_remaining": 23
+   },
+   "note": "审计脚本 audit_full.py 的重复题签名原来没算 questionImage，把图形推理模板题（题干全是「从所给四个选项中，选择最合适的一个填入问号处」）算成了重复，20 组假阳性，已修。剩余 23 组是另一类缺陷：题干与选项不配套（甘肃 2022 第 19 题题干讲算盘八卦、选项却是培训机构报名），待单独处理。"
   }
  ]
 }

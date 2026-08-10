@@ -1,0 +1,54 @@
+[
+ {
+  "paper": "provincial_hubei_2023",
+  "ids": [
+   "provincial-hubei-xingce-changshi-2023-071",
+   "provincial-hubei-xingce-changshi-2023-072"
+  ],
+  "answers": [
+   "B",
+   "C"
+  ],
+  "verdict": "unresolved"
+ },
+ {
+  "paper": "provincial_zhejiang_2023",
+  "ids": [
+   "provincial-zhejiang-xingce-yanyu-2023-001",
+   "provincial-zhejiang-xingce-yanyu-2023-051"
+  ],
+  "answers": [
+   "D",
+   "C"
+  ],
+  "verdict": "unresolved"
+ },
+ {
+  "paper": "provincial_zhejiang_2024",
+  "ids": [
+   "provincial-zhejiang-xingce-ziliao-2024-112",
+   "provincial-zhejiang-xingce-ziliao-2024-107",
+   "provincial-zhejiang-xingce-ziliao-2024-102"
+  ],
+  "answers": [
+   "C",
+   "C",
+   "D"
+  ],
+  "verdict": "unresolved"
+ },
+ {
+  "paper": "provincial_zhejiang_2024",
+  "ids": [
+   "provincial-zhejiang-xingce-ziliao-2024-113",
+   "provincial-zhejiang-xingce-ziliao-2024-108",
+   "provincial-zhejiang-xingce-ziliao-2024-103"
+  ],
+  "answers": [
+   "D",
+   "C",
+   "D"
+  ],
+  "verdict": "unresolved"
+ }
+]

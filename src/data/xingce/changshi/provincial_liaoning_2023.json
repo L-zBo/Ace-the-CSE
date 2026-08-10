@@ -2695,41 +2695,6 @@
     "questionImage": "/img/questions/provincial_liaoning_2023/q076.png"
   },
   {
-    "id": "provincial-liaoning-xingce-changshi-2023-077",
-    "subject": "xingce",
-    "category": "changshi",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2023,
-    "content": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
-    "options": [
-      {
-        "label": "A",
-        "content": "A"
-      },
-      {
-        "label": "B",
-        "content": "B 淘宝店铺【星火教育资源】【夺魁文化】"
-      },
-      {
-        "label": "C",
-        "content": "C"
-      },
-      {
-        "label": "D",
-        "content": "D"
-      }
-    ],
-    "answer": "B",
-    "explanation": "题\n正确答案:【B】\n解析\n图形元素组成相同，优先考虑位置规律。观察发现，题干中第一组图的三幅图依次顺时针旋\n\n转 ；第二组图也按此规律进行旋转，所以问号处图形应为该组第二幅图顺时针旋转 后\n\n所得，只有 B 项符合。\n故正确答案为 B。\n\n第",
-    "difficulty": 3,
-    "knowledgePoints": [
-      "综合常识"
-    ],
-    "sourceLabel": "2023年省考liaoning行测第77题",
-    "region": "liaoning"
-  },
-  {
     "id": "provincial-liaoning-xingce-changshi-2023-078",
     "subject": "xingce",
     "category": "changshi",

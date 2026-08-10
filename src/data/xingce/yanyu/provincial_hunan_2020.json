@@ -1,53 +1,5 @@
 [
   {
-    "id": "provincial-hunan-xingce-yanyu-2020-016",
-    "subject": "xingce",
-    "category": "yanyu",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2020,
-    "content": "繁花盛开的季节，蜜蜂在姹紫嫣红之间辛勤劳作，如果你仔细观察一只蜜蜂的活动就会发现，蜜蜂对柑橘和咖啡的花朵仿佛着了魔一般，而对其他植物的花朵________，这是为什么呢？填入划横线部分最恰当的一项是：",
-    "options": [
-      {
-        "label": "A",
-        "content": "旁若无人"
-      },
-      {
-        "label": "B",
-        "content": "素不相识"
-      },
-      {
-        "label": "C",
-        "content": "熟视无睹"
-      },
-      {
-        "label": "D",
-        "content": "置若罔闻"
-      }
-    ],
-    "answer": "C",
-    "explanation": "正确答案：C。\n\n解析：横线前有转折词“而”，所填词语应与“着了魔一般”构成反义对应，表达蜜蜂对其他植物的花朵虽然经常接触却视而不见。“熟视无睹”指经常看见却像没有看见一样，符合文意。A项“旁若无人”形容态度傲慢或自然镇静，不合语境；B项“素不相识”强调从来不认识，不能体现转折关系；D项“置若罔闻”侧重听觉上的不理睬，与“花朵”搭配不当。\n\n[由WebSearch救援-D16L6] 题面来源：sanlianbook《2020年湖南公务员考试行政职业能力测验》PDF；答案与解析来源：sanlianbook 答案解析 PDF、河南华图解析页。",
-    "difficulty": 2,
-    "knowledgePoints": [
-      "语句表达"
-    ],
-    "sourceLabel": "2020年省考hunan行测第16题",
-    "region": "hunan",
-    "meta": {
-      "rescuedBy": "E2-vision-OCR-D17e",
-      "rescuedAt": "2026-05-23T13:43:34+08:00",
-      "verifiedMissingBy": "E2-vision-D17e",
-      "verifiedAt": "2026-05-23",
-      "webRescuedBy": "WebSearch-D16L6",
-      "webRescuedAt": "2026-06-17T00:00:00+08:00",
-      "webRescueSources": [
-        "http://sanlianbook.com/public/uploads/files/20201208/21ce403914e217f3fdfbd78c4d924a0c.pdf",
-        "http://sanlianbook.com/public/uploads/files/20201208/60cd76e1ff43035d558565182bffa5e7.pdf",
-        "https://ah.huatu.com/2022/0630/2348457.html"
-      ]
-    }
-  },
-  {
     "id": "provincial-hunan-xingce-yanyu-2020-017",
     "subject": "xingce",
     "category": "yanyu",

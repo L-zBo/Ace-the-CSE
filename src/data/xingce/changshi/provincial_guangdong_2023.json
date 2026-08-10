@@ -3275,42 +3275,6 @@
     "region": "guangdong"
   },
   {
-    "id": "provincial-guangdong-xingce-changshi-2023-094",
-    "subject": "xingce",
-    "category": "changshi",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2023,
-    "content": "2021 年，以下分类科目财政科学技术支出同比增加值最多的是（",
-    "options": [
-      {
-        "label": "A",
-        "content": "基础研究"
-      },
-      {
-        "label": "B",
-        "content": "技术研究与开发"
-      },
-      {
-        "label": "C",
-        "content": "科技条件与服务"
-      },
-      {
-        "label": "D",
-        "content": "科技重大项目 ）。 ）。"
-      }
-    ],
-    "answer": "D",
-    "explanation": "题\n正确答案是：【D】\n根据题干“2021 年······同比增加值最多的是”，可判定本题为增长量比较问题。\n定位统计表2 可得2021 年和2020 年各分类科目财政科学技术支出情况。根据公式：增长\n量=现期量-基期量，则2021 年以下四类科目财政科学技术支出的同比增加值分别为：基础\n研究：124.75-116.01=8.74 亿元；技术研究与开发：184.08-233.79=-49.71 亿元；科技条件与\n服务：54.56-44.55=10.01 亿元；科技重大项目：71.21-58.20=13.01 亿元。比较可知，同比增\n加值最多的是科技重大项目。\n故正确答案为D。",
-    "difficulty": 3,
-    "knowledgePoints": [
-      "经济常识",
-      "科技常识"
-    ],
-    "sourceLabel": "2023年省考guangdong行测第94题",
-    "region": "guangdong"
-  },
-  {
     "id": "provincial-guangdong-xingce-changshi-2023-095",
     "subject": "xingce",
     "category": "changshi",

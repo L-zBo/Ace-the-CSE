@@ -103,10 +103,12 @@ for path in sorted(glob.glob('src/data/xingce/**/*.json', recursive=True)):
         if len(m) > 1:
             findings['exp_multi_conclusion'].append(f'{path}#{num} 解析含{len(m)}个答案结论')
 
-        # 重复题
+        # 重复题。签名必须带上 questionImage：图形推理的题干全是模板
+        # （「从所给四个选项中，选择最合适的一个填入问号处」），只比文字会把
+        # 一整套图形题都算成重复（实测 20 组假阳性），它们其实靠图区分。
         if not ph:
-            key = norm(q.get('content'))[:80]
-            if len(key) > 20:
+            key = (norm(q.get('content'))[:80], str(q.get('questionImage') or ''))
+            if len(key[0]) > 20:
                 seen_content[key].append(f'{path}#{num}')
 
 for key, locs in seen_content.items():

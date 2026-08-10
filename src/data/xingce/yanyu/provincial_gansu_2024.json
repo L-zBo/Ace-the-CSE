@@ -1155,59 +1155,6 @@
     "region": "gansu"
   },
   {
-    "id": "provincial-gansu-xingce-yanyu-2024-054",
-    "subject": "xingce",
-    "category": "yanyu",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2024,
-    "content": "“中华”一词始于胡汉的区分，却终于胡汉的融合。所以产生这样的结果，根本原因在于“中华”一词并不是一个狭义的“汉人”概念，而是一个较宽泛的文化概念，既不对胡族设限，胡族对其也无明显的抵触与排斥。特别是“中华”之“华”所具有的以“衣冠礼乐”来喻指文化的象征意义，给“中华”这一概念带来了极大的包容度。入唐以后，“中华”一词作为唐朝别称与中国名号被广泛使用的事实，清楚地告诉我们，“中华”概念的实质是“华夷融合”。从很大意义上说，这正是后来历史发展中被“中华”所称谓的人们共同体得以不断扩大的原因。根据这段文字，“中华”一词的特点是：",
-    "options": [
-      {
-        "label": "A",
-        "content": "文化性"
-      },
-      {
-        "label": "B",
-        "content": "历时性"
-      },
-      {
-        "label": "C",
-        "content": "模糊性"
-      },
-      {
-        "label": "D",
-        "content": "开放性"
-      }
-    ],
-    "answer": "D",
-    "explanation": "【补缺-D19｜正确答案D】\n甘肃 2024 言语第 54 题原本题干和选项均为占位缺失。补缺时以河南、宁夏 2024 公开卷中相邻同题链条互证：甘肃第 53、55 题与公开题源相邻题一致，宁夏 2024 第 43 题及本项目宁夏第 53 题为同一“中华”开放性题。星光公考同题解析给出选项顺序 A 文化性、B 历时性、C 模糊性、D 开放性，答案 D；金标尺同题选项顺序不同，但正确项仍为“开放性”。文段围绕“中华”概念宽泛、包容、华夷融合和共同体不断扩大展开，核心特点为开放性。故正确答案为 D。",
-    "difficulty": 2,
-    "knowledgePoints": [
-      "片段阅读"
-    ],
-    "sourceLabel": "2024年省考gansu行测第54题",
-    "region": "gansu",
-    "meta": {
-      "rescuedBy": "D19-gansu-2024-cross-province-web-source-chain",
-      "rescuedAt": "2026-06-17",
-      "sourceFiles": [
-        "data/gap_rescue_pack/sources/gansu_2024_yanyu_054_sources.md"
-      ],
-      "sourceUrls": [
-        "https://www.aipta.com/article/9340.html",
-        "https://www.aipta.com/article/9673.html",
-        "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48476.html",
-        "https://jbcgk.com/wp/search/detail?id=EaX9r1z7kr&type=question"
-      ],
-      "previousMissingVerification": {
-        "verifiedMissingBy": "E3-vision-D17e",
-        "verifiedAt": "2026-05-24",
-        "note": "旧本地甘肃卷第 054 题为题干/选项缺失占位；本轮通过跨省同题与公开解析闭环补回。"
-      }
-    }
-  },
-  {
     "id": "provincial-gansu-xingce-yanyu-2024-055",
     "subject": "xingce",
     "category": "yanyu",

@@ -1,40 +1,5 @@
 [
   {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-051",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "1.4，2.8，8.4，33.6，168，（ ）",
-    "options": [
-      {
-        "label": "A",
-        "content": "1008"
-      },
-      {
-        "label": "B",
-        "content": "504"
-      },
-      {
-        "label": "C",
-        "content": "336"
-      },
-      {
-        "label": "D",
-        "content": "21"
-      }
-    ],
-    "answer": "A",
-    "explanation": "数列相邻两项之间存在明显的倍数关系，优先考虑作商。后项除以前项可得：2，3，4，5，（ ），\n是连续自然数列，下一项为 6。故所求项=168×6=1008。\n故正确答案为 A。\n科学世界《数独背后的数学魅力》",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第51题",
-    "region": "zhejiang"
-  },
-  {
     "id": "provincial-zhejiang-xingce-shuliang-2022-052",
     "subject": "xingce",
     "category": "shuliang",
@@ -250,41 +215,6 @@
     "region": "zhejiang"
   },
   {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-058",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "某市举行庆典活动，将依次升空105架无人机，升空方式如下：每架无人机间距均相等，第一次升空n架，第二 次升空n-1架，以此类推，最终在夜空中组成一个近似等边三角形背景的灯光秀，那么第10次升空的无人机数 量是：",
-    "options": [
-      {
-        "label": "A",
-        "content": "3架"
-      },
-      {
-        "label": "B",
-        "content": "5架"
-      },
-      {
-        "label": "C",
-        "content": "8架"
-      },
-      {
-        "label": "D",
-        "content": "10架"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据题意可知，每次升空的无人机数量组成等差数列。又因为“组成一个近似等边三角形”，则第\n\n一次升空 n 架（ ）为底边，最后一次升空的无人机在三角形的顶点上，数量为 1 架（ ），且公\n\n差 d＝-1。根据等差数列求和公式：\n\n，可得\n\n，解得 n＝14。\n\n再根据等差数列通项公式：\n\n，则\n\n，故第 10\n\n次升空的无人机数量是 5 架。\n故正确答案为 B。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第58题",
-    "region": "zhejiang"
-  },
-  {
     "id": "provincial-zhejiang-xingce-shuliang-2022-059",
     "subject": "xingce",
     "category": "shuliang",
@@ -317,41 +247,6 @@
       "概率问题"
     ],
     "sourceLabel": "2022年省考zhejiang行测第59题",
-    "region": "zhejiang"
-  },
-  {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-060",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "某方舱医院配有1000张床位，现已接收新冠确诊患者200名，并按床护比（护士数与床位数的比值）0.6：1配齐 了护士人员。因疫情发展迅速，该医院又收治了700名患者，此时床护比下调为0.2：1，那么还需增加护士：",
-    "options": [
-      {
-        "label": "A",
-        "content": "80名"
-      },
-      {
-        "label": "B",
-        "content": "60名"
-      },
-      {
-        "label": "C",
-        "content": "40名"
-      },
-      {
-        "label": "D",
-        "content": "20名"
-      }
-    ],
-    "answer": "B",
-    "explanation": "2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n根据最初床护比为 0.6：1，可求出最初 200 名患者配备的护士人数为 200×0.6=120 名；又收治 700\n名患者后，患者总数变为 200+700=900 名，按照下调后床护比为 0.2：1 计算，共需护士 900×0.2=180\n名，所以需增加护士人数=180-120=60 名。\n故正确答案为 B。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第60题",
     "region": "zhejiang"
   },
   {
@@ -677,41 +572,6 @@
     "region": "zhejiang"
   },
   {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-070",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "2020年时，李某的年龄是自己工龄的4倍，且正好是张某年龄的 。到2024年时，张某的年龄正好是自己工龄的 2倍。已知张某参加工作时李某10岁，那么李某参加工作时的年龄是多少？",
-    "options": [
-      {
-        "label": "A",
-        "content": "18岁"
-      },
-      {
-        "label": "B",
-        "content": "21岁"
-      },
-      {
-        "label": "C",
-        "content": "24岁"
-      },
-      {
-        "label": "D",
-        "content": "四. 判断推理：本部分包括图形推理、定义判断、类比推理与逻辑判断四种类型的试题，在四个选项中选出一 个最恰当的答案。"
-      }
-    ],
-    "answer": "C",
-    "explanation": "设 2020 年时李某的工龄为 x 年，则李某的年龄为 4x 岁，张某的年龄为\n\n岁，则 2024 年张\n\n某的年龄为（6x+4）岁。根据“到 2024 年时，张某的年龄正好是自己工龄的 2 倍”，则 2024 年张\n\n某的工龄为\n岁，张某参加工作时的年龄为 6x+4-（3x+2）=（3x+2）岁，根\n据“年龄差不变”可得，张某参加工作时，两人的年龄差为 3x+2-10=3x-8，2020 年，两人年龄差为\n6x-4x=2x，即 3x-8=2x，解得 x=8。即李某参加工作时的年龄为 4x-x=3x=24 岁。\n故正确答案为 C。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第70题",
-    "region": "zhejiang"
-  },
-  {
     "id": "provincial-zhejiang-xingce-shuliang-2022-001",
     "subject": "xingce",
     "category": "shuliang",
@@ -927,76 +787,6 @@
     "questionImage": "/img/questions/provincial_zhejiang_2022/q006.png"
   },
   {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-007",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "某镇卫生院50多名医生被平均分配到13个基层诊所参与工作，其中男医生比女医生多4人。工作结束后，25％ 的男医生和一部分女医生继续到邻镇4个医疗点支援工作，这批人员中任意6人必有男医生，且保证必有一个医 疗点的女医生多于1人。那么该卫生院到邻镇支援工作的医生共有：",
-    "options": [
-      {
-        "label": "A",
-        "content": "12人"
-      },
-      {
-        "label": "B",
-        "content": "14人"
-      },
-      {
-        "label": "C",
-        "content": "16人"
-      },
-      {
-        "label": "D",
-        "content": "18人"
-      }
-    ],
-    "answer": "C",
-    "explanation": "本题考查经济常识。\n市场主体是经济的力量载体，保市场主体就是保社会生产力。\n①正确，2022 年 3 月 21 日，国务院总理李克强主持召开国务院常务会议，确定实施大规模增值税\n留抵退税的政策安排，为稳定宏观经济大盘提供强力支撑。\n②正确，2022 年 4 月 6 日，国务院总理李克强主持召开国务院常务会议，决定对特困行业实行阶段\n性缓缴养老保险费政策，加大失业保险支持稳岗和培训力度；部署适时运用货币政策工具，更加有\n效支持实体经济发展。\n③正确，为支持实体经济发展，促进综合融资成本稳中有降，中国人民银行决定于 2022 年 4 月 25\n日下调金融机构存款准备金率 0.25 个百分点（不含已执行 5%存款准备金率的金融机构），为加大\n对小微企业和“三农”的支持力度，对没有跨省经营的城商行和存款准备金率高于 5%的农商行，在\n下调存款准备金率 0.25 个百分点的基础上，再额外多降 0.25 个百分点。\n④错误，为贯彻落实《中共中央 国务院关于优化生育政策促进人口长期均衡发展的决定》，依据《中\n华人民共和国个人所得税法》有关规定，国务院决定，设立 3 岁以下婴幼儿照护个人所得税专项附\n加扣除。自 2022 年 1 月 1 日起，纳税人照护 3 岁以下婴幼儿子女的相关支出，在计算缴纳个人所得\n税前，按照每个婴幼儿每月 1000 元的标准定额扣除。该项扣除政策有利于减轻人民群众抚养子女负\n担，体现了国家对人民群众生育养育的鼓励和照顾。属于“保民生”的措施。\n⑤正确，2022 年 5 月 15 日，央行、银保监会联合发布《关于调整差别化住房信贷政策有关问题的\n通知》，对于贷款购买普通自住房的居民家庭，首套住房商业性个人住房贷款利率下限调整为不低\n于相应期限贷款市场报价利率（LPR）减 20 个基点，二套住房商业性个人住房贷款利率政策下限按\n现行规定执行。此举对稳定市场预期将起到积极作用，有利于进一步满足刚性和改善性住房需求， 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n促进房地产市场平稳健康发展。\n综上所述，属于“稳主体”对策的是①②③⑤，共 4 项。\n故正确答案为 C。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第7题",
-    "region": "zhejiang"
-  },
-  {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-008",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "某地采用传统销售模式，销售一批鸡蛋需要20天，销售一批桃子需要25天。为推动销售，当地开启县领导直播 带货模式，直播带货期间，鸡蛋的销售效率提高为原来的2倍，桃子销售效率为原来的3倍；其余销售时间依然 按照传统模式进行，结果两种产品同时销售完成。那么销售期间直播带货的天数为：",
-    "options": [
-      {
-        "label": "A",
-        "content": "3"
-      },
-      {
-        "label": "B",
-        "content": "5"
-      },
-      {
-        "label": "C",
-        "content": "8"
-      },
-      {
-        "label": "D",
-        "content": "10"
-      }
-    ],
-    "answer": "D",
-    "explanation": "本题考查政治常识。\n2022 年 4 月 29 日，中共中央总书记习近平就依法规范和引导我国资本健康发展进行第三十八次集\n体学习时发表重要讲话。\nA、B 两项正确，习近平总书记在讲话中指出：“要历史地、发展地、辩证地认识和把握我国社会存\n在的各类资本及其作用。在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的重要纽\n带，是促进社会生产力发展的重要力量，要发挥资本促进社会生产力发展的积极作用。同时，必须\n认识到，资本具有逐利本性，如不加以规范和约束，就会给经济社会发展带来不可估量的危害。”\nC 项正确，习近平总书记在讲话中指出：“要加强资本领域反腐败，保持反腐败高压态势，坚决打\n击以权力为依托的资本逐利行为，着力查处资本无序扩张、平台垄断等背后的腐败行为。”\nD 项错误，习近平总书记在讲话中指出：“要正确处理资本和利益分配问题。我国社会主义的国家\n性质决定了我们必须坚持按劳分配为主体、多种分配方式并存，在社会分配中体现人民至上。要注\n重经济发展的普惠性和初次分配的公平性，既注重保障资本参与社会分配获得增殖和发展，更注重\n维护按劳分配的主体地位，坚持发展为了人民、发展依靠人民、发展成果由人民共享，坚定不移走\n全体人民共同富裕的道路。”\n本题为选非题，故正确答案为 D。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "工程问题"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第8题",
-    "region": "zhejiang"
-  },
-  {
     "id": "provincial-zhejiang-xingce-shuliang-2022-009",
     "subject": "xingce",
     "category": "shuliang",
@@ -1029,41 +819,6 @@
       "数学运算"
     ],
     "sourceLabel": "2022年省考zhejiang行测第9题",
-    "region": "zhejiang"
-  },
-  {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-010",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "为了加强环境治理和生态修复，某市派出4位专家（甲、乙、丙、丁）前往某山区3个勘探点进行环境检测，要 求每个勘探点至少安排一名专家。那么甲、乙两名专家去了不同勘探点的概率是：",
-    "options": [
-      {
-        "label": "A",
-        "content": "3/4"
-      },
-      {
-        "label": "B",
-        "content": "1/6"
-      },
-      {
-        "label": "C",
-        "content": "5/6"
-      },
-      {
-        "label": "D",
-        "content": "1/4"
-      }
-    ],
-    "answer": "C",
-    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版) 第 4 题，题干匹配度 100%]",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "概率问题"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第10题",
     "region": "zhejiang"
   },
   {
@@ -1101,41 +856,6 @@
     "sourceLabel": "2022年省考zhejiang行测第11题",
     "region": "zhejiang",
     "questionImage": "/img/questions/provincial_zhejiang_2022/q011.png"
-  },
-  {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-012",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "滑雪和滑冰是冬奥会的两大项赛事，其中高山滑雪、自由式滑雪、单板滑雪、跳台滑雪、越野滑雪和北欧两项 是滑雪大项中的6个分项，短道速滑、速度滑冰和花样滑冰是滑冰大项中的3个分项。小林打算去现场观看比 赛，共选择6个项目，并且每个大项不少于1个，若所有项目比赛时间均不交叉，则不同的观赛方式有：",
-    "options": [
-      {
-        "label": "A",
-        "content": "83种"
-      },
-      {
-        "label": "B",
-        "content": "84种"
-      },
-      {
-        "label": "C",
-        "content": "92种"
-      },
-      {
-        "label": "D",
-        "content": "102种"
-      }
-    ],
-    "answer": "A",
-    "explanation": "本题考查科技常识。\nA 项错误，上旋球的运动方向和自转方向一样，球向前运动，由于空气具有一定的粘滞性，当乒乓\n球向前转动时，空气就与球的上表面产生摩擦，就会导致球体上表面相对空气的旋转速度小，下表\n面相对空气的旋转速度大。\nB 项正确，由于球体的上表面相对空气的旋转速度小，下表面相对空气的旋转速度大，根据伯努利\n原理，流速大的地方压强小，所以下表面受的气体压强小，故上旋球下坠速度比正常快。\nC 项正确，当乒乓球转速越大，上表面的空气流动速度和下表面的空气流动速度差就越大，上下表 2022 浙江省公务员《行测》（A 类）解析\n\n 智库，获取\n\n面压强差就越大，所以下坠得就越快。\nD 项正确，上旋球的运动方向和自转方向一样，球向前运动，上表面是向前转动，下表面是向后转\n动。\n本题为选非题，故正确答案为 A。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "行程问题"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第12题",
-    "region": "zhejiang"
   },
   {
     "id": "provincial-zhejiang-xingce-shuliang-2022-013",
@@ -1208,111 +928,6 @@
     "region": "zhejiang"
   },
   {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-015",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "清朝乾隆皇帝曾出上联“客上天然居，居然天上客”，纪昀以“人过大佛寺，寺佛大过人”对出下联，这副对 联既可以顺读也可以逆读，被称作回文联。数学中也有类似回文数，如212、37473等，则三位数中回文数是奇 数的概率为：",
-    "options": [
-      {
-        "label": "A",
-        "content": "2/9"
-      },
-      {
-        "label": "B",
-        "content": "1/3"
-      },
-      {
-        "label": "C",
-        "content": "4/9"
-      },
-      {
-        "label": "D",
-        "content": "5/9"
-      }
-    ],
-    "answer": "D",
-    "explanation": "【解析】\n[Source: 浙江 2022 行测 A 卷 PDF (展鸿教育汇总版) 第 5 题，题干匹配度 92%]",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "概率问题"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第15题",
-    "region": "zhejiang"
-  },
-  {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-016",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "某智能停车场泊车的泊车位置由电脑随机派位生成。现有两排车位，每排4个，有4辆不同的车需要泊车。泊车 要求至少有一车与其它车不同排，且甲乙两车在同一排。则电脑可生成几种派位方式？",
-    "options": [
-      {
-        "label": "A",
-        "content": "672"
-      },
-      {
-        "label": "B",
-        "content": "480"
-      },
-      {
-        "label": "C",
-        "content": "384"
-      },
-      {
-        "label": "D",
-        "content": "288"
-      }
-    ],
-    "answer": "B",
-    "explanation": "本题考查人文常识。\nA 项正确，诗句出自唐代李贺的《李凭箜篌引》，意思是乐声清脆动听得就像昆仑山美玉击碎，凤\n凰鸣叫；时而使芙蓉在露水中饮泣，时而使香兰开怀欢笑。描写的乐器是箜篌。\nB 项错误，诗句出自唐代李颀的《听董大弹胡笳声兼寄语弄房给事》，意思是幽咽琴声忽转轻松潇\n洒，像大风吹林如大雨落瓦。“胡笳声”，也就是《胡笳弄》，是按胡笳声调翻为琴曲。描写的乐\n器为古琴。\nC 项正确，诗句出自唐代白居易的《夜筝》，意思是忽然，弦声凝绝、柔指轻顿，那片刻的宁静又\n诉说出千万重的深情。描写的乐器是古筝。\nD 项正确，诗句出自唐代白居易的《琵琶行》，意思是一会儿像黄鹂在花下啼鸣婉转流利，一会儿\n又像泉水在冰下流动滞涩不畅。好像冰泉冷涩琵琶声开始凝结，凝结而不通畅声音渐渐地中断。描\n写的乐器是琵琶。\n本题为选非题，故正确答案为 B。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第16题",
-    "region": "zhejiang"
-  },
-  {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-017",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "某单位四个党史宣讲小组各有若干组员，现增加2人并重新分配，使得四个小组人数相等。此时与原先相比， 第一小组人数增加10人，第二小组人数减少1人，第三小组人数增加一倍，第四小组人数减半。则原先人数最 多的小组与人数最少的小组之间相差：",
-    "options": [
-      {
-        "label": "A",
-        "content": "15人"
-      },
-      {
-        "label": "B",
-        "content": "21人"
-      },
-      {
-        "label": "C",
-        "content": "24人"
-      },
-      {
-        "label": "D",
-        "content": "32人"
-      }
-    ],
-    "answer": "B",
-    "explanation": "本题考查法律常识。\nA 项错误，根据《中华人民共和国消防法》第十六条第一款第三项规定：“机关、团体、企业、事\n业等单位应当履行下列消防安全职责：（三）对建筑消防设施每年至少进行一次全面检测，确保完\n好有效，检测记录应当完整准确，存档备查。”题中，每季度至少进行一次全面检测说法错误。\nB 项正确，根据《生产安全事故报告和调查处理条例》第十九条规定：“特别重大事故由国务院或\n者国务院授权有关部门组织事故调查组进行调查。重大事故、较大事故、一般事故分别由事故发生\n地省级人民政府、设区的市级人民政府、县级人民政府负责调查。省级人民政府、设区的市级人民\n政府、县级人民政府可以直接组织事故调查组进行调查，也可以授权或者委托有关部门组织事故调\n查组进行调查。未造成人员伤亡的一般事故，县级人民政府也可以委托事故发生单位组织事故调查\n组进行调查。”\nC 项错误，根据《危险化学品安全管理条例》第六条第二项规定：“对危险化学品的生产、储存、\n使用、经营、运输实施安全监督管理的有关部门（以下统称负有危险化学品安全监督管理职责的部\n门），依照下列规定履行职责：（二）公安机关负责危险化学品的公共安全管理，核发剧毒化学品\n购买许可证、剧毒化学品道路运输通行证，并负责危险化学品运输车辆的道路交通安全管理。”\nD 项错误，根据《生产安全事故报告和调查处理条例》第十一条规定：“安全生产监督管理部门和\n负有安全生产监督管理职责的有关部门逐级上报事故情况，每级上报的时间不得超过 2 小时。”\n故正确答案为 B。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第17题",
-    "region": "zhejiang"
-  },
-  {
     "id": "provincial-zhejiang-xingce-shuliang-2022-018",
     "subject": "xingce",
     "category": "shuliang",
@@ -1353,41 +968,6 @@
     "questionImage": "/img/questions/provincial_zhejiang_2022/q018.png"
   },
   {
-    "id": "provincial-zhejiang-xingce-shuliang-2022-019",
-    "subject": "xingce",
-    "category": "shuliang",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2022,
-    "content": "用一个长为20厘米、宽为2厘米、高为1.5厘米的长方体木料，制作一串半径最大的木珠子，不考虑制作过程中 的损耗，则这串珠子的数量最多为：",
-    "options": [
-      {
-        "label": "A",
-        "content": "10个"
-      },
-      {
-        "label": "B",
-        "content": "13个"
-      },
-      {
-        "label": "C",
-        "content": "14个"
-      },
-      {
-        "label": "D",
-        "content": "20个"
-      }
-    ],
-    "answer": "A",
-    "explanation": "本题考查科技常识。\nA 项正确，玻璃杯是指玻璃制成的杯子，通常由原材料高硼硅玻璃，经过 600 多度的高温烧制而成，\n其物理强度高，与普遍玻璃相比，无毒副作用，其机械性能，热稳定性能，抗水、抗碱、抗酸等性\n能大大提高。用玻璃杯喝冰橙汁对身体基本不会产生危害。\nB 项错误，不锈钢材质对于酸性饮料不具有防腐蚀特性，碳酸饮料属于酸性物质，长时间使用不锈\n钢杯装碳酸饮料不仅会破坏腐蚀水杯内壁，更会对人体造成伤害，因此不宜用不锈钢杯喝碳酸饮料。\nC 项错误，塑料杯通常由聚苯乙烯（PS）制作而成，用其装酸（如柳橙汁）、碱性物质后，会分解\n出致癌物质，不耐高温；其温度达到六十几度的时候会变形，产生对人体有害的物质，因此不宜能\n用塑料杯盛放刚烧开的水。\nD 项错误，彩釉陶瓷杯上的图案是用颜料涂画而来，内壁涂有彩釉，当装入开水、酸性、碱性饮料\n时，铅等有害重金属元素会溶解在饮料中，对健康不利。因此不宜用内壁涂有彩釉的陶瓷杯喝热姜\n汁。\n故正确答案为 A。",
-    "difficulty": 4,
-    "knowledgePoints": [
-      "数学运算"
-    ],
-    "sourceLabel": "2022年省考zhejiang行测第19题",
-    "region": "zhejiang"
-  },
-  {
     "id": "provincial-zhejiang-xingce-shuliang-2022-020",
     "subject": "xingce",
     "category": "shuliang",
@@ -1413,7 +993,7 @@
         "content": "27岁 二. 常识判断：根据题目要求，在四个选项中选出一个最恰当的答案。"
       }
     ],
-    "answer": "B",
+    "answer": "C",
     "explanation": "本题考查人文常识。\nA 项错误，中国传统绘画中，有许多描写传说故事的题材。比如历代画家都有不少《雪夜访戴图》，\n如元代张渥、明代周文靖等。这些画作是以东晋王徽之雪夜乘舟访问朋友戴逵的故事为创作背景。\n《雪夜访戴》出自《世说新语·任诞》，讲述王徽之雪夜访戴安道，未至而返，显示了他作为名士\n的潇洒自适。\nB 项正确，本生故事画描绘释迦牟尼生前的各种善行，宣传“因果报应”“苦修行善”的生动故事。\n也是敦煌早期壁画中广泛流行的题材，如“萨捶那舍身饲虎”“尸毗王割肉救鸽”“九色鹿舍己救\n人”等。\nC 项错误，吴道子（约 680 年—759 年），又名道玄，唐代著名画家，后世尊称其为画圣。擅佛道、\n神鬼、人物、山水、鸟兽、草木、楼阁等，尤精于佛道、人物，长于壁画创作。顾恺之，东晋杰出\n画家、绘画理论家，精于人像、佛像、禽兽、山水等，世人称之为三绝：画绝、文绝和痴绝。\nD 项错误，《潇湘竹石图》为北宋苏轼创作的绢本水墨画。采用长卷式构图，展现湖南省零陵县西\n潇、湘二水合流处，遥接洞庭巨浸的苍茫景色。整幅画作以潇湘二水的交汇点为中心，远山烟水，\n风雨瘦竹，近水与云水、蹲石与远山、筱竹与烟树产生强烈对比，让人在窄窄画幅内如阅千里江山。\n故正确答案为 B。",
     "difficulty": 4,
     "knowledgePoints": [

@@ -962,61 +962,6 @@
     }
   },
   {
-    "id": "provincial-ningxia-xingce-yanyu-2024-053",
-    "subject": "xingce",
-    "category": "yanyu",
-    "type": "single_choice",
-    "source": "provincial",
-    "year": 2024,
-    "content": "“中华”一词始于胡汉的区分，却终于胡汉的融合。所以产生这样的结果，根本原因在于“中华”一词并不是一个狭义的“汉人”概念，而是一个较宽泛的文化概念，既不对胡族设限，胡族对其也无明显的抵触与排斥。特别是“中华”之“华”所具有的以“衣冠礼乐”来喻指文化的象征意义，给“中华”这一概念带来了极大的包容度。入唐以后，“中华”一词作为唐朝别称与中国名号被广泛使用的事实，清楚地告诉我们，“中华”概念的实质是“华夷融合”。从很大意义上说，这正是后来历史发展中被“中华”所称谓的人们共同体得以不断扩大的原因。根据这段文字，“中华”一词的特点是：",
-    "options": [
-      {
-        "label": "A",
-        "content": "文化性"
-      },
-      {
-        "label": "B",
-        "content": "历时性"
-      },
-      {
-        "label": "C",
-        "content": "模糊性"
-      },
-      {
-        "label": "D",
-        "content": "开放性"
-      }
-    ],
-    "answer": "D",
-    "explanation": "【补缺-D18｜正确答案D】\n题干与选项依据补缺包来源 PDF《2024 年宁夏公务员录用考试 行政职业能力测验》p.16-17；答案与解析参考星光公考同题页面，并可由《“中华”一词的产生及开放性特点》原文互证。文段围绕“中华”概念的宽泛、包容、华夷融合以及所称谓共同体不断扩大展开，核心特点是开放性。A 项“文化性”只能对应局部信息；B 项“历时性”、C 项“模糊性”均不能概括广泛、包容的特点。故正确答案为 D。",
-    "difficulty": 2,
-    "knowledgePoints": [
-      "片段阅读"
-    ],
-    "sourceLabel": "2024年省考ningxia行测第53题",
-    "region": "ningxia",
-    "meta": {
-      "rescuedBy": "D18-ningxia-2024-source-pdf-and-web解析",
-      "rescuedAt": "2026-06-17",
-      "sourceFiles": [
-        "data/gap_rescue_pack/sources/ningxia_2024_xingce_source.pdf",
-        "data/gap_rescue_pack/sources/ningxia_2024_xingce_source.txt",
-        "data/gap_rescue_pack/sources/ningxia_2024_xingce_lasee.docx",
-        "data/gap_rescue_pack/sources/ningxia_2024_xingce_lasee.txt"
-      ],
-      "sourceUrls": [
-        "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
-        "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48476.html",
-        "https://www.aisixiang.com/data/138466.html"
-      ],
-      "previousMissingVerification": {
-        "verifiedMissingBy": "E3-vision-D17e",
-        "verifiedAt": "2026-05-24",
-        "note": "旧本地 PDF 显示 q052-q055 为占位缺题；本轮找到另一份完整题面 PDF，并以公开单题解析页面完成答案闭环。"
-      }
-    }
-  },
-  {
     "id": "provincial-ningxia-xingce-yanyu-2024-054",
     "subject": "xingce",
     "category": "yanyu",
