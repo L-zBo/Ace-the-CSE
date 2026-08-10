@@ -126,7 +126,15 @@ def main():
                         flags |= FLAG_HAS_IMAGE
 
                     ans = q.get('answer')
-                    ans_s = ans if isinstance(ans, str) and len(ans) <= MAX_ANSWER_LEN else ''
+                    if isinstance(ans, list):
+                        # 多选题答案存成 ['A','B']，索引层原样保留，
+                        # 前端统计走 Array.isArray 分支才不会判错。
+                        ans_s = ([str(x) for x in ans]
+                                 if all(isinstance(x, str) and len(x) <= MAX_ANSWER_LEN
+                                        for x in ans)
+                                 else '')
+                    else:
+                        ans_s = ans if isinstance(ans, str) and len(ans) <= MAX_ANSWER_LEN else ''
 
                     row = [q.get('id', ''), paper_idx, ans_s, flags]
                     # 极少数题目的 category 与所在目录不一致，单独带覆盖值，

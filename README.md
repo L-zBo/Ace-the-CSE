@@ -80,7 +80,8 @@ Next.js 前端渲染
 历史背景：2026-08-09 之前 `questionLoader.ts` 是自动生成的 2847 行文件，用 1381 条静态
 import 把整个题库塞进 bundle，导致单个客户端 chunk **62.5 MB**、dev 进程常驻 6 GB。
 旧文件在 git 历史里（`git show <本次提交>^:src/lib/questionLoader.ts`），
-旧生成器 `scripts/generate_loader.py` 已废弃并加了运行拦截。
+旧生成器已废弃并移出 `scripts/`（现存 `archive/generate_loader.deprecated-2026-08-09.py`，
+带运行拦截）。**改题库后要跑的是 `scripts/generate_question_index.py`。**
 
 ### 题库规模（2026-08-08 实测）
 

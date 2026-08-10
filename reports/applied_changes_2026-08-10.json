@@ -1,0 +1,3974 @@
+[
+ {
+  "file": "src/data/xingce/changshi/institution_2020_c.json",
+  "id": "institution-xingce-changshi-2020-c-001",
+  "field": "answer",
+  "old": "D",
+  "new": "B"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_b.json",
+  "id": "institution-xingce-changshi-2021-b-013",
+  "field": "option.D",
+  "old": "D．朱某因民间借贷纠纷向人民法院起诉，人民法院可以以欠款人不常居住在法院所在辖区为由，不接收诉 状",
+  "new": "朱某因民间借贷纠纷向人民法院起诉，人民法院可以以欠款人不常居住在法院所在辖区为由，不接收诉 状"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_b.json",
+  "id": "institution-xingce-changshi-2021-b-020",
+  "field": "option.B",
+  "old": "属于甲级传染病     B.D．鼠疫不会通过皮肤接触传播",
+  "new": "属于甲级传染病"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_c.json",
+  "id": "institution-xingce-changshi-2021-c-012",
+  "field": "option.B",
+  "old": "下雪后的夜晚要比平常亮是由于雪的反射率高 B.D．拍照时出现“红眼”是由于虹膜上的血管将光线反射回了镜头",
+  "new": "下雪后的夜晚要比平常亮是由于雪的反射率高"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_c.json",
+  "id": "institution-xingce-changshi-2021-c-012",
+  "field": "option.D",
+  "old": "填入横线处的词语最恰当的一项是： A．子虚乌有 C．一纸空文 B．荒诞不经 D．拾人牙慧",
+  "new": "拍照时出现“红眼”是由于虹膜上的血管将光线反射回了镜头 填入横线处的词语最恰当的一项是："
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_c.json",
+  "id": "institution-xingce-changshi-2021-c-026",
+  "field": "option.B",
+  "old": "B．普遍 领头羊",
+  "new": "普遍 领头羊"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_c.json",
+  "id": "institution-xingce-changshi-2021-c-026",
+  "field": "option.D",
+  "old": "D．拙劣 主旋律",
+  "new": "拙劣 主旋律"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_c.json",
+  "id": "institution-xingce-changshi-2021-c-041",
+  "field": "option.B",
+  "old": "B．③⑤④⑥①②",
+  "new": "③⑤④⑥①②"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_c.json",
+  "id": "institution-xingce-changshi-2021-c-041",
+  "field": "option.D",
+  "old": "D．⑤④③⑥②① 第三部分 数量关系 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "⑤④③⑥②① 第三部分 数量关系 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_e.json",
+  "id": "institution-xingce-changshi-2021-e-041",
+  "field": "option.B",
+  "old": "B．③⑤④⑥①②",
+  "new": "③⑤④⑥①②"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2021_e.json",
+  "id": "institution-xingce-changshi-2021-e-041",
+  "field": "option.D",
+  "old": "D．⑤④③⑥②① 第三部分 数量分析 本部分包括数学运算和资料分析两种类型，在四个选项中选出一个最恰当的答案。",
+  "new": "⑤④③⑥②① 第三部分 数量分析 本部分包括数学运算和资料分析两种类型，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_a.json",
+  "id": "institution-xingce-changshi-2022-a-020",
+  "field": "option.B",
+  "old": "8K 分辨率要求视频直播的传输环节必须有更大的带宽支持 B.D．卫星通信技术利用人造地球卫星作为中继站转发无线电波实现通信",
+  "new": "8K 分辨率要求视频直播的传输环节必须有更大的带宽支持"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_b.json",
+  "id": "institution-xingce-changshi-2022-b-020",
+  "field": "option.B",
+  "old": "榆荚可以食用和药用 B.D．杨树以昆虫为媒介传授花粉",
+  "new": "榆荚可以食用和药用"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_b.json",
+  "id": "institution-xingce-changshi-2022-b-020",
+  "field": "option.D",
+  "old": "填入划横线部分最恰当的一项是（ ）。 A．势在必行 持久战 C．显而易见 主人翁 B．无可厚非 一盘棋 D．有目共睹 责任制",
+  "new": "杨树以昆虫为媒介传授花粉 填入划横线部分最恰当的一项是（ ）。"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_b.json",
+  "id": "institution-xingce-changshi-2022-b-045",
+  "field": "option.B",
+  "old": "B．②⑤⑥④①③",
+  "new": "②⑤⑥④①③"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_b.json",
+  "id": "institution-xingce-changshi-2022-b-045",
+  "field": "option.D",
+  "old": "D．⑥③⑤①④② 第三部分 数量分析",
+  "new": "⑥③⑤①④② 第三部分 数量分析"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_c.json",
+  "id": "institution-xingce-changshi-2022-c-014",
+  "field": "answer",
+  "old": "C",
+  "new": "A"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_c.json",
+  "id": "institution-xingce-changshi-2022-c-020",
+  "field": "option.B",
+  "old": "B．2 项",
+  "new": "2 项"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_c.json",
+  "id": "institution-xingce-changshi-2022-c-020",
+  "field": "option.D",
+  "old": "D．4 项 B．2 项 D．4 项 第二部分 言语理解与表达 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "4 项 第二部分 言语理解与表达 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_e.json",
+  "id": "institution-xingce-changshi-2022-e-020",
+  "field": "option.B",
+  "old": "B．急性肠穿孔",
+  "new": "输尿管损伤"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2022_e.json",
+  "id": "institution-xingce-changshi-2022-e-020",
+  "field": "option.D",
+  "old": "D．肠坏死 B．输尿管损伤 D．尿道损伤 第二部分 言语理解与表达 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "尿道损伤 第二部分 言语理解与表达 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2023_b.json",
+  "id": "institution-xingce-changshi-2023-b-020",
+  "field": "option.B",
+  "old": "常温奶是通过高温灭菌的，所以保质期较长 B.D．牛奶加热后其脂肪、蛋白质分离，味道变淡，营养成分不易被吸收",
+  "new": "常温奶是通过高温灭菌的，所以保质期较长"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2023_e.json",
+  "id": "institution-xingce-changshi-2023-e-005",
+  "field": "option.D",
+  "old": "D．公司以项目保密为由，强行要求王某及其同事在项目结束前不能离开办公场所，一切活动在公司进行",
+  "new": "公司以项目保密为由，强行要求王某及其同事在项目结束前不能离开办公场所，一切活动在公司进行"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2023_e.json",
+  "id": "institution-xingce-changshi-2023-e-041",
+  "field": "option.D",
+  "old": "城市发展到一定规模会形成有特色的建筑群 D.  A．①③②⑥⑤④ C．③②①④⑤⑥ B．②①③⑥④⑤ D．④⑥⑤②③① 第三部分 数量分析 本部分包括数学运算和资料分析两种类型，在四个选项中选出一个最恰当的答案。",
+  "new": "城市发展到一定规模会形成有特色的建筑群"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_a.json",
+  "id": "institution-xingce-changshi-2024-a-006",
+  "field": "option.B",
+  "old": "B．①③",
+  "new": "①③"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_a.json",
+  "id": "institution-xingce-changshi-2024-a-006",
+  "field": "option.D",
+  "old": "D．③④ 7. 蔡某网购一件价值 5000 元的电子产品，快递员派送时电话征得蔡某同意后放在其家门口，蔡某回家后未发 该快递，怀疑被盗。遂报案，民警张某到达现场后，发现邻居邹某门口装有摄像头，可能会拍到相关影像， 于是要求邹某当即提供影像内容。邹某认为，该摄像头系自费安装，且影像内容涉及隐私，拒绝提供，关 于上述案件，下列说法正确的是（ ）",
+  "new": "③④"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_a.json",
+  "id": "institution-xingce-changshi-2024-a-044",
+  "field": "option.B",
+  "old": "②④①⑤⑥③     A．不到 150 米 B.B．150～160 米之间",
+  "new": "②④①⑤⑥③"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_b.json",
+  "id": "institution-xingce-changshi-2024-b-050",
+  "field": "option.B",
+  "old": "B．40 分钟",
+  "new": "40 分钟"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_b.json",
+  "id": "institution-xingce-changshi-2024-b-050",
+  "field": "option.D",
+  "old": "D．60 分钟 （一）",
+  "new": "60 分钟 （一）"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_b.json",
+  "id": "institution-xingce-changshi-2024-b-055",
+  "field": "option.B",
+  "old": "B．6 月",
+  "new": "6 月"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_b.json",
+  "id": "institution-xingce-changshi-2024-b-060",
+  "field": "option.B",
+  "old": "2023 年，L 省夏粮小麦平均每亩产量超过 300 公斤 B.D．2023 年，L 省除小麦外其他夏粮播种面积超过 200 万亩",
+  "new": "2023 年，L 省夏粮小麦平均每亩产量超过300 公斤"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_c.json",
+  "id": "institution-xingce-changshi-2024-c-020",
+  "field": "option.D",
+  "old": "C．维持 瓶颈  D．支撑 衰落",
+  "new": "支撑 衰落"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_c.json",
+  "id": "institution-xingce-changshi-2024-c-058",
+  "field": "option.B",
+  "old": "B．3",
+  "new": "3"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_c.json",
+  "id": "institution-xingce-changshi-2024-c-058",
+  "field": "option.D",
+  "old": "D．5",
+  "new": "5"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_c.json",
+  "id": "institution-xingce-changshi-2024-c-060",
+  "field": "option.B",
+  "old": "B．5-8 月",
+  "new": "5-8 月"
+ },
+ {
+  "file": "src/data/xingce/changshi/institution_2024_e.json",
+  "id": "institution-xingce-changshi-2024-e-020",
+  "field": "option.B",
+  "old": "有严重免受系统疾病的人不建议接种 HPV 疫苗 B.D．HPV 疫苗可预的由 HPV 感染所引发的宫颈癌",
+  "new": "有严重免受系统疾病的人不建议接种HPV 疫苗"
+ },
+ {
+  "file": "src/data/xingce/changshi/national_2018_fushengjia.json",
+  "id": "national-xingce-changshi-2018-fushengjia-013",
+  "field": "option.D",
+  "old": "巴黎、汉堡、布鲁塞尔 B、船在水中的吃水深度 D、人可以举起的石块的最大质量 B、杏树是耐旱能力比较弱的树种 D、嫁接是一种常用的果树繁殖方式 B、华北地区在初春频发寒潮 D、夏季长江入海口附近海域的盐度比其他季节低 B、接天莲叶无穷碧，映日荷花别样红——②③之间 D、半盏屠苏犹未举，灯前小草写桃符——③④之间",
+  "new": "半盏屠苏犹未举，灯前小草写桃符——③④之间"
+ },
+ {
+  "file": "src/data/xingce/changshi/national_2020_dishi.json",
+  "id": "national-xingce-changshi-2020-dishi-001",
+  "field": "answer",
+  "old": "A",
+  "new": "C"
+ },
+ {
+  "file": "src/data/xingce/changshi/national_2020_dishi.json",
+  "id": "national-xingce-changshi-2020-dishi-010",
+  "field": "option.D",
+  "old": "在国外合法设立但尚未在我国民政部门登记的某环保基金会 B、建设一支听党指挥、能打胜仗、作风优良的人民军队 D、确保到 2020 年全面实现机械化 B、特赦对象包括被判处监禁刑和非监禁刑的罪犯 D、特赦须经人民法院裁定 D、①② - 1 - C、寻衅滋事罪 B、交通肇事罪 D、危险驾驶罪",
+  "new": "在国外合法设立但尚未在我国民政部门登记的某环保基金会"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-026",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-027",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-028",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-029",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-030",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-031",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-032",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-033",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-034",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-changshi-2020-035",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-026",
+  "field": "answer",
+  "old": "BC",
+  "new": [
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-027",
+  "field": "answer",
+  "old": "ABD",
+  "new": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-028",
+  "field": "answer",
+  "old": "AB",
+  "new": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-029",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-030",
+  "field": "answer",
+  "old": "ABD",
+  "new": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-031",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-032",
+  "field": "answer",
+  "old": "AC",
+  "new": [
+   "A",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-033",
+  "field": "answer",
+  "old": "ACD",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-034",
+  "field": "answer",
+  "old": "AD",
+  "new": [
+   "A",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_beijing_2022.json",
+  "id": "provincial-beijing-xingce-changshi-2022-035",
+  "field": "answer",
+  "old": "AC",
+  "new": [
+   "A",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_fujian_2024.json",
+  "id": "provincial-fujian-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "食醋的pH值比较低，可以抑制微生物的生长 B.D.削了皮的苹果变色是一种化学反应，会影响苹果的口感",
+  "new": "食醋的pH值比较低，可以抑制微生物的生长"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_gansu_2023.json",
+  "id": "provincial-gansu-xingce-changshi-2023-020",
+  "field": "option.B",
+  "old": "风力发电的功率大小只取决于发电机的功率 B.D.全球风能总量远远超过可开发利用的水能总量",
+  "new": "风力发电的功率大小只取决于发电机的功率"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2023.json",
+  "id": "provincial-guangdong-xingce-changshi-2023-061",
+  "field": "option.A",
+  "old": "B、C、D 四个。已知： ①每人只能去一个社区。 ②凡是有男性去的社区就必须有女性去。 ③张去 A 社区或者 B 社区，乙去 D 社区。 如果最终李去了 C 社区，则下列推论必然正确的是（ A. 丙去了 A 社区",
+  "new": "丙去了A 社区"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-changshi-2024-011",
+  "field": "answer",
+  "old": "ABD",
+  "new": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-changshi-2024-012",
+  "field": "answer",
+  "old": "ABC",
+  "new": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-changshi-2024-013",
+  "field": "answer",
+  "old": "BC",
+  "new": [
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-changshi-2024-014",
+  "field": "answer",
+  "old": "ACD",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-changshi-2024-015",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-changshi-2024-015",
+  "field": "option.B",
+  "old": "国旗、国歌、国徽等国家象征和标志 B.D.宪法和法律，国家统一和民族团结、国家安全和国防等方面的意识和观念",
+  "new": "国旗、国歌、国徽等国家象征和标志"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-changshi-2024-010",
+  "field": "option.B",
+  "old": "群雁辞归鹄南翔，念君客游思断肠——候鸟通过迁徙适应气候变化 B.D.落红不是无情物，化作春泥更护花——微生物的分解作用及物质的循环",
+  "new": "群雁辞归鹄南翔，念君客游思断肠——候鸟通过迁徙适应气候变化"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guizhou_2023.json",
+  "id": "provincial-guizhou-xingce-changshi-2023-095",
+  "field": "option.B",
+  "old": "丙有购物，乙看了电影 B.D.甲和乙都看了电影",
+  "new": "丙有购物，乙看了电影"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guizhou_2023.json",
+  "id": "provincial-guizhou-xingce-changshi-2023-099",
+  "field": "option.B",
+  "old": "39851 B.D.41279",
+  "new": "39851"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guizhou_2023.json",
+  "id": "provincial-guizhou-xingce-changshi-2023-100",
+  "field": "option.B",
+  "old": "2022 年 6 月全国核电发电量比 5 月份高 B.D.2021 年 7 月第一产业用电量低于 2021 年上半年第一产业平均用电量",
+  "new": "2022 年6 月全国核电发电量比5 月份高"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_guizhou_2024.json",
+  "id": "provincial-guizhou-xingce-changshi-2024-015",
+  "field": "option.B",
+  "old": "群雁辞归鹄南翔，念君客游思断肠——候鸟通过迁徙适应气候变化 B.D.落红不是无情物，化作春泥更护花——微生物的分解作用及物质的循环",
+  "new": "群雁辞归鹄南翔，念君客游思断肠——候鸟通过迁徙适应气候变化"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hainan_2020.json",
+  "id": "provincial-hainan-xingce-changshi-2020-110",
+  "field": "option.D",
+  "old": "②③④ B、鸡蛋和牛奶 D、米饭和馒头 - 14 -",
+  "new": "米饭和馒头"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hainan_2024.json",
+  "id": "provincial-hainan-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "食醋的pH值比较低，可以抑制微生物的生长 B.D.削了皮的苹果变色是一种化学反应，会影响苹果的口感",
+  "new": "食醋的pH值比较低，可以抑制微生物的生长"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hebei_2022.json",
+  "id": "provincial-hebei-xingce-changshi-2022-020",
+  "field": "option.B",
+  "old": "只有肥胖者才会得高脂血症 B.D.容易引起白血病",
+  "new": "只有肥胖者才会得高脂血症"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hebei_2023.json",
+  "id": "provincial-hebei-xingce-changshi-2023-064",
+  "field": "option.A",
+  "old": "B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所需 电池数量的 10%（按一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号的 2 倍，C 型号的产量比 A、B 两种型号的产量之和还多 400 块。预计该公司今年的轿车总产量 是 42.4 万辆，那么 B 型号氢燃料电池的产量是： A. 3500 块",
+  "new": "3500 块"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hebei_2024.json",
+  "id": "provincial-hebei-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "受重力作用，因滑坡或坍塌造成 B.D.由新生恒星强烈的紫外线辐射侵蚀而成",
+  "new": "受重力作用，因滑坡或坍塌造成"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_heilongjiang_2024.json",
+  "id": "provincial-heilongjiang-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "杜甫“安危须仗出群材”揭示了国家安危与否取决于是否有众多人才的道理 B.D.张耒“人才之难万冀一”彰显了环境优劣对人成长成才具有重要影响的道理",
+  "new": "杜甫“安危须仗出群材”揭示了国家安危与否取决于是否有众多人才的道理"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_henan_2023.json",
+  "id": "provincial-henan-xingce-changshi-2023-115",
+  "field": "answer",
+  "old": "AD",
+  "new": [
+   "A",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_henan_2024.json",
+  "id": "provincial-henan-xingce-changshi-2024-105",
+  "field": "option.B",
+  "old": "B.☆处被命名为“白垩纪”",
+  "new": "☆处被命名为“白垩纪”"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hubei_2023.json",
+  "id": "provincial-hubei-xingce-changshi-2023-056",
+  "field": "option.A",
+  "old": "B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所 需电池数量的 10%（按一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号 的 2 倍，C 型号的产量比 A、B 两种型号的产量之和还多 400 块。预计该公司今年的轿车总 产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是： A.3500 块",
+  "new": "3500 块"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hubei_2024.json",
+  "id": "provincial-hubei-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "果汁——纤维素酶 B.D.加酶洗衣粉——蛋白酶",
+  "new": "果汁——纤维素酶"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_hunan_2024.json",
+  "id": "provincial-hunan-xingce-changshi-2024-015",
+  "field": "option.B",
+  "old": "食醋的pH值比较低，可以抑制微生物的生长 B.D.削了皮的苹果变色是一种化学反应，会影响苹果的口感",
+  "new": "食醋的pH值比较低，可以抑制微生物的生长"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_jiangxi_2023.json",
+  "id": "provincial-jiangxi-xingce-changshi-2023-025",
+  "field": "option.B",
+  "old": "①②④ B.D.②③④",
+  "new": "①②④"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_jiangxi_2024.json",
+  "id": "provincial-jiangxi-xingce-changshi-2024-025",
+  "field": "option.B",
+  "old": "用洗衣机洗裤子并脱干后，取出时经常会看到裤兜被翻出来 B.D.锅里剩下最后几根面条时，用筷子在锅中作圆形搅动，使面汤旋转起来，面条会集中到锅底中心",
+  "new": "用洗衣机洗裤子并脱干后，取出时经常会看到裤兜被翻出来"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_liaoning_2023.json",
+  "id": "provincial-liaoning-xingce-changshi-2023-105",
+  "field": "option.B",
+  "old": "2021 年，全国有效专利中有效发明专利不到 20% B.D.2021 年，我国技术合同成交金额比上一年增加超过万亿元",
+  "new": "2021 年，全国有效专利中有效发明专利不到20%"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_liaoning_2024.json",
+  "id": "provincial-liaoning-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "山梨糖醇、木糖醇、安赛蜜、纽甜 B.D.纽甜、山梨糖醇、木糖醇、安赛蜜",
+  "new": "山梨糖醇、木糖醇、安赛蜜、纽甜"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_ningxia_2024.json",
+  "id": "provincial-ningxia-xingce-changshi-2024-025",
+  "field": "option.B",
+  "old": "沙滩车的轮子往往做得特别宽大，是为了减小轮子对沙地的压强，防止下陷 B.D.跷跷板游戏中，人越靠近支点越不容易压动跷跷板，是人对板作用力的力臂减小的缘故",
+  "new": "沙滩车的轮子往往做得特别宽大，是为了减小轮子对沙地的压强，防止下陷"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shaanxi_2024.json",
+  "id": "provincial-shaanxi-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "《韩非子·外储说左下》：夫瑟以小弦为大声，以大弦为小声 B.D.《春诸纪闻》：缓其商弦，与宫同音",
+  "new": "《韩非子·外储说左下》：夫瑟以小弦为大声，以大弦为小声"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shandong_2024.json",
+  "id": "provincial-shandong-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "缺铁性贫血可能导致儿童出现发育迟缓、注意力不集中、认知能力障碍等症状 B.D.维生素D缺乏可能导致皮肤麻木、牙龈出血等症状，患者可多食用蔬菜、水果等",
+  "new": "缺铁性贫血可能导致儿童出现发育迟缓、注意力不集中、认知能力障碍等症状"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-118",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-119",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-121",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-123",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-124",
+  "field": "answer",
+  "old": "B",
+  "new": [
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-125",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-126",
+  "field": "answer",
+  "old": "C",
+  "new": [
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-129",
+  "field": "option.D",
+  "old": "是我国最高国家权力机关的执行机关 B、中华人民共和国森林法 D、中华人民共和国民法典 。 在于 。",
+  "new": "社会主义民主是社会主义法制的保障"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-changshi-2020-130",
+  "field": "option.D",
+  "old": "有利于群众依法直接行使民主权利 B、我国是人民民主专政的社会主义国家 D、社会主义民主是社会主义法制的保障 。 - 18 -",
+  "new": "有利于群众依法直接行使民主权利"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-116",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-117",
+  "field": "answer",
+  "old": "ACD",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-119",
+  "field": "answer",
+  "old": "ACD",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-121",
+  "field": "answer",
+  "old": "CD",
+  "new": [
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-124",
+  "field": "answer",
+  "old": "ABC",
+  "new": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-126",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-128",
+  "field": "answer",
+  "old": "BD",
+  "new": [
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-129",
+  "field": "answer",
+  "old": "AD",
+  "new": [
+   "A",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2021.json",
+  "id": "provincial-shanghai-xingce-changshi-2021-130",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-016",
+  "field": "option.B",
+  "old": "基因指挥着细胞合成人类生命的基础——蛋白质 B.D ．当基因发生变化且不能履行自已正常的功能时 ，人类就会出现疾病",
+  "new": "基因指挥着细胞合成人类生命的基础——蛋白质"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-020",
+  "field": "option.B",
+  "old": "《面包与啤酒》 B.D ．《啤酒 ：幸福的本质》",
+  "new": "《面包与啤酒》"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-050",
+  "field": "option.B",
+  "old": "高于 ，低于 B.D ．低于 ，低于",
+  "new": "高于，低于"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-088",
+  "field": "option.B",
+  "old": "宋和孔 B.D ．张和宋",
+  "new": "宋和孔"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-115",
+  "field": "option.B",
+  "old": "电子信息、生命健康、高端装备 B.D ．新能源汽车、新材料、智能制造",
+  "new": "电子信息、生命健康、高端装备"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-116",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-117",
+  "field": "answer",
+  "old": "ACD",
+  "new": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-118",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-120",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-120",
+  "field": "option.B",
+  "old": "投票选举权是宪法赋予公民的最重要的政治权利 B.D ．全国人大法工委在全国范围内增设10个立法联系点",
+  "new": "投票选举权是宪法赋予公民的最重要的政治权利"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-123",
+  "field": "answer",
+  "old": "ABD",
+  "new": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-124",
+  "field": "answer",
+  "old": "CD",
+  "new": [
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-125",
+  "field": "option.B",
+  "old": "可以不适用 B.D ．可以待上级法院批准后适用",
+  "new": "可以不适用"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-126",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-127",
+  "field": "answer",
+  "old": "ABC",
+  "new": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-128",
+  "field": "answer",
+  "old": "AC",
+  "new": [
+   "A",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-129",
+  "field": "answer",
+  "old": "BC",
+  "new": [
+   "B",
+   "C"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanghai_2023.json",
+  "id": "provincial-shanghai-xingce-changshi-2023-130",
+  "field": "answer",
+  "old": "ABCD",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shanxi_2023.json",
+  "id": "provincial-shanxi-xingce-changshi-2023-074",
+  "field": "option.A",
+  "old": "B、C 三种型号氢燃料电池，解决了该公司今年生产轿车所 需电池数量的 10%（按一辆车配一块电池计算）。其中 A 型号氢燃料电池的产量是 B 型号 的 2 倍，C 型号的产量比 A、B 两种型号的产量之和还多 400 块。预计该公司今年的轿车总 产量是 42.4 万辆，那么 B 型号氢燃料电池的产量是： A.3500 块",
+  "new": "3500 块"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_shenzhen_2024.json",
+  "id": "provincial-shenzhen-xingce-changshi-2024-022",
+  "field": "option.B",
+  "old": "B.首次进行空间站与地面实时视频通讯",
+  "new": "首次进行空间站与地面实时视频通讯"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_sichuan_2023.json",
+  "id": "provincial-sichuan-xingce-changshi-2023-055",
+  "field": "option.A",
+  "old": "B、C、D 四块，现有 4 种不同的颜色，要求在每一块里涂上 一种颜色且相邻的两块颜色不相同（可以使用少于 4 种颜色），问有几种不同的涂法？ A. 84",
+  "new": "84"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_sichuan_2023.json",
+  "id": "provincial-sichuan-xingce-changshi-2023-072",
+  "field": "option.B",
+  "old": "陆地动物：软体动物：蚯蚓 B.D. 国有企业：大型企业：集团",
+  "new": "陆地动物：软体动物：蚯蚓"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_sichuan_2024.json",
+  "id": "provincial-sichuan-xingce-changshi-2024-015",
+  "field": "option.B",
+  "old": "全国最大的水电开发和西电东送基地，水能资源理论蕴藏量居全国第一 B.D.省会成都市境内的三星堆、金沙遗址是古蜀文明的重要代表",
+  "new": "全国最大的水电开发和西电东送基地，水能资源理论蕴藏量居全国第一"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_tianjin_2024.json",
+  "id": "provincial-tianjin-xingce-changshi-2024-065",
+  "field": "option.B",
+  "old": "《韩非子·外储说左下》：夫瑟以小弦为大声，以大弦为小声 B.D.《春诸纪闻》：缓其商弦，与宫同音",
+  "new": "《韩非子·外储说左下》：夫瑟以小弦为大声，以大弦为小声"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-changshi-2024-025",
+  "field": "option.B",
+  "old": "戍边 B.D.防御",
+  "new": "戍边"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+  "id": "provincial-yunnan-xingce-changshi-2023-085",
+  "field": "option.B",
+  "old": "丙有购物，乙看了电影 B.D.甲和乙都看了电影",
+  "new": "丙有购物，乙看了电影"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+  "id": "provincial-yunnan-xingce-changshi-2023-088",
+  "field": "option.B",
+  "old": "低 3.8% B.D.低 10.3%",
+  "new": "低3.8%"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+  "id": "provincial-yunnan-xingce-changshi-2023-089",
+  "field": "option.B",
+  "old": "39851 B.D.41279",
+  "new": "39851"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+  "id": "provincial-yunnan-xingce-changshi-2023-090",
+  "field": "option.B",
+  "old": "2022 年 6 月全国核电发电量比 5 月份高 B.D.2021 年 7 月第一产业用电量低于 2021 年上半年第一产业月均用电量",
+  "new": "2022 年6 月全国核电发电量比5 月份高"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+  "id": "provincial-yunnan-xingce-changshi-2023-095",
+  "field": "option.B",
+  "old": "2022 年 8 月原材料库存指数为 48.0%，比上个月上升 0.1 个百分点 B.D.2022 年 8 月供应商配送时间指数为 49.5%，比上个月下降 0.6 个百分点，说明供应商配送时间较上月",
+  "new": "2022 年8 月原材料库存指数为48.0%，比上个月上升0.1 个百分点"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_yunnan_2024.json",
+  "id": "provincial-yunnan-xingce-changshi-2024-020",
+  "field": "option.B",
+  "old": "食醋的pH值比较低，可以抑制微生物的生长 B.D.削了皮的苹果变色是一种化学反应，会影响苹果的口感",
+  "new": "食醋的pH值比较低，可以抑制微生物的生长"
+ },
+ {
+  "file": "src/data/xingce/changshi/provincial_zhejiang_2022.json",
+  "id": "provincial-zhejiang-xingce-changshi-2022-020",
+  "field": "option.B",
+  "old": "本生故事画是敦煌壁画中的流行题材 B.D.《潇湘竹石图》是苏辙的名画",
+  "new": "本生故事画是敦煌壁画中的流行题材"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_a.json",
+  "id": "institution-xingce-panduan-2020-a-065",
+  "field": "answer",
+  "old": "D",
+  "new": "C"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_a.json",
+  "id": "institution-xingce-panduan-2020-a-069",
+  "field": "answer",
+  "old": "C",
+  "new": "D"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_a.json",
+  "id": "institution-xingce-panduan-2020-a-070",
+  "field": "answer",
+  "old": "A",
+  "new": "C"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_a.json",
+  "id": "institution-xingce-panduan-2020-a-099",
+  "field": "option.B",
+  "old": "2019 年 1 月销量：乘用车＞商用车＞中国品牌乘用车 B.D．2019 年 1～2 月销量同比增幅：货车＞交叉型乘用车＞中国品牌 MPV",
+  "new": "2019 年1 月销量：乘用车＞商用车＞中国品牌乘用车"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_a.json",
+  "id": "institution-xingce-panduan-2020-a-099",
+  "field": "option.D",
+  "old": "100. 能够从上述材料推出的是（ ）。 A．2019 年 2 月，客车的产量比销量高 1 万辆以上 B．2019 年 2 月，乘用车产量超过其出口量的 35 倍 C．2019 年 1～2 月，商用车各车型的产销量比上年同期均有增长 D．2019 年 1～2 月，中国品牌 MPV 市场份额较上年同期有所扩大     第一部分 常识判断 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "2019 年1～2 月销量同比增幅：货车＞交叉型乘用车＞中国品牌MPV"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_c.json",
+  "id": "institution-xingce-panduan-2020-c-052",
+  "field": "option.B",
+  "old": "不管任务难易，小强每天的工作积极性都很高 B.D．小风很想在奥赛中获奖，反而没发挥出正常水平",
+  "new": "不管任务难易，小强每天的工作积极性都很高"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_c.json",
+  "id": "institution-xingce-panduan-2020-c-052",
+  "field": "option.D",
+  "old": "C．化学：生物化学：原子 D．物理学：自然科学：运动",
+  "new": "小风很想在奥赛中获奖，反而没发挥出正常水平"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-069",
+  "field": "option.D",
+  "old": "D．①体现的是辩证思维能力，②体现的是历史思维能力，③体现的是战略思维能力",
+  "new": "①体现的是辩证思维能力，②体现的是历史思维能力，③体现的是战略思维能力"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-080",
+  "field": "option.B",
+  "old": "B．粮食；知识",
+  "new": "路况；网络"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-080",
+  "field": "option.D",
+  "old": "D．航运；解释 B．路况；网络 D．辅助；寻找",
+  "new": "辅助；寻找"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-088",
+  "field": "option.B",
+  "old": "由于工业燃煤用量大，南方燃煤总量比北方大体相当 B.D．近年来随着生活水平提高，该国取暖分界线逐渐南移",
+  "new": "由于工业燃煤用量大，南方燃煤总量比北方大体相当"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-090",
+  "field": "option.B",
+  "old": "B．丁在初二值班",
+  "new": "丁在初二值班"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-090",
+  "field": "option.D",
+  "old": "D．丙在初一值班 第六部分 策略选择 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "丙在初一值班 第六部分 策略选择 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-099",
+  "field": "option.B",
+  "old": "“孩子平时玩手机和平板电脑的辐射比拍片子大多了，不信你上网查一下” B.D．“拍牙片的辐射剂量是 5 微西弗，国际放射防护委员会推荐每人每年不超过 5 毫西弗就是安全的，所以",
+  "new": "“孩子平时玩手机和平板电脑的辐射比拍片子大多了，不信你上网查一下”"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2020_e.json",
+  "id": "institution-xingce-panduan-2020-e-099",
+  "field": "option.D",
+  "old": "根本没问题” 100. 一名家属带外地患者来医院就诊，为省钱要求用自己的医保卡为外地患者开药，作为接诊医生，下列与患 者及家属沟通最为妥当的是 A．“你这种行为属于骗保，我不可能给你开” B．“你们大老远来一趟也不容易，这次我就给你们开药，下不为例” C．“我只管看病，以后万一你的医保被查不能使用，与我无关” D．“我能理解你想为患者省钱的好意，但这样做是医保不允许的”     版权所有 复制必究",
+  "new": "“拍牙片的辐射剂量是5 微西弗，国际放射防护委员会推荐每人每年不超过5 毫西弗就是安全的，所以 根本没问题”"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_a.json",
+  "id": "institution-xingce-panduan-2021-a-058",
+  "field": "option.D",
+  "old": "D．丁以暴力手段威胁他人透支信用卡为自己购买手机",
+  "new": "丁以暴力手段威胁他人透支信用卡为自己购买手机"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_a.json",
+  "id": "institution-xingce-panduan-2021-a-070",
+  "field": "answer",
+  "old": "D",
+  "new": "B"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_a.json",
+  "id": "institution-xingce-panduan-2021-a-083",
+  "field": "option.B",
+  "old": "直接反驳了丙论证的结论 B.D．直接阐明了自己论证的结论",
+  "new": "直接反驳了丙论证的结论"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_a.json",
+  "id": "institution-xingce-panduan-2021-a-085",
+  "field": "option.B",
+  "old": "“医院减轻病人痛苦也是一种救死扶伤”——乙 B.D．“现实需求应该得到法律的关注”——丁",
+  "new": "“医院减轻病人痛苦也是一种救死扶伤”——乙"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_a.json",
+  "id": "institution-xingce-panduan-2021-a-072",
+  "field": "option.B",
+  "old": "B．子∶丑∶属相",
+  "new": "布谷鸟∶乌鸦∶画眉"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_a.json",
+  "id": "institution-xingce-panduan-2021-a-072",
+  "field": "option.D",
+  "old": "D．乾∶坤∶八卦 B．布谷鸟∶乌鸦∶画眉 D．锁骨链∶太阳镜∶手表",
+  "new": "锁骨链∶太阳镜∶手表"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-075",
+  "field": "option.B",
+  "old": "B．0.9",
+  "new": "降息∶通胀∶加息"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-075",
+  "field": "option.D",
+  "old": "D．2.22 B．纸箱：铁桶 D．炼钢：采茶 B．雏鸡：母鸡 D．奶牛：牛奶 B．毫克：单位 D．分数：数学 B．耕田耙地：农业种植 D．弘扬文化：传承经典 B．降息∶通胀∶加息 D．注册∶充值∶登录",
+  "new": "注册∶充值∶登录"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-079",
+  "field": "option.B",
+  "old": "B．腹泻；灾害",
+  "new": "车辆；警员"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-079",
+  "field": "option.D",
+  "old": "D．发烧；降雨 B．车辆；警员 D．疏解；疫情",
+  "new": "疏解；疫情"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-092",
+  "field": "option.B",
+  "old": "B．②和③之间",
+  "new": "公众态度"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-092",
+  "field": "option.D",
+  "old": "D．⑤之后 B．公众态度 D．潜在风险",
+  "new": "潜在风险"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-095",
+  "field": "option.B",
+  "old": "“信息茧房”为什么会出现 B.D．你所看到的，其实正是你想看到的",
+  "new": "“信息茧房”为什么会出现"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-099",
+  "field": "option.B",
+  "old": "考古工作对公众而言是相当遥远的事物 B.D．考古学家为之贡献了自己的智慧与心血",
+  "new": "考古工作对公众而言是相当遥远的事物"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-099",
+  "field": "option.D",
+  "old": "100. 作者认为，完成三星堆祭祀坑考古报告所面临的问题不包括： A．技术条件与专业人员严重短缺 B．报告的编撰周期预计相当漫长 C．所发掘的资料很难得到完整呈现 D．增加了公众全面了解考古成果的困难     版权所有 复制必究",
+  "new": "考古学家为之贡献了自己的智慧与心血"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-088",
+  "field": "option.B",
+  "old": "目前这种新技术设备处于实验室研发阶段，尚未商用 B.D．脱发原因多样，遗传因素、免疫异常等都易造成脱发",
+  "new": "目前这种新技术设备处于实验室研发阶段，尚未商用"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_b.json",
+  "id": "institution-xingce-panduan-2021-b-090",
+  "field": "option.B",
+  "old": "B．丁在初二值班",
+  "new": "丁在初二值班"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-079",
+  "field": "option.B",
+  "old": "B．腹泻；灾害",
+  "new": "卫星；牛奶"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-079",
+  "field": "option.D",
+  "old": "D．发烧；降雨 B．卫星；牛奶 D．金星；有机物",
+  "new": "金星；有机物"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-090",
+  "field": "option.B",
+  "old": "2019 年，亚洲商学院的平均录取率为 48%，而美国商学院的平均录取率为 71.9% B.D．90%的全球 500 强公司更愿意雇佣商学院毕业生，他们认为商学院的毕业生工作能力更强",
+  "new": "2019 年，亚洲商学院的平均录取率为48%，而美国商学院的平均录取率为71.9%"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-094",
+  "field": "option.A",
+  "old": "B、C 各 100 件，甲工厂至少要生产多少件产品？ A．50",
+  "new": "50"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-099",
+  "field": "option.B",
+  "old": "金属的线膨胀是物体的热胀冷缩效应 B.D．使用金属管流水加热是为了受热均衡",
+  "new": "金属的线膨胀是物体的热胀冷缩效应"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-099",
+  "field": "option.D",
+  "old": "100. 下列除哪项外，均涉及线膨胀的应用？ A．夏天架设高压线要保持电线有一定弧度下垂 B．铺设桥梁时，每隔一段距离就要预留一定的缝隙 C．在精密仪器中一般使用石英，而少用铜铝 D．将石墨烯添加到陶瓷中，制成导电，耐热的复合材料     版权所有 复制必究",
+  "new": "使用金属管流水加热是为了受热均衡"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_c.json",
+  "id": "institution-xingce-panduan-2021-c-097",
+  "field": "option.B",
+  "old": "山茶、桂花、白兰等喜酸性土的植物，不要喷洒碱性溶液 B.D．对塑料大棚中喷施二氧化碳，以促进大棚内蔬菜的光合作用，实现增产",
+  "new": "山茶、桂花、白兰等喜酸性土的植物，不要喷洒碱性溶液"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_e.json",
+  "id": "institution-xingce-panduan-2021-e-080",
+  "field": "option.B",
+  "old": "B．车辆 警员",
+  "new": "卫星；牛奶"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_e.json",
+  "id": "institution-xingce-panduan-2021-e-080",
+  "field": "option.D",
+  "old": "D．疏解 疫情 B．腹泻 灾害 D．发烧 降雨 B．卫星；牛奶 D．金星；有机物",
+  "new": "金星；有机物"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_e.json",
+  "id": "institution-xingce-panduan-2021-e-088",
+  "field": "option.B",
+  "old": "B．己排在第五",
+  "new": "己排在第五"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_e.json",
+  "id": "institution-xingce-panduan-2021-e-090",
+  "field": "option.B",
+  "old": "埃博拉病毒暴发地区没有用于提取汉防己碱的草药 B.D．市面上至今没有获得批准使用的抗埃博拉病毒的药物和疫苗",
+  "new": "埃博拉病毒暴发地区没有用于提取汉防己碱的草药"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2021_e.json",
+  "id": "institution-xingce-panduan-2021-e-091",
+  "field": "option.B",
+  "old": "“抱歉啊，咱们有规定，院外的方子我们不看的，您愿意的话，可以跟我说说病情，我也给您开个方子，     造成，但何某觉得自己吃着药，稍微吃一点辣火锅、牛羊肉，偶尔喝酒不会有问题，而是治疗有问题。面 对这一情况，医生最合适的说法是（ ）。 A．“这种病本来就容易复发，治疗方案没有问题，您之前控制饮食，不也挺好？” B．“湿疹复发和您的饮食习惯有密切关系，您只有控制好饮食，加上药物，才能保证治疗效果”",
+  "new": "“抱歉啊，咱们有规定，院外的方子我们不看的，您愿意的话，可以跟我说说病情，我也给您开个方子， 造成，但何某觉得自己吃着药，稍微吃一点辣火锅、牛羊肉，偶尔喝酒不会有问题，而是治疗有问题。面 对这一情况，医生最合适的说法是（ ）。"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_b.json",
+  "id": "institution-xingce-panduan-2022-b-062",
+  "field": "option.B",
+  "old": "B．①③⑤，②④⑥",
+  "new": "①③⑤，②④⑥"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_b.json",
+  "id": "institution-xingce-panduan-2022-b-062",
+  "field": "option.D",
+  "old": "D．①④⑥，②③⑤",
+  "new": "①④⑥，②③⑤"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_b.json",
+  "id": "institution-xingce-panduan-2022-b-090",
+  "field": "option.B",
+  "old": "B．选择风信子",
+  "new": "选择风信子"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_b.json",
+  "id": "institution-xingce-panduan-2022-b-092",
+  "field": "option.B",
+  "old": "考古学家曾在古希腊人生活的地区发现一种产野蚕丝的茧，但时间应在公元前 1500 年左右 B.D．在阿里斯托芬生活的年代，中国的丝绸已经传入古希腊，不过此时传入的是丝的纺成品，而非原材料",
+  "new": "考古学家曾在古希腊人生活的地区发现一种产野蚕丝的茧，但时间应在公元前1500 年左右"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_b.json",
+  "id": "institution-xingce-panduan-2022-b-095",
+  "field": "option.B",
+  "old": "惠子是否知道鱼的快乐 B.D．庄子是否能够知道鱼的快乐",
+  "new": "惠子是否知道鱼的快乐"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_c.json",
+  "id": "institution-xingce-panduan-2022-c-088",
+  "field": "option.B",
+  "old": "恐龙在不同运动形态下的足迹大小不同 B.D．不同年龄的湖翼龙其足迹大小不同",
+  "new": "恐龙在不同运动形态下的足迹大小不同"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_c.json",
+  "id": "institution-xingce-panduan-2022-c-090",
+  "field": "option.B",
+  "old": "宋博士调研“金”公司 B.D．苏博士调研“木”公司",
+  "new": "宋博士调研“金”公司"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_c.json",
+  "id": "institution-xingce-panduan-2022-c-099",
+  "field": "option.B",
+  "old": "B．视觉刺激",
+  "new": "视觉刺激"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_c.json",
+  "id": "institution-xingce-panduan-2022-c-099",
+  "field": "option.D",
+  "old": "D．危险程度 100. 本实验得出结论所采用的主要研究方法是： A．求同法（结果出现的若干不同场合中探求其共同因素） B．求异法（在结果出现和不出现的两个尽可能相同的场合中探求其唯一的差异因素） C．共变法（在结果发生变化的若干不同场合中探求与其共同变化的因素） D．剩余法（在剔除已知的具有因果联系的关系之外，在剩余结果和剩余因素之间探求其联系）     版权所有 复制必究",
+  "new": "危险程度"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_c.json",
+  "id": "institution-xingce-panduan-2022-c-077",
+  "field": "option.B",
+  "old": "B．芦花：芦苇：河沼",
+  "new": "台球：球杆：树脂"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_c.json",
+  "id": "institution-xingce-panduan-2022-c-077",
+  "field": "option.D",
+  "old": "D．银杏：杏子：杏树 B．包裹：包袱：负担 D．动物：爪牙：帮凶 B．逾期：催收：负债 D．试点：总结：推广 B．台球：球杆：树脂 D．跳水：跳板：铝合金",
+  "new": "跳水：跳板：铝合金"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_e.json",
+  "id": "institution-xingce-panduan-2022-e-088",
+  "field": "option.B",
+  "old": "没有管理专业学位的人都不是技术专家 B.D．在集团工作不超过 5 年的人都没有研究生学历",
+  "new": "没有管理专业学位的人都不是技术专家"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_e.json",
+  "id": "institution-xingce-panduan-2022-e-090",
+  "field": "option.B",
+  "old": "B．孙和周",
+  "new": "孙和周"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_e.json",
+  "id": "institution-xingce-panduan-2022-e-090",
+  "field": "option.D",
+  "old": "D．郑和马 第五部分 策略选择 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "郑和马 第五部分 策略选择 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2022_e.json",
+  "id": "institution-xingce-panduan-2022-e-099",
+  "field": "option.B",
+  "old": "向患儿母亲说明情况后立即报警并联系医院相应部门 B.D．向患儿母亲说明情况，征求其意见并鼓励其主动报警",
+  "new": "向患儿母亲说明情况后立即报警并联系医院相应部门"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_a.json",
+  "id": "institution-xingce-panduan-2023-a-082",
+  "field": "option.B",
+  "old": "黑猩猩等动物可以通过手语向人类表达自己的意愿 B.D．既然要求动物有造福人类的义务，也应当赋予它们相应的权利",
+  "new": "黑猩猩等动物可以通过手语向人类表达自己的意愿"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_a.json",
+  "id": "institution-xingce-panduan-2023-a-085",
+  "field": "option.B",
+  "old": "郊区度假式民宿的价格，是否与其提供的服务质量相匹配？ B.D．除了市内旅游点附近民宿和郊区度假式民宿，是否还有其他类型民宿？",
+  "new": "郊区度假式民宿的价格，是否与其提供的服务质量相匹配？"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_a.json",
+  "id": "institution-xingce-panduan-2023-a-090",
+  "field": "option.D",
+  "old": "B．第二季度 D．第四季度",
+  "new": "第四季度 材料二"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_b.json",
+  "id": "institution-xingce-panduan-2023-b-088",
+  "field": "option.B",
+  "old": "爱不爱吃，完全是个人喜好，与他人无关 B.D．有人喜爱的是口感，有人喜爱的是内涵，各取所需，不必强求一致",
+  "new": "爱不爱吃，完全是个人喜好，与他人无关"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_b.json",
+  "id": "institution-xingce-panduan-2023-b-095",
+  "field": "option.B",
+  "old": "B．古人怎样过冬至",
+  "new": "古人怎样过冬至"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_b.json",
+  "id": "institution-xingce-panduan-2023-b-099",
+  "field": "option.D",
+  "old": "B．活着的土壤 D．土壤里的微量元素 A．探讨提高土壤有机质含量的途径 B．揭示植物进行光合作用的原理 C．强调确保粮食安全的重要性 D．介绍化肥工业的发展历史     版权所有 复制必究",
+  "new": "土壤里的微量元素"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_c.json",
+  "id": "institution-xingce-panduan-2023-c-088",
+  "field": "option.B",
+  "old": "甲、乙投资其一     B.D．甲、丙均不投资",
+  "new": "甲、乙投资其一"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_c.json",
+  "id": "institution-xingce-panduan-2023-c-090",
+  "field": "option.B",
+  "old": "黑猩猩等动物可以通过手语向人类表达自己的意愿 B.D．既然要求动物有造福人类的义务，也应当赋予它们相应的权利",
+  "new": "黑猩猩等动物可以通过手语向人类表达自己的意愿"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_c.json",
+  "id": "institution-xingce-panduan-2023-c-098",
+  "field": "option.B",
+  "old": "B．②③",
+  "new": "②③"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_c.json",
+  "id": "institution-xingce-panduan-2023-c-099",
+  "field": "option.B",
+  "old": "被试的选择不受个人兴趣的影响 B.D．被试的选择不受计算能力的影响",
+  "new": "被试的选择不受个人兴趣的影响"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_c.json",
+  "id": "institution-xingce-panduan-2023-c-099",
+  "field": "option.D",
+  "old": "100.由材料第三段可以推导出，实际的分子数值（ ）。 A．在 10 25 之间 C．在 45 65 之间 B．在 25 45 之间 D．在 11 64 之间     版权所有 复制必究",
+  "new": "被试的选择不受计算能力的影响"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_c.json",
+  "id": "institution-xingce-panduan-2023-c-070",
+  "field": "option.B",
+  "old": "②③是诱惑性定价 B.D．①②③均是诱惑性定价",
+  "new": "②③是诱惑性定价"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-076",
+  "field": "option.B",
+  "old": "B．盖头：花托",
+  "new": "油田：油桶：油箱"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-076",
+  "field": "option.D",
+  "old": "D．脚镯：烟匣 B．天雷：怒火 D．麦浪：花雨 B．专一：见异思迁 D．犹豫：一针见血 B．军营：军人：救援 D．剧团：戏剧：娱乐 B．工作：娱乐：休憩 D．老师：教授：校长 B．油田：油桶：油箱 D．钱币：黄金：银行",
+  "new": "钱币：黄金：银行"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-078",
+  "field": "answer",
+  "old": "B",
+  "new": "A"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-079",
+  "field": "option.B",
+  "old": "B．大树 梁柱",
+  "new": "大树 梁柱"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-079",
+  "field": "option.D",
+  "old": "D．树根 塔楼",
+  "new": "树根 塔楼"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-090",
+  "field": "option.B",
+  "old": "—些具有团队精神的员工执行力并不弱 B.D．具有团队精神员工都是执行力弱的员工",
+  "new": "—些具有团队精神的员工执行力并不弱"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-095",
+  "field": "option.B",
+  "old": "“您家老太太这么大岁数了，患胃癌可能性很大，建议做胃镜检查进行确诊，做个胃镜又没多少钱” B.D．“通过病情描述，您母亲很可能患的是晚期肿瘤，必须要及时治疗，你们再好好商量一下吧”",
+  "new": "“您家老太太这么大岁数了，患胃癌可能性很大，建议做胃镜检查进行确诊，做个胃镜又没多少钱”"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2023_e.json",
+  "id": "institution-xingce-panduan-2023-e-099",
+  "field": "option.B",
+  "old": "“王奶奶，用药就跟吃饭似的，一下子吃好多，不但消化不了，搞不好还得生病。您这个药也是一样， 分次用效果更好” B.D．“王奶奶，不是我们医院这么输液，这个药就是这么用的，所有的医院都这么输，不信您可以去问问",
+  "new": "“王奶奶，用药就跟吃饭似的，一下子吃好多，不但消化不了，搞不好还得生病。您这个药也是一样， 分次用效果更好”"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_a.json",
+  "id": "institution-xingce-panduan-2024-a-059",
+  "field": "option.B",
+  "old": "因遭遇海上风暴而导致船舶上所装载的部分货物受损 B.D．船舶因船长指挥失误延迟到达而额外支付的船员工资",
+  "new": "因遭遇海上风暴而导致船舶上所装载的部分货物受损"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_a.json",
+  "id": "institution-xingce-panduan-2024-a-059",
+  "field": "option.D",
+  "old": "60. 在某领域，图是由若干点以及两个点之同的连线构成的，若干条前后不分叉按照一个不可逆方向相连的若 干连线称为路径；如果每个点存在径到达其他点，则称该图是连通图；如果一个路径从起点出发能到达起 点，则称该路径为一个回路，没有回路的连通图就是树。 根据上述定义，以下哪项是树？（ ） A．只有（1） C．只有（3） B．只有（2） D．只有（1）（3）",
+  "new": "船舶因船长指挥失误延迟到达而额外支付的船员工资"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_a.json",
+  "id": "institution-xingce-panduan-2024-a-085",
+  "field": "option.B",
+  "old": "B．转移论题",
+  "new": "转移论题"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_b.json",
+  "id": "institution-xingce-panduan-2024-b-090",
+  "field": "option.B",
+  "old": "实验期间，高低自由时间组较大改变了参与者原有的生活习惯，从而影响了其幸福感 B.D．拥有高和低自由时间的人在从事业余爱好活动时，其幸福感与中等自由时间的人相似",
+  "new": "实验期间，高低自由时间组较大改变了参与者原有的生活习惯，从而影响了其幸福感"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_b.json",
+  "id": "institution-xingce-panduan-2024-b-092",
+  "field": "option.B",
+  "old": "B．黄芪和党参都种植",
+  "new": "黄芪和党参都种植"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_b.json",
+  "id": "institution-xingce-panduan-2024-b-099",
+  "field": "option.B",
+  "old": "刘鹗曾经协助王懿荣行甲骨研究 B.D．王国维用甲骨文拼出六位商王名字",
+  "new": "刘鹗曾经协助王懿荣行甲骨研究"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_b.json",
+  "id": "institution-xingce-panduan-2024-b-099",
+  "field": "option.D",
+  "old": "100.这段文字接下来应该介绍（ ）。 A．中央研究院对于殷墟的考古发掘 B．疑古思潮对传统古史体系的质疑 C．西方与中国古史的不同路径 D．非法盗卖对殷商甲骨造成的破坏     版权所有 复制必究",
+  "new": "王国维用甲骨文拼出六位商王名字"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-075",
+  "field": "option.B",
+  "old": "B．绳锯：木断",
+  "new": "量变：质变：突变"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-075",
+  "field": "option.D",
+  "old": "D．开云：见日 B．钢都：鞍山 D．玩具：积木 B．铁饼：铁桶：桶 D．炒饭：炒面：面 B．沙漠：气旋：沙尘 D．声源：频率：声音 B．量变：质变：突变 D．遇险：报警：获救",
+  "new": "遇险：报警：获救"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-080",
+  "field": "option.B",
+  "old": "B．书本 厨房",
+  "new": "书本 厨房"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-080",
+  "field": "option.D",
+  "old": "D．笔筒 立式冰箱",
+  "new": "笔筒 立式冰箱"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-085",
+  "field": "option.B",
+  "old": "B．王展示了乐器",
+  "new": "王展示了乐器"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-087",
+  "field": "option.D",
+  "old": "D．如果一个理论已经被许多观测所证实，那么它理论上就不可能自相矛盾",
+  "new": "如果一个理论已经被许多观测所证实，那么它理论上就不可能自相矛盾"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-090",
+  "field": "option.B",
+  "old": "使用的是不完全归纳论证 B.D．使用的是事实到理论的演绎论证",
+  "new": "使用的是不完全归纳论证"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-099",
+  "field": "option.B",
+  "old": "醋对种子发芽速度的影响 B.D．不同酸碱度环境对种子发芽的影响",
+  "new": "醋对种子发芽速度的影响"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_c.json",
+  "id": "institution-xingce-panduan-2024-c-099",
+  "field": "option.D",
+  "old": "100.本实验有助于解释以下哪项？（ ） A．盐碱地农作物歉收的原因 B．酸雨环境不利于农业生产的原因 C．空气不流通不利于农业生产的原因 D．温带农作物产量高于高寒地区的原因     版权所有 复制必究",
+  "new": "不同酸碱度环境对种子发芽的影响"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_e.json",
+  "id": "institution-xingce-panduan-2024-e-090",
+  "field": "option.B",
+  "old": "B．黄芪和党参都种植",
+  "new": "黄芪和党参都种植"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_e.json",
+  "id": "institution-xingce-panduan-2024-e-095",
+  "field": "option.B",
+  "old": "“可以，我将单位电话留给您吧，有需要随时联系” B.D．“抱歉，我马上就下班了，公私要分开，不能给您留电话”",
+  "new": "“可以，我将单位电话留给您吧，有需要随时联系”"
+ },
+ {
+  "file": "src/data/xingce/panduan/institution_2024_e.json",
+  "id": "institution-xingce-panduan-2024-e-095",
+  "field": "option.D",
+  "old": "B．患者意识清楚，有知情权和决定权，医生应积极建议家属与患者沟通，保证患者知晓病情，自行决定手 术与否 C．医生应将诊治相关情况，如方案选择、预后及并发症情况等充分告知家属，建议家属与患者商量、慎重 决策 D．向家属说明肺癌脑转移是众多恶性肿瘤脑转移中最常见的，符合指征的脑转移瘤手术切除能显著提高患 者的生存质量，延长生存时间     版权所有 复制必究",
+  "new": "“抱歉，我马上就下班了，公私要分开，不能给您留电话”"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2017_dishi.json",
+  "id": "national-xingce-panduan-2017-dishi-088",
+  "field": "option.D",
+  "old": "姐姐期中考试得了 99 分，期末考试得了 95 分，妈妈批评了她；弟弟期中考试得了 75 分，期末考试得了 85 分，妈妈奖励了他 B、飞行中的飞机被导弹击中坠落 D、冬日中午，冰棱融化后从屋檐掉下",
+  "new": "姐姐期中考试得了99 分，期末考试得了95 分，妈妈批评了她；弟弟期中考试得了75 分，期末考试得了85 分，妈妈奖励了他"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2017_fushengjia.json",
+  "id": "national-xingce-panduan-2017-fushengjia-089",
+  "field": "option.D",
+  "old": "某化工集团按照国家规定获得的技术补贴 B、飞行中的飞机被导弹击中坠落 D、冬日中午，冰棱融化后从屋檐掉下",
+  "new": "某化工集团按照国家规定获得的技术补贴"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2017_fushengjia.json",
+  "id": "national-xingce-panduan-2017-fushengjia-113",
+  "field": "option.A",
+  "old": "B、C 代替。甲说 B＞C；乙说 A＜C；丙说 A＜B；教练说他们之中最多有一个人说 了假话。 假如教练说的是假话，则甲、乙、丙数字大小顺序可能是： A、A＞B＞C",
+  "new": "A＞B＞C"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2019_dishi.json",
+  "id": "national-xingce-panduan-2019-dishi-082",
+  "field": "option.B",
+  "old": "谋事在人，成事在天 B、世界上身高最高的人 B、b3、5a、8n、p1、66 C、可怜之人必有可恨之处 B、竹外桃花三两枝，春江水暖鸭先知",
+  "new": "世界上身高最高的人"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2019_fushengjia.json",
+  "id": "national-xingce-panduan-2019-fushengjia-088",
+  "field": "option.D",
+  "old": "经常坐在教室第一排正中间的同学 - 10 - B、谋事在人，成事在天 C、f4、h4、gm、y2、x2 D、a3、b5、d6、p1、e3 B、b3、5a、8n、p1、66 B、竹外桃花三两枝，春江水暖鸭先知 D、羌笛何须怨杨柳，春风不度玉门关 D、风热感冒宜用辛凉解表法治疗，风寒感冒宜用辛温解表法治疗",
+  "new": "风热感冒宜用辛凉解表法治疗，风寒感冒宜用辛温解表法治疗"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2020_dishi.json",
+  "id": "national-xingce-panduan-2020-dishi-074",
+  "field": "option.A",
+  "old": "B、C、D 和数字 1、2、3、4 代表的棱的对应关系为： A、1-C，2-A，3-B，4-D",
+  "new": "1-C，2-A，3-B，4-D"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2020_fushengjia.json",
+  "id": "national-xingce-panduan-2020-fushengjia-110",
+  "field": "option.D",
+  "old": "雷击这样大规模、速度极快的放电，先摧毁了外部的藤蔓植物，中间的树木得到了保护 B、小张这个夏天去游喀纳斯 D、小张这个夏天去游吐鲁番 - 13 - C、丙坐在 C 座 D、戊坐在 F 座 B、乙坐在 D 座",
+  "new": "雷击这样大规模、速度极快的放电，先摧毁了外部的藤蔓植物，中间的树木得到了保护"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2020_fushengjia.json",
+  "id": "national-xingce-panduan-2020-fushengjia-115",
+  "field": "option.D",
+  "old": "大多数连续地震是一次强震后发生的一系列余震，但该州地震并不属于这种情况 五、资料分析。所给出的图、表、文字或综合性资料均有若干个问题要你回答。你应根据资料提供的信息进行分 析、比较、计算和判断处理。 B、ATP2B1 蛋白质发挥作用需要胆固醇 D、已研制出降低胆固醇的靶向治疗药物 B、25% D、16%",
+  "new": "大多数连续地震是一次强震后发生的一系列余震，但该州地震并不属于这种情况 五、资料分析。所给出的图、表、文字或综合性资料均有若干个问题要你回答。你应根据资料提供的信息进行分 析、比较、计算和判断处理。"
+ },
+ {
+  "file": "src/data/xingce/panduan/national_2022_xingzhengzhifa.json",
+  "id": "national-xingce-panduan-2022-xingzhengzhifa-075",
+  "field": "option.A",
+  "old": "如上图所示 B.如上图所示 C.如上图所示 D.如上图所示",
+  "new": "如上图所示"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_anhui_2022.json",
+  "id": "provincial-anhui-xingce-panduan-2022-095",
+  "field": "option.B",
+  "old": "科学家们发现了“不需要呼吸”的动物，比较符合金星的大气条件 B.D.磷化氢需要很多能量来制作，且任何行星上都不太可能存在太多磷，因此一颗行星产生大量磷化氢的可能性",
+  "new": "科学家们发现了“不需要呼吸”的动物，比较符合金星的大气条件"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_beijing_2021.json",
+  "id": "provincial-beijing-xingce-panduan-2021-100",
+  "field": "option.A",
+  "old": "B、C、D、E 五个市的文化馆。 （2）甲只与其中两人人事。 （3）来自",
+  "new": "B 市"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_beijing_2021.json",
+  "id": "provincial-beijing-xingce-panduan-2021-100",
+  "field": "option.B",
+  "old": "C、E 三市的三人之前一起参加过会议，相互熟悉。 （4）D 市的与会者认识三人。 （5）乙不是 B 市的，并且和 B 市与会者头次见面。 （6）C 市与会者和丙相识。 （7）丁只与一个人见过面。 根据以上信息，可以推断，戊来自哪座城市的文化馆？ A、B 市 B、C 市",
+  "new": "C 市"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_chongqing_2024.json",
+  "id": "provincial-chongqing-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "吴妈妈和张妈妈 B.D.郑妈妈和张妈妈",
+  "new": "吴妈妈和张妈妈"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_fujian_2020.json",
+  "id": "provincial-fujian-xingce-panduan-2020-094",
+  "field": "option.D",
+  "old": "有政治∶有形象∶有人格 B、水泥∶房屋∶建造 D、太阳∶阳光∶辐射 B、下农村∶进工厂∶劳动锻炼 D、大学生∶志愿者∶奉献社会 B、前赴∶后继 D、有眼∶无珠 B、伏虎降龙∶强大 D、集萤映雪∶夏夜 B、翻天覆地∶一成不变 D、顺风转舵∶见机行事 B、东山∶再起 D、助人∶为乐 B、或为玉碎∶或为瓦全 D、锲而不舍∶金石可镂 B、园丁∶教师 D、钢琴家∶演奏",
+  "new": "钢琴家∶演奏"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_fujian_2024.json",
+  "id": "provincial-fujian-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "甲和丁 B.D.丙和庚",
+  "new": "甲和丁"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_gansu_2024.json",
+  "id": "provincial-gansu-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "③④ B.D.①②③④",
+  "new": "③④"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_guangdong_2022.json",
+  "id": "provincial-guangdong-xingce-panduan-2022-065",
+  "field": "option.B",
+  "old": "所有素食主义者都是人文主义者，而所有和平主义者都是人文主义者，因此素食主义者一定是和平主义者 B.D．利己主义者总是以自身利益最大化作为行事准则，而单纯造求自身利益的最大化必然会损害到他人利益， 因此利己主义者总会和他人发生冲突",
+  "new": "所有素食主义者都是人文主义者，而所有和平主义者都是人文主义者，因此素食主义者一定是和平主义者"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_guangdong_2022.json",
+  "id": "provincial-guangdong-xingce-panduan-2022-085",
+  "field": "option.B",
+  "old": "空气湿度越大，森林的蒸散作用越弱 B.D．相较于夜晚，该地生态系统在白天时蒸散作用强度明显减弱",
+  "new": "空气湿度越大，森林的蒸散作用越弱"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-panduan-2024-065",
+  "field": "option.B",
+  "old": "该景区门票预约系统操作繁琐，许多游客反映预约体验不佳 B.D.游客预约的时段过于集中，一些时段人满为患、一些时段无人预约",
+  "new": "该景区门票预约系统操作繁琐，许多游客反映预约体验不佳"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-panduan-2024-070",
+  "field": "option.B",
+  "old": "人体中的胰岛素由肝脏分泌 B.D.血液中的胰岛素浓度过高会导致低血糖",
+  "new": "人体中的胰岛素由肝脏分泌"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-panduan-2024-095",
+  "field": "option.B",
+  "old": "甲和丁 B.D.丙和庚",
+  "new": "甲和丁"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_guizhou_2024.json",
+  "id": "provincial-guizhou-xingce-panduan-2024-090",
+  "field": "option.B",
+  "old": "甲和丁 B.D.丙和庚",
+  "new": "甲和丁"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hainan_2024.json",
+  "id": "provincial-hainan-xingce-panduan-2024-095",
+  "field": "option.B",
+  "old": "甲和丁 B.D.丙和庚",
+  "new": "甲和丁"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hebei_2024.json",
+  "id": "provincial-hebei-xingce-panduan-2024-098",
+  "field": "option.B",
+  "old": "B.清洁能源：传统能源：污染减少",
+  "new": "混合物：化合物：纯净物"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hebei_2024.json",
+  "id": "provincial-hebei-xingce-panduan-2024-098",
+  "field": "option.D",
+  "old": "D.自然现象：社会现象：火山爆发 B.混合物：化合物：纯净物 D.说明文：举例子：作比较",
+  "new": "说明文：举例子：作比较"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_heilongjiang_2024.json",
+  "id": "provincial-heilongjiang-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "鸡绒的柄比较突出，如果用作填充物，可能会戳破面料，所以鸡绒不适合用作羽绒服填充物 B.D.粉碎鸡毛，细碎的羽绒捕获空气能力差，而且容易突出外层",
+  "new": "鸡绒的柄比较突出，如果用作填充物，可能会戳破面料，所以鸡绒不适合用作羽绒服填充物"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hubei_2024.json",
+  "id": "provincial-hubei-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "赵和郑 B.D.吴和孙",
+  "new": "赵和郑"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hunan_2020.json",
+  "id": "provincial-hunan-xingce-panduan-2020-094",
+  "field": "option.D",
+  "old": "有政治∶有形象∶有人格 B、下农村∶进工厂∶劳动锻炼 D、大学生∶志愿者∶奉献社会",
+  "new": "大学生∶志愿者∶奉献社会"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hunan_2021.json",
+  "id": "provincial-hunan-xingce-panduan-2021-093",
+  "field": "option.D",
+  "old": "学校∶教师∶教书育人 B、天灾人祸∶物种∶减少 D、气候变暖∶冰川∶消融",
+  "new": "气候变暖∶冰川∶消融"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_hunan_2024.json",
+  "id": "provincial-hunan-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "甲和丁 B.D.丙和庚",
+  "new": "甲和丁"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangsu_2024.json",
+  "id": "provincial-jiangsu-xingce-panduan-2024-073",
+  "field": "option.B",
+  "old": "B.舞蹈表演：艺术表演：观赏",
+  "new": "阅读辅导：读写辅导：写作辅导"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangsu_2024.json",
+  "id": "provincial-jiangsu-xingce-panduan-2024-073",
+  "field": "option.D",
+  "old": "D.数字贸易：新兴贸易：互惠 B.阅读辅导：读写辅导：写作辅导 D.物质文明：现代文明：精神文明",
+  "new": "物质文明：现代文明：精神文明"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangsu_2024.json",
+  "id": "provincial-jiangsu-xingce-panduan-2024-103",
+  "field": "option.B",
+  "old": "成年小白鼠去除生物钟基因之后的休息时间是否与未去除之前的休息时间相同 B.D.成年小白鼠去除生物钟基因之后的生活质量是否会影响小白鼠的整体健康状况",
+  "new": "成年小白鼠去除生物钟基因之后的休息时间是否与未去除之前的休息时间相同"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangsu_2024.json",
+  "id": "provincial-jiangsu-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "B.王教授指导小型城市客厅打造项目",
+  "new": "王教授指导小型城市客厅打造项目"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangsu_2024.json",
+  "id": "provincial-jiangsu-xingce-panduan-2024-105",
+  "field": "option.D",
+  "old": "D.小郑参加跨区断头路建设项目 第18⻚，共25⻚",
+  "new": "小郑参加跨区断头路建设项目 第18⻚，共25⻚"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangsu_2024.json",
+  "id": "provincial-jiangsu-xingce-panduan-2024-115",
+  "field": "option.B",
+  "old": "（1）白头格，（2）摘顶格，（3）秋千格 B.D.（1）秋千格，（2）摘顶格，（3）白头格",
+  "new": "（1）白头格，（2）摘顶格，（3）秋千格"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangxi_2023.json",
+  "id": "provincial-jiangxi-xingce-panduan-2023-088",
+  "field": "option.B",
+  "old": "B.商家促销“买桌子送椅子”",
+  "new": "商家促销“买桌子送椅子”"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangxi_2023.json",
+  "id": "provincial-jiangxi-xingce-panduan-2023-088",
+  "field": "option.D",
+  "old": "D.购买家电享受“三包服务”",
+  "new": "购买家电享受“三包服务” 第15页，共24页"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangxi_2023.json",
+  "id": "provincial-jiangxi-xingce-panduan-2023-115",
+  "field": "option.B",
+  "old": "研究发现金星云层的水含量仅相当于维持类地生命所需水含量的百分之一 B.D.最新的金星生态系统仿真模拟显示，金星的液态水可能维持大约30亿年，只是在7亿5千万年前金星才变得不",
+  "new": "研究发现金星云层的水含量仅相当于维持类地生命所需水含量的百分之一"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangxi_2024.json",
+  "id": "provincial-jiangxi-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "B.清洁能源：传统能源：污染减少",
+  "new": "清洁能源：传统能源：污染减少"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_jiangxi_2024.json",
+  "id": "provincial-jiangxi-xingce-panduan-2024-105",
+  "field": "option.D",
+  "old": "D.自然现象：社会现象：火山爆发",
+  "new": "自然现象：社会现象：火山爆发 第18页，共25页"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_liaoning_2024.json",
+  "id": "provincial-liaoning-xingce-panduan-2024-100",
+  "field": "option.B",
+  "old": "有些虚拟环境中的智力和体力的对抗是单纯依靠运气成分获胜的 B.D.所有无规则的竞技都是单纯依靠运气成分获胜的",
+  "new": "有些虚拟环境中的智力和体力的对抗是单纯依靠运气成分获胜的"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_qinghai_2024.json",
+  "id": "provincial-qinghai-xingce-panduan-2024-105",
+  "field": "option.B",
+  "old": "吴妈妈和张妈妈 B.D.郑妈妈和张妈妈",
+  "new": "吴妈妈和张妈妈"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shaanxi_2024.json",
+  "id": "provincial-shaanxi-xingce-panduan-2024-090",
+  "field": "option.B",
+  "old": "吴妈妈和张妈妈 B.D.郑妈妈和张妈妈",
+  "new": "吴妈妈和张妈妈"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shandong_2023.json",
+  "id": "provincial-shandong-xingce-panduan-2023-075",
+  "field": "option.B",
+  "old": "小区内的公共绿地归业主所有，老王在公共绿地上种菜应该提前告知其他业主 B.D.改变小区公共绿地的用途应由业主共同决定，只要其他业主同意，老王就可以在公共绿地上种菜",
+  "new": "小区内的公共绿地归业主所有，老王在公共绿地上种菜应该提前告知其他业主"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shandong_2024.json",
+  "id": "provincial-shandong-xingce-panduan-2024-100",
+  "field": "option.B",
+  "old": "小钱 B.D.小李",
+  "new": "小钱"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-panduan-2025-087",
+  "field": "option.B",
+  "old": "B．中山装：马面裙：燕尾服",
+  "new": "破晓：日暮：日中"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-panduan-2025-087",
+  "field": "option.D",
+  "old": "D．花猫：黑猫：波斯猫 B．木：梁柱：床柜 D．土：坡地：坷垃 B．破晓：日暮：日中 D．剪刻：构图：装裱",
+  "new": "剪刻：构图：装裱"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-panduan-2025-090",
+  "field": "option.B",
+  "old": "气势磅礴；窃窃私语 B.D．舞文弄墨；口若悬河",
+  "new": "气势磅礴；窃窃私语"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-panduan-2025-091",
+  "field": "option.B",
+  "old": "大量饮水会加重肾脏负担，引起水中毒 B.D．急性肾功能衰竭是低钠血症的主要病因之一，不是症状",
+  "new": "大量饮水会加重肾脏负担，引起水中毒"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-panduan-2020-080",
+  "field": "option.D",
+  "old": "2013 年末，重庆常住人口同比增量高于 10 城市常住人口同比增量的平均值 （四） 表 1 2016～2021 年我国工业大数据市场规模增长及预测 表 2 按不同方式划分的 2018 年我国工业大数据销售额比例 C、2018 B、2017",
+  "new": "2013 年末，重庆常住人口同比增量高于10 城市常住人口同比增量的平均值 （四） 表1 2016～2021 年我国工业大数据市场规模增长及预测 表2 按不同方式划分的2018 年我国工业大数据销售额比例"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-panduan-2020-087",
+  "field": "option.D",
+  "old": "进口额比出口额高 100 亿元以上 。 的直辖市有 个。 D、3 B、1",
+  "new": "3"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-panduan-2020-090",
+  "field": "option.C",
+  "old": "D、 。",
+  "new": "2018 年12 月，上海中外合资企业出口额超过前11 个月平均值"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shanxi_2024.json",
+  "id": "provincial-shanxi-xingce-panduan-2024-110",
+  "field": "option.B",
+  "old": "棕色脂肪细胞有助于身体维持体温，抵御寒冬 B.D.干扰转运蛋白活性的物质可用于肥胖症治疗",
+  "new": "棕色脂肪细胞有助于身体维持体温，抵御寒冬"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_shenzhen_2024.json",
+  "id": "provincial-shenzhen-xingce-panduan-2024-033",
+  "field": "option.D",
+  "old": "1-3-2-5-4 C.3-5-1-2-4 D.3-2-5-4-1 6 （4）利用评估报告作为背书 （5）无视公共利益强行排海",
+  "new": "5-2-3-1-4"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_sichuan_2021.json",
+  "id": "provincial-sichuan-xingce-panduan-2021-085",
+  "field": "option.B",
+  "old": "某住户连续两天都看到甲和乙在上班 B.D.某住户已经连续三天晚上下班回家都没有看见丙在上班",
+  "new": "某住户连续两天都看到甲和乙在上班"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_sichuan_2024.json",
+  "id": "provincial-sichuan-xingce-panduan-2024-085",
+  "field": "option.B",
+  "old": "赵 B.D.钱",
+  "new": "赵"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_tianjin_2024.json",
+  "id": "provincial-tianjin-xingce-panduan-2024-100",
+  "field": "option.B",
+  "old": "赵和郑 B.D.吴和孙",
+  "new": "赵和郑"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-panduan-2024-100",
+  "field": "option.B",
+  "old": "南辕北辙 通宵达旦 B.D.扬汤止沸 凿壁偷光",
+  "new": "南辕北辙 通宵达旦"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_yunnan_2024.json",
+  "id": "provincial-yunnan-xingce-panduan-2024-075",
+  "field": "option.B",
+  "old": "B.纺织产业：物流产业：产业",
+  "new": "科幻片：纪录片：故事片"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_yunnan_2024.json",
+  "id": "provincial-yunnan-xingce-panduan-2024-075",
+  "field": "option.D",
+  "old": "D.商品住房：保障住房：住房 B.科幻片：纪录片：故事片 D.运动员：跆拳道：大学生",
+  "new": "运动员：跆拳道：大学生"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_yunnan_2024.json",
+  "id": "provincial-yunnan-xingce-panduan-2024-085",
+  "field": "option.B",
+  "old": "甲和丁 B.D.丙和庚",
+  "new": "甲和丁"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_zhejiang_2022.json",
+  "id": "provincial-zhejiang-xingce-panduan-2022-110",
+  "field": "option.B",
+  "old": "据研究显示，可可中含有的茶碱和咖啡因可以刺激大脑分泌内啡肽，而内啡肽对减轻压力和缓解疼痛非常有 效 B.D.每天至少30分钟的运动，有助于大脑产生缓解压力和焦虑所需的激素",
+  "new": "据研究显示，可可中含有的茶碱和咖啡因可以刺激大脑分泌内啡肽，而内啡肽对减轻压力和缓解疼痛非常有 效"
+ },
+ {
+  "file": "src/data/xingce/panduan/provincial_zhejiang_2024.json",
+  "id": "provincial-zhejiang-xingce-panduan-2024-110",
+  "field": "option.B",
+  "old": "呼吸样本波动性极高，很容易受饮食、环境甚至情绪影响 B.D.即使患呼吸道疾病，一个人呼吸运动的独特性也会在很长时间内保持不变",
+  "new": "呼吸样本波动性极高，很容易受饮食、环境甚至情绪影响"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_a.json",
+  "id": "institution-xingce-shuliang-2020-a-050",
+  "field": "option.B",
+  "old": "0.4x-0.5x 千米/小时之间 B.D．0.6x 千米/小时以上",
+  "new": "0.4x-0.5x 千米/小时之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_a.json",
+  "id": "institution-xingce-shuliang-2020-a-073",
+  "field": "option.B",
+  "old": "B．粮食；知识",
+  "new": "土地；情感"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_a.json",
+  "id": "institution-xingce-shuliang-2020-a-073",
+  "field": "option.D",
+  "old": "D．航运；解释 B．土地；情感 D．数学；宋词",
+  "new": "数学；宋词"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_a.json",
+  "id": "institution-xingce-shuliang-2020-a-083",
+  "field": "option.B",
+  "old": "妈妈认定儿子知道什么是说谎 B.D．妈妈相信儿子最终将会说真话",
+  "new": "妈妈认定儿子知道什么是说谎"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_a.json",
+  "id": "institution-xingce-shuliang-2020-a-085",
+  "field": "option.B",
+  "old": "B．丁在初二值班",
+  "new": "丁在初二值班"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_e.json",
+  "id": "institution-xingce-shuliang-2020-e-050",
+  "field": "option.B",
+  "old": "B．60",
+  "new": "60"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2020_e.json",
+  "id": "institution-xingce-shuliang-2020-e-050",
+  "field": "option.D",
+  "old": "D．120 第四部分 资料分析 根据题目要求，在四个选项中选出一个最恰当的答案。 材料一",
+  "new": "120 第四部分 资料分析 根据题目要求，在四个选项中选出一个最恰当的答案。 材料一"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_b.json",
+  "id": "institution-xingce-shuliang-2021-b-045",
+  "field": "option.B",
+  "old": "B．12",
+  "new": "12"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_b.json",
+  "id": "institution-xingce-shuliang-2021-b-074",
+  "field": "option.B",
+  "old": "B．渔网∶网鱼",
+  "new": "子∶丑∶属相"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_b.json",
+  "id": "institution-xingce-shuliang-2021-b-074",
+  "field": "option.D",
+  "old": "D．风扇∶扇风 B．孩子∶儿女 D．植物∶食物 B．登高∶望远 D．争强∶好胜 B．子∶丑∶属相 D．乾∶坤∶八卦",
+  "new": "乾∶坤∶八卦"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_b.json",
+  "id": "institution-xingce-shuliang-2021-b-095",
+  "field": "option.B",
+  "old": "从古寺佛像修复看文物古迹的保护 B.D．如何制定合理的文物古迹保护和修复计划",
+  "new": "从古寺佛像修复看文物古迹的保护"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_c.json",
+  "id": "institution-xingce-shuliang-2021-c-051",
+  "field": "option.B",
+  "old": "B．10",
+  "new": "10"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_c.json",
+  "id": "institution-xingce-shuliang-2021-c-051",
+  "field": "option.D",
+  "old": "D．30",
+  "new": "30"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_c.json",
+  "id": "institution-xingce-shuliang-2021-c-055",
+  "field": "option.B",
+  "old": "B．东北",
+  "new": "东北"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_e.json",
+  "id": "institution-xingce-shuliang-2021-e-051",
+  "field": "option.D",
+  "old": "D． 以上 之间",
+  "new": "以上"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_e.json",
+  "id": "institution-xingce-shuliang-2021-e-052",
+  "field": "option.B",
+  "old": "B．4",
+  "new": "4"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2021_e.json",
+  "id": "institution-xingce-shuliang-2021-e-052",
+  "field": "option.D",
+  "old": "D．6",
+  "new": "6"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_a.json",
+  "id": "institution-xingce-shuliang-2022-a-050",
+  "field": "option.B",
+  "old": "B．0.3～0.5 之间",
+  "new": "0.3～0.5 之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_a.json",
+  "id": "institution-xingce-shuliang-2022-a-050",
+  "field": "option.D",
+  "old": "D．大于 0.7 第四部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "大于0.7 第四部分 判断推理 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_a.json",
+  "id": "institution-xingce-shuliang-2022-a-080",
+  "field": "option.B",
+  "old": "自购的英文原版本至少 1 本 B.D．自购的英文原版书少于从图书馆借阅的中文图书",
+  "new": "自购的英文原版本至少1 本"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_a.json",
+  "id": "institution-xingce-shuliang-2022-a-083",
+  "field": "option.B",
+  "old": "使用 AI 主播之前，新闻节目的平均收视率是多少？ B.D．这两档电视节目的制作水平、播出时段是否存在差异？",
+  "new": "使用AI 主播之前，新闻节目的平均收视率是多少？"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_a.json",
+  "id": "institution-xingce-shuliang-2022-a-085",
+  "field": "option.B",
+  "old": "“只有喜欢大型犬的人才会反对这项法规”4 号 B.D．“若居民家中的大型犬要被禁养，则包括军用犬、警用犬在内的所有大型犬均要被禁养”6 号",
+  "new": "“只有喜欢大型犬的人才会反对这项法规”4 号"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_b.json",
+  "id": "institution-xingce-shuliang-2022-b-047",
+  "field": "option.B",
+  "old": "B．60",
+  "new": "60"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_b.json",
+  "id": "institution-xingce-shuliang-2022-b-047",
+  "field": "option.D",
+  "old": "D．70    A．不到 1 倍 C．1.5-2 倍之间  B．1-1.5 倍之间 D．超过 2 倍",
+  "new": "70"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_b.json",
+  "id": "institution-xingce-shuliang-2022-b-055",
+  "field": "option.B",
+  "old": "2021 年 1-5 月，全国新办非民营涉税市场主体数量多于 2020 年同期水平 B.D．2021 年 1-5 月，批发零售业、商务服务业、建筑业 3 个行业新办涉税市场主体数量之和是科学研究和技",
+  "new": "2021 年1-5 月，全国新办非民营涉税市场主体数量多于2020 年同期水平"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_b.json",
+  "id": "institution-xingce-shuliang-2022-b-060",
+  "field": "option.B",
+  "old": "平均轻度污染天数是中度及以上污染天数的五倍多 B.D．以",
+  "new": "平均轻度污染天数是中度及以上污染天数的五倍多"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_c.json",
+  "id": "institution-xingce-shuliang-2022-c-055",
+  "field": "option.B",
+  "old": "2020 年 S 省房屋建筑业产值超过 2800 亿元 B.D．2021 年 S 省工程技术人员占建筑业期末从业人员的比重不到 15%",
+  "new": "2020 年S 省房屋建筑业产值超过2800 亿元"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2022_e.json",
+  "id": "institution-xingce-shuliang-2022-e-050",
+  "field": "option.D",
+  "old": "材料 B．36 D．27",
+  "new": "27 51-55 题目暂缺 材料"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_b.json",
+  "id": "institution-xingce-shuliang-2023-b-049",
+  "field": "option.B",
+  "old": "B．3—4 之间",
+  "new": "3—4 之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_b.json",
+  "id": "institution-xingce-shuliang-2023-b-049",
+  "field": "option.D",
+  "old": "D．超过 0.5",
+  "new": "超过0.5"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_b.json",
+  "id": "institution-xingce-shuliang-2023-b-050",
+  "field": "option.D",
+  "old": "B．48 D．288 2010—2021 年全国用水量情况 单位：亿立方米",
+  "new": "288 材料一： 2010—2021 年全国用水量情况 单位：亿立方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_b.json",
+  "id": "institution-xingce-shuliang-2023-b-060",
+  "field": "option.B",
+  "old": "B．营业利润",
+  "new": "营业利润"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_c.json",
+  "id": "institution-xingce-shuliang-2023-c-050",
+  "field": "option.B",
+  "old": "B．√2",
+  "new": "√2"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_c.json",
+  "id": "institution-xingce-shuliang-2023-c-050",
+  "field": "option.D",
+  "old": "D．2     二、资料分析：请根据资料提供的信息，通过分析、比较、计算或判断，选出最符合每道题要求的一项。 请开始答题： 材料一：",
+  "new": "2 二、资料分析：请根据资料提供的信息，通过分析、比较、计算或判断，选出最符合每道题要求的一项。 请开始答题： 材料一："
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_e.json",
+  "id": "institution-xingce-shuliang-2023-e-050",
+  "field": "option.B",
+  "old": "B．54",
+  "new": "54"
+ },
+ {
+  "file": "src/data/xingce/shuliang/institution_2023_e.json",
+  "id": "institution-xingce-shuliang-2023-e-060",
+  "field": "option.B",
+  "old": "1 亿元 1.5 亿元之间 B.D．超过 2 亿元",
+  "new": "1 亿元1.5 亿元之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_anhui_2020.json",
+  "id": "provincial-anhui-xingce-shuliang-2020-003",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现需 要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需将 货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_anhui_2020.json",
+  "id": "provincial-anhui-xingce-shuliang-2020-007",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱，C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_chongqing_2020.json",
+  "id": "provincial-chongqing-xingce-shuliang-2020-068",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_chongqing_2020.json",
+  "id": "provincial-chongqing-xingce-shuliang-2020-069",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_fujian_2024.json",
+  "id": "provincial-fujian-xingce-shuliang-2024-063",
+  "field": "option.B",
+  "old": "B.在0.35~0.42之间",
+  "new": "在0.35~0.42之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_fujian_2024.json",
+  "id": "provincial-fujian-xingce-shuliang-2024-063",
+  "field": "option.D",
+  "old": "D.大于0.50 第 10 页，共 21 页",
+  "new": "大于0.50 第 10 页，共 21 页"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_fujian_2024.json",
+  "id": "provincial-fujian-xingce-shuliang-2024-070",
+  "field": "option.B",
+  "old": "12 B.D.14",
+  "new": "12"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_gansu_2020.json",
+  "id": "provincial-gansu-xingce-shuliang-2020-058",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 - 8 - 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_gansu_2023.json",
+  "id": "provincial-gansu-xingce-shuliang-2023-070",
+  "field": "option.B",
+  "old": "2 B.D.4",
+  "new": "2"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-shuliang-2024-045",
+  "field": "option.B",
+  "old": "55 B.D.65",
+  "new": "55"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guangxi_2020.json",
+  "id": "provincial-guangxi-xingce-shuliang-2020-052",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-shuliang-2024-055",
+  "field": "option.B",
+  "old": "1.1-1.2倍之间 B.D.1.3倍以上",
+  "new": "1.1-1.2倍之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guizhou_2020.json",
+  "id": "provincial-guizhou-xingce-shuliang-2020-059",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guizhou_2020.json",
+  "id": "provincial-guizhou-xingce-shuliang-2020-062",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guizhou_2020.json",
+  "id": "provincial-guizhou-xingce-shuliang-2020-063",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 - 8 - 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_guizhou_2024.json",
+  "id": "provincial-guizhou-xingce-shuliang-2024-060",
+  "field": "option.B",
+  "old": "12 B.D.14",
+  "new": "12"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hainan_2020.json",
+  "id": "provincial-hainan-xingce-shuliang-2020-045",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hainan_2020.json",
+  "id": "provincial-hainan-xingce-shuliang-2020-048",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hainan_2024.json",
+  "id": "provincial-hainan-xingce-shuliang-2024-065",
+  "field": "option.B",
+  "old": "8天 B.D.16天",
+  "new": "8天"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hebei_2020.json",
+  "id": "provincial-hebei-xingce-shuliang-2020-064",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hebei_2020.json",
+  "id": "provincial-hebei-xingce-shuliang-2020-068",
+  "field": "option.A",
+  "old": "B、C、D 四个地块，其中 A、B、C 的周长分别是 20 米、24 米、28 米，D 的最大面积是多少平方米？ A、42",
+  "new": "42"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hebei_2020.json",
+  "id": "provincial-hebei-xingce-shuliang-2020-072",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 - 9 - 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hebei_2022.json",
+  "id": "provincial-hebei-xingce-shuliang-2022-075",
+  "field": "option.B",
+  "old": "13个 B.D.20个",
+  "new": "13个"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hebei_2024.json",
+  "id": "provincial-hebei-xingce-shuliang-2024-075",
+  "field": "option.B",
+  "old": "3 B.D.6",
+  "new": "3"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_henan_2021.json",
+  "id": "provincial-henan-xingce-shuliang-2021-053",
+  "field": "option.B",
+  "old": "C 两区，清点时，B、C 两区鸟的数量都增加一倍。次日，一些鸟又从 B 区飞至 A、C 两区，清点时， A、C 两区鸟的数量也都增加一倍。第三日，一部分鸟又从 C 区飞至 A、B 两区，清点时，A、B 两区鸟的数量同样 增加一倍，而此时 C 区剩余鸟的数量恰好是 A 区的 7/26，那么，最初 A 区有多少只鸟？ A、103 B、104",
+  "new": "104"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_henan_2024.json",
+  "id": "provincial-henan-xingce-shuliang-2024-045",
+  "field": "option.B",
+  "old": "BC B.D.DA",
+  "new": "BC"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hubei_2020.json",
+  "id": "provincial-hubei-xingce-shuliang-2020-056",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hubei_2020.json",
+  "id": "provincial-hubei-xingce-shuliang-2020-064",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hubei_2020.json",
+  "id": "provincial-hubei-xingce-shuliang-2020-068",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_hunan_2024.json",
+  "id": "provincial-hunan-xingce-shuliang-2024-065",
+  "field": "option.B",
+  "old": "26 B.D.42",
+  "new": "26"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangsu_2021.json",
+  "id": "provincial-jiangsu-xingce-shuliang-2021-051",
+  "field": "option.A",
+  "old": "B、C 三个粮仓，原先粮食储量之比为 5:9:10，今年丰收后每个粮仓新增加的粮食储量相同，A、 B 两个粮仓的储量之比变为 3:5，则今年丰收后三个粮仓的储存总量比原先增加： A、12.5%",
+  "new": "12.5%"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangsu_2021.json",
+  "id": "provincial-jiangsu-xingce-shuliang-2021-055",
+  "field": "option.A",
+  "old": "B、C、D 四道工序，由甲、乙、丙、丁每人负责其中一道工序，四人单独完成每道 工序所需的时间（单位：分钟）如下表所示，则他们完成四道工序所需的总时间最少的是（ ）。 A、18 分钟",
+  "new": "18 分钟"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangxi_2020.json",
+  "id": "provincial-jiangxi-xingce-shuliang-2020-064",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangxi_2020.json",
+  "id": "provincial-jiangxi-xingce-shuliang-2020-070",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangxi_2020.json",
+  "id": "provincial-jiangxi-xingce-shuliang-2020-071",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangxi_2020.json",
+  "id": "provincial-jiangxi-xingce-shuliang-2020-076",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jiangxi_2020.json",
+  "id": "provincial-jiangxi-xingce-shuliang-2020-077",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jilin_2020.json",
+  "id": "provincial-jilin-xingce-shuliang-2020-057",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_jilin_2020.json",
+  "id": "provincial-jilin-xingce-shuliang-2020-059",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_liaoning_2020.json",
+  "id": "provincial-liaoning-xingce-shuliang-2020-067",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： - 9 - A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_liaoning_2024.json",
+  "id": "provincial-liaoning-xingce-shuliang-2024-070",
+  "field": "option.B",
+  "old": "20人 B.D.26人",
+  "new": "20人"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_neimenggu_2020.json",
+  "id": "provincial-neimenggu-xingce-shuliang-2020-064",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_neimenggu_2020.json",
+  "id": "provincial-neimenggu-xingce-shuliang-2020-067",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_neimenggu_2020.json",
+  "id": "provincial-neimenggu-xingce-shuliang-2020-068",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_ningxia_2020.json",
+  "id": "provincial-ningxia-xingce-shuliang-2020-057",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则 需将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_ningxia_2024.json",
+  "id": "provincial-ningxia-xingce-shuliang-2024-100",
+  "field": "option.B",
+  "old": "B.在0.35~0.42之间",
+  "new": "在0.35~0.42之间"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_qinghai_2020.json",
+  "id": "provincial-qinghai-xingce-shuliang-2020-079",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_qinghai_2020.json",
+  "id": "provincial-qinghai-xingce-shuliang-2020-080",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_qinghai_2020.json",
+  "id": "provincial-qinghai-xingce-shuliang-2020-064",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2022.json",
+  "id": "provincial-shandong-xingce-shuliang-2022-045",
+  "field": "option.B",
+  "old": "90 B.D.210",
+  "new": "90"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2023.json",
+  "id": "provincial-shandong-xingce-shuliang-2023-045",
+  "field": "option.B",
+  "old": "2.25 B.D.3.25",
+  "new": "2.25"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2024.json",
+  "id": "provincial-shandong-xingce-shuliang-2024-060",
+  "field": "option.B",
+  "old": "28 B.D.34",
+  "new": "28"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-shuliang-2025-051",
+  "field": "option.B",
+  "old": "B．104",
+  "new": "104"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-shuliang-2025-051",
+  "field": "option.D",
+  "old": "D．138 ~ 8 ~",
+  "new": "138 ~ 8 ~ 全国服务电话：400-6353-606"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-shuliang-2025-057",
+  "field": "option.B",
+  "old": "B．2",
+  "new": "2"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-shuliang-2025-057",
+  "field": "option.D",
+  "old": "D．5 ~ 9 ~",
+  "new": "5 ~ 9 ~ 全国服务电话：400-6353-606"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-shuliang-2025-060",
+  "field": "answer",
+  "old": "B",
+  "new": "D"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-shuliang-2025-060",
+  "field": "option.B",
+  "old": "B．380—420",
+  "new": "380—420"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shanxi_2020.json",
+  "id": "provincial-shanxi-xingce-shuliang-2020-043",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shanxi_2020.json",
+  "id": "provincial-shanxi-xingce-shuliang-2020-044",
+  "field": "option.A",
+  "old": "B、C、D 四座仓库，图中数字表示各仓库库存货物的吨数。现 需要把所有的货物集中存放在其中某一个仓库中，如果每吨货物运输 1 千米需要运费 3 元，要使运费最少，则需 将货物集中到哪座仓库？ A、仓库 A",
+  "new": "仓库A"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shanxi_2020.json",
+  "id": "provincial-shanxi-xingce-shuliang-2020-046",
+  "field": "option.A",
+  "old": "B、C 三个不同的仓储点，其中 A 地 1 箱，B 地 2 箱， C 地 3 箱，问配送方式有： A、60 种",
+  "new": "60 种"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_shanxi_2024.json",
+  "id": "provincial-shanxi-xingce-shuliang-2024-075",
+  "field": "option.B",
+  "old": "12 B.D.25",
+  "new": "12"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_sichuan_2021.json",
+  "id": "provincial-sichuan-xingce-shuliang-2021-055",
+  "field": "option.B",
+  "old": "25 B.D.27",
+  "new": "25"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_xinjiang_2020.json",
+  "id": "provincial-xinjiang-xingce-shuliang-2020-060",
+  "field": "option.B",
+  "old": "C 期刊的有多少人？ A、57 B、64",
+  "new": "64"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_xinjiang_2020.json",
+  "id": "provincial-xinjiang-xingce-shuliang-2020-063",
+  "field": "option.A",
+  "old": "B、C 三种食物的成本价之和。已知 A 食物每千克的成本价为 6 元。甲品种 每份售价为 58.5 元，利润为成本的 30%，乙品种的利润为成本的 20%。问如果两品种的总销售利润率至少要达 到总成本的 24%，销售甲、乙两个品种饮食的份数之比不应低于多少？ A、5:7",
+  "new": "5:7"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-shuliang-2024-065",
+  "field": "option.B",
+  "old": "6000元 B.D.8437.5元",
+  "new": "6000元"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_yunnan_2020.json",
+  "id": "provincial-yunnan-xingce-shuliang-2020-064",
+  "field": "option.A",
+  "old": "B、C、D 四块长方形土地 上分别种植西瓜、花生、地瓜、水稻。其中长方形 A、B、C 的周长分别是 20 米、24 米、28 米，那么长方形 D 的 最大面积是： - 8 - A、42 平方米",
+  "new": "42 平方米"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_yunnan_2024.json",
+  "id": "provincial-yunnan-xingce-shuliang-2024-055",
+  "field": "option.B",
+  "old": "39 B.D.82",
+  "new": "39"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_zhejiang_2020.json",
+  "id": "provincial-zhejiang-xingce-shuliang-2020-011",
+  "field": "option.A",
+  "old": "B、C、D、E 分到同一个小组，进行单循环赛（每两队赛一场，胜、平、负分 别积 3、1、0 分），结果 A、B、C、D 队总分分别是 1、4、7、8，那么 E 队最多可能得多少分？ A、5",
+  "new": "5"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_zhejiang_2021.json",
+  "id": "provincial-zhejiang-xingce-shuliang-2021-026",
+  "field": "option.A",
+  "old": "B、C、D 四个地区参与扶贫活动，其中 A 地区的志愿者人数要比 B 地 区多 4 人，C 地区人数为全部志愿者人数的 1/5，D 地区人数不超过任何其他地区，则 A 地区至少有多少名志愿 者？ A、12",
+  "new": "12"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_zhejiang_2021.json",
+  "id": "provincial-zhejiang-xingce-shuliang-2021-039",
+  "field": "option.A",
+  "old": "B、C、D、E 五块试验田中种植甲、乙、丙、丁、戊五种作物，每块试验田只种一种作物，每 年都在所有的安排中随机挑选一种进行种植。问在连续的 3 年中，A 试验田至少 2 年种植同一种作物的概率为: A、36%",
+  "new": "36%"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_zhejiang_2022.json",
+  "id": "provincial-zhejiang-xingce-shuliang-2022-070",
+  "field": "option.B",
+  "old": "21岁 B.D.27岁",
+  "new": "21岁"
+ },
+ {
+  "file": "src/data/xingce/shuliang/provincial_zhejiang_2024.json",
+  "id": "provincial-zhejiang-xingce-shuliang-2024-070",
+  "field": "option.B",
+  "old": "81 B.D.274",
+  "new": "81"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2020_e.json",
+  "id": "institution-xingce-yanyu-2020-e-045",
+  "field": "option.B",
+  "old": "B．⑤②①④③⑥",
+  "new": "⑤②①④③⑥"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2020_e.json",
+  "id": "institution-xingce-yanyu-2020-e-045",
+  "field": "option.D",
+  "old": "D．⑥③①④⑤②     第三部分 数量关系 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "⑥③①④⑤② 第三部分 数量关系 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2021_b.json",
+  "id": "institution-xingce-yanyu-2021-b-020",
+  "field": "option.B",
+  "old": "成熟红细胞有细胞核，胞质内充满血红蛋白 B.D．血小板是一种血细胞，在止血过程中有重要作用",
+  "new": "成熟红细胞有细胞核，胞质内充满血红蛋白"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2021_b.json",
+  "id": "institution-xingce-yanyu-2021-b-027",
+  "field": "option.B",
+  "old": "B．如日中天 惊人",
+  "new": "如日中天 惊人"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2021_b.json",
+  "id": "institution-xingce-yanyu-2021-b-027",
+  "field": "option.D",
+  "old": "D．风靡一时 复杂",
+  "new": "风靡一时 复杂"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2021_b.json",
+  "id": "institution-xingce-yanyu-2021-b-040",
+  "field": "option.B",
+  "old": "②④①③⑥⑤     B.D．④⑥⑤③①②",
+  "new": "②④①③⑥⑤"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_a.json",
+  "id": "institution-xingce-yanyu-2022-a-026",
+  "field": "option.B",
+  "old": "B．量体裁衣 节点",
+  "new": "量体裁衣 节点"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_a.json",
+  "id": "institution-xingce-yanyu-2022-a-026",
+  "field": "option.D",
+  "old": "D．条分缕析 基点",
+  "new": "条分缕析 基点"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_c.json",
+  "id": "institution-xingce-yanyu-2022-c-022",
+  "field": "option.B",
+  "old": "B．助推器",
+  "new": "助推器"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_c.json",
+  "id": "institution-xingce-yanyu-2022-c-022",
+  "field": "option.D",
+  "old": "D．指挥棒",
+  "new": "指挥棒"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_c.json",
+  "id": "institution-xingce-yanyu-2022-c-045",
+  "field": "option.B",
+  "old": "B．②①⑤⑥③④",
+  "new": "②①⑤⑥③④"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_c.json",
+  "id": "institution-xingce-yanyu-2022-c-045",
+  "field": "option.D",
+  "old": "D．④⑤①②⑥③ 第三部分 数量分析 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "④⑤①②⑥③ 第三部分 数量分析 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-045",
+  "field": "option.B",
+  "old": "B．②④③⑥①⑤",
+  "new": "②④③⑥①⑤"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-045",
+  "field": "option.D",
+  "old": "D．③②④⑤⑥① 第三部分 数量分析 根据题目要求，在四个选项中选出一个最恰当的答案。",
+  "new": "③②④⑤⑥① 第三部分 数量分析 根据题目要求，在四个选项中选出一个最恰当的答案。"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-050",
+  "field": "option.B",
+  "old": "B．6000",
+  "new": "6000"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-050",
+  "field": "option.D",
+  "old": "D．7200 （一）",
+  "new": "7200 （一）"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-053",
+  "field": "option.B",
+  "old": "B．增长了",
+  "new": "增长了 以上"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-058",
+  "field": "option.B",
+  "old": "B．3",
+  "new": "3"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-058",
+  "field": "option.D",
+  "old": "D．5",
+  "new": "5"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2022_e.json",
+  "id": "institution-xingce-yanyu-2022-e-060",
+  "field": "option.B",
+  "old": "绿色食品原料标准化基地总计带动农户超过 2300 万户 B.D．京津冀地区平均每个绿色食品原料标准化基地的面积超过 10 万亩",
+  "new": "绿色食品原料标准化基地总计带动农户超过2300 万户"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-029",
+  "field": "option.B",
+  "old": "B．秘密 自主性 关联",
+  "new": "秘密 自主性 关联"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-029",
+  "field": "option.D",
+  "old": "D．刻意 群体性 冲突",
+  "new": "刻意 群体性 冲突"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-037",
+  "field": "option.B",
+  "old": "研究重心其实全都放在艺术作品的美学价值 B.D．社会学视角下的音乐史都是相对偏门的学问",
+  "new": "研究重心其实全都放在艺术作品的美学价值"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-037",
+  "field": "option.D",
+  "old": "两项优惠活动可同时参加，某情侣购买一套情侣装共花费 439 元，问该套情侣装定价多少元？（ ） A．450 C．630 B．570 D．700",
+  "new": "社会学视角下的音乐史都是相对偏门的学问 两项优惠活动可同时参加，某情侣购买一套情侣装共花费439 元，问该套情侣装定价多少元？（ ）"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-044",
+  "field": "answer",
+  "old": "C",
+  "new": "A"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-045",
+  "field": "option.B",
+  "old": "B．0.3 0.5 之间",
+  "new": "0.3 0.5 之间"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-045",
+  "field": "option.D",
+  "old": "D．大于 0.7 （一）",
+  "new": "大于0.7 （一）"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-050",
+  "field": "option.B",
+  "old": "B．2015 2017 年，T 市",
+  "new": "2015 2017 年，T 市"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_b.json",
+  "id": "institution-xingce-yanyu-2023-b-020",
+  "field": "option.B",
+  "old": "全球的海啸发生区域大体与地震带一致 B.D．海雾的生成过程和原因不包括地形因素",
+  "new": "全球的海啸发生区域大体与地震带一致"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_c.json",
+  "id": "institution-xingce-yanyu-2023-c-048",
+  "field": "option.A",
+  "old": "B、C 三个点，从 B 到 C 的道路长度是从 C 到 A 的 1.5 倍，是从 A 到 B 长度的 2 倍。甲、乙两车从 A 点同时出发，甲沿顺时针、乙沿逆时针方向匀速行驶。甲到达 B 点时， 乙离 C 点还有 200 米。甲到达 C 点时，乙已经过 B 点 200 米。问这条环形道路总长多少米？（ ） A．3900",
+  "new": "3900"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_c.json",
+  "id": "institution-xingce-yanyu-2023-c-050",
+  "field": "option.B",
+  "old": "B．30%",
+  "new": "30%"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_c.json",
+  "id": "institution-xingce-yanyu-2023-c-050",
+  "field": "option.D",
+  "old": "D．40% （一）",
+  "new": "40% （一）"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_c.json",
+  "id": "institution-xingce-yanyu-2023-c-055",
+  "field": "option.B",
+  "old": "B．2015 2017 年，T 市",
+  "new": "2015 2017 年，T 市"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_c.json",
+  "id": "institution-xingce-yanyu-2023-c-060",
+  "field": "option.B",
+  "old": "B．第二季度",
+  "new": "第二季度"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_e.json",
+  "id": "institution-xingce-yanyu-2023-e-034",
+  "field": "option.B",
+  "old": "B．木吸管的原料",
+  "new": "木吸管的原料"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_e.json",
+  "id": "institution-xingce-yanyu-2023-e-034",
+  "field": "option.D",
+  "old": "D．木吸管的制作过程",
+  "new": "木吸管的制作过程"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_e.json",
+  "id": "institution-xingce-yanyu-2023-e-045",
+  "field": "option.B",
+  "old": "B．②④⑤①⑥③",
+  "new": "②④⑤①⑥③"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2023_e.json",
+  "id": "institution-xingce-yanyu-2023-e-045",
+  "field": "option.D",
+  "old": "D．④③⑤①②⑥     第三部分 数量分析 一、数学运算：每道题呈现一段表述数字关系的文字，请迅速、准确地计算答案。",
+  "new": "④③⑤①②⑥ 第三部分 数量分析 一、数学运算：每道题呈现一段表述数字关系的文字，请迅速、准确地计算答案。"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2024_e.json",
+  "id": "institution-xingce-yanyu-2024-e-032",
+  "field": "option.D",
+  "old": "D．当前中小学体教融合的实施力度亟待加强",
+  "new": "当前中小学体教融合的实施力度亟待加强"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2024_e.json",
+  "id": "institution-xingce-yanyu-2024-e-055",
+  "field": "option.B",
+  "old": "2023 年，L 省夏粮小麦平均每亩产量超过 300 公斤 B.D．2023 年，L 省除小麦外其他夏粮播种面积超过 200 万亩",
+  "new": "2023 年，L 省夏粮小麦平均每亩产量超过300 公斤"
+ },
+ {
+  "file": "src/data/xingce/yanyu/institution_2024_e.json",
+  "id": "institution-xingce-yanyu-2024-e-060",
+  "field": "option.B",
+  "old": "B．1",
+  "new": "1"
+ },
+ {
+  "file": "src/data/xingce/yanyu/national_2017_dishi.json",
+  "id": "national-xingce-yanyu-2017-dishi-054",
+  "field": "option.D",
+  "old": "作战原则和理论依赖于科学技术的创新和发展 - 5 - C、超然物外 B、物尽其用 D、寄情于物 C、赋予旅游实际意义 D、享受旅行中的快乐 B、理性面对旅游目的 B、公众应重视土壤污染并提高防治意识 D、土壤污染治理应舍得投入时间和财力",
+  "new": "作战原则和理论依赖于科学技术的创新和发展"
+ },
+ {
+  "file": "src/data/xingce/yanyu/national_2017_fushengjia.json",
+  "id": "national-xingce-yanyu-2017-fushengjia-048",
+  "field": "option.D",
+  "old": "积累丰富准确的地质材料形成证据链很难实现 B、现代信息网络技术的发展革新了战争方式 D、作战原则和理论依赖于科学技术的创新和发展 D、寄情于物 B、物尽其用 C、超然物外 。",
+  "new": "积累丰富准确的地质材料形成证据链很难实现"
+ },
+ {
+  "file": "src/data/xingce/yanyu/national_2017_fushengjia.json",
+  "id": "national-xingce-yanyu-2017-fushengjia-057",
+  "field": "option.D",
+  "old": "意志力无法穿透的认知对象是相对不重要的信息 D、④ B、② - 6 - C、②④⑤ ④信息过载 ⑤知觉假象 ②思考捷径 B、大脑的选择往往是无意识的 ③意志力薄弱 D、①③④ D、信息的重要与否可能因时而异 B、大脑由于进化形成了不可逆转的认知结构 D、掌握大脑运转机制才能更好地应对骗局",
+  "new": "意志力无法穿透的认知对象是相对不重要的信息"
+ },
+ {
+  "file": "src/data/xingce/yanyu/national_2018_fushengjia.json",
+  "id": "national-xingce-yanyu-2018-fushengjia-058",
+  "field": "option.D",
+  "old": "换血实验对于年轻小鼠来说有更大影响 B、老年小鼠输入年轻血液对逆转衰老没多大作用 D、老年小鼠的血液质量跟身体再生能力密切相关",
+  "new": "年老小鼠肌肉组织有一小部分确实获得了再生能力"
+ },
+ {
+  "file": "src/data/xingce/yanyu/national_2020_fushengjia.json",
+  "id": "national-xingce-yanyu-2020-fushengjia-057",
+  "field": "option.D",
+  "old": "心肌细胞和内皮细胞来源于患者 - 7 - C、48 D、32 B、16 C、登革热 B、尿毒症 D、红绿色盲 C、打印器官的长期存活 D、正常泵血功能的实现 B、支架填充细胞的获取 B、心肌细胞难以在人体之外量产 D、3D 打印心脏已开始应用于动物实验",
+  "new": "心肌细胞和内皮细胞来源于患者"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_gansu_2023.json",
+  "id": "provincial-gansu-xingce-yanyu-2023-053",
+  "field": "option.B",
+  "old": "B.重元素的汇聚形成了恒星和行星",
+  "new": "重元素的汇聚形成了恒星和行星"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_gansu_2023.json",
+  "id": "provincial-gansu-xingce-yanyu-2023-053",
+  "field": "option.D",
+  "old": "D.超新星爆发产生孕育恒星的星云 第 8 页，共 24 页",
+  "new": "超新星爆发产生孕育恒星的星云 第 8 页，共 24 页"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_guangdong_2024.json",
+  "id": "provincial-guangdong-xingce-yanyu-2024-030",
+  "field": "option.B",
+  "old": "①⑤④③②⑥ B.D.②⑥④①⑤③",
+  "new": "①⑤④③②⑥"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_heilongjiang_2024.json",
+  "id": "provincial-heilongjiang-xingce-yanyu-2024-055",
+  "field": "option.B",
+  "old": "B.夜间玫瑰花中酶的活性最低",
+  "new": "夜间玫瑰花中酶的活性最低"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_hubei_2024.json",
+  "id": "provincial-hubei-xingce-yanyu-2024-036",
+  "field": "option.B",
+  "old": "B.擢拔 一以贯之 莫衷一是",
+  "new": "擢拔 一以贯之 莫衷一是"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_hubei_2024.json",
+  "id": "provincial-hubei-xingce-yanyu-2024-036",
+  "field": "option.D",
+  "old": "D.擢用 自始至终 众口难调 第 6 页，共 25 页",
+  "new": "擢用 自始至终 众口难调 第 6 页，共 25 页"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_hunan_2024.json",
+  "id": "provincial-hunan-xingce-yanyu-2024-050",
+  "field": "option.B",
+  "old": "B.理论认识不足制约智慧治理",
+  "new": "理论认识不足制约智慧治理"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_hunan_2024.json",
+  "id": "provincial-hunan-xingce-yanyu-2024-050",
+  "field": "option.D",
+  "old": "D.智慧治理存在的问题及成因分析 第 9 页，共 23 页",
+  "new": "智慧治理存在的问题及成因分析 第 9 页，共 23 页"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_shaanxi_2024.json",
+  "id": "provincial-shaanxi-xingce-yanyu-2024-060",
+  "field": "option.B",
+  "old": "B.古为今用耕读传家",
+  "new": "古为今用耕读传家"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_shandong_2022.json",
+  "id": "provincial-shandong-xingce-yanyu-2022-035",
+  "field": "option.B",
+  "old": "B.哺乳动物与其他动物记忆形成机制的区别",
+  "new": "哺乳动物与其他动物记忆形成机制的区别"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_shandong_2024.json",
+  "id": "provincial-shandong-xingce-yanyu-2024-050",
+  "field": "option.B",
+  "old": "数字阅读是青少年阅读的重要方式 B.D.数字化技术是影响阅读的最大变量",
+  "new": "数字阅读是青少年阅读的重要方式"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_shandong_2025.json",
+  "id": "provincial-shandong-xingce-yanyu-2025-021",
+  "field": "option.D",
+  "old": "B．⑤②④③①⑥ D．⑤③①⑥②④",
+  "new": "⑤③①⑥②④ 22—29．题干缺失"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_shanghai_2020.json",
+  "id": "provincial-shanghai-xingce-yanyu-2020-022",
+  "field": "option.D",
+  "old": "“文正乃自条叙所以宴游及兴造，皆欲以发有余之财以惠贫者。”这句话的意思是范仲淹上奏辩解自 己之所以宴游湖上，大兴土木、都是为了让官府可以聚集到更多钱财进而发放给贫苦的人 ）项不是范仲淹采取的救荒措施。 B、鼓励老百姓举行划船比赛 D、招募人力修建谷仓和官府衙衙役的宿舍",
+  "new": "“文正乃自条叙所以宴游及兴造，皆欲以发有余之财以惠贫者。”这句话的意思是范仲淹上奏辩解自 己之所以宴游湖上，大兴土木、都是为了让官府可以聚集到更多钱财进而发放给贫苦的人"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_sichuan_2021.json",
+  "id": "provincial-sichuan-xingce-yanyu-2021-045",
+  "field": "option.B",
+  "old": "良好的社会信任需要靠法律制度来保障 B.D.信任是社会系统有序运转的重要润滑剂",
+  "new": "良好的社会信任需要靠法律制度来保障"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-yanyu-2024-044",
+  "field": "option.B",
+  "old": "B.元素周期表被有序地组织起来",
+  "new": "元素周期表被有序地组织起来"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-yanyu-2024-044",
+  "field": "option.D",
+  "old": "D.元素在周期表不同行列排列着",
+  "new": "元素在周期表不同行列排列着 第7页，共22页"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_zhejiang_2022.json",
+  "id": "provincial-zhejiang-xingce-yanyu-2022-065",
+  "field": "option.B",
+  "old": "数独的九宫方阵 B.D.数独的解题思路",
+  "new": "数独的九宫方阵"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_zhejiang_2024.json",
+  "id": "provincial-zhejiang-xingce-yanyu-2024-035",
+  "field": "option.B",
+  "old": "⑤④③⑥②① B.D.④⑤③②⑥①",
+  "new": "⑤④③⑥②①"
+ },
+ {
+  "file": "src/data/xingce/yanyu/provincial_zhejiang_2024.json",
+  "id": "provincial-zhejiang-xingce-yanyu-2024-050",
+  "field": "option.B",
+  "old": "不同逻辑的遵循将文明引向不同方向 B.D.资本是成就西方现代文明的决定性力量",
+  "new": "不同逻辑的遵循将文明引向不同方向"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2020_a.json",
+  "id": "institution-xingce-ziliao-2020-a-095",
+  "field": "option.B",
+  "old": "2018 年教育经费投入额同比增长了 10%以上 B.D．2016 年服务市场规模较 2010 年翻了两番",
+  "new": "2018 年教育经费投入额同比增长了10%以上"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2020_c.json",
+  "id": "institution-xingce-ziliao-2020-c-055",
+  "field": "option.B",
+  "old": "如果 2019 年全年软件业完成软件业务收入超过 7 万亿元，则第四季度该收入环比一定上升 B.D．2019 年前三季度软件业务收入居前 6 名的省市，同期软件业务收入之和占全国的比重不到八成",
+  "new": "如果2019 年全年软件业完成软件业务收入超过7 万亿元，则第四季度该收入环比一定上升"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_a.json",
+  "id": "institution-xingce-ziliao-2021-a-090",
+  "field": "option.B",
+  "old": "2019 年 1—7 月，互联网企业实现营业利润同比增速超过 20% B.D．2018 年 1—8 月，互联网企业完成互联网数据服务收入占完成业务收入的 1%以上",
+  "new": "2019 年1—7 月，互联网企业实现营业利润同比增速超过20%"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_a.json",
+  "id": "institution-xingce-ziliao-2021-a-099",
+  "field": "option.B",
+  "old": "在 50%—100%之间 B.D．高于 150%",
+  "new": "在50%—100%之间"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_a.json",
+  "id": "institution-xingce-ziliao-2021-a-099",
+  "field": "option.D",
+  "old": "100. 以下折线图中，最能准确反映 2020 第三季度各月全国实用新型专利申请总授权数中，非职务专利申请授权 数占比变化趋势的是： A． C． B． D．     版权所有 复制必究",
+  "new": "高于150%"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_a.json",
+  "id": "institution-xingce-ziliao-2021-a-095",
+  "field": "option.B",
+  "old": "2013—2016 年，中国临床前市场总规模超过 600 亿元 B.D．2012—2015 年，全球市场同比增量逐年递增",
+  "new": "2013—2016 年，中国临床前市场总规模超过600 亿元"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_a.json",
+  "id": "institution-xingce-ziliao-2021-a-098",
+  "field": "option.B",
+  "old": "B．5.9",
+  "new": "5.9"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_a.json",
+  "id": "institution-xingce-ziliao-2021-a-098",
+  "field": "option.D",
+  "old": "D．21.1",
+  "new": "21.1"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_b.json",
+  "id": "institution-xingce-ziliao-2021-b-055",
+  "field": "option.B",
+  "old": "如果 2019 年全年软件业完成软件业务收入超过 7 万亿元，则第四季度该收入环比一定上升 B.D．2019 年前三季度软件业务收入居前 6 名的省市，同期软件业务收入之和占全国的比重不到八成",
+  "new": "如果2019 年全年软件业完成软件业务收入超过7 万亿元，则第四季度该收入环比一定上升"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2021_c.json",
+  "id": "institution-xingce-ziliao-2021-c-060",
+  "field": "option.B",
+  "old": "2019 年 1—7 月，互联网企业实现营业利润同比增速超过 20% B.D．2018 年 1—8 月，互联网企业完成互联网数据服务收入占完成业务收入的 1%以上",
+  "new": "2019 年1—7 月，互联网企业实现营业利润同比增速超过20%"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2023_c.json",
+  "id": "institution-xingce-ziliao-2023-c-060",
+  "field": "option.B",
+  "old": "B．生态用水",
+  "new": "生态用水"
+ },
+ {
+  "file": "src/data/xingce/ziliao/institution_2023_c.json",
+  "id": "institution-xingce-ziliao-2023-c-060",
+  "field": "option.D",
+  "old": "D．工业生产用水 第四部分 判断推理 一、图形推理。请按每道题的答题要求作答。 请开始答题：",
+  "new": "工业生产用水 第四部分 判断推理 一、图形推理。请按每道题的答题要求作答。 请开始答题："
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2016_fushengjia.json",
+  "id": "national-xingce-ziliao-2016-fushengjia-125",
+  "field": "option.D",
+  "old": "2008 年人均公共图书馆建筑面积增量和人均公共图书藏量增量均低于 2011 年 C、0.6 C、3 D、5 B、4 （四） 截至 2014 年 12 月底，全国实有各类市场主体 6932.22 万户，比上年末增长 14.35%，增速较上年同期增加",
+  "new": "2008 年人均公共图书馆建筑面积增量和人均公共图书藏量增量均低于2011 年 （四） 截至2014 年12 月底，全国实有各类市场主体6932.22 万户，比上年末增长14.35%，增速较上年同期增加"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2016_fushengjia.json",
+  "id": "national-xingce-ziliao-2016-fushengjia-135",
+  "field": "option.D",
+  "old": "2014 年单位与居民物品物流额超过 2012 年的两倍 D、第四季度 D、102 B、86 C、93 - 16 -",
+  "new": "2014 年单位与居民物品物流额超过2012 年的两倍"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2017_dishi.json",
+  "id": "national-xingce-ziliao-2017-dishi-125",
+  "field": "option.D",
+  "old": "2015 年时钟（含钟心）产值达到手表产值的一半以上 D、高 1.2 个百分点 C、低 1.2 个百分点 B、高 3 个百分点 D、18 B、25 C、23 单位：件 （四）",
+  "new": "2015 年时钟（含钟心）产值达到手表产值的一半以上 （四） 单位：件"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2017_dishi.json",
+  "id": "national-xingce-ziliao-2017-dishi-130",
+  "field": "option.D",
+  "old": "2001～2015 年间，储能装置制造专利申请数增加最多的年份是 2010 年 D、10 C、9 - 15 -",
+  "new": "2001～2015 年间，储能装置制造专利申请数增加最多的年份是2010 年"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2018_dishi.json",
+  "id": "national-xingce-ziliao-2018-dishi-115",
+  "field": "option.D",
+  "old": "平均每个东欧国家的进口额高于平均每个西亚、北非国家的进口额 （三）根据以下资料，回答下列 5 题。 C、西亚、北非 19 国 D、东欧 20 国 C、0.06‰ D、0.16‰ B、1.56‰",
+  "new": "平均每个东欧国家的进口额高于平均每个西亚、北非国家的进口额 （三）根据以下资料，回答下列5 题。"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2018_dishi.json",
+  "id": "national-xingce-ziliao-2018-dishi-130",
+  "field": "option.D",
+  "old": "2017 年 2 月末，重点企业手持出口船订单占全国比重低于上年同期 C、出口船完工量 C、95% D、98% B、5% D、承接出口船订单量 - 14 -",
+  "new": "2017 年2 月末，重点企业手持出口船订单占全国比重低于上年同期"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2018_fushengjia.json",
+  "id": "national-xingce-ziliao-2018-fushengjia-120",
+  "field": "option.D",
+  "old": "平均每个东欧国家的进口额高于平均每个西亚、北非国家的进口额 （二）根据以下资料，回答下列 5 题。 C、西亚、北非 19 国 D、东欧 20 国 B、1.56‰ D、0.16‰ C、0.06‰ - 14 - B、63%",
+  "new": "平均每个东欧国家的进口额高于平均每个西亚、北非国家的进口额 （二）根据以下资料，回答下列5 题。"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2018_fushengjia.json",
+  "id": "national-xingce-ziliao-2018-fushengjia-135",
+  "field": "option.D",
+  "old": "2017 年 2 月末，重点企业手持出口船订单占全国比重低于上年同期 D、承接出口船订单量 B、承接新船订单量 C、出口船完工量 D、Y>Z>X D、98% C、95% B、5% - 16 -",
+  "new": "2017 年2 月末，重点企业手持出口船订单占全国比重低于上年同期"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2019_fushengjia.json",
+  "id": "national-xingce-ziliao-2019-fushengjia-125",
+  "field": "option.C",
+  "old": "2011～2017 年，全国二手车交易量同比增长量最高的年份其增长量是最低年份的 9 倍多 B、减少了 100 亿元以上 C、增长了 100 亿元以上 B、105",
+  "new": "2011～2017 年，全国二手车交易量同比增长量最高的年份其增长量是最低年份的9 倍多"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2019_fushengjia.json",
+  "id": "national-xingce-ziliao-2019-fushengjia-125",
+  "field": "option.D",
+  "old": "95 C、90 D、增长了不到 100 亿元 D、2011～2017 年，全国二手车交易量同比增速低于 的年份有 4 个 （三） B、在 5000～6000 个之间 D、超过 7000 个",
+  "new": "2011～2017 年，全国二手车交易量同比增速低于 的年份有4 个 （三）"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2020_dishi.json",
+  "id": "national-xingce-ziliao-2020-dishi-115",
+  "field": "option.D",
+  "old": "2014 年海洋主题公园总收入比上年增长了 8 亿多元 D、三个月 B、48 C、30 C、3 D、4 B、6 （三） - 13 - B、在 1～1.1 万亿元之间 C、在 1～5 个百分点之间 B、在 5～10 个百分点之间",
+  "new": "2014 年海洋主题公园总收入比上年增长了8 亿多元 （三）"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2020_dishi.json",
+  "id": "national-xingce-ziliao-2020-dishi-120",
+  "field": "option.D",
+  "old": "2014～2018 年，出口总量超过 1 万亿块 C、在 1.1～1.2 万亿元之间 C、下降了 30%以内 D、上升了 30%以内 B、上升了 30%以上 B、10% D、20% C、15% D、不到 1 个百分点 （四） B、25% D、16%",
+  "new": "2014～2018 年，出口总量超过1 万亿块 （四）"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2020_dishi.json",
+  "id": "national-xingce-ziliao-2020-dishi-130",
+  "field": "option.D",
+  "old": "2018 年 B 市高技术服务业完成投资比上年增长了 100 亿元以上 C、3500~4500 亿元之间 B、4500~5500 亿元之间 C、200~400 亿元之间 B、400~600 亿元之间 D、不到 200 亿元 D、不到 3500 亿元 - 15 -",
+  "new": "2018 年B 市高技术服务业完成投资比上年增长了100 亿元以上"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2020_fushengjia.json",
+  "id": "national-xingce-ziliao-2020-fushengjia-120",
+  "field": "option.D",
+  "old": "如保持 2018 年同比增量，中国在线住宿预订收入将在 2023 年首超 3000 亿元 D、在线交通预订 B、4 C、超过 200 万吨 B、不到 100 万吨 C、增加了 10%以上 B、下降了不到 10% D、150～200 万吨之间",
+  "new": "如保持2018 年同比增量，中国在线住宿预订收入将在2023 年首超3000 亿元"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2020_fushengjia.json",
+  "id": "national-xingce-ziliao-2020-fushengjia-125",
+  "field": "option.D",
+  "old": "2018 年湖南、湖北的茶园面积占全国茶园总面积的两成以上 D、增加了不到 10% D、6 C、7 D、2 C、1 B、4 - 15 - B、在 1～1.1 万亿元之间 C、在 1～5 个百分点之间 B、在 5～10 个百分点之间",
+  "new": "2018 年湖南、湖北的茶园面积占全国茶园总面积的两成以上"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2020_fushengjia.json",
+  "id": "national-xingce-ziliao-2020-fushengjia-135",
+  "field": "option.D",
+  "old": "配送、加工、包装业收入占物流相关行业总收入的比重超过 5% B、上升了 1% 以上 D、下降了 1% 以上 C、下降了不到 1% - 16 -",
+  "new": "配送、加工、包装业收入占物流相关行业总收入的比重超过5%"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2022_fushengjia.json",
+  "id": "national-xingce-ziliao-2022-fushengjia-125",
+  "field": "option.B",
+  "old": "1 项 B.D.3 项",
+  "new": "1 项"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2022_fushengjia.json",
+  "id": "national-xingce-ziliao-2022-fushengjia-130",
+  "field": "option.B",
+  "old": "2000—2500 元之间 B.D.超过 3000 元",
+  "new": "2000—2500 元之间"
+ },
+ {
+  "file": "src/data/xingce/ziliao/national_2022_xingzhengzhifa.json",
+  "id": "national-xingce-ziliao-2022-xingzhengzhifa-115",
+  "field": "option.B",
+  "old": "1 项 B.D.3 项",
+  "new": "1 项"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_beijing_2020.json",
+  "id": "provincial-beijing-xingce-ziliao-2020-032",
+  "field": "answer",
+  "old": "A",
+  "new": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_fujian_2024.json",
+  "id": "provincial-fujian-xingce-ziliao-2024-115",
+  "field": "option.D",
+  "old": "D.4",
+  "new": "4 （三） 2023年一季度，新疆外贸进出口总值680.7亿元，同比增长80.3%。其中，出口584.7亿元，同比增长"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_gansu_2021.json",
+  "id": "provincial-gansu-xingce-ziliao-2021-108",
+  "field": "option.D",
+  "old": "3、109 2020 年，东部地区除广东、北京、上海、浙江和江苏之外的省市互联网业务收入约比 2019 年： A、增长 9％ B、增长 19％ C、减少 9％ D、减少 19％",
+  "new": "3、109 2020 年，东部地区除广东、北京、上海、浙江和江苏之外的省市互联网业务收入约比2019 年："
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guangdong_2022.json",
+  "id": "provincial-guangdong-xingce-ziliao-2022-090",
+  "field": "option.B",
+  "old": "2020 年，平均每个村委会的成员数量超过 4 人 B.D．2015-2020 年，村委会数量与居委会数量的变化趋势一致",
+  "new": "2020 年，平均每个村委会的成员数量超过4 人"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guangdong_2022.json",
+  "id": "provincial-guangdong-xingce-ziliao-2022-095",
+  "field": "option.B",
+  "old": "第 5 次至第 9 次森林资源清查，我国森林面积和森林蓄积量的变化趋势一致 B.D．2017-2020 年，我国平均每个国际重要湿地面积同比增幅最大的年份是 2020 年",
+  "new": "第5 次至第9 次森林资源清查，我国森林面积和森林蓄积量的变化趋势一致"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-ziliao-2024-103",
+  "field": "option.B",
+  "old": "B.2021年动力锂电池出货量",
+  "new": "2021年动力锂电池出货量"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-ziliao-2024-103",
+  "field": "option.D",
+  "old": "D.2022年动力锂电池出货量 · 本试卷由粉笔用户用户08zRNE生成 第 19 页，共 21 页",
+  "new": "2022年动力锂电池出货量 · 本试卷由粉笔用户用户08zRNE生成 第 19 页，共 21 页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-ziliao-2024-110",
+  "field": "option.B",
+  "old": "2月 B.D.6",
+  "new": "2月"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guangxi_2024.json",
+  "id": "provincial-guangxi-xingce-ziliao-2024-110",
+  "field": "option.D",
+  "old": "D.64% D.5月 第 21 页，共 21 页",
+  "new": "5月 第 21 页，共 21 页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_guizhou_2024.json",
+  "id": "provincial-guizhou-xingce-ziliao-2024-105",
+  "field": "option.D",
+  "old": "D.6 D.64% D.5月 D.4",
+  "new": "4 （四） 2023年一季度，新疆外贸进出口总值680.7亿元，同比增长80.3%。其中，出口584.7亿元，同比增长"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_henan_2020.json",
+  "id": "provincial-henan-xingce-ziliao-2020-111",
+  "field": "option.D",
+  "old": "丁市 112、 平均通勤距离超过了 4 个城市平均值的有: A、1 个城市 B、2 个城市 C、3 个城市 D、4 个城市 113、如果 5 公里内可采用步行或自行车等绿色出行方式上班，超过半数的通勤人口可以绿色出行方式上班的城 市有： A、甲市和乙市 B、甲市和丙市 C、乙市和丁市 D、丙市和丁市",
+  "new": "丁市"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_henan_2020.json",
+  "id": "provincial-henan-xingce-ziliao-2020-117",
+  "field": "option.D",
+  "old": "东北地区 118、 2019 年全国住宅投资在房地产开发投资中的比重约为： A、60% B、67% C、73% D、83%",
+  "new": "东北地区"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_jiangsu_2020.json",
+  "id": "provincial-jiangsu-xingce-ziliao-2020-130",
+  "field": "option.C",
+  "old": "420 人 - 15 - C、受访居民中去“看电影、滑雪、逛庙会”的比“参加教育培训”的多 400 人 D、至少有 的受访居民同时选择“购保健产品”“购数码产品、智能家电”和“去旅游” （六） 2019 年上半年，全国快递业务量完成 277.5 亿件。同比增长 25.7%；业务收入完成 3396.7 亿元，同比增长",
+  "new": "受访居民中去“看电影、滑雪、逛庙会”的比“参加教育培训”的多400 人"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_jiangsu_2020.json",
+  "id": "provincial-jiangsu-xingce-ziliao-2020-135",
+  "field": "option.D",
+  "old": "2019 年 5 月，国家邮政局和各省（区、市）邮政管理局接到消费者对快递服务问题申诉不足 44000 件 D、377.0 亿元 C、304.8 亿元 D、4695 件 B、2568 件 C、3159 件 - 16 -",
+  "new": "2019 年5 月，国家邮政局和各省（区、市）邮政管理局接到消费者对快递服务问题申诉不足44000 件"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_jiangxi_2023.json",
+  "id": "provincial-jiangxi-xingce-ziliao-2023-135",
+  "field": "option.D",
+  "old": "D.华西 / 华西",
+  "new": "东北正常年份雨季长度为华北正常年份雨季长度的2倍多 第24页，共24页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_jiangxi_2024.json",
+  "id": "provincial-jiangxi-xingce-ziliao-2024-124",
+  "field": "option.B",
+  "old": "B.健身步道+全民健身路径",
+  "new": "健身步道+全民健身路径"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_jiangxi_2024.json",
+  "id": "provincial-jiangxi-xingce-ziliao-2024-124",
+  "field": "option.D",
+  "old": "D.排球场地+乒乓球场地",
+  "new": "排球场地+乒乓球场地 第22页，共25页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_liaoning_2024.json",
+  "id": "provincial-liaoning-xingce-ziliao-2024-115",
+  "field": "option.B",
+  "old": "其他市场、食品饮料市场、茶叶市场、烟酒市场 B.D.烟酒市场、茶叶市场、食品饮料市场、其他市场",
+  "new": "其他市场、食品饮料市场、茶叶市场、烟酒市场"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_qinghai_2024.json",
+  "id": "provincial-qinghai-xingce-ziliao-2024-114",
+  "field": "option.B",
+  "old": "B.健身步道+全民健身路径",
+  "new": "健身步道+全民健身路径"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_qinghai_2024.json",
+  "id": "provincial-qinghai-xingce-ziliao-2024-114",
+  "field": "option.D",
+  "old": "D.排球场地+乒乓球场地",
+  "new": "排球场地+乒乓球场地 第20页，共21页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_shaanxi_2024.json",
+  "id": "provincial-shaanxi-xingce-ziliao-2024-109",
+  "field": "option.B",
+  "old": "B.健身步道+全民健身路径",
+  "new": "健身步道+全民健身路径"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_shaanxi_2024.json",
+  "id": "provincial-shaanxi-xingce-ziliao-2024-109",
+  "field": "option.D",
+  "old": "D.排球场地+乒乓球场地",
+  "new": "排球场地+乒乓球场地 第20页，共23页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_shanxi_2024.json",
+  "id": "provincial-shanxi-xingce-ziliao-2024-115",
+  "field": "option.B",
+  "old": "22.7万个 B.D.29.4万个",
+  "new": "22.7万个"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_sichuan_2022.json",
+  "id": "provincial-sichuan-xingce-ziliao-2022-087",
+  "field": "option.B",
+  "old": "B.65",
+  "new": "65"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_sichuan_2022.json",
+  "id": "provincial-sichuan-xingce-ziliao-2022-087",
+  "field": "option.D",
+  "old": "D.24 D.103",
+  "new": "103"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-ziliao-2024-109",
+  "field": "option.B",
+  "old": "B.健身步道+全民健身路径",
+  "new": "健身步道+全民健身路径"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_xinjiang_2024.json",
+  "id": "provincial-xinjiang-xingce-ziliao-2024-109",
+  "field": "option.D",
+  "old": "D.排球场地+乒乓球场地",
+  "new": "排球场地+乒乓球场地 第20页，共22页"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_zhejiang_2021.json",
+  "id": "provincial-zhejiang-xingce-ziliao-2021-056",
+  "field": "option.A",
+  "old": "B、C、D 四个地区参与扶贫活动，其中 A 地区的志愿者人数要比 B 地 区多 4 人，C 地区人数为全部志愿者人数的 1/5，D 地区人数不超过任何其他地区，则 A 地区至少有多少名志愿 者？ A、12",
+  "new": "12"
+ },
+ {
+  "file": "src/data/xingce/ziliao/provincial_zhejiang_2021.json",
+  "id": "provincial-zhejiang-xingce-ziliao-2021-069",
+  "field": "option.A",
+  "old": "B、C、D、E 五块试验田中种植甲、乙、丙、丁、戊五种作物，每块试验田只种一种作物，每 - 8 - 年都在所有的安排中随机挑选一种进行种植。问在连续的 3 年中，A 试验田至少 2 年种植同一种作物的概率为： A、36%",
+  "new": "36%"
+ }
+]

@@ -23,8 +23,8 @@ export interface QuestionMeta {
   level?: ExamLevel;
   year: number;
   region?: string;
-  /** 短答案（行测客观题）。申论不自动判分，为空串。 */
-  answer: string;
+  /** 短答案（行测客观题）。多选题为 `['A','B']`；申论不自动判分，为空串。 */
+  answer: string | string[];
   /** 所属试卷，形如 `xingce/changshi/national_2024_dishi`，用于懒加载定位。 */
   paperKey: string;
   /** 占位题且无兜底图 —— 与 placeholder.ts 的 isUnanswerable 等价 */
@@ -42,7 +42,7 @@ interface RawPaper {
   r: string | null;
 }
 
-type RawRow = [string, number, string, number, string?];
+type RawRow = [string, number, string | string[], number, string?];
 
 const FLAG_UNANSWERABLE = 1;
 const FLAG_HAS_IMAGE = 2;

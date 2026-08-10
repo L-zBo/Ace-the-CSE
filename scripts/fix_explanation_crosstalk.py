@@ -67,7 +67,9 @@ def main():
         dirty = False
         for q in arr:
             exp = str(q.get('explanation') or '')
-            ans = str(q.get('answer') or '')
+            _a = q.get('answer')
+            # 多选题 answer 是 ['A','B']，拍平成 'AB' 才能跟解析结论比
+            ans = ''.join(str(x) for x in _a) if isinstance(_a, list) else str(_a or '')
             if any(p in str(q.get('content') or '') for p in PLACEHOLDER):
                 continue
             hits = list(CONCLUSION.finditer(exp))

@@ -90,11 +90,11 @@ export default function PracticePage() {
       if (completedQuestions.includes(q.id)) {
         stats[key].completed++;
         const userAnswer = answers[q.id];
-        if (
-          userAnswer &&
-          q.answer &&
-          JSON.stringify(userAnswer) === JSON.stringify(q.answer)
-        ) {
+        // 与答题页 / 考试页一致：多选题选中任一正确选项即算对
+        const hit = Array.isArray(q.answer)
+          ? q.answer.includes(userAnswer as string)
+          : q.answer === userAnswer;
+        if (userAnswer && q.answer && hit) {
           stats[key].correct++;
         }
       }

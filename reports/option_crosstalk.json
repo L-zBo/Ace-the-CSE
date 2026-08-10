@@ -1,0 +1,3779 @@
+[
+ {
+  "id": "institution-xingce-changshi-2020-a-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-a-020",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-a-104",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-a-105",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-a-013",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-063",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-064",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-074",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-081",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-083",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-090",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-a-095",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2020-a-147",
+  "labels": [
+   "B",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2020-a-057",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2020-a-059",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2020-a-069",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2020-a-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-yanyu-2020-a-030",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2020-a-045",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2020-a-145",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-c-018",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-c-020",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-c-120",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-067",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-075",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-080",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-088",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-090",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-092",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-094",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-095",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-098",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-099",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-165",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-175",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-180",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-190",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-195",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-197",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2020-c-050",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2020-c-045",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2020-c-130",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2020-c-145",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-ziliao-2020-c-060",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-e-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2020-e-020",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-e-074",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2020-e-091",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-a-056",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-a-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-a-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-changshi-2021-b-015",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-b-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-045",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-055",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-061",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-062",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-064",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-088",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-090",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-b-099",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-c-074",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-c-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-c-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-c-095",
+  "labels": [
+   "A",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-c-068",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-c-069",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-c-055",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-shuliang-2021-c-060",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-ziliao-2021-c-055",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-e-086",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-e-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-e-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2021-e-099",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-a-068",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-a-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-a-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-a-085",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2022-a-056",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2022-a-057",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2022-a-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2022-a-020",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2022-a-033",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2022-a-045",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2022-a-145",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-ziliao-2022-a-090",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-ziliao-2022-a-095",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-ziliao-2022-a-190",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-ziliao-2022-a-195",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-b-066",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-b-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-c-066",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-c-087",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-c-095",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-shuliang-2022-c-060",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2022-e-018",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-e-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2022-e-086",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2023-a-017",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-changshi-2023-a-050",
+  "labels": [
+   "A",
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-a-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-a-099",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2023-a-055",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-b-078",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-b-095",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-shuliang-2023-b-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-shuliang-2023-b-055",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2023-b-050",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-c-077",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-c-098",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-c-068",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-yanyu-2023-c-055",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-yanyu-2023-c-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-e-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-e-067",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2023-e-069",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-shuliang-2023-e-050",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-changshi-2024-a-044",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-a-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-a-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-a-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（A类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-changshi-2024-b-055",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-b-068",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-b-073",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-b-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-b-092",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（B类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-changshi-2024-c-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-c-067",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-c-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-c-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-e-076",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-e-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "institution-xingce-panduan-2024-e-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-yanyu-2024-e-044",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "institution-xingce-yanyu-2024-e-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2018年-2024年事业单位联考职测（E类）笔试真题.pdf"
+ },
+ {
+  "id": "national-xingce-changshi-2016-fushengjia-013",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2016-fushengjia-015",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2016-fushengjia-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2016-fushengjia-100",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2016-fushengjia-070",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2016-fushengjia-022",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2016-fushengjia-034",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2016-fushengjia-044",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2016-fushengjia-051",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2016-fushengjia-058",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2016-fushengjia-117",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2016-fushengjia-120",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2017-dishi-015",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2017-dishi-081",
+  "labels": [
+   "A",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2017-dishi-103",
+  "labels": [
+   "B",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2017-dishi-063",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-dishi-027",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-dishi-039",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-dishi-048",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-dishi-053",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2017-fushengjia-069",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-fushengjia-027",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-fushengjia-037",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-fushengjia-044",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2017-fushengjia-056",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2017-fushengjia-130",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2017年国家公务员考试《行测》真题卷（副省级）.pdf"
+ },
+ {
+  "id": "national-xingce-panduan-2018-dishi-110",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2018-dishi-062",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2018-dishi-069",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-dishi-025",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-dishi-036",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-dishi-045",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-dishi-053",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2018-fushengjia-009",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2018-fushengjia-092",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2018-fushengjia-107",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2018-fushengjia-115",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2018-fushengjia-071",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-fushengjia-024",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-fushengjia-034",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-fushengjia-042",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2018-fushengjia-048",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2019-dishi-014",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2019-dishi-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-dishi-022",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-dishi-034",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-dishi-043",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-dishi-050",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-dishi-057",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2019-dishi-115",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2019年国家公务员考试行测真题（地市级）.pdf"
+ },
+ {
+  "id": "national-xingce-ziliao-2019-dishi-120",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2019-dishi-130",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2019-fushengjia-009",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2019-fushengjia-014",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2019-fushengjia-017",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2019-fushengjia-099",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2019-fushengjia-115",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2019年国家公务员考试行测真题（省级）.pdf"
+ },
+ {
+  "id": "national-xingce-shuliang-2019-fushengjia-073",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-fushengjia-022",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-fushengjia-034",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-fushengjia-041",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-fushengjia-048",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-fushengjia-051",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2019-fushengjia-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2019-fushengjia-120",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2019年国家公务员考试行测真题（省级）.pdf"
+ },
+ {
+  "id": "national-xingce-ziliao-2019-fushengjia-129",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2019-fushengjia-135",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2020-dishi-018",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2020-dishi-097",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2020-dishi-105",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2020年国家公务员考试《行测》真题（地市级）.pdf"
+ },
+ {
+  "id": "national-xingce-panduan-2020-dishi-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2020-dishi-066",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-dishi-021",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-dishi-033",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-dishi-042",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-dishi-049",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-dishi-056",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-changshi-2020-fushengjia-009",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-shuliang-2020-fushengjia-071",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-fushengjia-023",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-fushengjia-034",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2020-fushengjia-041",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-ziliao-2020-fushengjia-130",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2020年国家公务员考试《行测》真题（省级）.pdf"
+ },
+ {
+  "id": "national-xingce-panduan-2022-fushengjia-101",
+  "labels": [
+   "B",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2022-fushengjia-050",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2022-fushengjia-055",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-yanyu-2022-fushengjia-060",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2022-xingzhengzhifa-094",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2022-xingzhengzhifa-097",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "national-xingce-panduan-2023-xingzhengzhifa-107",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-panduan-2022-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-shuliang-2022-015",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-changshi-2023-004",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-shuliang-2023-024",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-changshi-2024-001",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-panduan-2024-069",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-panduan-2024-077",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-panduan-2024-083",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-panduan-2024-095",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-anhui-xingce-ziliao-2024-103",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-changshi-2023-030",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-changshi-2023-012",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-panduan-2023-083",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-panduan-2023-088",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-panduan-2023-090",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-shuliang-2023-080",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-yanyu-2023-038",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-beijing-xingce-yanyu-2023-053",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-panduan-2023-016",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-shuliang-2023-062",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-changshi-2024-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-panduan-2024-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-panduan-2024-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-panduan-2024-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-panduan-2024-092",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-shuliang-2024-070",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-chongqing-xingce-ziliao-2024-112",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-fujian-xingce-yanyu-2023-042",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-fujian-xingce-panduan-2024-096",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-fujian-xingce-ziliao-2024-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年福建省公务员录用考试《行测》真题.pdf"
+ },
+ {
+  "id": "provincial-gansu-xingce-shuliang-2022-064",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-changshi-2023-006",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-panduan-2023-081",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-panduan-2023-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-panduan-2023-091",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-shuliang-2023-058",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-ziliao-2023-108",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2023年甘肃公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-gansu-xingce-panduan-2024-096",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-gansu-xingce-ziliao-2024-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年甘肃公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-gansu-xingce-ziliao-2024-115",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年甘肃公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-guangdong-xingce-changshi-2020-077",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangdong-xingce-shuliang-2020-027",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangdong-xingce-panduan-2021-070",
+  "labels": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangdong-xingce-shuliang-2021-035",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangdong-xingce-panduan-2024-063",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangdong-xingce-shuliang-2024-033",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangdong-xingce-shuliang-2024-035",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-055",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-068",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-073",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-091",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-093",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-changshi-2023-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-panduan-2024-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-panduan-2024-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guangxi-xingce-shuliang-2024-051",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guizhou-xingce-panduan-2024-083",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-guizhou-xingce-ziliao-2024-095",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年贵州省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-guizhou-xingce-ziliao-2024-100",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年贵州省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-010",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-077",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-078",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-092",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-094",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-097",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-100",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-changshi-2023-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hainan-xingce-panduan-2024-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-changshi-2022-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-changshi-2022-014",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-panduan-2022-081",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-panduan-2022-087",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-ziliao-2022-125",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2022年河北省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-hebei-xingce-changshi-2023-075",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-panduan-2024-083",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-panduan-2024-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hebei-xingce-panduan-2024-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2020-073",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2020-074",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2021-062",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2021-070",
+  "labels": [
+   "A",
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-yanyu-2021-043",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-changshi-2022-010",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-changshi-2022-012",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-changshi-2022-018",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2022-069",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-yanyu-2022-053",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-panduan-2023-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-panduan-2024-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-panduan-2024-092",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2024-064",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-shuliang-2024-069",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-heilongjiang-xingce-yanyu-2024-055",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年黑龙江省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-henan-xingce-shuliang-2021-053",
+  "labels": [
+   "A"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2021年0327河南公务员考试《行测》真题.pdf"
+ },
+ {
+  "id": "provincial-henan-xingce-changshi-2024-105",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年河南省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-henan-xingce-panduan-2024-081",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-henan-xingce-ziliao-2024-109",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2023-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2023-006",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2023-020",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2023-077",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2023-078",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2023-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-changshi-2024-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-panduan-2024-077",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-panduan-2024-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-panduan-2024-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-shuliang-2024-070",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hubei-xingce-ziliao-2024-122",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-changshi-2023-078",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-changshi-2023-081",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-changshi-2023-083",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-changshi-2023-100",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-changshi-2023-103",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-changshi-2023-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-panduan-2024-094",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-panduan-2024-098",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-hunan-xingce-ziliao-2024-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年湖南省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-hunan-xingce-ziliao-2024-115",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年湖南省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-changshi-2020-009",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2020-101",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2020-056",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2020-065",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2020-018",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2020-024",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2020-027",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2020-036",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2020-040",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2020-045",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-ziliao-2020-117",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-ziliao-2020-120",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2020年江苏公务员考试《行测》真题（A类）.pdf"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-ziliao-2020-124",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-ziliao-2020-125",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2020年江苏公务员考试《行测》真题（A类）.pdf"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-changshi-2022-059",
+  "labels": [
+   "C"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2022年江苏公务员考试《行测》真题（A类）....pdf"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2022-051",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2022-049",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2022-053",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2022-040",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2023-046",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2023-049",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-099",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-106",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-107",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-109",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-112",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-113",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-panduan-2024-114",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-shuliang-2024-048",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-yanyu-2024-040",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangsu-xingce-ziliao-2024-120",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangxi-xingce-changshi-2023-003",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangxi-xingce-changshi-2023-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangxi-xingce-changshi-2024-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangxi-xingce-panduan-2024-089",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangxi-xingce-panduan-2024-091",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-jiangxi-xingce-panduan-2024-092",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-liaoning-xingce-changshi-2023-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-liaoning-xingce-changshi-2023-081",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-liaoning-xingce-changshi-2023-083",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-liaoning-xingce-changshi-2023-094",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-liaoning-xingce-changshi-2023-106",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-neimenggu-xingce-yanyu-2022-048",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-neimenggu-xingce-yanyu-2022-059",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-neimenggu-xingce-panduan-2023-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-changshi-2023-006",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-changshi-2023-015",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-changshi-2023-018",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-panduan-2023-077",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-panduan-2023-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-shuliang-2023-057",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-shuliang-2023-059",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-shuliang-2023-062",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-yanyu-2023-021",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-yanyu-2023-025",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-yanyu-2023-048",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-yanyu-2023-052",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-ziliao-2023-012",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-ziliao-2023-117",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-panduan-2024-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-panduan-2024-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-ningxia-xingce-shuliang-2024-100",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年宁夏公务员录用考试《行测》试题.pdf"
+ },
+ {
+  "id": "provincial-ningxia-xingce-ziliao-2024-105",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年宁夏公务员录用考试《行测》试题.pdf"
+ },
+ {
+  "id": "provincial-ningxia-xingce-ziliao-2024-110",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年宁夏公务员录用考试《行测》试题.pdf"
+ },
+ {
+  "id": "provincial-qinghai-xingce-shuliang-2020-077",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-qinghai-xingce-changshi-2024-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-qinghai-xingce-panduan-2024-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-qinghai-xingce-panduan-2024-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-qinghai-xingce-panduan-2024-093",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-qinghai-xingce-shuliang-2024-070",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-changshi-2023-004",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-changshi-2023-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-changshi-2023-011",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-changshi-2023-066",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-changshi-2023-074",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-changshi-2024-003",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-panduan-2024-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shaanxi-xingce-yanyu-2024-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年陕西省公务员录用考试《行测》题.pdf"
+ },
+ {
+  "id": "provincial-shandong-xingce-panduan-2021-058",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-changshi-2022-010",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-panduan-2022-053",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-yanyu-2022-035",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2022年山东省公务员录用考试《行测》试题.pdf"
+ },
+ {
+  "id": "provincial-shandong-xingce-panduan-2024-074",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-panduan-2024-076",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-panduan-2024-097",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-shuliang-2024-056",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-changshi-2025-006",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-panduan-2025-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shandong-xingce-shuliang-2025-060",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2025年山东省考行测真题.pdf"
+ },
+ {
+  "id": "provincial-shandong-xingce-yanyu-2025-041",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2025年山东省考行测真题.pdf"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2020-093",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2020-095",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2020-099",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2020-105",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2020-107",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-031",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-060",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-065",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-070",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-073",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-079",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2020-083",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-yanyu-2020-003",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-yanyu-2020-007",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2021-084",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2021-054",
+  "labels": [
+   "A",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-panduan-2021-060",
+  "labels": [
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2023-027",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2023-059",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanghai-xingce-changshi-2023-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanxi-xingce-changshi-2024-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanxi-xingce-panduan-2024-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanxi-xingce-panduan-2024-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanxi-xingce-panduan-2024-087",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shanxi-xingce-panduan-2024-097",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shenzhen-xingce-panduan-2024-035",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-shenzhen-xingce-shuliang-2024-047",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-changshi-2021-014",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2021-063",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2021-066",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2021-067",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2021-071",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-061",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-064",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-067",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-068",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-070",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-072",
+  "labels": [
+   "B",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-078",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2022-085",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-yanyu-2022-004",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-panduan-2024-066",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-sichuan-xingce-ziliao-2024-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年四川省公务员录用考试《行测》试题.pdf"
+ },
+ {
+  "id": "provincial-tianjin-xingce-shuliang-2023-002",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-tianjin-xingce-changshi-2024-041",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-tianjin-xingce-panduan-2024-075",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-tianjin-xingce-panduan-2024-076",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-tianjin-xingce-ziliao-2024-112",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-ziliao-2020-003",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-changshi-2021-012",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-changshi-2021-014",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-panduan-2021-099",
+  "labels": [
+   "C",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-shuliang-2021-037",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-shuliang-2021-002",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-yanyu-2021-031",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-yanyu-2021-049",
+  "labels": [
+   "B"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-changshi-2024-002",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-changshi-2024-023",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-changshi-2024-024",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-panduan-2024-075",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-panduan-2024-079",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-panduan-2024-091",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-xinjiang-xingce-ziliao-2024-112",
+  "labels": [
+   "A"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-yunnan-xingce-changshi-2023-061",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-yunnan-xingce-changshi-2023-064",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-yunnan-xingce-panduan-2024-080",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-yunnan-xingce-ziliao-2024-090",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年云南公务员录用考试《行测》题（网友回忆版）.pdf"
+ },
+ {
+  "id": "provincial-yunnan-xingce-ziliao-2024-095",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年云南公务员录用考试《行测》题（网友回忆版）.pdf"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-changshi-2022-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-changshi-2022-017",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-panduan-2022-082",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-panduan-2022-084",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-shuliang-2022-055",
+  "labels": [
+   "B",
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-ziliao-2022-120",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2022年浙江省公务员录用考试《行测》题（A类）.pdf"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-ziliao-2022-075",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2022年浙江省公务员录用考试《行测》题（C类）.pdf"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-changshi-2024-005",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-panduan-2024-086",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-panduan-2024-088",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-panduan-2024-089",
+  "labels": [
+   "D"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-shuliang-2024-053",
+  "labels": [
+   "A",
+   "C"
+  ],
+  "verdict": "no_anchor"
+ },
+ {
+  "id": "provincial-zhejiang-xingce-yanyu-2024-050",
+  "labels": [
+   "D"
+  ],
+  "verdict": "anchored_but_pdf_also_dirty",
+  "pdf": "2024年浙江省公务员录用考试《行测》题（A类).pdf"
+ }
+]

@@ -78,8 +78,9 @@ for path in sorted(glob.glob('src/data/xingce/**/*.json', recursive=True)):
                 if isinstance(o, dict) and not str(o.get('content') or '').strip():
                     findings['opt_empty'].append(f'{path}#{num} 选项{o.get("label")}为空')
 
-        # answer 合法性
-        ans = str(q.get('answer') or '')
+        # answer 合法性（多选题存成 ['A','B']，先拍平再校验）
+        _a = q.get('answer')
+        ans = ''.join(str(x) for x in _a) if isinstance(_a, list) else str(_a or '')
         if not ph:
             if not ans:
                 findings['answer_missing'].append(f'{path}#{num}')
