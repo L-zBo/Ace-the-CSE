@@ -757,6 +757,33 @@
     "answer_vs_explanation_remaining": 96
    },
    "migration": "本批订正的 231 个 JSON 已整份复制到 files/ 下同名路径，可直接覆盖旧机器项目。注意 material/ 未入库（.gitignore 第 57 行），换机器后无法重跑上述脚本复现，只能用 files/ 覆盖。"
+  },
+  {
+   "batch": "2026-08-10b-explanation-and-leftovers",
+   "kind": "mechanical_correction",
+   "summary": "零头清理：官方解析回填 11 条（其中 6 条同时纠正 answer）、结论重复去重 2 条、补回丢失选项 2 道、广东2024第1题判断题结构复原、第三方水印 3 类共 70 处清除。",
+   "tools": [
+    "python scripts/repair_explanations_from_pdf.py --apply",
+    "python scripts/fill_missing_options.py --apply",
+    "python scripts/fix_explanation_crosstalk.py --apply",
+    "python scripts/clean_watermarks_v2.py --apply"
+   ],
+   "evidenceChain": "解析回填：真题 PDF 行首题号切块 + 题干前 12 字锚定编号体系，再在答案解析 PDF 同号块里要求「块内结论去重后唯一」且「题面对得上」（题干 6 字片段命中 2 个，或 2 个选项开头 10 字出现在块里）。只靠结论字母匹配会四选一撞对，实测 8 道里 6 道抽错，已加题面校验拦掉。补选项：按题干原文（不靠题号）在真题 PDF 定位，要求库里现存每个选项与 PDF 逐字一致后才补缺失项。",
+   "changedFiles": 21,
+   "changedEntries": {
+    "explanation": 40,
+    "answer": 7,
+    "option": 18,
+    "content": 7
+   },
+   "appliedDiff": "reports/applied_changes_2026-08-10b.json",
+   "unresolved": {
+    "answer_vs_explanation": 91,
+    "exp_crosstalk": 6,
+    "exp_multi_conclusion": 7,
+    "dup_same_paper_real": 190
+   },
+   "newFinding": "同卷重复题 190 道（把 questionImage 纳入签名后的净值，排除图形推理模板题的假阳性），集中在浙江2023(71)/浙江2022(42)/深圳2020(20)。部分重复对的 answer 还不一致。删题属破坏性变更，未擅自处理，留给人工决策。"
   }
  ]
 }

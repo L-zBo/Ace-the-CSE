@@ -336,7 +336,10 @@
 
 1. **首页 `features` 数组**：用了 Tailwind 通用色（violet/fuchsia/rose/pink/cyan/teal），违反 §1.6——需改为卷面色系
 2. **答题页 `QuestionPageClient.tsx`**：100+ 行内联无组件抽象——需拆 `QuestionCard / OptionList / ExplanationPanel`
-3. **缺基础组件**：Button / Card / Dialog / Toast / Skeleton 全无——需建 `src/components/ui/`
+3. ~~**缺基础组件**：Button / Card / Dialog / Toast / Skeleton 全无——需建 `src/components/ui/`~~
+   已建 `src/components/ui/`：Button / Card / Badge / Dialog(ConfirmDialog) / Toast / Skeleton /
+   Spinner / EmptyState / CountdownTimer / RingProgress。Toast 于 2026-08-10 补齐，
+   `<ToastProvider>` 挂在 `app/layout.tsx`，业务侧用 `useToast()`。
 4. **缺动效组件**：title 入场无 BlurText / 数字无 CountUp——需建 `src/components/effects/`
 5. **缺 radius / shadow / z-index 标准 token**：已在本文档 §3 补充，需同步 `globals.css`
 

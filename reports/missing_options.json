@@ -1,0 +1,88 @@
+[
+ {
+  "id": "provincial-guangdong-xingce-changshi-2024-002",
+  "have": [
+   "A",
+   "B"
+  ],
+  "verdict": "existing_mismatch",
+  "mismatch": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "id": "provincial-guangdong-xingce-changshi-2024-003",
+  "have": [
+   "A",
+   "B"
+  ],
+  "verdict": "existing_mismatch",
+  "mismatch": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "id": "provincial-guangdong-xingce-changshi-2024-004",
+  "have": [
+   "A",
+   "B"
+  ],
+  "verdict": "existing_mismatch",
+  "mismatch": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "id": "provincial-guangdong-xingce-changshi-2024-005",
+  "have": [
+   "A",
+   "B"
+  ],
+  "verdict": "existing_mismatch",
+  "mismatch": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-161",
+  "have": [
+   "A",
+   "C"
+  ],
+  "verdict": "fill",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf",
+  "add": [
+   {
+    "label": "B",
+    "content": "蒸馏：白酒：饮料"
+   },
+   {
+    "label": "D",
+    "content": "日照：阴晴：天气"
+   }
+  ]
+ },
+ {
+  "id": "institution-xingce-panduan-2020-c-162",
+  "have": [
+   "A",
+   "C"
+  ],
+  "verdict": "fill",
+  "pdf": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf",
+  "add": [
+   {
+    "label": "B",
+    "content": "手机：按钮：箱子"
+   },
+   {
+    "label": "D",
+    "content": "电脑：开关：电灯"
+   }
+  ]
+ }
+]

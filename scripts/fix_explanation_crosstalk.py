@@ -37,6 +37,8 @@ os.chdir(ROOT)
 APPLY = '--apply' in sys.argv
 
 CONCLUSION = re.compile(r'故正确答案为\s*([A-D]+)\s*[。.]?')
+# 结尾把同一句结论原样重复了一遍
+DUP_TAIL = re.compile(r'(故正确答案为\s*([A-D]+)\s*[。.]?)\s*(?:\1\s*)+')
 # 尾巴里出现这些，才认定是「另一道题」
 NEXT_Q = re.compile(r'(\d{1,3}\s*[.．、]\s*【\s*(答案|解析)|【\s*\d{1,3}\s*[—\-－]\s*正确答案)')
 PLACEHOLDER = ['OCR 抽取失败', 'OCR抽取失败', 'OCR 提取失败',
@@ -77,6 +79,18 @@ def main():
                 continue
             stats['multi'] += 1
 
+            # 先处理最简单的一类：结尾把同一句结论原样重复了一遍
+            # （「……故正确答案为D。故正确答案为D。」），去重就完事，不用管答案对不对
+            dedup = DUP_TAIL.sub(r'\1', exp).rstrip()
+            if dedup != exp:
+                q['explanation'] = dedup
+                stats['dedup'] += 1
+                dirty = True
+                exp = dedup
+                hits = list(CONCLUSION.finditer(exp))
+                if len(hits) < 2:
+                    continue
+
             if hits[0].group(1) != ans:
                 stats['skip_answer_mismatch'] += 1
                 continue
@@ -103,6 +117,7 @@ def main():
                 io.open(path, 'wb').write(dump(arr, trailing))
 
     print(f'解析含多个结论的题：{stats["multi"]}')
+    print(f'  结论重复、已去重：{stats["dedup"]}')
     print(f'  已截断：{stats["truncated"]}')
     print(f'  跳过（首个结论与 answer 不符，留待人工）：{stats["skip_answer_mismatch"]}')
     print(f'  跳过（尾巴不像另一道题）：{stats["skip_tail_unclear"]}')

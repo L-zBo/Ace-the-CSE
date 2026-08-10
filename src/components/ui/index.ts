@@ -24,5 +24,7 @@ export { Skeleton } from './Skeleton';
 export { Spinner } from './Spinner';
 export { EmptyState } from './EmptyState';
 export { ConfirmDialog } from './Dialog';
+export { ToastProvider, useToast } from './Toast';
+export type { ToastVariant, ToastItem } from './Toast';
 export { CountdownTimer } from './CountdownTimer';
 export { RingProgress } from './RingProgress';

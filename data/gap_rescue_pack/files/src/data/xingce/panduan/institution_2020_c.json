@@ -1488,8 +1488,16 @@
         "content": "图案：商标：标志"
       },
       {
+        "label": "B",
+        "content": "蒸馏：白酒：饮料"
+      },
+      {
         "label": "C",
         "content": "瓶口：瓶盖：瓶子"
+      },
+      {
+        "label": "D",
+        "content": "日照：阴晴：天气"
       }
     ],
     "answer": "C",
@@ -1514,8 +1522,16 @@
         "content": "法官：法律：公民"
       },
       {
+        "label": "B",
+        "content": "手机：按钮：箱子"
+      },
+      {
         "label": "C",
         "content": "行人：红绿灯：车辆"
+      },
+      {
+        "label": "D",
+        "content": "电脑：开关：电灯"
       }
     ],
     "answer": "A",

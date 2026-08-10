@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import { Geist, Geist_Mono, Libre_Bodoni, Public_Sans } from 'next/font/google';
 import Navbar from '@/components/layout/Navbar';
 import BackgroundLayer from '@/components/weather/BackgroundLayer';
+import { ToastProvider } from '@/components/ui/Toast';
 import './globals.css';
 
 const geistSans = Geist({
@@ -95,7 +96,9 @@ export default function RootLayout({
         </a>
         <BackgroundLayer />
         <Navbar />
-        <main id="main-content" className="relative z-10 flex-1 pb-16 md:pb-0">{children}</main>
+        <ToastProvider>
+          <main id="main-content" className="relative z-10 flex-1 pb-16 md:pb-0">{children}</main>
+        </ToastProvider>
       </body>
     </html>
   );

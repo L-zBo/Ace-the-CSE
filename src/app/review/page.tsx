@@ -13,7 +13,7 @@ import {
   SUBJECT_NAMES,
   type Subject,
 } from '@/types/question';
-import { Badge, Button, Card, ConfirmDialog, EmptyState, Skeleton } from '@/components/ui';
+import { Badge, Button, Card, ConfirmDialog, EmptyState, Skeleton, useToast } from '@/components/ui';
 import { CountUp } from '@/components/effects/CountUp';
 import { cn } from '@/lib/utils';
 
@@ -22,6 +22,7 @@ const MASTERY_THRESHOLD = 2;
 
 export default function ReviewPage() {
   const { mistakes, markMastered, removeMistake } = useMistakeStore();
+  const toast = useToast();
   const [filterSubject, setFilterSubject] = useState<Subject | ''>('');
   const [showMastered, setShowMastered] = useState(false);
   const [pendingRemove, setPendingRemove] = useState<string | null>(null);
@@ -173,7 +174,10 @@ export default function ReviewPage() {
                       {!mistake.isMastered && (
                         <button
                           type="button"
-                          onClick={() => markMastered(mistake.questionId)}
+                          onClick={() => {
+                            markMastered(mistake.questionId);
+                            toast.success('已标记为掌握，不再出现在待复习列表');
+                          }}
                           aria-label="标记为已掌握"
                           title="标记为已掌握"
                           className="rounded-lg p-1.5 text-foreground-muted transition-colors hover:bg-success/10 hover:text-success focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand"
@@ -231,7 +235,10 @@ export default function ReviewPage() {
         open={pendingRemove !== null}
         onClose={() => setPendingRemove(null)}
         onConfirm={() => {
-          if (pendingRemove) removeMistake(pendingRemove);
+          if (pendingRemove) {
+            removeMistake(pendingRemove);
+            toast.success('已删除这道错题');
+          }
         }}
         title="确认删除这道错题？"
         description="删除后不可恢复。如果还没完全掌握，建议保留继续复习。"

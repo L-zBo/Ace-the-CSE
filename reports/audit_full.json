@@ -3,14 +3,13 @@
   "xingce_total": 20089,
   "placeholder": 79,
   "shenlun_total": 652,
-  "png_total": 2248,
+  "png_total": 2279,
   "png_exam_dirs": 158
  },
  "findings": {
   "answer_vs_explanation": [
    "src/data/xingce\\changshi\\institution_2020_a.json#005 answer=D 但解析结论=A",
    "src/data/xingce\\changshi\\institution_2020_a.json#020 answer=B 但解析结论=C",
-   "src/data/xingce\\changshi\\institution_2020_c.json#001 answer=B 但解析结论=A",
    "src/data/xingce\\changshi\\institution_2022_c.json#003 answer=C 但解析结论=D",
    "src/data/xingce\\changshi\\institution_2022_c.json#014 answer=A 但解析结论=B",
    "src/data/xingce\\changshi\\institution_2023_a.json#003 answer=D 但解析结论=B",
@@ -21,10 +20,8 @@
    "src/data/xingce\\changshi\\provincial_hainan_2020.json#109 answer=A 但解析结论=B",
    "src/data/xingce\\changshi\\provincial_hainan_2023.json#110 answer=A 但解析结论=AD",
    "src/data/xingce\\changshi\\provincial_hunan_2023.json#110 answer=A 但解析结论=AD",
-   "src/data/xingce\\changshi\\provincial_jilin_2024.json#001 answer=D 但解析结论=A",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#015 answer=C 但解析结论=A",
    "src/data/xingce\\changshi\\provincial_qinghai_2023.json#115 answer=A 但解析结论=AD",
-   "src/data/xingce\\changshi\\provincial_shandong_2025.json#002 answer=A 但解析结论=D",
    "src/data/xingce\\changshi\\provincial_shanghai_2020.json#120 answer=B 但解析结论=ABD",
    "src/data/xingce\\changshi\\provincial_shanghai_2020.json#127 answer=A 但解析结论=AB",
    "src/data/xingce\\changshi\\provincial_yunnan_2023.json#095 answer=A 但解析结论=AD",
@@ -84,11 +81,9 @@
    "src/data/xingce\\yanyu\\provincial_zhejiang_2023.json#010 answer=A 但解析结论=D",
    "src/data/xingce\\ziliao\\institution_2020_c.json#052 answer=A 但解析结论=D",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#111 answer=D 但解析结论=B",
-   "src/data/xingce\\ziliao\\national_2016_dishi.json#116 answer=D 但解析结论=A",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#117 answer=D 但解析结论=A",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#118 answer=D 但解析结论=B",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#119 answer=D 但解析结论=C",
-   "src/data/xingce\\ziliao\\national_2016_dishi.json#126 answer=D 但解析结论=C",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#127 answer=D 但解析结论=B",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#128 answer=D 但解析结论=C",
    "src/data/xingce\\ziliao\\national_2016_dishi.json#129 answer=D 但解析结论=B",
@@ -106,41 +101,27 @@
    "src/data/xingce\\ziliao\\provincial_zhejiang_2024.json#104 answer=D 但解析结论=B"
   ],
   "exp_multi_conclusion": [
-   "src/data/xingce\\changshi\\national_2020_dishi.json#002 解析含57个答案结论",
    "src/data/xingce\\changshi\\provincial_beijing_2023.json#027 解析含2个答案结论",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#017 解析含3个答案结论",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#018 解析含3个答案结论",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#019 解析含3个答案结论",
-   "src/data/xingce\\changshi\\provincial_shandong_2025.json#003 解析含2个答案结论",
    "src/data/xingce\\changshi\\provincial_shanghai_2020.json#120 解析含2个答案结论",
    "src/data/xingce\\panduan\\provincial_beijing_2023.json#081 解析含3个答案结论",
-   "src/data/xingce\\panduan\\provincial_guangxi_2021.json#100 解析含2个答案结论",
-   "src/data/xingce\\panduan\\provincial_hebei_2024.json#076 解析含2个答案结论",
-   "src/data/xingce\\shuliang\\provincial_gansu_2024.json#061 解析含2个答案结论"
+   "src/data/xingce\\panduan\\provincial_hebei_2024.json#076 解析含2个答案结论"
   ],
   "opt_count": [
    "src/data/xingce\\changshi\\provincial_guangdong_2024.json#002 选项数=2",
    "src/data/xingce\\changshi\\provincial_guangdong_2024.json#003 选项数=2",
    "src/data/xingce\\changshi\\provincial_guangdong_2024.json#004 选项数=2",
-   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#005 选项数=2",
-   "src/data/xingce\\panduan\\institution_2020_c.json#161 选项数=2",
-   "src/data/xingce\\panduan\\institution_2020_c.json#162 选项数=2"
+   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#005 选项数=2"
   ],
   "exp_crosstalk": [
-   "src/data/xingce\\changshi\\provincial_heilongjiang_2024.json#005 解析含第14题标记",
    "src/data/xingce\\changshi\\provincial_heilongjiang_2024.json#015 解析含第48题标记",
    "src/data/xingce\\changshi\\provincial_heilongjiang_2024.json#020 解析含第67题标记",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#017 解析含第70题标记",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#018 解析含第73题标记",
    "src/data/xingce\\changshi\\provincial_jilin_2024.json#019 解析含第76题标记",
-   "src/data/xingce\\yanyu\\provincial_heilongjiang_2024.json#035 解析含第105题标记",
-   "src/data/xingce\\yanyu\\provincial_heilongjiang_2024.json#036 解析含第110题标记",
-   "src/data/xingce\\yanyu\\provincial_jilin_2024.json#025 解析含第92题标记",
    "src/data/xingce\\yanyu\\provincial_jilin_2024.json#026 解析含第96题标记"
-  ],
-  "opt_label": [
-   "src/data/xingce\\panduan\\institution_2020_c.json#161 label序列=['A', 'C']",
-   "src/data/xingce\\panduan\\institution_2020_c.json#162 label序列=['A', 'C']"
   ],
   "dup_cross_paper": [
    "3处: src/data/xingce\\changshi\\institution_2020_a.json#101 | src/data/xingce\\changshi\\institution_2020_e.json#003 | src/data/xingce\\changshi\\institution_2021_b.json#002",

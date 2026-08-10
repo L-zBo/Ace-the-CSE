@@ -1,0 +1,681 @@
+[
+ {
+  "paper": "institution_2020_a",
+  "id": "institution-xingce-changshi-2020-a-005",
+  "num": 5,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2020_a",
+  "id": "institution-xingce-changshi-2020-a-020",
+  "num": 20,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_c",
+  "id": "institution-xingce-changshi-2022-c-003",
+  "num": 3,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_c",
+  "id": "institution-xingce-changshi-2022-c-014",
+  "num": 14,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2023_a",
+  "id": "institution-xingce-changshi-2023-a-003",
+  "num": 3,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2023_a",
+  "id": "institution-xingce-changshi-2023-a-028",
+  "num": 28,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2021_fushengjia",
+  "id": "national-xingce-changshi-2021-fushengjia-002",
+  "num": 2,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_guangxi_2023",
+  "id": "provincial-guangxi-xingce-changshi-2023-110",
+  "num": 110,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_guizhou_2023",
+  "id": "provincial-guizhou-xingce-changshi-2023-105",
+  "num": 105,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_hainan_2020",
+  "id": "provincial-hainan-xingce-changshi-2020-109",
+  "num": 109,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_hainan_2023",
+  "id": "provincial-hainan-xingce-changshi-2023-110",
+  "num": 110,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_heilongjiang_2024",
+  "id": "provincial-heilongjiang-xingce-changshi-2024-005",
+  "num": 5,
+  "answer": "A",
+  "verdict": "repair",
+  "old_len": 581,
+  "new_len": 769,
+  "new_head": "【5—正确答案B】\n  本题考查政治常识。\n  ①错误，底线思维是居安思危，凡事从最坏处准备，努力争取最好的结果，做到有备无患、遇事不\n  慌，牢牢把握主动权的思维。题干表述出自《资本论》第一卷186",
+  "official_answer": "B"
+ },
+ {
+  "paper": "provincial_heilongjiang_2024",
+  "id": "provincial-heilongjiang-xingce-changshi-2024-015",
+  "num": 15,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_heilongjiang_2024",
+  "id": "provincial-heilongjiang-xingce-changshi-2024-020",
+  "num": 20,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_hunan_2023",
+  "id": "provincial-hunan-xingce-changshi-2023-110",
+  "num": 110,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jilin_2024",
+  "id": "provincial-jilin-xingce-changshi-2024-001",
+  "num": 1,
+  "answer": "D",
+  "verdict": "repair",
+  "old_len": 717,
+  "new_len": 741,
+  "new_head": "【1—正确答案A】\n  本题考查政治常识。\n  ①正确，党的十九届六中全会通过的《中共中央关于党的百年奋斗重大成就和历史经验的决议》中\n  “四、开创中国特色社会主义新时代”部分指出：“······党",
+  "official_answer": "A"
+ },
+ {
+  "paper": "provincial_jilin_2024",
+  "id": "provincial-jilin-xingce-changshi-2024-015",
+  "num": 15,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_qinghai_2023",
+  "id": "provincial-qinghai-xingce-changshi-2023-115",
+  "num": 115,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_shanghai_2020",
+  "id": "provincial-shanghai-xingce-changshi-2020-120",
+  "num": 120,
+  "answer": "B",
+  "verdict": "ambiguous_block"
+ },
+ {
+  "paper": "provincial_shanghai_2020",
+  "id": "provincial-shanghai-xingce-changshi-2020-127",
+  "num": 127,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_yunnan_2023",
+  "id": "provincial-yunnan-xingce-changshi-2023-095",
+  "num": 95,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_zhejiang_2022",
+  "id": "provincial-zhejiang-xingce-changshi-2022-029",
+  "num": 29,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_zhejiang_2023",
+  "verdict": "align_failed",
+  "count": 3
+ },
+ {
+  "paper": "institution_2020_e",
+  "id": "institution-xingce-panduan-2020-e-071",
+  "num": 71,
+  "answer": "D",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "institution_2021_a",
+  "id": "institution-xingce-panduan-2021-a-066",
+  "num": 66,
+  "answer": "B",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "institution_2022_a",
+  "id": "institution-xingce-panduan-2022-a-062",
+  "num": 62,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_a",
+  "id": "institution-xingce-panduan-2022-a-077",
+  "num": 77,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_b",
+  "id": "institution-xingce-panduan-2022-b-067",
+  "num": 67,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_b",
+  "id": "institution-xingce-panduan-2022-b-091",
+  "num": 91,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_c",
+  "id": "institution-xingce-panduan-2022-c-081",
+  "num": 81,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_c",
+  "id": "institution-xingce-panduan-2022-c-078",
+  "num": 78,
+  "answer": "D",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "institution_2023_a",
+  "id": "institution-xingce-panduan-2023-a-086",
+  "num": 86,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2023_b",
+  "id": "institution-xingce-panduan-2023-b-079",
+  "num": 79,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2023_b",
+  "id": "institution-xingce-panduan-2023-b-089",
+  "num": 89,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "institution_2023_e",
+  "id": "institution-xingce-panduan-2023-e-094",
+  "num": 94,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2024_a",
+  "id": "institution-xingce-panduan-2024-a-085",
+  "num": 85,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2024_b",
+  "id": "institution-xingce-panduan-2024-b-091",
+  "num": 91,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2024_e",
+  "id": "institution-xingce-panduan-2024-e-089",
+  "num": 89,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_beijing_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_hebei_2024",
+  "id": "provincial-hebei-xingce-panduan-2024-076",
+  "num": 76,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_heilongjiang_2024",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_hunan_2021",
+  "id": "provincial-hunan-xingce-panduan-2021-090",
+  "num": 90,
+  "answer": "D",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "id": "provincial-jiangsu-xingce-panduan-2022-070",
+  "num": 70,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "id": "provincial-jiangsu-xingce-panduan-2022-110",
+  "num": 110,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "id": "provincial-jiangsu-xingce-panduan-2024-076",
+  "num": 76,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "id": "provincial-jiangsu-xingce-panduan-2024-096",
+  "num": 96,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "id": "provincial-jiangsu-xingce-panduan-2024-110",
+  "num": 110,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "id": "provincial-jiangsu-xingce-panduan-2024-111",
+  "num": 111,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_neimenggu_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_xinjiang_2021",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "institution_2021_b",
+  "id": "institution-xingce-shuliang-2021-b-068",
+  "num": 68,
+  "answer": "D",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "institution_2022_a",
+  "id": "institution-xingce-shuliang-2022-a-058",
+  "num": 58,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_e",
+  "id": "institution-xingce-shuliang-2022-e-046",
+  "num": 46,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_henan_2021",
+  "id": "provincial-henan-xingce-shuliang-2021-061",
+  "num": 61,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "verdict": "align_failed",
+  "count": 2
+ },
+ {
+  "paper": "provincial_shenzhen_2020",
+  "verdict": "align_failed",
+  "count": 3
+ },
+ {
+  "paper": "provincial_zhejiang_2022",
+  "id": "provincial-zhejiang-xingce-shuliang-2022-002",
+  "num": 2,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_zhejiang_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "institution_2020_a",
+  "id": "institution-xingce-yanyu-2020-a-036",
+  "num": 36,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2020_a",
+  "id": "institution-xingce-yanyu-2020-a-136",
+  "num": 136,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "institution_2022_a",
+  "id": "institution-xingce-yanyu-2022-a-021",
+  "num": 21,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2022_e",
+  "id": "institution-xingce-yanyu-2022-e-024",
+  "num": 24,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "institution_2023_c",
+  "id": "institution-xingce-yanyu-2023-c-056",
+  "num": 56,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2021_fushengjia",
+  "id": "national-xingce-yanyu-2021-fushengjia-047",
+  "num": 47,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_beijing_2020",
+  "id": "provincial-beijing-xingce-yanyu-2020-042",
+  "num": 42,
+  "answer": "A",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_heilongjiang_2021",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_heilongjiang_2024",
+  "id": "provincial-heilongjiang-xingce-yanyu-2024-035",
+  "num": 35,
+  "answer": "C",
+  "verdict": "repair",
+  "old_len": 381,
+  "new_len": 469,
+  "new_head": "【35—正确答案B】\n  本题可从二空入手，根据“通过‘吃’与‘被吃’的关系建成一张食物网”“生物种类、数量和所\n  占比例保持在相对稳定的状态”可知，横线处所填词语意为土壤生物之间的食物网维持了不同",
+  "official_answer": "B"
+ },
+ {
+  "paper": "provincial_heilongjiang_2024",
+  "id": "provincial-heilongjiang-xingce-yanyu-2024-036",
+  "num": 36,
+  "answer": "A",
+  "verdict": "repair",
+  "old_len": 938,
+  "new_len": 451,
+  "new_head": "【36—正确答案A】\n  文段开篇介绍草原的土壤情况，即土壤厚度一般很薄，且下面往往有钙积层。随后介绍树木根系无\n  法穿过钙积层，且在土层浅的地方树木不易扎根，故树木在这种土壤条件下不易存活；接着介",
+  "official_answer": "A"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_jilin_2024",
+  "id": "provincial-jilin-xingce-yanyu-2024-025",
+  "num": 25,
+  "answer": "A",
+  "verdict": "repair",
+  "old_len": 263,
+  "new_len": 584,
+  "new_head": "【25—正确答案C】\n  第一空，搭配“法律红线”，根据“甚至”可知，横线处体现的影响应比“破坏公序良俗”更重，\n  “破坏公序良俗”侧重违背道德，故横线处应体现越过法律红线，违反法律之意，A 项“践",
+  "official_answer": "C"
+ },
+ {
+  "paper": "provincial_jilin_2024",
+  "id": "provincial-jilin-xingce-yanyu-2024-026",
+  "num": 26,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_shandong_2025",
+  "id": "provincial-shandong-xingce-yanyu-2025-038",
+  "num": 38,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_shandong_2025",
+  "id": "provincial-shandong-xingce-yanyu-2025-040",
+  "num": 40,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_zhejiang_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "institution_2020_c",
+  "id": "institution-xingce-ziliao-2020-c-052",
+  "num": 52,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-111",
+  "num": 111,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-116",
+  "num": 116,
+  "answer": "D",
+  "verdict": "repair",
+  "old_len": 66,
+  "new_len": 74,
+  "new_head": "2014 年平均每个公共图书馆月均流通人次=流通总人次÷图书馆数量÷月份        12  17 万12  1.4 万\n人次。\n故正确答案为A。",
+  "official_answer": "A"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-117",
+  "num": 117,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-118",
+  "num": 118,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-119",
+  "num": 119,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-126",
+  "num": 126,
+  "answer": "D",
+  "verdict": "repair",
+  "old_len": 135,
+  "new_len": 138,
+  "new_head": "定位文字材料第一段可得2014 年全国社会物流总额为213.5 万亿元，定位文字材料第二段可得物流总费用\n\n中运输费用为5.6 万亿元，则平均每万元社会物流额的运输费=    ≈0.026 万元，故每",
+  "official_answer": "C"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-127",
+  "num": 127,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-128",
+  "num": 128,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "national_2016_dishi",
+  "id": "national-xingce-ziliao-2016-dishi-129",
+  "num": 129,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_fujian_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_gansu_2023",
+  "id": "provincial-gansu-xingce-ziliao-2023-115",
+  "num": 115,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_hebei_2024",
+  "id": "provincial-hebei-xingce-ziliao-2024-124",
+  "num": 124,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "id": "provincial-jiangsu-xingce-ziliao-2022-112",
+  "num": 112,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "id": "provincial-jiangsu-xingce-ziliao-2022-114",
+  "num": 114,
+  "answer": "C",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2022",
+  "id": "provincial-jiangsu-xingce-ziliao-2022-123",
+  "num": 123,
+  "answer": "B",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "id": "provincial-jiangsu-xingce-ziliao-2024-113",
+  "num": 113,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_jiangsu_2024",
+  "id": "provincial-jiangsu-xingce-ziliao-2024-114",
+  "num": 114,
+  "answer": "B",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_neimenggu_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_ningxia_2023",
+  "id": "provincial-ningxia-xingce-ziliao-2023-120",
+  "num": 120,
+  "answer": "A",
+  "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_zhejiang_2022",
+  "id": "provincial-zhejiang-xingce-ziliao-2022-072",
+  "num": 72,
+  "answer": "B",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_zhejiang_2024",
+  "id": "provincial-zhejiang-xingce-ziliao-2024-104",
+  "num": 104,
+  "answer": "D",
+  "verdict": "stem_not_anchored"
+ }
+]
