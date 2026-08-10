@@ -1089,7 +1089,7 @@
       },
       {
         "label": "D",
-        "content": "丙猜错了，小张及格了 甲：所有同学都及格了。 乙：小张没有及格。 丙：肯定不会全部同学都及格。 丁：也不会所有同学都不及格。 如果只有一位同学猜错了，则下列"
+        "content": "丙猜错了，小张及格了"
       }
     ],
     "answer": "B",
@@ -1462,7 +1462,7 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2020,
-    "content": "某果品公司计划安排 6 辆汽车运载 A 一种水果且必须装满，根据下表提供的信息，则有",
+    "content": "某果品公司计划安排6 辆汽车运载A B C 三种水果共32 吨进入某市销售，要求每辆车只装同 一种水果且必须装满，根据下表提供的信息，则有 种安排车辆方案。",
     "options": [
       {
         "label": "A",
@@ -1474,11 +1474,11 @@
       },
       {
         "label": "C",
-        "content": "C 三种水果共 32 吨进入某市销售，要求每辆车只装同 种安排车辆方案。"
+        "content": "3"
       },
       {
         "label": "D",
-        "content": "24、"
+        "content": "4"
       }
     ],
     "answer": "A",
@@ -1488,7 +1488,8 @@
       "逻辑推理"
     ],
     "sourceLabel": "2020年省考shanghai行测第67题",
-    "region": "shanghai"
+    "region": "shanghai",
+    "sourceEvidence": "2020年上海公务员考试《行测》真题（A类）.pdf 第67题"
   },
   {
     "id": "provincial-shanghai-xingce-panduan-2020-068",
@@ -1680,15 +1681,15 @@
       },
       {
         "label": "B",
-        "content": "30 C、50 D、360"
+        "content": "30"
       },
       {
         "label": "C",
-        "content": "都至少有 2 名志愿者，则对小王等人共有 种不同的安排方式。"
+        "content": "50"
       },
       {
         "label": "D",
-        "content": "B、"
+        "content": "360"
       }
     ],
     "answer": "C",

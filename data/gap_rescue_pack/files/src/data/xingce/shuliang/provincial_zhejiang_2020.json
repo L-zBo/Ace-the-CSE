@@ -711,19 +711,19 @@
     "options": [
       {
         "label": "A",
-        "content": "0"
+        "content": "5 号"
       },
       {
         "label": "B",
-        "content": "1"
+        "content": "6 号"
       },
       {
         "label": "C",
-        "content": "2"
+        "content": "7 号"
       },
       {
         "label": "D",
-        "content": "3"
+        "content": "8 号"
       }
     ],
     "answer": "C",
@@ -789,19 +789,19 @@
     "options": [
       {
         "label": "A",
-        "content": "2"
+        "content": "9"
       },
       {
         "label": "B",
-        "content": "4"
+        "content": "10"
       },
       {
         "label": "C",
-        "content": "6"
+        "content": "11"
       },
       {
         "label": "D",
-        "content": "8"
+        "content": "12"
       }
     ],
     "answer": "B",

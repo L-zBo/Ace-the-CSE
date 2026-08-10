@@ -121,19 +121,19 @@
     "options": [
       {
         "label": "A",
-        "content": "、C、D 三项错误。"
+        "content": "1 项"
       },
       {
         "label": "B",
-        "content": "，A、C、D 三项错误。"
+        "content": "2 项"
       },
       {
         "label": "C",
-        "content": "、D 三项错误。"
+        "content": "3 项"
       },
       {
         "label": "D",
-        "content": "三项错误。"
+        "content": "4 项"
       }
     ],
     "answer": "B",

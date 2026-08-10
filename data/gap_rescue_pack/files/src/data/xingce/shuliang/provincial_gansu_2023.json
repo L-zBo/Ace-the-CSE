@@ -80,19 +80,19 @@
     "options": [
       {
         "label": "A",
-        "content": "B. C. D."
+        "content": "6"
       },
       {
         "label": "B",
-        "content": "243"
+        "content": "7"
       },
       {
         "label": "C",
-        "content": "245"
+        "content": "8"
       },
       {
         "label": "D",
-        "content": "246 甲、乙两个商场营业日每天是否打折的概率均为 。某周，甲商场营业7天，而乙商场营业6天，休业1天。问在 这一周，甲商场打折天数比乙商场多的概率为："
+        "content": "9"
       }
     ],
     "answer": "C",
@@ -127,7 +127,7 @@
       },
       {
         "label": "D",
-        "content": "9 第 9 页，共 24 页"
+        "content": "9"
       }
     ],
     "answer": "D",

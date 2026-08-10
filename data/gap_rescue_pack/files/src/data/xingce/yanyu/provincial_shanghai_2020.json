@@ -6,7 +6,7 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2020,
-    "content": "公文的力度 与思想的深度有关， 凑凝练、一语中的， 激励人心的效果。 层层递进、步步深入，风格因人而异， 离不开语言的“加持”。劲道的公文语言 紧 都应起到触动人心、震撼人心、",
+    "content": "公文的力度 与思想的深度有关， 离不开语言的“加持”。劲道的公文语言 紧 凑凝练、一语中的， 层层递进、步步深入，风格因人而异， 都应起到触动人心、震撼人心、 激励人心的效果。",
     "options": [
       {
         "label": "A",
@@ -32,7 +32,8 @@
       "语句表达"
     ],
     "sourceLabel": "2020年省考shanghai行测第1题",
-    "region": "shanghai"
+    "region": "shanghai",
+    "sourceEvidence": "2020年上海公务员考试《行测》真题（A类）.pdf 第1题"
   },
   {
     "id": "provincial-shanghai-xingce-yanyu-2020-002",
@@ -111,7 +112,7 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2020,
-    "content": "因为资金迟迟未能到位， 填入画线部分最恰当的一项是：",
+    "content": "因为资金迟迟未能到位， 发电站的工程一直 不前。 填入画线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
@@ -137,7 +138,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2020年省考shanghai行测第4题",
-    "region": "shanghai"
+    "region": "shanghai",
+    "sourceEvidence": "2020年上海公务员考试《行测》真题（A类）.pdf 第4题"
   },
   {
     "id": "provincial-shanghai-xingce-yanyu-2020-005",
@@ -146,7 +148,7 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2020,
-    "content": "图灵在密码方面取得的成就 不过，在人工智能的发展历史中，却是",
+    "content": "图灵在密码方面取得的成就 。他发明了“图灵机”。虽然这个机器当时是为战争服务的， 不过，在人工智能的发展历史中，却是 的一个事件。",
     "options": [
       {
         "label": "A",
@@ -172,7 +174,8 @@
       "语句表达"
     ],
     "sourceLabel": "2020年省考shanghai行测第5题",
-    "region": "shanghai"
+    "region": "shanghai",
+    "sourceEvidence": "2020年上海公务员考试《行测》真题（A类）.pdf 第5题"
   },
   {
     "id": "provincial-shanghai-xingce-yanyu-2020-006",
@@ -321,7 +324,7 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2020,
-    "content": "对下面一则广告的修改意见最恰当的一组是 xx 山庄位于西天目山，夏天特别凉爽，白天不用扇子，夜晚不离被子。山庄总面积 4000 多平，可同时接",
+    "content": "对下面一则广告的修改意见最恰当的一组是 。 xx 山庄位于西天目山，夏天特别凉爽，白天不用扇子，夜晚不离被子。山庄总面积4000 多平，可同时接 待近200 多人，伙食分餐、桌餐任选，周围瀑布、水库、竹林美不胜收，室内卡拉OK、棋牌、乒乓应有尽有， 是朋友小聚，避暑休闲的好去处。 （1）“西天目山”改成“天目山西边”； （2）“夏天”改成“气候”； （3）“同时接待近200 多人”中的“近”或“多”去掉一个； （4）“美不胜收”改成“数不胜数”； （5）“朋友小聚”后逗号改成顿号。",
     "options": [
       {
         "label": "A",
@@ -347,7 +350,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2020年省考shanghai行测第10题",
-    "region": "shanghai"
+    "region": "shanghai",
+    "sourceEvidence": "2020年上海公务员考试《行测》真题（A类）.pdf 第10题"
   },
   {
     "id": "provincial-shanghai-xingce-yanyu-2020-011",

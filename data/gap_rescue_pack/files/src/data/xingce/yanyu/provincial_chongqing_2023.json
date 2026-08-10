@@ -636,23 +636,23 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2023,
-    "content": "21 世纪诗坛尽管 气背后大手笔缺位，群星闪烁而无月，多元并举背面是欠缺规范，许多诗人理想 但创作上尚未提供与理论 的文本。 ，众声喧哗，但在重量级诗人的输送上逊色于上世纪八九十年代。十足才子 ，有理论锐气， 依次填入画横线处最恰当的一项是：",
+    "content": "21 世纪诗坛尽管 ，众声喧哗，但在重量级诗人的输送上逊色于上世纪八九十年代。十足才子 气背后大手笔缺位，群星闪烁而无月，多元并举背面是欠缺规范，许多诗人理想 ，有理论锐气， 但创作上尚未提供与理论 的文本。 依次填入画横线处最恰当的一项是：",
     "options": [
       {
         "label": "A",
-        "content": "林林总总 高远 匹配"
+        "content": "林林总总高远匹配"
       },
       {
         "label": "B",
-        "content": "光怪陆离 高蹈 配合"
+        "content": "光怪陆离高蹈配合"
       },
       {
         "label": "C",
-        "content": "多姿多彩 远大 搭配"
+        "content": "多姿多彩远大搭配"
       },
       {
         "label": "D",
-        "content": "泥沙俱下 崇高 契合"
+        "content": "泥沙俱下崇高契合"
       }
     ],
     "answer": "A",
@@ -662,7 +662,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2023年省考chongqing行测第37题",
-    "region": "chongqing"
+    "region": "chongqing",
+    "sourceEvidence": "2023年重庆市公务员录用考试《行测》真题.pdf 第37题"
   },
   {
     "id": "provincial-chongqing-xingce-yanyu-2023-038",

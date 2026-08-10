@@ -111,7 +111,7 @@
     "type": "single_choice",
     "source": "national",
     "year": 2016,
-    "content": "中国教育，向来不缺批评声，这其中不乏 解。需要 路上不彷徨、不摇摆，找到真正适合自己的发展道路。 依次填入画横线部分最恰当的一项是：",
+    "content": "中国教育，向来不缺批评声，这其中不乏 ，也难免过激之言。问题当然要直面，难题一定要破 解。需要 的是，当批评蜂拥而至，不要无视那些被掩盖的优点和进步。唯有如此，才能在改革的道 路上不彷徨、不摇摆，找到真正适合自己的发展道路。 依次填入画横线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
@@ -137,7 +137,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2016年国考行测（副省级）第24题",
-    "level": "fushengjia"
+    "level": "fushengjia",
+    "sourceEvidence": "2016年国家公务员考试《行测》真题卷（副省级).pdf 第24题"
   },
   {
     "id": "national-xingce-yanyu-2016-fushengjia-025",
@@ -636,7 +637,7 @@
     "type": "single_choice",
     "source": "national",
     "year": 2016,
-    "content": "数据新闻是个强大的工具， 据记者可以通过编写算法寻找 统纸媒 依次填入画横线部分最恰当的一项是：",
+    "content": "数据新闻是个强大的工具， 了电脑科学、统计学以及社会科学在大数据研究方面的成果。数 据记者可以通过编写算法寻找 ，勾勒出影响力、权力或消息源之间的关系图。在这种背景下，传 统纸媒 自不待言。 依次填入画横线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
@@ -662,7 +663,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2016年国考行测（副省级）第39题",
-    "level": "fushengjia"
+    "level": "fushengjia",
+    "sourceEvidence": "2016年国家公务员考试《行测》真题卷（副省级).pdf 第39题"
   },
   {
     "id": "national-xingce-yanyu-2016-fushengjia-040",

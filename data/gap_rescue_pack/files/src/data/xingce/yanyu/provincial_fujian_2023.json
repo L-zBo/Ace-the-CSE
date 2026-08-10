@@ -426,23 +426,23 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2023,
-    "content": "青色文化 米之间，仅仅 20 纳米而已，又显得 是科学与文化的魅力吧。 ，繁复至极，但沿着牛顿的光谱学说看过去，青光的波长在 425 至 445 纳 了。两相对比，有一种摄人心魄的震撼。想来，这就 依次填入画横线部分最恰当的一项是：",
+    "content": "青色文化 ，繁复至极，但沿着牛顿的光谱学说看过去，青光的波长在425 至445 纳 米之间，仅仅20 纳米而已，又显得 了。两相对比，有一种摄人心魄的震撼。想来，这就 是科学与文化的魅力吧。 依次填入画横线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
-        "content": "浩若烟海 不值一提"
+        "content": "浩若烟海不值一提"
       },
       {
         "label": "B",
-        "content": "源远流长 无足轻重"
+        "content": "源远流长无足轻重"
       },
       {
         "label": "C",
-        "content": "绚丽多彩 平淡无奇"
+        "content": "绚丽多彩平淡无奇"
       },
       {
         "label": "D",
-        "content": "洋洋大观 微乎其微"
+        "content": "洋洋大观微乎其微"
       }
     ],
     "answer": "D",
@@ -452,7 +452,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2023年省考fujian行测第33题",
-    "region": "fujian"
+    "region": "fujian",
+    "sourceEvidence": "2023年福建省公务员录用考试《行测》真题.pdf 第33题"
   },
   {
     "id": "provincial-fujian-xingce-yanyu-2023-034",
@@ -578,7 +579,7 @@
       },
       {
         "label": "C",
-        "content": "成就 提升 才轻任重 的。天资卓越、创造力出众的拔尖人才可以利用他们的天赋和才能来 的影响。 7"
+        "content": "成就提升才轻任重"
       },
       {
         "label": "D",
@@ -671,23 +672,23 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2023,
-    "content": "AI（人工智能）的技术内核虽然 因此，该理念就很容易被一些 的“抢跑”态势。 ，但“模拟人类智慧”这一理念本身却并不 。 的思想先驱者转化为一些艺术形象，由此形成对于技术形态本身 依次填入画横线部分最恰当的一项是：",
+    "content": "AI（人工智能）的技术内核虽然 ，但“模拟人类智慧”这一理念本身却并不 。 因此，该理念就很容易被一些 的思想先驱者转化为一些艺术形象，由此形成对于技术形态本身 的“抢跑”态势。 依次填入画横线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
-        "content": "深奥 超前 敏感"
+        "content": "深奥超前敏感"
       },
       {
         "label": "B",
-        "content": "先进 抽象 前卫"
+        "content": "先进抽象前卫"
       },
       {
         "label": "C",
-        "content": "艰深 晦涩 敏锐"
+        "content": "艰深晦涩敏锐"
       },
       {
         "label": "D",
-        "content": "高端 艰涩 睿智"
+        "content": "高端艰涩睿智"
       }
     ],
     "answer": "C",
@@ -697,7 +698,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2023年省考fujian行测第40题",
-    "region": "fujian"
+    "region": "fujian",
+    "sourceEvidence": "2023年福建省公务员录用考试《行测》真题.pdf 第40题"
   },
   {
     "id": "provincial-fujian-xingce-yanyu-2023-041",

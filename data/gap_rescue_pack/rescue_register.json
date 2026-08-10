@@ -821,6 +821,18 @@
     "unparsable": 346,
     "pdf_is_figure": 1482
    }
+  },
+  {
+   "batch": "2026-08-10e-rebuild-and-markers",
+   "kind": "mechanical_correction",
+   "summary": "整题重建被截断的题干 48 道；北京 2023 第 4/30 题按官方 PDF 复原（原本是第 1/29 题的选项被拆成了独立的假题）；把 [选项暂缺]/[本题暂缺] 纳入占位标记真相源，18 道四个选项全空的题不再出现在练习与模考里。",
+   "tools": [
+    "python scripts/rebuild_questions_from_pdf.py --apply"
+   ],
+   "evidenceChain": "重建要求：本模块文件题号与 PDF 整体对齐（≥8 个样本且 ≥70% 命中同号块）；库里题干 ≥20 字且在本卷任何一份 PDF 里都搜不到；PDF 同号块能解析出完整题干+ABCD 四选项；该块题干不是库内其他题的题干（否则会造出重复题）；PDF 题干不是残卷占位或页脚水印；新题干不得明显短于旧题干；同卷解析 PDF 给出唯一答案。48 道全部答案未变，属纯题干补全。",
+   "changedQuestions": 50,
+   "appliedDiff": "reports/rebuild_questions.json",
+   "note": "曾试过把规则放宽到「题干在 PDF 里但不在自己题号上也重建」，结果把一批题号排布不同的正常题批量换成了别的题（数量题被换成常识题），已撤销。北京 2023 那两道改为单独按 PDF 原文人工核对后写入。"
   }
  ]
 }

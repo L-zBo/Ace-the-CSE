@@ -321,23 +321,23 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2022,
-    "content": "音乐是什么？也许永远无法得出 也许“做音乐”回应了人类比创造更 变成人际互动的形式，就是歌唱。 的答案，但是这个问题本身就有不可忽视的哲学分量。 的需求：交流。声音向另一个人证明了我们的存在，转 依次填入画横线部分最恰当的一项是：",
+    "content": "音乐是什么？也许永远无法得出 的答案，但是这个问题本身就有不可忽视的哲学分量。 也许“做音乐”回应了人类比创造更 的需求：交流。声音向另一个人证明了我们的存在，转 变成人际互动的形式，就是歌唱。 依次填入画横线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
-        "content": "确切 深刻"
+        "content": "确切深刻"
       },
       {
         "label": "B",
-        "content": "公认 普遍"
+        "content": "公认普遍"
       },
       {
         "label": "C",
-        "content": "精确 基本"
+        "content": "精确基本"
       },
       {
         "label": "D",
-        "content": "公允 迫切"
+        "content": "公允迫切"
       }
     ],
     "answer": "A",
@@ -347,7 +347,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2022年省考gansu行测第30题",
-    "region": "gansu"
+    "region": "gansu",
+    "sourceEvidence": "2022年甘肃公务员录用考试《行测》真题.pdf 第30题"
   },
   {
     "id": "provincial-gansu-xingce-yanyu-2022-031",
@@ -706,23 +707,23 @@
     "type": "single_choice",
     "source": "provincial",
     "year": 2022,
-    "content": "数据安全是全球性问题，没有哪个国家可以 网络化、智能化已是 战，应对数据安全风险，需要凝聚全球数字治理合力。 ，但规则 。放眼当今世界，信息化、数字化、 是当前全球数字治理领域面临的突出挑 依次填入画横线部分最恰当的一项是：",
+    "content": "数据安全是全球性问题，没有哪个国家可以 。放眼当今世界，信息化、数字化、 网络化、智能化已是 ，但规则 是当前全球数字治理领域面临的突出挑 战，应对数据安全风险，需要凝聚全球数字治理合力。 依次填入画横线部分最恰当的一项是：",
     "options": [
       {
         "label": "A",
-        "content": "明哲保身 势不可挡 空缺"
+        "content": "明哲保身势不可挡空缺"
       },
       {
         "label": "B",
-        "content": "袖手旁观 蓬勃发展 滞后"
+        "content": "袖手旁观蓬勃发展滞后"
       },
       {
         "label": "C",
-        "content": "置身事外 方兴未艾 漏洞"
+        "content": "置身事外方兴未艾漏洞"
       },
       {
         "label": "D",
-        "content": "独善其身 大势所趋 缺失"
+        "content": "独善其身大势所趋缺失"
       }
     ],
     "answer": "D",
@@ -732,7 +733,8 @@
       "逻辑填空"
     ],
     "sourceLabel": "2022年省考gansu行测第40题",
-    "region": "gansu"
+    "region": "gansu",
+    "sourceEvidence": "2022年甘肃公务员录用考试《行测》真题.pdf 第40题"
   },
   {
     "id": "provincial-gansu-xingce-yanyu-2022-041",

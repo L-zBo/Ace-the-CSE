@@ -502,19 +502,19 @@
     "options": [
       {
         "label": "A",
-        "content": "170"
+        "content": "甲"
       },
       {
         "label": "B",
-        "content": "176"
+        "content": "乙"
       },
       {
         "label": "C",
-        "content": "340"
+        "content": "丙"
       },
       {
         "label": "D",
-        "content": "352"
+        "content": "丁"
       }
     ],
     "answer": "C",

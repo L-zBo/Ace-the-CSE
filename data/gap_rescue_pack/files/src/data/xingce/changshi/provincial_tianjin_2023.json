@@ -160,19 +160,19 @@
     "options": [
       {
         "label": "A",
-        "content": "“重塑”指\n重新塑造，与“观念”“精神秩序”搭配恰当，且符合文意，当选。"
+        "content": "重塑"
       },
       {
         "label": "B",
-        "content": "“重构”指重新构建，与“观念”\n搭配不当，排除；"
+        "content": "重构"
       },
       {
         "label": "C",
-        "content": "“形塑”指塑造，"
+        "content": "形塑"
       },
       {
         "label": "D",
-        "content": "“建构”指建立，均无法体现重新改变之意，排除。"
+        "content": "建构"
       }
     ],
     "answer": "A",

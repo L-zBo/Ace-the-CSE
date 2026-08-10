@@ -570,19 +570,19 @@
     "options": [
       {
         "label": "A",
-        "content": "持续 一帆风顺"
+        "content": "1 项"
       },
       {
         "label": "B",
-        "content": "巧妙 无往不利"
+        "content": "2 项"
       },
       {
         "label": "C",
-        "content": "推进 天从人愿"
+        "content": "3 项"
       },
       {
         "label": "D",
-        "content": "全力 左右逢源"
+        "content": "4 项"
       }
     ],
     "answer": "D",

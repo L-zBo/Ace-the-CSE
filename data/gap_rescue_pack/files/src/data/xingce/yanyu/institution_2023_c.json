@@ -856,11 +856,11 @@
     "type": "single_choice",
     "source": "institution",
     "year": 2023,
-    "content": "A、B 两地之间的道路如下图实线所示。张某从 A 地前往 B 地，且途中只能向正东，东北或者东南方向行进， 问有多少种不同的行进路线可供选择？（ ） A．12",
+    "content": "A．B 两地之间的道路如下图实线所示。张某从A 地前往B 地，且途中只能向正东，东北或者东南方向行进， 问有多少种不同的行进路线可供选择？（ ）",
     "options": [
       {
         "label": "A",
-        "content": "[选项暂缺]"
+        "content": "12"
       },
       {
         "label": "B",
@@ -885,7 +885,8 @@
     "meta": {
       "invalid": true,
       "reason": "content_empty"
-    }
+    },
+    "sourceEvidence": "2018年-2024年事业单位联考职测（C类）笔试真题.pdf 第49题"
   },
   {
     "id": "institution-xingce-yanyu-2023-c-050",

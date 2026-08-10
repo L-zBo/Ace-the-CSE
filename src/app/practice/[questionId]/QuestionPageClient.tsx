@@ -25,6 +25,8 @@ import {
   DIFFICULTY_NAMES,
 } from '@/types/question';
 import ShenlunAnalysis from './ShenlunAnalysis';
+import { FileQuestion } from 'lucide-react';
+import { Button, EmptyState } from '@/components/ui';
 import {
   QuestionHeader,
   QuestionProgressBar,
@@ -275,6 +277,23 @@ export default function QuestionPageClient() {
   ]);
 
   if (!question) {
+    // 加载完了但确实没这道题（收藏/历史里的旧链接，或该题已被清理），
+    // 必须跟「还在加载」区分开 —— 否则页面永远停在「题目加载中…」。
+    const notFound = loadedQuestion?.id === questionId && loadedQuestion.q === null;
+    if (notFound) {
+      return (
+        <div className="mx-auto max-w-2xl px-4 py-16">
+          <EmptyState
+            icon={FileQuestion}
+            title="这道题不在题库里了"
+            description="它可能是重复入库后被清理的副本。可以回到练习列表继续做题。"
+            action={
+              <Button onClick={() => router.push(backTarget)}>返回练习</Button>
+            }
+          />
+        </div>
+      );
+    }
     return (
       <div
         className="flex min-h-[50vh] items-center justify-center"

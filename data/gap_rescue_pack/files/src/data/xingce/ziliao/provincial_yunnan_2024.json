@@ -154,7 +154,7 @@
       },
       {
         "label": "B",
-        "content": "2 B.（二）"
+        "content": "2"
       },
       {
         "label": "C",
@@ -162,7 +162,7 @@
       },
       {
         "label": "D",
-        "content": "D.4 截止"
+        "content": "4"
       }
     ],
     "answer": "C",
@@ -478,7 +478,7 @@
       },
       {
         "label": "D",
-        "content": "53% 第 17 页，共 18 页"
+        "content": "53%"
       }
     ],
     "answer": "D",

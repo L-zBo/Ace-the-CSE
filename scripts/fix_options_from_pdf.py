@@ -246,15 +246,39 @@ def main():
             if not parsed:
                 stats['unparsable'] += 1
                 continue
-            # PDF 里也是图形题（选项只剩裸字母或一两个字），抽不出真内容
-            if sum(len(norm(o['content'])) for o in parsed) < 12:
+            # PDF 里也是图形题：四个选项抽出来只剩裸字母。
+            # 不能按总长度判 —— 「①②/①③/②③/②④」这种组合题选项也很短，
+            # 但那是真内容，按长度一刀切会把它们一起误杀。
+            if all(re.fullmatch(r'[A-D]', norm(o['content'])) for o in parsed):
                 stats['pdf_is_figure'] += 1
                 continue
 
             diff = sum(1 for a, b in zip(db, parsed)
                        if norm(a.get('content')) != norm(b['content']))
             if diff < 2:
-                stats['ok_or_minor'] += 1
+                # 只差一两处、且库里的值就是「PDF 的值 + 一条尾巴」时，
+                # 按 PDF 裁掉尾巴。北京 2023 第 10 题的 D 选项就是
+                # 「一夫当关，万夫莫开」后面粘着下一题的整段题干。
+                trimmed = []
+                for a, b in zip(db, parsed):
+                    na, nb = norm(a.get('content')), norm(b['content'])
+                    if na != nb and nb and na.startswith(nb) and len(na) > len(nb) + 4:
+                        trimmed.append({'label': a['label'], 'content': b['content']})
+                    else:
+                        trimmed.append({'label': a['label'],
+                                        'content': a.get('content', '')})
+                if any(norm(x['content']) != norm(o.get('content'))
+                       for x, o in zip(trimmed, db)):
+                    stats['trim'] += 1
+                    records.append({'paper': paper, 'id': q.get('id'), 'pdfNum': num,
+                                    'pdf': src, 'diff': diff, 'mode': 'trim',
+                                    'old': [o.get('content', '')[:70] for o in db],
+                                    'new': [o['content'][:70] for o in trimmed]})
+                    fixes[path].append({'id': q.get('id'),
+                                        'old': [dict(o) for o in db],
+                                        'new': trimmed})
+                else:
+                    stats['ok_or_minor'] += 1
                 continue
 
             stats['mismatch'] += 1
@@ -269,8 +293,8 @@ def main():
     json.dump(records, io.open('reports/options_from_pdf.json', 'w', encoding='utf-8'),
               ensure_ascii=False, indent=1)
 
-    print(f'扫描 {stats["scanned"]} 道；题干在真题 PDF 唯一命中且选项对不上 '
-          f'{stats["mismatch"]} 道')
+    print(f'扫描 {stats["scanned"]} 道；整组重建 {stats["mismatch"]} 道，'
+          f'裁掉尾巴 {stats["trim"]} 道')
     for k in ('no_pdf', 'not_found', 'not_unique', 'unparsable',
               'pdf_is_figure', 'ok_or_minor'):
         if stats[k]:
