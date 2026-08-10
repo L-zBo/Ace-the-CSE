@@ -32,7 +32,7 @@
   "id": "institution-xingce-changshi-2023-a-003",
   "num": 3,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "stem_not_anchored"
  },
  {
   "paper": "institution_2023_a",
@@ -78,17 +78,6 @@
  },
  {
   "paper": "provincial_heilongjiang_2024",
-  "id": "provincial-heilongjiang-xingce-changshi-2024-005",
-  "num": 5,
-  "answer": "A",
-  "verdict": "repair",
-  "old_len": 581,
-  "new_len": 769,
-  "new_head": "【5—正确答案B】\n  本题考查政治常识。\n  ①错误，底线思维是居安思危，凡事从最坏处准备，努力争取最好的结果，做到有备无患、遇事不\n  慌，牢牢把握主动权的思维。题干表述出自《资本论》第一卷186",
-  "official_answer": "B"
- },
- {
-  "paper": "provincial_heilongjiang_2024",
   "id": "provincial-heilongjiang-xingce-changshi-2024-015",
   "num": 15,
   "answer": "D",
@@ -107,17 +96,6 @@
   "num": 110,
   "answer": "A",
   "verdict": "no_clean_block"
- },
- {
-  "paper": "provincial_jilin_2024",
-  "id": "provincial-jilin-xingce-changshi-2024-001",
-  "num": 1,
-  "answer": "D",
-  "verdict": "repair",
-  "old_len": 717,
-  "new_len": 741,
-  "new_head": "【1—正确答案A】\n  本题考查政治常识。\n  ①正确，党的十九届六中全会通过的《中共中央关于党的百年奋斗重大成就和历史经验的决议》中\n  “四、开创中国特色社会主义新时代”部分指出：“······党",
-  "official_answer": "A"
  },
  {
   "paper": "provincial_jilin_2024",
@@ -155,16 +133,9 @@
   "verdict": "no_clean_block"
  },
  {
-  "paper": "provincial_zhejiang_2022",
-  "id": "provincial-zhejiang-xingce-changshi-2022-029",
-  "num": 29,
-  "answer": "A",
-  "verdict": "stem_not_anchored"
- },
- {
   "paper": "provincial_zhejiang_2023",
   "verdict": "align_failed",
-  "count": 3
+  "count": 4
  },
  {
   "paper": "institution_2020_e",
@@ -185,14 +156,14 @@
   "id": "institution-xingce-panduan-2022-a-062",
   "num": 62,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "stem_not_anchored"
  },
  {
   "paper": "institution_2022_a",
   "id": "institution-xingce-panduan-2022-a-077",
   "num": 77,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "stem_not_anchored"
  },
  {
   "paper": "institution_2022_b",
@@ -227,7 +198,7 @@
   "id": "institution-xingce-panduan-2023-a-086",
   "num": 86,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "stem_not_anchored"
  },
  {
   "paper": "institution_2023_b",
@@ -270,6 +241,11 @@
   "num": 89,
   "answer": "D",
   "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_beijing_2020",
+  "verdict": "align_failed",
+  "count": 1
  },
  {
   "paper": "provincial_beijing_2023",
@@ -348,6 +324,18 @@
   "count": 1
  },
  {
+  "paper": "provincial_zhejiang_2022",
+  "id": "provincial-zhejiang-xingce-panduan-2022-118",
+  "num": 118,
+  "answer": "B",
+  "verdict": "stem_not_anchored"
+ },
+ {
+  "paper": "provincial_zhejiang_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
   "paper": "institution_2021_b",
   "id": "institution-xingce-shuliang-2021-b-068",
   "num": 68,
@@ -398,6 +386,13 @@
   "verdict": "stem_not_anchored"
  },
  {
+  "paper": "provincial_zhejiang_2022",
+  "id": "provincial-zhejiang-xingce-shuliang-2022-020",
+  "num": 20,
+  "answer": "C",
+  "verdict": "stem_not_anchored"
+ },
+ {
   "paper": "provincial_zhejiang_2023",
   "verdict": "align_failed",
   "count": 1
@@ -407,7 +402,7 @@
   "id": "institution-xingce-yanyu-2020-a-036",
   "num": 36,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "stem_not_anchored"
  },
  {
   "paper": "institution_2020_a",
@@ -421,7 +416,7 @@
   "id": "institution-xingce-yanyu-2022-a-021",
   "num": 21,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "stem_not_anchored"
  },
  {
   "paper": "institution_2022_e",
@@ -445,54 +440,14 @@
   "verdict": "no_clean_block"
  },
  {
-  "paper": "provincial_beijing_2020",
-  "id": "provincial-beijing-xingce-yanyu-2020-042",
-  "num": 42,
-  "answer": "A",
-  "verdict": "stem_not_anchored"
- },
- {
   "paper": "provincial_heilongjiang_2021",
   "verdict": "align_failed",
   "count": 1
  },
  {
-  "paper": "provincial_heilongjiang_2024",
-  "id": "provincial-heilongjiang-xingce-yanyu-2024-035",
-  "num": 35,
-  "answer": "C",
-  "verdict": "repair",
-  "old_len": 381,
-  "new_len": 469,
-  "new_head": "【35—正确答案B】\n  本题可从二空入手，根据“通过‘吃’与‘被吃’的关系建成一张食物网”“生物种类、数量和所\n  占比例保持在相对稳定的状态”可知，横线处所填词语意为土壤生物之间的食物网维持了不同",
-  "official_answer": "B"
- },
- {
-  "paper": "provincial_heilongjiang_2024",
-  "id": "provincial-heilongjiang-xingce-yanyu-2024-036",
-  "num": 36,
-  "answer": "A",
-  "verdict": "repair",
-  "old_len": 938,
-  "new_len": 451,
-  "new_head": "【36—正确答案A】\n  文段开篇介绍草原的土壤情况，即土壤厚度一般很薄，且下面往往有钙积层。随后介绍树木根系无\n  法穿过钙积层，且在土层浅的地方树木不易扎根，故树木在这种土壤条件下不易存活；接着介",
-  "official_answer": "A"
- },
- {
   "paper": "provincial_jiangsu_2022",
   "verdict": "align_failed",
   "count": 1
- },
- {
-  "paper": "provincial_jilin_2024",
-  "id": "provincial-jilin-xingce-yanyu-2024-025",
-  "num": 25,
-  "answer": "A",
-  "verdict": "repair",
-  "old_len": 263,
-  "new_len": 584,
-  "new_head": "【25—正确答案C】\n  第一空，搭配“法律红线”，根据“甚至”可知，横线处体现的影响应比“破坏公序良俗”更重，\n  “破坏公序良俗”侧重违背道德，故横线处应体现越过法律红线，违反法律之意，A 项“践",
-  "official_answer": "C"
  },
  {
   "paper": "provincial_jilin_2024",
@@ -518,7 +473,7 @@
  {
   "paper": "provincial_zhejiang_2023",
   "verdict": "align_failed",
-  "count": 1
+  "count": 3
  },
  {
   "paper": "institution_2020_c",
@@ -536,21 +491,14 @@
  },
  {
   "paper": "national_2016_dishi",
-  "id": "national-xingce-ziliao-2016-dishi-116",
-  "num": 116,
-  "answer": "D",
-  "verdict": "repair",
-  "old_len": 66,
-  "new_len": 74,
-  "new_head": "2014 年平均每个公共图书馆月均流通人次=流通总人次÷图书馆数量÷月份        12  17 万12  1.4 万\n人次。\n故正确答案为A。",
-  "official_answer": "A"
- },
- {
-  "paper": "national_2016_dishi",
   "id": "national-xingce-ziliao-2016-dishi-117",
   "num": 117,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "repair",
+  "old_len": 76,
+  "new_len": 114,
+  "new_head": "增长量=     r。\n\n2014 年公共图书电子图书藏量增长册数=              ；\n\n图书总藏量增长册数               ；\n\n则电子图书量增长册数是总藏量增长册数的   ",
+  "official_answer": "A"
  },
  {
   "paper": "national_2016_dishi",
@@ -564,17 +512,10 @@
   "id": "national-xingce-ziliao-2016-dishi-119",
   "num": 119,
   "answer": "D",
-  "verdict": "no_clean_block"
- },
- {
-  "paper": "national_2016_dishi",
-  "id": "national-xingce-ziliao-2016-dishi-126",
-  "num": 126,
-  "answer": "D",
   "verdict": "repair",
-  "old_len": 135,
-  "new_len": 138,
-  "new_head": "定位文字材料第一段可得2014 年全国社会物流总额为213.5 万亿元，定位文字材料第二段可得物流总费用\n\n中运输费用为5.6 万亿元，则平均每万元社会物流额的运输费=    ≈0.026 万元，故每",
+  "old_len": 247,
+  "new_len": 333,
+  "new_head": "2007 年，人均公共图书藏量增速=          =  ；\n\n2008 年，人均公共图书藏量增速=          =  ；\n\n2009 年，人均公共图书藏量增速=          =  ；",
   "official_answer": "C"
  },
  {
@@ -596,7 +537,11 @@
   "id": "national-xingce-ziliao-2016-dishi-129",
   "num": 129,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "repair",
+  "old_len": 132,
+  "new_len": 162,
+  "new_head": "定位材料图形部分可得2014 年上半年（第二季度累计）全国物流总额为101.5 万亿元、2014 年增长率为\n\n8.7%、2013 年上半年增长率为9.1%，则由间隔增长率公式可得          ",
+  "official_answer": "B"
  },
  {
   "paper": "provincial_fujian_2023",
@@ -662,14 +607,11 @@
   "id": "provincial-ningxia-xingce-ziliao-2023-120",
   "num": 120,
   "answer": "A",
-  "verdict": "no_clean_block"
- },
- {
-  "paper": "provincial_zhejiang_2022",
-  "id": "provincial-zhejiang-xingce-ziliao-2022-072",
-  "num": 72,
-  "answer": "B",
-  "verdict": "stem_not_anchored"
+  "verdict": "repair",
+  "old_len": 672,
+  "new_len": 822,
+  "new_head": "A项：根据文字材料第一段可知PMI计算中5个分类指数的权数，假设新订单、生产、从业人员、原材\n   料库存指数均为49.9%，供应商配送时间指数为1%，根据“供应商配送时间指数为逆指数，在合成制造\n ",
+  "official_answer": "AD"
  },
  {
   "paper": "provincial_zhejiang_2024",

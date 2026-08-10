@@ -141,12 +141,28 @@ def sections(paper, text):
 
 
 def split_blocks(text):
+    """按题号切块，只认单调递增成链的题号序列。
+
+    早先见到数字就当题号，页码、「/ 43」、金额都会被当成题号，把块切碎、
+    切串（dedupe 脚本里实测把第 3 题切到第 7 题解析的尾巴上）。
+    真题和解析的题号一定递增，取最长递增链后噪声自然掉光。
+    """
     text = JUNK.sub('', text)
-    marks = list(QNUM.finditer(text))
+    ms = [(int(m.group(1)), m) for m in QNUM.finditer(text)]
+    best = []
+    for s in range(min(40, len(ms))):
+        chain = [ms[s]]
+        last = ms[s][0]
+        for n, m in ms[s + 1:]:
+            if last < n <= last + 4:
+                chain.append((n, m))
+                last = n
+        if len(chain) > len(best):
+            best = chain
     out = {}
-    for i, m in enumerate(marks):
-        end = marks[i + 1].start() if i + 1 < len(marks) else len(text)
-        out.setdefault(int(m.group(1)), []).append(text[m.end():end])
+    for i, (n, m) in enumerate(best):
+        end = best[i + 1][1].start() if i + 1 < len(best) else len(text)
+        out.setdefault(n, []).append(text[m.end():end])
     return out
 
 
@@ -195,6 +211,18 @@ def collect(arr):
             continue
         if len(hits) >= 2 or hits[0] != ans:
             out.append(q)
+    return out
+
+
+def split_blocks_naive(text):
+    """见到行首题号就切。噪声多，但有些卷的题号不成连续链（分模块重新编号、
+    多卷合并），链式切法一个块都切不出来，这时退回来用它兜底。"""
+    text = JUNK.sub('', text)
+    marks = list(QNUM.finditer(text))
+    out = {}
+    for i, m in enumerate(marks):
+        end = marks[i + 1].start() if i + 1 < len(marks) else len(text)
+        out.setdefault(int(m.group(1)), []).append(text[m.end():end])
     return out
 
 
@@ -273,12 +301,16 @@ def main():
 
         # 编号锚定：真题 PDF 的题号体系必须和库里一致
         qblocks = None
-        for p in qp:
-            for sec in sections(paper, pdf_text(p, cache)):
-                b = split_blocks(sec)
-                h, m = align(b, arr)
-                if h >= 3 and m == 0:
-                    qblocks = b
+        splitter = split_blocks
+        for fn in (split_blocks, split_blocks_naive):
+            for p in qp:
+                for sec in sections(paper, pdf_text(p, cache)):
+                    b = fn(sec)
+                    h, m = align(b, arr)
+                    if h >= 3 and m == 0:
+                        qblocks, splitter = b, fn
+                        break
+                if qblocks:
                     break
             if qblocks:
                 break
@@ -291,8 +323,8 @@ def main():
         ablocks = {}
         for p in ap:
             for sec in sections(paper, pdf_text(p, cache)):
-                for splitter in (split_blocks, split_blocks_marked):
-                    for k, v in splitter(sec).items():
+                for fn in (splitter, split_blocks_marked):
+                    for k, v in fn(sec).items():
                         ablocks.setdefault(k, []).extend(v)
 
         for q in targets:

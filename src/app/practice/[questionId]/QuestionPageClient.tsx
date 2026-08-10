@@ -418,7 +418,7 @@ export default function QuestionPageClient() {
           </motion.div>
         )}
         {showAnalysis && question.type !== 'essay' && (
-          <ExplanationPanel explanation={question.explanation} />
+          <ExplanationPanel explanation={question.explanation} answer={question.answer} />
         )}
       </AnimatePresence>
 
