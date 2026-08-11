@@ -1,838 +1,852 @@
 {
- "schemaVersion": 1,
- "project": "Ace-the-CSE",
- "createdAt": "2026-06-17T00:00:00+08:00",
- "purpose": "记录行测原始 58 个不可作答缺口、已完成补缺、剩余缺口，以及申论数据树存放位置；同时为另一台旧项目电脑提供可直接覆盖迁移的数据文件副本。",
- "audit": {
-  "tool": "python scripts/d17_list_unanswerable.py",
-  "beforeRescue": {
-   "total_q": 20089,
-   "total_unanswerable": 58,
-   "distinct_module_paperKey": 17
-  },
-  "afterCurrentRescue": {
-   "total_q": 20089,
-   "total_unanswerable": 50,
-   "distinct_module_paperKey": 12,
-   "snapshot": "snapshots/d17_unanswerable_after_2026-06-17.json"
-  }
- },
- "migration": {
-  "copyRoot": "data/gap_rescue_pack",
-  "applyScript": "data/gap_rescue_pack/apply_gap_rescue.ps1",
-  "fileCopies": [
-   {
-    "sourceInPack": "files/src/data/xingce/yanyu/provincial_hunan_2020.json",
-    "targetInProject": "src/data/xingce/yanyu/provincial_hunan_2020.json",
-    "containsRescuedQuestions": [
-     "provincial-hunan-xingce-yanyu-2020-016"
-    ]
-   },
-   {
-    "sourceInPack": "files/src/data/xingce/changshi/provincial_yunnan_2023.json",
-    "targetInProject": "src/data/xingce/changshi/provincial_yunnan_2023.json",
-    "containsRescuedQuestions": [
-     "provincial-yunnan-xingce-changshi-2023-055"
-    ]
-   },
-   {
-    "sourceInPack": "files/src/data/xingce/changshi/provincial_jilin_2024.json",
-    "targetInProject": "src/data/xingce/changshi/provincial_jilin_2024.json",
-    "containsRescuedQuestions": [],
-    "containsDataCorrections": [
-     "provincial-jilin-xingce-changshi-2024-020"
-    ],
-    "correctionSummary": "吉林 2024 常识第 020 题此前误补成第 079 题内容；本轮已撤销该误补，020 保持为缺题。"
-   },
-   {
-    "sourceInPack": "files/src/data/xingce/yanyu/provincial_ningxia_2024.json",
-    "targetInProject": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
-    "containsRescuedQuestions": [
-     "provincial-ningxia-xingce-yanyu-2024-052",
-     "provincial-ningxia-xingce-yanyu-2024-053",
-     "provincial-ningxia-xingce-yanyu-2024-054",
-     "provincial-ningxia-xingce-yanyu-2024-055"
-    ],
-    "sourceEvidenceInPack": [
-     "sources/ningxia_2024_xingce_source.pdf",
-     "sources/ningxia_2024_xingce_source.txt",
-     "sources/ningxia_2024_xingce_lasee.docx",
-     "sources/ningxia_2024_xingce_lasee.txt",
-     "sources/ningxia_2024_yanyu_052_055_sources.md"
-    ],
-    "rescueSummary": "补回宁夏 2024 行测言语第 52-55 题。题干和选项来自另一份完整 PDF；第 52、54、55 题答案解析由河南华图同题页闭环，第 53 题由星光公考同题页闭环，并用原文出处互证。"
-   },
-   {
-    "sourceInPack": "files/src/data/xingce/yanyu/provincial_gansu_2024.json",
-    "targetInProject": "src/data/xingce/yanyu/provincial_gansu_2024.json",
-    "containsRescuedQuestions": [
-     "provincial-gansu-xingce-yanyu-2024-054"
-    ],
-    "sourceEvidenceInPack": [
-     "sources/gansu_2024_yanyu_054_sources.md"
-    ],
-    "rescueSummary": "补回甘肃 2024 行测言语第 054 题，并修复此前写入的问号乱码。题干与选项由河南/宁夏 2024 同题链条互证，答案 D 由星光公考同题解析和金标尺选项顺序交叉校验。"
-   },
-   {
-    "sourceInPack": "files/src/data/xingce/changshi/institution_2022_b.json",
-    "targetInProject": "src/data/xingce/changshi/institution_2022_b.json",
-    "containsRescuedQuestions": [
-     "institution-xingce-changshi-2022-b-034"
-    ],
-    "sourceEvidenceInPack": [
-     "sources/institution_2022_b_034_sources.md"
-    ],
-    "rescueSummary": "补回 2022 事业单位联考职测 B 第 034 题。华图 B 类估分页用于题号定位，厚职网/全国事业单位招聘网 E 类同题页提供完整题干与选项，新华网《医师法》法条报道完成答案 B 的闭环。"
-   },
-   {
-    "sourceInPack": "files/src/data/xingce/shuliang/institution_2022_c.json",
-    "targetInProject": "src/data/xingce/shuliang/institution_2022_c.json",
-    "containsRescuedQuestions": [],
-    "containsDataCorrections": [
-     "institution-xingce-shuliang-2022-c-050"
-    ],
-    "sourceEvidenceInPack": [
-     "sources/unresolved_xingce_2026-06-17.md"
-    ],
-    "correctionSummary": "修正 2022 事业单位联考职测 C 第 050 题的旧说明：该题不是资料分析题，而是华图 C 类估分页中可定位到的“工厂举办生产技能大赛”数量题；公开残片只有 A.2、B.3、C.4、D.5 和打码题干，仍不可作答。"
-   }
-  ],
-  "directoryCopies": [
-   {
-    "sourceInPack": "files/src/data/shenlun",
-    "targetInProject": "src/data/shenlun",
-    "fileCount": 647,
-    "purpose": "申论 material 字段补齐数据镜像；其中 507 条来自既有 content 字段规范化，140 条来自本地 PDF 回源补齐。旧项目原本已有 5 条 material，迁移后总覆盖应为 652 条。",
-    "auditAfterApply": "python scripts/audit_shenlun_material.py",
-    "expectedAfterApply": {
-     "totalShenlunQs": 652,
-     "hasMaterial": 652,
-     "missingMaterial": 0
+  "schemaVersion": 1,
+  "project": "Ace-the-CSE",
+  "createdAt": "2026-06-17T00:00:00+08:00",
+  "purpose": "记录行测原始 58 个不可作答缺口、已完成补缺、剩余缺口，以及申论数据树存放位置；同时为另一台旧项目电脑提供可直接覆盖迁移的数据文件副本。",
+  "audit": {
+    "tool": "python scripts/d17_list_unanswerable.py",
+    "beforeRescue": {
+      "total_q": 20089,
+      "total_unanswerable": 58,
+      "distinct_module_paperKey": 17
+    },
+    "afterCurrentRescue": {
+      "total_q": 20089,
+      "total_unanswerable": 50,
+      "distinct_module_paperKey": 12,
+      "snapshot": "snapshots/d17_unanswerable_after_2026-06-17.json"
     }
-   }
+  },
+  "migration": {
+    "copyRoot": "data/gap_rescue_pack",
+    "applyScript": "data/gap_rescue_pack/apply_gap_rescue.ps1",
+    "fileCopies": [
+      {
+        "sourceInPack": "files/src/data/xingce/yanyu/provincial_hunan_2020.json",
+        "targetInProject": "src/data/xingce/yanyu/provincial_hunan_2020.json",
+        "containsRescuedQuestions": [
+          "provincial-hunan-xingce-yanyu-2020-016"
+        ]
+      },
+      {
+        "sourceInPack": "files/src/data/xingce/changshi/provincial_yunnan_2023.json",
+        "targetInProject": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+        "containsRescuedQuestions": [
+          "provincial-yunnan-xingce-changshi-2023-055"
+        ]
+      },
+      {
+        "sourceInPack": "files/src/data/xingce/changshi/provincial_jilin_2024.json",
+        "targetInProject": "src/data/xingce/changshi/provincial_jilin_2024.json",
+        "containsRescuedQuestions": [],
+        "containsDataCorrections": [
+          "provincial-jilin-xingce-changshi-2024-020"
+        ],
+        "correctionSummary": "吉林 2024 常识第 020 题此前误补成第 079 题内容；本轮已撤销该误补，020 保持为缺题。"
+      },
+      {
+        "sourceInPack": "files/src/data/xingce/yanyu/provincial_ningxia_2024.json",
+        "targetInProject": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
+        "containsRescuedQuestions": [
+          "provincial-ningxia-xingce-yanyu-2024-052",
+          "provincial-ningxia-xingce-yanyu-2024-053",
+          "provincial-ningxia-xingce-yanyu-2024-054",
+          "provincial-ningxia-xingce-yanyu-2024-055"
+        ],
+        "sourceEvidenceInPack": [
+          "sources/ningxia_2024_xingce_source.pdf",
+          "sources/ningxia_2024_xingce_source.txt",
+          "sources/ningxia_2024_xingce_lasee.docx",
+          "sources/ningxia_2024_xingce_lasee.txt",
+          "sources/ningxia_2024_yanyu_052_055_sources.md"
+        ],
+        "rescueSummary": "补回宁夏 2024 行测言语第 52-55 题。题干和选项来自另一份完整 PDF；第 52、54、55 题答案解析由河南华图同题页闭环，第 53 题由星光公考同题页闭环，并用原文出处互证。"
+      },
+      {
+        "sourceInPack": "files/src/data/xingce/yanyu/provincial_gansu_2024.json",
+        "targetInProject": "src/data/xingce/yanyu/provincial_gansu_2024.json",
+        "containsRescuedQuestions": [
+          "provincial-gansu-xingce-yanyu-2024-054"
+        ],
+        "sourceEvidenceInPack": [
+          "sources/gansu_2024_yanyu_054_sources.md"
+        ],
+        "rescueSummary": "补回甘肃 2024 行测言语第 054 题，并修复此前写入的问号乱码。题干与选项由河南/宁夏 2024 同题链条互证，答案 D 由星光公考同题解析和金标尺选项顺序交叉校验。"
+      },
+      {
+        "sourceInPack": "files/src/data/xingce/changshi/institution_2022_b.json",
+        "targetInProject": "src/data/xingce/changshi/institution_2022_b.json",
+        "containsRescuedQuestions": [
+          "institution-xingce-changshi-2022-b-034"
+        ],
+        "sourceEvidenceInPack": [
+          "sources/institution_2022_b_034_sources.md"
+        ],
+        "rescueSummary": "补回 2022 事业单位联考职测 B 第 034 题。华图 B 类估分页用于题号定位，厚职网/全国事业单位招聘网 E 类同题页提供完整题干与选项，新华网《医师法》法条报道完成答案 B 的闭环。"
+      },
+      {
+        "sourceInPack": "files/src/data/xingce/shuliang/institution_2022_c.json",
+        "targetInProject": "src/data/xingce/shuliang/institution_2022_c.json",
+        "containsRescuedQuestions": [],
+        "containsDataCorrections": [
+          "institution-xingce-shuliang-2022-c-050"
+        ],
+        "sourceEvidenceInPack": [
+          "sources/unresolved_xingce_2026-06-17.md"
+        ],
+        "correctionSummary": "修正 2022 事业单位联考职测 C 第 050 题的旧说明：该题不是资料分析题，而是华图 C 类估分页中可定位到的“工厂举办生产技能大赛”数量题；公开残片只有 A.2、B.3、C.4、D.5 和打码题干，仍不可作答。"
+      }
+    ],
+    "directoryCopies": [
+      {
+        "sourceInPack": "files/src/data/shenlun",
+        "targetInProject": "src/data/shenlun",
+        "fileCount": 647,
+        "purpose": "申论 material 字段补齐数据镜像；其中 507 条来自既有 content 字段规范化，140 条来自本地 PDF 回源补齐。旧项目原本已有 5 条 material，迁移后总覆盖应为 652 条。",
+        "auditAfterApply": "python scripts/audit_shenlun_material.py",
+        "expectedAfterApply": {
+          "totalShenlunQs": 652,
+          "hasMaterial": 652,
+          "missingMaterial": 0
+        }
+      }
+    ]
+  },
+  "xingce": {
+    "originalUnanswerableGroups": {
+      "changshi/institution_2022_b": [
+        "034"
+      ],
+      "changshi/provincial_beijing_2023": [
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "025",
+        "026",
+        "027"
+      ],
+      "changshi/provincial_jilin_2024": [
+        "017",
+        "018",
+        "019",
+        "020"
+      ],
+      "changshi/provincial_neimenggu_2023": [
+        "018"
+      ],
+      "changshi/provincial_xinjiang_2023": [
+        "014",
+        "015",
+        "016",
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "025"
+      ],
+      "changshi/provincial_yunnan_2023": [
+        "055"
+      ],
+      "panduan/provincial_beijing_2023": [
+        "111"
+      ],
+      "panduan/provincial_gansu_2024": [
+        "078",
+        "087"
+      ],
+      "panduan/provincial_jilin_2024": [
+        "065",
+        "066",
+        "067",
+        "068",
+        "077"
+      ],
+      "shuliang/institution_2022_c": [
+        "050"
+      ],
+      "shuliang/provincial_gansu_2024": [
+        "069",
+        "070"
+      ],
+      "shuliang/provincial_xinjiang_2023": [
+        "060",
+        "061",
+        "062",
+        "063",
+        "064",
+        "065"
+      ],
+      "yanyu/provincial_gansu_2024": [
+        "054"
+      ],
+      "yanyu/provincial_hunan_2020": [
+        "016"
+      ],
+      "yanyu/provincial_jilin_2024": [
+        "042",
+        "043",
+        "044",
+        "045"
+      ],
+      "yanyu/provincial_ningxia_2024": [
+        "052",
+        "053",
+        "054",
+        "055"
+      ],
+      "yanyu/provincial_xinjiang_2023": [
+        "050"
+      ]
+    },
+    "rescuedQuestions": [
+      {
+        "id": "provincial-hunan-xingce-yanyu-2020-016",
+        "module": "yanyu",
+        "paperKey": "provincial_hunan_2020",
+        "questionNumber": "016",
+        "targetFile": "src/data/xingce/yanyu/provincial_hunan_2020.json",
+        "status": "rescued",
+        "answer": "C",
+        "rescueMethod": "WebSearch-D16L6",
+        "sourceSummary": "题面来自 sanlianbook 2020 湖南行测 PDF；答案与解析来自 sanlianbook 答案解析 PDF、河南华图解析页。",
+        "sources": [
+          "http://sanlianbook.com/public/uploads/files/20201208/21ce403914e217f3fdfbd78c4d924a0c.pdf",
+          "http://sanlianbook.com/public/uploads/files/20201208/60cd76e1ff43035d558565182bffa5e7.pdf",
+          "https://ah.huatu.com/2022/0630/2348457.html"
+        ]
+      },
+      {
+        "id": "provincial-yunnan-xingce-changshi-2023-055",
+        "module": "changshi",
+        "paperKey": "provincial_yunnan_2023",
+        "questionNumber": "055",
+        "targetFile": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+        "status": "rescued",
+        "answer": "B",
+        "rescueMethod": "WebSearch-D16L6",
+        "sourceSummary": "原 PDF 缓存为占位缺失；安徽华图给出云南题面，河南华图和星光/小麦公考给出同题解析。因不同来源选项顺序不同，本项目当前选项顺序下答案为 B。",
+        "sources": [
+          "https://ah.huatu.com/tiku/dfgwy/2023ynskgf/",
+          "https://ha.huatu.com/2023/0226/5169408.html",
+          "https://www.xingguanggongkao.com/pc/wb/quesView/id/46285.html",
+          "http://www.xiaomaigongkao.com/Mobile/Ques/view/id/46285.html"
+        ]
+      },
+      {
+        "id": "provincial-ningxia-xingce-yanyu-2024-052",
+        "module": "yanyu",
+        "paperKey": "provincial_ningxia_2024",
+        "questionNumber": "052",
+        "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
+        "status": "rescued",
+        "answer": "C",
+        "rescueMethod": "D18-source-pdf-plus-web解析",
+        "sourceSummary": "题干和选项来自 32706041.s21i.faiusr.com 完整 PDF；答案 C 与解析来自河南华图同题页。",
+        "sources": [
+          "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
+          "https://ha.huatu.com/2024/0828/5942602.html"
+        ]
+      },
+      {
+        "id": "provincial-ningxia-xingce-yanyu-2024-053",
+        "module": "yanyu",
+        "paperKey": "provincial_ningxia_2024",
+        "questionNumber": "053",
+        "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
+        "status": "rescued",
+        "answer": "D",
+        "rescueMethod": "D18-source-pdf-plus-web解析",
+        "sourceSummary": "题干和选项来自完整 PDF；答案 D 与解析来自星光公考同题页，并由《“中华”一词的产生及开放性特点》原文互证。",
+        "sources": [
+          "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
+          "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48476.html",
+          "https://www.aisixiang.com/data/138466.html"
+        ]
+      },
+      {
+        "id": "provincial-ningxia-xingce-yanyu-2024-054",
+        "module": "yanyu",
+        "paperKey": "provincial_ningxia_2024",
+        "questionNumber": "054",
+        "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
+        "status": "rescued",
+        "answer": "B",
+        "rescueMethod": "D18-source-pdf-plus-web解析",
+        "sourceSummary": "题干和选项来自完整 PDF；答案 B 与解析来自河南华图同题页。",
+        "sources": [
+          "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
+          "https://ha.huatu.com/2024/0901/5942605.html"
+        ]
+      },
+      {
+        "id": "provincial-ningxia-xingce-yanyu-2024-055",
+        "module": "yanyu",
+        "paperKey": "provincial_ningxia_2024",
+        "questionNumber": "055",
+        "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
+        "status": "rescued",
+        "answer": "D",
+        "rescueMethod": "D18-source-pdf-plus-web解析",
+        "sourceSummary": "题干和选项来自完整 PDF；答案 D 与解析来自河南华图和星光公考同题页，并由工人日报原文互证。",
+        "sources": [
+          "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
+          "https://ha.huatu.com/2024/0902/5942606.html",
+          "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48468.html",
+          "https://tj.workercn.cn/c/2023-07-24/7918864.shtml"
+        ]
+      },
+      {
+        "id": "provincial-gansu-xingce-yanyu-2024-054",
+        "module": "yanyu",
+        "paperKey": "provincial_gansu_2024",
+        "questionNumber": "054",
+        "targetFile": "src/data/xingce/yanyu/provincial_gansu_2024.json",
+        "status": "rescued",
+        "answer": "D",
+        "rescueMethod": "D19-cross-province-web-source-chain",
+        "sourceSummary": "甘肃 2024 第 054 题以河南/宁夏 2024 相邻同题链条定位为“中华”开放性题；星光公考同题解析给出本项目选项顺序下答案 D，金标尺同题以不同选项顺序交叉证明正确项为“开放性”。",
+        "sources": [
+          "https://www.aipta.com/article/9340.html",
+          "https://www.aipta.com/article/9673.html",
+          "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48476.html",
+          "https://jbcgk.com/wp/search/detail?id=EaX9r1z7kr&type=question"
+        ]
+      },
+      {
+        "id": "institution-xingce-changshi-2022-b-034",
+        "module": "changshi",
+        "paperKey": "institution_2022_b",
+        "questionNumber": "034",
+        "targetFile": "src/data/xingce/changshi/institution_2022_b.json",
+        "status": "rescued",
+        "answer": "B",
+        "rescueMethod": "D20-web-source-chain",
+        "sourceSummary": "华图 B 类估分页证明本题为 2022 事业单位联考职测 B 第 034 题；厚职网和全国事业单位招聘网 E 类同题页提供未打码题干与选项；新华网《医师法》第二十七条报道证明正确项为 B。",
+        "sources": [
+          "https://ah.huatu.com/tiku/sydw/2022lksydwb/",
+          "http://www.houzhiwang.com/html/202205/345182.html",
+          "http://www.kaosydw.com/202205/99572.html",
+          "http://www.news.cn/politics/2022-03/01/c_1128425179.htm"
+        ]
+      }
+    ],
+    "remainingUnanswerableGroups": {
+      "changshi/provincial_beijing_2023": [
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "025",
+        "026",
+        "027"
+      ],
+      "changshi/provincial_jilin_2024": [
+        "017",
+        "018",
+        "019",
+        "020"
+      ],
+      "changshi/provincial_neimenggu_2023": [
+        "018"
+      ],
+      "changshi/provincial_xinjiang_2023": [
+        "014",
+        "015",
+        "016",
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "025"
+      ],
+      "panduan/provincial_beijing_2023": [
+        "111"
+      ],
+      "panduan/provincial_gansu_2024": [
+        "078",
+        "087"
+      ],
+      "panduan/provincial_jilin_2024": [
+        "065",
+        "066",
+        "067",
+        "068",
+        "077"
+      ],
+      "shuliang/institution_2022_c": [
+        "050"
+      ],
+      "shuliang/provincial_gansu_2024": [
+        "069",
+        "070"
+      ],
+      "shuliang/provincial_xinjiang_2023": [
+        "060",
+        "061",
+        "062",
+        "063",
+        "064",
+        "065"
+      ],
+      "yanyu/provincial_jilin_2024": [
+        "042",
+        "043",
+        "044",
+        "045"
+      ],
+      "yanyu/provincial_xinjiang_2023": [
+        "050"
+      ]
+    },
+    "doNotBlindFillNotes": [
+      "不能把默认 A 项得分当真实答案。",
+      "北京 2023、吉林 2024、甘肃 2024、新疆 2023、宁夏 2024 等多处公开题源本身也显示征集/暂缺，补题必须逐题找到完整题干、选项、答案和可解释来源。",
+      "institution_2022_c 050 已定位为关键条件打码的数量题，只有选项残片，暂不硬补。"
+    ],
+    "investigatedUnresolvedQuestions": [
+      {
+        "module": "shuliang",
+        "paperKey": "provincial_gansu_2024",
+        "questionNumber": "069",
+        "status": "source_missing",
+        "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
+      },
+      {
+        "module": "shuliang",
+        "paperKey": "provincial_gansu_2024",
+        "questionNumber": "070",
+        "status": "source_missing",
+        "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
+      },
+      {
+        "module": "panduan",
+        "paperKey": "provincial_gansu_2024",
+        "questionNumber": "078",
+        "status": "source_missing",
+        "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
+      },
+      {
+        "module": "panduan",
+        "paperKey": "provincial_gansu_2024",
+        "questionNumber": "087",
+        "status": "source_missing",
+        "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
+      },
+      {
+        "module": "yanyu",
+        "paperKey": "provincial_xinjiang_2023",
+        "questionNumber": "050",
+        "status": "source_missing",
+        "evidence": "AIPTA《2023新疆公务员行测真题及答案解析》、夜雨聆风 2023 新疆卷和公考网 2023 新疆卷均在第 49 题后标注第 50 题缺失或征集，未给出完整题干、选项和答案。"
+      },
+      {
+        "module": "changshi",
+        "paperKey": "provincial_jilin_2024",
+        "questionNumber": "020",
+        "status": "invalidated_rescue_source_missing",
+        "evidence": "yeyulingfeng 完整卷面和星光公考公开 PDF 均显示吉林 2024 行测第 17-20 题缺失；“东北虎：森林：自然资源”对应第 79 题，不是第 020 题；gkzenti 也显示 17-20 缺失。"
+      }
+    ],
+    "investigatedUnresolvedGroups": [
+      {
+        "modulePaperKey": "changshi/provincial_xinjiang_2023",
+        "questionNumbers": [
+          "014",
+          "015",
+          "016",
+          "017",
+          "018",
+          "019",
+          "020",
+          "021",
+          "022",
+          "023",
+          "024",
+          "025"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#新疆-2023",
+        "sourceSummary": "爱真题、拉西学习资源站、夜雨聆风、公考网和本地缓存均标注 14-25 缺失或默认 A 占位；夜雨聆风页尾写明暂缺失 19 道题目。"
+      },
+      {
+        "modulePaperKey": "yanyu/provincial_xinjiang_2023",
+        "questionNumbers": [
+          "050"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#新疆-2023",
+        "sourceSummary": "爱真题、夜雨聆风与本地缓存均标注第 50 题缺失或征集。"
+      },
+      {
+        "modulePaperKey": "shuliang/provincial_xinjiang_2023",
+        "questionNumbers": [
+          "060",
+          "061",
+          "062",
+          "063",
+          "064",
+          "065"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#新疆-2023",
+        "sourceSummary": "爱真题、拉西学习资源站、夜雨聆风、公考网和本地缓存均标注 60-65 缺失或默认 A 占位；夜雨聆风页尾写明暂缺失 19 道题目。"
+      },
+      {
+        "modulePaperKey": "changshi/provincial_beijing_2023",
+        "questionNumbers": [
+          "017",
+          "018",
+          "019",
+          "020",
+          "021",
+          "022",
+          "023",
+          "024",
+          "025",
+          "026",
+          "027"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#北京-2023",
+        "sourceSummary": "exam2 PDF、考生网北京合集说明和星光公考公开 PDF 均显示 2023 北京卷大块缺题；项目第 15 题高铁技术已另救援，剩余 17-27 仍无完整题源。"
+      },
+      {
+        "modulePaperKey": "panduan/provincial_beijing_2023",
+        "questionNumbers": [
+          "111"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#北京-2023",
+        "sourceSummary": "考生网北京合集说明 111-125 缺失，星光公考公开 PDF 第 111 题也为暂无收集到；公开源中的第 110 道德情绪题不能错位填入第 111。"
+      },
+      {
+        "modulePaperKey": "changshi/provincial_jilin_2024",
+        "questionNumbers": [
+          "017",
+          "018",
+          "019",
+          "020"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#吉林-2024",
+        "sourceSummary": "爱真题、gkzenti、夜雨聆风、星光公考公开 PDF 和本地缓存均显示 17-20 缺失。"
+      },
+      {
+        "modulePaperKey": "yanyu/provincial_jilin_2024",
+        "questionNumbers": [
+          "042",
+          "043",
+          "044",
+          "045"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#吉林-2024",
+        "sourceSummary": "爱真题、星光公考公开 PDF 与本地缓存均显示 42-45 缺失。"
+      },
+      {
+        "modulePaperKey": "panduan/provincial_jilin_2024",
+        "questionNumbers": [
+          "065",
+          "066",
+          "067",
+          "068",
+          "077"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#吉林-2024",
+        "sourceSummary": "爱真题、星光公考公开 PDF 与本地缓存均显示 65-68、77 缺失。"
+      },
+      {
+        "modulePaperKey": "shuliang/provincial_gansu_2024",
+        "questionNumbers": [
+          "069",
+          "070"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#甘肃-2024",
+        "sourceSummary": "爱真题显示 69-70 题目缺失；原创力 2026 新上传版本和星光公考公开 PDF 仍显示征集/暂缺/暂无收集到。"
+      },
+      {
+        "modulePaperKey": "panduan/provincial_gansu_2024",
+        "questionNumbers": [
+          "078",
+          "087"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#甘肃-2024",
+        "sourceSummary": "爱真题显示 78 为征集默认 A 占位、87 题目缺失；原创力 2026 新上传版本和星光公考公开 PDF 仍显示征集/暂缺/暂无收集到。"
+      },
+      {
+        "modulePaperKey": "changshi/provincial_neimenggu_2023",
+        "questionNumbers": [
+          "018"
+        ],
+        "status": "source_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#内蒙古-2023",
+        "sourceSummary": "爱真题、夜雨聆风、星光公考公开 PDF 和本地图像均显示第 18 题缺失或暂无收集到。"
+      },
+      {
+        "modulePaperKey": "shuliang/institution_2022_c",
+        "questionNumbers": [
+          "050"
+        ],
+        "status": "source_masked_or_missing",
+        "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#事业单位-2022-c-类",
+        "sourceSummary": "华图 C 类估分页可定位第 50 题为“工厂举办生产技能大赛”数量题，选项为 A.2、B.3、C.4、D.5，但关键条件被打码；厚职网等公开页显示题目暂缺。"
+      }
+    ],
+    "unresolvedEvidenceInPack": [
+      "sources/unresolved_xingce_2026-06-17.md",
+      "sources/unresolved_xingce_2026-06-19.md",
+      "sources/beijing_2023_exam2_candidate.pdf",
+      "sources/beijing_2023_exam2_candidate.txt",
+      "sources/beijing_2023_xingguang.pdf",
+      "sources/beijing_2023_xingguang.txt",
+      "sources/gansu_2024_xingguang.pdf",
+      "sources/gansu_2024_xingguang.txt",
+      "sources/jilin_2024_xingguang.pdf",
+      "sources/jilin_2024_xingguang.txt",
+      "sources/neimenggu_2023_xingguang.pdf",
+      "sources/neimenggu_2023_xingguang.txt",
+      "sources/followup_search_2026-06-19/",
+      "sources/xinjiang_2023_newdu_pages/"
+    ],
+    "latestRescueNote": "2026-06-19: 按用户要求暂停本轮行测 50 个剩余缺口的继续外搜，并沉淀修复/复核记录。重新运行 d17_list_unanswerable 后仍为 50；本轮用相邻题锚点、豆丁页图、AIPTA/华图/搜索缓存等复核，仍未取得任何满足题干、选项、答案、来源证据链闭环的新题源；新增部分原始搜索缓存 sources/followup_search_2026-06-19/ 供下次接着查。详见 sources/unresolved_xingce_2026-06-19.md。"
+  },
+  "shenlun": {
+    "dataRoot": "src/data/shenlun",
+    "fileCount": 652,
+    "categories": {
+      "duice": {
+        "path": "src/data/shenlun/duice",
+        "fileCount": 16
+      },
+      "fenxi": {
+        "path": "src/data/shenlun/fenxi",
+        "fileCount": 1
+      },
+      "guanche": {
+        "path": "src/data/shenlun/guanche",
+        "fileCount": 170
+      },
+      "guina": {
+        "path": "src/data/shenlun/guina",
+        "fileCount": 1
+      },
+      "xiezuo": {
+        "path": "src/data/shenlun/xiezuo",
+        "fileCount": 464
+      }
+    },
+    "currentRescueStatus": "2026-06-18 已完成申论 material 补齐：先从既有 content 规范化 507 条，再通过本地 PDF 回源补齐剩余 140 条；当前 652 条申论记录均有 material，缺口 0。",
+    "investigatedExternalSources": [
+      {
+        "name": "申材有道",
+        "url": "https://shenlunsucai.com/",
+        "checkedAt": "2026-06-17T01:35:00+08:00",
+        "status": "partially_public",
+        "publicEndpoints": [
+          "GET /api/v1/library/homepage/list?categoryName=热点案例&page=1&size=4&sortBy=time",
+          "GET /api/v1/library/homepage/list?categoryName=政策理论&page=1&size=1&sortBy=time",
+          "GET /api/v1/library/homepage/list?categoryName=申论范文&page=1&size=1&sortBy=time"
+        ],
+        "lockedEndpoints": [
+          "GET /api/v1/practice/question-types",
+          "GET /api/v1/practice/questions",
+          "GET /api/v1/xingce/questions",
+          "GET /api/v1/xingce/sets/paged"
+        ],
+        "finding": "公开接口可获得申论素材/案例/政策理论/申论范文字段，包括 title、content、original_content、argumentation_applications、related_materials、real_exam_applications、source_url 等；练习题库、行测题库、用户统计和收藏接口均返回 401，需要登录态。",
+        "usableFor": "可作为后续补充申论素材库、范文库、热点案例库的来源候选；不适合直接补当前行测 55 个不可作答缺题。",
+        "migrationNote": "若后续从该站补申论数据，必须把转换后的项目 JSON 放入 files/src/data/shenlun/...，并在 migration.fileCopies 中登记目标文件和来源接口。"
+      }
+    ],
+    "migrationRule": "申论补齐数据统一放在 data/gap_rescue_pack/files/src/data/shenlun/；另一台旧项目机器复制本目录后运行 apply_gap_rescue.ps1，即可把 files/ 下的同路径 JSON 覆盖回项目。",
+    "materialAudit": {
+      "tool": "python scripts/audit_shenlun_material.py",
+      "beforeNormalization": {
+        "totalShenlunQs": 652,
+        "hasMaterial": 5,
+        "missingMaterial": 647,
+        "missingRate": 99.23
+      },
+      "afterNormalization": {
+        "totalShenlunQs": 652,
+        "hasMaterial": 512,
+        "missingMaterial": 140,
+        "missingRate": 21.47
+      },
+      "afterPdfBackfill": {
+        "totalShenlunQs": 652,
+        "hasMaterial": 652,
+        "missingMaterial": 0,
+        "missingRate": 0.0,
+        "rescuedFromLocalPdf": 140
+      },
+      "reportInPack": "sources/shenlun_material_pdf_rescue_audit_after_2026-06-18.json"
+    },
+    "materialNormalization": {
+      "date": "2026-06-18",
+      "script": "scripts/normalize_shenlun_material.py",
+      "method": "从既有 content 字段中稳定拆出给定资料和作答要求，不新增、不猜测真题内容。",
+      "changedFileCount": 507,
+      "dataCopyRootInPack": "files/src/data/shenlun",
+      "sourceNotesInPack": [
+        "sources/shenlun_material_normalization_2026-06-18.md",
+        "sources/shenlun_material_normalization_preview_2026-06-18.json",
+        "sources/shenlun_material_audit_after_2026-06-18.json",
+        "sources/shenlun_material_pdf_rescue_2026-06-18.md",
+        "sources/shenlun_material_pdf_rescue_audit_after_2026-06-18.json",
+        "sources/shenlun_material_pdf_rescue_targets_2026-06-18.json"
+      ],
+      "remainingMissingMaterial": 0,
+      "remainingReason": "原 140 条已通过本地 PDF 回源补齐；回填要求为 PDF 可定位、现有 answer 可锚定、卷面可拆出给定资料与作答要求。",
+      "pdfBackfill": {
+        "date": "2026-06-18",
+        "script": "scripts/rescue_shenlun_remaining_material.py",
+        "method": "按题目定位本地真题 PDF，用现有 answer 文本锚定答案区，再把卷面拆分为 material 与 content；只在闭环成立时写回。",
+        "targetMissingMaterial": 140,
+        "rescuedMaterial": 140,
+        "unresolvedMaterial": 0,
+        "dataCopyRootInPack": "files/src/data/shenlun",
+        "targetListInPack": "sources/shenlun_material_pdf_rescue_targets_2026-06-18.json",
+        "auditReportInPack": "sources/shenlun_material_pdf_rescue_audit_after_2026-06-18.json",
+        "runtimePreviewReport": "reports/shenlun_material_pdf_rescue_preview.json"
+      }
+    }
+  },
+  "dataCorrections": [
+    {
+      "batch": "2026-08-10-option-crosstalk-and-answer",
+      "kind": "mechanical_correction",
+      "summary": "两类 PDF 抽取串行污染的批量订正：（1）选项正文里串进别的题的选项，473 条；（2）answer 字段与官方答案不符 28 道，另有 36 道多选题 answer 由拼接串规范化为数组。",
+      "tools": [
+        "python scripts/fix_option_crosstalk.py --apply",
+        "python scripts/resolve_answer_conflicts.py --apply",
+        "python scripts/resolve_answer_conflicts_gk.py --apply",
+        "python scripts/normalize_multi_answers.py --apply"
+      ],
+      "evidenceChain": "选项订正：官方真题 PDF 内按「行首题号 + 题干前16字」双锚定到该题块，解析出四个选项，要求本题至少 2 个未受污染选项与 PDF 完全一致（同题互证）后，才用 PDF 内容替换被污染项；另设同题兄弟选项长度上界，防止资料分析末题把下一段材料吞进来。答案订正：真题 PDF 锁题号 + 同套答案解析 PDF 取该题号【答案】，两步都过才采信。",
+      "changedFiles": 231,
+      "changedEntries": {
+        "answer": 64,
+        "option": 473
+      },
+      "appliedDiff": "reports/applied_changes_2026-08-10.json",
+      "unresolved": {
+        "option_no_anchor": 455,
+        "option_pdf_also_dirty": 65,
+        "option_too_long": 64,
+        "answer_vs_explanation_remaining": 96
+      },
+      "migration": "本批订正的 231 个 JSON 已整份复制到 files/ 下同名路径，可直接覆盖旧机器项目。注意 material/ 未入库（.gitignore 第 57 行），换机器后无法重跑上述脚本复现，只能用 files/ 覆盖。"
+    },
+    {
+      "batch": "2026-08-10b-explanation-and-leftovers",
+      "kind": "mechanical_correction",
+      "summary": "零头清理：官方解析回填 11 条（其中 6 条同时纠正 answer）、结论重复去重 2 条、补回丢失选项 2 道、广东2024第1题判断题结构复原、第三方水印 3 类共 70 处清除。",
+      "tools": [
+        "python scripts/repair_explanations_from_pdf.py --apply",
+        "python scripts/fill_missing_options.py --apply",
+        "python scripts/fix_explanation_crosstalk.py --apply",
+        "python scripts/clean_watermarks_v2.py --apply"
+      ],
+      "evidenceChain": "解析回填：真题 PDF 行首题号切块 + 题干前 12 字锚定编号体系，再在答案解析 PDF 同号块里要求「块内结论去重后唯一」且「题面对得上」（题干 6 字片段命中 2 个，或 2 个选项开头 10 字出现在块里）。只靠结论字母匹配会四选一撞对，实测 8 道里 6 道抽错，已加题面校验拦掉。补选项：按题干原文（不靠题号）在真题 PDF 定位，要求库里现存每个选项与 PDF 逐字一致后才补缺失项。",
+      "changedFiles": 21,
+      "changedEntries": {
+        "explanation": 40,
+        "answer": 7,
+        "option": 18,
+        "content": 7
+      },
+      "appliedDiff": "reports/applied_changes_2026-08-10b.json",
+      "unresolved": {
+        "answer_vs_explanation": 91,
+        "exp_crosstalk": 6,
+        "exp_multi_conclusion": 7,
+        "dup_same_paper_real": 190
+      },
+      "newFinding": "同卷重复题 190 道（把 questionImage 纳入签名后的净值，排除图形推理模板题的假阳性），集中在浙江2023(71)/浙江2022(42)/深圳2020(20)。部分重复对的 answer 还不一致。删题属破坏性变更，未擅自处理，留给人工决策。"
+    },
+    {
+      "batch": "2026-08-10c-dedupe-same-paper",
+      "kind": "destructive_dedupe",
+      "summary": "删除同卷重复题 207 道，并用官方 PDF 纠正保留份答案 48 道。成因是浙江/深圳/江西/青海/北京等省同年有 A/B/C 卷（或乡镇/县级/省级、行测1/行测2），入库时多套卷合并进一个 JSON，「卷」这一维丢了。",
+      "tools": [
+        "python scripts/dedupe_same_paper.py --apply"
+      ],
+      "evidenceChain": "组内 answer 全一致 → 纯去重（信息零损失）；answer 打架 → 对每一份单独双锚定「该份题号 N 在某套卷真题 PDF 里正好是这道题」，再取同卷解析 PDF 第 N 题结论，各份解出的官方答案必须彼此一致才采信。保留选项最干净的一份并写入官方答案。定不了卷或官方答案互相打架的一律不动。",
+      "scale": {
+        "before": 20741,
+        "after": 20511,
+        "removed": 230
+      },
+      "appliedDiff": "reports/dedupe_same_paper.json",
+      "unresolved": {
+        "dedupe_unresolved_groups": 4,
+        "audit_dup_same_paper_remaining": 23
+      },
+      "note": "审计脚本 audit_full.py 的重复题签名原来没算 questionImage，把图形推理模板题（题干全是「从所给四个选项中，选择最合适的一个填入问号处」）算成了重复，20 组假阳性，已修。剩余 23 组是另一类缺陷：题干与选项不配套（甘肃 2022 第 19 题题干讲算盘八卦、选项却是培训机构报名），待单独处理。"
+    },
+    {
+      "batch": "2026-08-10d-options-from-pdf",
+      "kind": "mechanical_correction",
+      "summary": "整组重建「题干与选项不配套」的选项 498 道：题干在问 A，四个选项却是另一道题的内容（或干脆是解析碎片）。",
+      "tools": [
+        "python scripts/fix_options_from_pdf.py --apply"
+      ],
+      "evidenceChain": "按题干原文（不靠题号）在官方真题 PDF 的单调题号链切块结果里定位，要求题干贴着块首出现（偏移<40字）、块长<1200字、全篇唯一命中；解析出四个 ABCD 选项且都不含整组外来标号；库里与 PDF 至少差 2 个位置才整组替换。图形题（选项是 [见图] 占位，或 PDF 里选项也只剩裸字母）一律跳过，避免把好数据改坏。",
+      "changedQuestions": 498,
+      "appliedDiff": "reports/options_from_pdf.json",
+      "unresolved": {
+        "not_found": 1485,
+        "not_unique": 1667,
+        "unparsable": 346,
+        "pdf_is_figure": 1482
+      }
+    },
+    {
+      "batch": "2026-08-10e-rebuild-and-markers",
+      "kind": "mechanical_correction",
+      "summary": "整题重建被截断的题干 48 道；北京 2023 第 4/30 题按官方 PDF 复原（原本是第 1/29 题的选项被拆成了独立的假题）；把 [选项暂缺]/[本题暂缺] 纳入占位标记真相源，18 道四个选项全空的题不再出现在练习与模考里。",
+      "tools": [
+        "python scripts/rebuild_questions_from_pdf.py --apply"
+      ],
+      "evidenceChain": "重建要求：本模块文件题号与 PDF 整体对齐（≥8 个样本且 ≥70% 命中同号块）；库里题干 ≥20 字且在本卷任何一份 PDF 里都搜不到；PDF 同号块能解析出完整题干+ABCD 四选项；该块题干不是库内其他题的题干（否则会造出重复题）；PDF 题干不是残卷占位或页脚水印；新题干不得明显短于旧题干；同卷解析 PDF 给出唯一答案。48 道全部答案未变，属纯题干补全。",
+      "changedQuestions": 50,
+      "appliedDiff": "reports/rebuild_questions.json",
+      "note": "曾试过把规则放宽到「题干在 PDF 里但不在自己题号上也重建」，结果把一批题号排布不同的正常题批量换成了别的题（数量题被换成常识题），已撤销。北京 2023 那两道改为单独按 PDF 原文人工核对后写入。"
+    },
+    {
+      "batch": "2026-08-11-cross-paper-answer",
+      "kind": "mechanical_correction",
+      "summary": "用跨卷同题反查答案矛盾并回本卷 PDF 复核，订正 answer 18 道。跨卷矛盾组 229 -> 213，涉及题 720 -> 644。",
+      "tools": [
+        "python scripts/audit_cross_paper_answers.py",
+        "python scripts/fix_cross_paper_answers.py --apply"
+      ],
+      "evidenceChain": "四条同时满足才改：①真题 PDF 里定位第 N 题，库内题干连续子串命中该块（编号对齐）；②同卷解析 PDF 第 N 题块内有「{答案字母} 项……」逐项判定且与题型一致；③同卷多份解析 PDF 答案必须一致，打架即弃权；④其他省同题的多数派与 PDF 答案相同。关键前提更正：material/ 里的「答案及解析」PDF 是机构整理版而非官方标准答案，不同机构会给相反答案，且库内数据本就从中提取，因此「PDF 与库内一致」不构成独立证据，只有「库内 != 本卷 PDF == 跨省多数派」才判为提取错误。",
+      "changedFiles": 11,
+      "questions": 18,
+      "notes": "副产品：answer_vs_explanation 91 -> 99，非新增缺陷，而是暴露出 8 道原本「答案与解析配套地抄自同一段串题解析」的隐藏问题（如 provincial_fujian_2023#009 的解析实为一道言语题残片）。解析回填另行处理。",
+      "evidenceDoc": "sources/cross_paper_answer_fix_2026-08-11.md"
+    }
   ]
- },
- "xingce": {
-  "originalUnanswerableGroups": {
-   "changshi/institution_2022_b": [
-    "034"
-   ],
-   "changshi/provincial_beijing_2023": [
-    "017",
-    "018",
-    "019",
-    "020",
-    "021",
-    "022",
-    "023",
-    "024",
-    "025",
-    "026",
-    "027"
-   ],
-   "changshi/provincial_jilin_2024": [
-    "017",
-    "018",
-    "019",
-    "020"
-   ],
-   "changshi/provincial_neimenggu_2023": [
-    "018"
-   ],
-   "changshi/provincial_xinjiang_2023": [
-    "014",
-    "015",
-    "016",
-    "017",
-    "018",
-    "019",
-    "020",
-    "021",
-    "022",
-    "023",
-    "024",
-    "025"
-   ],
-   "changshi/provincial_yunnan_2023": [
-    "055"
-   ],
-   "panduan/provincial_beijing_2023": [
-    "111"
-   ],
-   "panduan/provincial_gansu_2024": [
-    "078",
-    "087"
-   ],
-   "panduan/provincial_jilin_2024": [
-    "065",
-    "066",
-    "067",
-    "068",
-    "077"
-   ],
-   "shuliang/institution_2022_c": [
-    "050"
-   ],
-   "shuliang/provincial_gansu_2024": [
-    "069",
-    "070"
-   ],
-   "shuliang/provincial_xinjiang_2023": [
-    "060",
-    "061",
-    "062",
-    "063",
-    "064",
-    "065"
-   ],
-   "yanyu/provincial_gansu_2024": [
-    "054"
-   ],
-   "yanyu/provincial_hunan_2020": [
-    "016"
-   ],
-   "yanyu/provincial_jilin_2024": [
-    "042",
-    "043",
-    "044",
-    "045"
-   ],
-   "yanyu/provincial_ningxia_2024": [
-    "052",
-    "053",
-    "054",
-    "055"
-   ],
-   "yanyu/provincial_xinjiang_2023": [
-    "050"
-   ]
-  },
-  "rescuedQuestions": [
-   {
-    "id": "provincial-hunan-xingce-yanyu-2020-016",
-    "module": "yanyu",
-    "paperKey": "provincial_hunan_2020",
-    "questionNumber": "016",
-    "targetFile": "src/data/xingce/yanyu/provincial_hunan_2020.json",
-    "status": "rescued",
-    "answer": "C",
-    "rescueMethod": "WebSearch-D16L6",
-    "sourceSummary": "题面来自 sanlianbook 2020 湖南行测 PDF；答案与解析来自 sanlianbook 答案解析 PDF、河南华图解析页。",
-    "sources": [
-     "http://sanlianbook.com/public/uploads/files/20201208/21ce403914e217f3fdfbd78c4d924a0c.pdf",
-     "http://sanlianbook.com/public/uploads/files/20201208/60cd76e1ff43035d558565182bffa5e7.pdf",
-     "https://ah.huatu.com/2022/0630/2348457.html"
-    ]
-   },
-   {
-    "id": "provincial-yunnan-xingce-changshi-2023-055",
-    "module": "changshi",
-    "paperKey": "provincial_yunnan_2023",
-    "questionNumber": "055",
-    "targetFile": "src/data/xingce/changshi/provincial_yunnan_2023.json",
-    "status": "rescued",
-    "answer": "B",
-    "rescueMethod": "WebSearch-D16L6",
-    "sourceSummary": "原 PDF 缓存为占位缺失；安徽华图给出云南题面，河南华图和星光/小麦公考给出同题解析。因不同来源选项顺序不同，本项目当前选项顺序下答案为 B。",
-    "sources": [
-     "https://ah.huatu.com/tiku/dfgwy/2023ynskgf/",
-     "https://ha.huatu.com/2023/0226/5169408.html",
-     "https://www.xingguanggongkao.com/pc/wb/quesView/id/46285.html",
-     "http://www.xiaomaigongkao.com/Mobile/Ques/view/id/46285.html"
-    ]
-   },
-   {
-    "id": "provincial-ningxia-xingce-yanyu-2024-052",
-    "module": "yanyu",
-    "paperKey": "provincial_ningxia_2024",
-    "questionNumber": "052",
-    "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
-    "status": "rescued",
-    "answer": "C",
-    "rescueMethod": "D18-source-pdf-plus-web解析",
-    "sourceSummary": "题干和选项来自 32706041.s21i.faiusr.com 完整 PDF；答案 C 与解析来自河南华图同题页。",
-    "sources": [
-     "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
-     "https://ha.huatu.com/2024/0828/5942602.html"
-    ]
-   },
-   {
-    "id": "provincial-ningxia-xingce-yanyu-2024-053",
-    "module": "yanyu",
-    "paperKey": "provincial_ningxia_2024",
-    "questionNumber": "053",
-    "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
-    "status": "rescued",
-    "answer": "D",
-    "rescueMethod": "D18-source-pdf-plus-web解析",
-    "sourceSummary": "题干和选项来自完整 PDF；答案 D 与解析来自星光公考同题页，并由《“中华”一词的产生及开放性特点》原文互证。",
-    "sources": [
-     "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
-     "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48476.html",
-     "https://www.aisixiang.com/data/138466.html"
-    ]
-   },
-   {
-    "id": "provincial-ningxia-xingce-yanyu-2024-054",
-    "module": "yanyu",
-    "paperKey": "provincial_ningxia_2024",
-    "questionNumber": "054",
-    "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
-    "status": "rescued",
-    "answer": "B",
-    "rescueMethod": "D18-source-pdf-plus-web解析",
-    "sourceSummary": "题干和选项来自完整 PDF；答案 B 与解析来自河南华图同题页。",
-    "sources": [
-     "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
-     "https://ha.huatu.com/2024/0901/5942605.html"
-    ]
-   },
-   {
-    "id": "provincial-ningxia-xingce-yanyu-2024-055",
-    "module": "yanyu",
-    "paperKey": "provincial_ningxia_2024",
-    "questionNumber": "055",
-    "targetFile": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
-    "status": "rescued",
-    "answer": "D",
-    "rescueMethod": "D18-source-pdf-plus-web解析",
-    "sourceSummary": "题干和选项来自完整 PDF；答案 D 与解析来自河南华图和星光公考同题页，并由工人日报原文互证。",
-    "sources": [
-     "https://32706041.s21i.faiusr.com/61/ABUIABA9GAAghencxwYojLC2VA.pdf",
-     "https://ha.huatu.com/2024/0902/5942606.html",
-     "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48468.html",
-     "https://tj.workercn.cn/c/2023-07-24/7918864.shtml"
-    ]
-   },
-   {
-    "id": "provincial-gansu-xingce-yanyu-2024-054",
-    "module": "yanyu",
-    "paperKey": "provincial_gansu_2024",
-    "questionNumber": "054",
-    "targetFile": "src/data/xingce/yanyu/provincial_gansu_2024.json",
-    "status": "rescued",
-    "answer": "D",
-    "rescueMethod": "D19-cross-province-web-source-chain",
-    "sourceSummary": "甘肃 2024 第 054 题以河南/宁夏 2024 相邻同题链条定位为“中华”开放性题；星光公考同题解析给出本项目选项顺序下答案 D，金标尺同题以不同选项顺序交叉证明正确项为“开放性”。",
-    "sources": [
-     "https://www.aipta.com/article/9340.html",
-     "https://www.aipta.com/article/9673.html",
-     "https://www.xingguanggongkao.com/Mobile/Ques/view/id/48476.html",
-     "https://jbcgk.com/wp/search/detail?id=EaX9r1z7kr&type=question"
-    ]
-   },
-   {
-    "id": "institution-xingce-changshi-2022-b-034",
-    "module": "changshi",
-    "paperKey": "institution_2022_b",
-    "questionNumber": "034",
-    "targetFile": "src/data/xingce/changshi/institution_2022_b.json",
-    "status": "rescued",
-    "answer": "B",
-    "rescueMethod": "D20-web-source-chain",
-    "sourceSummary": "华图 B 类估分页证明本题为 2022 事业单位联考职测 B 第 034 题；厚职网和全国事业单位招聘网 E 类同题页提供未打码题干与选项；新华网《医师法》第二十七条报道证明正确项为 B。",
-    "sources": [
-     "https://ah.huatu.com/tiku/sydw/2022lksydwb/",
-     "http://www.houzhiwang.com/html/202205/345182.html",
-     "http://www.kaosydw.com/202205/99572.html",
-     "http://www.news.cn/politics/2022-03/01/c_1128425179.htm"
-    ]
-   }
-  ],
-  "remainingUnanswerableGroups": {
-   "changshi/provincial_beijing_2023": [
-    "017",
-    "018",
-    "019",
-    "020",
-    "021",
-    "022",
-    "023",
-    "024",
-    "025",
-    "026",
-    "027"
-   ],
-   "changshi/provincial_jilin_2024": [
-    "017",
-    "018",
-    "019",
-    "020"
-   ],
-   "changshi/provincial_neimenggu_2023": [
-    "018"
-   ],
-   "changshi/provincial_xinjiang_2023": [
-    "014",
-    "015",
-    "016",
-    "017",
-    "018",
-    "019",
-    "020",
-    "021",
-    "022",
-    "023",
-    "024",
-    "025"
-   ],
-   "panduan/provincial_beijing_2023": [
-    "111"
-   ],
-   "panduan/provincial_gansu_2024": [
-    "078",
-    "087"
-   ],
-   "panduan/provincial_jilin_2024": [
-    "065",
-    "066",
-    "067",
-    "068",
-    "077"
-   ],
-   "shuliang/institution_2022_c": [
-    "050"
-   ],
-   "shuliang/provincial_gansu_2024": [
-    "069",
-    "070"
-   ],
-   "shuliang/provincial_xinjiang_2023": [
-    "060",
-    "061",
-    "062",
-    "063",
-    "064",
-    "065"
-   ],
-   "yanyu/provincial_jilin_2024": [
-    "042",
-    "043",
-    "044",
-    "045"
-   ],
-   "yanyu/provincial_xinjiang_2023": [
-    "050"
-   ]
-  },
-  "doNotBlindFillNotes": [
-   "不能把默认 A 项得分当真实答案。",
-   "北京 2023、吉林 2024、甘肃 2024、新疆 2023、宁夏 2024 等多处公开题源本身也显示征集/暂缺，补题必须逐题找到完整题干、选项、答案和可解释来源。",
-   "institution_2022_c 050 已定位为关键条件打码的数量题，只有选项残片，暂不硬补。"
-  ],
-  "investigatedUnresolvedQuestions": [
-   {
-    "module": "shuliang",
-    "paperKey": "provincial_gansu_2024",
-    "questionNumber": "069",
-    "status": "source_missing",
-    "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
-   },
-   {
-    "module": "shuliang",
-    "paperKey": "provincial_gansu_2024",
-    "questionNumber": "070",
-    "status": "source_missing",
-    "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
-   },
-   {
-    "module": "panduan",
-    "paperKey": "provincial_gansu_2024",
-    "questionNumber": "078",
-    "status": "source_missing",
-    "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
-   },
-   {
-    "module": "panduan",
-    "paperKey": "provincial_gansu_2024",
-    "questionNumber": "087",
-    "status": "source_missing",
-    "evidence": "本地 gkzenti HTML、新公 PDF 文本与星光公考公开 PDF 均显示“本题暂无收集到”，A-D 为默认 A 占位。"
-   },
-   {
-    "module": "yanyu",
-    "paperKey": "provincial_xinjiang_2023",
-    "questionNumber": "050",
-    "status": "source_missing",
-    "evidence": "AIPTA《2023新疆公务员行测真题及答案解析》、夜雨聆风 2023 新疆卷和公考网 2023 新疆卷均在第 49 题后标注第 50 题缺失或征集，未给出完整题干、选项和答案。"
-   },
-   {
-    "module": "changshi",
-    "paperKey": "provincial_jilin_2024",
-    "questionNumber": "020",
-    "status": "invalidated_rescue_source_missing",
-    "evidence": "yeyulingfeng 完整卷面和星光公考公开 PDF 均显示吉林 2024 行测第 17-20 题缺失；“东北虎：森林：自然资源”对应第 79 题，不是第 020 题；gkzenti 也显示 17-20 缺失。"
-   }
-  ],
-  "investigatedUnresolvedGroups": [
-   {
-    "modulePaperKey": "changshi/provincial_xinjiang_2023",
-    "questionNumbers": [
-     "014",
-     "015",
-     "016",
-     "017",
-     "018",
-     "019",
-     "020",
-     "021",
-     "022",
-     "023",
-     "024",
-     "025"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#新疆-2023",
-    "sourceSummary": "爱真题、拉西学习资源站、夜雨聆风、公考网和本地缓存均标注 14-25 缺失或默认 A 占位；夜雨聆风页尾写明暂缺失 19 道题目。"
-   },
-   {
-    "modulePaperKey": "yanyu/provincial_xinjiang_2023",
-    "questionNumbers": [
-     "050"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#新疆-2023",
-    "sourceSummary": "爱真题、夜雨聆风与本地缓存均标注第 50 题缺失或征集。"
-   },
-   {
-    "modulePaperKey": "shuliang/provincial_xinjiang_2023",
-    "questionNumbers": [
-     "060",
-     "061",
-     "062",
-     "063",
-     "064",
-     "065"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#新疆-2023",
-    "sourceSummary": "爱真题、拉西学习资源站、夜雨聆风、公考网和本地缓存均标注 60-65 缺失或默认 A 占位；夜雨聆风页尾写明暂缺失 19 道题目。"
-   },
-   {
-    "modulePaperKey": "changshi/provincial_beijing_2023",
-    "questionNumbers": [
-     "017",
-     "018",
-     "019",
-     "020",
-     "021",
-     "022",
-     "023",
-     "024",
-     "025",
-     "026",
-     "027"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#北京-2023",
-    "sourceSummary": "exam2 PDF、考生网北京合集说明和星光公考公开 PDF 均显示 2023 北京卷大块缺题；项目第 15 题高铁技术已另救援，剩余 17-27 仍无完整题源。"
-   },
-   {
-    "modulePaperKey": "panduan/provincial_beijing_2023",
-    "questionNumbers": [
-     "111"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#北京-2023",
-    "sourceSummary": "考生网北京合集说明 111-125 缺失，星光公考公开 PDF 第 111 题也为暂无收集到；公开源中的第 110 道德情绪题不能错位填入第 111。"
-   },
-   {
-    "modulePaperKey": "changshi/provincial_jilin_2024",
-    "questionNumbers": [
-     "017",
-     "018",
-     "019",
-     "020"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#吉林-2024",
-    "sourceSummary": "爱真题、gkzenti、夜雨聆风、星光公考公开 PDF 和本地缓存均显示 17-20 缺失。"
-   },
-   {
-    "modulePaperKey": "yanyu/provincial_jilin_2024",
-    "questionNumbers": [
-     "042",
-     "043",
-     "044",
-     "045"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#吉林-2024",
-    "sourceSummary": "爱真题、星光公考公开 PDF 与本地缓存均显示 42-45 缺失。"
-   },
-   {
-    "modulePaperKey": "panduan/provincial_jilin_2024",
-    "questionNumbers": [
-     "065",
-     "066",
-     "067",
-     "068",
-     "077"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#吉林-2024",
-    "sourceSummary": "爱真题、星光公考公开 PDF 与本地缓存均显示 65-68、77 缺失。"
-   },
-   {
-    "modulePaperKey": "shuliang/provincial_gansu_2024",
-    "questionNumbers": [
-     "069",
-     "070"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#甘肃-2024",
-    "sourceSummary": "爱真题显示 69-70 题目缺失；原创力 2026 新上传版本和星光公考公开 PDF 仍显示征集/暂缺/暂无收集到。"
-   },
-   {
-    "modulePaperKey": "panduan/provincial_gansu_2024",
-    "questionNumbers": [
-     "078",
-     "087"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#甘肃-2024",
-    "sourceSummary": "爱真题显示 78 为征集默认 A 占位、87 题目缺失；原创力 2026 新上传版本和星光公考公开 PDF 仍显示征集/暂缺/暂无收集到。"
-   },
-   {
-    "modulePaperKey": "changshi/provincial_neimenggu_2023",
-    "questionNumbers": [
-     "018"
-    ],
-    "status": "source_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#内蒙古-2023",
-    "sourceSummary": "爱真题、夜雨聆风、星光公考公开 PDF 和本地图像均显示第 18 题缺失或暂无收集到。"
-   },
-   {
-    "modulePaperKey": "shuliang/institution_2022_c",
-    "questionNumbers": [
-     "050"
-    ],
-    "status": "source_masked_or_missing",
-    "evidenceInPack": "sources/unresolved_xingce_2026-06-17.md#事业单位-2022-c-类",
-    "sourceSummary": "华图 C 类估分页可定位第 50 题为“工厂举办生产技能大赛”数量题，选项为 A.2、B.3、C.4、D.5，但关键条件被打码；厚职网等公开页显示题目暂缺。"
-   }
-  ],
-  "unresolvedEvidenceInPack": [
-   "sources/unresolved_xingce_2026-06-17.md",
-   "sources/unresolved_xingce_2026-06-19.md",
-   "sources/beijing_2023_exam2_candidate.pdf",
-   "sources/beijing_2023_exam2_candidate.txt",
-   "sources/beijing_2023_xingguang.pdf",
-   "sources/beijing_2023_xingguang.txt",
-   "sources/gansu_2024_xingguang.pdf",
-   "sources/gansu_2024_xingguang.txt",
-   "sources/jilin_2024_xingguang.pdf",
-   "sources/jilin_2024_xingguang.txt",
-   "sources/neimenggu_2023_xingguang.pdf",
-   "sources/neimenggu_2023_xingguang.txt",
-   "sources/followup_search_2026-06-19/",
-   "sources/xinjiang_2023_newdu_pages/"
-  ],
-  "latestRescueNote": "2026-06-19: 按用户要求暂停本轮行测 50 个剩余缺口的继续外搜，并沉淀修复/复核记录。重新运行 d17_list_unanswerable 后仍为 50；本轮用相邻题锚点、豆丁页图、AIPTA/华图/搜索缓存等复核，仍未取得任何满足题干、选项、答案、来源证据链闭环的新题源；新增部分原始搜索缓存 sources/followup_search_2026-06-19/ 供下次接着查。详见 sources/unresolved_xingce_2026-06-19.md。"
- },
- "shenlun": {
-  "dataRoot": "src/data/shenlun",
-  "fileCount": 652,
-  "categories": {
-   "duice": {
-    "path": "src/data/shenlun/duice",
-    "fileCount": 16
-   },
-   "fenxi": {
-    "path": "src/data/shenlun/fenxi",
-    "fileCount": 1
-   },
-   "guanche": {
-    "path": "src/data/shenlun/guanche",
-    "fileCount": 170
-   },
-   "guina": {
-    "path": "src/data/shenlun/guina",
-    "fileCount": 1
-   },
-   "xiezuo": {
-    "path": "src/data/shenlun/xiezuo",
-    "fileCount": 464
-   }
-  },
-  "currentRescueStatus": "2026-06-18 已完成申论 material 补齐：先从既有 content 规范化 507 条，再通过本地 PDF 回源补齐剩余 140 条；当前 652 条申论记录均有 material，缺口 0。",
-  "investigatedExternalSources": [
-   {
-    "name": "申材有道",
-    "url": "https://shenlunsucai.com/",
-    "checkedAt": "2026-06-17T01:35:00+08:00",
-    "status": "partially_public",
-    "publicEndpoints": [
-     "GET /api/v1/library/homepage/list?categoryName=热点案例&page=1&size=4&sortBy=time",
-     "GET /api/v1/library/homepage/list?categoryName=政策理论&page=1&size=1&sortBy=time",
-     "GET /api/v1/library/homepage/list?categoryName=申论范文&page=1&size=1&sortBy=time"
-    ],
-    "lockedEndpoints": [
-     "GET /api/v1/practice/question-types",
-     "GET /api/v1/practice/questions",
-     "GET /api/v1/xingce/questions",
-     "GET /api/v1/xingce/sets/paged"
-    ],
-    "finding": "公开接口可获得申论素材/案例/政策理论/申论范文字段，包括 title、content、original_content、argumentation_applications、related_materials、real_exam_applications、source_url 等；练习题库、行测题库、用户统计和收藏接口均返回 401，需要登录态。",
-    "usableFor": "可作为后续补充申论素材库、范文库、热点案例库的来源候选；不适合直接补当前行测 55 个不可作答缺题。",
-    "migrationNote": "若后续从该站补申论数据，必须把转换后的项目 JSON 放入 files/src/data/shenlun/...，并在 migration.fileCopies 中登记目标文件和来源接口。"
-   }
-  ],
-  "migrationRule": "申论补齐数据统一放在 data/gap_rescue_pack/files/src/data/shenlun/；另一台旧项目机器复制本目录后运行 apply_gap_rescue.ps1，即可把 files/ 下的同路径 JSON 覆盖回项目。",
-  "materialAudit": {
-   "tool": "python scripts/audit_shenlun_material.py",
-   "beforeNormalization": {
-    "totalShenlunQs": 652,
-    "hasMaterial": 5,
-    "missingMaterial": 647,
-    "missingRate": 99.23
-   },
-   "afterNormalization": {
-    "totalShenlunQs": 652,
-    "hasMaterial": 512,
-    "missingMaterial": 140,
-    "missingRate": 21.47
-   },
-   "afterPdfBackfill": {
-    "totalShenlunQs": 652,
-    "hasMaterial": 652,
-    "missingMaterial": 0,
-    "missingRate": 0.0,
-    "rescuedFromLocalPdf": 140
-   },
-   "reportInPack": "sources/shenlun_material_pdf_rescue_audit_after_2026-06-18.json"
-  },
-  "materialNormalization": {
-   "date": "2026-06-18",
-   "script": "scripts/normalize_shenlun_material.py",
-   "method": "从既有 content 字段中稳定拆出给定资料和作答要求，不新增、不猜测真题内容。",
-   "changedFileCount": 507,
-   "dataCopyRootInPack": "files/src/data/shenlun",
-   "sourceNotesInPack": [
-    "sources/shenlun_material_normalization_2026-06-18.md",
-    "sources/shenlun_material_normalization_preview_2026-06-18.json",
-    "sources/shenlun_material_audit_after_2026-06-18.json",
-    "sources/shenlun_material_pdf_rescue_2026-06-18.md",
-    "sources/shenlun_material_pdf_rescue_audit_after_2026-06-18.json",
-    "sources/shenlun_material_pdf_rescue_targets_2026-06-18.json"
-   ],
-   "remainingMissingMaterial": 0,
-   "remainingReason": "原 140 条已通过本地 PDF 回源补齐；回填要求为 PDF 可定位、现有 answer 可锚定、卷面可拆出给定资料与作答要求。",
-   "pdfBackfill": {
-    "date": "2026-06-18",
-    "script": "scripts/rescue_shenlun_remaining_material.py",
-    "method": "按题目定位本地真题 PDF，用现有 answer 文本锚定答案区，再把卷面拆分为 material 与 content；只在闭环成立时写回。",
-    "targetMissingMaterial": 140,
-    "rescuedMaterial": 140,
-    "unresolvedMaterial": 0,
-    "dataCopyRootInPack": "files/src/data/shenlun",
-    "targetListInPack": "sources/shenlun_material_pdf_rescue_targets_2026-06-18.json",
-    "auditReportInPack": "sources/shenlun_material_pdf_rescue_audit_after_2026-06-18.json",
-    "runtimePreviewReport": "reports/shenlun_material_pdf_rescue_preview.json"
-   }
-  }
- },
- "dataCorrections": [
-  {
-   "batch": "2026-08-10-option-crosstalk-and-answer",
-   "kind": "mechanical_correction",
-   "summary": "两类 PDF 抽取串行污染的批量订正：（1）选项正文里串进别的题的选项，473 条；（2）answer 字段与官方答案不符 28 道，另有 36 道多选题 answer 由拼接串规范化为数组。",
-   "tools": [
-    "python scripts/fix_option_crosstalk.py --apply",
-    "python scripts/resolve_answer_conflicts.py --apply",
-    "python scripts/resolve_answer_conflicts_gk.py --apply",
-    "python scripts/normalize_multi_answers.py --apply"
-   ],
-   "evidenceChain": "选项订正：官方真题 PDF 内按「行首题号 + 题干前16字」双锚定到该题块，解析出四个选项，要求本题至少 2 个未受污染选项与 PDF 完全一致（同题互证）后，才用 PDF 内容替换被污染项；另设同题兄弟选项长度上界，防止资料分析末题把下一段材料吞进来。答案订正：真题 PDF 锁题号 + 同套答案解析 PDF 取该题号【答案】，两步都过才采信。",
-   "changedFiles": 231,
-   "changedEntries": {
-    "answer": 64,
-    "option": 473
-   },
-   "appliedDiff": "reports/applied_changes_2026-08-10.json",
-   "unresolved": {
-    "option_no_anchor": 455,
-    "option_pdf_also_dirty": 65,
-    "option_too_long": 64,
-    "answer_vs_explanation_remaining": 96
-   },
-   "migration": "本批订正的 231 个 JSON 已整份复制到 files/ 下同名路径，可直接覆盖旧机器项目。注意 material/ 未入库（.gitignore 第 57 行），换机器后无法重跑上述脚本复现，只能用 files/ 覆盖。"
-  },
-  {
-   "batch": "2026-08-10b-explanation-and-leftovers",
-   "kind": "mechanical_correction",
-   "summary": "零头清理：官方解析回填 11 条（其中 6 条同时纠正 answer）、结论重复去重 2 条、补回丢失选项 2 道、广东2024第1题判断题结构复原、第三方水印 3 类共 70 处清除。",
-   "tools": [
-    "python scripts/repair_explanations_from_pdf.py --apply",
-    "python scripts/fill_missing_options.py --apply",
-    "python scripts/fix_explanation_crosstalk.py --apply",
-    "python scripts/clean_watermarks_v2.py --apply"
-   ],
-   "evidenceChain": "解析回填：真题 PDF 行首题号切块 + 题干前 12 字锚定编号体系，再在答案解析 PDF 同号块里要求「块内结论去重后唯一」且「题面对得上」（题干 6 字片段命中 2 个，或 2 个选项开头 10 字出现在块里）。只靠结论字母匹配会四选一撞对，实测 8 道里 6 道抽错，已加题面校验拦掉。补选项：按题干原文（不靠题号）在真题 PDF 定位，要求库里现存每个选项与 PDF 逐字一致后才补缺失项。",
-   "changedFiles": 21,
-   "changedEntries": {
-    "explanation": 40,
-    "answer": 7,
-    "option": 18,
-    "content": 7
-   },
-   "appliedDiff": "reports/applied_changes_2026-08-10b.json",
-   "unresolved": {
-    "answer_vs_explanation": 91,
-    "exp_crosstalk": 6,
-    "exp_multi_conclusion": 7,
-    "dup_same_paper_real": 190
-   },
-   "newFinding": "同卷重复题 190 道（把 questionImage 纳入签名后的净值，排除图形推理模板题的假阳性），集中在浙江2023(71)/浙江2022(42)/深圳2020(20)。部分重复对的 answer 还不一致。删题属破坏性变更，未擅自处理，留给人工决策。"
-  },
-  {
-   "batch": "2026-08-10c-dedupe-same-paper",
-   "kind": "destructive_dedupe",
-   "summary": "删除同卷重复题 207 道，并用官方 PDF 纠正保留份答案 48 道。成因是浙江/深圳/江西/青海/北京等省同年有 A/B/C 卷（或乡镇/县级/省级、行测1/行测2），入库时多套卷合并进一个 JSON，「卷」这一维丢了。",
-   "tools": [
-    "python scripts/dedupe_same_paper.py --apply"
-   ],
-   "evidenceChain": "组内 answer 全一致 → 纯去重（信息零损失）；answer 打架 → 对每一份单独双锚定「该份题号 N 在某套卷真题 PDF 里正好是这道题」，再取同卷解析 PDF 第 N 题结论，各份解出的官方答案必须彼此一致才采信。保留选项最干净的一份并写入官方答案。定不了卷或官方答案互相打架的一律不动。",
-   "scale": {
-    "before": 20741,
-    "after": 20511,
-    "removed": 230
-   },
-   "appliedDiff": "reports/dedupe_same_paper.json",
-   "unresolved": {
-    "dedupe_unresolved_groups": 4,
-    "audit_dup_same_paper_remaining": 23
-   },
-   "note": "审计脚本 audit_full.py 的重复题签名原来没算 questionImage，把图形推理模板题（题干全是「从所给四个选项中，选择最合适的一个填入问号处」）算成了重复，20 组假阳性，已修。剩余 23 组是另一类缺陷：题干与选项不配套（甘肃 2022 第 19 题题干讲算盘八卦、选项却是培训机构报名），待单独处理。"
-  },
-  {
-   "batch": "2026-08-10d-options-from-pdf",
-   "kind": "mechanical_correction",
-   "summary": "整组重建「题干与选项不配套」的选项 498 道：题干在问 A，四个选项却是另一道题的内容（或干脆是解析碎片）。",
-   "tools": [
-    "python scripts/fix_options_from_pdf.py --apply"
-   ],
-   "evidenceChain": "按题干原文（不靠题号）在官方真题 PDF 的单调题号链切块结果里定位，要求题干贴着块首出现（偏移<40字）、块长<1200字、全篇唯一命中；解析出四个 ABCD 选项且都不含整组外来标号；库里与 PDF 至少差 2 个位置才整组替换。图形题（选项是 [见图] 占位，或 PDF 里选项也只剩裸字母）一律跳过，避免把好数据改坏。",
-   "changedQuestions": 498,
-   "appliedDiff": "reports/options_from_pdf.json",
-   "unresolved": {
-    "not_found": 1485,
-    "not_unique": 1667,
-    "unparsable": 346,
-    "pdf_is_figure": 1482
-   }
-  },
-  {
-   "batch": "2026-08-10e-rebuild-and-markers",
-   "kind": "mechanical_correction",
-   "summary": "整题重建被截断的题干 48 道；北京 2023 第 4/30 题按官方 PDF 复原（原本是第 1/29 题的选项被拆成了独立的假题）；把 [选项暂缺]/[本题暂缺] 纳入占位标记真相源，18 道四个选项全空的题不再出现在练习与模考里。",
-   "tools": [
-    "python scripts/rebuild_questions_from_pdf.py --apply"
-   ],
-   "evidenceChain": "重建要求：本模块文件题号与 PDF 整体对齐（≥8 个样本且 ≥70% 命中同号块）；库里题干 ≥20 字且在本卷任何一份 PDF 里都搜不到；PDF 同号块能解析出完整题干+ABCD 四选项；该块题干不是库内其他题的题干（否则会造出重复题）；PDF 题干不是残卷占位或页脚水印；新题干不得明显短于旧题干；同卷解析 PDF 给出唯一答案。48 道全部答案未变，属纯题干补全。",
-   "changedQuestions": 50,
-   "appliedDiff": "reports/rebuild_questions.json",
-   "note": "曾试过把规则放宽到「题干在 PDF 里但不在自己题号上也重建」，结果把一批题号排布不同的正常题批量换成了别的题（数量题被换成常识题），已撤销。北京 2023 那两道改为单独按 PDF 原文人工核对后写入。"
-  }
- ]
 }

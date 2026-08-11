@@ -24,6 +24,9 @@
   - `sources/deep_probe_xingce_2026-08-09.md`：跨卷同源分析 + 一手全卷取证。证伪「按题号倒推」路线，
     更正事业编 2022 C 类第 050 题的错误认定，判定吉林 2024 共 13 题结构性无解。
   - `sources/institution_2022c_fullpaper_2026-08-09/`：事业编 2022 C 类一手全卷（贵州兴文 docx）与厚职网 2022 快照。
+  - `sources/cross_paper_answer_fix_2026-08-11.md`：用跨卷同题反查答案矛盾，回本卷 PDF 复核后订正 18 道答案的
+    完整证据链与改动清单。附一条认知更正：`material/` 里的「答案及解析」PDF 是培训机构整理版，
+    不同机构会给出相反答案，「PDF 与库内一致」不构成独立证据。
   - `sources/*_xingguang.pdf` / `sources/*_xingguang.txt`：星光公考公开 PDF 及抽取文本，用于证明北京、吉林、甘肃、内蒙古的目标题号仍是占位。
   - `sources/shenlun_material_normalization_2026-06-18.md`：申论材料字段规范化说明与 PDF 回填前的 140 条缺口来源。
   - `sources/shenlun_material_pdf_rescue_2026-06-18.md`：本轮从本地 PDF 回源补齐 140 条申论 `material` 的方法、结果和迁移说明。

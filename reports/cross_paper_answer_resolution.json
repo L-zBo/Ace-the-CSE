@@ -1,0 +1,1472 @@
+{
+  "_meta": "跨卷同题少数派答案的官方 PDF 复核结果；生成命令 python scripts/fix_cross_paper_answers.py",
+  "stats": {
+    "pdf_matches_current": 30,
+    "no_official_answer": 25,
+    "no_stem_anchor": 20,
+    "pdf_disagree": 3,
+    "pdf_third_value": 5,
+    "stem_too_short": 4
+  },
+  "items": [
+    {
+      "id": "provincial-heilongjiang-xingce-yanyu-2020-051",
+      "file": "src/data/xingce/yanyu/provincial_heilongjiang_2020.json",
+      "qno": 51,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 10,
+        "C": 3
+      },
+      "paperLabel": "2020年省考黑龙江行测",
+      "paper": "provincial_heilongjiang_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【11】黑龙江公务员考试真题pdf版/黑龙江公务员考试真题——行测08-25/题目/2020年黑龙江省公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【11】黑龙江公务员考试真题pdf版/黑龙江公务员考试真题——行测08-25/答案及解析/2020年黑龙江省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-neimenggu-xingce-yanyu-2020-057",
+      "file": "src/data/xingce/yanyu/provincial_neimenggu_2020.json",
+      "qno": 57,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 10,
+        "C": 3
+      },
+      "paperLabel": "2020年省考内蒙古行测",
+      "paper": "provincial_neimenggu_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2020年0822内蒙古公务员考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/答案及解析/2020年0822内蒙古公务员考试《行测》真题参考答案及解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-ningxia-xingce-yanyu-2020-041",
+      "file": "src/data/xingce/yanyu/provincial_ningxia_2020.json",
+      "qno": 41,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 10,
+        "C": 3
+      },
+      "paperLabel": "2020年省考宁夏行测",
+      "paper": "provincial_ningxia_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【19】宁夏公务员考试真题pdf版/宁夏公务员考试真题——行测10-25PDF版（缺22）/题目/2020年0822宁夏公务员考试《行测》真题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2020-105",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2020.json",
+      "qno": 105,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 10,
+        "B": 1
+      },
+      "paperLabel": "2020年省考山西行测",
+      "paper": "provincial_shanxi_2020",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-heilongjiang-xingce-changshi-2020-008",
+      "file": "src/data/xingce/changshi/provincial_heilongjiang_2020.json",
+      "qno": 8,
+      "current": "C",
+      "majority": "D",
+      "votes": {
+        "D": 9,
+        "C": 2
+      },
+      "paperLabel": "2020年省考黑龙江行测",
+      "paper": "provincial_heilongjiang_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【11】黑龙江公务员考试真题pdf版/黑龙江公务员考试真题——行测08-25/题目/2020年黑龙江省公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【11】黑龙江公务员考试真题pdf版/黑龙江公务员考试真题——行测08-25/答案及解析/2020年黑龙江省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-neimenggu-xingce-changshi-2020-007",
+      "file": "src/data/xingce/changshi/provincial_neimenggu_2020.json",
+      "qno": 7,
+      "current": "C",
+      "majority": "D",
+      "votes": {
+        "D": 9,
+        "C": 2
+      },
+      "paperLabel": "2020年省考内蒙古行测",
+      "paper": "provincial_neimenggu_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2020年0822内蒙古公务员考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/答案及解析/2020年0822内蒙古公务员考试《行测》真题参考答案及解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-jiangxi-xingce-panduan-2020-107",
+      "file": "src/data/xingce/panduan/provincial_jiangxi_2020.json",
+      "qno": 107,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 10,
+        "C": 1
+      },
+      "paperLabel": "2020年省考江西行测",
+      "paper": "provincial_jiangxi_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2020年0822江西公务员考试《行测》真题（县级）.pdf",
+      "status": "pdf_disagree",
+      "pdfVotes": {
+        "B": [
+          "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/答案及解析/2020年0822江西公务员考试《行测》真题（县级）参考答案及解析.pdf (因此[，,]?\\s*选择\\s)"
+        ],
+        "D": [
+          "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/答案及解析/2020年0822江西公务员考试《行测》真题（省级）参考答案及解析.pdf (因此[，,]?\\s*选择\\s)"
+        ]
+      }
+    },
+    {
+      "id": "provincial-jiangxi-xingce-panduan-2020-114",
+      "file": "src/data/xingce/panduan/provincial_jiangxi_2020.json",
+      "qno": 114,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 10,
+        "B": 1
+      },
+      "paperLabel": "2020年省考江西行测",
+      "paper": "provincial_jiangxi_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2020年0822江西公务员考试《行测》真题（县级）.pdf",
+      "status": "pdf_disagree",
+      "pdfVotes": {
+        "C": [
+          "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/答案及解析/2020年0822江西公务员考试《行测》真题（县级）参考答案及解析.pdf (故正确答案?[为选是]?[:)"
+        ],
+        "D": [
+          "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/答案及解析/2020年0822江西公务员考试《行测》真题（省级）参考答案及解析.pdf (因此[，,]?\\s*选择\\s)"
+        ]
+      }
+    },
+    {
+      "id": "provincial-fujian-xingce-changshi-2023-009",
+      "file": "src/data/xingce/changshi/provincial_fujian_2023.json",
+      "qno": 9,
+      "current": "B",
+      "majority": "B",
+      "votes": {
+        "D": 1,
+        "B": 9
+      },
+      "paperLabel": "2023年省考福建行测",
+      "paper": "provincial_fujian_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/题目/2023年福建省公务员录用考试《行测》真题.pdf",
+      "official": "B",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/答案及解析/2023年福建省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-guizhou-xingce-ziliao-2020-101",
+      "file": "src/data/xingce/ziliao/provincial_guizhou_2020.json",
+      "qno": 101,
+      "current": "D",
+      "majority": "C",
+      "votes": {
+        "C": 9,
+        "D": 1
+      },
+      "paperLabel": "2020年省考贵州行测",
+      "paper": "provincial_guizhou_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【07】贵州公务员考试真题pdf版/贵州公务员考试真题——行测08-25/题目/2020年0822贵州公务员考试《行测》真题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-chongqing-xingce-changshi-2024-002",
+      "file": "src/data/xingce/changshi/provincial_chongqing_2024.json",
+      "qno": 2,
+      "current": "C",
+      "majority": "A",
+      "votes": {
+        "A": 5,
+        "C": 1,
+        "B": 2,
+        "D": 1
+      },
+      "paperLabel": "2024年省考重庆行测",
+      "paper": "provincial_chongqing_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2024年重庆市公务员录用考试《行测》题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/答案及解析/2024年重庆市公务员录用考试《行测》答案+解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_third_value"
+    },
+    {
+      "id": "provincial-jiangxi-xingce-changshi-2024-002",
+      "file": "src/data/xingce/changshi/provincial_jiangxi_2024.json",
+      "qno": 2,
+      "current": "B",
+      "majority": "A",
+      "votes": {
+        "A": 5,
+        "C": 1,
+        "B": 2,
+        "D": 1
+      },
+      "paperLabel": "2024年省考江西行测",
+      "paper": "provincial_jiangxi_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2024年江西省公务员录用考试《行测》题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/答案及解析/2024年江西省公务员录用考试《行测》答案+解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_third_value"
+    },
+    {
+      "id": "provincial-qinghai-xingce-changshi-2024-002",
+      "file": "src/data/xingce/changshi/provincial_qinghai_2024.json",
+      "qno": 2,
+      "current": "B",
+      "majority": "A",
+      "votes": {
+        "A": 5,
+        "C": 1,
+        "B": 2,
+        "D": 1
+      },
+      "paperLabel": "2024年省考青海行测",
+      "paper": "provincial_qinghai_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【20】青海公务员考试真题pdf版/青海公务员考试真题——行测09-25/题目/2024年青海省公务员录用考试《行测》题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【20】青海公务员考试真题pdf版/青海公务员考试真题——行测09-25/答案及解析/2024年青海省公务员录用考试《行测》答案+解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_third_value"
+    },
+    {
+      "id": "provincial-xinjiang-xingce-changshi-2024-002",
+      "file": "src/data/xingce/changshi/provincial_xinjiang_2024.json",
+      "qno": 2,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "A": 5,
+        "C": 1,
+        "B": 2,
+        "D": 1
+      },
+      "paperLabel": "2024年省考新疆行测",
+      "paper": "provincial_xinjiang_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/题目/2024年新疆公务员录用考试《行测》试题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/答案及解析/2024年新疆省公务员录用考试《行测》答案+解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-fujian-xingce-panduan-2023-020",
+      "file": "src/data/xingce/panduan/provincial_fujian_2023.json",
+      "qno": 20,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 8,
+        "B": 1
+      },
+      "paperLabel": "2023年省考福建行测",
+      "paper": "provincial_fujian_2023",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2020-101",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2020.json",
+      "qno": 101,
+      "current": "D",
+      "majority": "B",
+      "votes": {
+        "B": 7,
+        "D": 1
+      },
+      "paperLabel": "2020年省考山西行测",
+      "paper": "provincial_shanxi_2020",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-jiangxi-xingce-panduan-2024-112",
+      "file": "src/data/xingce/panduan/provincial_jiangxi_2024.json",
+      "qno": 112,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 7,
+        "C": 1
+      },
+      "paperLabel": "2024年省考江西行测",
+      "paper": "provincial_jiangxi_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2024年江西省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-hebei-xingce-yanyu-2020-025",
+      "file": "src/data/xingce/yanyu/provincial_hebei_2020.json",
+      "qno": 25,
+      "current": "A",
+      "majority": "D",
+      "votes": {
+        "D": 7,
+        "A": 1
+      },
+      "paperLabel": "2020年省考河北行测",
+      "paper": "provincial_hebei_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/题目/2020年0822河北公务员考试《行测》真题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/答案及解析/2020年0822河北公务员考试《行测》真题参考答案及解析.pdf (因此[，,]?\\s*选择\\s)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-chongqing-xingce-ziliao-2024-112",
+      "file": "src/data/xingce/ziliao/provincial_chongqing_2024.json",
+      "qno": 112,
+      "current": "C",
+      "majority": "A",
+      "votes": {
+        "A": 6,
+        "C": 2
+      },
+      "paperLabel": "2024年省考重庆行测",
+      "paper": "provincial_chongqing_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2024年重庆市公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-xinjiang-xingce-ziliao-2024-112",
+      "file": "src/data/xingce/ziliao/provincial_xinjiang_2024.json",
+      "qno": 112,
+      "current": "C",
+      "majority": "A",
+      "votes": {
+        "A": 6,
+        "C": 2
+      },
+      "paperLabel": "2024年省考新疆行测",
+      "paper": "provincial_xinjiang_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/题目/2024年新疆公务员录用考试《行测》试题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-hebei-xingce-ziliao-2024-124",
+      "file": "src/data/xingce/ziliao/provincial_hebei_2024.json",
+      "qno": 124,
+      "current": "D",
+      "majority": "C",
+      "votes": {
+        "C": 7,
+        "D": 1
+      },
+      "paperLabel": "2024年省考河北行测",
+      "paper": "provincial_hebei_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/题目/2024年河北省公务员录用考试《行测》试题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-fujian-xingce-changshi-2023-012",
+      "file": "src/data/xingce/changshi/provincial_fujian_2023.json",
+      "qno": 12,
+      "current": "A",
+      "majority": "A",
+      "votes": {
+        "C": 1,
+        "A": 7
+      },
+      "paperLabel": "2023年省考福建行测",
+      "paper": "provincial_fujian_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/题目/2023年福建省公务员录用考试《行测》真题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/答案及解析/2023年福建省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-ningxia-xingce-yanyu-2024-054",
+      "file": "src/data/xingce/yanyu/provincial_ningxia_2024.json",
+      "qno": 54,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 7,
+        "B": 1
+      },
+      "paperLabel": "2024年省考宁夏行测",
+      "paper": "provincial_ningxia_2024",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-henan-xingce-changshi-2023-004",
+      "file": "src/data/xingce/changshi/provincial_henan_2023.json",
+      "qno": 4,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "A": 7,
+        "D": 1
+      },
+      "paperLabel": "2023年省考河南行测",
+      "paper": "provincial_henan_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【10】河南公务员考试真题pdf版/河南公务员考试真题——行测06-25/题目/2023年河南省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-yunnan-xingce-changshi-2023-055",
+      "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+      "qno": 55,
+      "current": "B",
+      "majority": "A",
+      "votes": {
+        "A": 7,
+        "B": 1
+      },
+      "paperLabel": "2023年省考云南行测",
+      "paper": "provincial_yunnan_2023",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-chongqing-xingce-changshi-2023-006",
+      "file": "src/data/xingce/changshi/provincial_chongqing_2023.json",
+      "qno": 6,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "C": 6,
+        "A": 1
+      },
+      "paperLabel": "2023年省考重庆行测",
+      "paper": "provincial_chongqing_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2023年重庆市公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/答案及解析/2023年重庆市公务员录用考试《行测》真题答案及解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-hebei-xingce-changshi-2023-008",
+      "file": "src/data/xingce/changshi/provincial_hebei_2023.json",
+      "qno": 8,
+      "current": "A",
+      "majority": "B",
+      "votes": {
+        "B": 5,
+        "A": 1,
+        "C": 1
+      },
+      "paperLabel": "2023年省考河北行测",
+      "paper": "provincial_hebei_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/题目/2023年河北省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2023-006",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2023.json",
+      "qno": 6,
+      "current": "B",
+      "majority": "B",
+      "votes": {
+        "B": 5,
+        "A": 1,
+        "C": 1
+      },
+      "paperLabel": "2023年省考山西行测",
+      "paper": "provincial_shanxi_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【22】山西公务员考试真题pdf版/山西公务员考试真题——行测08-25/题目/2023年山西省公务员录用考试《行测》真题.pdf",
+      "official": "B",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【22】山西公务员考试真题pdf版/山西公务员考试真题——行测08-25/答案及解析/2023年山西省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-ningxia-xingce-yanyu-2020-051",
+      "file": "src/data/xingce/yanyu/provincial_ningxia_2020.json",
+      "qno": 51,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 6,
+        "A": 1
+      },
+      "paperLabel": "2020年省考宁夏行测",
+      "paper": "provincial_ningxia_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【19】宁夏公务员考试真题pdf版/宁夏公务员考试真题——行测10-25PDF版（缺22）/题目/2020年0822宁夏公务员考试《行测》真题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【19】宁夏公务员考试真题pdf版/宁夏公务员考试真题——行测10-25PDF版（缺22）/答案及解析/2020年0822宁夏公务员考试《行测》真题参考答案及解析.pdf (因此[，,]?\\s*选择\\s)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-fujian-xingce-changshi-2023-016",
+      "file": "src/data/xingce/changshi/provincial_fujian_2023.json",
+      "qno": 16,
+      "current": "D",
+      "majority": "D",
+      "votes": {
+        "C": 1,
+        "D": 6
+      },
+      "paperLabel": "2023年省考福建行测",
+      "paper": "provincial_fujian_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/题目/2023年福建省公务员录用考试《行测》真题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【03】福建公务员考试真题pdf版/福建公务员考试真题——行测【09-25】/答案及解析/2023年福建省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-sichuan-xingce-changshi-2023-081",
+      "file": "src/data/xingce/changshi/provincial_sichuan_2023.json",
+      "qno": 81,
+      "current": "A",
+      "majority": "B",
+      "votes": {
+        "B": 6,
+        "A": 1
+      },
+      "paperLabel": "2023年省考四川行测",
+      "paper": "provincial_sichuan_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【25】四川公务员考试真题pdf版/四川公务员考试真题——行测（07-25）/题目/2023年四川省公务员录用考试《行测》试题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-tianjin-xingce-changshi-2024-058",
+      "file": "src/data/xingce/changshi/provincial_tianjin_2024.json",
+      "qno": 58,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 6,
+        "A": 1
+      },
+      "paperLabel": "2024年省考天津行测",
+      "paper": "provincial_tianjin_2024",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-jiangxi-xingce-changshi-2023-004",
+      "file": "src/data/xingce/changshi/provincial_jiangxi_2023.json",
+      "qno": 4,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 5,
+        "B": 1
+      },
+      "paperLabel": "2023年省考江西行测",
+      "paper": "provincial_jiangxi_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2023年江西省公务员录用考试《行测》题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/答案及解析/2023年江西省公务员录用考试《行测》答案+解析.pdf (head)"
+      ],
+      "status": "pdf_third_value"
+    },
+    {
+      "id": "provincial-qinghai-xingce-yanyu-2024-058",
+      "file": "src/data/xingce/yanyu/provincial_qinghai_2024.json",
+      "qno": 58,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 5,
+        "A": 1
+      },
+      "paperLabel": "2024年省考青海行测",
+      "paper": "provincial_qinghai_2024",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【20】青海公务员考试真题pdf版/青海公务员考试真题——行测09-25/题目/2024年青海省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-guizhou-xingce-changshi-2023-008",
+      "file": "src/data/xingce/changshi/provincial_guizhou_2023.json",
+      "qno": 8,
+      "current": "D",
+      "majority": "C",
+      "votes": {
+        "C": 5,
+        "D": 1
+      },
+      "paperLabel": "2023年省考贵州行测",
+      "paper": "provincial_guizhou_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【07】贵州公务员考试真题pdf版/贵州公务员考试真题——行测08-25/题目/2023年贵州省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-sichuan-xingce-changshi-2023-008",
+      "file": "src/data/xingce/changshi/provincial_sichuan_2023.json",
+      "qno": 8,
+      "current": "D",
+      "majority": "C",
+      "votes": {
+        "C": 5,
+        "D": 1
+      },
+      "paperLabel": "2023年省考四川行测",
+      "paper": "provincial_sichuan_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【25】四川公务员考试真题pdf版/四川公务员考试真题——行测（07-25）/题目/2023年四川省公务员录用考试《行测》试题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【25】四川公务员考试真题pdf版/四川公务员考试真题——行测（07-25）/答案及解析/2023年四川省公务员录用考试《行测》答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2023-019",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2023.json",
+      "qno": 19,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "C": 5,
+        "D": 1
+      },
+      "paperLabel": "2023年省考山西行测",
+      "paper": "provincial_shanxi_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【22】山西公务员考试真题pdf版/山西公务员考试真题——行测08-25/题目/2023年山西省公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【22】山西公务员考试真题pdf版/山西公务员考试真题——行测08-25/答案及解析/2023年山西省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2023-022",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2023.json",
+      "qno": 22,
+      "current": "B",
+      "majority": "B",
+      "votes": {
+        "B": 5,
+        "C": 1
+      },
+      "paperLabel": "2023年省考山西行测",
+      "paper": "provincial_shanxi_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【22】山西公务员考试真题pdf版/山西公务员考试真题——行测08-25/题目/2023年山西省公务员录用考试《行测》真题.pdf",
+      "official": "B",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【22】山西公务员考试真题pdf版/山西公务员考试真题——行测08-25/答案及解析/2023年山西省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-jiangxi-xingce-panduan-2023-089",
+      "file": "src/data/xingce/panduan/provincial_jiangxi_2023.json",
+      "qno": 89,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "A": 4,
+        "D": 2
+      },
+      "paperLabel": "2023年省考江西行测",
+      "paper": "provincial_jiangxi_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2023年江西省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-xinjiang-xingce-panduan-2023-089",
+      "file": "src/data/xingce/panduan/provincial_xinjiang_2023.json",
+      "qno": 89,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "A": 4,
+        "D": 2
+      },
+      "paperLabel": "2023年省考新疆行测",
+      "paper": "provincial_xinjiang_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/题目/2023年新疆公务员录用考试《行测》试题（网友回忆版）.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2023-013",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2023.json",
+      "qno": 13,
+      "current": "A",
+      "majority": "B",
+      "votes": {
+        "B": 4,
+        "A": 1
+      },
+      "paperLabel": "2023年省考山西行测",
+      "paper": "provincial_shanxi_2023",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-henan-xingce-changshi-2023-008",
+      "file": "src/data/xingce/changshi/provincial_henan_2023.json",
+      "qno": 8,
+      "current": "D",
+      "majority": "B",
+      "votes": {
+        "B": 4,
+        "D": 1
+      },
+      "paperLabel": "2023年省考河南行测",
+      "paper": "provincial_henan_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【10】河南公务员考试真题pdf版/河南公务员考试真题——行测06-25/题目/2023年河南省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-yunnan-xingce-changshi-2023-083",
+      "file": "src/data/xingce/changshi/provincial_yunnan_2023.json",
+      "qno": 83,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 3,
+        "C": 2
+      },
+      "paperLabel": "2023年省考云南行测",
+      "paper": "provincial_yunnan_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【29】云南公务员考试真题pdf版/云南公务员考试真题——行测03-25PDF版/题目/2023年云南公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-gansu-xingce-panduan-2023-102",
+      "file": "src/data/xingce/panduan/provincial_gansu_2023.json",
+      "qno": 102,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 3,
+        "C": 2
+      },
+      "paperLabel": "2023年省考甘肃行测",
+      "paper": "provincial_gansu_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【04】甘肃公务员考试真题pdf版/甘肃公务员考试真题——行测【09-25】/题目/2023年甘肃公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-shanxi-xingce-changshi-2023-125",
+      "file": "src/data/xingce/changshi/provincial_shanxi_2023.json",
+      "qno": 125,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 4,
+        "A": 1
+      },
+      "paperLabel": "2023年省考山西行测",
+      "paper": "provincial_shanxi_2023",
+      "status": "stem_too_short"
+    },
+    {
+      "id": "institution-xingce-changshi-2024-c-002",
+      "file": "src/data/xingce/changshi/institution_2024_c.json",
+      "qno": 2,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "A": 1,
+        "B": 1
+      },
+      "paperLabel": "2024年事业编行测（c）",
+      "paper": "institution_2024_c",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-changshi-2024-e-002",
+      "file": "src/data/xingce/changshi/institution_2024_e.json",
+      "qno": 2,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "A": 1,
+        "B": 1
+      },
+      "paperLabel": "2024年事业编行测（e）",
+      "paper": "institution_2024_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "institution-xingce-changshi-2024-b-027",
+      "file": "src/data/xingce/changshi/institution_2024_b.json",
+      "qno": 27,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "A": 3,
+        "D": 1
+      },
+      "paperLabel": "2024年事业编行测（b）",
+      "paper": "institution_2024_b",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-zhejiang-xingce-panduan-2022-112",
+      "file": "src/data/xingce/panduan/provincial_zhejiang_2022.json",
+      "qno": 112,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 3,
+        "B": 1
+      },
+      "paperLabel": "2022年省考浙江行测",
+      "paper": "provincial_zhejiang_2022",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【30】浙江公务员考试真题pdf版/浙江公务员考试真题——行测05-25/题目/2022年浙江省公务员录用考试《行测》题（C类）.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-tianjin-xingce-panduan-2020-098",
+      "file": "src/data/xingce/panduan/provincial_tianjin_2020.json",
+      "qno": 98,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 3,
+        "A": 1
+      },
+      "paperLabel": "2020年省考天津行测",
+      "paper": "provincial_tianjin_2020",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【26】天津公务员考试真题pdf版/天津公务员考试真题——行测【09-25】/题目/2020年0725天津公务员考试《行测》真题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【26】天津公务员考试真题pdf版/天津公务员考试真题——行测【09-25】/答案及解析/2020年0725天津公务员考试《行测》真题参考答案及解析.pdf (因此[，,]?\\s*选择\\s)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-guangxi-xingce-ziliao-2020-099",
+      "file": "src/data/xingce/ziliao/provincial_guangxi_2020.json",
+      "qno": 99,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 3,
+        "A": 1
+      },
+      "paperLabel": "2020年省考广西行测",
+      "paper": "provincial_guangxi_2020",
+      "status": "stem_too_short"
+    },
+    {
+      "id": "provincial-gansu-xingce-panduan-2023-093",
+      "file": "src/data/xingce/panduan/provincial_gansu_2023.json",
+      "qno": 93,
+      "current": "A",
+      "majority": "B",
+      "votes": {
+        "B": 3,
+        "A": 1
+      },
+      "paperLabel": "2023年省考甘肃行测",
+      "paper": "provincial_gansu_2023",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-jiangxi-xingce-yanyu-2023-058",
+      "file": "src/data/xingce/yanyu/provincial_jiangxi_2023.json",
+      "qno": 58,
+      "current": "A",
+      "majority": "B",
+      "votes": {
+        "B": 3,
+        "A": 1
+      },
+      "paperLabel": "2023年省考江西行测",
+      "paper": "provincial_jiangxi_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【16】江西公务员考试真题pdf版/江西公务员考试真题——行测06-24PDF版/题目/2023年江西省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-neimenggu-xingce-changshi-2023-003",
+      "file": "src/data/xingce/changshi/provincial_neimenggu_2023.json",
+      "qno": 3,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "C": 3,
+        "B": 1
+      },
+      "paperLabel": "2023年省考内蒙古行测",
+      "paper": "provincial_neimenggu_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2023年内蒙古公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/答案及解析/2023年内蒙古公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-heilongjiang-xingce-changshi-2023-006",
+      "file": "src/data/xingce/changshi/provincial_heilongjiang_2023.json",
+      "qno": 6,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "B": 1,
+        "C": 2,
+        "A": 1
+      },
+      "paperLabel": "2023年省考黑龙江行测",
+      "paper": "provincial_heilongjiang_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【11】黑龙江公务员考试真题pdf版/黑龙江公务员考试真题——行测08-25/题目/2023年黑龙江省公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【11】黑龙江公务员考试真题pdf版/黑龙江公务员考试真题——行测08-25/答案及解析/2023年黑龙江省公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-neimenggu-xingce-changshi-2023-007",
+      "file": "src/data/xingce/changshi/provincial_neimenggu_2023.json",
+      "qno": 7,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "B": 1,
+        "C": 2,
+        "A": 1
+      },
+      "paperLabel": "2023年省考内蒙古行测",
+      "paper": "provincial_neimenggu_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2023年内蒙古公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/答案及解析/2023年内蒙古公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-changshi-2021-b-002",
+      "file": "src/data/xingce/changshi/institution_2021_b.json",
+      "qno": 2,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "B": 1
+      },
+      "paperLabel": "2021年事业编行测（b）",
+      "paper": "institution_2021_b",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-changshi-2020-a-102",
+      "file": "src/data/xingce/changshi/institution_2020_a.json",
+      "qno": 102,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "D": 1,
+        "A": 2
+      },
+      "paperLabel": "2020年事业编行测（a）（同年另一卷）",
+      "paper": "institution_2020_a",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-changshi-2020-c-013",
+      "file": "src/data/xingce/changshi/institution_2020_c.json",
+      "qno": 13,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "A": 1
+      },
+      "paperLabel": "2020年事业编行测（c）",
+      "paper": "institution_2020_c",
+      "status": "stem_too_short"
+    },
+    {
+      "id": "institution-xingce-changshi-2021-a-028",
+      "file": "src/data/xingce/changshi/institution_2021_a.json",
+      "qno": 28,
+      "current": "B",
+      "majority": "C",
+      "votes": {
+        "B": 1,
+        "C": 2
+      },
+      "paperLabel": "2021年事业编行测（a）",
+      "paper": "institution_2021_a",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-changshi-2021-e-025",
+      "file": "src/data/xingce/changshi/institution_2021_e.json",
+      "qno": 25,
+      "current": "D",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "D": 1
+      },
+      "paperLabel": "2021年事业编行测（e）",
+      "paper": "institution_2021_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "status": "pdf_disagree",
+      "pdfVotes": {
+        "B": [
+          "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (【\\s*答案\\s*】\\s*()"
+        ],
+        "D": [
+          "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+        ]
+      }
+    },
+    {
+      "id": "institution-xingce-yanyu-2021-b-030",
+      "file": "src/data/xingce/yanyu/institution_2021_b.json",
+      "qno": 30,
+      "current": "B",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "A": 1
+      },
+      "paperLabel": "2021年事业编行测（b）",
+      "paper": "institution_2021_b",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/B类/职测/2018年-2024年事业单位联考职测（B类）笔试真题.pdf",
+      "official": "B",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/B类/职测/2018年-2024年事业单位联考职测（B类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-changshi-2021-e-031",
+      "file": "src/data/xingce/changshi/institution_2021_e.json",
+      "qno": 31,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "C": 1
+      },
+      "paperLabel": "2021年事业编行测（e）",
+      "paper": "institution_2021_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-changshi-2021-e-028",
+      "file": "src/data/xingce/changshi/institution_2021_e.json",
+      "qno": 28,
+      "current": "C",
+      "majority": "A",
+      "votes": {
+        "A": 2,
+        "C": 1
+      },
+      "paperLabel": "2021年事业编行测（e）",
+      "paper": "institution_2021_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-changshi-2023-c-003",
+      "file": "src/data/xingce/changshi/institution_2023_c.json",
+      "qno": 3,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "C": 1
+      },
+      "paperLabel": "2023年事业编行测（c）",
+      "paper": "institution_2023_c",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-changshi-2023-e-026",
+      "file": "src/data/xingce/changshi/institution_2023_e.json",
+      "qno": 26,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "D": 1,
+        "C": 2
+      },
+      "paperLabel": "2023年事业编行测（e）",
+      "paper": "institution_2023_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-changshi-2023-e-028",
+      "file": "src/data/xingce/changshi/institution_2023_e.json",
+      "qno": 28,
+      "current": "D",
+      "majority": "D",
+      "votes": {
+        "A": 1,
+        "D": 2
+      },
+      "paperLabel": "2023年事业编行测（e）",
+      "paper": "institution_2023_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-yanyu-2023-b-033",
+      "file": "src/data/xingce/yanyu/institution_2023_b.json",
+      "qno": 33,
+      "current": "B",
+      "majority": "D",
+      "votes": {
+        "D": 2,
+        "B": 1
+      },
+      "paperLabel": "2023年事业编行测（b）",
+      "paper": "institution_2023_b",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/B类/职测/2018年-2024年事业单位联考职测（B类）笔试真题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/B类/职测/2018年-2024年事业单位联考职测（B类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_third_value"
+    },
+    {
+      "id": "institution-xingce-changshi-2024-e-001",
+      "file": "src/data/xingce/changshi/institution_2024_e.json",
+      "qno": 1,
+      "current": "D",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "D": 1
+      },
+      "paperLabel": "2024年事业编行测（e）",
+      "paper": "institution_2024_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "institution-xingce-changshi-2024-e-008",
+      "file": "src/data/xingce/changshi/institution_2024_e.json",
+      "qno": 8,
+      "current": "D",
+      "majority": "D",
+      "votes": {
+        "D": 2,
+        "B": 1
+      },
+      "paperLabel": "2024年事业编行测（e）",
+      "paper": "institution_2024_e",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题.pdf",
+      "official": "D",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/E类/职测/2018年-2024年事业单位联考职测（E类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-changshi-2024-a-033",
+      "file": "src/data/xingce/changshi/institution_2024_a.json",
+      "qno": 33,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "B": 1,
+        "C": 2
+      },
+      "paperLabel": "2024年事业编行测（a）",
+      "paper": "institution_2024_a",
+      "alignedPdf": "material/【事业编】事业单位联考历年真题/A类/职测/2018年-2024年事业单位联考职测（A类）笔试真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【事业编】事业单位联考历年真题/A类/职测/2018年-2024年事业单位联考职测（A类）笔试真题答案解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "institution-xingce-panduan-2021-b-006",
+      "file": "src/data/xingce/panduan/institution_2021_b.json",
+      "qno": 6,
+      "current": "D",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "D": 1
+      },
+      "paperLabel": "2021年事业编行测（b）",
+      "paper": "institution_2021_b",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-panduan-2021-e-070",
+      "file": "src/data/xingce/panduan/institution_2021_e.json",
+      "qno": 70,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "C": 1
+      },
+      "paperLabel": "2021年事业编行测（e）",
+      "paper": "institution_2021_e",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-panduan-2023-e-084",
+      "file": "src/data/xingce/panduan/institution_2023_e.json",
+      "qno": 84,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "A": 2,
+        "D": 1
+      },
+      "paperLabel": "2023年事业编行测（e）",
+      "paper": "institution_2023_e",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-panduan-2023-e-085",
+      "file": "src/data/xingce/panduan/institution_2023_e.json",
+      "qno": 85,
+      "current": "B",
+      "majority": "D",
+      "votes": {
+        "D": 2,
+        "B": 1
+      },
+      "paperLabel": "2023年事业编行测（e）",
+      "paper": "institution_2023_e",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-ziliao-2021-a-086",
+      "file": "src/data/xingce/ziliao/institution_2021_a.json",
+      "qno": 86,
+      "current": "C",
+      "majority": "A",
+      "votes": {
+        "A": 2,
+        "C": 1
+      },
+      "paperLabel": "2021年事业编行测（a）",
+      "paper": "institution_2021_a",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "institution-xingce-ziliao-2021-a-088",
+      "file": "src/data/xingce/ziliao/institution_2021_a.json",
+      "qno": 88,
+      "current": "B",
+      "majority": "D",
+      "votes": {
+        "D": 2,
+        "B": 1
+      },
+      "paperLabel": "2021年事业编行测（a）",
+      "paper": "institution_2021_a",
+      "status": "no_stem_anchor"
+    },
+    {
+      "id": "provincial-anhui-xingce-changshi-2022-052",
+      "file": "src/data/xingce/changshi/provincial_anhui_2022.json",
+      "qno": 52,
+      "current": "A",
+      "majority": "B",
+      "votes": {
+        "A": 1,
+        "B": 2
+      },
+      "paperLabel": "2022年省考安徽行测",
+      "paper": "provincial_anhui_2022",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【01】安徽公务员考试真题pdf版/安徽公务员考试真题——行测06-25/题目/2022年安徽省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-anhui-xingce-yanyu-2022-035",
+      "file": "src/data/xingce/yanyu/provincial_anhui_2022.json",
+      "qno": 35,
+      "current": "B",
+      "majority": "D",
+      "votes": {
+        "B": 1,
+        "D": 2
+      },
+      "paperLabel": "2022年省考安徽行测",
+      "paper": "provincial_anhui_2022",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【01】安徽公务员考试真题pdf版/安徽公务员考试真题——行测06-25/题目/2022年安徽省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-anhui-xingce-yanyu-2022-036",
+      "file": "src/data/xingce/yanyu/provincial_anhui_2022.json",
+      "qno": 36,
+      "current": "D",
+      "majority": "A",
+      "votes": {
+        "D": 1,
+        "A": 2
+      },
+      "paperLabel": "2022年省考安徽行测",
+      "paper": "provincial_anhui_2022",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【01】安徽公务员考试真题pdf版/安徽公务员考试真题——行测06-25/题目/2022年安徽省公务员录用考试《行测》题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-chongqing-xingce-changshi-2023-013",
+      "file": "src/data/xingce/changshi/provincial_chongqing_2023.json",
+      "qno": 13,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "D": 1,
+        "C": 2
+      },
+      "paperLabel": "2023年省考重庆行测",
+      "paper": "provincial_chongqing_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/题目/2023年重庆市公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【31】重庆公务员考试真题pdf版/重庆公务员考试真题——行测08-25/答案及解析/2023年重庆市公务员录用考试《行测》真题答案及解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-tianjin-xingce-changshi-2020-055",
+      "file": "src/data/xingce/changshi/provincial_tianjin_2020.json",
+      "qno": 55,
+      "current": "C",
+      "majority": "B",
+      "votes": {
+        "B": 2,
+        "C": 1
+      },
+      "paperLabel": "2020年省考天津行测",
+      "paper": "provincial_tianjin_2020",
+      "status": "stem_too_short"
+    },
+    {
+      "id": "provincial-ningxia-xingce-yanyu-2021-086",
+      "file": "src/data/xingce/yanyu/provincial_ningxia_2021.json",
+      "qno": 86,
+      "current": "A",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "A": 1
+      },
+      "paperLabel": "2021年省考宁夏行测",
+      "paper": "provincial_ningxia_2021",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【19】宁夏公务员考试真题pdf版/宁夏公务员考试真题——行测10-25PDF版（缺22）/题目/2021年0327宁夏公务员考试《行测》真题.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-hebei-xingce-changshi-2022-017",
+      "file": "src/data/xingce/changshi/provincial_hebei_2022.json",
+      "qno": 17,
+      "current": "C",
+      "majority": "A",
+      "votes": {
+        "C": 1,
+        "A": 2
+      },
+      "paperLabel": "2022年省考河北行测",
+      "paper": "provincial_hebei_2022",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/题目/2022年河北省公务员录用考试《行测》题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【09】河北公务员考试真题pdf版/河北公务员考试真题——行测08-25/答案及解析/2022年河北省公务员录用考试《行测》解析.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-xinjiang-xingce-changshi-2023-002",
+      "file": "src/data/xingce/changshi/provincial_xinjiang_2023.json",
+      "qno": 2,
+      "current": "B",
+      "majority": "D",
+      "votes": {
+        "D": 2,
+        "B": 1
+      },
+      "paperLabel": "2023年省考新疆行测",
+      "paper": "provincial_xinjiang_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【28】新疆公务员考试真题pdf版/新疆公务员考试真题——行测09-25PDF版/题目/2023年新疆公务员录用考试《行测》试题（网友回忆版）.pdf",
+      "status": "no_official_answer"
+    },
+    {
+      "id": "provincial-neimenggu-xingce-changshi-2022-006",
+      "file": "src/data/xingce/changshi/provincial_neimenggu_2022.json",
+      "qno": 6,
+      "current": "A",
+      "majority": "A",
+      "votes": {
+        "A": 2,
+        "C": 1
+      },
+      "paperLabel": "2022年省考内蒙古行测",
+      "paper": "provincial_neimenggu_2022",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2022年内蒙古公务员录用考试《行测》真题.pdf",
+      "official": "A",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/答案及解析/2022年内蒙古公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    },
+    {
+      "id": "provincial-neimenggu-xingce-panduan-2023-092",
+      "file": "src/data/xingce/panduan/provincial_neimenggu_2023.json",
+      "qno": 92,
+      "current": "C",
+      "majority": "C",
+      "votes": {
+        "C": 2,
+        "A": 1
+      },
+      "paperLabel": "2023年省考内蒙古行测",
+      "paper": "provincial_neimenggu_2023",
+      "alignedPdf": "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/题目/2023年内蒙古公务员录用考试《行测》真题.pdf",
+      "official": "C",
+      "officialSource": [
+        "material/【省考】2000-2025真题pdf/【18】内蒙古公务员考试真题pdf版/内蒙古公务员考试真题——行测08-23+25/答案及解析/2023年内蒙古公务员录用考试《行测》真题（解析）.pdf (故正确答案?[为选是]?[:)"
+      ],
+      "status": "pdf_matches_current"
+    }
+  ]
+}
