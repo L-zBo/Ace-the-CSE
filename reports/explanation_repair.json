@@ -42,11 +42,50 @@
   "verdict": "no_clean_block"
  },
  {
+  "paper": "institution_2023_e",
+  "id": "institution-xingce-changshi-2023-e-026",
+  "num": 26,
+  "answer": "C",
+  "verdict": "repair",
+  "old_len": 284,
+  "new_len": 522,
+  "new_head": "【答案】C\n\n  【解析】第一空，根据后文“尽管有一些种类，比如黄金树，野生种群数量较少，且分布较狭窄”可知，横\n\n  线处须体现梓属的大部分种类都被较多地、或分布很广地栽种之意。A 项“普遍”（存在",
+  "official_answer": "C"
+ },
+ {
+  "paper": "institution_2023_e",
+  "id": "institution-xingce-changshi-2023-e-028",
+  "num": 28,
+  "answer": "D",
+  "verdict": "repair",
+  "old_len": 207,
+  "new_len": 342,
+  "new_head": "【答案】D\n\n  【解析】第一空，根据“很多人在观影时都会不自觉地拿起手机拍摄银幕画面”可知，空处应和前文“不\n\n  自觉”构成相反对应，体现故意传播之意。C 项“主动”指自愿，D 项“刻意”指故意、",
+  "official_answer": "D"
+ },
+ {
+  "paper": "institution_2024_e",
+  "id": "institution-xingce-changshi-2024-e-008",
+  "num": 8,
+  "answer": "D",
+  "verdict": "no_clean_block"
+ },
+ {
   "paper": "national_2021_fushengjia",
   "id": "national-xingce-changshi-2021-fushengjia-002",
   "num": 2,
   "answer": "D",
   "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_chongqing_2023",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_fujian_2023",
+  "verdict": "align_failed",
+  "count": 1
  },
  {
   "paper": "provincial_guangxi_2023",
@@ -103,6 +142,16 @@
   "num": 15,
   "answer": "C",
   "verdict": "no_clean_block"
+ },
+ {
+  "paper": "provincial_neimenggu_2022",
+  "verdict": "align_failed",
+  "count": 1
+ },
+ {
+  "paper": "provincial_neimenggu_2023",
+  "verdict": "align_failed",
+  "count": 1
  },
  {
   "paper": "provincial_qinghai_2023",
@@ -412,6 +461,17 @@
   "verdict": "stem_not_anchored"
  },
  {
+  "paper": "institution_2021_b",
+  "id": "institution-xingce-yanyu-2021-b-030",
+  "num": 30,
+  "answer": "B",
+  "verdict": "repair",
+  "old_len": 402,
+  "new_len": 485,
+  "new_head": "【答案】B\n\n  【解析】第一空，根据横线前“种种不确定性”及横线后“后果往往难以预料”可知，横线处应体现形势发\n\n  展不断变化、且难以预料之意。A 项“变幻莫测”指事物变化很多不能预料，变化多端，",
+  "official_answer": "B"
+ },
+ {
   "paper": "institution_2022_a",
   "id": "institution-xingce-yanyu-2022-a-021",
   "num": 21,
@@ -491,32 +551,10 @@
  },
  {
   "paper": "national_2016_dishi",
-  "id": "national-xingce-ziliao-2016-dishi-117",
-  "num": 117,
-  "answer": "D",
-  "verdict": "repair",
-  "old_len": 76,
-  "new_len": 114,
-  "new_head": "增长量=     r。\n\n2014 年公共图书电子图书藏量增长册数=              ；\n\n图书总藏量增长册数               ；\n\n则电子图书量增长册数是总藏量增长册数的   ",
-  "official_answer": "A"
- },
- {
-  "paper": "national_2016_dishi",
   "id": "national-xingce-ziliao-2016-dishi-118",
   "num": 118,
   "answer": "D",
   "verdict": "no_clean_block"
- },
- {
-  "paper": "national_2016_dishi",
-  "id": "national-xingce-ziliao-2016-dishi-119",
-  "num": 119,
-  "answer": "D",
-  "verdict": "repair",
-  "old_len": 247,
-  "new_len": 333,
-  "new_head": "2007 年，人均公共图书藏量增速=          =  ；\n\n2008 年，人均公共图书藏量增速=          =  ；\n\n2009 年，人均公共图书藏量增速=          =  ；",
-  "official_answer": "C"
  },
  {
   "paper": "national_2016_dishi",
@@ -531,17 +569,6 @@
   "num": 128,
   "answer": "D",
   "verdict": "no_clean_block"
- },
- {
-  "paper": "national_2016_dishi",
-  "id": "national-xingce-ziliao-2016-dishi-129",
-  "num": 129,
-  "answer": "D",
-  "verdict": "repair",
-  "old_len": 132,
-  "new_len": 162,
-  "new_head": "定位材料图形部分可得2014 年上半年（第二季度累计）全国物流总额为101.5 万亿元、2014 年增长率为\n\n8.7%、2013 年上半年增长率为9.1%，则由间隔增长率公式可得          ",
-  "official_answer": "B"
  },
  {
   "paper": "provincial_fujian_2023",
@@ -601,17 +628,6 @@
   "paper": "provincial_neimenggu_2023",
   "verdict": "align_failed",
   "count": 1
- },
- {
-  "paper": "provincial_ningxia_2023",
-  "id": "provincial-ningxia-xingce-ziliao-2023-120",
-  "num": 120,
-  "answer": "A",
-  "verdict": "repair",
-  "old_len": 672,
-  "new_len": 822,
-  "new_head": "A项：根据文字材料第一段可知PMI计算中5个分类指数的权数，假设新订单、生产、从业人员、原材\n   料库存指数均为49.9%，供应商配送时间指数为1%，根据“供应商配送时间指数为逆指数，在合成制造\n ",
-  "official_answer": "AD"
  },
  {
   "paper": "provincial_zhejiang_2024",
