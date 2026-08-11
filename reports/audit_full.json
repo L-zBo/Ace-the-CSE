@@ -109,13 +109,6 @@
    "src/data/xingce\\panduan\\provincial_beijing_2023.json#081 解析含3个答案结论",
    "src/data/xingce\\panduan\\provincial_hebei_2024.json#076 解析含2个答案结论"
   ],
-  "opt_count": [
-   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#001 选项数=2",
-   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#002 选项数=2",
-   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#003 选项数=2",
-   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#004 选项数=2",
-   "src/data/xingce\\changshi\\provincial_guangdong_2024.json#005 选项数=2"
-  ],
   "exp_crosstalk": [
    "src/data/xingce\\changshi\\provincial_heilongjiang_2024.json#015 解析含第48题标记",
    "src/data/xingce\\changshi\\provincial_heilongjiang_2024.json#020 解析含第67题标记",

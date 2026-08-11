@@ -69,8 +69,15 @@ for path in sorted(glob.glob('src/data/xingce/**/*.json', recursive=True)):
         # 选项结构
         opts = q.get('options') or []
         labels = [o.get('label') for o in opts if isinstance(o, dict)]
+        # 判断题本来就只有「正确 / 错误」两个选项，不是缺选项。
+        # 不排除的话广东 2024 那批每次审计都亮 5 个假红灯。
+        contents = [str((o or {}).get('content') or '').strip() for o in opts]
+        is_truefalse = (
+            len(opts) == 2
+            and (contents == ['正确', '错误'] or '（判断题）' in str(q.get('content') or ''))
+        )
         if not ph:
-            if len(opts) != 4:
+            if len(opts) != 4 and not is_truefalse:
                 findings['opt_count'].append(f'{path}#{num} 选项数={len(opts)}')
             if labels and labels != ['A', 'B', 'C', 'D'][:len(labels)]:
                 findings['opt_label'].append(f'{path}#{num} label序列={labels}')
