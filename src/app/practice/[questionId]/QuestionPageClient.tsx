@@ -36,6 +36,7 @@ import {
   EssayAnswerArea,
   SubmitBar,
   ExplanationPanel,
+  RelatedAppearances,
   KeyboardHintBar,
   QuestionNavBar,
 } from './components';
@@ -421,6 +422,9 @@ export default function QuestionPageClient() {
           <ExplanationPanel explanation={question.explanation} answer={question.answer} />
         )}
       </AnimatePresence>
+
+      {/* 跨卷同题关联：只在出解析后露出，避免做题时被别处的同题剧透 */}
+      {showAnalysis && <RelatedAppearances questionId={question.id} />}
 
       <KeyboardHintBar />
 

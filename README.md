@@ -58,9 +58,12 @@ PDF 真题卷
 结构化 JSON 题库 + PNG 题图
    ↓  scripts/generate_question_index.py
 src/data/index/question-index.json  ← 轻量元数据索引（约 1.3 MB）
+   ↓  scripts/generate_cross_paper_links.py
+src/data/index/cross-paper-links.json ← 跨卷同题关联（约 300 KB，答题页按需加载）
    ↓
 src/lib/questionIndex.ts   同步元数据（列表 / 筛选 / 统计）
 src/lib/questionLoader.ts  按试卷 dynamic import() 懒加载正文
+src/lib/relatedQuestions.ts 跨卷同题关联（dynamic import）
    ↓
 Next.js 前端渲染
 ```
@@ -133,19 +136,39 @@ python scripts/audit_shenlun_material.py  # 申论 material 字段审计
 python scripts/d17_list_unanswerable.py   # 不可作答题清点
 python scripts/audit_full.py              # 全库审计（字段/答案/选项/重复/水印/题图）
 python scripts/generate_question_index.py # 题库改动后重建索引
+python scripts/generate_cross_paper_links.py # 题库改动后重建跨卷同题关联
 python scripts/verify_lazy_loader.py      # 浏览器实测关键路径（需先起 dev）
+python scripts/verify_related_appearances.py # 浏览器实测跨卷关联提示（需先起 dev）
 
 # 数据修复（都幂等，默认预览，加 --apply 落盘）
 python scripts/fix_option_order.py         # 按 label 重排选项
 python scripts/clean_watermarks_v2.py      # 清解析里的引流水印
 python scripts/fix_explanation_crosstalk.py # 截断串进解析的邻题内容
+python scripts/fix_source_label_region.py  # sourceLabel 拼音省份改中文 / 补空值
 ```
 
 > 修复脚本都带「序列化后必须与原文件字节一致」的格式校验（题库 JSON 是
 > **CRLF + indent=2**），格式对不上直接中止，避免产生满屏无关 diff。
 
-> 改动 `src/data/` 下任何题库文件后，**必须重跑 `generate_question_index.py`**，
-> 否则索引与题库不同步（新增题不出现、删除题点开是空白）。
+> 改动 `src/data/` 下任何题库文件后，**必须重跑 `generate_question_index.py`
+> 和 `generate_cross_paper_links.py`**，否则索引与题库不同步（新增题不出现、
+> 删除题点开是空白），关联提示也会指向已删除的题。
+
+### 跨卷同题关联
+
+真题跨省、跨年共用题池，全库有 **1,706 组同题**（涉及 5,912 道题）。这本来是
+审计里的 `dup_cross_paper` 脏数据，现在做成答题页的「这道题还考过 N 次」。
+
+指纹口径比审计严格得多 —— 审计用题干前 80 字，会把图形推理的模板题干
+（「从所给的四个选项中选择最合适的一个填入问号处」246 处）全判成同题。
+这里用 **规范化题干 + 排序后的规范化选项** 做联合指纹，并排除：
+
+- 占位题
+- 裸字母选项（`A/B/C/D`）与 `[见图]`、`[图形选项]` 类图形题 —— 这些靠图区分，
+  文本上一模一样但根本不是同一道题
+- 题干 + 选项总信息量不足 40 字的
+
+宁可漏也不错报：关联点过去发现是另一道题，比不给关联更糟。
 
 ---
 

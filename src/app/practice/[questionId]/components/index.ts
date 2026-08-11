@@ -6,5 +6,6 @@ export { OptionList } from './OptionList';
 export { EssayAnswerArea } from './EssayAnswerArea';
 export { SubmitBar } from './SubmitBar';
 export { ExplanationPanel } from './ExplanationPanel';
+export { RelatedAppearances } from './RelatedAppearances';
 export { KeyboardHintBar } from './KeyboardHintBar';
 export { QuestionNavBar } from './QuestionNavBar';
