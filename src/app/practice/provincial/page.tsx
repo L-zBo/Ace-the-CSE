@@ -10,17 +10,7 @@ import { XINGCE_CATEGORY_NAMES, type XingceCategory } from '@/types/question';
 import { usePracticeStore } from '@/stores/practiceStore';
 import { useMistakeStore } from '@/stores/mistakeStore';
 import { cn } from '@/lib/utils';
-
-const PROVINCE_NAMES: Record<string, string> = {
-  anhui: '安徽', beijing: '北京', fujian: '福建', gansu: '甘肃',
-  guangdong: '广东', guangxi: '广西', guizhou: '贵州', hainan: '海南',
-  hebei: '河北', henan: '河南', heilongjiang: '黑龙江', hubei: '湖北',
-  hunan: '湖南', jilin: '吉林', jiangsu: '江苏', jiangxi: '江西',
-  liaoning: '辽宁', neimenggu: '内蒙古', ningxia: '宁夏', qinghai: '青海',
-  shandong: '山东', shanxi: '山西', shaanxi: '陕西', shanghai: '上海',
-  sichuan: '四川', tianjin: '天津', xizang: '西藏', xinjiang: '新疆',
-  yunnan: '云南', zhejiang: '浙江', chongqing: '重庆',
-};
+import { PROVINCE_NAMES } from '@/lib/regionNames';
 
 function Chip({ active, onClick, disabled, children, tone = 'emerald' }: {
   active: boolean; onClick: () => void; disabled?: boolean; children: React.ReactNode;
