@@ -2,8 +2,11 @@
 """图片题审计：输出嫌疑清单 + 一致性报告。
 
 只读扫描，不修改任何文件。产出：
-  - audit_report.json  机器可读明细
-  - audit_report.md    人工浏览摘要
+  - reports/audit_figures.json  机器可读明细
+  - reports/audit_figures.md    人工浏览摘要
+
+产物早先直接落在仓库根（audit_report.json/md），跟其他审计报告不在一处，
+每跑一次就在根目录多两个文件。现在统一进 reports/。
 """
 import os, sys, json, glob, re
 from collections import defaultdict
@@ -157,7 +160,8 @@ def main():
                     for e, q, qid in missing],
         'empty_options': empty_opts_list,
     }
-    out_json = os.path.join(ROOT, 'audit_report.json')
+    out_json = os.path.join(ROOT, 'reports', 'audit_figures.json')
+    os.makedirs(os.path.dirname(out_json), exist_ok=True)
     json.dump(report, open(out_json, 'w', encoding='utf-8'),
               ensure_ascii=False, indent=2)
 
@@ -200,7 +204,7 @@ def main():
     for exam in sorted(by_exam_eo):
         md.append(f"- {exam}: {sorted(by_exam_eo[exam])}")
 
-    out_md = os.path.join(ROOT, 'audit_report.md')
+    out_md = os.path.join(ROOT, 'reports', 'audit_figures.md')
     open(out_md, 'w', encoding='utf-8').write('\n'.join(md))
 
     print(f'Done. summary={report["summary"]}')

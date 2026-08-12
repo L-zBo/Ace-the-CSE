@@ -46,8 +46,8 @@ def main() -> None:
     ap.add_argument("--exam", help="只跑指定 examKey")
     args = ap.parse_args()
 
-    # 读 audit_report.json
-    audit = json.loads((ROOT / "audit_report.json").read_text(encoding="utf-8"))
+    # 读 audit_figures.py 的产物（早先落在仓库根，现已统一进 reports/）
+    audit = json.loads((ROOT / "reports" / "audit_figures.json").read_text(encoding="utf-8"))
     targets: dict[str, list[int]] = {}
     for m in audit["missing"]:
         ex = m["exam"]
