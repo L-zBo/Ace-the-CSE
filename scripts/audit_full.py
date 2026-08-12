@@ -19,8 +19,10 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='repla
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 
-PLACEHOLDER = ['OCR 抽取失败', 'OCR抽取失败', 'OCR 提取失败', 'OCR提取失败',
-               '题目缺失', '题目暂缺', '暂缺', '正在全力以赴征集', '全力搜集中', '缺失']
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from placeholder_lib import (  # noqa: E402
+    is_placeholder_question, is_unanswerable,
+)
 
 findings = defaultdict(list)
 stats = Counter()
@@ -37,8 +39,13 @@ def load(path):
 
 
 def is_placeholder(q):
-    blob = str(q.get('content') or '')
-    return any(p in blob for p in PLACEHOLDER)
+    """题目级占位判定，口径见 scripts/placeholder_lib.py。
+
+    早先这里自带一份词表、且只看题干，报出来是 78，而前端实际过滤 73。
+    现在统一走共享实现：`placeholder` 报题目级占位数，`unanswerable`
+    才是前端真正过滤掉的那批（占位且无兜底图）。
+    """
+    return is_placeholder_question(q)
 
 
 # ---------- 行测 ----------
@@ -53,6 +60,8 @@ for path in sorted(glob.glob('src/data/xingce/**/*.json', recursive=True)):
         ph = is_placeholder(q)
         if ph:
             stats['placeholder'] += 1
+        if is_unanswerable(q):
+            stats['unanswerable'] += 1
 
         # 必填字段
         for f in ('id', 'content', 'options', 'answer', 'category', 'subject'):
@@ -154,7 +163,8 @@ json.dump({'stats': dict(stats),
           ensure_ascii=False, indent=1)
 
 print('=' * 72)
-print('规模：行测 {xingce_total}  申论 {shenlun_total}  占位题 {placeholder}'.format(**stats))
+print('规模：行测 {xingce_total}  申论 {shenlun_total}  '
+      '占位题 {placeholder}（其中前端过滤 {unanswerable}）'.format(**stats))
 print('题图：{png_total} 张，分布在 {png_exam_dirs} 个试卷目录'.format(**stats))
 print('=' * 72)
 order = ['missing_field', 'answer_missing', 'answer_illegal', 'answer_vs_explanation',
