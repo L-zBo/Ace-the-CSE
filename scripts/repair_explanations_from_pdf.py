@@ -43,6 +43,17 @@ CRLF = chr(13) + chr(10)
 PLACEHOLDER = ['OCR 抽取失败', 'OCR抽取失败', 'OCR 提取失败',
                '题目缺失', '暂缺', '正在全力以赴征集']
 CONCLUSION = re.compile(r'故正确答案为\s*([A-D]+)')
+# 其余机构的结论句式。与 scripts/fix_cross_paper_answers.py 同源，
+# 都要求结论后面跟标点或换行，避免把正文里的「答案是否正确」之类误抓成结论。
+EXTRA_CONCLUSION = [
+    re.compile(r'故正确答案?[为选是]?[:：]?\s*([A-D]+)(?=[\s，,。.、\)）])'),
+    re.compile(r'因此[，,]?\s*选择\s*([A-D]+)(?:\s*选项)?(?=[\s。.，,])'),
+    re.compile(r'【\s*答案\s*】\s*([A-D]+)(?=[\s。.，,\n】])'),
+    re.compile(r'(?:正确答案|参考答案|答案)[：:]\s*([A-D]+)(?=[\s，。、\)）（(\n])'),
+    re.compile(r'(?:正确答案|参考答案|答案)\s*[是为][：:]?\s*([A-D]+)(?=[\s，。、\)）\n])'),
+    # 正确答案:【B】 / 正确答案是：【B】 —— 广西/海南/湖南/贵州的块首标记
+    re.compile(r'(?:正确答案|参考答案|答案)\s*[是为]?\s*[：:]?\s*【\s*([A-D]+)\s*】'),
+]
 # 解析里挂着的别题标记，形如「【48—正确答案 D】」
 FOREIGN_MARK = re.compile(r'【\s*(\d{1,3})\s*[—\-－]\s*正确答案')
 QNUM = re.compile(r'(?m)^[ \t]*(\d{1,3})[ \t]*[、．.]?[ \t]*(?=\S)')
@@ -166,7 +177,42 @@ def split_blocks(text):
     return out
 
 
-MARK_HEAD = re.compile(r'【\s*(\d{1,3})\s*[—\-－]\s*正确答案\s*([A-D]+)\s*】')
+MARK_HEAD = re.compile(r'【\s*(?:解析)?\s*(\d{1,3})\s*[—\-－]\s*正确答案\s*([A-D]+)\s*】')
+
+# 第三类排版：题号裹在标记里，既不在行首、也不是「【N—正确答案X】」。
+# 实测四种，按可靠性排序（带答案的排前面）：
+#   第【2】题正确答案:【B】     广西 / 海南 / 湖南 2023
+#   第2 题 …… 正确答案是：【B】 贵州 2023
+#   【解析2—正确答案D】         河北 2024（MARK_HEAD 已放宽兼容）
+#   【2】本题考查……            甘肃 2023，只有题号没有答案
+# 这些卷用行首裸数字切块只能切出 10 来个噪声题号（范围里混着 0 和 832），
+# 整卷等于没解析可用。
+HEAD_PATTERNS = [
+    re.compile(r'第\s*【\s*(\d{1,3})\s*】\s*题\s*正确答案\s*[:：]?\s*【?\s*[A-D]+\s*】?'),
+    re.compile(r'(?m)^第\s*(\d{1,3})\s*题\s*$'),
+    MARK_HEAD,
+    re.compile(r'(?m)^【\s*(\d{1,3})\s*】\s*(?=\S)'),
+]
+
+
+def split_blocks_headed(text):
+    """按「题目头标记」切块，覆盖 HEAD_PATTERNS 里的几种排版。
+
+    每种格式单独匹配、取命中最多的一种，不混用 —— 混着切会把块切碎，
+    一道题的解析被拆成好几段，反而全都短到过不了 MIN_LEN。
+    """
+    text = JUNK.sub('', text)
+    best = []
+    for rgx in HEAD_PATTERNS:
+        ms = [m for m in rgx.finditer(text) if 1 <= int(m.group(1)) <= 200]
+        if len(ms) > len(best):
+            best = ms
+    out = {}
+    for i, mm in enumerate(best):
+        end = best[i + 1].start() if i + 1 < len(best) else len(text)
+        # 块首保留标记本身，块内的「正确答案:【X】」才能被结论正则抽到
+        out.setdefault(int(mm.group(1)), []).append(text[mm.start():end])
+    return out
 
 
 def split_blocks_marked(text):
@@ -185,8 +231,19 @@ def split_blocks_marked(text):
 
 
 def block_conclusions(t):
-    """块内的答案结论，兼容「故正确答案为X」与「【N—正确答案 X】」两种写法。"""
-    return CONCLUSION.findall(t) + [m.group(2) for m in MARK_HEAD.finditer(t)]
+    """块内的答案结论。
+
+    各家机构的解析 PDF 结论句式不统一，只认「故正确答案为X」会漏掉一大片 ——
+    实测江苏 2022 整卷用的都是「因此，选择D 选项」，5 道题因此卡在「无结论」。
+    这里的句式集与 scripts/fix_cross_paper_answers.py 保持一致。
+
+    返回的是**去重前**的列表：调用方靠 set() 后是否仍为 1 个来判断块干不干净，
+    所以同一结论被多个句式重复命中不影响判定，混进别题结论才会被拦下。
+    """
+    out = CONCLUSION.findall(t) + [m.group(2) for m in MARK_HEAD.finditer(t)]
+    for rgx in EXTRA_CONCLUSION:
+        out.extend(rgx.findall(t))
+    return out
 
 
 def collect(arr):
@@ -247,6 +304,26 @@ def align(blocks, arr):
         if hit >= 6:
             break
     return hit, miss
+
+
+def well_indexed(ablocks):
+    """解析 PDF 的题号是否完整连续覆盖整卷。
+
+    题面校验（topical）是防串题的主力，但它要求解析块里复述题干或选项 ——
+    相当一部分解析 PDF 根本不复述，比如广西 2023 第 110 题的库内题干只有
+    「不能从上述资料中推出的是：」12 个字，解析块直接从「A 项：根据文字材料」
+    开讲，题面永远对不上。
+
+    这种情况下题号本身就是可靠锚定，但前提是题号序列可信：从 1 开始、
+    数量够多、几乎无断号。再叠加另外两道已有的保障 ——
+      · 真题 PDF 那步已确认「库内第 N 题 == 官方卷第 N 题」（stem_not_anchored）
+      · 块结论必须等于库内 answer（answer_conflict）
+    三者同时成立时放宽 topical 是安全的。
+    """
+    ks = sorted(ablocks)
+    if len(ks) < 30 or ks[0] != 1:
+        return False
+    return len(ks) >= (ks[-1] - ks[0] + 1) * 0.9
 
 
 def clean(block):
@@ -323,9 +400,10 @@ def main():
         ablocks = {}
         for p in ap:
             for sec in sections(paper, pdf_text(p, cache)):
-                for fn in (splitter, split_blocks_marked):
+                for fn in (splitter, split_blocks_marked, split_blocks_headed):
                     for k, v in fn(sec).items():
                         ablocks.setdefault(k, []).extend(v)
+        indexed = well_indexed(ablocks)
 
         for q in targets:
             n = int(str(q.get('id', '')).rsplit('-', 1)[-1])
@@ -341,21 +419,62 @@ def main():
                 continue
 
             good = []
+            # 细分每个候选块的淘汰原因，否则 no_clean_block 只是个黑盒，
+            # 没法判断该改清洗、改长度阈值还是改题面校验。
+            why = Counter()
             for b in ablocks.get(n, []):
                 t = clean(b)
                 hits = block_conclusions(t)
+                uniq = set(hits)
                 # 同一个结论可能既出现在块首标记里、又出现在正文「故正确答案为」，
                 # 去重后仍是 1 个才算干净。
-                uniq = set(hits)
-                if len(uniq) == 1 and MIN_LEN <= len(t) <= MAX_LEN and topical(t, q):
-                    good.append((t, hits[0]))
+                if len(uniq) == 0:
+                    why['无结论'] += 1
+                    continue
+                if len(uniq) > 1:
+                    why['多结论(串题)'] += 1
+                    continue
+                if len(t) < MIN_LEN:
+                    why['过短'] += 1
+                    continue
+                if len(t) > MAX_LEN:
+                    why['过长'] += 1
+                    continue
+                if not topical(t, q) and not indexed:
+                    why['题面对不上'] += 1
+                    continue
+                good.append((t, hits[0]))
+            # 三个切块器可能对同一题号切出多个块（粒度不同或范围重叠）。
+            # 结论一致时那只是同一段解析的不同切法，取最完整的；
+            # 结论不一致才是真歧义，交给 ambiguous_block 拦下。
+            if len(good) > 1 and len({c for _, c in good}) == 1:
+                good = [max(good, key=lambda x: len(x[0]))]
             if len(good) != 1:
                 rec['verdict'] = 'no_clean_block' if not good else 'ambiguous_block'
+                if not ablocks.get(n):
+                    why['解析PDF无此题号'] += 1
+                rec['why'] = dict(why)
                 stats[rec['verdict']] += 1
+                for k, v in why.items():
+                    stats[f'why:{k}'] += v
                 records.append(rec)
                 continue
 
             new, official = good[0]
+            # 本脚本的定位是「答案对、解析串了」，docstring 第 2 步要求块结论
+            # == 库里 answer —— 那才能推出「与之矛盾的现有 explanation 是串来的」。
+            # 结论不一致时说明这是另一码事（多为跨机构版本分歧），改答案需要
+            # 跨源佐证，不是这里该干的活，交给 fix_cross_paper_answers.py。
+            #
+            # 实测拦下的 3 道全是江苏 2022 的图形选项题：新旧解析都在完整论证
+            # 同一道题，只是结论不同，且选项是图无法独立复核。
+            if official != ans:
+                rec['verdict'] = 'answer_conflict'
+                rec['official_answer'] = official
+                stats['answer_conflict'] += 1
+                records.append(rec)
+                continue
+
             if norm(new) == norm(q.get('explanation')) and official == ans:
                 rec['verdict'] = 'same'
                 stats['same'] += 1
@@ -381,7 +500,7 @@ def main():
     print(f'两步锚定通过、可用官方解析替换：{stats["repair"]} 道'
           f'（其中 {stats["answer_also_fixed"]} 道 answer 同时被官方结论纠正）')
     for k in ('no_pdf', 'align_failed', 'stem_not_anchored', 'no_clean_block',
-              'ambiguous_block', 'same'):
+              'ambiguous_block', 'answer_conflict', 'same'):
         if stats[k]:
             print(f'  未修 {k:20} {stats[k]}')
     shown = 0

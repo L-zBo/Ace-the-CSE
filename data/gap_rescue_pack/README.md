@@ -27,6 +27,10 @@
   - `sources/cross_paper_answer_fix_2026-08-11.md`：用跨卷同题反查答案矛盾，回本卷 PDF 复核后订正 18 道答案的
     完整证据链与改动清单。附一条认知更正：`material/` 里的「答案及解析」PDF 是培训机构整理版，
     不同机构会给出相反答案，「PDF 与库内一致」不构成独立证据。
+  - `sources/explanation_block_cleanup_2026-08-11.md`：解析块清洗改进与剩余 100 道的根因诊断。
+    修掉 `repair_explanations_from_pdf.py` 一个与自身 docstring 不符的 bug（会擅自改 answer），
+    新增第三类排版切块器（4 种）与结论句式（7 种）。查明 `align_failed` 的死因是
+    「一个 JSON 混装多套卷」的数据模型缺陷，以及几份合集 PDF 文件名标着 2024 实际只到 2023。
   - `sources/*_xingguang.pdf` / `sources/*_xingguang.txt`：星光公考公开 PDF 及抽取文本，用于证明北京、吉林、甘肃、内蒙古的目标题号仍是占位。
   - `sources/shenlun_material_normalization_2026-06-18.md`：申论材料字段规范化说明与 PDF 回填前的 140 条缺口来源。
   - `sources/shenlun_material_pdf_rescue_2026-06-18.md`：本轮从本地 PDF 回源补齐 140 条申论 `material` 的方法、结果和迁移说明。

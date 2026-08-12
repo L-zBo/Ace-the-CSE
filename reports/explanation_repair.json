@@ -4,28 +4,41 @@
   "id": "institution-xingce-changshi-2020-a-005",
   "num": 5,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 3
+  }
  },
  {
   "paper": "institution_2020_a",
   "id": "institution-xingce-changshi-2020-a-020",
   "num": 20,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 2,
+   "无结论": 1
+  }
  },
  {
   "paper": "institution_2022_c",
   "id": "institution-xingce-changshi-2022-c-003",
   "num": 3,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "institution_2022_c",
   "id": "institution-xingce-changshi-2022-c-014",
   "num": 14,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "institution_2023_a",
@@ -39,43 +52,30 @@
   "id": "institution-xingce-changshi-2023-a-028",
   "num": 28,
   "answer": "C",
-  "verdict": "no_clean_block"
- },
- {
-  "paper": "institution_2023_e",
-  "id": "institution-xingce-changshi-2023-e-026",
-  "num": 26,
-  "answer": "C",
-  "verdict": "repair",
-  "old_len": 284,
-  "new_len": 522,
-  "new_head": "【答案】C\n\n  【解析】第一空，根据后文“尽管有一些种类，比如黄金树，野生种群数量较少，且分布较狭窄”可知，横\n\n  线处须体现梓属的大部分种类都被较多地、或分布很广地栽种之意。A 项“普遍”（存在",
-  "official_answer": "C"
- },
- {
-  "paper": "institution_2023_e",
-  "id": "institution-xingce-changshi-2023-e-028",
-  "num": 28,
-  "answer": "D",
-  "verdict": "repair",
-  "old_len": 207,
-  "new_len": 342,
-  "new_head": "【答案】D\n\n  【解析】第一空，根据“很多人在观影时都会不自觉地拿起手机拍摄银幕画面”可知，空处应和前文“不\n\n  自觉”构成相反对应，体现故意传播之意。C 项“主动”指自愿，D 项“刻意”指故意、",
-  "official_answer": "D"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 1
+  }
  },
  {
   "paper": "institution_2024_e",
   "id": "institution-xingce-changshi-2024-e-008",
   "num": 8,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "national_2021_fushengjia",
   "id": "national-xingce-changshi-2021-fushengjia-002",
   "num": 2,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "provincial_chongqing_2023",
@@ -92,56 +92,77 @@
   "id": "provincial-guangxi-xingce-changshi-2023-110",
   "num": 110,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 1
+  }
  },
  {
   "paper": "provincial_guizhou_2023",
   "id": "provincial-guizhou-xingce-changshi-2023-105",
   "num": 105,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 1
+  }
  },
  {
   "paper": "provincial_hainan_2020",
   "id": "provincial-hainan-xingce-changshi-2020-109",
   "num": 109,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "repair",
+  "old_len": 317,
+  "new_len": 790,
+  "new_head": "正确答案：A，全站正确率：33%，易错项：C。\n\n解析\n\n第一步，本题考查常识。\n第二步，锂离子电池是一种二次电池（充电电池），它主要依靠锂离子在正极和负极之间移动来工作。锂离子电\n池是目前性能最好的",
+  "official_answer": "A"
  },
  {
   "paper": "provincial_hainan_2023",
   "id": "provincial-hainan-xingce-changshi-2023-110",
   "num": 110,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 1
+  }
  },
  {
   "paper": "provincial_heilongjiang_2024",
   "id": "provincial-heilongjiang-xingce-changshi-2024-015",
   "num": 15,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "C"
  },
  {
   "paper": "provincial_heilongjiang_2024",
   "id": "provincial-heilongjiang-xingce-changshi-2024-020",
   "num": 20,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "D"
  },
  {
   "paper": "provincial_hunan_2023",
   "id": "provincial-hunan-xingce-changshi-2023-110",
   "num": 110,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 1
+  }
  },
  {
   "paper": "provincial_jilin_2024",
   "id": "provincial-jilin-xingce-changshi-2024-015",
   "num": 15,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 2
+  }
  },
  {
   "paper": "provincial_neimenggu_2022",
@@ -158,14 +179,18 @@
   "id": "provincial-qinghai-xingce-changshi-2023-115",
   "num": 115,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 1
+  }
  },
  {
   "paper": "provincial_shanghai_2020",
   "id": "provincial-shanghai-xingce-changshi-2020-120",
   "num": 120,
   "answer": "B",
-  "verdict": "ambiguous_block"
+  "verdict": "answer_conflict",
+  "official_answer": "BD"
  },
  {
   "paper": "provincial_shanghai_2020",
@@ -179,7 +204,10 @@
   "id": "provincial-yunnan-xingce-changshi-2023-095",
   "num": 95,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 1
+  }
  },
  {
   "paper": "provincial_zhejiang_2023",
@@ -219,21 +247,31 @@
   "id": "institution-xingce-panduan-2022-b-067",
   "num": 67,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "repair",
+  "old_len": 706,
+  "new_len": 275,
+  "new_head": "【答案】C\n\n  【解析】第一步：找出定义关键词。\n\n  “捕捉设备（感应器）对目标影像（如参与者等）进行捕捉拍摄”、“由影像分析系统分析”、“产生被捕\n\n  捉物体的动作”、“该动作数据结合实时影像",
+  "official_answer": "C"
  },
  {
   "paper": "institution_2022_b",
   "id": "institution-xingce-panduan-2022-b-091",
   "num": 91,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 1
+  }
  },
  {
   "paper": "institution_2022_c",
   "id": "institution-xingce-panduan-2022-c-081",
   "num": 81,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 1
+  }
  },
  {
   "paper": "institution_2022_c",
@@ -254,7 +292,10 @@
   "id": "institution-xingce-panduan-2023-b-079",
   "num": 79,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 1
+  }
  },
  {
   "paper": "institution_2023_b",
@@ -268,28 +309,41 @@
   "id": "institution-xingce-panduan-2023-e-094",
   "num": 94,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 1,
+   "无结论": 1
+  }
  },
  {
   "paper": "institution_2024_a",
   "id": "institution-xingce-panduan-2024-a-085",
   "num": 85,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "institution_2024_b",
   "id": "institution-xingce-panduan-2024-b-091",
   "num": 91,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "institution_2024_e",
   "id": "institution-xingce-panduan-2024-e-089",
   "num": 89,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "provincial_beijing_2020",
@@ -306,7 +360,10 @@
   "id": "provincial-hebei-xingce-panduan-2024-076",
   "num": 76,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 2
+  }
  },
  {
   "paper": "provincial_heilongjiang_2024",
@@ -325,14 +382,16 @@
   "id": "provincial-jiangsu-xingce-panduan-2022-070",
   "num": 70,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "ambiguous_block",
+  "why": {}
  },
  {
   "paper": "provincial_jiangsu_2022",
   "id": "provincial-jiangsu-xingce-panduan-2022-110",
   "num": 110,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "ambiguous_block",
+  "why": {}
  },
  {
   "paper": "provincial_jiangsu_2024",
@@ -396,21 +455,31 @@
   "id": "institution-xingce-shuliang-2022-a-058",
   "num": 58,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "institution_2022_e",
   "id": "institution-xingce-shuliang-2022-e-046",
   "num": 46,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "无结论": 1,
+   "题面对不上": 1
+  }
  },
  {
   "paper": "provincial_henan_2021",
   "id": "provincial-henan-xingce-shuliang-2021-061",
   "num": 61,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "provincial_jiangsu_2022",
@@ -461,17 +530,6 @@
   "verdict": "stem_not_anchored"
  },
  {
-  "paper": "institution_2021_b",
-  "id": "institution-xingce-yanyu-2021-b-030",
-  "num": 30,
-  "answer": "B",
-  "verdict": "repair",
-  "old_len": 402,
-  "new_len": 485,
-  "new_head": "【答案】B\n\n  【解析】第一空，根据横线前“种种不确定性”及横线后“后果往往难以预料”可知，横线处应体现形势发\n\n  展不断变化、且难以预料之意。A 项“变幻莫测”指事物变化很多不能预料，变化多端，",
-  "official_answer": "B"
- },
- {
   "paper": "institution_2022_a",
   "id": "institution-xingce-yanyu-2022-a-021",
   "num": 21,
@@ -483,21 +541,30 @@
   "id": "institution-xingce-yanyu-2022-e-024",
   "num": 24,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "institution_2023_c",
   "id": "institution-xingce-yanyu-2023-c-056",
   "num": 56,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "national_2021_fushengjia",
   "id": "national-xingce-yanyu-2021-fushengjia-047",
   "num": 47,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "provincial_heilongjiang_2021",
@@ -514,7 +581,10 @@
   "id": "provincial-jilin-xingce-yanyu-2024-026",
   "num": 26,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "题面对不上": 2
+  }
  },
  {
   "paper": "provincial_shandong_2025",
@@ -540,35 +610,42 @@
   "id": "institution-xingce-ziliao-2020-c-052",
   "num": 52,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "解析PDF无此题号": 1
+  }
  },
  {
   "paper": "national_2016_dishi",
   "id": "national-xingce-ziliao-2016-dishi-111",
   "num": 111,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "B"
  },
  {
   "paper": "national_2016_dishi",
   "id": "national-xingce-ziliao-2016-dishi-118",
   "num": 118,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "B"
  },
  {
   "paper": "national_2016_dishi",
   "id": "national-xingce-ziliao-2016-dishi-127",
   "num": 127,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "B"
  },
  {
   "paper": "national_2016_dishi",
   "id": "national-xingce-ziliao-2016-dishi-128",
   "num": 128,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "C"
  },
  {
   "paper": "provincial_fujian_2023",
@@ -580,35 +657,42 @@
   "id": "provincial-gansu-xingce-ziliao-2023-115",
   "num": 115,
   "answer": "A",
-  "verdict": "no_clean_block"
+  "verdict": "answer_conflict",
+  "official_answer": "AD"
  },
  {
   "paper": "provincial_hebei_2024",
   "id": "provincial-hebei-xingce-ziliao-2024-124",
   "num": 124,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "no_clean_block",
+  "why": {
+   "多结论(串题)": 2
+  }
  },
  {
   "paper": "provincial_jiangsu_2022",
   "id": "provincial-jiangsu-xingce-ziliao-2022-112",
   "num": 112,
   "answer": "D",
-  "verdict": "no_clean_block"
+  "verdict": "ambiguous_block",
+  "why": {}
  },
  {
   "paper": "provincial_jiangsu_2022",
   "id": "provincial-jiangsu-xingce-ziliao-2022-114",
   "num": 114,
   "answer": "C",
-  "verdict": "no_clean_block"
+  "verdict": "ambiguous_block",
+  "why": {}
  },
  {
   "paper": "provincial_jiangsu_2022",
   "id": "provincial-jiangsu-xingce-ziliao-2022-123",
   "num": 123,
   "answer": "B",
-  "verdict": "no_clean_block"
+  "verdict": "ambiguous_block",
+  "why": {}
  },
  {
   "paper": "provincial_jiangsu_2024",

@@ -847,6 +847,19 @@
       "questions": 18,
       "notes": "副产品：answer_vs_explanation 91 -> 99，非新增缺陷，而是暴露出 8 道原本「答案与解析配套地抄自同一段串题解析」的隐藏问题（如 provincial_fujian_2023#009 的解析实为一道言语题残片）。解析回填另行处理。",
       "evidenceDoc": "sources/cross_paper_answer_fix_2026-08-11.md"
+    },
+    {
+      "batch": "2026-08-11b-explanation-block-cleanup",
+      "kind": "mechanical_correction",
+      "summary": "解析块清洗改进：回填 2 条串题/截断解析，answer_vs_explanation 96 -> 94；no_clean_block 45 -> 31。主要产出是剩余 100 道的根因诊断。",
+      "tools": [
+        "python scripts/repair_explanations_from_pdf.py --apply"
+      ],
+      "evidenceChain": "沿用脚本原有两步锚定（真题 PDF 编号+题干锚定、解析块结论==库内 answer），本轮补上第二步的强制校验——原代码没执行 docstring 承诺的「块结论==库内 answer」，还会擅自改 answer，实测拦下 8 道（其中 3 道是江苏 2022 图形选项题的跨机构版本分歧）。新增能力：结论句式 2->7 种；第三类排版切块器覆盖「第【N】题正确答案:【X】」等 4 种；题号完整连续（起于1、数量>=30、断号<10%）时放宽题面校验；同题号多块结论一致时取最完整的。",
+      "changedFiles": 2,
+      "questions": 2,
+      "notes": "根因诊断：align_failed 20 道死于「一个 JSON 混装多套卷」的数据模型缺陷（浙江2023/江苏2022/深圳2020 官方各有A/B/C三份卷）；合集 PDF 缺该年份 4 道（叫「2018年-2024年」的事业编解析 PDF 实际只到 2023，institution_2024_e 全文「2024」出现 0 次）；PDF 无文字层 3 道（扫描件 441/662 字）。下一步价值最高的是拆卷，而非继续调解析正则。",
+      "evidenceDoc": "sources/explanation_block_cleanup_2026-08-11.md"
     }
   ]
 }
