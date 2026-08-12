@@ -4,7 +4,7 @@ import { cn } from '@/lib/utils';
 /**
  * Badge — 状态徽章 / tag chip
  *
- * 见 DESIGN.md §4。语义色徽章 + 卷面色徽章。
+ * 见 docs/DESIGN.md §4。语义色徽章 + 卷面色徽章。
  */
 
 export type BadgeVariant =

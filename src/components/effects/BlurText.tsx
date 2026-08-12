@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils';
 /**
  * BlurText — 文字 blur → clear 入场动效
  *
- * 见 DESIGN.md §5.2。题目切换 / hero 标题给一点期待感。
+ * 见 docs/DESIGN.md §5.2。题目切换 / hero 标题给一点期待感。
  * 字逐个 stagger，blur 8px → 0，y +12 → 0。
  *
  * 注意：尊重 prefers-reduced-motion（globals.css 已全局兜底，

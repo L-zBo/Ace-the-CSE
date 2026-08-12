@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils';
 /**
  * EmptyState — 空状态
  *
- * 见 DESIGN.md §4.4。错题本空、统计空、筛选无结果时显示。
+ * 见 docs/DESIGN.md §4.4。错题本空、统计空、筛选无结果时显示。
  * 必须有 icon + title + description，可选 CTA。
  */
 

@@ -188,6 +188,28 @@ python scripts/fix_source_label_region.py  # sourceLabel 拼音省份改中文 /
 | `/knowledge` | 常识 |
 | `/image-notes` | 图片笔记 |
 
+## 仓库结构
+
+根目录**只放工具链强制要求的 13 个文件**（`package.json` / `next.config.ts` /
+`tsconfig.json` / `postcss.config.mjs` / `eslint.config.mjs` / `capacitor.config.ts`
+/ `next-env.d.ts` / `.gitignore` / `README.md` / `AGENTS.md` / `CLAUDE.md` /
+`package-lock.json` / `start.bat`），其余一律归目录。白名单与理由见 `AGENTS.md`。
+
+```
+├── src/         源码（见下节）
+├── public/      静态资源，题图在 public/img/questions/<examKey>/qNNN.png
+├── docs/        项目文档：DESIGN.md（视觉真相源）DEV_PERFORMANCE.md study-plan-2027.md
+├── scripts/     Python 工具链：抽题 / 审计 / 索引生成 / 数据救援 / 浏览器验证
+├── reports/     审计与报告产物（audit_full.json、audit_figures.*、跨卷矛盾工单）
+├── data/        题库中间数据、救援包 gap_rescue_pack/、抓取缓存（入库仅 17 项）
+├── archive/     旧迭代产物，细分规约见 archive/README.md
+├── tests/       测试
+├── android/     Capacitor 安卓壳
+└── material/    PDF 真题源（5GB+，磁盘留底不入库）
+```
+
+新增文件前先对照 `AGENTS.md` 的「根目录白名单」找归宿，别往根上堆。
+
 ## 源码结构
 
 ```
@@ -212,7 +234,7 @@ src/
 
 ## 设计系统
 
-改 UI 前**先读 `DESIGN.md`**（388 行）。它是视觉真相源：与代码冲突时以文档为准，
+改 UI 前**先读 `docs/DESIGN.md`**（388 行）。它是视觉真相源：与代码冲突时以文档为准，
 改代码不改文档。
 
 - 墨蓝 `--brand-*` 11 阶（主色 `--brand-600` `#1e3a5f`）

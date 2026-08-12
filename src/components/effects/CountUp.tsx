@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils';
 /**
  * CountUp — 数字滚动到目标值
  *
- * 见 DESIGN.md §5.3。统计页 / 首页今日数据数字滚动。
+ * 见 docs/DESIGN.md §5.3。统计页 / 首页今日数据数字滚动。
  * easeOutCubic 800ms（短促有节制，不刷屏）。
  */
 

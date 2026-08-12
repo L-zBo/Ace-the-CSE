@@ -15,9 +15,9 @@ import { CheckCircle2, AlertTriangle, Info, X, XCircle } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 /**
- * Toast — 右上角轻量反馈浮层（DESIGN.md §4.4 / §3.4 z-[60]）
+ * Toast — 右上角轻量反馈浮层（docs/DESIGN.md §4.4 / §3.4 z-[60]）
  *
- * DESIGN.md 一直把 Toast 列为「缺基础组件」。删错题、清空记录这类操作做完
+ * docs/DESIGN.md 一直把 Toast 列为「缺基础组件」。删错题、清空记录这类操作做完
  * 之后页面只是静悄悄少一行，用户不知道到底成没成 —— 这个组件补的就是这段。
  *
  * 用法：

@@ -4,7 +4,7 @@ import { cn } from '@/lib/utils';
 /**
  * Skeleton — 加载占位
  *
- * 见 DESIGN.md §4.4。脉冲动画占位，替代白屏加载。
+ * 见 docs/DESIGN.md §4.4。脉冲动画占位，替代白屏加载。
  *
  * 用法：
  *   <Skeleton className="h-4 w-full" />

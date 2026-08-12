@@ -1,7 +1,7 @@
 /**
  * Ace-the-CSE Effects — react-bits 风格点睛动效
  *
- * 见 DESIGN.md §5 动效原则。仅在「值得」的位置用，避免眩晕。
+ * 见 docs/DESIGN.md §5 动效原则。仅在「值得」的位置用，避免眩晕。
  */
 
 export { BlurText } from './BlurText';

@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils';
 /**
  * Button — 卷面气质按钮
  *
- * 见 DESIGN.md §4.1。3 variant × 3 size + loading + 触控 ≥ 44x44。
+ * 见 docs/DESIGN.md §4.1。3 variant × 3 size + loading + 触控 ≥ 44x44。
  */
 export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'danger' | 'seal';
 export type ButtonSize = 'sm' | 'md' | 'lg';

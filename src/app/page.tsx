@@ -64,7 +64,7 @@ const examBanks: ExamBank[] = [
 ];
 
 // 卷面气质色系（清除原 Tailwind 通用色 violet/fuchsia/rose/pink/cyan/teal）
-// 见 DESIGN.md §1.6 严禁使用 + §1.1 主色 / §1.2 语义色
+// 见 docs/DESIGN.md §1.6 严禁使用 + §1.1 主色 / §1.2 语义色
 // 分组：核心刷题(墨蓝家族) · 内容积累(翠绿/朱砂) · 数据管理(印章红/青/金) · 资讯(暖橙)
 const features = [
   {

@@ -5,7 +5,7 @@ import { cn } from '@/lib/utils';
 /**
  * ShinyText — 印章红强调字 + 光泽扫过动效
  *
- * 见 DESIGN.md §5。重点字 / hero 副标 / 重要提示用。
+ * 见 docs/DESIGN.md §5。重点字 / hero 副标 / 重要提示用。
  * 仅 CSS 动效，无 JS 开销。
  *
  * 注意：颜色基底用印章红渐变，光泽走顶层 mask 扫过。

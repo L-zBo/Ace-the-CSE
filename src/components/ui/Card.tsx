@@ -4,7 +4,7 @@ import { cn } from '@/lib/utils';
 /**
  * Card 系列 — 卷面气质卡片
  *
- * 见 DESIGN.md §4.2。玻璃态底（bg-card backdrop-blur-md），hover 抬升。
+ * 见 docs/DESIGN.md §4.2。玻璃态底（bg-card backdrop-blur-md），hover 抬升。
  *
  * 用法：
  *   <Card interactive>

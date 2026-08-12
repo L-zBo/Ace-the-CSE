@@ -1,7 +1,7 @@
 /**
  * Ace-the-CSE UI Kit — 卷面气质原子组件库
  *
- * 见 DESIGN.md §4 组件原则。
+ * 见 docs/DESIGN.md §4 组件原则。
  * 用法：import { Button, Card, Badge } from '@/components/ui';
  */
 
